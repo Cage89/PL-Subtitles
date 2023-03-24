@@ -14,7 +14,7 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |10|112|checked|Whisper|
 |10|rest|transcribed, not checked|Whisper|
 |11|-|transcribed, not checked|Whisper|
-|12|-|some eps transcribed, not checked|Whisper|
+|12|-|transcribed, not checked|Whisper|
 |13|-|not uploaded||
 |14|-|not uploaded||
 |15|-|not uploaded||
