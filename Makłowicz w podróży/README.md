@@ -2,11 +2,11 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 
 |Season|Episode|Status|Source|
 |---|---|---|---|
-|1|-|not uploaded||
-|2|-|not uploaded||
-|3|-|not uploaded||
-|4|-|not uploaded||
-|5|-|not uploaded||
+|1|-|transcribed, not checked|Whisper|
+|2|-|transcribed, not checked|Whisper|
+|3|-|transcribed, not checked|Whisper|
+|4|-|transcribed, not checked|Whisper|
+|5|-|partially transcribed, not checked|Whisper|
 |6|-|not uploaded||
 |7|-|not uploaded||
 |8|-|not uploaded||
