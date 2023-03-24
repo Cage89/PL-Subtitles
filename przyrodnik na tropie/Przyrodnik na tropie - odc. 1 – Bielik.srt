@@ -1,0 +1,1437 @@
+1
+00:00:20,240 --> 00:00:24,040
+<font color="aqua">Animalistę do działania</font>
+<font color="aqua">napędza dzika przyroda.</font>
+
+2
+00:00:24,200 --> 00:00:27,200
+<font color="aqua">Częściej przedziera się</font>
+<font color="aqua">przez krzaki</font>
+
+3
+00:00:27,360 --> 00:00:30,680
+<font color="aqua">niż przez tłum ludzi</font>
+<font color="aqua">pędzących do pracy.</font>
+
+4
+00:00:30,840 --> 00:00:35,920
+<font color="aqua">Na plaży nie rozstawia parawanu.</font>
+<font color="aqua">Rozpoznaje przelatujące ptaki.</font>
+
+5
+00:00:36,080 --> 00:00:39,080
+<font color="aqua">W korycie rzeki</font>
+<font color="aqua">staje się kępą trawy.</font>
+
+6
+00:00:39,240 --> 00:00:42,400
+<font color="aqua">Nie rozstaje się z lornetką</font>
+<font color="aqua">i aparatem.</font>
+
+7
+00:00:43,480 --> 00:00:47,560
+<font color="aqua">Przed wami Łukasz Bożycki</font>
+<font color="aqua">- przyrodnik na tropie.</font>
+
+8
+00:00:48,600 --> 00:00:52,240
+<font color="#FFFF51">Wszystko, co mnie otacza,</font>
+<font color="#FFFF51">rośliny i zwierzęta,</font>
+
+9
+00:00:52,400 --> 00:00:54,160
+<font color="#FFFF51">są ze sobą powiązane.</font>
+
+10
+00:00:54,320 --> 00:00:57,320
+<font color="#FFFF51">Mogą współpracować</font>
+<font color="#FFFF51">albo się zwalczać.</font>
+
+11
+00:00:57,480 --> 00:01:00,880
+<font color="#FFFF51">Mogą się ostrzegać</font>
+<font color="#FFFF51">albo na siebie polować.</font>
+
+12
+00:01:01,040 --> 00:01:04,840
+<font color="#FFFF51">Cała przyroda jest systemem</font>
+<font color="#FFFF51">naczyń połączonych.</font>
+
+13
+00:01:05,000 --> 00:01:09,160
+<font color="#FFFF51">Zaburzenie jednego elementu</font>
+<font color="#FFFF51">może mieć konsekwencje</font>
+
+14
+00:01:09,320 --> 00:01:12,200
+<font color="#FFFF51">przeniesione w czasie</font>
+<font color="#FFFF51">i przestrzeni.</font>
+
+15
+00:01:12,360 --> 00:01:15,600
+<font color="#FFFF51">Przyroda jest połączona</font>
+<font color="#FFFF51">siecią powiązań,</font>
+
+16
+00:01:15,760 --> 00:01:18,760
+<font color="#FFFF51">które będziemy</font>
+<font color="#FFFF51">dopasowywać do siebie.</font>
+
+17
+00:01:19,120 --> 00:01:23,200
+<font color="#FFFF51">Dowiemy się, gdzie jest granica</font>
+<font color="#FFFF51">wierności łabędzi,</font>
+
+18
+00:01:23,360 --> 00:01:25,680
+<font color="#FFFF51">co wszy przyniosły ludzkości</font>
+
+19
+00:01:25,840 --> 00:01:30,000
+<font color="#FFFF51">i dlaczego kawia domowa</font>
+<font color="#FFFF51">nie jest już świnką morską.</font>
+
+20
+00:01:30,160 --> 00:01:31,960
+<font color="#FFFF51">Przygodę czas zacząć.</font>
+
+21
+00:01:37,560 --> 00:01:40,960
+<font color="aqua">Przed wiekami</font>
+<font color="aqua">widziano go po raz pierwszy.</font>
+
+22
+00:01:41,120 --> 00:01:46,000
+<font color="aqua">Było to w czasach,</font>
+<font color="aqua">gdy ziemie między Wisłą i Odrą</font>
+
+23
+00:01:46,160 --> 00:01:48,840
+<font color="aqua">pokrywały nieprzebyte bory,</font>
+
+24
+00:01:49,000 --> 00:01:54,480
+<font color="aqua">w których łatwiej było spotkać tura</font>
+<font color="aqua"> czy niedźwiedzia niż myśliwego.</font>
+
+25
+00:01:57,200 --> 00:02:01,440
+<font color="#FFFF51">Jak głosi legenda,</font>
+<font color="#FFFF51">widzieli go trzej rodzeni bracia.</font>
+
+26
+00:02:01,600 --> 00:02:05,000
+<font color="#FFFF51">Pogodny Lech, bystry Czech</font>
+<font color="#FFFF51">i milczący Rus.</font>
+
+27
+00:02:05,160 --> 00:02:10,320
+<font color="#FFFF51">Zobaczyli go, gdy puszcza ustąpiła</font>
+<font color="#FFFF51">miejsca pagórkom i jeziorom.</font>
+
+28
+00:02:10,480 --> 00:02:15,280
+<font color="#FFFF51">Ich oczom ukazał się potężny dąb,</font>
+<font color="#FFFF51">a na nim ogromne gniazdo.</font>
+
+29
+00:02:17,360 --> 00:02:22,760
+<font color="#FFFF51">Gdy zaczęli zbliżać się do gniazda,</font>
+<font color="#FFFF51">zauważyli, że jest w nim ptak.</font>
+
+30
+00:02:22,920 --> 00:02:27,480
+<font color="#FFFF51">Podniósł się, rozłożył skrzydła</font>
+<font color="#FFFF51">i wzbił się w powietrze.</font>
+
+31
+00:02:27,640 --> 00:02:30,520
+<font color="#FFFF51">Było to na tle zachodzącego słońca.</font>
+
+32
+00:02:30,680 --> 00:02:33,840
+<font color="#FFFF51">Kim był ten ptak,</font>
+<font color="#FFFF51">dowiemy się niebawem.</font>
+
+33
+00:02:34,000 --> 00:02:37,480
+<font color="#FFFF51">A jego gniazdo</font>
+<font color="#FFFF51">możemy zobaczyć tam, wysoko.</font>
+
+34
+00:02:46,480 --> 00:02:49,640
+<font color="aqua">Nie ma w Polsce</font>
+<font color="aqua">drugiego takiego ptaka.</font>
+
+35
+00:02:49,800 --> 00:02:54,160
+<font color="aqua">Wrażenie wywołuje</font>
+<font color="aqua">rozpiętość skrzydeł - 2,5 metra.</font>
+
+36
+00:02:54,320 --> 00:02:56,960
+<font color="aqua">Skrzydła są palczasto zakończone</font>
+
+37
+00:02:57,120 --> 00:03:00,000
+<font color="aqua">a kształtem</font>
+<font color="aqua">przypominają dwie deski</font>
+
+38
+00:03:00,160 --> 00:03:02,560
+<font color="aqua">przyczepione po bokach ciała.</font>
+
+39
+00:03:02,720 --> 00:03:05,600
+<font color="aqua">Nasz bohater,</font>
+<font color="aqua">zwłaszcza ten dorosły,</font>
+
+40
+00:03:05,760 --> 00:03:09,080
+<font color="aqua">staje się na głowie,</font>
+<font color="aqua">szyi i piersi jasny.</font>
+
+41
+00:03:09,240 --> 00:03:13,240
+<font color="aqua">Masywny złotożółty dziób</font>
+<font color="aqua">widoczny jest z daleka.</font>
+
+42
+00:03:13,400 --> 00:03:16,120
+<font color="aqua">W tym samym kolorze są jego nogi.</font>
+
+43
+00:03:16,280 --> 00:03:20,080
+<font color="aqua">Możemy to łatwo stwierdzić,</font>
+<font color="aqua">bo są nieopierzone.</font>
+
+44
+00:03:21,960 --> 00:03:24,480
+<font color="aqua">W miejscu mitycznego spotkania</font>
+
+45
+00:03:24,640 --> 00:03:29,200
+<font color="aqua">Lech powstrzymał Rusa</font>
+<font color="aqua">przed zastrzeleniem ptaka z łuku.</font>
+
+46
+00:03:29,360 --> 00:03:31,680
+<font color="aqua">Uznał spotkanie za znak.</font>
+
+47
+00:03:31,920 --> 00:03:34,320
+<font color="aqua">Postanowił w tym miejscu osiąść,</font>
+
+48
+00:03:34,480 --> 00:03:38,400
+<font color="aqua">zakładając osadę,</font>
+<font color="aqua">która stanie się później Gnieznem.</font>
+
+49
+00:03:38,560 --> 00:03:41,120
+<font color="aqua">A ptak powędrował na jego herb.</font>
+
+50
+00:03:41,280 --> 00:03:44,600
+<font color="aqua">Zgadliście,</font>
+<font color="aqua">kto będzie bohaterem odcinka?</font>
+
+51
+00:03:44,760 --> 00:03:48,520
+<font color="aqua">Tak, dobrze się domyślacie.</font>
+<font color="aqua">Jest to bielik.</font>
+
+52
+00:04:08,920 --> 00:04:12,640
+<font color="#FFFF51">Zanim wybierzecie się</font>
+<font color="#FFFF51">na poszukiwanie bielika,</font>
+
+53
+00:04:12,800 --> 00:04:16,360
+<font color="#FFFF51">warto wiedzieć</font>
+<font color="#FFFF51">o kilku ważnych informacjach.</font>
+
+54
+00:04:16,520 --> 00:04:19,520
+<font color="#FFFF51">Według monitoringu</font>
+<font color="#FFFF51">ptaków drapieżnych</font>
+
+55
+00:04:19,680 --> 00:04:22,320
+<font color="#FFFF51">w Polsce żyje 1000 par bielików.</font>
+
+56
+00:04:22,480 --> 00:04:25,360
+<font color="#FFFF51">To dużo czy mało?</font>
+<font color="#FFFF51">Ciężko powiedzieć.</font>
+
+57
+00:04:25,520 --> 00:04:29,160
+<font color="#FFFF51">Ale w latach 80.</font>
+<font color="#FFFF51">było w Polsce tylko 120 par.</font>
+
+58
+00:04:29,320 --> 00:04:33,800
+<font color="#FFFF51">Ten wzrost zawdzięczamy temu,</font>
+<font color="#FFFF51">że zaczęliśmy go chronić.</font>
+
+59
+00:04:33,960 --> 00:04:39,200
+<font color="#FFFF51">Przestaliśmy do niego strzelać</font>
+<font color="#FFFF51">i stosować środki ochrony roślin,</font>
+
+60
+00:04:39,360 --> 00:04:43,240
+<font color="#FFFF51">np. pestycydy,</font>
+<font color="#FFFF51">które potrafiły te ptaki zabijać.</font>
+
+61
+00:04:43,400 --> 00:04:46,280
+<font color="#FFFF51">Może bielik</font>
+<font color="#FFFF51">trochę sam sobie pomógł,</font>
+
+62
+00:04:46,440 --> 00:04:50,080
+<font color="#FFFF51">bo zaakceptował człowieka</font>
+<font color="#FFFF51">w swoim środowisku.</font>
+
+63
+00:04:50,240 --> 00:04:54,560
+<font color="#FFFF51">Zaczął zakładać gniazda</font>
+<font color="#FFFF51">przy drogach, na skraju lasu.</font>
+
+64
+00:04:54,720 --> 00:04:56,520
+<font color="#FFFF51">Niektóre pary bielików</font>
+
+65
+00:04:56,680 --> 00:05:01,240
+<font color="#FFFF51">są w stanie nawet zaglądać</font>
+<font color="#FFFF51">przez okna do pokoi rolników.</font>
+
+66
+00:05:04,200 --> 00:05:08,840
+<font color="#FFFF51">Terytoria bielików obejmują</font>
+<font color="#FFFF51">od 50 do 400 km kwadratowych.</font>
+
+67
+00:05:09,000 --> 00:05:12,080
+<font color="#FFFF51">Średnio to około</font>
+<font color="#FFFF51">130 km kwadratowych,</font>
+
+68
+00:05:12,240 --> 00:05:15,120
+<font color="#FFFF51">co oznacza,</font>
+<font color="#FFFF51">że na terytorium Radomia</font>
+
+69
+00:05:15,280 --> 00:05:17,840
+<font color="#FFFF51">spotkalibyśmy tylko jedną parę.</font>
+
+70
+00:05:18,160 --> 00:05:22,040
+<font color="#FFFF51">Gdzie szukać bielika?</font>
+<font color="#FFFF51">W takich miejscach jak to.</font>
+
+71
+00:05:22,200 --> 00:05:26,760
+<font color="#FFFF51">Gdzie są trzciny, woda i lasy.</font>
+<font color="#FFFF51">Tam może budować gniazda.</font>
+
+72
+00:05:26,920 --> 00:05:30,720
+<font color="#FFFF51">Nad wodą i w trzcinach</font>
+<font color="#FFFF51">poluje na kaczki i ryby.</font>
+
+73
+00:05:30,880 --> 00:05:34,440
+<font color="#FFFF51">Gdzie takich miejsc</font>
+<font color="#FFFF51">jest najwięcej w Polsce?</font>
+
+74
+00:05:34,600 --> 00:05:36,480
+<font color="#FFFF51">W północnej jej części.</font>
+
+75
+00:05:36,640 --> 00:05:40,720
+<font color="#FFFF51">Na Mazurach i Warmii</font>
+<font color="#FFFF51">oraz wzdłuż wybrzeża Bałtyku.</font>
+
+76
+00:05:41,760 --> 00:05:43,640
+<font color="#8080FF">KRZYK BIELIKA</font>
+
+77
+00:05:54,240 --> 00:05:57,960
+<font color="aqua">Co łączy bielika z rybami?</font>
+<font color="aqua">To chyba oczywiste.</font>
+
+78
+00:05:58,120 --> 00:06:01,000
+<font color="aqua">To jedne</font>
+<font color="aqua">z najczęstszych jego ofiar.</font>
+
+79
+00:06:01,160 --> 00:06:04,040
+<font color="#FFFF51">Ryby są najczęstszą ofiarą</font>
+<font color="#FFFF51">bielików,</font>
+
+80
+00:06:04,200 --> 00:06:07,920
+<font color="#FFFF51">które opanowały polowanie na nie</font>
+<font color="#FFFF51">do perfekcji.</font>
+
+81
+00:06:08,080 --> 00:06:10,400
+<font color="#FFFF51">Wzbijają się wysoko do góry,</font>
+
+82
+00:06:10,560 --> 00:06:14,440
+<font color="#FFFF51">by widzieć lustro wody</font>
+<font color="#FFFF51">i pływające pod nim ryby.</font>
+
+83
+00:06:14,720 --> 00:06:18,120
+<font color="#FFFF51">Najczęściej polują</font>
+<font color="#FFFF51">na szczupaki i leszcze,</font>
+
+84
+00:06:18,280 --> 00:06:23,160
+<font color="#FFFF51">które chorując na grzybicę,</font>
+<font color="#FFFF51">nie mogą głęboko się zanurzyć.</font>
+
+85
+00:06:27,320 --> 00:06:30,200
+<font color="aqua">Bieliki nie impregnują swoich piór.</font>
+
+86
+00:06:30,360 --> 00:06:34,160
+<font color="aqua">Uwielbiają sytuację,</font>
+<font color="aqua">kiedy mogą chwycić rybę,</font>
+
+87
+00:06:34,320 --> 00:06:37,640
+<font color="aqua">zanurzając w wodzie</font>
+<font color="aqua">jedynie swoje szpony.</font>
+
+88
+00:06:39,440 --> 00:06:44,080
+<font color="#FFFF51">Bieliki grasują też na stawach,</font>
+<font color="#FFFF51">gdzie hodowane są karpie.</font>
+
+89
+00:06:44,240 --> 00:06:49,320
+<font color="#FFFF51">Od wielu lat krąży opinia,</font>
+<font color="#FFFF51">że karpie to gatunek nasz, rodzimy.</font>
+
+90
+00:06:49,480 --> 00:06:54,040
+<font color="#FFFF51">Nie jest to prawdą. W naszym</font>
+<font color="#FFFF51">klimacie woda jest za zimna</font>
+
+91
+00:06:54,200 --> 00:06:56,840
+<font color="#FFFF51">i karpie nie mogą się rozmnażać.</font>
+
+92
+00:06:57,000 --> 00:07:02,400
+<font color="#FFFF51">Wszystkie osobniki na wolności</font>
+<font color="#FFFF51">pochodzą ze sztucznego zarybienia.</font>
+
+93
+00:07:02,560 --> 00:07:06,040
+<font color="#FFFF51">Karp jest gatunkiem obcym</font>
+<font color="#FFFF51">dla naszej fauny.</font>
+
+94
+00:07:06,200 --> 00:07:09,760
+<font color="aqua">Bielik chwyta ryby</font>
+<font color="aqua">tylko z powierzchni wody.</font>
+
+95
+00:07:09,920 --> 00:07:14,720
+<font color="aqua">Rybołów poluje na ryby</font>
+<font color="aqua">pływające znacznie głębiej.</font>
+
+96
+00:07:23,840 --> 00:07:27,840
+<font color="#FFFF51">Wstałem o 3.00 w nocy,</font>
+<font color="#FFFF51">aby o 4.00 być w czatowni.</font>
+
+97
+00:07:28,000 --> 00:07:32,800
+<font color="#FFFF51">Ukrywam się przed rybołowem,</font>
+<font color="#FFFF51">żeby spokojnie się zachowywał.</font>
+
+98
+00:07:32,960 --> 00:07:37,360
+<font color="#FFFF51">To ważne, bo jest bardziej</font>
+<font color="#FFFF51">płochliwy niż inne gatunki.</font>
+
+99
+00:07:37,520 --> 00:07:40,400
+<font color="#FFFF51">Wybrałem to miejsce</font>
+<font color="#FFFF51">głównie dlatego,</font>
+
+100
+00:07:40,560 --> 00:07:43,200
+<font color="#FFFF51">bo jest tu duże, czyste jezioro.</font>
+
+101
+00:07:43,560 --> 00:07:48,280
+<font color="#FFFF51">Jest ono płytkie, zasobne w ryby,</font>
+<font color="#FFFF51">a dookoła jest duży las,</font>
+
+102
+00:07:48,440 --> 00:07:52,320
+<font color="#FFFF51">z którego rybołów korzysta,</font>
+<font color="#FFFF51">gdy zakłada gniazda.</font>
+
+103
+00:07:52,480 --> 00:07:56,280
+<font color="#FFFF51">Liczyłem, że będę miał okazję</font>
+<font color="#FFFF51">go sfotografować,</font>
+
+104
+00:07:56,440 --> 00:07:59,080
+<font color="#FFFF51">bo widziałem go na czubku drzewa</font>
+
+105
+00:07:59,240 --> 00:08:03,480
+<font color="#FFFF51">po drugiej stronie jeziora,</font>
+<font color="#FFFF51">jak czyścił sobie pióra.</font>
+
+106
+00:08:03,640 --> 00:08:08,520
+<font color="#FFFF51">Byłem pewien, że przyleci</font>
+<font color="#FFFF51">przed czatownię i go sfotografuję.</font>
+
+107
+00:08:08,680 --> 00:08:13,480
+<font color="#FFFF51">Ale przyroda robi, co chce,</font>
+<font color="#FFFF51">i poleciał w inną stronę jeziora.</font>
+
+108
+00:08:13,640 --> 00:08:15,600
+<font color="#FFFF51">Zostanę tu kilka godzin,</font>
+
+109
+00:08:15,760 --> 00:08:18,640
+<font color="#FFFF51">bo inne ptaki</font>
+<font color="#FFFF51">kręciły się w pobliżu.</font>
+
+110
+00:08:18,800 --> 00:08:20,600
+<font color="#FFFF51">Może i rybołów wróci?</font>
+
+111
+00:08:24,760 --> 00:08:26,560
+<font color="aqua">Nie tylko rybołowy</font>
+
+112
+00:08:26,720 --> 00:08:30,880
+<font color="aqua">postanowiły wychować</font>
+<font color="aqua">swoje potomstwo w tym miejscu.</font>
+
+113
+00:08:31,040 --> 00:08:35,520
+<font color="aqua">Perkozy dwuczube dzielą się</font>
+<font color="aqua">rodzicielskimi obowiązkami.</font>
+
+114
+00:08:35,680 --> 00:08:40,240
+<font color="aqua">Gdy samica wozi na grzbiecie</font>
+<font color="aqua">pisklęta, samiec łowi ryby.</font>
+
+115
+00:08:40,400 --> 00:08:44,960
+<font color="aqua">Łabędzie nieme uczą potomstwo,</font>
+<font color="aqua">które rośliny są jadalne,</font>
+
+116
+00:08:45,120 --> 00:08:48,000
+<font color="aqua">a którymi</font>
+<font color="aqua">nie warto się interesować.</font>
+
+117
+00:08:51,600 --> 00:08:54,240
+<font color="#FFFF51">Muszę uzbroić się w cierpliwość</font>
+
+118
+00:08:54,400 --> 00:08:59,560
+<font color="#FFFF51">i obserwować rokitniczkę, która</font>
+<font color="#FFFF51">przeleciała, i czekać na rybołowa.</font>
+
+119
+00:08:59,960 --> 00:09:02,120
+<font color="aqua">Trzcinowiska nad jeziorami</font>
+
+120
+00:09:02,280 --> 00:09:05,280
+<font color="aqua">to doskonałe miejsce</font>
+<font color="aqua">dla rokitniczkli</font>
+
+121
+00:09:05,440 --> 00:09:09,080
+<font color="aqua">i dla blisko z nią spokrewnionego</font>
+<font color="aqua">trzciniaka.</font>
+
+122
+00:09:09,240 --> 00:09:13,640
+<font color="aqua">Dawniej w Polsce naśladowano</font>
+<font color="aqua">śpiew trzciniaka słowami:</font>
+
+123
+00:09:13,800 --> 00:09:16,040
+<font color="aqua">"Ryba, ryba, rak, rak, rak.</font>
+
+124
+00:09:16,200 --> 00:09:18,920
+<font color="aqua">Świędzi, świędzi,</font>
+<font color="aqua">drap, drap, drap!</font>
+
+125
+00:09:19,080 --> 00:09:21,880
+<font color="aqua">Boli, boli - cierp, cierp, cierp".</font>
+
+126
+00:09:25,160 --> 00:09:28,800
+<font color="#FFFF51">Dziś nie udało mi się</font>
+<font color="#FFFF51">sfotografować rybołowa,</font>
+
+127
+00:09:28,960 --> 00:09:31,520
+<font color="#FFFF51">ale nie ma czym się przejmować.</font>
+
+128
+00:09:31,680 --> 00:09:36,560
+<font color="#FFFF51">Niepowodzenia są wpisane w pracę</font>
+<font color="#FFFF51">fotografa dzikiej przyrody.</font>
+
+129
+00:09:36,720 --> 00:09:39,800
+<font color="#FFFF51">W Polsce mamy</font>
+<font color="#FFFF51">jedynie 30 par lęgowych.</font>
+
+130
+00:09:39,960 --> 00:09:44,680
+<font color="#FFFF51">To siedlisko jest idealne</font>
+<font color="#FFFF51">dla rybołowa. Na pewno tu wrócę.</font>
+
+131
+00:09:49,280 --> 00:09:52,520
+<font color="aqua">Dwa tygodnie później</font>
+<font color="aqua">rybołów przyleciał.</font>
+
+132
+00:09:52,680 --> 00:09:56,160
+<font color="aqua">Po zauważeniu ryby</font>
+<font color="aqua">wysunął do przodu nogi,</font>
+
+133
+00:09:56,320 --> 00:09:58,960
+<font color="aqua">łapiąc zdobycz ostrymi pazurami.</font>
+
+134
+00:09:59,120 --> 00:10:03,280
+<font color="aqua">Miał szczęście.</font>
+<font color="aqua">Nie musiał po nią głęboko nurkować.</font>
+
+135
+00:10:06,360 --> 00:10:11,680
+<font color="aqua">Kolejnym ogniwem w połączeniach</font>
+<font color="aqua">z bielikiem są oczywiście kaczki.</font>
+
+136
+00:10:13,800 --> 00:10:17,800
+<font color="#FFFF51">Drugą najczęstszą ofiarą bielików</font>
+<font color="#FFFF51">są ptaki wodne.</font>
+
+137
+00:10:17,960 --> 00:10:20,680
+<font color="#FFFF51">Bieliki polują na kilka sposobów.</font>
+
+138
+00:10:20,840 --> 00:10:24,840
+<font color="#FFFF51">Na szczególną uwagę</font>
+<font color="#FFFF51">zasługuje polowanie wytrwałe,</font>
+
+139
+00:10:25,000 --> 00:10:29,320
+<font color="#FFFF51">w którym zmuszają ofiary</font>
+<font color="#FFFF51">do wielokrotnego nurkowania.</font>
+
+140
+00:10:29,480 --> 00:10:33,960
+<font color="#FFFF51">Nadlatują - ona się zanurza.</font>
+<font color="#FFFF51">Jeszcze raz i jeszcze raz.</font>
+
+141
+00:10:34,120 --> 00:10:39,160
+<font color="#FFFF51">Po wielu próbach wycieńczają ofiarę</font>
+<font color="#FFFF51">i łatwo im ją złapać.</font>
+
+142
+00:10:39,320 --> 00:10:43,480
+<font color="#FFFF51">Najczęściej tak polują</font>
+<font color="#FFFF51">na kaczki krzyżówki i łyski,</font>
+
+143
+00:10:43,640 --> 00:10:46,200
+<font color="#FFFF51">które uwielbiają to środowisko,</font>
+
+144
+00:10:46,360 --> 00:10:49,600
+<font color="#FFFF51">gdzie mogą wychować potomstwo</font>
+<font color="#FFFF51">na wodzie,</font>
+
+145
+00:10:49,760 --> 00:10:52,400
+<font color="#FFFF51">mają dużo roślinności pływającej</font>
+
+146
+00:10:52,560 --> 00:10:55,440
+<font color="#FFFF51">i trawę,</font>
+<font color="#FFFF51">gdzie mogą założyć gniazdo.</font>
+
+147
+00:10:55,600 --> 00:10:59,000
+<font color="#FFFF51">To środowisko idealne</font>
+<font color="#FFFF51">dla krzyżówek, łysek</font>
+
+148
+00:10:59,160 --> 00:11:00,960
+<font color="#FFFF51">i polujących bielików.</font>
+
+149
+00:11:01,120 --> 00:11:05,600
+<font color="aqua">Unikając zagrożenia ze strony</font>
+<font color="aqua">naturalnych drapieżników,</font>
+
+150
+00:11:05,760 --> 00:11:08,640
+<font color="aqua">część ptaków przenosi się do miast.</font>
+
+151
+00:11:08,800 --> 00:11:13,760
+<font color="aqua">Są tu dla nich zagrożenia</font>
+<font color="aqua">- samochody, uboga dieta, beton,</font>
+
+152
+00:11:13,920 --> 00:11:15,920
+<font color="aqua">a zimą zamarzająca woda.</font>
+
+153
+00:11:16,080 --> 00:11:19,280
+<font color="aqua">Godzinami wyczekują na lodzie</font>
+<font color="aqua">na ludzi,</font>
+
+154
+00:11:19,440 --> 00:11:21,880
+<font color="aqua">którzy przynoszą im jedzenie.</font>
+
+155
+00:11:22,040 --> 00:11:25,040
+<font color="aqua">Ptaki,</font>
+<font color="aqua">które pozostały u nas na zimę,</font>
+
+156
+00:11:25,200 --> 00:11:28,680
+<font color="aqua">dbają o to, żeby woda</font>
+<font color="aqua">była w ciągłym ruchu.</font>
+
+157
+00:11:28,840 --> 00:11:33,000
+<font color="aqua">Starają się utrzymać</font>
+<font color="aqua">ostatnią ostoję bieżącej wody.</font>
+
+158
+00:11:33,680 --> 00:11:36,920
+<font color="#FFFF51">Sytuacja się zmienia</font>
+<font color="#FFFF51">na wodach morskich.</font>
+
+159
+00:11:37,080 --> 00:11:40,640
+<font color="#FFFF51">Tam najczęstszą ofiarą bielików</font>
+<font color="#FFFF51">są edredony,</font>
+
+160
+00:11:40,800 --> 00:11:45,600
+<font color="#FFFF51">zwłaszcza kontrastowo ubarwione</font>
+<font color="#FFFF51">samce - dużo bieli i czerni.</font>
+
+161
+00:11:45,760 --> 00:11:48,560
+<font color="#FFFF51">Przez to bielik łatwo je znajduje.</font>
+
+162
+00:11:48,720 --> 00:11:52,720
+<font color="#FFFF51">Samice mają maskujące ubarwienie,</font>
+<font color="#FFFF51">brązowo-czarne.</font>
+
+163
+00:11:52,880 --> 00:11:57,240
+<font color="#FFFF51">O edredonach mogliśmy słyszeć</font>
+<font color="#FFFF51">w kontekście najlepszego</font>
+
+164
+00:11:57,400 --> 00:12:01,640
+<font color="#FFFF51">naturalnego materiału</font>
+<font color="#FFFF51">termoizolacyjnego, czyli puchu.</font>
+
+165
+00:12:01,800 --> 00:12:06,360
+<font color="#FFFF51">Ten puch samica wydziera sobie</font>
+<font color="#FFFF51">z piersi i mości gniazdo,</font>
+
+166
+00:12:06,520 --> 00:12:09,160
+<font color="#FFFF51">aby w cieple wychować potomstwo.</font>
+
+167
+00:12:09,320 --> 00:12:12,880
+<font color="#FFFF51">Ludzie zaczęli z tych gniazd</font>
+<font color="#FFFF51">pozyskiwać puch</font>
+
+168
+00:12:13,040 --> 00:12:15,600
+<font color="#FFFF51">do produkcji kurtek i śpiworów.</font>
+
+169
+00:12:15,760 --> 00:12:20,920
+<font color="#FFFF51">Przez to w Polsce mamy teraz</font>
+<font color="#FFFF51">tylko jedną parę lęgową edredonów,</font>
+
+170
+00:12:21,080 --> 00:12:25,560
+<font color="#FFFF51">które raz na dwa lata</font>
+<font color="#FFFF51">zakładają lęgi w gdyńskim porcie.</font>
+
+171
+00:12:25,720 --> 00:12:28,720
+<font color="#FFFF51">Edredon zginął</font>
+<font color="#FFFF51">z polskiego krajobrazu</font>
+
+172
+00:12:28,880 --> 00:12:30,960
+<font color="#FFFF51">ze względu na cenny puch.</font>
+
+173
+00:12:31,120 --> 00:12:34,360
+<font color="#FFFF51">Możemy go podziwiać</font>
+<font color="#FFFF51">na północy Norwegii,</font>
+
+174
+00:12:34,520 --> 00:12:38,240
+<font color="#FFFF51">gdzie człowiek</font>
+<font color="#FFFF51">jeszcze nie zniszczył przyrody.</font>
+
+175
+00:12:50,560 --> 00:12:52,960
+<font color="aqua">Powiązanie bielika z rarogiem</font>
+
+176
+00:12:53,120 --> 00:12:56,920
+<font color="aqua">wyraża się przez konkurowanie</font>
+<font color="aqua">o ten sam pokarm.</font>
+
+177
+00:12:58,280 --> 00:13:00,920
+<font color="#FFFF51">W świecie przyrody każdy problem</font>
+
+178
+00:13:01,080 --> 00:13:04,160
+<font color="#FFFF51">może być rozwiązany</font>
+<font color="#FFFF51">na kilka sposobów.</font>
+
+179
+00:13:04,320 --> 00:13:06,880
+<font color="#FFFF51">Bielik stosuje jawne polowanie,</font>
+
+180
+00:13:07,040 --> 00:13:10,040
+<font color="#FFFF51">w którym wygrywa</font>
+<font color="#FFFF51">bardziej wytrzymały.</font>
+
+181
+00:13:10,200 --> 00:13:13,360
+<font color="#FFFF51">Raróg, bliski krewny</font>
+<font color="#FFFF51">sokoła wędrownego,</font>
+
+182
+00:13:13,520 --> 00:13:16,160
+<font color="#FFFF51">poluje, stosując duże prędkości.</font>
+
+183
+00:13:16,320 --> 00:13:19,400
+<font color="#FFFF51">Napada ofiary</font>
+<font color="#FFFF51">na otwartej przestrzeni.</font>
+
+184
+00:13:19,560 --> 00:13:24,440
+<font color="aqua">Budowa raroga - spiczaste skrzydła</font>
+<font color="aqua">i opływowy kształt ciała -</font>
+
+185
+00:13:24,600 --> 00:13:27,680
+<font color="aqua">pozwala mu osiągnąć</font>
+<font color="aqua">znaczne prędkości.</font>
+
+186
+00:13:27,840 --> 00:13:32,160
+<font color="aqua">Kolejnym ogniwem w połączeniach</font>
+<font color="aqua">z bielikiem są kruki.</font>
+
+187
+00:13:58,160 --> 00:14:03,040
+<font color="#FFFF51">Bielik korzysta także z padliny,</font>
+<font color="#FFFF51">stosuje kleptopasożytnictwo,</font>
+
+188
+00:14:03,200 --> 00:14:07,000
+<font color="#FFFF51">czyli zabiera pokarm</font>
+<font color="#FFFF51">słabszym od siebie ptakom.</font>
+
+189
+00:14:07,160 --> 00:14:10,320
+<font color="#FFFF51">Wyszukuje duże stada</font>
+<font color="#FFFF51">żerujących kruków.</font>
+
+190
+00:14:10,480 --> 00:14:13,280
+<font color="#FFFF51">Wie, że jest to zwiastun jedzenia.</font>
+
+191
+00:14:13,440 --> 00:14:16,840
+<font color="#FFFF51">Ten jeleń, który padł</font>
+<font color="#FFFF51">kilka miesięcy temu,</font>
+
+192
+00:14:17,000 --> 00:14:20,000
+<font color="#FFFF51">musiał służyć im</font>
+<font color="#FFFF51">jako źródło pokarmu.</font>
+
+193
+00:14:29,840 --> 00:14:32,720
+<font color="#FFFF51">W specjalnym ukryciu będę podglądał</font>
+
+194
+00:14:32,880 --> 00:14:36,040
+<font color="#FFFF51">niezwykłe zachowania</font>
+<font color="#FFFF51">kruków i bielików.</font>
+
+195
+00:14:36,200 --> 00:14:39,720
+<font color="#FFFF51">Mogą one współpracować,</font>
+<font color="#FFFF51">ale też się zwalczać.</font>
+
+196
+00:14:39,880 --> 00:14:43,560
+<font color="#FFFF51">Od człowieka uciekają,</font>
+<font color="#FFFF51">i to z dużej odległości.</font>
+
+197
+00:14:43,720 --> 00:14:46,360
+<font color="#FFFF51">Dlatego muszę wejść do czatowni.</font>
+
+198
+00:14:46,520 --> 00:14:50,000
+<font color="#FFFF51">Dla ptaków</font>
+<font color="#FFFF51">to naturalny element krajobrazu.</font>
+
+199
+00:14:50,160 --> 00:14:54,960
+<font color="#FFFF51">Nie spodziewają się w środku</font>
+<font color="#FFFF51">człowieka i nie będą się bały.</font>
+
+200
+00:14:55,120 --> 00:14:58,200
+<font color="#FFFF51">Mam wodę, jedzenie</font>
+<font color="#FFFF51">i dużo cierpliwości.</font>
+
+201
+00:14:58,360 --> 00:15:00,120
+<font color="#FFFF51">Liczę na superfotki.</font>
+
+202
+00:15:20,760 --> 00:15:25,920
+<font color="#FFFF51">Bieliki są śmiertelnym zagrożeniem</font>
+<font color="#FFFF51">dla kruków, kiedy je złapią.</font>
+
+203
+00:15:26,080 --> 00:15:27,600
+<font color="#FFFF51">Nie jest to proste,</font>
+
+204
+00:15:27,760 --> 00:15:31,320
+<font color="#FFFF51">bo kruki dobrze wiedzą,</font>
+<font color="#FFFF51">z kim mogą pogrywać.</font>
+
+205
+00:15:31,480 --> 00:15:35,880
+<font color="#FFFF51">Jeśli zauważą dorosłego ptaka,</font>
+<font color="#FFFF51">z dużym, białym ogonem,</font>
+
+206
+00:15:36,040 --> 00:15:38,280
+<font color="#FFFF51">omijają go szerokim łukiem.</font>
+
+207
+00:15:38,440 --> 00:15:43,240
+<font color="#FFFF51">Ale jak kruki zauważą ptaka</font>
+<font color="#FFFF51">młodocianego, z ciemnym ogonem,</font>
+
+208
+00:15:43,400 --> 00:15:45,200
+<font color="#FFFF51">zaczyna się gra.</font>
+
+209
+00:15:45,360 --> 00:15:49,760
+<font color="#FFFF51">Potrafią go okrążyć, prześladować,</font>
+<font color="#FFFF51">zabierać mu pokarm.</font>
+
+210
+00:15:49,920 --> 00:15:51,920
+<font color="#FFFF51">Biedak nie może żerować.</font>
+
+211
+00:15:52,080 --> 00:15:55,240
+<font color="#FFFF51">Mam nadzieję,</font>
+<font color="#FFFF51">że jak zostanę tu dłużej,</font>
+
+212
+00:15:55,400 --> 00:15:59,200
+<font color="#FFFF51">będę miał okazję do filmowania</font>
+<font color="#FFFF51">i fotografowania</font>
+
+213
+00:15:59,360 --> 00:16:02,760
+<font color="#FFFF51">tych rzadko obserwowanych</font>
+<font color="#FFFF51">zachowań ptaków.</font>
+
+214
+00:16:03,880 --> 00:16:06,440
+<font color="#FFFF51">Muszę teraz przygotować aparat,</font>
+
+215
+00:16:06,600 --> 00:16:10,800
+<font color="#FFFF51">bo jak wystawię go za późno</font>
+<font color="#FFFF51">przez okno czatowni,</font>
+
+216
+00:16:10,960 --> 00:16:14,680
+<font color="#FFFF51">cała sceneria się rozmyje</font>
+<font color="#FFFF51">i zwierzęta uciekną.</font>
+
+217
+00:16:14,960 --> 00:16:19,600
+<font color="#FFFF51">Wszystko musi być perfekcyjnie</font>
+<font color="#FFFF51">ustawione, przygotowane</font>
+
+218
+00:16:19,760 --> 00:16:21,640
+<font color="#FFFF51">i muszę być w gotowości</font>
+
+219
+00:16:21,800 --> 00:16:25,080
+<font color="#FFFF51">przez kilkanaście</font>
+<font color="#FFFF51">najbliższych godzin.</font>
+
+220
+00:16:49,600 --> 00:16:54,680
+<font color="aqua">Początkowo kruki żerują bardzo</font>
+<font color="aqua">intensywnie, przekrzykując się.</font>
+
+221
+00:16:54,840 --> 00:16:59,320
+<font color="aqua">Biesiada zostaje przerwana</font>
+<font color="aqua">przez nadlatującego bielika.</font>
+
+222
+00:16:59,480 --> 00:17:04,360
+<font color="aqua">Po tym, jak kruki się posiliły,</font>
+<font color="aqua">zaczynają niebezpieczną grę.</font>
+
+223
+00:17:04,520 --> 00:17:08,920
+<font color="aqua">Otaczają bielika tak,</font>
+<font color="aqua">aby być po przeciwnych stronach.</font>
+
+224
+00:17:09,080 --> 00:17:11,320
+<font color="aqua">Ten z przodu odciąga uwagę,</font>
+
+225
+00:17:11,480 --> 00:17:14,960
+<font color="aqua">a ten z tyłu próbuje wyrwać</font>
+<font color="aqua">pióro z ogona.</font>
+
+226
+00:17:15,120 --> 00:17:20,120
+<font color="aqua">Pod natarczywością kruków</font>
+<font color="aqua">bielik musi skapitulować i ustąpić.</font>
+
+227
+00:17:20,280 --> 00:17:22,280
+<font color="aqua">Dumny kruk dopiął swego.</font>
+
+228
+00:17:25,240 --> 00:17:28,480
+<font color="aqua">Bieliki,</font>
+<font color="aqua">jak wszystkie ptaki szponiaste,</font>
+
+229
+00:17:28,640 --> 00:17:32,440
+<font color="aqua">przez budowę swoich gniazd</font>
+<font color="aqua">łączą się z sowami.</font>
+
+230
+00:17:47,760 --> 00:17:51,320
+<font color="#FFFF51">W zupełnie innym środowisku</font>
+<font color="#FFFF51">bytuje jastrząb.</font>
+
+231
+00:17:51,480 --> 00:17:54,960
+<font color="#FFFF51">Wybiera drzewostany dojrzałe,</font>
+<font color="#FFFF51">takie jak ten,</font>
+
+232
+00:17:55,120 --> 00:17:57,360
+<font color="#FFFF51">i zakłada potężne gniazda.</font>
+
+233
+00:17:57,520 --> 00:17:59,680
+<font color="#FFFF51">Gniazda ptaków drapieżnych</font>
+
+234
+00:17:59,840 --> 00:18:03,160
+<font color="#FFFF51">są na wagę złota</font>
+<font color="#FFFF51">na wtórnym ptasim rynku.</font>
+
+235
+00:18:03,320 --> 00:18:07,120
+<font color="#FFFF51">Zajmują je ptaki,</font>
+<font color="#FFFF51">które same nie budują gniazd,</font>
+
+236
+00:18:07,280 --> 00:18:10,600
+<font color="#FFFF51">ale często też gatunki</font>
+<font color="#FFFF51">do siebie podobne.</font>
+
+237
+00:18:10,760 --> 00:18:13,760
+<font color="#FFFF51">To gniazdo zbudowane</font>
+<font color="#FFFF51">przez myszołowa.</font>
+
+238
+00:18:13,920 --> 00:18:17,880
+<font color="#FFFF51">W tym roku zajęła je</font>
+<font color="#FFFF51">dwuletnia samica jastrzębia</font>
+
+239
+00:18:18,120 --> 00:18:19,960
+<font color="#FFFF51">i złożyła trzy jaja.</font>
+
+240
+00:18:20,120 --> 00:18:22,280
+<font color="#FFFF51">To gatunek bardzo rzadki.</font>
+
+241
+00:18:22,440 --> 00:18:27,480
+<font color="#FFFF51">Na 120 km kwadratowych tego lasu</font>
+<font color="#FFFF51">mamy jedynie dwie pary,</font>
+
+242
+00:18:27,640 --> 00:18:30,080
+<font color="#FFFF51">a gniazdo znajduje się tam.</font>
+
+243
+00:18:50,360 --> 00:18:55,520
+<font color="aqua">Zamiana gniazdami jest powszechna</font>
+<font color="aqua">w świecie ptaków drapieżnych.</font>
+
+244
+00:18:55,680 --> 00:18:59,240
+<font color="aqua">W świecie sów,</font>
+<font color="aqua">które same gniazd nie budują,</font>
+
+245
+00:18:59,400 --> 00:19:02,040
+<font color="aqua">muszą znaleźć opuszczone gniazdo.</font>
+
+246
+00:19:03,680 --> 00:19:08,760
+<font color="#FFFF51">Od kilku lat puszczyk mszarny</font>
+<font color="#FFFF51">jest gatunkiem lęgowym w Polsce.</font>
+
+247
+00:19:08,920 --> 00:19:13,920
+<font color="#FFFF51">W tym roku obchodzimy 10. rocznicę</font>
+<font color="#FFFF51">pierwszych lęgów w Polsce.</font>
+
+248
+00:19:14,080 --> 00:19:16,960
+<font color="#FFFF51">Mamy też inne powody</font>
+<font color="#FFFF51">do świętowania,</font>
+
+249
+00:19:17,120 --> 00:19:20,520
+<font color="#FFFF51">bo znaleziono</font>
+<font color="#FFFF51">rekordową liczbę aż 9 lęgów.</font>
+
+250
+00:19:20,680 --> 00:19:23,080
+<font color="#FFFF51">Nade mną siedzą dwa pisklęta,</font>
+
+251
+00:19:23,240 --> 00:19:26,960
+<font color="#FFFF51">które opuściły gniazdo</font>
+<font color="#FFFF51">dosłownie dwa dni temu.</font>
+
+252
+00:19:27,120 --> 00:19:31,760
+<font color="#FFFF51">A po mojej prawej stronie</font>
+<font color="#FFFF51">jest samica, która obserwuje je</font>
+
+253
+00:19:31,920 --> 00:19:34,920
+<font color="#FFFF51">i dba o to,</font>
+<font color="#FFFF51">aby nic im nie zagrażało.</font>
+
+254
+00:19:35,080 --> 00:19:38,800
+<font color="#FFFF51">Puszczyki mszarne</font>
+<font color="#FFFF51">są badane przez ornitologów,</font>
+
+255
+00:19:38,960 --> 00:19:41,520
+<font color="#FFFF51">obrączkowane, mierzone, ważone,</font>
+
+256
+00:19:41,680 --> 00:19:45,080
+<font color="#FFFF51">a potem bezpiecznie odstawiane</font>
+<font color="#FFFF51">do gniazda.</font>
+
+257
+00:19:45,400 --> 00:19:49,200
+<font color="#FFFF51">Dla tych maluchów</font>
+<font color="#FFFF51">gniazdo już było zbyt ciasne.</font>
+
+258
+00:19:49,360 --> 00:19:52,920
+<font color="#FFFF51">Zdolność do lotu</font>
+<font color="#FFFF51">uzyskają po 3, 4 tygodniach.</font>
+
+259
+00:19:53,080 --> 00:19:56,480
+<font color="#FFFF51">Nie będę im przeszkadzał,</font>
+<font color="#FFFF51">niech dorastają.</font>
+
+260
+00:19:57,000 --> 00:20:01,720
+<font color="#FFFF51">Wobec braku dostatecznej liczby</font>
+<font color="#FFFF51">gniazd ptaków drapieżnych</font>
+
+261
+00:20:01,880 --> 00:20:06,040
+<font color="#FFFF51">ornitolodzy rozpoczęli proces</font>
+<font color="#FFFF51">aktywnej ochrony sów,</font>
+
+262
+00:20:06,200 --> 00:20:08,360
+<font color="#FFFF51">w tym puszczyka mszarnego.</font>
+
+263
+00:20:08,520 --> 00:20:11,240
+<font color="#FFFF51">Zaczęli budować sztuczne gniazda,</font>
+
+264
+00:20:11,400 --> 00:20:14,480
+<font color="#FFFF51">do złudzenia przypominające</font>
+<font color="#FFFF51">naturalne.</font>
+
+265
+00:20:14,640 --> 00:20:19,880
+<font color="#FFFF51">Nade mną jest taka platforma,</font>
+<font color="#FFFF51">która wymaga kontroli technicznej.</font>
+
+266
+00:20:44,280 --> 00:20:47,760
+<font color="#FFFF51">Konstrukcja sztucznego gniazda</font>
+<font color="#FFFF51">jest prosta.</font>
+
+267
+00:20:47,960 --> 00:20:51,200
+<font color="#FFFF51">Kilka grubych desek,</font>
+<font color="#FFFF51">na to grube gałęzie,</font>
+
+268
+00:20:51,360 --> 00:20:53,280
+<font color="#FFFF51">na wierzch drobniejsze.</font>
+
+269
+00:20:53,440 --> 00:20:56,320
+<font color="#FFFF51">Od wierzchu wyłożone mchem i trawą.</font>
+
+270
+00:20:56,480 --> 00:21:00,560
+<font color="#FFFF51">W środku niecka</font>
+<font color="#FFFF51">zapobiegającą sturlaniu się jaja.</font>
+
+271
+00:21:00,720 --> 00:21:05,960
+<font color="#FFFF51">Widzimy niezapłodnione jajo,</font>
+<font color="#FFFF51">z którego nie wyklują się pisklęta.</font>
+
+272
+00:21:06,120 --> 00:21:09,120
+<font color="#FFFF51">Możemy to traktować</font>
+<font color="#FFFF51">jako stratę lęgu.</font>
+
+273
+00:21:09,280 --> 00:21:12,520
+<font color="aqua">Wszystkie gniazda,</font>
+<font color="aqua">naturalne i sztuczne,</font>
+
+274
+00:21:12,680 --> 00:21:15,600
+<font color="aqua">cieszą się</font>
+<font color="aqua">wśród puszczyków mszarnych</font>
+
+275
+00:21:15,760 --> 00:21:17,680
+<font color="aqua">dużym zainteresowaniem.</font>
+
+276
+00:21:17,840 --> 00:21:22,000
+<font color="aqua">A bielik, budując więcej gniazd,</font>
+<font color="aqua">niż sam potrzebuje,</font>
+
+277
+00:21:22,160 --> 00:21:25,040
+<font color="aqua">stwarza środowisko przyjazne sowom.</font>
+
+278
+00:21:34,160 --> 00:21:38,160
+<font color="#FFFF51">Bieliki odgrywają</font>
+<font color="#FFFF51">bardzo ważną rolę w środowisku.</font>
+
+279
+00:21:38,320 --> 00:21:41,960
+<font color="#FFFF51">Wybierają na swoje ofiary</font>
+<font color="#FFFF51">zwierzęta osłabione,</font>
+
+280
+00:21:42,120 --> 00:21:43,960
+<font color="#FFFF51">głównie przez choroby.</font>
+
+281
+00:21:44,120 --> 00:21:46,600
+<font color="#FFFF51">U ryb to najczęściej grzybica,</font>
+
+282
+00:21:46,760 --> 00:21:51,320
+<font color="#FFFF51">która uniemożliwia leszczom</font>
+<font color="#FFFF51">i szczupakom zanurzanie się.</font>
+
+283
+00:21:51,480 --> 00:21:53,280
+<font color="#FFFF51">Wtedy są łatwym łupem.</font>
+
+284
+00:21:53,440 --> 00:21:58,000
+<font color="#FFFF51">Bieliki wpływają też</font>
+<font color="#FFFF51">na obieg pierwiastków w przyrodzie.</font>
+
+285
+00:21:58,160 --> 00:22:02,640
+<font color="#FFFF51">Wyobraźmy sobie, że martwe</font>
+<font color="#FFFF51">zwierzęta nie rozkładają się</font>
+
+286
+00:22:02,800 --> 00:22:05,280
+<font color="#FFFF51">i zostają w lasach, na łąkach.</font>
+
+287
+00:22:05,440 --> 00:22:09,480
+<font color="#FFFF51">Doszłoby</font>
+<font color="#FFFF51">do katastrofy ekologicznej.</font>
+
+288
+00:22:09,760 --> 00:22:12,560
+<font color="#FFFF51">Wiele by straciła polska przyroda,</font>
+
+289
+00:22:12,720 --> 00:22:16,120
+<font color="#FFFF51">gdyby bielik zniknął</font>
+<font color="#FFFF51">z naszego krajobrazu.</font>
+
+290
+00:22:16,280 --> 00:22:21,360
+<font color="#FFFF51">Dlatego warto zadbać, by w spokoju</font>
+<font color="#FFFF51">wychowywał swoje potomstwo.</font>
+
+291
+00:22:22,520 --> 00:22:27,520
+<font color="aqua">Zobaczyliśmy jedynie mały wycinek</font>
+<font color="aqua">powiązań w świecie przyrody.</font>
+
+292
+00:22:27,680 --> 00:22:30,920
+<font color="aqua">Krok po kroku</font>
+<font color="aqua">będziemy tropić zwierzęta,</font>
+
+293
+00:22:31,080 --> 00:22:35,320
+<font color="aqua">aby odsłonić skomplikowaną sieć</font>
+<font color="aqua">wzajemnych powiązań.</font>
+
+294
+00:22:38,720 --> 00:22:40,520
+<font color="#FFFF51">Pani reżyser?</font>
+Jest.
+
+295
+00:22:42,480 --> 00:22:44,280
+<font color="#FFFF51">Pan prowadzący.</font>
+
+296
+00:22:44,760 --> 00:22:46,560
+<font color="#FFFF51">Dźwięk, kamera.</font>
+
+297
+00:22:49,200 --> 00:22:52,200
+<font color="#FFFF51">Przełożę tu</font>
+<font color="#FFFF51">i zapnę z drugiej strony.</font>
+
+298
+00:22:53,160 --> 00:22:57,240
+Ładne, malownicze miejsce
+na śmierć. Jak myślicie?
+
+299
+00:23:00,080 --> 00:23:02,240
+<font color="#FFFF51">Która jest?</font>
+Szóstej nie ma.
+
+300
+00:23:03,160 --> 00:23:05,440
+Uwaga! Nogę widzę.
+
+301
+00:23:06,320 --> 00:23:08,120
+To nie takie proste.
+
+302
+00:23:12,920 --> 00:23:15,640
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+303
+00:23:15,800 --> 00:23:19,280
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+304
+00:23:21,080 --> 00:23:23,080
+
+

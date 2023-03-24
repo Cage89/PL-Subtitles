@@ -1,0 +1,955 @@
+1
+00:00:00,800 --> 00:00:07,400
+<font backgroundcolor="#000000"> Złoty medal na Festiwalu w Nowym Jorku </font>
+<font backgroundcolor="#000000"> za najlepszy program podróżniczy. </font>
+
+2
+00:01:04,080 --> 00:01:06,560
+<font backgroundcolor="#000000"> Zatkane. </font>
+
+3
+00:01:18,640 --> 00:01:20,880
+<font backgroundcolor="#000000"> Praca. </font>
+
+4
+00:01:52,360 --> 00:01:54,760
+<font backgroundcolor="#000000"> A to co? </font>
+
+5
+00:01:55,320 --> 00:01:58,600
+<font backgroundcolor="#000000"> Piknik czy wesele? </font>
+
+6
+00:01:59,240 --> 00:02:04,720
+<font backgroundcolor="#000000"> Co tu się dzieje? Co babów nalazło? </font>
+<font backgroundcolor="#000000"> Co baby robią? </font>
+
+7
+00:02:05,600 --> 00:02:09,080
+<font backgroundcolor="#000000"> Co baby mają tutaj w garach? </font>
+
+8
+00:02:09,800 --> 00:02:12,680
+<font backgroundcolor="#000000"> Chicha - prawie wypita. </font>
+
+9
+00:02:13,320 --> 00:02:17,160
+<font backgroundcolor="#000000"> Wszystko powypijane. </font>
+<font backgroundcolor="#000000"> Co tu się działo? </font>
+
+10
+00:02:18,120 --> 00:02:21,200
+<font backgroundcolor="#000000"> To tutaj to minga, </font>
+
+11
+00:02:22,080 --> 00:02:24,960
+<font backgroundcolor="#000000"> czyli robota wspólnotowa. </font>
+
+12
+00:02:25,320 --> 00:02:29,720
+<font backgroundcolor="#000000"> Znana w wysokich Andach </font>
+<font backgroundcolor="#000000"> jeszcze sprzed czasów Inków. </font>
+
+13
+00:02:29,880 --> 00:02:32,600
+<font backgroundcolor="#000000"> Z czasem spłynęła do dżungli. </font>
+
+14
+00:02:33,000 --> 00:02:35,760
+<font backgroundcolor="#000000"> Chociaż tego nie jesteśmy pewni. </font>
+
+15
+00:02:35,920 --> 00:02:39,280
+<font backgroundcolor="#000000"> Być może w dżungli </font>
+<font backgroundcolor="#000000"> powstała niezależnie. </font>
+
+16
+00:02:39,440 --> 00:02:42,680
+<font backgroundcolor="#000000"> Wszędzie tam, </font>
+<font backgroundcolor="#000000"> gdzie jakaś praca fizyczna </font>
+
+17
+00:02:42,840 --> 00:02:47,600
+<font backgroundcolor="#000000"> przekracza możliwości mężczyzny </font>
+<font backgroundcolor="#000000"> lub mężczyzny z rodziną, </font>
+
+18
+00:02:47,760 --> 00:02:49,680
+<font backgroundcolor="#000000"> zwołuje się mingę. </font>
+
+19
+00:02:49,840 --> 00:02:55,320
+<font backgroundcolor="#000000"> Wtedy wszyscy znoszą żarcie, </font>
+<font backgroundcolor="#000000"> a najwięcej żarcia stawia gospodarz, </font>
+
+20
+00:02:55,480 --> 00:02:59,800
+<font backgroundcolor="#000000"> i żywi tak długo, ile trzeba, </font>
+<font backgroundcolor="#000000"> żeby robotę skończyć. </font>
+
+21
+00:02:59,960 --> 00:03:03,720
+<font backgroundcolor="#000000"> I tak sobie pojadają, </font>
+<font backgroundcolor="#000000"> popijają i pracują. </font>
+
+22
+00:03:24,040 --> 00:03:28,760
+<font backgroundcolor="#000000"> Oto podstawowe narzędzia pracy </font>
+<font backgroundcolor="#000000"> Indian Ashuarów. </font>
+
+23
+00:03:29,280 --> 00:03:31,440
+<font backgroundcolor="#000000"> Maczetę państwo znają. </font>
+
+24
+00:03:31,600 --> 00:03:36,880
+<font backgroundcolor="#000000"> Odkąd Hiszpanie potracili </font>
+<font backgroundcolor="#000000"> tutaj szable, funkcjonuje maczeta. </font>
+
+25
+00:03:37,040 --> 00:03:39,160
+<font backgroundcolor="#000000"> Haczyk to nowa rzecz. </font>
+
+26
+00:03:39,320 --> 00:03:41,280
+<font backgroundcolor="#000000"> Tu jest pełno węży. </font>
+
+27
+00:03:41,440 --> 00:03:46,600
+<font backgroundcolor="#000000"> Dobrze jest móc przytrzymać węża </font>
+<font backgroundcolor="#000000"> za łeb i obciąć mu głowę. </font>
+
+28
+00:03:46,840 --> 00:03:51,800
+<font backgroundcolor="#000000"> Poza tym stale pomagamy sobie </font>
+<font backgroundcolor="#000000"> haczykiem, tak jak ten pan. </font>
+
+29
+00:03:51,960 --> 00:03:55,880
+<font backgroundcolor="#000000"> Jest leworęczny, tak jak ja, </font>
+<font backgroundcolor="#000000"> i ma na odwrót. </font>
+
+30
+00:04:21,440 --> 00:04:25,160
+<font backgroundcolor="#000000"> Slash and burn </font>
+<font backgroundcolor="#000000"> - tak piszą w podręcznikach. </font>
+
+31
+00:04:25,320 --> 00:04:28,680
+<font backgroundcolor="#000000"> Po polsku - gospodarka wypaleniskowa. </font>
+
+32
+00:04:28,840 --> 00:04:33,360
+<font backgroundcolor="#000000"> Najpierw trzeba robić slash maczetą </font>
+<font backgroundcolor="#000000"> i oczyścić teren. </font>
+
+33
+00:04:33,520 --> 00:04:38,320
+<font backgroundcolor="#000000"> A potem oczyszczamy teren </font>
+<font backgroundcolor="#000000"> z tych śmieci za pomocą ognia. </font>
+
+34
+00:04:38,520 --> 00:04:40,600
+<font backgroundcolor="#000000"> Ekolodzy się wściekają. </font>
+
+35
+00:04:40,760 --> 00:04:44,120
+<font backgroundcolor="#000000"> Proszę ekologów, </font>
+<font backgroundcolor="#000000"> żeby podali inną metodę </font>
+
+36
+00:04:44,280 --> 00:04:48,240
+<font backgroundcolor="#000000"> znalezienia kawałka </font>
+<font backgroundcolor="#000000"> działki na dom w Amazonii. </font>
+
+37
+00:04:48,400 --> 00:04:51,480
+<font backgroundcolor="#000000"> Ja innej metody nigdy nie widziałem. </font>
+
+38
+00:05:10,120 --> 00:05:14,880
+<font backgroundcolor="#000000"> Jeszcze nie spłonęło do końca, </font>
+<font backgroundcolor="#000000"> a już się zaczyna nowe. </font>
+
+39
+00:05:15,040 --> 00:05:17,680
+<font backgroundcolor="#000000"> To jest juka, inaczej maniok. </font>
+
+40
+00:05:17,840 --> 00:05:20,240
+<font backgroundcolor="#000000"> Pani przygotowuje rozsadę. </font>
+
+41
+00:05:20,400 --> 00:05:24,560
+<font backgroundcolor="#000000"> To jest podstawowe </font>
+<font backgroundcolor="#000000"> narzędzie pracy w Amazonii. </font>
+
+42
+00:05:24,720 --> 00:05:27,120
+<font backgroundcolor="#000000"> Tym się będzie sadzić. </font>
+
+43
+00:05:45,920 --> 00:05:50,520
+<font backgroundcolor="#000000"> Łom drewniany </font>
+<font backgroundcolor="#000000"> - ciężki kawał zaostrzonego pala. </font>
+
+44
+00:05:50,680 --> 00:05:55,040
+<font backgroundcolor="#000000"> Kultury, które korzystają </font>
+<font backgroundcolor="#000000"> z takiej techniki, </font>
+
+45
+00:05:55,200 --> 00:05:57,400
+<font backgroundcolor="#000000"> nazywamy kopieniackimi. </font>
+
+46
+00:05:57,560 --> 00:06:00,560
+<font backgroundcolor="#000000"> Dlaczego? Bo kopią doły w ziemi. </font>
+
+47
+00:06:21,360 --> 00:06:25,400
+<font backgroundcolor="#000000"> A dlaczego tę ciężką </font>
+<font backgroundcolor="#000000"> robotę wykonuje kobieta? </font>
+
+48
+00:06:25,600 --> 00:06:30,960
+<font backgroundcolor="#000000"> Mężczyźni wykonywali jeszcze </font>
+<font backgroundcolor="#000000"> cięższą robotę, karczując to pole. </font>
+
+49
+00:06:31,120 --> 00:06:33,640
+<font backgroundcolor="#000000"> Dzielą się uczciwe zadaniami. </font>
+
+50
+00:06:33,800 --> 00:06:37,360
+<font backgroundcolor="#000000"> Natomiast sadzenie </font>
+<font backgroundcolor="#000000"> jest zajęciem kobiecym, </font>
+
+51
+00:06:37,520 --> 00:06:42,680
+<font backgroundcolor="#000000"> dlatego że to jest Pacha Mama, </font>
+<font backgroundcolor="#000000"> matka Ziemia, która rodzi. </font>
+
+52
+00:06:42,840 --> 00:06:47,600
+<font backgroundcolor="#000000"> To tak, jakby kobieta z kobietą </font>
+<font backgroundcolor="#000000"> zawierała umowę, </font>
+
+53
+00:06:47,760 --> 00:06:50,800
+<font backgroundcolor="#000000"> że ten maniok obrodzi. </font>
+
+54
+00:07:25,040 --> 00:07:28,040
+<font backgroundcolor="#000000"> A co facet robi przy sadzeniu? </font>
+
+55
+00:07:28,200 --> 00:07:33,600
+<font backgroundcolor="#000000"> Przecież mówiłem - Pacha Mama, </font>
+<font backgroundcolor="#000000"> relacja kobiety z kobietą... </font>
+
+56
+00:07:33,880 --> 00:07:35,880
+<font backgroundcolor="#000000"> Są wyjątki. </font>
+
+57
+00:07:36,040 --> 00:07:40,240
+<font backgroundcolor="#000000"> Ta roślina tutaj to barbasco, </font>
+<font backgroundcolor="#000000"> trutka na ryby. </font>
+
+58
+00:07:40,560 --> 00:07:44,800
+<font backgroundcolor="#000000"> I tą trutką zajmują się </font>
+<font backgroundcolor="#000000"> wyłącznie mężczyźni. </font>
+
+59
+00:07:44,960 --> 00:07:47,840
+<font backgroundcolor="#000000"> Od sadzenia do łowienia ryb. </font>
+
+60
+00:08:26,000 --> 00:08:28,240
+<font backgroundcolor="#000000"> Idę po cienkiej linii. </font>
+
+61
+00:08:28,560 --> 00:08:35,120
+<font backgroundcolor="#000000"> Na lewo ode mnie, czyli dalej </font>
+<font backgroundcolor="#000000"> od państwa, jest już część kobieca. </font>
+
+62
+00:08:35,280 --> 00:08:40,200
+<font backgroundcolor="#000000"> Tam nie wolno mi chodzić. </font>
+<font backgroundcolor="#000000"> Tu jest część gościnna i męska. </font>
+
+63
+00:08:40,440 --> 00:08:43,400
+<font backgroundcolor="#000000"> Oto męski stołek, zwany żółwiem. </font>
+
+64
+00:08:43,560 --> 00:08:49,400
+<font backgroundcolor="#000000"> Dzieci niech spróbują się domyślić, </font>
+<font backgroundcolor="#000000"> dlaczego to jest żółw. </font>
+
+65
+00:08:49,840 --> 00:08:52,000
+<font backgroundcolor="#000000"> Teraz typowy mężczyzna. </font>
+
+66
+00:08:52,160 --> 00:08:56,520
+<font backgroundcolor="#000000"> Typowy mężczyzna siedzi z bronią. </font>
+<font backgroundcolor="#000000"> Najczęściej. </font>
+
+67
+00:08:56,680 --> 00:09:02,800
+<font backgroundcolor="#000000"> Dlaczego? Bo mężczyzna </font>
+<font backgroundcolor="#000000"> jest obrońcą ogniska domowego. </font>
+
+68
+00:09:02,960 --> 00:09:06,840
+<font backgroundcolor="#000000"> Kobieta to ognisko tworzy i o nie dba. </font>
+
+69
+00:09:07,000 --> 00:09:12,160
+<font backgroundcolor="#000000"> Natomiast mężczyzna broni </font>
+<font backgroundcolor="#000000"> ogniska domowego i swojej rodziny. </font>
+
+70
+00:09:12,320 --> 00:09:17,040
+<font backgroundcolor="#000000"> Przed głodem, przed deszczem </font>
+<font backgroundcolor="#000000"> - mężczyźni robią dachy. </font>
+
+71
+00:09:17,200 --> 00:09:19,560
+<font backgroundcolor="#000000"> Przed sąsiednim plemieniem. </font>
+
+72
+00:09:19,720 --> 00:09:21,720
+<font backgroundcolor="#000000"> Mężczyzna jest obrońcą, </font>
+
+73
+00:09:21,880 --> 00:09:25,360
+<font backgroundcolor="#000000"> więc powinien siedzieć </font>
+<font backgroundcolor="#000000"> z bronią w ręku. </font>
+
+74
+00:09:34,800 --> 00:09:38,520
+<font backgroundcolor="#000000"> Cóż to za damski szereg </font>
+<font backgroundcolor="#000000"> za moimi plecami? </font>
+
+75
+00:09:38,680 --> 00:09:43,160
+<font backgroundcolor="#000000"> Źle się czuję, </font>
+<font backgroundcolor="#000000"> trochę mnie gryzie w plecy, wstanę. </font>
+
+76
+00:09:44,240 --> 00:09:47,080
+<font backgroundcolor="#000000"> Pan domu i jego dom. </font>
+
+77
+00:09:47,320 --> 00:09:49,520
+<font backgroundcolor="#000000"> Żony i wszystkie córki. </font>
+
+78
+00:09:49,680 --> 00:09:53,480
+<font backgroundcolor="#000000"> On jest gospodarzem. </font>
+<font backgroundcolor="#000000"> Natomiast to są goście. </font>
+
+79
+00:09:53,640 --> 00:09:58,120
+<font backgroundcolor="#000000"> Za ich plecami żona z dzieckiem, </font>
+<font backgroundcolor="#000000"> które wymaga opieki. </font>
+
+80
+00:09:58,400 --> 00:10:01,640
+<font backgroundcolor="#000000"> Tam kolejny gość z kolejną żoną. </font>
+
+81
+00:10:02,000 --> 00:10:04,080
+<font backgroundcolor="#000000"> Zawsze razem. </font>
+
+82
+00:10:51,040 --> 00:10:57,800
+<font backgroundcolor="#000000"> A za plecami mężczyzn - kobiety. </font>
+<font backgroundcolor="#000000"> Przyszły w gości do sąsiedniego domu. </font>
+
+83
+00:10:58,120 --> 00:11:03,800
+<font backgroundcolor="#000000"> Z bananami. Ale kto będzie jadł </font>
+<font backgroundcolor="#000000"> surowe banany? Trzeba je upiec. </font>
+
+84
+00:11:04,160 --> 00:11:09,680
+<font backgroundcolor="#000000"> Nie siadają po tamtej stronie domu, </font>
+<font backgroundcolor="#000000"> gdzie jest kuchnia miejscowa, </font>
+
+85
+00:11:09,840 --> 00:11:12,320
+<font backgroundcolor="#000000"> tylko w części gościnnej. </font>
+
+86
+00:11:12,480 --> 00:11:14,720
+<font backgroundcolor="#000000"> I pieką banany. </font>
+
+87
+00:11:50,200 --> 00:11:52,440
+<font backgroundcolor="#000000"> Pieczone banany. </font>
+
+88
+00:11:52,720 --> 00:11:57,520
+<font backgroundcolor="#000000"> I byłoby nieuprzejme </font>
+<font backgroundcolor="#000000"> obsługiwać cudzego męża. </font>
+
+89
+00:11:58,240 --> 00:12:00,960
+<font backgroundcolor="#000000"> Obsługuje się tylko własnego. </font>
+
+90
+00:12:01,120 --> 00:12:06,040
+<font backgroundcolor="#000000"> Obsługiwanie cudzego </font>
+<font backgroundcolor="#000000"> - troszkę jak zdrada. Nie wypada. </font>
+
+91
+00:12:22,560 --> 00:12:24,680
+<font backgroundcolor="#000000"> Mężczyzna zjadł. </font>
+
+92
+00:12:24,840 --> 00:12:29,880
+<font backgroundcolor="#000000"> Mężczyzna mruknął dyskretnie </font>
+<font backgroundcolor="#000000"> i kulturalnie do kobiety, </font>
+
+93
+00:12:30,040 --> 00:12:32,040
+<font backgroundcolor="#000000"> że może zabrać. </font>
+
+94
+00:12:32,200 --> 00:12:36,040
+<font backgroundcolor="#000000"> Wtedy ona zabiera, </font>
+<font backgroundcolor="#000000"> je sama i jedzą dzieci. </font>
+
+95
+00:13:29,160 --> 00:13:31,640
+<font backgroundcolor="#000000"> Robótka męska. </font>
+
+96
+00:13:32,000 --> 00:13:36,760
+<font backgroundcolor="#000000"> Pan sobie robi torbę, </font>
+<font backgroundcolor="#000000"> którą zabierze na polowanie. </font>
+
+97
+00:13:36,920 --> 00:13:40,880
+<font backgroundcolor="#000000"> Przecież do strzelby </font>
+<font backgroundcolor="#000000"> trzeba proch, naboje. </font>
+
+98
+00:13:41,040 --> 00:13:45,520
+<font backgroundcolor="#000000"> A może haczyk na ryby </font>
+<font backgroundcolor="#000000"> trzeba zabrać, zapałki. </font>
+
+99
+00:13:45,960 --> 00:13:50,240
+<font backgroundcolor="#000000"> Mężczyzna robi sobie torbę </font>
+<font backgroundcolor="#000000"> z takiego materiału, </font>
+
+100
+00:13:50,400 --> 00:13:54,720
+<font backgroundcolor="#000000"> który państwo już widzieli </font>
+<font backgroundcolor="#000000"> w odcinkach amazońskich. </font>
+
+101
+00:13:54,880 --> 00:14:00,600
+<font backgroundcolor="#000000"> Więc nie będę się wdawał w szczegóły. </font>
+<font backgroundcolor="#000000"> Zaplata się to na nóżce. </font>
+
+102
+00:14:00,760 --> 00:14:03,400
+<font backgroundcolor="#000000"> Jest tu jeszcze drugi materiał, </font>
+
+103
+00:14:03,560 --> 00:14:08,840
+<font backgroundcolor="#000000"> z którego dawno temu </font>
+<font backgroundcolor="#000000"> robiło się takie stroje indiańskie. </font>
+
+104
+00:14:09,000 --> 00:14:12,240
+<font backgroundcolor="#000000"> One miały wtedy kolor bawełniany. </font>
+
+105
+00:14:12,400 --> 00:14:18,080
+<font backgroundcolor="#000000"> Oto dzika bawełna, oczywiście </font>
+<font backgroundcolor="#000000"> po uprzędzeniu już jest nitką. </font>
+
+106
+00:14:18,320 --> 00:14:23,560
+<font backgroundcolor="#000000"> Rośnie wszędzie w Amazonii. </font>
+<font backgroundcolor="#000000"> Idzie się przez las i się zbiera. </font>
+
+107
+00:14:23,720 --> 00:14:27,120
+<font backgroundcolor="#000000"> Nie ma plantacji, </font>
+<font backgroundcolor="#000000"> więc zbiera się długo. </font>
+
+108
+00:14:27,280 --> 00:14:31,480
+<font backgroundcolor="#000000"> A potem przędzie się taką niteczkę </font>
+<font backgroundcolor="#000000"> i przędzie, </font>
+
+109
+00:14:31,640 --> 00:14:37,240
+<font backgroundcolor="#000000"> bo to się robi na takim bączku, </font>
+<font backgroundcolor="#000000"> a nie na jakimś lepszym sprzęcie. </font>
+
+110
+00:14:37,400 --> 00:14:40,560
+<font backgroundcolor="#000000"> I jak już mamy tej nitki narobione, </font>
+
+111
+00:14:40,720 --> 00:14:45,280
+<font backgroundcolor="#000000"> to ile tygodni trzeba, </font>
+<font backgroundcolor="#000000"> żeby zrobić jedną taką suknię? </font>
+
+112
+00:14:45,440 --> 00:14:48,080
+<font backgroundcolor="#000000"> Ona musi być gruba i mocna. </font>
+
+113
+00:14:48,240 --> 00:14:51,920
+<font backgroundcolor="#000000"> Dlatego właśnie </font>
+<font backgroundcolor="#000000"> strój zanika pierwszy. </font>
+
+114
+00:14:52,160 --> 00:14:54,520
+<font backgroundcolor="#000000"> Żeby zrobić taką spódnicę </font>
+
+115
+00:14:54,680 --> 00:15:01,360
+<font backgroundcolor="#000000"> albo kuźmę od szyi do kostek, która </font>
+<font backgroundcolor="#000000"> chroni przed ukąszeniami komarów, </font>
+
+116
+00:15:01,520 --> 00:15:05,120
+<font backgroundcolor="#000000"> trzeba poświęcić dużo czasu i wysiłku. </font>
+
+117
+00:15:05,280 --> 00:15:08,560
+<font backgroundcolor="#000000"> Więc gdy Indianin </font>
+<font backgroundcolor="#000000"> znajdzie miejscowość, </font>
+
+118
+00:15:08,720 --> 00:15:14,680
+<font backgroundcolor="#000000"> gdzie coś takiego można kupić </font>
+<font backgroundcolor="#000000"> od Chińczyka, zdecyduje się na zakupy. </font>
+
+119
+00:15:14,840 --> 00:15:21,400
+<font backgroundcolor="#000000"> Będzie wędził mięso tapira tygodniami, </font>
+<font backgroundcolor="#000000"> żeby mieć się na co wymienić. </font>
+
+120
+00:15:21,560 --> 00:15:24,960
+<font backgroundcolor="#000000"> Dlatego strój zanika pierwszy. </font>
+
+121
+00:16:07,520 --> 00:16:09,720
+<font backgroundcolor="#000000"> Dmuchawki łowców głów. </font>
+
+122
+00:16:10,000 --> 00:16:12,360
+<font backgroundcolor="#000000"> Słynne w muzealnictwie. </font>
+
+123
+00:16:12,760 --> 00:16:16,120
+<font backgroundcolor="#000000"> W całej okolicy amazońskiej </font>
+<font backgroundcolor="#000000"> też słynne. </font>
+
+124
+00:16:16,280 --> 00:16:19,600
+<font backgroundcolor="#000000"> Najpiękniejsze, </font>
+<font backgroundcolor="#000000"> najdłuższe i najlepsze. </font>
+
+125
+00:16:19,760 --> 00:16:23,640
+<font backgroundcolor="#000000"> Wyglądają jak ze szlifowanego </font>
+<font backgroundcolor="#000000"> czarnego szkła. </font>
+
+126
+00:16:23,800 --> 00:16:27,000
+<font backgroundcolor="#000000"> A one są zrobione z drewna, </font>
+
+127
+00:16:27,160 --> 00:16:33,080
+<font backgroundcolor="#000000"> ale powleczone na wierzchu </font>
+<font backgroundcolor="#000000"> żywicą i kauczukiem. </font>
+
+128
+00:16:33,640 --> 00:16:37,800
+<font backgroundcolor="#000000"> Takie czarne coś, </font>
+<font backgroundcolor="#000000"> co w dodatku ładnie pachnie. </font>
+
+129
+00:16:37,960 --> 00:16:40,640
+<font backgroundcolor="#000000"> I polerowane gorącą maczetą. </font>
+
+130
+00:16:40,800 --> 00:16:45,080
+<font backgroundcolor="#000000"> A następnie hartowane na zimno, </font>
+<font backgroundcolor="#000000"> żeby był błysk. </font>
+
+131
+00:16:45,240 --> 00:16:47,120
+<font backgroundcolor="#000000"> Śliczna robota. </font>
+
+132
+00:16:47,280 --> 00:16:49,280
+<font backgroundcolor="#000000"> I bardzo dużo warte. </font>
+
+133
+00:16:49,440 --> 00:16:54,080
+<font backgroundcolor="#000000"> W muzeach biją się o to, </font>
+<font backgroundcolor="#000000"> bo już się takich nie robi. </font>
+
+134
+00:17:19,360 --> 00:17:21,760
+<font backgroundcolor="#000000"> Robótki męskie. </font>
+
+135
+00:17:22,400 --> 00:17:25,760
+<font backgroundcolor="#000000"> Pan struga strzałki do dmuchawki. </font>
+
+136
+00:17:25,920 --> 00:17:28,080
+<font backgroundcolor="#000000"> Już je państwo widzieli. </font>
+
+137
+00:17:28,240 --> 00:17:33,280
+<font backgroundcolor="#000000"> Wtedy były zatrute. </font>
+<font backgroundcolor="#000000"> Tych mogę dotykać, bo nowe. </font>
+
+138
+00:17:33,440 --> 00:17:38,120
+<font backgroundcolor="#000000"> Bardzo ostre z tej strony, </font>
+<font backgroundcolor="#000000"> śliskie, wysmukłe, giętkie. </font>
+
+139
+00:17:38,280 --> 00:17:42,080
+<font backgroundcolor="#000000"> Takie muszą być, </font>
+<font backgroundcolor="#000000"> to nie może się łatwo łamać. </font>
+
+140
+00:17:42,240 --> 00:17:47,760
+<font backgroundcolor="#000000"> Materiał, z którego powstały jest tu. </font>
+<font backgroundcolor="#000000"> Bambus albo twarda trzcina. </font>
+
+141
+00:17:48,080 --> 00:17:50,040
+<font backgroundcolor="#000000"> Nie złamie się łatwo. </font>
+
+142
+00:17:50,200 --> 00:17:53,840
+<font backgroundcolor="#000000"> Nie chcę mu zepsuć, </font>
+<font backgroundcolor="#000000"> ale mocno naciskam. </font>
+
+143
+00:17:54,320 --> 00:17:57,880
+<font backgroundcolor="#000000"> Pierwszy zaniknął strój. </font>
+
+144
+00:17:58,240 --> 00:18:01,280
+<font backgroundcolor="#000000"> A co zanika w drugiej kolejności? </font>
+
+145
+00:18:01,440 --> 00:18:03,680
+<font backgroundcolor="#000000"> Broń indiańska? Nie. </font>
+
+146
+00:18:04,960 --> 00:18:09,640
+<font backgroundcolor="#000000"> Broń palna oczywiście </font>
+<font backgroundcolor="#000000"> jest przedmiotem pożądania. </font>
+
+147
+00:18:09,880 --> 00:18:14,360
+<font backgroundcolor="#000000"> I jak kogoś stać, </font>
+<font backgroundcolor="#000000"> to albo zdobędzie, albo kupi. </font>
+
+148
+00:18:14,600 --> 00:18:19,320
+<font backgroundcolor="#000000"> Natomiast potem trochę kosztowne </font>
+<font backgroundcolor="#000000"> są naboje i proch. </font>
+
+149
+00:18:19,480 --> 00:18:24,280
+<font backgroundcolor="#000000"> Dlatego obok broni palnej </font>
+<font backgroundcolor="#000000"> funkcjonują jeszcze </font>
+
+150
+00:18:24,440 --> 00:18:29,720
+<font backgroundcolor="#000000"> tradycyjne sposoby polowania </font>
+<font backgroundcolor="#000000"> - łuk i strzały albo dmuchawka. </font>
+
+151
+00:18:29,880 --> 00:18:33,600
+<font backgroundcolor="#000000"> W drugiej kolejności </font>
+<font backgroundcolor="#000000"> zanika architektura. </font>
+
+152
+00:18:33,800 --> 00:18:40,040
+<font backgroundcolor="#000000"> Państwo rzucą okiem na kalenicę, </font>
+<font backgroundcolor="#000000"> na to poszycie, na te jętki. </font>
+
+153
+00:18:40,200 --> 00:18:45,200
+<font backgroundcolor="#000000"> To jest ładnie i starannie zrobione, </font>
+<font backgroundcolor="#000000"> mocne trwałe, grube. </font>
+
+154
+00:18:45,360 --> 00:18:47,560
+<font backgroundcolor="#000000"> Wytrzyma dziesięć lat. </font>
+
+155
+00:18:47,760 --> 00:18:51,120
+<font backgroundcolor="#000000"> Ale nowoczesność polega na tym, </font>
+
+156
+00:18:51,280 --> 00:18:55,280
+<font backgroundcolor="#000000"> że w tym miejscu, </font>
+<font backgroundcolor="#000000"> gdzie dym wyżarł dziurę, </font>
+
+157
+00:18:55,440 --> 00:18:59,440
+<font backgroundcolor="#000000"> pojawi się </font>
+<font backgroundcolor="#000000"> kawał blachy falistej. </font>
+
+158
+00:18:59,600 --> 00:19:03,040
+<font backgroundcolor="#000000"> Jak tylko go zdobędą, </font>
+<font backgroundcolor="#000000"> to go tam założą. </font>
+
+159
+00:19:03,200 --> 00:19:05,520
+<font backgroundcolor="#000000"> I on się doskonale sprawdzi. </font>
+
+160
+00:19:05,680 --> 00:19:10,120
+<font backgroundcolor="#000000"> I w końcu to będzie dach </font>
+<font backgroundcolor="#000000"> z blachy falistej. </font>
+
+161
+00:19:10,280 --> 00:19:14,400
+<font backgroundcolor="#000000"> Trwały, ale bardzo gorąco w głowę </font>
+<font backgroundcolor="#000000"> w ciągu dnia. </font>
+
+162
+00:19:14,560 --> 00:19:18,960
+<font backgroundcolor="#000000"> I szybko się studzi to pomieszczenie </font>
+<font backgroundcolor="#000000"> w ciągu nocy. </font>
+
+163
+00:19:19,120 --> 00:19:22,480
+<font backgroundcolor="#000000"> Tutaj też widzimy znak czasów. </font>
+
+164
+00:19:22,640 --> 00:19:24,560
+<font backgroundcolor="#000000"> Pierwsza ściana. </font>
+
+165
+00:19:24,720 --> 00:19:30,040
+<font backgroundcolor="#000000"> Kiedyś się umawialiśmy, </font>
+<font backgroundcolor="#000000"> że tam są kobiety, łoże małżeńskie. </font>
+
+166
+00:19:30,200 --> 00:19:32,840
+<font backgroundcolor="#000000"> A tu jest salon dla gości. </font>
+
+167
+00:19:33,000 --> 00:19:38,280
+<font backgroundcolor="#000000"> Ale podpatrzyliśmy u białych </font>
+<font backgroundcolor="#000000"> albo Metysów ściany w domu. </font>
+
+168
+00:19:38,440 --> 00:19:41,920
+<font backgroundcolor="#000000"> I robimy sobie coś, </font>
+<font backgroundcolor="#000000"> co jest nowoczesne. </font>
+
+169
+00:19:42,080 --> 00:19:49,000
+<font backgroundcolor="#000000"> Tak jak u nas, kiedy wszyscy w pewnym </font>
+<font backgroundcolor="#000000"> momencie wymienili okna na plastikowe. </font>
+
+170
+00:19:49,160 --> 00:19:53,320
+<font backgroundcolor="#000000"> Kolejny znak nowych czasów - szafa. </font>
+
+171
+00:19:53,680 --> 00:19:57,680
+<font backgroundcolor="#000000"> Kiedyś nie było ubrań. </font>
+<font backgroundcolor="#000000"> Było jedno ubranie. </font>
+
+172
+00:19:57,840 --> 00:20:00,800
+<font backgroundcolor="#000000"> Więc niepotrzebna była szafa. </font>
+
+173
+00:20:00,960 --> 00:20:06,320
+<font backgroundcolor="#000000"> Ale teraz mamy ubrań więcej. </font>
+<font backgroundcolor="#000000"> Widzieliśmy szafę. Chcemy nowe. </font>
+
+174
+00:20:06,480 --> 00:20:11,280
+<font backgroundcolor="#000000"> I tak krok po kroku </font>
+<font backgroundcolor="#000000"> starą chałupę zastąpi nowy dom. </font>
+
+175
+00:21:01,480 --> 00:21:05,200
+<font backgroundcolor="#000000"> Rozsadnikami takiej </font>
+<font backgroundcolor="#000000"> nowoczesnej architektury, </font>
+
+176
+00:21:05,360 --> 00:21:09,680
+<font backgroundcolor="#000000"> w indiańskim świecie </font>
+<font backgroundcolor="#000000"> blaszanych daszków, </font>
+
+177
+00:21:09,840 --> 00:21:15,440
+<font backgroundcolor="#000000"> są albo misjonarze, </font>
+<font backgroundcolor="#000000"> albo sekty protestanckie. </font>
+
+178
+00:21:15,840 --> 00:21:19,400
+<font backgroundcolor="#000000"> Dom Boży ma być funkcjonalny. </font>
+
+179
+00:21:19,600 --> 00:21:22,240
+<font backgroundcolor="#000000"> Robi się dach blaszany, </font>
+
+180
+00:21:22,400 --> 00:21:28,280
+<font backgroundcolor="#000000"> bo on nigdy nie przecieka, </font>
+<font backgroundcolor="#000000"> nie wymaga napraw po każdym deszczu. </font>
+
+181
+00:21:28,440 --> 00:21:32,000
+<font backgroundcolor="#000000"> Indianie przychodzą tu </font>
+<font backgroundcolor="#000000"> raz na jakiś czas. </font>
+
+182
+00:21:32,160 --> 00:21:36,040
+<font backgroundcolor="#000000"> Popatrują na ten dach </font>
+<font backgroundcolor="#000000"> - nigdy się nie psuje. </font>
+
+183
+00:21:36,200 --> 00:21:38,200
+<font backgroundcolor="#000000"> Chcą mieć taki sam. </font>
+
+184
+00:21:38,360 --> 00:21:43,320
+<font backgroundcolor="#000000"> Tylko że tu - poza Panem Bogiem - </font>
+<font backgroundcolor="#000000"> nikt nie mieszka na stałe. </font>
+
+185
+00:21:43,480 --> 00:21:48,800
+<font backgroundcolor="#000000"> Więc nie mają pojęcia, że ich </font>
+<font backgroundcolor="#000000"> będzie strasznie grzało w głowę. </font>
+
+186
+00:21:48,960 --> 00:21:54,280
+<font backgroundcolor="#000000"> A jak już sobie zrobią taki </font>
+<font backgroundcolor="#000000"> - to najpiękniejszy dom w wiosce. </font>
+
+187
+00:22:09,600 --> 00:22:15,320
+<font backgroundcolor="#000000"> Patrząc na domy w Amazonii, warto </font>
+<font backgroundcolor="#000000"> wiedzieć o jeszcze jednej rzeczy. </font>
+
+188
+00:22:15,480 --> 00:22:19,160
+<font backgroundcolor="#000000"> Nam domy są </font>
+<font backgroundcolor="#000000"> dużo bardziej potrzebne niż im. </font>
+
+189
+00:22:19,320 --> 00:22:23,120
+<font backgroundcolor="#000000"> U nas - kto nie ma domu, </font>
+<font backgroundcolor="#000000"> nie przetrwa zimy. </font>
+
+190
+00:22:23,280 --> 00:22:28,840
+<font backgroundcolor="#000000"> A tutaj - ściany są opcjonalne, </font>
+<font backgroundcolor="#000000"> jak widać. Raz są, raz nie ma. </font>
+
+191
+00:22:29,000 --> 00:22:31,120
+<font backgroundcolor="#000000"> Tutaj liczy się dach. </font>
+
+192
+00:22:31,280 --> 00:22:37,160
+<font backgroundcolor="#000000"> Porządny dom - to porządny dach, </font>
+<font backgroundcolor="#000000"> bo ulewa przychodzi niezapowiedziana. </font>
+
+193
+00:22:37,320 --> 00:22:40,200
+<font backgroundcolor="#000000"> To jest dom w puszczy tropikalnej. </font>
+
+194
+00:22:40,360 --> 00:22:46,680
+<font backgroundcolor="#000000"> Gdy popatrzymy na tę puszczę z bliska, </font>
+<font backgroundcolor="#000000"> to tam jest szybszy obieg materii. </font>
+
+195
+00:22:46,840 --> 00:22:51,960
+<font backgroundcolor="#000000"> U nas w lesie coś spadnie, </font>
+<font backgroundcolor="#000000"> leży, gnije przez kilka sezonów. </font>
+
+196
+00:22:52,120 --> 00:22:55,760
+<font backgroundcolor="#000000"> Tutaj nie ma zimy, </font>
+<font backgroundcolor="#000000"> która zamraża procesy. </font>
+
+197
+00:22:55,960 --> 00:22:59,760
+<font backgroundcolor="#000000"> Tutaj wszystko, co spada, </font>
+<font backgroundcolor="#000000"> gnije od razu. </font>
+
+198
+00:22:59,920 --> 00:23:06,880
+<font backgroundcolor="#000000"> I dlatego my mamy dom w lesie </font>
+<font backgroundcolor="#000000"> jeden przez wiele pokoleń. </font>
+
+199
+00:23:07,040 --> 00:23:11,920
+<font backgroundcolor="#000000"> Oni mają wiele domów w lesie </font>
+<font backgroundcolor="#000000"> przez jedno pokolenie. </font>
+
+200
+00:23:12,240 --> 00:23:15,920
+<font backgroundcolor="#000000"> I jak się któryś zawali, </font>
+<font backgroundcolor="#000000"> to się go wyrzuca. </font>
+
+201
+00:23:16,080 --> 00:23:19,560
+<font backgroundcolor="#000000"> Tutaj domy są jednorazowe. </font>
+
+202
+00:23:28,120 --> 00:23:32,520
+<font backgroundcolor="#000000"> Pytam pana, </font>
+<font backgroundcolor="#000000"> czy mogę podwędzić jednego, </font>
+
+203
+00:23:32,680 --> 00:23:36,280
+<font backgroundcolor="#000000"> żeby powiedzieć, jakie są pyszne. </font>
+
+204
+00:23:36,440 --> 00:23:42,080
+<font backgroundcolor="#000000"> Ja już wiem, jakie są pyszne, </font>
+<font backgroundcolor="#000000"> ale państwo mi nie uwierzą. </font>
+
+205
+00:23:42,240 --> 00:23:48,240
+<font backgroundcolor="#000000"> Jak zawsze bez soli. I tym razem </font>
+<font backgroundcolor="#000000"> na szczęście także bez smaku. </font>
+
+206
+00:23:52,880 --> 00:23:59,520
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+207
+00:23:59,680 --> 00:24:02,760
+<font backgroundcolor="#000000"> . </font>
+

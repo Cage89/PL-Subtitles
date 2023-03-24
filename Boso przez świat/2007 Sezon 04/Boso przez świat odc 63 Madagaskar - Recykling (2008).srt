@@ -1,0 +1,725 @@
+1
+00:01:45,200 --> 00:01:47,920
+<font backgroundcolor="#000000"> Dzień dobry. </font>
+
+2
+00:01:49,720 --> 00:01:57,880
+<font backgroundcolor="#000000"> Życie w krajach Trzeciego Świata jest </font>
+<font backgroundcolor="#000000"> dużo bardziej spontaniczne niż u nas. </font>
+
+3
+00:02:02,760 --> 00:02:08,520
+<font backgroundcolor="#000000"> My podlegamy różnym regulacjom. </font>
+<font backgroundcolor="#000000"> Zachowujemy się zgodnie z przepisami. </font>
+
+4
+00:02:08,680 --> 00:02:14,400
+<font backgroundcolor="#000000"> Tu większość życia to inicjatywy </font>
+<font backgroundcolor="#000000"> oddolne. Na przykład recykling. </font>
+
+5
+00:02:14,560 --> 00:02:17,520
+<font backgroundcolor="#000000"> Państwo myślą, że robią recykling, </font>
+
+6
+00:02:17,760 --> 00:02:21,120
+<font backgroundcolor="#000000"> jak sortują szkiełka, </font>
+<font backgroundcolor="#000000"> plastiki, papierki? </font>
+
+7
+00:02:21,280 --> 00:02:25,000
+<font backgroundcolor="#000000"> W Europie recykling </font>
+<font backgroundcolor="#000000"> jest wulgarny i ordynarny. </font>
+
+8
+00:02:25,160 --> 00:02:29,440
+<font backgroundcolor="#000000"> Co to za sztuka </font>
+<font backgroundcolor="#000000"> wziąć starą felgę, zanieść do huty, </font>
+
+9
+00:02:29,600 --> 00:02:33,200
+<font backgroundcolor="#000000"> przetopić i zrobić </font>
+<font backgroundcolor="#000000"> nowe felgi albo szyny. </font>
+
+10
+00:02:33,360 --> 00:02:38,120
+<font backgroundcolor="#000000"> Sztuka polega na tym, </font>
+<font backgroundcolor="#000000"> żeby niewielkim wydatkiem energii </font>
+
+11
+00:02:38,280 --> 00:02:44,880
+<font backgroundcolor="#000000"> do starej felgi dołożyć uszy, </font>
+<font backgroundcolor="#000000"> taką dupkę i zrobić piękny piecyk. </font>
+
+12
+00:02:45,640 --> 00:02:51,400
+<font backgroundcolor="#000000"> To naprawdę niewielka inwestycja. </font>
+<font backgroundcolor="#000000"> W dodatku piecyk energooszczędny. </font>
+
+13
+00:02:51,760 --> 00:02:55,120
+<font backgroundcolor="#000000"> Nasz recykling </font>
+<font backgroundcolor="#000000"> pochłania energię w hucie. </font>
+
+14
+00:02:55,280 --> 00:02:57,200
+<font backgroundcolor="#000000"> Tu wsypujemy węgla. </font>
+
+15
+00:02:57,360 --> 00:03:03,760
+<font backgroundcolor="#000000"> Felga się nagrzewa i grzeje długo </font>
+<font backgroundcolor="#000000"> po tym, jak wygasł ogień. Finezyjne. </font>
+
+16
+00:03:03,920 --> 00:03:09,160
+<font backgroundcolor="#000000"> Drugie życie felgi, </font>
+<font backgroundcolor="#000000"> a potem trzecie, czwarte, piąte... </font>
+
+17
+00:03:09,400 --> 00:03:12,760
+<font backgroundcolor="#000000"> Na końcu już tej felgi nie poznajemy. </font>
+
+18
+00:03:12,920 --> 00:03:19,160
+<font backgroundcolor="#000000"> Dopiero wtedy w kraju Trzeciego Świata </font>
+<font backgroundcolor="#000000"> trafi do huty i będzie przetopiona. </font>
+
+19
+00:03:20,680 --> 00:03:26,800
+<font backgroundcolor="#000000"> A na razie spontanicznie </font>
+<font backgroundcolor="#000000"> przetwarzamy wszystko, co się da, </font>
+
+20
+00:03:26,960 --> 00:03:29,320
+<font backgroundcolor="#000000"> na wszystko, co się da. </font>
+
+21
+00:03:29,920 --> 00:03:31,720
+<font backgroundcolor="#000000"> Uwaga systemowa. </font>
+
+22
+00:03:31,880 --> 00:03:36,840
+<font backgroundcolor="#000000"> Ruchy oddolne i spontaniczne </font>
+<font backgroundcolor="#000000"> zawsze są bardziej efektywne </font>
+
+23
+00:03:37,000 --> 00:03:39,400
+<font backgroundcolor="#000000"> od zorganizowanych ustawowo. </font>
+
+24
+00:03:42,520 --> 00:03:47,960
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> MUZYKA REGIONALNA - JEDNOSTAJNY </font></font>
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> RYTM, INSTRUMENTY PERKUSYJNE </font></font>
+
+25
+00:04:29,000 --> 00:04:31,800
+<font backgroundcolor="#000000"> Uliczny warsztat samochodowy. </font>
+
+26
+00:04:32,040 --> 00:04:37,160
+<font backgroundcolor="#000000"> Tu nie naprawiają samochodów, </font>
+<font backgroundcolor="#000000"> ale zrobią wszystko z komórką. </font>
+
+27
+00:04:37,360 --> 00:04:41,400
+<font backgroundcolor="#000000"> Zepsuta - zreperują. </font>
+<font backgroundcolor="#000000"> Simlock założony - zdejmą. </font>
+
+28
+00:04:41,560 --> 00:04:46,440
+<font backgroundcolor="#000000"> U nas też zdejmują simlocki, </font>
+<font backgroundcolor="#000000"> ale nie w takich warunkach. </font>
+
+29
+00:04:46,600 --> 00:04:52,200
+<font backgroundcolor="#000000"> Zaparkował blisko hotelu, gdzie jest </font>
+<font backgroundcolor="#000000"> swobodny dostęp do Internetu. </font>
+
+30
+00:04:52,360 --> 00:04:56,680
+<font backgroundcolor="#000000"> Tu ma coś wsadzone w komputer, </font>
+<font backgroundcolor="#000000"> żeby łapać Internet. </font>
+
+31
+00:04:56,840 --> 00:04:59,960
+<font backgroundcolor="#000000"> Nie uczył się tego w żadnej szkole. </font>
+
+32
+00:05:00,120 --> 00:05:03,120
+<font backgroundcolor="#000000"> U nas, jak facet robi takie rzeczy, </font>
+
+33
+00:05:03,280 --> 00:05:08,600
+<font backgroundcolor="#000000"> skończył szkołę, ma dostęp </font>
+<font backgroundcolor="#000000"> do komputera, oprogramowania. </font>
+
+34
+00:05:08,760 --> 00:05:13,200
+<font backgroundcolor="#000000"> To pokazuje witalność intelektualną </font>
+<font backgroundcolor="#000000"> Trzeciego Świata. </font>
+
+35
+00:05:13,360 --> 00:05:17,280
+<font backgroundcolor="#000000"> Ile w biedzie człowiek </font>
+<font backgroundcolor="#000000"> jest w stanie wymyślić. </font>
+
+36
+00:05:17,440 --> 00:05:21,280
+<font backgroundcolor="#000000"> W Polsce UFO zreperowałby </font>
+<font backgroundcolor="#000000"> młotkiem w garażu. </font>
+
+37
+00:05:21,440 --> 00:05:23,720
+<font backgroundcolor="#000000"> I co? Już? </font>
+
+38
+00:05:24,800 --> 00:05:28,760
+<font backgroundcolor="#000000"> Działa? To trwało 5 minut i działa. </font>
+
+39
+00:05:28,960 --> 00:05:31,080
+<font backgroundcolor="#000000"> Proszę, Makaron. </font>
+
+40
+00:05:31,240 --> 00:05:34,360
+<font backgroundcolor="#000000"> Masz swoją komórkę na cały świat. </font>
+
+41
+00:06:14,280 --> 00:06:16,280
+<font backgroundcolor="#000000"> A teraz zagadka. </font>
+
+42
+00:06:16,440 --> 00:06:18,920
+<font backgroundcolor="#000000"> Jak ta firma się nazywa? </font>
+
+43
+00:06:19,240 --> 00:06:22,240
+<font backgroundcolor="#000000"> Pomarańczowy, czyli Orange. </font>
+
+44
+00:06:49,360 --> 00:06:51,240
+<font backgroundcolor="#000000"> Ten pan to woziwoda. </font>
+
+45
+00:06:51,400 --> 00:06:57,360
+<font backgroundcolor="#000000"> Widać z daleka. Jest na niebiesko </font>
+<font backgroundcolor="#000000"> ubrany. Ma niebieskie klapeczki. </font>
+
+46
+00:06:57,520 --> 00:07:00,400
+<font backgroundcolor="#000000"> Ma niebieskie bidony pełne wody. </font>
+
+47
+00:07:00,560 --> 00:07:04,920
+<font backgroundcolor="#000000"> Dowozi na stragany tyle wody, </font>
+<font backgroundcolor="#000000"> ile kto chce kupić. </font>
+
+48
+00:07:05,080 --> 00:07:09,280
+<font backgroundcolor="#000000"> Wózeczek wprawdzie ma kierownicę, </font>
+<font backgroundcolor="#000000"> ale nie skręca. </font>
+
+49
+00:07:09,440 --> 00:07:13,280
+<font backgroundcolor="#000000"> Natomiast ma koła </font>
+<font backgroundcolor="#000000"> zrobione ze starego łożyska. </font>
+
+50
+00:07:13,440 --> 00:07:15,560
+<font backgroundcolor="#000000"> Wszystko z recyklingu. </font>
+
+51
+00:07:15,880 --> 00:07:18,320
+<font backgroundcolor="#000000"> Woziwoda! </font>
+
+52
+00:07:18,520 --> 00:07:20,840
+<font backgroundcolor="#000000"> Woziwoda! </font>
+
+53
+00:08:07,360 --> 00:08:09,840
+<font backgroundcolor="#000000"> Dziękuję. </font>
+
+54
+00:08:13,800 --> 00:08:20,880
+<font backgroundcolor="#000000"> Większość towarów, które oglądaliśmy </font>
+<font backgroundcolor="#000000"> na bazarze, powstała z takich beczek. </font>
+
+55
+00:08:21,280 --> 00:08:23,280
+<font backgroundcolor="#000000"> Recykling doskonały. </font>
+
+56
+00:08:23,440 --> 00:08:26,320
+<font backgroundcolor="#000000"> Stara beczka po ropie naftowej. </font>
+
+57
+00:08:26,480 --> 00:08:32,280
+<font backgroundcolor="#000000"> Już bezużyteczna, wygnieciona, </font>
+<font backgroundcolor="#000000"> pordzewiała albo przypalona. </font>
+
+58
+00:08:32,440 --> 00:08:36,600
+<font backgroundcolor="#000000"> Benzyny i ropy już w to nie wlewamy, </font>
+<font backgroundcolor="#000000"> bo wybuchnie. </font>
+
+59
+00:08:36,760 --> 00:08:42,120
+<font backgroundcolor="#000000"> Ale możemy to rozciąć, rozwinąć, </font>
+<font backgroundcolor="#000000"> wyprostować i zrobić bramę. </font>
+
+60
+00:08:42,480 --> 00:08:48,480
+<font backgroundcolor="#000000"> Z takich płatów prostowanej blachy </font>
+<font backgroundcolor="#000000"> powstaje tu całe mnóstwo rzeczy. </font>
+
+61
+00:08:48,640 --> 00:08:50,920
+<font backgroundcolor="#000000"> Na przykład taczki. </font>
+
+62
+00:08:51,240 --> 00:08:57,320
+<font backgroundcolor="#000000"> W Europie tę beczkę byśmy przetopili </font>
+<font backgroundcolor="#000000"> i zrobili nowe taczki w fabryce. </font>
+
+63
+00:08:57,520 --> 00:08:59,440
+<font backgroundcolor="#000000"> A tu szkoda energii. </font>
+
+64
+00:08:59,600 --> 00:09:05,360
+<font backgroundcolor="#000000"> Tu rozcina się blachę, wygina </font>
+<font backgroundcolor="#000000"> na nowo i tylko kółeczka nam brakuje. </font>
+
+65
+00:09:05,600 --> 00:09:08,840
+<font backgroundcolor="#000000"> Proszę zobaczyć, </font>
+<font backgroundcolor="#000000"> jakie zmyślne kółeczko. </font>
+
+66
+00:09:09,000 --> 00:09:12,200
+<font backgroundcolor="#000000"> Pan tam spawa. </font>
+
+67
+00:09:12,400 --> 00:09:15,400
+<font backgroundcolor="#000000"> A z czego zrobić oponę? </font>
+<font backgroundcolor="#000000"> Kupić? Nie! </font>
+
+68
+00:09:15,960 --> 00:09:17,920
+<font backgroundcolor="#000000"> Zrobić. </font>
+
+69
+00:09:25,160 --> 00:09:28,680
+<font backgroundcolor="#000000"> Oto opony domowej roboty. </font>
+
+70
+00:09:28,840 --> 00:09:31,520
+<font backgroundcolor="#000000"> U nas opona to jest problem. </font>
+
+71
+00:09:31,760 --> 00:09:36,120
+<font backgroundcolor="#000000"> To się tnie na małe kawałki, </font>
+<font backgroundcolor="#000000"> przetapia, przetwarza. </font>
+
+72
+00:09:36,360 --> 00:09:38,200
+<font backgroundcolor="#000000"> Skomplikowana rzecz. </font>
+
+73
+00:09:38,360 --> 00:09:40,280
+<font backgroundcolor="#000000"> A tu? </font>
+
+74
+00:09:40,480 --> 00:09:42,440
+<font backgroundcolor="#000000"> Stare klapki. </font>
+
+75
+00:09:42,600 --> 00:09:46,160
+<font backgroundcolor="#000000"> Większość osób tutaj </font>
+<font backgroundcolor="#000000"> chodzi w klapkach. </font>
+
+76
+00:09:46,320 --> 00:09:50,440
+<font backgroundcolor="#000000"> Z taką dziurą </font>
+<font backgroundcolor="#000000"> nie poradzi sobie żaden szewc. </font>
+
+77
+00:09:50,600 --> 00:09:53,560
+<font backgroundcolor="#000000"> Moglibyśmy to wyrzucić. </font>
+<font backgroundcolor="#000000"> Ale po co? </font>
+
+78
+00:09:53,720 --> 00:09:57,040
+<font backgroundcolor="#000000"> Możemy wrzucić do wiaderka, przetopić. </font>
+
+79
+00:09:57,200 --> 00:10:02,800
+<font backgroundcolor="#000000"> Z takiej masy stopionych klapek </font>
+<font backgroundcolor="#000000"> robi się właśnie opony do taczek. </font>
+
+80
+00:10:03,000 --> 00:10:05,120
+<font backgroundcolor="#000000"> Recykling doskonały. </font>
+
+81
+00:11:04,760 --> 00:11:09,880
+<font backgroundcolor="#000000"> Handel uliczny - inna typowa cecha </font>
+<font backgroundcolor="#000000"> krajów Trzeciego Świata. </font>
+
+82
+00:11:10,080 --> 00:11:14,880
+<font backgroundcolor="#000000"> Tu ludzie wiedzą, że ulice są nasze </font>
+<font backgroundcolor="#000000"> w naszym państwie. </font>
+
+83
+00:11:15,080 --> 00:11:18,840
+<font backgroundcolor="#000000"> I nikt nie będzie </font>
+<font backgroundcolor="#000000"> od nich żądał placowego. </font>
+
+84
+00:11:19,040 --> 00:11:24,920
+<font backgroundcolor="#000000"> Chyba że na bazarze. Prywatny, </font>
+<font backgroundcolor="#000000"> posprzątany,jest kibelek - należy się. </font>
+
+85
+00:11:25,120 --> 00:11:30,400
+<font backgroundcolor="#000000"> Ale czemu w Polsce nie mogę handlować </font>
+<font backgroundcolor="#000000"> na chodniku przed sklepem? </font>
+
+86
+00:11:30,560 --> 00:11:35,240
+<font backgroundcolor="#000000"> Bo sklepikarz się wkurza, </font>
+<font backgroundcolor="#000000"> że ma ograniczone wejście? </font>
+
+87
+00:11:35,560 --> 00:11:40,440
+<font backgroundcolor="#000000"> Niech ze mną negocjuje, </font>
+<font backgroundcolor="#000000"> żeby miał przejście do sklepu. </font>
+
+88
+00:11:40,600 --> 00:11:47,040
+<font backgroundcolor="#000000"> Bo ja chcę mieć wybór, czy kupię </font>
+<font backgroundcolor="#000000"> tanio na ulicy, bez gwarancji, </font>
+
+89
+00:11:47,200 --> 00:11:51,520
+<font backgroundcolor="#000000"> czy w sklepie </font>
+<font backgroundcolor="#000000"> - drożej, ale z gwarancją. </font>
+
+90
+00:12:10,640 --> 00:12:12,760
+<font backgroundcolor="#000000"> Dziki miód. </font>
+
+91
+00:12:12,920 --> 00:12:15,840
+<font backgroundcolor="#000000"> Spieniony, cudny. </font>
+
+92
+00:12:16,000 --> 00:12:18,640
+<font backgroundcolor="#000000"> Z resztkami plastrów. </font>
+
+93
+00:12:18,800 --> 00:12:21,640
+<font backgroundcolor="#000000"> Ten ile kosztuje? </font>
+
+94
+00:12:25,640 --> 00:12:27,880
+<font backgroundcolor="#000000"> Trzy tysiące ariali. </font>
+
+95
+00:12:28,040 --> 00:12:31,960
+<font backgroundcolor="#000000"> To według mojego przelicznika </font>
+<font backgroundcolor="#000000"> - 4 złote. </font>
+
+96
+00:12:32,280 --> 00:12:35,720
+<font backgroundcolor="#000000"> To ja bym wolał dwa tysiące. </font>
+
+97
+00:12:37,120 --> 00:12:39,600
+<font backgroundcolor="#000000"> Też pasuje? Proszę! </font>
+
+98
+00:12:39,760 --> 00:12:43,000
+<font backgroundcolor="#000000"> Czyli za tysiaka można kupić. </font>
+
+99
+00:13:17,920 --> 00:13:20,360
+<font backgroundcolor="#000000"> To jest recykling kury. </font>
+
+100
+00:13:20,520 --> 00:13:23,240
+<font backgroundcolor="#000000"> Wszystko z kury da się zjeść. </font>
+
+101
+00:13:23,400 --> 00:13:26,880
+<font backgroundcolor="#000000"> A z piór na pewno też coś zrobili. </font>
+
+102
+00:14:32,920 --> 00:14:35,000
+<font backgroundcolor="#000000"> Za mną szalet miejski. </font>
+
+103
+00:14:35,160 --> 00:14:38,880
+<font backgroundcolor="#000000"> I charakterystyczne napisy </font>
+<font backgroundcolor="#000000"> "pipi" i "kaka". </font>
+
+104
+00:14:39,040 --> 00:14:45,120
+<font backgroundcolor="#000000"> Ciekawe, że zrozumiałe </font>
+<font backgroundcolor="#000000"> we wszystkich językach świata. </font>
+
+105
+00:14:45,560 --> 00:14:51,520
+<font backgroundcolor="#000000"> Ale co zrobić, jak się chce i jedno, </font>
+<font backgroundcolor="#000000"> i drugie? Przeskoczyć w trakcie? </font>
+
+106
+00:16:03,240 --> 00:16:07,880
+<font backgroundcolor="#000000"> Na tym stoisku kończą żywot </font>
+<font backgroundcolor="#000000"> wszystkie nasze felgi. </font>
+
+107
+00:16:08,040 --> 00:16:11,480
+<font backgroundcolor="#000000"> Jak już mają za sobą dziewięć żyć. </font>
+
+108
+00:16:11,640 --> 00:16:16,920
+<font backgroundcolor="#000000"> Ostatecznie nieużyteczne skrawki </font>
+<font backgroundcolor="#000000"> metalu trafiają do pieca. </font>
+
+109
+00:16:17,080 --> 00:16:21,920
+<font backgroundcolor="#000000"> Zostają przerobione </font>
+<font backgroundcolor="#000000"> na przykład na takie siekierki. </font>
+
+110
+00:16:22,080 --> 00:16:26,800
+<font backgroundcolor="#000000"> Widać tutaj popękane. </font>
+<font backgroundcolor="#000000"> To jakaś domowa produkcja. </font>
+
+111
+00:16:28,400 --> 00:16:31,400
+<font backgroundcolor="#000000"> Ja potrzebuję czterech takich. </font>
+
+112
+00:16:32,840 --> 00:16:38,400
+<font backgroundcolor="#000000"> Jak pojedziemy do buszu, </font>
+<font backgroundcolor="#000000"> coś takiego stanie się walutą. </font>
+
+113
+00:16:40,240 --> 00:16:45,440
+<font backgroundcolor="#000000"> Czegoś takiego nawet nie umieliby </font>
+<font backgroundcolor="#000000"> policzyć i rozmienić. </font>
+
+114
+00:16:45,600 --> 00:16:47,800
+<font backgroundcolor="#000000"> Ile? </font>
+
+115
+00:16:48,080 --> 00:16:50,320
+<font backgroundcolor="#000000"> A za cztery? </font>
+
+116
+00:16:52,160 --> 00:16:54,920
+<font backgroundcolor="#000000"> Stary, chyba sobie żartujesz. </font>
+
+117
+00:16:55,080 --> 00:17:00,040
+<font backgroundcolor="#000000"> Pan nie filmuje, </font>
+<font backgroundcolor="#000000"> bo za dwie godziny będzie taniej. </font>
+
+118
+00:17:00,200 --> 00:17:03,960
+<font backgroundcolor="#000000"> Stary, cztery kupuję. </font>
+<font backgroundcolor="#000000"> Musi być taniej. </font>
+
+119
+00:17:06,400 --> 00:17:09,880
+<font backgroundcolor="#000000"> Nie ma co się śmiać. </font>
+<font backgroundcolor="#000000"> Ma być taniej! </font>
+
+120
+00:17:12,400 --> 00:17:18,040
+<font backgroundcolor="#000000"> Tamten już, widzę, obniża cenę. </font>
+<font backgroundcolor="#000000"> Jakie ma piękne zęby. Pan pokaże. </font>
+
+121
+00:17:18,560 --> 00:17:20,520
+<font backgroundcolor="#000000"> Ile za to? </font>
+
+122
+00:17:21,080 --> 00:17:26,760
+<font backgroundcolor="#000000"> Nie, stary. W ogóle nie rozmawiamy </font>
+<font backgroundcolor="#000000"> o takich pieniądzach. Mniej. </font>
+
+123
+00:17:32,160 --> 00:17:36,600
+<font backgroundcolor="#000000"> Za twoją cenę </font>
+<font backgroundcolor="#000000"> wezmę sobie pięć siekierek. </font>
+
+124
+00:17:36,840 --> 00:17:41,640
+<font backgroundcolor="#000000"> I teraz robimy cięcie </font>
+<font backgroundcolor="#000000"> - dwa tygodnie później. </font>
+
+125
+00:17:42,200 --> 00:17:44,680
+<font backgroundcolor="#000000"> I utargowałem. </font>
+
+126
+00:17:44,880 --> 00:17:51,040
+<font backgroundcolor="#000000"> Przez dwa tygodnie przychodząc tu </font>
+<font backgroundcolor="#000000"> codziennie, stargowałem o dolara. </font>
+
+127
+00:17:51,200 --> 00:17:53,520
+<font backgroundcolor="#000000"> Dobra. </font>
+
+128
+00:17:54,680 --> 00:17:57,320
+<font backgroundcolor="#000000"> Ile za cztery? </font>
+
+129
+00:18:06,760 --> 00:18:10,640
+<font backgroundcolor="#000000"> Jedna gratis. Na pamiątkę. </font>
+<font backgroundcolor="#000000"> Dla mamusi. </font>
+
+130
+00:18:15,720 --> 00:18:19,840
+<font backgroundcolor="#000000"> Za to płacę, </font>
+<font backgroundcolor="#000000"> a to biorę sobie w prezencie. </font>
+
+131
+00:18:20,000 --> 00:18:23,760
+<font backgroundcolor="#000000"> To biorę - souvenir. </font>
+
+132
+00:18:34,440 --> 00:18:37,960
+<font backgroundcolor="#000000"> Sześć tysięcy za pięć siekierek. </font>
+
+133
+00:19:52,000 --> 00:19:54,040
+<font backgroundcolor="#000000"> Ulica pieczęciarzy. </font>
+
+134
+00:19:54,200 --> 00:20:02,080
+<font backgroundcolor="#000000"> W średniowieczu nazywaliśmy ulice: </font>
+<font backgroundcolor="#000000"> Bednarska, Kowalska, Piwna. </font>
+
+135
+00:20:02,280 --> 00:20:04,640
+<font backgroundcolor="#000000"> Tutaj robią pieczątki. </font>
+
+136
+00:20:04,800 --> 00:20:07,040
+<font backgroundcolor="#000000"> Bardzo ładne wzory. </font>
+
+137
+00:20:07,200 --> 00:20:11,240
+<font backgroundcolor="#000000"> Można wybrać stąd </font>
+<font backgroundcolor="#000000"> albo z bogatego katalogu. </font>
+
+138
+00:20:11,400 --> 00:20:13,920
+<font backgroundcolor="#000000"> I zamówić swoją pieczątkę. </font>
+
+139
+00:20:14,080 --> 00:20:16,960
+<font backgroundcolor="#000000"> Pan zrobił wzorcowe obrazki. </font>
+
+140
+00:20:17,120 --> 00:20:20,640
+<font backgroundcolor="#000000"> Teraz możemy jeszcze zamówić napis. </font>
+
+141
+00:20:21,320 --> 00:20:27,200
+<font backgroundcolor="#000000"> To ich zamiłowanie do pieczątek </font>
+<font backgroundcolor="#000000"> to pozostałość kolonii francuskiej. </font>
+
+142
+00:20:27,360 --> 00:20:32,320
+<font backgroundcolor="#000000"> Francuska biurokracja </font>
+<font backgroundcolor="#000000"> od czasów napoleońskich - potężna. </font>
+
+143
+00:20:32,480 --> 00:20:35,400
+<font backgroundcolor="#000000"> Na wszystkim musi być pieczątka. </font>
+
+144
+00:20:35,600 --> 00:20:38,440
+<font backgroundcolor="#000000"> Pieczątka z kameleonem. </font>
+
+145
+00:20:38,880 --> 00:20:41,760
+<font backgroundcolor="#000000"> Albo z lemurem. </font>
+
+146
+00:20:42,360 --> 00:20:45,040
+<font backgroundcolor="#000000"> Albo z palmą. </font>
+
+147
+00:20:45,200 --> 00:20:51,080
+<font backgroundcolor="#000000"> A ja chcę pieczątkę z urzędem </font>
+<font backgroundcolor="#000000"> skarbowym, że nic nie jestem winien. </font>
+
+148
+00:20:51,400 --> 00:20:54,080
+<font backgroundcolor="#000000"> Tak? Doskonale. Idę zamawiać. </font>
+
+149
+00:20:54,240 --> 00:20:58,280
+<font backgroundcolor="#000000"> Pan zgasi kamerę. </font>
+<font backgroundcolor="#000000"> To się utnie w razie czego. </font>
+
+150
+00:21:57,640 --> 00:22:00,720
+<font backgroundcolor="#000000"> Jeśli ktoś lubi Trzeci Świat, </font>
+
+151
+00:22:00,960 --> 00:22:06,040
+<font backgroundcolor="#000000"> to w strefie międzyzwrotnikowej </font>
+<font backgroundcolor="#000000"> odnajdzie się tak, jak ja. </font>
+
+152
+00:22:06,200 --> 00:22:09,320
+<font backgroundcolor="#000000"> Ja uważam, że tu jest cudownie. </font>
+
+153
+00:22:09,480 --> 00:22:13,400
+<font backgroundcolor="#000000"> Ale ktoś może zapytać, </font>
+<font backgroundcolor="#000000"> co tu można lubić. </font>
+
+154
+00:22:13,560 --> 00:22:16,120
+<font backgroundcolor="#000000"> Poza klimatem - cieplutko. </font>
+
+155
+00:22:16,280 --> 00:22:19,600
+<font backgroundcolor="#000000"> Poza pejzażem, poza florą i fauną. </font>
+
+156
+00:22:19,760 --> 00:22:23,280
+<font backgroundcolor="#000000"> Ja tu lubię to, </font>
+<font backgroundcolor="#000000"> czego mi brak w Europie. </font>
+
+157
+00:22:23,520 --> 00:22:26,800
+<font backgroundcolor="#000000"> Wolność. Tu się nikt </font>
+<font backgroundcolor="#000000"> do mnie nie wtrąca. </font>
+
+158
+00:22:26,960 --> 00:22:29,040
+<font backgroundcolor="#000000"> Nigdy. W żadnej sprawie. </font>
+
+159
+00:23:28,160 --> 00:23:35,760
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+160
+00:23:35,920 --> 00:23:40,760
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+

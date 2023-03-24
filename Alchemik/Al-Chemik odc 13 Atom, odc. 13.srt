@@ -1,0 +1,925 @@
+1
+00:00:07,720 --> 00:00:09,520
+<font color="#FFFF51">Halo!</font>
+
+2
+00:00:15,040 --> 00:00:17,360
+<font color="#FFFF51">Halo! Jest tu ktoś?</font>
+
+3
+00:00:18,120 --> 00:00:20,120
+Alchemiku!
+
+4
+00:00:20,280 --> 00:00:22,560
+<font color="#FFFF51">Wanda?</font>
+
+5
+00:00:22,720 --> 00:00:24,520
+<font color="#FFFF51">To ty?</font>
+
+6
+00:00:24,680 --> 00:00:28,720
+Czy jesteś gotowy na tajną misję?
+
+7
+00:00:28,880 --> 00:00:30,720
+<font color="#FFFF51">Jestem gotowy.</font>
+
+8
+00:00:30,880 --> 00:00:36,000
+<font color="#FFFF51">Nie mogę cię zrozumieć. Nie możemy</font>
+<font color="#FFFF51">rozmawiać twarzą w twarz?</font>
+
+9
+00:00:40,760 --> 00:00:44,520
+Dobra. Chciałam cię
+trochę nastraszyć.
+
+10
+00:00:44,680 --> 00:00:47,560
+<font color="#FFFF51">Już mnie wystraszyłaś tym wnętrzem.</font>
+
+11
+00:00:47,720 --> 00:00:50,360
+<font color="#FFFF51">Co tu się dzieje?</font>
+<font color="#FFFF51">Co to za kotły?</font>
+
+12
+00:00:50,520 --> 00:00:54,680
+<font color="#FFFF51">Czy ty przypadkiem nie używasz</font>
+<font color="#FFFF51">mojego suchego lodu?</font>
+
+13
+00:00:54,840 --> 00:00:59,880
+Przyznaję, trochę sobie pomagam
+tymi twoimi sztuczkami z chemii.
+
+14
+00:01:00,040 --> 00:01:04,040
+<font color="#FFFF51">Czarownico! To nie są sztuczki.</font>
+<font color="#FFFF51">To nauka.</font>
+
+15
+00:01:04,200 --> 00:01:06,960
+Nauka, nauka. No dobrze.
+
+16
+00:01:07,120 --> 00:01:09,280
+Ale wiesz, po co to robię.
+
+17
+00:01:09,440 --> 00:01:14,440
+Zależy mi na tym, żeby w moich
+poddanych wzbudzić strach,
+
+18
+00:01:14,600 --> 00:01:16,960
+niepewność i zagubienie.
+
+19
+00:01:17,120 --> 00:01:20,760
+Czekam, aż zaczną się mnie bać.
+
+20
+00:01:20,920 --> 00:01:23,040
+<font color="#FFFF51">Nie wiem, dlaczego to robisz</font>
+
+21
+00:01:23,200 --> 00:01:26,560
+<font color="#FFFF51">i musisz używać nauki</font>
+<font color="#FFFF51">do takich sztuczek.</font>
+
+22
+00:01:26,720 --> 00:01:29,960
+<font color="#FFFF51">Mam nadzieję,</font>
+<font color="#FFFF51">że Kalina jest bezpieczna.</font>
+
+23
+00:01:30,120 --> 00:01:33,760
+Nie wypowiadaj jej imienia
+w mojej obecności.
+
+24
+00:01:33,920 --> 00:01:37,160
+Teraz ja tu rządzę.
+I moja wielka magia.
+
+25
+00:01:37,320 --> 00:01:41,400
+A żeby tej magii stało się zadość,
+musisz mi pomóc.
+
+26
+00:01:41,560 --> 00:01:44,160
+Żeby wszyscy w tę moją magię...
+
+27
+00:01:44,320 --> 00:01:46,160
+to znaczy naszą magię,
+
+28
+00:01:46,320 --> 00:01:48,120
+uwierzyli.
+
+29
+00:01:57,600 --> 00:02:01,360
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+30
+00:02:01,520 --> 00:02:04,920
+Takiego trudno znaleźć
+na mojej planecie.
+
+31
+00:02:05,080 --> 00:02:08,640
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+32
+00:02:08,800 --> 00:02:12,600
+Kiedy szybko pobiegł za mną,
+nie mogłem czekać.
+
+33
+00:02:12,760 --> 00:02:15,960
+Wskoczyłem do jamy
+be złego zamiaru,
+
+34
+00:02:18,080 --> 00:02:21,440
+by przedostać się do mojego wymiaru.
+
+35
+00:02:21,600 --> 00:02:25,280
+Jednak on poszedł za mną
+
+36
+00:02:25,440 --> 00:02:27,400
+w swojej dobrej wierze.
+
+37
+00:02:27,560 --> 00:02:30,160
+Gdy wyszedł drugą stroną,
+
+38
+00:02:30,320 --> 00:02:32,360
+złapali go rycerze.
+
+39
+00:02:37,320 --> 00:02:40,440
+Pokazali go w pałacu,
+kara go nie ominie.
+
+40
+00:02:40,600 --> 00:02:44,240
+Nagle wyczarował ognie
+królowej Kalinie.
+
+41
+00:02:44,400 --> 00:02:47,640
+Nie był on oszustem,
+nie był czarownikiem,
+
+42
+00:02:47,800 --> 00:02:50,680
+Miał na imię Al i jest alchemikiem.
+
+43
+00:02:53,680 --> 00:02:57,680
+<font color="aqua">Skąd wiesz, że każdy atom</font>
+<font color="aqua">zbudowany jest z jądra?</font>
+
+44
+00:02:57,840 --> 00:02:59,920
+<font color="aqua">Może ci się to przyśniło?</font>
+
+45
+00:03:00,080 --> 00:03:04,960
+Nic mi się nie przyśniło.
+Każdy atom zbudowany jest z jądra.
+
+46
+00:03:05,120 --> 00:03:08,120
+<font color="aqua">Jądro, jądro...</font>
+<font color="aqua">To nie brzmi naukowo.</font>
+
+47
+00:03:08,280 --> 00:03:11,160
+<font color="aqua">To mi się kojarzy</font>
+<font color="aqua">z jajkiem od kury.</font>
+
+48
+00:03:11,320 --> 00:03:15,720
+Czy ty zawsze musisz
+ze mną polemizować w tej kwestii?
+
+49
+00:03:15,880 --> 00:03:17,680
+<font color="aqua">Znowu mnie obrażasz?</font>
+
+50
+00:03:17,840 --> 00:03:23,160
+Polemizować to znaczy wyrażać
+opinię inną od opinii kogoś innego.
+
+51
+00:03:23,320 --> 00:03:25,120
+Rozumiesz?
+
+52
+00:03:25,280 --> 00:03:27,080
+Elektrony.
+
+53
+00:03:27,240 --> 00:03:29,040
+Pamiętasz, czym są?
+
+54
+00:03:29,200 --> 00:03:33,440
+<font color="aqua">Elektron to cząstka elementarna,</font>
+<font color="aqua">podstawowy budulec,</font>
+
+55
+00:03:33,600 --> 00:03:36,120
+<font color="aqua">najmniejszy element.</font>
+
+56
+00:03:36,280 --> 00:03:38,840
+<font color="aqua">Elektrony krążą wokół... jądra.</font>
+
+57
+00:03:39,000 --> 00:03:44,000
+Skoro krążą wokół jądra,
+czyli musi tam być jądro. Rozumiesz?
+
+58
+00:03:46,120 --> 00:03:48,480
+<font color="aqua">Nie, nie rozumiem.</font>
+
+59
+00:03:48,640 --> 00:03:53,520
+Nie rozumiem, jak można nie rozumieć
+tak oczywistych rzeczy.
+
+60
+00:03:53,680 --> 00:03:56,840
+Każdy atom ma jądro.
+<font color="aqua">Bla, bla, bla.</font>
+
+61
+00:03:57,000 --> 00:03:59,280
+<font color="aqua">O, o, o!</font>
+O, o, o!
+
+62
+00:04:02,120 --> 00:04:05,160
+<font color="aqua">Najlepiej nam to wytłumaczy</font>
+<font color="aqua">alchemik.</font>
+
+63
+00:04:05,320 --> 00:04:07,160
+On z nas najlepiej wie.
+
+64
+00:04:07,320 --> 00:04:09,120
+<font color="aqua">Czekaj!</font>
+
+65
+00:04:09,280 --> 00:04:13,520
+<font color="aqua">Zapytaj go tak, żeby nie wyszło,</font>
+<font color="aqua">że jestem głupkiem.</font>
+
+66
+00:04:13,680 --> 00:04:16,120
+Spokojnie, ma się rozumieć.
+
+67
+00:04:16,280 --> 00:04:18,160
+Alchemiku!
+
+68
+00:04:18,320 --> 00:04:22,120
+Mirmił powiedział,
+że jądro, które zawiera atom,
+
+69
+00:04:22,280 --> 00:04:25,000
+kojarzy mu się z jajkiem od kury.
+
+70
+00:04:25,160 --> 00:04:28,760
+I atom wcale nie ma jądra.
+<font color="#FFFF51">Co?</font>
+
+71
+00:04:28,920 --> 00:04:34,120
+<font color="aqua">Nic takiego nie powiedziałem.</font>
+<font color="aqua">Ty nam to pięknie wytłumaczyłeś.</font>
+
+72
+00:04:34,280 --> 00:04:39,920
+<font color="aqua">Bartłomiej powiedział, że proton</font>
+<font color="aqua">i neutron to imiona czarodziejów.</font>
+
+73
+00:04:40,080 --> 00:04:42,240
+Tego już za wiele!
+
+74
+00:04:42,400 --> 00:04:46,040
+Muszę ci coś wbić
+do tej pustej głowy!
+
+75
+00:04:46,200 --> 00:04:49,480
+<font color="#FFFF51">Nie biegamy po laboratorium.</font>
+
+76
+00:04:49,640 --> 00:04:51,600
+Przepraszam.
+
+77
+00:04:51,760 --> 00:04:55,520
+<font color="#FFFF51">Jeszcze raz ja wam</font>
+<font color="#FFFF51">to wszystko wytłumaczę.</font>
+
+78
+00:04:55,680 --> 00:04:59,160
+<font color="aqua">Jeszcze raz biegać?</font>
+<font color="#FFFF51">Ja wam to wytłumaczę.</font>
+
+79
+00:04:59,320 --> 00:05:01,560
+Słuchaj, dowiesz się czegoś.
+
+80
+00:05:01,720 --> 00:05:06,120
+<font color="#FFFF51">Jak już wam mówiłem,</font>
+<font color="#FFFF51">wszechświat składa się z atomów.</font>
+
+81
+00:05:06,280 --> 00:05:08,960
+<font color="#FFFF51">To kwadrylion wigintylionów atomów.</font>
+
+82
+00:05:09,120 --> 00:05:11,040
+Ile?
+<font color="#FFFF51">Dużo.</font>
+
+83
+00:05:11,200 --> 00:05:13,600
+<font color="#FFFF51">Wszystko składa się z atomów.</font>
+
+84
+00:05:13,760 --> 00:05:15,840
+<font color="#FFFF51">Halabarda, ty, ja...</font>
+
+85
+00:05:16,000 --> 00:05:17,800
+<font color="aqua">A ja też?</font>
+<font color="#FFFF51">Nawet ty.</font>
+
+86
+00:05:17,960 --> 00:05:22,120
+<font color="#FFFF51">Już starożytni Grecy</font>
+<font color="#FFFF51">podejrzewali istnienie atomów.</font>
+
+87
+00:05:22,280 --> 00:05:24,840
+<font color="#FFFF51">I z greckiego to słowo pochodzi.</font>
+
+88
+00:05:25,000 --> 00:05:29,600
+<font color="#FFFF51">Atomos - niepodzielny,</font>
+<font color="#FFFF51">taki którego nie da się przeciąć.</font>
+
+89
+00:05:29,760 --> 00:05:34,280
+<font color="#FFFF51">Dziś wiemy, że atom jest podzielny</font>
+<font color="#FFFF51">i ma części składowe.</font>
+
+90
+00:05:34,440 --> 00:05:37,520
+<font color="#FFFF51">Zacznijmy od jądra atomowego.</font>
+Widzisz?
+
+91
+00:05:37,680 --> 00:05:39,480
+<font color="aqua">Dobrze, dobrze.</font>
+
+92
+00:05:39,640 --> 00:05:41,440
+<font color="#FFFF51">To jądro atomowe helu.</font>
+
+93
+00:05:41,600 --> 00:05:45,320
+<font color="#FFFF51">Składa się z dwóch protonów</font>
+<font color="#FFFF51">i dwóch neutronów.</font>
+
+94
+00:05:45,480 --> 00:05:48,040
+<font color="#FFFF51">To cząstki, z których zbudowane są</font>
+
+95
+00:05:48,200 --> 00:05:51,360
+<font color="#FFFF51">jądra atomowe</font>
+<font color="#FFFF51">wszystkich pierwiastków.</font>
+
+96
+00:05:51,520 --> 00:05:56,760
+<font color="#FFFF51">Dla każdego pierwiastka jest</font>
+<font color="#FFFF51">określona liczba protonów w jądrze.</font>
+
+97
+00:05:56,920 --> 00:06:00,560
+<font color="#FFFF51">Liczba neutronów może być różna,</font>
+<font color="#FFFF51">średnio to 1,3.</font>
+
+98
+00:06:00,720 --> 00:06:04,800
+<font color="#FFFF51">Jądro atomowe każdego pierwiastka</font>
+<font color="#FFFF51">jest otoczone</font>
+
+99
+00:06:04,960 --> 00:06:08,040
+<font color="#FFFF51">specyficzną dla niego</font>
+<font color="#FFFF51">liczbą elektronów.</font>
+
+100
+00:06:08,200 --> 00:06:10,000
+<font color="#FFFF51">Hel ma ich zwykle dwa.</font>
+
+101
+00:06:10,160 --> 00:06:13,240
+<font color="#FFFF51">Jądro atomowe</font>
+<font color="#FFFF51">i elektrony tworzą atom.</font>
+
+102
+00:06:13,400 --> 00:06:15,880
+<font color="#FFFF51">Nie wiemy, gdzie są elektrony.</font>
+
+103
+00:06:16,040 --> 00:06:21,040
+<font color="#FFFF51">Miejsce, gdzie możemy je spotkać,</font>
+<font color="#FFFF51">nazywamy chmurą elektronową.</font>
+
+104
+00:06:21,200 --> 00:06:24,400
+<font color="aqua">Każdy atom ma jądro.</font>
+<font color="#FFFF51">Tak.</font>
+
+105
+00:06:24,560 --> 00:06:28,040
+<font color="#FFFF51">Dla każdego pierwiastka</font>
+<font color="#FFFF51">to jądro jest inne.</font>
+
+106
+00:06:28,200 --> 00:06:32,680
+<font color="#FFFF51">W moim ostatnim eksperymencie</font>
+<font color="#FFFF51">używałem kwasu azotowego.</font>
+
+107
+00:06:32,840 --> 00:06:37,320
+<font color="#FFFF51">Jądra atomowe azotu mają</font>
+<font color="#FFFF51">po sześć protonów i neutronów.</font>
+
+108
+00:06:37,480 --> 00:06:40,640
+<font color="aqua">Dużo może być</font>
+<font color="aqua">tych protonów i nutronów?</font>
+
+109
+00:06:40,800 --> 00:06:42,600
+<font color="#FFFF51">Neutronów.</font>
+
+110
+00:06:42,760 --> 00:06:47,280
+<font color="#FFFF51">Owszem. Jądro atomowe uranu,</font>
+<font color="#FFFF51">innego pierwiastka,</font>
+
+111
+00:06:47,440 --> 00:06:51,760
+<font color="#FFFF51">ma aż 92 protony i 146 neutronów.</font>
+
+112
+00:07:00,880 --> 00:07:03,040
+Wasza najjaśniejszość,
+
+113
+00:07:03,200 --> 00:07:05,000
+przybyłem.
+
+114
+00:07:05,160 --> 00:07:09,600
+Henryk Złoty Gagatek,
+mój wierny i oddany sługa.
+
+115
+00:07:09,760 --> 00:07:12,080
+Czekałam na twoje przybycie.
+
+116
+00:07:12,240 --> 00:07:14,240
+To ja przybyłem, jestem.
+
+117
+00:07:15,240 --> 00:07:17,080
+Proszę o przebaczenie.
+
+118
+00:07:17,240 --> 00:07:19,880
+A jak tam nasi poddani?
+
+119
+00:07:20,640 --> 00:07:24,680
+- Już wiedzą, że przejęłam władzę?
+- Tak, wiedzą.
+
+120
+00:07:24,840 --> 00:07:27,000
+Wszystko im powiedziałem.
+
+121
+00:07:27,160 --> 00:07:29,800
+No to dobrze. I co?
+
+122
+00:07:29,960 --> 00:07:32,680
+Jestem bardzo ciekawa. Opowiadaj.
+
+123
+00:07:32,840 --> 00:07:34,720
+- Boją się?
+- Czego?
+
+124
+00:07:34,880 --> 00:07:37,840
+Jak to czego? Chyba raczej kogo?
+
+125
+00:07:38,000 --> 00:07:39,840
+Kogo?
+
+126
+00:07:40,000 --> 00:07:42,800
+- No właśnie mówię, kogo.
+- Kogo?
+
+127
+00:07:42,960 --> 00:07:45,000
+Mnie.
+
+128
+00:07:45,160 --> 00:07:48,240
+Umawialiśmy się,
+że mnie mają się bać.
+
+129
+00:07:48,400 --> 00:07:50,200
+No tak, ciebie.
+
+130
+00:07:50,360 --> 00:07:53,880
+- Nie boją się.
+- Co? Jak to?
+
+131
+00:07:54,040 --> 00:07:58,240
+Dlaczego? Mówiłam ci,
+co masz im powiedzieć.
+
+132
+00:07:58,400 --> 00:08:05,120
+Powiedziałem, że jesteś strasznie
+groźną czarownicą z przełęczy.
+
+133
+00:08:05,280 --> 00:08:07,400
+Że władasz magią i czarami.
+
+134
+00:08:07,560 --> 00:08:11,920
+I to tak, że nikt tak nie włada.
+
+135
+00:08:12,080 --> 00:08:15,240
+Ale to prości ludzie są.
+
+136
+00:08:15,400 --> 00:08:18,440
+Oni nie mają takiej wyobraźni.
+
+137
+00:08:18,600 --> 00:08:23,200
+Oni muszą zobaczyć czary,
+żeby uwierzyć w czary.
+
+138
+00:08:26,240 --> 00:08:28,040
+Aha... Poczekaj!
+
+139
+00:08:28,200 --> 00:08:30,400
+Mówiłeś coś o przebaczeniu.
+
+140
+00:08:30,560 --> 00:08:33,120
+Co miałabym ci przebaczyć?
+
+141
+00:08:34,360 --> 00:08:36,200
+A bo to...
+
+142
+00:08:37,440 --> 00:08:39,760
+Bo królowa Kalina uciekła.
+
+143
+00:08:39,920 --> 00:08:42,880
+Królowa Kalina uciekła!
+
+144
+00:08:43,880 --> 00:08:45,680
+Jak to?
+
+145
+00:08:45,840 --> 00:08:47,360
+Królowa Kalina!
+
+146
+00:08:47,520 --> 00:08:50,240
+<font color="aqua">Królowa Kalina?</font>
+<font color="#FFFF51">Tak.</font>
+
+147
+00:08:50,400 --> 00:08:52,520
+<font color="#FFFF51">Musimy jej pomóc.</font>
+<font color="aqua">Ale jak?</font>
+
+148
+00:08:52,680 --> 00:08:56,640
+<font color="aqua">Nie wiemy, gdzie jest.</font>
+I ta przeklęta czarownica.
+
+149
+00:08:56,800 --> 00:08:58,600
+Co możemy zrobić?
+
+150
+00:08:58,760 --> 00:09:03,080
+<font color="#FFFF51">Możemy ją wystraszyć. Wy możecie.</font>
+Ale jak?
+
+151
+00:09:05,280 --> 00:09:07,120
+<font color="#FFFF51">Efektownym wybuchem.</font>
+
+152
+00:09:07,280 --> 00:09:12,760
+<font color="#FFFF51">Dziś rozkazała, że mam jej pomóc,</font>
+<font color="#FFFF51">by poddani uwierzyli w jej czary.</font>
+
+153
+00:09:12,920 --> 00:09:15,200
+<font color="aqua">Chcesz jej pomóc?</font>
+<font color="#FFFF51">Tak.</font>
+
+154
+00:09:15,360 --> 00:09:17,160
+<font color="#FFFF51">Pomożemy jej.</font>
+
+155
+00:09:17,320 --> 00:09:19,200
+<font color="#FFFF51">I sami ją wystraszymy,</font>
+
+156
+00:09:19,360 --> 00:09:22,720
+<font color="#FFFF51">by uwierzyła,</font>
+<font color="#FFFF51">że jesteście czarodziejami.</font>
+
+157
+00:09:22,880 --> 00:09:24,680
+My? A ty?
+
+158
+00:09:26,680 --> 00:09:28,480
+Nie podoba mi się to.
+
+159
+00:09:28,640 --> 00:09:32,120
+<font color="#FFFF51">Ja nie mogę, bo jestem chemikiem.</font>
+<font color="#FFFF51">Ale wy...</font>
+
+160
+00:09:32,280 --> 00:09:34,080
+<font color="aqua">Czemu nie?</font>
+
+161
+00:09:34,240 --> 00:09:37,400
+<font color="aqua">Nie byłem jeszcze</font>
+<font color="aqua">Mirmiło-czarodziejem.</font>
+
+162
+00:09:39,040 --> 00:09:41,520
+<font color="#FFFF51">Mam tu coś bardzo ciekawego.</font>
+
+163
+00:09:41,680 --> 00:09:43,160
+<font color="#FFFF51">Nitroceluloza.</font>
+
+164
+00:09:44,480 --> 00:09:46,400
+<font color="#FFFF51">To materiał wybuchowy.</font>
+
+165
+00:09:46,560 --> 00:09:50,000
+<font color="#FFFF51">Musimy obchodzić się z nim</font>
+<font color="#FFFF51">ostrożnie.</font>
+
+166
+00:09:50,160 --> 00:09:55,320
+<font color="#FFFF51">Powstaje przez połączenie zwykłej</font>
+<font color="#FFFF51">celulozy z grupami azotowymi.</font>
+
+167
+00:09:55,480 --> 00:10:00,280
+<font color="#FFFF51">Przez wykąpanie zwykłej waty</font>
+<font color="#FFFF51">w specjalnej mieszance kwasów.</font>
+
+168
+00:10:00,440 --> 00:10:04,200
+Ale po co kąpać watę?
+Ubrudziła się?
+
+169
+00:10:04,360 --> 00:10:08,200
+<font color="#FFFF51">Już tłumaczę.</font>
+<font color="#FFFF51">Mówiliśmy wcześniej o azocie.</font>
+
+170
+00:10:08,360 --> 00:10:11,920
+<font color="#FFFF51">Ten pierwiastek</font>
+<font color="#FFFF51">to główny składnik powietrza.</font>
+
+171
+00:10:12,080 --> 00:10:14,720
+<font color="#FFFF51">Wchodzi w skład białek i DNA.</font>
+
+172
+00:10:14,880 --> 00:10:19,280
+<font color="#FFFF51">Kiedyś o nim pogadamy,</font>
+<font color="#FFFF51">bo to superciekawy pierwiastek.</font>
+
+173
+00:10:19,440 --> 00:10:22,080
+<font color="#FFFF51">Ale teraz wróćmy do naszej waty.</font>
+
+174
+00:10:22,240 --> 00:10:25,880
+<font color="#FFFF51">Jeden z kwasów w tej kąpieli</font>
+<font color="#FFFF51">to kwas azotowy.</font>
+
+175
+00:10:26,040 --> 00:10:31,280
+<font color="#FFFF51">Za jego pomocą możemy do zwykłej</font>
+<font color="#FFFF51">celulozy przyłączyć dużo tlenu.</font>
+
+176
+00:10:31,440 --> 00:10:34,280
+<font color="#FFFF51">A jak wiecie,</font>
+<font color="#FFFF51">rzeczy palą się lepiej,</font>
+
+177
+00:10:34,440 --> 00:10:36,240
+<font color="#FFFF51">jeśli mają dużo tlenu.</font>
+
+178
+00:10:36,400 --> 00:10:39,560
+<font color="#FFFF51">Tak pali się zwykła celuloza.</font>
+
+179
+00:10:41,400 --> 00:10:43,480
+Zwykła wata.
+
+180
+00:10:47,960 --> 00:10:50,200
+<font color="aqua">Nie ma tlenu, nie pali się.</font>
+
+181
+00:10:50,360 --> 00:10:52,280
+<font color="#FFFF51">Dobrze pamiętasz.</font>
+
+182
+00:10:52,440 --> 00:10:55,600
+<font color="#FFFF51">A tak pali się nitroceluloza.</font>
+
+183
+00:10:59,640 --> 00:11:01,480
+<font color="aqua">Gdzie ona jest?</font>
+
+184
+00:11:01,640 --> 00:11:07,440
+Teraz na pewno zamkniemy
+przeklętą czarownicę Wandę w lochu.
+
+185
+00:11:07,600 --> 00:11:10,840
+Uwolnimy naszą królową,
+kochaną Kalinę!
+
+186
+00:11:11,000 --> 00:11:12,800
+<font color="#FFFF51">Dokładnie.</font>
+
+187
+00:11:37,240 --> 00:11:39,680
+<font color="#8080FF">KRZYCZĄ</font>
+
+188
+00:11:40,800 --> 00:11:43,040
+<font color="aqua">Poddaj się, zła czarownico!</font>
+
+189
+00:11:43,200 --> 00:11:46,320
+<font color="aqua">Mamy celulozę i zapałki!</font>
+
+190
+00:11:46,480 --> 00:11:49,040
+I jesteśmy wielkimi czarodziejami!
+
+191
+00:11:49,200 --> 00:11:51,840
+I mamy ogromną moc. Pokaż!
+
+192
+00:11:52,000 --> 00:11:53,680
+Dosyć tego!
+
+193
+00:11:53,840 --> 00:11:56,680
+Gdzie się podziewaliście, co?
+
+194
+00:11:56,840 --> 00:11:58,600
+Cały dzień was szukałam.
+
+195
+00:11:58,760 --> 00:12:01,960
+Albo będziecie mi służyć,
+albo do lochu!
+
+196
+00:12:02,120 --> 00:12:04,800
+<font color="aqua">Co ty nam możesz zrobić?</font>
+
+197
+00:12:04,960 --> 00:12:06,760
+Co ja wam mogę zrobić?
+
+198
+00:12:06,920 --> 00:12:08,360
+Gniewko!
+
+199
+00:12:08,520 --> 00:12:12,520
+Bracie, pokaż, co możemy im zrobić.
+
+200
+00:12:12,680 --> 00:12:14,640
+Uwielbiam miażdżyć!
+
+201
+00:12:14,800 --> 00:12:17,000
+Bierz ich, Gniewko!
+
+202
+00:12:18,040 --> 00:12:19,880
+Bartłomieju, bierz go!
+
+203
+00:12:20,040 --> 00:12:22,440
+<font color="#8080FF">KRZYCZY BOJOWO</font>
+
+204
+00:12:32,560 --> 00:12:34,760
+<font color="aqua">Witaj, Gniewko!</font>
+
+205
+00:12:36,120 --> 00:12:39,120
+Cześć, bardzo miło cię poznać.
+
+206
+00:13:04,960 --> 00:13:07,720
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+207
+00:13:07,880 --> 00:13:11,320
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+208
+00:13:13,560 --> 00:13:15,360
+
+

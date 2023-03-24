@@ -1,0 +1,775 @@
+1
+00:00:01,080 --> 00:00:07,720
+<font backgroundcolor="#000000"> Złoty medal na Festiwalu w Nowym Jorku </font>
+<font backgroundcolor="#000000"> za najlepszy program podróżniczy. </font>
+
+2
+00:00:49,920 --> 00:00:52,960
+<font backgroundcolor="#000000"> Mamy 1800 funtów do zabrania. </font>
+
+3
+00:00:53,960 --> 00:00:56,640
+<font backgroundcolor="#000000"> Tyle dźwiga samolot. </font>
+
+4
+00:00:57,640 --> 00:01:00,760
+<font backgroundcolor="#000000"> I lepiej zostawić trochę rezerwy. </font>
+
+5
+00:01:01,640 --> 00:01:07,080
+<font backgroundcolor="#000000"> Waży się ludzi z bagażem podręcznym </font>
+<font backgroundcolor="#000000"> i wodą, którą wypiją. </font>
+
+6
+00:01:08,160 --> 00:01:12,800
+<font backgroundcolor="#000000"> A potem w ostatniej chwili </font>
+<font backgroundcolor="#000000"> każą wszystkim robić siusiu, </font>
+
+7
+00:01:12,960 --> 00:01:15,600
+<font backgroundcolor="#000000"> bo jest o pięć funtów za dużo. </font>
+
+8
+00:01:15,760 --> 00:01:17,680
+<font backgroundcolor="#000000"> Bagaże! </font>
+
+9
+00:01:33,200 --> 00:01:38,680
+<font backgroundcolor="#000000"> Dobrze, że mamy blaszany dach, </font>
+<font backgroundcolor="#000000"> bo zawsze słychać, kiedy pada. </font>
+
+10
+00:01:39,120 --> 00:01:41,400
+<font backgroundcolor="#000000"> Niedobrze, że pada. </font>
+
+11
+00:01:42,600 --> 00:01:46,560
+<font backgroundcolor="#000000"> I niedobrze, </font>
+<font backgroundcolor="#000000"> że mamy pas startowy ziemny. </font>
+
+12
+00:01:46,720 --> 00:01:50,320
+<font backgroundcolor="#000000"> Nie dość, że jak pada, </font>
+<font backgroundcolor="#000000"> to nie można lecieć, </font>
+
+13
+00:01:50,480 --> 00:01:55,160
+<font backgroundcolor="#000000"> to nie można też lecieć, </font>
+<font backgroundcolor="#000000"> jak napada na pas startowy, </font>
+
+14
+00:01:55,320 --> 00:01:57,760
+<font backgroundcolor="#000000"> bo się robi ciamciaramcia. </font>
+
+15
+00:01:59,120 --> 00:02:04,560
+<font backgroundcolor="#000000"> A jak już się doleci i się wyląduje, </font>
+<font backgroundcolor="#000000"> i samolot odleci, </font>
+
+16
+00:02:04,720 --> 00:02:09,720
+<font backgroundcolor="#000000"> i się umówimy, że ma nas odebrać </font>
+<font backgroundcolor="#000000"> w sobotę za dwa tygodnie, </font>
+
+17
+00:02:09,880 --> 00:02:11,720
+<font backgroundcolor="#000000"> i wtedy napada, </font>
+
+18
+00:02:11,880 --> 00:02:15,640
+<font backgroundcolor="#000000"> to jest człowiek uciaramciany, </font>
+<font backgroundcolor="#000000"> aż obeschnie. </font>
+
+19
+00:02:36,040 --> 00:02:40,240
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> HUK SILNIKA </font></font>
+
+20
+00:04:16,680 --> 00:04:21,040
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> MÓWIĄ W LOKALNYM JĘZYKU </font></font>
+
+21
+00:04:29,960 --> 00:04:31,880
+<font backgroundcolor="#000000"> Łowcy głów. </font>
+
+22
+00:04:32,080 --> 00:04:38,400
+<font backgroundcolor="#000000"> Użyłbym innego słowa - nazwy, która </font>
+<font backgroundcolor="#000000"> się utrwaliła w polskiej literaturze - </font>
+
+23
+00:04:38,560 --> 00:04:40,360
+<font backgroundcolor="#000000"> ale nie mogę. </font>
+
+24
+00:04:40,520 --> 00:04:44,800
+<font backgroundcolor="#000000"> Bo to słowo pochodzi </font>
+<font backgroundcolor="#000000"> od sąsiadów tego plemienia. </font>
+
+25
+00:04:44,960 --> 00:04:49,000
+<font backgroundcolor="#000000"> Oni o nich mówili: </font>
+<font backgroundcolor="#000000"> "dzikie bestie", "mordercy". </font>
+
+26
+00:04:49,160 --> 00:04:52,200
+<font backgroundcolor="#000000"> I to słowo przeszło do literatury. </font>
+
+27
+00:04:52,360 --> 00:04:57,120
+<font backgroundcolor="#000000"> A sami siebie, akurat ta podgrupa, </font>
+<font backgroundcolor="#000000"> nazywają Ashuarami. </font>
+
+28
+00:04:57,320 --> 00:05:02,080
+<font backgroundcolor="#000000"> Są jeszcze Shuarowie </font>
+<font backgroundcolor="#000000"> i kilka innych podgrup plemiennych. </font>
+
+29
+00:05:02,240 --> 00:05:07,240
+<font backgroundcolor="#000000"> Mają własne państwo, jak mówią, </font>
+<font backgroundcolor="#000000"> na granicy Peru i Ekwadoru. </font>
+
+30
+00:05:07,400 --> 00:05:12,560
+<font backgroundcolor="#000000"> Na te ziemie nie wpuszczają nikogo, </font>
+<font backgroundcolor="#000000"> żadnej kompanii naftowej. </font>
+
+31
+00:05:12,720 --> 00:05:16,480
+<font backgroundcolor="#000000"> Na te ziemie </font>
+<font backgroundcolor="#000000"> można być tylko zaproszonym. </font>
+
+32
+00:05:16,640 --> 00:05:18,720
+<font backgroundcolor="#000000"> Dawni łowcy głów. </font>
+
+33
+00:05:18,880 --> 00:05:20,880
+<font backgroundcolor="#000000"> Nadal groźni. </font>
+
+34
+00:05:21,040 --> 00:05:24,480
+<font backgroundcolor="#000000"> Tu naprawdę </font>
+<font backgroundcolor="#000000"> nikt nie wchodzi nieproszony. </font>
+
+35
+00:05:25,080 --> 00:05:28,240
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> GŁOŚNE ROZMOWY </font></font>
+
+36
+00:05:32,520 --> 00:05:35,120
+<font backgroundcolor="#000000"> A cóż to takiego? </font>
+
+37
+00:05:35,280 --> 00:05:37,880
+<font backgroundcolor="#000000"> Czemu wszyscy mówią na raz? </font>
+
+38
+00:05:38,040 --> 00:05:40,520
+<font backgroundcolor="#000000"> To jest powitanie rytualne. </font>
+
+39
+00:05:40,680 --> 00:05:46,040
+<font backgroundcolor="#000000"> Nie chodzi o to, żeby zrozumieć, </font>
+<font backgroundcolor="#000000"> co mówi drugi mężczyzna. </font>
+
+40
+00:05:46,200 --> 00:05:52,040
+<font backgroundcolor="#000000"> Chodzi o to, żeby wypowiedzieć </font>
+<font backgroundcolor="#000000"> powitanie w odpowiednim momencie. </font>
+
+41
+00:05:52,280 --> 00:05:56,680
+<font backgroundcolor="#000000"> Ten mówi "dzień dobry". </font>
+<font backgroundcolor="#000000"> Tamten mówi "witojcie". </font>
+
+42
+00:06:29,640 --> 00:06:31,560
+<font backgroundcolor="#000000"> Dwa garnuszki. </font>
+
+43
+00:06:31,720 --> 00:06:36,160
+<font backgroundcolor="#000000"> Ja też miałem dwa, </font>
+<font backgroundcolor="#000000"> a potem jeszcze trzeci i czwarty. </font>
+
+44
+00:06:36,320 --> 00:06:41,800
+<font backgroundcolor="#000000"> U mojej babci był zwyczaj, </font>
+<font backgroundcolor="#000000"> jak przyszedł gość - zabić jedzeniem. </font>
+
+45
+00:06:42,120 --> 00:06:48,120
+<font backgroundcolor="#000000"> Tu jest tak samo. Dostaje się chichę </font>
+<font backgroundcolor="#000000"> od jednej, drugiej, trzeciej pani. </font>
+
+46
+00:06:48,280 --> 00:06:50,600
+<font backgroundcolor="#000000"> Każda przecież trochę inna. </font>
+
+47
+00:07:10,920 --> 00:07:15,880
+<font backgroundcolor="#000000"> Chicha - to cecha charakterystyczna </font>
+<font backgroundcolor="#000000"> plemienia Ashuarów. </font>
+
+48
+00:07:16,040 --> 00:07:20,040
+<font backgroundcolor="#000000"> Tu się wszędzie pije i bez przerwy. </font>
+
+49
+00:07:20,360 --> 00:07:26,520
+<font backgroundcolor="#000000"> A małe główki ludzkie - zmniejszone? </font>
+<font backgroundcolor="#000000"> Może pokażemy proces zmniejszania? </font>
+
+50
+00:07:26,680 --> 00:07:32,320
+<font backgroundcolor="#000000"> 10.00 rano - premiera. Przy śniadaniu </font>
+<font backgroundcolor="#000000"> mamy takie rzeczy pokazywać? </font>
+
+51
+00:07:32,480 --> 00:07:37,360
+<font backgroundcolor="#000000"> Pokazywaliśmy na starych filmach </font>
+<font backgroundcolor="#000000"> Szwarca-Bronikowskiego. </font>
+
+52
+00:07:37,560 --> 00:07:42,440
+<font backgroundcolor="#000000"> Teraz oni główek nie pokazują. </font>
+<font backgroundcolor="#000000"> Nie noszą ich przy pasie. </font>
+
+53
+00:07:42,680 --> 00:07:48,920
+<font backgroundcolor="#000000"> Siedem lat temu była wojna między Peru </font>
+<font backgroundcolor="#000000"> a Ekwadorem. Wtedy pokazali wojsku. </font>
+
+54
+00:07:49,080 --> 00:07:55,160
+<font backgroundcolor="#000000"> Siedem główek żołnierzy, którzy poszli </font>
+<font backgroundcolor="#000000"> na patrol przez ich terytorium. </font>
+
+55
+00:07:55,320 --> 00:07:57,400
+<font backgroundcolor="#000000"> Poszli i nie przyszli. </font>
+
+56
+00:07:57,560 --> 00:08:01,920
+<font backgroundcolor="#000000"> Ale główki pokazano </font>
+<font backgroundcolor="#000000"> i pokazały się też w telewizji. </font>
+
+57
+00:08:02,680 --> 00:08:06,320
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> WOJOWNICZE, GROŹNE OKRZYKI </font></font>
+
+58
+00:08:22,920 --> 00:08:25,080
+<font backgroundcolor="#000000"> Podobno głów nie łowią, </font>
+
+59
+00:08:25,240 --> 00:08:30,520
+<font backgroundcolor="#000000"> ale pilnie strzegą tego, </font>
+<font backgroundcolor="#000000"> by ich dzieci nie zapomniały tradycji. </font>
+
+60
+00:08:30,720 --> 00:08:32,760
+<font backgroundcolor="#000000"> To był wstęp do wojny. </font>
+
+61
+00:09:18,480 --> 00:09:22,800
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> WYMIOTUJE </font></font>
+
+62
+00:09:47,120 --> 00:09:49,280
+<font backgroundcolor="#000000"> Wstaje świt. </font>
+
+63
+00:09:49,440 --> 00:09:53,920
+<font backgroundcolor="#000000"> Więc zimno, </font>
+<font backgroundcolor="#000000"> człowiek sobie grzeje nogi. </font>
+
+64
+00:09:54,200 --> 00:09:57,520
+<font backgroundcolor="#000000"> A co tu się działo wcześniej? </font>
+
+65
+00:09:57,840 --> 00:10:05,160
+<font backgroundcolor="#000000"> Czemu oni,w każdym domu takim jak ten, </font>
+<font backgroundcolor="#000000"> codziennie wstają o drugiej nad ranem. </font>
+
+66
+00:10:05,600 --> 00:10:08,560
+<font backgroundcolor="#000000"> Jeszcze cztery godziny do świtu. </font>
+
+67
+00:10:08,720 --> 00:10:13,200
+<font backgroundcolor="#000000"> Przez cztery godziny coś piją, </font>
+<font backgroundcolor="#000000"> charczą, mlaskają, </font>
+
+68
+00:10:13,360 --> 00:10:16,440
+<font backgroundcolor="#000000"> wymiotują w krzakach. </font>
+
+69
+00:10:16,720 --> 00:10:18,640
+<font backgroundcolor="#000000"> O co tu chodzi? </font>
+
+70
+00:10:18,880 --> 00:10:24,520
+<font backgroundcolor="#000000"> Wszystkie inne plemiona śpią sobie </font>
+<font backgroundcolor="#000000"> w hamakach aż do świtu. </font>
+
+71
+00:10:24,680 --> 00:10:30,520
+<font backgroundcolor="#000000"> Ale to byli, i powiedzmy sobie </font>
+<font backgroundcolor="#000000"> szczerze są, łowcy głów. </font>
+
+72
+00:10:30,680 --> 00:10:33,880
+<font backgroundcolor="#000000"> Kiedyś byli łowcami głów codziennie. </font>
+
+73
+00:10:34,040 --> 00:10:37,000
+<font backgroundcolor="#000000"> Teraz są łowcami głów od święta. </font>
+
+74
+00:10:37,360 --> 00:10:40,560
+<font backgroundcolor="#000000"> Łowcy głów zawsze mieli wielu wrogów. </font>
+
+75
+00:10:40,720 --> 00:10:46,280
+<font backgroundcolor="#000000"> Dlatego wynaleźli taki napój, </font>
+<font backgroundcolor="#000000"> który stymuluje podobnie jak kawa. </font>
+
+76
+00:10:46,440 --> 00:10:49,240
+<font backgroundcolor="#000000"> Piją go o drugiej nad ranem. </font>
+
+77
+00:10:49,440 --> 00:10:51,880
+<font backgroundcolor="#000000"> Potem do świtu są czujni. </font>
+
+78
+00:10:52,040 --> 00:10:55,920
+<font backgroundcolor="#000000"> Przed drugą raczej nikt nie przyjdzie. </font>
+
+79
+00:10:56,080 --> 00:11:01,760
+<font backgroundcolor="#000000"> Bo musiałby wejść na nasze ziemie, </font>
+<font backgroundcolor="#000000"> kiedy jeszcze było światło. </font>
+
+80
+00:11:01,920 --> 00:11:08,960
+<font backgroundcolor="#000000"> W promieniu siedmiu, dziewięciu </font>
+<font backgroundcolor="#000000"> godzin marszu nie ma żadnych wiosek. </font>
+
+81
+00:11:09,240 --> 00:11:13,600
+<font backgroundcolor="#000000"> Natomiast o drugiej nad ranem </font>
+<font backgroundcolor="#000000"> już mogą dojść. </font>
+
+82
+00:11:14,240 --> 00:11:16,560
+<font backgroundcolor="#000000"> Trzeba czuwać. </font>
+
+83
+00:13:17,000 --> 00:13:23,560
+<font backgroundcolor="#000000"> Wstają codziennie o drugiej nad ranem. </font>
+<font backgroundcolor="#000000"> Czy są niewyfonti? </font>
+
+84
+00:13:24,360 --> 00:13:27,600
+<font backgroundcolor="#000000"> Nie, wyfonti są doskonale. </font>
+
+85
+00:13:27,960 --> 00:13:30,240
+<font backgroundcolor="#000000"> Proszę sobie policzyć. </font>
+
+86
+00:13:30,400 --> 00:13:34,040
+<font backgroundcolor="#000000"> Zmrok na równiku zapada o szóstej. </font>
+
+87
+00:13:34,440 --> 00:13:36,600
+<font backgroundcolor="#000000"> Słońce wstaje o szóstej. </font>
+
+88
+00:13:36,760 --> 00:13:40,200
+<font backgroundcolor="#000000"> Stąd nazwa równik </font>
+<font backgroundcolor="#000000"> - permanentna równonoc. </font>
+
+89
+00:13:40,360 --> 00:13:46,960
+<font backgroundcolor="#000000"> Jak ktoś poszedł spać, kiedy zaszło </font>
+<font backgroundcolor="#000000"> słońce, czyli powiedzmy o siódmej, </font>
+
+90
+00:13:47,160 --> 00:13:50,160
+<font backgroundcolor="#000000"> a wstaje o drugiej, to ile spał? </font>
+
+91
+00:13:54,720 --> 00:13:56,600
+<font backgroundcolor="#000000"> Siedem godzin. </font>
+
+92
+00:13:56,760 --> 00:14:00,920
+<font backgroundcolor="#000000"> Normalny mężczyzna </font>
+<font backgroundcolor="#000000"> w siedem godzin się wysypia. </font>
+
+93
+00:14:01,080 --> 00:14:04,200
+<font backgroundcolor="#000000"> A potem jest żwawy, jurny i ochoczy. </font>
+
+94
+00:14:04,360 --> 00:14:07,600
+<font backgroundcolor="#000000"> Szczególnie jeśli napił się czegoś, </font>
+
+95
+00:14:07,760 --> 00:14:13,840
+<font backgroundcolor="#000000"> co powoduje, że jest jeszcze bardziej </font>
+<font backgroundcolor="#000000"> żwawy, jurny i ochoczy od sąsiadów. </font>
+
+96
+00:14:14,120 --> 00:14:20,000
+<font backgroundcolor="#000000"> Oni byli bardziej pracowici, zrywni </font>
+<font backgroundcolor="#000000"> i bardziej skuteczni od sąsiadów. </font>
+
+97
+00:14:20,160 --> 00:14:23,880
+<font backgroundcolor="#000000"> Dlatego do dzisiaj </font>
+<font backgroundcolor="#000000"> mają ogromne terytorium. </font>
+
+98
+00:14:24,040 --> 00:14:29,040
+<font backgroundcolor="#000000"> Jest największe. </font>
+<font backgroundcolor="#000000"> Oni mówią o nim państwo Ashuarów. </font>
+
+99
+00:14:59,440 --> 00:15:03,000
+<font backgroundcolor="#000000"> Malowane twarze Indian. </font>
+<font backgroundcolor="#000000"> Cóż to takiego? </font>
+
+100
+00:15:03,280 --> 00:15:05,200
+<font backgroundcolor="#000000"> Maski. </font>
+
+101
+00:15:05,360 --> 00:15:07,280
+<font backgroundcolor="#000000"> Tak jak w Grecji. </font>
+
+102
+00:15:07,440 --> 00:15:10,040
+<font backgroundcolor="#000000"> Tragiczne, komiczne - maski. </font>
+
+103
+00:15:10,200 --> 00:15:15,240
+<font backgroundcolor="#000000"> Malowana twarz jest rodzajem </font>
+<font backgroundcolor="#000000"> ozdoby albo ubrania. </font>
+
+104
+00:15:15,400 --> 00:15:20,880
+<font backgroundcolor="#000000"> Nosi się ją na co dzień, </font>
+<font backgroundcolor="#000000"> tak jak u nas krawat albo pierścionek. </font>
+
+105
+00:15:21,040 --> 00:15:24,000
+<font backgroundcolor="#000000"> Wtedy powiemy, że to biżuteria. </font>
+
+106
+00:15:24,160 --> 00:15:27,640
+<font backgroundcolor="#000000"> Twarz może też być </font>
+<font backgroundcolor="#000000"> pomalowana rytualnie. </font>
+
+107
+00:15:27,800 --> 00:15:30,640
+<font backgroundcolor="#000000"> Wtedy to jest zbroja wojownika. </font>
+
+108
+00:15:30,800 --> 00:15:35,280
+<font backgroundcolor="#000000"> Żeby mu dodać mocy, </font>
+<font backgroundcolor="#000000"> żeby był bardziej groźny. </font>
+
+109
+00:15:35,440 --> 00:15:37,640
+<font backgroundcolor="#000000"> Proste, prawda? </font>
+
+110
+00:15:38,520 --> 00:15:42,120
+<font backgroundcolor="#000000"> A jak twarz </font>
+<font backgroundcolor="#000000"> jest pomalowana na dwa sposoby? </font>
+
+111
+00:15:42,280 --> 00:15:46,520
+<font backgroundcolor="#000000"> Tutaj maska komediowa, </font>
+<font backgroundcolor="#000000"> a tutaj maska tragiczna? </font>
+
+112
+00:16:02,640 --> 00:16:05,320
+<font backgroundcolor="#000000"> Indianie się nie pocą. </font>
+
+113
+00:16:05,600 --> 00:16:09,200
+<font backgroundcolor="#000000"> Tak są wyewoluowani. </font>
+
+114
+00:16:09,360 --> 00:16:15,080
+<font backgroundcolor="#000000"> Bo jak ktoś się poci w dżungli, </font>
+<font backgroundcolor="#000000"> to się do niego przykleja robactwo. </font>
+
+115
+00:16:15,240 --> 00:16:20,880
+<font backgroundcolor="#000000"> Poza tym czuć go tym potem i robactwo </font>
+<font backgroundcolor="#000000"> przychodzi w większej liczbie. </font>
+
+116
+00:16:21,040 --> 00:16:24,000
+<font backgroundcolor="#000000"> Natomiast biały człowiek się poci, </font>
+
+117
+00:16:24,160 --> 00:16:28,280
+<font backgroundcolor="#000000"> więc zanim się go pomaluje, </font>
+<font backgroundcolor="#000000"> trzeba go obetrzeć. </font>
+
+118
+00:16:29,960 --> 00:16:34,400
+<font backgroundcolor="#000000"> To było na marginesie, </font>
+<font backgroundcolor="#000000"> teraz oficjalnie zaczniemy. </font>
+
+119
+00:17:18,920 --> 00:17:21,760
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> ŚMIECH DZIECI </font></font>
+
+120
+00:17:21,920 --> 00:17:24,200
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> JEDNO ZACZYNA GŁOŚNO PŁAKAĆ </font></font>
+
+121
+00:17:24,400 --> 00:17:29,960
+<font backgroundcolor="#000000"> Teraz muszę sprawdzić, co widzimy, </font>
+<font backgroundcolor="#000000"> a potem wygłoszę mądrości. </font>
+
+122
+00:17:30,200 --> 00:17:33,840
+<font backgroundcolor="#000000"> O żesz ty... </font>
+<font backgroundcolor="#000000"> Kompletny schizofrenik. </font>
+
+123
+00:17:40,360 --> 00:17:45,080
+<font backgroundcolor="#000000"> U niektórych plemion dwie twarze </font>
+<font backgroundcolor="#000000"> malował sobie szaman. </font>
+
+124
+00:17:45,240 --> 00:17:48,920
+<font backgroundcolor="#000000"> Z jednej strony </font>
+<font backgroundcolor="#000000"> radosna i uśmiechnięta. </font>
+
+125
+00:17:49,080 --> 00:17:52,520
+<font backgroundcolor="#000000"> Z drugiej groźna twarz wojownika. </font>
+
+126
+00:17:53,120 --> 00:17:57,880
+<font backgroundcolor="#000000"> Albo z tej strony tatuaż żeński, </font>
+<font backgroundcolor="#000000"> a z tej męski. </font>
+
+127
+00:17:58,120 --> 00:18:00,040
+<font backgroundcolor="#000000"> Dlaczego tak? </font>
+
+128
+00:18:00,200 --> 00:18:03,840
+<font backgroundcolor="#000000"> Bo szaman przebywa stale </font>
+<font backgroundcolor="#000000"> w dwóch światach. </font>
+
+129
+00:18:04,000 --> 00:18:09,200
+<font backgroundcolor="#000000"> Jest tu z nami, ale jednocześnie </font>
+<font backgroundcolor="#000000"> przenika do świata zmarłych. </font>
+
+130
+00:18:09,360 --> 00:18:14,560
+<font backgroundcolor="#000000"> Przychodzi i odchodzi </font>
+<font backgroundcolor="#000000"> z jednego świata do drugiego. </font>
+
+131
+00:18:27,840 --> 00:18:30,040
+<font backgroundcolor="#000000"> Ślicznie? Zmyło się? </font>
+
+132
+00:18:31,240 --> 00:18:34,760
+<font backgroundcolor="#000000"> -  Pytam, czy się zmyło. </font>
+<font backgroundcolor="#000000"> -  Nie zmyło się. </font>
+
+133
+00:18:35,720 --> 00:18:38,800
+<font backgroundcolor="#000000"> Zombie w dżungli na wakacjach. </font>
+
+134
+00:18:43,160 --> 00:18:45,360
+<font backgroundcolor="#000000"> Jeszcze nos. </font>
+
+135
+00:18:45,680 --> 00:18:50,000
+<font backgroundcolor="#000000"> W tej chwili zaczynam </font>
+<font backgroundcolor="#000000"> negocjować nowy kosztorys </font>
+
+136
+00:18:50,160 --> 00:18:53,200
+<font backgroundcolor="#000000"> na program "Boso przez świat". </font>
+
+137
+00:18:53,480 --> 00:19:00,920
+<font backgroundcolor="#000000"> Gdyż przeszczep skóry na ryjek pana </font>
+<font backgroundcolor="#000000"> Wojtka i to luksusowy brazylijski, </font>
+
+138
+00:19:02,040 --> 00:19:04,560
+<font backgroundcolor="#000000"> tak żeby nie było śladów, </font>
+
+139
+00:19:04,720 --> 00:19:08,560
+<font backgroundcolor="#000000"> troszkę będzie </font>
+<font backgroundcolor="#000000"> państwa dyrekcję kosztował. </font>
+
+140
+00:19:09,080 --> 00:19:13,720
+<font backgroundcolor="#000000"> Ależ to szczypie. Jak pasta do butów. </font>
+<font backgroundcolor="#000000"> Już czy jeszcze? </font>
+
+141
+00:19:47,520 --> 00:19:49,760
+<font backgroundcolor="#000000"> Korona z piór. </font>
+
+142
+00:19:50,080 --> 00:19:52,920
+<font backgroundcolor="#000000"> W tym przypadku z piór tukana. </font>
+
+143
+00:19:53,080 --> 00:19:58,000
+<font backgroundcolor="#000000"> Czasami robi się korony </font>
+<font backgroundcolor="#000000"> takie sterczące z piór papugi. </font>
+
+144
+00:19:58,160 --> 00:20:04,320
+<font backgroundcolor="#000000"> Takie proste korony, które można nosić </font>
+<font backgroundcolor="#000000"> codziennie, robi się z piór tukana. </font>
+
+145
+00:20:04,480 --> 00:20:08,000
+<font backgroundcolor="#000000"> Tukany giną, ale jest ich tutaj potąd. </font>
+
+146
+00:20:08,160 --> 00:20:12,520
+<font backgroundcolor="#000000"> Ta korona przypomina </font>
+<font backgroundcolor="#000000"> koronę królowej brytyjskiej. </font>
+
+147
+00:20:12,680 --> 00:20:16,840
+<font backgroundcolor="#000000"> Jedną z wielu, bo są też </font>
+<font backgroundcolor="#000000"> takie balowe sterczące. </font>
+
+148
+00:20:17,000 --> 00:20:21,240
+<font backgroundcolor="#000000"> Ale ta na znaczkach pocztowych </font>
+<font backgroundcolor="#000000"> jest właśnie taka. </font>
+
+149
+00:20:21,400 --> 00:20:24,040
+<font backgroundcolor="#000000"> Ciekawe, która była pierwsza. </font>
+
+150
+00:21:26,800 --> 00:21:33,160
+<font backgroundcolor="#000000"> Tak sobie ołówki wkładają dziewczęta, </font>
+<font backgroundcolor="#000000"> nie wiedziałem, że chłopcy też. </font>
+
+151
+00:21:39,920 --> 00:21:43,600
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> ROZMOWY TUBYLCÓW </font></font>
+
+152
+00:21:44,000 --> 00:21:48,480
+<font backgroundcolor="#000000"> Ashuarów zostało około 40 tysięcy. </font>
+<font backgroundcolor="#000000"> To dobrze. </font>
+
+153
+00:21:48,640 --> 00:21:52,560
+<font backgroundcolor="#000000"> To jest tyle, </font>
+<font backgroundcolor="#000000"> że mogą przetrwać genetycznie. </font>
+
+154
+00:21:52,720 --> 00:21:56,440
+<font backgroundcolor="#000000"> Nie muszą szukać żon </font>
+<font backgroundcolor="#000000"> wśród bliskich krewnych. </font>
+
+155
+00:21:56,600 --> 00:22:00,120
+<font backgroundcolor="#000000"> 40 tysięcy to jest </font>
+<font backgroundcolor="#000000"> dobra pula genetyczna. </font>
+
+156
+00:22:00,280 --> 00:22:02,800
+<font backgroundcolor="#000000"> I groźna pula genetyczna. </font>
+
+157
+00:22:03,040 --> 00:22:05,480
+<font backgroundcolor="#000000"> Uśmiechnięci i przyjaźni. </font>
+
+158
+00:22:05,640 --> 00:22:10,320
+<font backgroundcolor="#000000"> Ale tak jak burza w Amazonii </font>
+<font backgroundcolor="#000000"> wybucha bez ostrzeżenia, </font>
+
+159
+00:22:10,480 --> 00:22:15,520
+<font backgroundcolor="#000000"> tak wojna u tego plemienia </font>
+<font backgroundcolor="#000000"> zawsze wybucha bez ostrzeżenia. </font>
+
+160
+00:22:15,680 --> 00:22:21,520
+<font backgroundcolor="#000000"> Ktoś zachorował. Ktoś inny stwierdził: </font>
+<font backgroundcolor="#000000"> "Ha! Rzucono na niego urok". </font>
+
+161
+00:22:21,840 --> 00:22:24,240
+<font backgroundcolor="#000000"> I to było początkiem wojny. </font>
+
+162
+00:22:24,400 --> 00:22:26,520
+<font backgroundcolor="#000000"> Przywiozłem tutaj katar. </font>
+
+163
+00:22:26,680 --> 00:22:32,360
+<font backgroundcolor="#000000"> Jeśli kichnie ktoś jeszcze poza mną, </font>
+<font backgroundcolor="#000000"> chwilę po tym jak ja kichnę... </font>
+
+164
+00:22:45,680 --> 00:22:51,320
+<font backgroundcolor="#000000"> Kiedy wodzowie ze sobą rozmawiają, </font>
+<font backgroundcolor="#000000"> nie chodzi o wymianę informacji. </font>
+
+165
+00:22:51,480 --> 00:22:55,760
+<font backgroundcolor="#000000"> Tylko o wymianę emocji. </font>
+<font backgroundcolor="#000000"> Dlatego obaj gadają na raz. </font>
+
+166
+00:22:55,920 --> 00:23:00,320
+<font backgroundcolor="#000000"> Sytuacja podobna </font>
+<font backgroundcolor="#000000"> do trzech przyjaciółek w kawiarni. </font>
+
+167
+00:23:00,480 --> 00:23:05,120
+<font backgroundcolor="#000000"> Wszystkie gadają na raz, </font>
+<font backgroundcolor="#000000"> w ogóle się nie słuchają. </font>
+
+168
+00:23:05,280 --> 00:23:08,560
+<font backgroundcolor="#000000"> A im chodzi o wymianę emocji. </font>
+
+169
+00:23:08,720 --> 00:23:15,600
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH: </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+170
+00:23:15,760 --> 00:23:17,880
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+

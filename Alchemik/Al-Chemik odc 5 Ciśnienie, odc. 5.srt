@@ -1,0 +1,1089 @@
+1
+00:00:02,600 --> 00:00:06,160
+<font color="#8080FF">PODŚPIEWUJE CICHO</font>
+
+2
+00:00:09,680 --> 00:00:11,480
+<font color="#FFFF51">O, cześć.</font>
+
+3
+00:00:11,640 --> 00:00:13,440
+<font color="#FFFF51">Nie zauważyłem was.</font>
+
+4
+00:00:13,600 --> 00:00:18,520
+<font color="#FFFF51">Jestem w trakcie przygotowań</font>
+<font color="#FFFF51">do pewnego eksperymentu.</font>
+
+5
+00:00:25,040 --> 00:00:28,280
+<font color="#FFFF51">Od jakiegoś czasu</font>
+<font color="#FFFF51">mam pewne podejrzenie.</font>
+
+6
+00:00:28,440 --> 00:00:31,320
+<font color="#FFFF51">Że powietrze tutaj</font>
+<font color="#FFFF51">jest jakieś inne.</font>
+
+7
+00:00:31,480 --> 00:00:33,640
+<font color="#FFFF51">Takie jakby...</font>
+
+8
+00:00:33,800 --> 00:00:35,600
+<font color="#FFFF51">lepsze?</font>
+
+9
+00:00:35,760 --> 00:00:37,920
+<font color="#FFFF51">Nie jestem jeszcze pewien.</font>
+
+10
+00:00:38,080 --> 00:00:41,240
+<font color="#FFFF51">Dlatego chcę przeprowadzić</font>
+<font color="#FFFF51">parę testów.</font>
+
+11
+00:00:41,400 --> 00:00:43,800
+<font color="#FFFF51">Zacznę od zważenia powietrza.</font>
+
+12
+00:00:43,960 --> 00:00:49,040
+<font color="#FFFF51">Jeśli okaże się, że powietrze tutaj</font>
+<font color="#FFFF51">ma inną wagę niż w moim...</font>
+
+13
+00:00:49,200 --> 00:00:51,600
+<font color="#FFFF51">znaczy się w naszym wymiarze,</font>
+
+14
+00:00:51,760 --> 00:00:56,480
+<font color="#FFFF51">to będzie to pierwsza wskazówka</font>
+<font color="#FFFF51">do tego, że ma inny skład.</font>
+
+15
+00:00:56,640 --> 00:01:01,960
+<font color="#FFFF51">Będziemy potrzebowali do tego</font>
+<font color="#FFFF51">tylko paru elementów i odczynników.</font>
+
+16
+00:01:02,120 --> 00:01:05,400
+<font color="aqua">Alarm! Alarm! Alarm!</font>
+
+17
+00:01:06,120 --> 00:01:10,000
+Szybko, alchemiku,
+pomóż mi przestawić ten stół!
+
+18
+00:01:10,160 --> 00:01:12,920
+<font color="#FFFF51">O co chodzi? Co się dzieje?</font>
+
+19
+00:01:13,080 --> 00:01:16,640
+<font color="aqua">Jeszcze jej nie widać!</font>
+<font color="#FFFF51">Mirmile? Bartłomieju?</font>
+
+20
+00:01:16,800 --> 00:01:20,880
+Musimy zaryglować drzwi. Szybko!
+<font color="#FFFF51">O co chodzi?</font>
+
+21
+00:01:21,040 --> 00:01:23,440
+Szybko! Idzie!
+<font color="#FFFF51">Kto idzie?</font>
+
+22
+00:01:23,600 --> 00:01:27,280
+<font color="aqua">Czarownica!</font>
+<font color="aqua">Dowiedziała się o twoim istnieniu.</font>
+
+23
+00:01:27,440 --> 00:01:30,440
+<font color="aqua">Chce zamienić cię</font>
+<font color="aqua">w mysz albo w żabę.</font>
+
+24
+00:01:30,600 --> 00:01:35,240
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+25
+00:01:35,400 --> 00:01:38,960
+Takiego trudno znaleźć
+na mojej planecie.
+
+26
+00:01:39,120 --> 00:01:42,520
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+27
+00:01:42,680 --> 00:01:46,280
+Pokazali go w pałacu,
+kara go nie ominie.
+
+28
+00:01:46,440 --> 00:01:49,600
+Nagle wyczarował ognie
+królowej Kalinie.
+
+29
+00:01:49,760 --> 00:01:53,160
+Nie był on oszustem,
+nie był czarownikiem.
+
+30
+00:01:53,320 --> 00:01:56,120
+Ma na imię Al i jest alchemikiem.
+
+31
+00:01:58,320 --> 00:02:00,480
+<font color="#16F158">Ostatnio doszły nas słuchy,</font>
+
+32
+00:02:00,640 --> 00:02:04,360
+<font color="#16F158">że nasza kochana czarownica</font>
+<font color="#16F158">z przełęczy Wanda</font>
+
+33
+00:02:04,520 --> 00:02:08,400
+<font color="#16F158">dowiedziała się,</font>
+<font color="#16F158">że mamy nietypowego gościa.</font>
+
+34
+00:02:08,560 --> 00:02:10,360
+<font color="#16F158">Mówię o panu.</font>
+
+35
+00:02:10,520 --> 00:02:14,680
+<font color="#16F158">Nie chciałabym tworzyć</font>
+<font color="#16F158">sztucznego ciśnienia,</font>
+
+36
+00:02:14,840 --> 00:02:18,560
+<font color="#16F158">przyjaźnimy się z Wandą,</font>
+<font color="#16F158">ale czasem ją ponosi.</font>
+
+37
+00:02:18,720 --> 00:02:24,040
+<font color="#16F158">Wybucha nieracjonalnym gniewem,</font>
+<font color="#16F158">gdy widzi kogoś, kto też czaruje.</font>
+
+38
+00:02:24,200 --> 00:02:26,000
+<font color="#FFFF51">Ale ja nie czaruję.</font>
+
+39
+00:02:26,160 --> 00:02:27,960
+<font color="#FFFF51">Jestem chemikiem.</font>
+
+40
+00:02:28,120 --> 00:02:32,680
+<font color="#FFFF51">Może czarownica Wanda</font>
+<font color="#FFFF51">ma po prostu za wysokie ciśnienie.</font>
+
+41
+00:02:32,840 --> 00:02:34,640
+<font color="#16F158">Całkiem możliwe.</font>
+
+42
+00:02:34,800 --> 00:02:38,520
+<font color="#16F158">Faktycznie, ciśnienie wpływa</font>
+<font color="#16F158">na jej nastrój.</font>
+
+43
+00:02:38,680 --> 00:02:41,920
+<font color="#16F158">Dobrze pan to zauważył,</font>
+<font color="#16F158">drogi alchemiku.</font>
+
+44
+00:02:42,080 --> 00:02:47,720
+<font color="#FFFF51">Strażnicy wspominali, że Wanda umie</font>
+<font color="#FFFF51">zamieniać ludzi w małe zwierzęta.</font>
+
+45
+00:02:47,880 --> 00:02:49,680
+<font color="#FFFF51">To prawda?</font>
+
+46
+00:02:49,840 --> 00:02:53,200
+<font color="#16F158">Ostatni czarnoksiężnik</font>
+<font color="#16F158">Henryk Złoty Gagatek</font>
+
+47
+00:02:53,360 --> 00:02:55,400
+<font color="#16F158">został zamieniony w żabę</font>
+
+48
+00:02:55,560 --> 00:02:57,520
+<font color="#16F158">czy tam mysz.</font>
+
+49
+00:02:57,680 --> 00:03:01,440
+<font color="#16F158">Nie ma dowodów na to,</font>
+<font color="#16F158">że mogła to być Wanda.</font>
+
+50
+00:03:01,600 --> 00:03:04,000
+<font color="#16F158">Ale skoro pewnego dnia był,</font>
+
+51
+00:03:04,160 --> 00:03:07,760
+<font color="#16F158">a potem na jego miejscu</font>
+<font color="#16F158">pojawiła się żaba,</font>
+
+52
+00:03:07,920 --> 00:03:10,480
+<font color="#16F158">to odpowiedź jest jednoznaczna.</font>
+
+53
+00:03:10,640 --> 00:03:14,280
+<font color="#FFFF51">Że czarownica zamieniła go w żabę?</font>
+<font color="#16F158">Dokładnie.</font>
+
+54
+00:03:14,440 --> 00:03:16,400
+<font color="#16F158">Ma pan inną hipotezę?</font>
+
+55
+00:03:16,560 --> 00:03:20,080
+<font color="#FFFF51">Mogę zadać pytanie?</font>
+<font color="#16F158">Oczywiście.</font>
+
+56
+00:03:20,240 --> 00:03:25,760
+<font color="#FFFF51">Czy Henryk Złoty Gagatek ma brodę?</font>
+<font color="#16F158">Tak, ma brodę.</font>
+
+57
+00:03:25,920 --> 00:03:28,080
+<font color="#FFFF51">Czy on może chodzi boso?</font>
+
+58
+00:03:28,240 --> 00:03:29,880
+<font color="#16F158">Chodzi boso.</font>
+
+59
+00:03:30,040 --> 00:03:33,080
+<font color="#FFFF51">Umie dynamicznie skakać?</font>
+<font color="#16F158">Tak.</font>
+
+60
+00:03:35,320 --> 00:03:38,840
+<font color="#16F158">Skąd pan wie,</font>
+<font color="#16F158">jak wygląda Henryk Złoty Gagatek?</font>
+
+61
+00:03:39,000 --> 00:03:41,160
+<font color="#FFFF51">Bo ja go widziałem.</font>
+
+62
+00:03:41,320 --> 00:03:45,680
+<font color="#FFFF51">To on mnie tu przeniósł,</font>
+<font color="#FFFF51">gdy śledziłem go w lesie.</font>
+
+63
+00:03:45,840 --> 00:03:51,560
+<font color="#FFFF51">Wskoczył do piaskowej jamy,</font>
+<font color="#FFFF51">poszedłem za nim i trafiłem tutaj.</font>
+
+64
+00:03:51,720 --> 00:03:55,720
+<font color="#16F158">Więc nie został zamieniony w żabę?</font>
+<font color="#FFFF51">Na to wygląda.</font>
+
+65
+00:03:55,880 --> 00:04:00,960
+<font color="#FFFF51">Być może opuścił zamek,</font>
+<font color="#FFFF51">a Mirmił spotkał żabę czy mysz</font>
+
+66
+00:04:01,120 --> 00:04:03,200
+<font color="#FFFF51">i pomyślał, że to Henryk.</font>
+
+67
+00:04:03,360 --> 00:04:06,120
+<font color="#FFFF51">Taką mam hipotezę na ten moment.</font>
+
+68
+00:04:07,000 --> 00:04:11,080
+<font color="#FFFF51">Widzę, że to królowej</font>
+<font color="#FFFF51">podskoczyło teraz ciśnienie.</font>
+
+69
+00:04:11,240 --> 00:04:13,520
+<font color="#16F158">Jakże inaczej.</font>
+
+70
+00:04:13,680 --> 00:04:18,720
+<font color="#16F158">Jeśli Henryk nie został zamieniony</font>
+<font color="#16F158">w żabę, to znaczy, że jest sobą.</font>
+
+71
+00:04:18,880 --> 00:04:22,480
+<font color="#16F158">A to znaczy,</font>
+<font color="#16F158">że współpracuje z czarownicą,</font>
+
+72
+00:04:22,640 --> 00:04:26,200
+<font color="#16F158">a to znaczy,</font>
+<font color="#16F158">że jesteś w niebezpieczeństwie.</font>
+
+73
+00:04:26,360 --> 00:04:28,600
+<font color="#16F158">Straże!!!</font>
+
+74
+00:04:28,760 --> 00:04:32,640
+<font color="aqua">Tak, najjaśniejsza pani!</font>
+Czym możemy służyć?
+
+75
+00:04:32,800 --> 00:04:37,240
+<font color="#16F158">Ciśnienie jest bardzo wysokie.</font>
+<font color="aqua">Ciśnienie, wasza wysokość?</font>
+
+76
+00:04:37,400 --> 00:04:39,720
+<font color="#16F158">Tak, trzeba coś wymyślić,</font>
+
+77
+00:04:39,880 --> 00:04:45,120
+<font color="#16F158">by Henryk, kiedy się tu zjawi,</font>
+<font color="#16F158">nie porwał naszego alchemika.</font>
+
+78
+00:04:45,280 --> 00:04:47,080
+On jest myszą.
+<font color="aqua">Żabą.</font>
+
+79
+00:04:47,240 --> 00:04:49,040
+<font color="aqua">Henryk jest żabą.</font>
+
+80
+00:04:49,200 --> 00:04:51,600
+<font color="#16F158">Kimkolwiek jest, to nadal Henryk</font>
+
+81
+00:04:51,760 --> 00:04:55,200
+<font color="#16F158">i nie na darmo</font>
+<font color="#16F158">nosi przydomek Gagatek.</font>
+
+82
+00:04:55,360 --> 00:04:56,880
+<font color="#16F158">Odmaszerować! Wykonać!</font>
+
+83
+00:04:57,040 --> 00:04:59,320
+<font color="aqua">Tak jest!</font>
+Tak jest.
+
+84
+00:05:08,680 --> 00:05:12,760
+<font color="aqua">O jakim ciśnieniu mówiła królowa?</font>
+Pojęcia nie mam.
+
+85
+00:05:12,920 --> 00:05:15,800
+Prawdopodobnie znowu coś nabroiłeś.
+
+86
+00:05:15,960 --> 00:05:18,400
+<font color="aqua">Ja?</font>
+Ty.
+
+87
+00:05:18,560 --> 00:05:19,960
+Oczywiście, że ty.
+
+88
+00:05:20,120 --> 00:05:24,400
+<font color="aqua">To ty jesteś zapalnikiem</font>
+<font color="aqua">wszystkich kłopotów.</font>
+
+89
+00:05:24,560 --> 00:05:29,280
+<font color="aqua">A że czarownica z Henrykiem</font>
+<font color="aqua">się pojawili to też moja wina?</font>
+
+90
+00:05:29,440 --> 00:05:31,240
+A czyja?
+
+91
+00:05:31,400 --> 00:05:35,640
+<font color="#FFFF51">Panowie, możecie trochę ciszej?</font>
+<font color="#FFFF51">Nie mogę się skupić.</font>
+
+92
+00:05:35,800 --> 00:05:38,360
+<font color="aqua">Alchemiku, ty nam pomożesz.</font>
+
+93
+00:05:38,520 --> 00:05:42,920
+<font color="aqua">To, o czym mówiła królowa,</font>
+<font color="aqua">to o jakim ciśnieniu mówiła?</font>
+
+94
+00:05:43,080 --> 00:05:47,240
+<font color="#FFFF51">Ciśnienie to wartość skalarna</font>
+<font color="#FFFF51">określająca sumę sił</font>
+
+95
+00:05:47,400 --> 00:05:51,880
+<font color="#FFFF51">działających na powierzchnię</font>
+<font color="#FFFF51">prostopadle do niej.</font>
+
+96
+00:05:52,040 --> 00:05:53,840
+<font color="aqua">On nas obraża.</font>
+
+97
+00:05:56,400 --> 00:05:58,240
+Czy ty nas obrażasz?
+
+98
+00:06:00,200 --> 00:06:02,080
+<font color="#FFFF51">Nie obrażam.</font>
+
+99
+00:06:02,240 --> 00:06:05,240
+<font color="#FFFF51">Wytłumaczę wam,</font>
+<font color="#FFFF51">co to jest ciśnienie.</font>
+
+100
+00:06:05,400 --> 00:06:09,560
+<font color="#FFFF51">Napiszmy wzór, wtedy będzie</font>
+<font color="#FFFF51">nam prościej zrozumieć.</font>
+
+101
+00:06:09,720 --> 00:06:11,440
+<font color="#FFFF51">Ciśnienie, czyli p,</font>
+
+102
+00:06:11,600 --> 00:06:16,080
+<font color="#FFFF51">to jest suma sił działających</font>
+<font color="#FFFF51">prostopadle do powierzchni.</font>
+
+103
+00:06:16,240 --> 00:06:18,400
+<font color="#FFFF51">To jest wzór na ciśnienie.</font>
+
+104
+00:06:18,560 --> 00:06:21,280
+<font color="#FFFF51">Może teraz będzie wam łatwiej.</font>
+
+105
+00:06:21,440 --> 00:06:25,480
+<font color="aqua">Ale ciśnienie</font>
+<font color="aqua">to nie jest "p" tylko "ci".</font>
+
+106
+00:06:25,640 --> 00:06:29,760
+<font color="#FFFF51">Dobrze, że zwróciłeś na to uwagę.</font>
+<font color="#FFFF51">Już ci tłumaczę.</font>
+
+107
+00:06:29,920 --> 00:06:33,640
+<font color="#FFFF51">W moim świecie jest</font>
+<font color="#FFFF51">wielu naukowców i badaczy.</font>
+
+108
+00:06:33,800 --> 00:06:37,040
+<font color="#FFFF51">I oni wszędzie mieszkają.</font>
+
+109
+00:06:37,200 --> 00:06:40,480
+<font color="#FFFF51">Nie wszyscy mówią</font>
+<font color="#FFFF51">tym samym językiem.</font>
+
+110
+00:06:40,640 --> 00:06:44,520
+<font color="#FFFF51">Więc jest taka reguła,</font>
+<font color="#FFFF51">że wybrano jeden język,</font>
+
+111
+00:06:44,680 --> 00:06:48,160
+<font color="#FFFF51">którym wszyscy naukowcy</font>
+<font color="#FFFF51">będą się dogadywać.</font>
+
+112
+00:06:48,320 --> 00:06:51,120
+<font color="#FFFF51">Żeby mówili w jednym języku.</font>
+
+113
+00:06:51,280 --> 00:06:54,360
+<font color="#FFFF51">Ten język u mnie</font>
+<font color="#FFFF51">nazywa się angielski.</font>
+
+114
+00:06:54,520 --> 00:06:57,040
+Anielski.
+<font color="#FFFF51">Angielski. Od Anglii.</font>
+
+115
+00:06:57,200 --> 00:07:01,800
+<font color="#FFFF51">Po angielsku słowa czasem</font>
+<font color="#FFFF51">brzmią i zaczynają się inaczej</font>
+
+116
+00:07:01,960 --> 00:07:03,760
+<font color="#FFFF51">niż w naszym języku.</font>
+
+117
+00:07:03,920 --> 00:07:06,600
+<font color="#FFFF51">To jest wzór z angielskich słów.</font>
+
+118
+00:07:06,760 --> 00:07:11,520
+<font color="#FFFF51">My mówimy ciśnienie, a Anglicy</font>
+<font color="#FFFF51">mówią "pressure", czyli "p".</font>
+
+119
+00:07:11,680 --> 00:07:14,560
+<font color="#FFFF51">Siła to "force",</font>
+
+120
+00:07:14,720 --> 00:07:17,760
+<font color="#FFFF51">a powierzchnia to "surface".</font>
+
+121
+00:07:17,920 --> 00:07:20,800
+<font color="#FFFF51">Tylko pamiętajcie,</font>
+<font color="#FFFF51">to jest małe "p".</font>
+
+122
+00:07:20,960 --> 00:07:22,880
+<font color="#FFFF51">To ma znaczenie.</font>
+
+123
+00:07:23,040 --> 00:07:25,520
+<font color="#FFFF51">To jest właśnie wzór na ciśnienie.</font>
+
+124
+00:07:25,680 --> 00:07:28,360
+<font color="#FFFF51">Może teraz będzie wam łatwiej.</font>
+
+125
+00:07:28,520 --> 00:07:31,040
+To o tym właśnie mówiła królowa?
+
+126
+00:07:31,200 --> 00:07:33,520
+<font color="#FFFF51">No nie do końca.</font>
+
+127
+00:07:33,680 --> 00:07:37,560
+<font color="#FFFF51">Spróbuję wam to</font>
+<font color="#FFFF51">jakoś inaczej wytłumaczyć.</font>
+
+128
+00:07:37,720 --> 00:07:40,960
+<font color="#FFFF51">Wiele słów ma</font>
+<font color="#FFFF51">w sobie ukrytą podpowiedź,</font>
+
+129
+00:07:41,120 --> 00:07:44,440
+<font color="#FFFF51">która nam mówi,</font>
+<font color="#FFFF51">o co w tym słowie chodzi.</font>
+
+130
+00:07:44,600 --> 00:07:47,480
+<font color="#FFFF51">Moim ulubionym słowem jest</font>
+<font color="#FFFF51">"żarówka".</font>
+
+131
+00:07:47,640 --> 00:07:52,400
+<font color="#FFFF51">Wiem, że coś tam się żarzy,</font>
+<font color="#FFFF51">ale wy nie macie żarówek.</font>
+
+132
+00:07:52,560 --> 00:07:54,560
+<font color="#FFFF51">Zostańmy przy ciśnieniu.</font>
+
+133
+00:07:54,720 --> 00:07:58,360
+<font color="#FFFF51">"Ciśnienie" - od razu wiadomo,</font>
+<font color="#FFFF51">że coś na coś...</font>
+
+134
+00:07:58,520 --> 00:08:00,680
+<font color="aqua">Ciśnie!</font>
+<font color="#FFFF51">Naciska.</font>
+
+135
+00:08:00,840 --> 00:08:03,480
+<font color="#FFFF51">No, w sumie dobrze, ciśnie.</font>
+
+136
+00:08:03,640 --> 00:08:07,040
+<font color="#FFFF51">Właśnie tak jest</font>
+<font color="#FFFF51">z tym słowem "ciśnienie".</font>
+
+137
+00:08:07,200 --> 00:08:10,080
+<font color="#FFFF51">Byłem w trakcie</font>
+<font color="#FFFF51">innego eksperymentu.</font>
+
+138
+00:08:10,240 --> 00:08:13,960
+<font color="#FFFF51">Chciałem zważyć powietrze, ale...</font>
+
+139
+00:08:14,120 --> 00:08:17,960
+<font color="aqua">Stop! Powietrza się nie da zważyć.</font>
+
+140
+00:08:18,120 --> 00:08:22,600
+<font color="#FFFF51">Wiele osób o tym zapomina,</font>
+<font color="#FFFF51">ale powietrze też coś waży.</font>
+
+141
+00:08:22,760 --> 00:08:26,480
+<font color="#FFFF51">Dla nas jest tak rzadkie,</font>
+<font color="#FFFF51">że prawie go nie czujemy.</font>
+
+142
+00:08:26,640 --> 00:08:32,320
+<font color="#FFFF51">Ale ono coś waży i jak wszystko,</font>
+<font color="#FFFF51">co ma wagę, powietrze naciska.</font>
+
+143
+00:08:32,480 --> 00:08:34,280
+<font color="#FFFF51">Możemy nacisk zmieniać,</font>
+
+144
+00:08:34,440 --> 00:08:37,680
+<font color="#FFFF51">bo powietrze da się</font>
+<font color="#FFFF51">ściskać i rozciskać.</font>
+
+145
+00:08:37,840 --> 00:08:41,560
+<font color="#FFFF51">Jeśli zwiększymy nacisk,</font>
+<font color="#FFFF51">zwiększymy ciśnienie.</font>
+
+146
+00:08:41,720 --> 00:08:43,520
+<font color="#FFFF51">Patrzcie.</font>
+
+147
+00:08:43,680 --> 00:08:45,920
+<font color="aqua">Ściskać, rozciskać.</font>
+
+148
+00:08:46,080 --> 00:08:49,560
+<font color="#FFFF51">Głowy się nie ściskają.</font>
+<font color="#FFFF51">Wiecie, co to jest?</font>
+
+149
+00:08:50,800 --> 00:08:54,520
+<font color="aqua">Balonik. Każdy wie, jak wygląda.</font>
+
+150
+00:08:54,680 --> 00:08:57,520
+<font color="#FFFF51">Cieszę się, że macie tu baloniki.</font>
+
+151
+00:08:57,680 --> 00:09:00,160
+<font color="#FFFF51">Jak taki balonik sobie leży,</font>
+
+152
+00:09:00,320 --> 00:09:04,080
+<font color="#FFFF51">to on się ani nie powiększa,</font>
+<font color="#FFFF51">ani się nie kurczy.</font>
+
+153
+00:09:04,240 --> 00:09:08,400
+<font color="#FFFF51">A to dlatego,</font>
+<font color="#FFFF51">że ciśnienie działające z zewnątrz</font>
+
+154
+00:09:08,560 --> 00:09:11,280
+<font color="#FFFF51">jest takie samo jak to w środku.</font>
+
+155
+00:09:11,440 --> 00:09:14,760
+<font color="#FFFF51">On się ani nie powiększa,</font>
+<font color="#FFFF51">ani nie kurczy.</font>
+
+156
+00:09:14,920 --> 00:09:19,200
+<font color="#FFFF51">Ale gdy siłą płuc wcisnę do środka</font>
+<font color="#FFFF51">więcej powietrza,</font>
+
+157
+00:09:19,360 --> 00:09:22,280
+<font color="#FFFF51">ono będzie tam takie stłoczone,</font>
+<font color="#FFFF51">ściśnięte,</font>
+
+158
+00:09:22,440 --> 00:09:25,400
+<font color="#FFFF51">będzie miało większe ciśnienie.</font>
+
+159
+00:09:25,560 --> 00:09:28,800
+<font color="#FFFF51">A na zewnątrz</font>
+<font color="#FFFF51">ciśnienie będzie mniejsze.</font>
+
+160
+00:09:28,960 --> 00:09:30,760
+<font color="#FFFF51">Balon się powiększy.</font>
+
+161
+00:09:35,920 --> 00:09:38,800
+<font color="#FFFF51">Jak było ciśnienie</font>
+<font color="#FFFF51">w środku większe,</font>
+
+162
+00:09:38,960 --> 00:09:40,920
+<font color="#FFFF51">to balon się rozciągnął,</font>
+
+163
+00:09:41,080 --> 00:09:45,160
+<font color="#FFFF51">aż się ciśnienie wyrównało</font>
+<font color="#FFFF51">na zewnątrz i w środku.</font>
+
+164
+00:09:45,320 --> 00:09:47,120
+<font color="#FFFF51">Proste, prawda?</font>
+
+165
+00:09:47,280 --> 00:09:48,920
+<font color="aqua">No tak.</font>
+
+166
+00:09:49,080 --> 00:09:53,320
+<font color="aqua">Ale ja dalej nie rozumiem,</font>
+<font color="aqua">o co chodziło królowej.</font>
+
+167
+00:09:53,480 --> 00:09:56,280
+<font color="aqua">Że ciśnienie jest wysokie.</font>
+
+168
+00:09:56,440 --> 00:10:00,560
+<font color="#FFFF51">Mam dwa pomysły,</font>
+<font color="#FFFF51">jak to wytłumaczyć.</font>
+
+169
+00:10:00,720 --> 00:10:04,200
+<font color="#FFFF51">Jeden jest taki,</font>
+<font color="#FFFF51">że królowa ma duże ciśnienie,</font>
+
+170
+00:10:04,360 --> 00:10:08,640
+<font color="#FFFF51">czyli jest pod dużą presją,</font>
+<font color="#FFFF51">ma wiele ważnych spraw.</font>
+
+171
+00:10:08,800 --> 00:10:12,040
+<font color="#FFFF51">I takie ciśnienie</font>
+<font color="#FFFF51">jest na nią wywierane.</font>
+
+172
+00:10:12,200 --> 00:10:17,240
+<font color="#FFFF51">Drugi pomysł może oznaczać,</font>
+<font color="#FFFF51">że królowa jest zdenerwowana.</font>
+
+173
+00:10:17,400 --> 00:10:19,000
+<font color="#FFFF51">Albo zła.</font>
+
+174
+00:10:19,160 --> 00:10:22,960
+<font color="#FFFF51">Jak ktoś się czymś denerwuje,</font>
+<font color="#FFFF51">martwi albo złości,</font>
+
+175
+00:10:23,120 --> 00:10:26,040
+<font color="#FFFF51">to mu mocniej i szybciej</font>
+<font color="#FFFF51">bije serce.</font>
+
+176
+00:10:26,200 --> 00:10:30,440
+<font color="#FFFF51">Mocniej i silniej naciska na krew,</font>
+<font color="#FFFF51">którą mamy w żyłach,</font>
+
+177
+00:10:30,600 --> 00:10:32,960
+<font color="#FFFF51">i to jest większe ciśnienie.</font>
+
+178
+00:10:33,120 --> 00:10:36,280
+Oba te pomysły mi się nie podobają.
+
+179
+00:10:40,520 --> 00:10:43,400
+<font color="#16F158">Ona tu idzie.</font>
+<font color="#FFFF51">Kto?</font>
+
+180
+00:10:43,560 --> 00:10:45,360
+<font color="#16F158">Czarownica Wanda.</font>
+
+181
+00:10:45,520 --> 00:10:49,360
+<font color="#16F158">Trzeba coś zrobić.</font>
+<font color="#16F158">Pogonić ją, przestraszyć.</font>
+
+182
+00:10:49,520 --> 00:10:53,920
+<font color="#16F158">Tylko żeby nie ucierpiała.</font>
+<font color="#16F158">To nadal moja przyjaciółka.</font>
+
+183
+00:10:54,080 --> 00:10:57,560
+<font color="#16F158">Nie chcę,</font>
+<font color="#16F158">żeby stało się jej coś złego.</font>
+
+184
+00:10:57,720 --> 00:11:03,280
+<font color="#FFFF51">Mam pomysł. Wy mi go podsunęliście.</font>
+Królowo, to nie jest nasza wina.
+
+185
+00:11:03,440 --> 00:11:06,160
+<font color="#16F158">Nic nie rozumiem. O co chodzi?</font>
+
+186
+00:11:06,320 --> 00:11:08,720
+<font color="#16F158">Alchemiku, pomożesz nam?</font>
+
+187
+00:11:12,840 --> 00:11:16,320
+<font color="#FFFF51">Pamiętacie, jak na początku</font>
+<font color="#FFFF51">naszej znajomości</font>
+
+188
+00:11:16,480 --> 00:11:19,360
+<font color="#FFFF51">przechytrzyłem was za pomocą mgły?</font>
+
+189
+00:11:19,520 --> 00:11:21,440
+Tak.
+<font color="#16F158">Tak.</font>
+
+190
+00:11:21,600 --> 00:11:24,680
+<font color="#FFFF51">Użyłem wtedy</font>
+<font color="#FFFF51">takich specjalnych kostek,</font>
+
+191
+00:11:24,840 --> 00:11:29,280
+<font color="#FFFF51">które się nazywają potocznie</font>
+<font color="#FFFF51">"suchy lód".</font>
+
+192
+00:11:29,440 --> 00:11:31,040
+Się dymi.
+
+193
+00:11:31,200 --> 00:11:33,280
+<font color="#FFFF51">To nie dym, tylko mgła.</font>
+
+194
+00:11:33,440 --> 00:11:38,520
+<font color="#FFFF51">To tak naprawdę nie jest lód,</font>
+<font color="#FFFF51">tylko zamrożony dwutlenek węgla.</font>
+
+195
+00:11:38,680 --> 00:11:41,520
+<font color="#FFFF51">Nazywa się "suchy",</font>
+<font color="#FFFF51">bo się nie topi.</font>
+
+196
+00:11:41,680 --> 00:11:44,800
+<font color="#FFFF51">Gdybyśmy tu zostawili</font>
+<font color="#FFFF51">zwykłą kostkę lodu,</font>
+
+197
+00:11:44,960 --> 00:11:49,560
+<font color="#FFFF51">to ona najpierw utworzyłaby kałużę,</font>
+<font color="#FFFF51">a potem wyparowała.</font>
+
+198
+00:11:49,720 --> 00:11:52,720
+<font color="#FFFF51">A suchy lód omija</font>
+<font color="#FFFF51">jeden z tych etapów</font>
+
+199
+00:11:52,880 --> 00:11:56,040
+<font color="#FFFF51">i z kostki lodu zamienia się w gaz.</font>
+
+200
+00:11:56,200 --> 00:12:00,080
+<font color="#FFFF51">I taki gaz zajmuje</font>
+<font color="#FFFF51">dużo więcej miejsca.</font>
+
+201
+00:12:00,240 --> 00:12:03,000
+<font color="#FFFF51">Spróbujemy zrobić</font>
+<font color="#FFFF51">wybuchające balony.</font>
+
+202
+00:12:03,160 --> 00:12:06,200
+<font color="#FFFF51">To powinno przestraszyć</font>
+<font color="#FFFF51">czarownicę Wandę.</font>
+
+203
+00:12:06,360 --> 00:12:09,240
+<font color="#16F158">Wybuchające balony?</font>
+<font color="#FFFF51">Zaraz mi pomożecie.</font>
+
+204
+00:12:16,080 --> 00:12:19,600
+<font color="#FFFF51">Nalejemy wody,</font>
+<font color="#FFFF51">powrzucamy kostek do środka.</font>
+
+205
+00:12:19,760 --> 00:12:23,840
+<font color="#FFFF51">A jak założymy na wierzch balony,</font>
+<font color="#FFFF51">sami zobaczycie.</font>
+
+206
+00:12:24,000 --> 00:12:27,560
+<font color="#FFFF51">Musimy się spieszyć,</font>
+<font color="#FFFF51">bo Wanda nadciąga.</font>
+
+207
+00:12:27,720 --> 00:12:29,520
+<font color="aqua">Widać czarownicę?</font>
+
+208
+00:12:30,640 --> 00:12:33,200
+Spokojnie, jest jeszcze daleko.
+
+209
+00:12:33,360 --> 00:12:36,680
+<font color="#FFFF51">Chłopaki, widzę,</font>
+<font color="#FFFF51">że macie grube rękawice,</font>
+
+210
+00:12:36,840 --> 00:12:38,640
+<font color="#FFFF51">pomożecie mi.</font>
+
+211
+00:12:38,800 --> 00:12:42,200
+<font color="#FFFF51">Wrzucajcie kostki tego lodu</font>
+<font color="#FFFF51">do środka.</font>
+
+212
+00:12:42,360 --> 00:12:45,000
+<font color="#FFFF51">Ja przygotuję następny pojemnik.</font>
+
+213
+00:12:45,160 --> 00:12:48,600
+<font color="#FFFF51">Jeśli złapiemy ten gaz,</font>
+<font color="#FFFF51">który tam powstaje,</font>
+
+214
+00:12:48,760 --> 00:12:50,560
+<font color="#FFFF51">możemy go zebrać.</font>
+
+215
+00:12:50,720 --> 00:12:53,920
+<font color="#FFFF51">Przygotujemy wybuchające balony.</font>
+
+216
+00:12:55,440 --> 00:12:59,840
+Szybciej, alchemiku, zbliża się.
+<font color="#FFFF51">Spieszę się.</font>
+
+217
+00:13:00,000 --> 00:13:02,520
+<font color="#FFFF51">Zakładaj balon.</font>
+
+218
+00:13:02,680 --> 00:13:05,120
+<font color="#FFFF51">Trzymaj.</font>
+
+219
+00:13:05,280 --> 00:13:09,160
+<font color="#FFFF51">Ściskaj go dłonią,</font>
+<font color="#FFFF51">żeby ci nie odleciał.</font>
+
+220
+00:13:10,000 --> 00:13:12,240
+<font color="#FFFF51">Przepraszam cię, strażniku.</font>
+
+221
+00:13:12,400 --> 00:13:14,760
+<font color="aqua">Trzymać trzeba tam, królowo.</font>
+
+222
+00:13:14,920 --> 00:13:16,720
+Ja już mogę trzymać.
+
+223
+00:13:19,160 --> 00:13:21,280
+Okej.
+
+224
+00:13:21,440 --> 00:13:23,240
+<font color="aqua">Mój rośnie.</font>
+
+225
+00:13:23,400 --> 00:13:25,680
+<font color="#FFFF51">Uważaj, bo może eksplodować.</font>
+
+226
+00:13:27,120 --> 00:13:28,920
+<font color="#FFFF51">Uwaga.</font>
+
+227
+00:13:29,080 --> 00:13:33,680
+<font color="#FFFF51">Zobaczcie, takie balony,</font>
+<font color="#FFFF51">chociaż wrzuciliśmy tylko kostki,</font>
+
+228
+00:13:33,840 --> 00:13:35,840
+<font color="#FFFF51">cały czas się powiększają.</font>
+
+229
+00:13:36,000 --> 00:13:37,600
+<font color="#8080FF">HUK</font>
+
+230
+00:13:37,760 --> 00:13:39,560
+Nic nie słyszę.
+<font color="aqua">Co?!</font>
+
+231
+00:13:39,720 --> 00:13:44,880
+Nie wiem, co mówicie,
+ale to może wystraszyć czarownicę.
+
+232
+00:13:45,040 --> 00:13:49,440
+<font color="#16F158">Nie wiem, co mówicie,</font>
+<font color="#16F158">ale to może wystraszyć czarownicę.</font>
+
+233
+00:13:49,600 --> 00:13:51,640
+<font color="#16F158">Przygotujmy się do ataku!</font>
+
+234
+00:13:51,800 --> 00:13:57,640
+<font color="#FFFF51">Przed takimi eksperymentami dobrze</font>
+<font color="#FFFF51">jest zabezpieczyć uszy zatyczkami.</font>
+
+235
+00:13:57,800 --> 00:13:59,800
+Co?
+<font color="#16F158">Co?</font>
+
+236
+00:14:20,720 --> 00:14:23,440
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+237
+00:14:23,600 --> 00:14:27,400
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+238
+00:14:30,480 --> 00:14:32,280
+
+

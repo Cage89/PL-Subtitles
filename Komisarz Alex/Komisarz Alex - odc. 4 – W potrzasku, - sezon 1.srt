@@ -1,0 +1,2086 @@
+1
+00:01:30,400 --> 00:01:34,840
+<font color="#8080FF">ODGŁOSY BURZY</font>
+
+2
+00:01:44,360 --> 00:01:47,760
+<font color="#8080FF">DZWONI TELEFON</font>
+
+3
+00:01:51,680 --> 00:01:53,480
+I co?
+
+4
+00:01:55,000 --> 00:01:56,800
+Wyjechali?
+
+5
+00:01:56,960 --> 00:01:58,760
+Dobra.
+
+6
+00:02:12,880 --> 00:02:14,680
+<font color="#8080FF">DZWONI TELEFON</font>
+
+7
+00:02:15,840 --> 00:02:17,640
+To ja.
+
+8
+00:02:17,800 --> 00:02:19,600
+Zaczynamy.
+
+9
+00:02:20,920 --> 00:02:22,760
+Pamiętasz, co mówiłem?
+
+10
+00:02:22,920 --> 00:02:24,720
+Jasne, że pamiętam.
+
+11
+00:02:24,880 --> 00:02:29,040
+Wszystko będzie jak w zegarku.
+Światła - 10 sekund.
+
+12
+00:02:43,840 --> 00:02:47,520
+Wchodzę po północy, cichutko,
+ale ona czujna.
+
+13
+00:02:47,680 --> 00:02:49,480
+Przyłapała cię?
+
+14
+00:02:49,640 --> 00:02:51,440
+Udałem chorego.
+
+15
+00:02:51,600 --> 00:02:55,840
+Niby czymś się zatrułem
+i lekarz zalecił pieprzówkę.
+
+16
+00:02:56,000 --> 00:02:58,600
+- Kobieta wszystko kupi.
+- Do czasu!
+
+17
+00:02:58,760 --> 00:03:00,840
+Do czasu! Wiem, co mówię.
+
+18
+00:03:01,000 --> 00:03:05,720
+Też tak wracałem
+i w końcu pocałowałem klamkę.
+
+19
+00:04:08,880 --> 00:04:12,640
+- Powoli. Nie ruszaj się!
+- Nic nie robię!
+
+20
+00:04:18,960 --> 00:04:20,760
+Gleba!
+
+21
+00:04:20,920 --> 00:04:22,720
+Marek!
+
+22
+00:04:26,400 --> 00:04:28,200
+Marek, szukaj kluczy!
+
+23
+00:04:30,440 --> 00:04:32,240
+Marek! Marek!
+
+24
+00:04:34,400 --> 00:04:36,200
+Gdzie są klucze?
+
+25
+00:04:36,360 --> 00:04:38,160
+Marek, szukaj kluczy!
+
+26
+00:04:41,160 --> 00:04:42,960
+Gleba!
+
+27
+00:04:46,280 --> 00:04:48,080
+Odejdź!
+
+28
+00:04:48,240 --> 00:04:50,040
+Będę strzelał!
+
+29
+00:04:53,160 --> 00:04:55,920
+<font color="#8080FF">KIEROWCA PRÓBUJE URUCHOMIĆ SILNIK</font>
+
+30
+00:04:57,040 --> 00:04:58,840
+<font color="#8080FF">SILNIK DZIAŁA</font>
+
+31
+00:04:59,000 --> 00:05:00,800
+Marek!
+
+32
+00:05:07,880 --> 00:05:09,680
+Nie!
+
+33
+00:05:10,920 --> 00:05:12,720
+Skacz, błagam cię!
+
+34
+00:05:12,880 --> 00:05:14,680
+Gleba!
+
+35
+00:05:14,840 --> 00:05:16,640
+Skacz!
+
+36
+00:05:23,840 --> 00:05:25,640
+Wsiadaj!
+
+37
+00:06:35,160 --> 00:06:36,960
+<font color="#16F158">Alex...</font>
+
+38
+00:06:48,280 --> 00:06:50,080
+<font color="#16F158">Zrobiłeś porządek?</font>
+
+39
+00:06:58,560 --> 00:07:00,360
+<font color="#16F158">Posłuchaj...</font>
+
+40
+00:07:02,920 --> 00:07:04,720
+<font color="#16F158">Nie, nie...</font>
+
+41
+00:07:04,880 --> 00:07:06,680
+<font color="#16F158">Poczekaj.</font>
+
+42
+00:07:08,160 --> 00:07:09,960
+<font color="#16F158">Nie sprzątaj.</font>
+
+43
+00:07:10,120 --> 00:07:11,920
+<font color="#16F158">Nie sprzątaj.</font>
+
+44
+00:07:12,080 --> 00:07:13,880
+<font color="#16F158">Nie rób tego.</font>
+
+45
+00:07:14,040 --> 00:07:16,760
+<font color="#16F158">Nie sprzątaj, proszę.</font>
+
+46
+00:07:19,280 --> 00:07:21,080
+<font color="#16F158">Poczekaj.</font>
+
+47
+00:07:21,240 --> 00:07:23,040
+<font color="#16F158">Gdzie, kolego?</font>
+
+48
+00:07:23,200 --> 00:07:25,000
+<font color="#16F158">Zapraszam.</font>
+
+49
+00:07:25,800 --> 00:07:28,920
+<font color="#16F158">Twój pan lubi, jak jest bałagan.</font>
+
+50
+00:07:29,080 --> 00:07:35,600
+<font color="#16F158">Lubię, jak coś sobie leży tutaj</font>
+<font color="#16F158">albo tutaj. Dobrze się w tym czuję.</font>
+
+51
+00:07:35,920 --> 00:07:38,440
+<font color="#16F158">Jest fajnie, jak jest bałagan.</font>
+
+52
+00:07:38,600 --> 00:07:41,360
+<font color="#16F158">Ja żyję dobrze, jak jest bałagan.</font>
+
+53
+00:07:41,520 --> 00:07:43,320
+<font color="#16F158">Nie, nie T-shirt.</font>
+
+54
+00:07:43,480 --> 00:07:45,280
+<font color="#16F158">Zostaw!</font>
+
+55
+00:07:56,280 --> 00:07:58,080
+<font color="#16F158">Co ty robisz?</font>
+
+56
+00:07:58,720 --> 00:08:01,640
+<font color="#16F158">Jesteś gorszy od pedantycznej żony.</font>
+
+57
+00:08:01,800 --> 00:08:05,120
+<font color="#16F158">Ja nie mam żony,</font>
+<font color="#16F158">nigdy nie chciałem mieć.</font>
+
+58
+00:08:05,280 --> 00:08:09,960
+<font color="#16F158">Żadna dziewczyna mnie nie ułożyła.</font>
+<font color="#16F158">I ty mnie nie ułożysz.</font>
+
+59
+00:08:10,120 --> 00:08:11,920
+<font color="#8080FF">DZWONI TELEFON</font>
+
+60
+00:08:12,080 --> 00:08:13,880
+<font color="#16F158">Kupię sobie kota!</font>
+
+61
+00:08:14,040 --> 00:08:15,840
+<font color="#16F158">Halo!</font>
+
+62
+00:08:16,000 --> 00:08:17,800
+<font color="#16F158">Dobra.</font>
+
+63
+00:08:18,920 --> 00:08:20,720
+<font color="#16F158">Lucynka, zrozumiałem.</font>
+
+64
+00:08:23,720 --> 00:08:25,640
+<font color="#16F158">Skandal! Niedobry pies!</font>
+
+65
+00:08:28,320 --> 00:08:30,120
+<font color="#16F158">Gdzie są skarpetki?</font>
+
+66
+00:08:30,280 --> 00:08:32,080
+<font color="#16F158">Alex!</font>
+
+67
+00:08:32,240 --> 00:08:34,040
+<font color="#16F158">Gdzie są skarpetki?</font>
+
+68
+00:08:48,920 --> 00:08:51,840
+Lucuś, Lucuś, chodząca doskonałość.
+
+69
+00:08:52,800 --> 00:08:54,880
+Mężowi też takie robiłaś?
+
+70
+00:08:55,640 --> 00:08:57,440
+<font color="#FFFF51">Nie interesuj się.</font>
+
+71
+00:08:57,600 --> 00:08:59,400
+Podobają mi się.
+
+72
+00:09:02,320 --> 00:09:04,120
+<font color="#16F158">Cześć.</font>
+
+73
+00:09:04,280 --> 00:09:07,360
+<font color="#FFFF51">Marek, zabierz go.</font>
+<font color="#FFFF51">Jem śniadanie.</font>
+
+74
+00:09:07,520 --> 00:09:09,320
+<font color="#16F158">Polubicie się.</font>
+
+75
+00:09:09,480 --> 00:09:11,280
+<font color="#16F158">Co mamy?</font>
+
+76
+00:09:11,440 --> 00:09:14,760
+<font color="#FFFF51">Próbę odbicia</font>
+<font color="#FFFF51">twojego ulubionego więźnia.</font>
+
+77
+00:09:14,920 --> 00:09:16,720
+<font color="#16F158">Kotysa?</font>
+
+78
+00:09:16,880 --> 00:09:20,040
+Trzech naszych
+jest trochę poobijanych.
+
+79
+00:09:20,200 --> 00:09:24,280
+<font color="#16F158">Prosiłem o dodatkową eskortę.</font>
+<font color="#FFFF51">Kto mógł wiedzieć...</font>
+
+80
+00:09:24,440 --> 00:09:26,240
+Kotys jest cały.
+
+81
+00:09:26,400 --> 00:09:28,200
+<font color="#16F158">Z tobą rozmawiam?</font>
+
+82
+00:09:28,360 --> 00:09:31,440
+<font color="#FFFF51">Uspokój się,</font>
+<font color="#FFFF51">wszystko jest w porządku.</font>
+
+83
+00:09:31,600 --> 00:09:33,400
+<font color="#16F158">Ilu ich było?</font>
+
+84
+00:09:34,400 --> 00:09:38,120
+<font color="#FFFF51">Jeden był w aucie,</font>
+<font color="#FFFF51">w które walnęła więźniarka,</font>
+
+85
+00:09:38,280 --> 00:09:40,800
+<font color="#FFFF51">drugi zjawił się po kolizji.</font>
+
+86
+00:09:41,520 --> 00:09:44,920
+<font color="#16F158">Sprawdź, komu zależało</font>
+<font color="#16F158">na odbiciu Kotysa.</font>
+
+87
+00:09:45,080 --> 00:09:48,400
+<font color="#16F158">Jadę z nim pogadać.</font>
+<font color="#FFFF51">Jedziesz do zakładu?</font>
+
+88
+00:09:48,640 --> 00:09:51,240
+<font color="#16F158">Może coś chlapnie.</font>
+Tobie?
+
+89
+00:09:51,400 --> 00:09:53,200
+<font color="#16F158">Puchała!</font>
+
+90
+00:09:53,360 --> 00:09:56,680
+<font color="#FFFF51">Marek, masz.</font>
+<font color="#FFFF51">Pewnie nie jadłeś śniadania.</font>
+
+91
+00:09:58,960 --> 00:10:00,760
+<font color="#16F158">Wezmę jabłko.</font>
+
+92
+00:10:00,920 --> 00:10:02,720
+<font color="#16F158">Alex!</font>
+
+93
+00:10:14,200 --> 00:10:16,000
+Ja bym chętnie wziął.
+
+94
+00:10:34,280 --> 00:10:38,200
+Jakby co, jesteśmy za drzwiami,
+panie komisarzu.
+
+95
+00:10:44,360 --> 00:10:46,160
+<font color="#16F158">Siadaj.</font>
+
+96
+00:11:02,880 --> 00:11:05,040
+<font color="#16F158">Jak to z tobą jest, Kotys?</font>
+
+97
+00:11:08,000 --> 00:11:12,840
+<font color="#16F158">Najpierw prosisz o łagodny wyrok,</font>
+<font color="#16F158">kajasz się, przepraszasz.</font>
+
+98
+00:11:13,000 --> 00:11:14,800
+<font color="#16F158">A teraz chcesz zwiać?</font>
+
+99
+00:11:17,360 --> 00:11:21,680
+<font color="#16F158">Dostałeś osiem lat za rozbój</font>
+<font color="#16F158">ze skutkiem śmiertelnym.</font>
+
+100
+00:11:21,840 --> 00:11:24,160
+<font color="#16F158">Powinieneś dostać dwanaście.</font>
+
+101
+00:11:31,480 --> 00:11:33,480
+<font color="#16F158">Może sędzia się pomylił?</font>
+
+102
+00:11:36,320 --> 00:11:38,120
+<font color="#16F158">Nie rozumiesz?</font>
+
+103
+00:11:38,880 --> 00:11:42,120
+<font color="#16F158">Prokurator może wnieść</font>
+<font color="#16F158">o rewizję wyroku.</font>
+
+104
+00:11:49,640 --> 00:11:51,560
+<font color="#16F158">Może coś przeoczyliśmy?</font>
+
+105
+00:11:52,520 --> 00:11:55,440
+<font color="#16F158">Może to nie był jednorazowy wybryk?</font>
+
+106
+00:11:55,600 --> 00:11:58,680
+<font color="#16F158">Może działasz</font>
+<font color="#16F158">w zorganizowanej grupie?</font>
+
+107
+00:11:58,840 --> 00:12:02,520
+<font color="#16F158">Wtedy cztery lata masz dodatkowo.</font>
+
+108
+00:11:58,840 --> 00:12:02,520
+Bez ściemy.
+
+109
+00:12:03,400 --> 00:12:05,200
+<font color="#16F158">Jakiej ściemy?</font>
+
+110
+00:12:05,360 --> 00:12:09,200
+<font color="#16F158">Nie powiesz ty, powie kto inny.</font>
+<font color="#16F158">Wielka różnica.</font>
+
+111
+00:12:09,360 --> 00:12:13,880
+<font color="#16F158">Mamy jednego z twoich wybawców.</font>
+<font color="#16F158">Nie jest taki mrukliwy.</font>
+
+112
+00:12:18,240 --> 00:12:20,840
+Nie wierzę.
+Nie ma takiej opcji.
+
+113
+00:12:23,360 --> 00:12:25,160
+<font color="#16F158">A dlaczego?</font>
+
+114
+00:12:28,080 --> 00:12:32,600
+<font color="#16F158">Nie każdy chce siedzieć po dobroci.</font>
+<font color="#16F158">Niektórzy chcą żyć.</font>
+
+115
+00:12:32,760 --> 00:12:35,320
+Słuchaj, tracisz czas.
+
+116
+00:12:35,760 --> 00:12:38,360
+Zwijaj się, a ja wrócę do celi.
+
+117
+00:12:39,000 --> 00:12:40,800
+<font color="#16F158">Wróć</font>
+
+118
+00:12:40,960 --> 00:12:42,800
+<font color="#16F158">do kolegów, koleżanek.</font>
+
+119
+00:12:42,960 --> 00:12:44,760
+Strażnik!
+
+120
+00:12:44,920 --> 00:12:46,720
+<font color="#16F158">Ucałuj ich ode mnie.</font>
+
+121
+00:12:48,200 --> 00:12:50,000
+Strażnik!
+
+122
+00:12:50,960 --> 00:12:52,760
+<font color="#16F158">Głupi jesteś, Kotys.</font>
+
+123
+00:12:54,480 --> 00:12:56,480
+<font color="#8080FF">TRZASK OTWIERANYCH DRZWI</font>
+
+124
+00:13:36,480 --> 00:13:38,280
+Zaczynamy.
+
+125
+00:13:38,440 --> 00:13:42,440
+Pupa sprężona, plecy proste,
+pępek do kręgosłupa.
+
+126
+00:13:42,600 --> 00:13:44,400
+Bardzo dobrze.
+
+127
+00:13:45,640 --> 00:13:47,480
+Łopatki chowamy, Sara.
+
+128
+00:13:48,600 --> 00:13:50,400
+I wyciągamy rękę.
+
+129
+00:13:50,560 --> 00:13:52,360
+Tutaj główka, tak.
+
+130
+00:13:52,520 --> 00:13:55,280
+I leciutko, bardzo dobrze.
+
+131
+00:13:58,760 --> 00:14:00,560
+Dorota, płynniej.
+
+132
+00:14:02,520 --> 00:14:04,320
+I wyciągamy rękę.
+
+133
+00:14:04,480 --> 00:14:06,280
+Wyciągamy, Sara.
+
+134
+00:14:06,440 --> 00:14:08,240
+Dzień dobry.
+
+135
+00:14:08,400 --> 00:14:11,720
+Trwają zajęcia,
+tutaj nie można wchodzić.
+
+136
+00:14:11,880 --> 00:14:16,800
+Przepraszam,
+chciałem zapisać córkę na te zajęcia.
+
+137
+00:14:16,960 --> 00:14:19,560
+Dziewczynki, przerwa na chwilę.
+
+138
+00:14:19,720 --> 00:14:23,120
+Wszystkiego dowie się pan
+w sekretariacie.
+
+139
+00:14:23,280 --> 00:14:26,360
+Bardzo pani dziękuję.
+Zaraz tam pójdę.
+
+140
+00:14:27,000 --> 00:14:28,920
+To wnuczka się ucieszy.
+
+141
+00:14:29,080 --> 00:14:30,880
+To wnuczka czy córka?
+
+142
+00:14:31,040 --> 00:14:33,360
+Córka, oczywiście, że córka.
+
+143
+00:14:33,520 --> 00:14:36,280
+Pomyłka. Ale wnuczkę też mam.
+
+144
+00:14:36,440 --> 00:14:38,520
+Czy jutro też są zajęcia?
+
+145
+00:14:38,680 --> 00:14:42,760
+Lekcje odbywają się codziennie.
+Muszę kontynuować.
+
+146
+00:14:42,920 --> 00:14:45,160
+No to już nie przeszkadzam.
+
+147
+00:14:45,320 --> 00:14:47,120
+Na dole, prawda?
+
+148
+00:14:47,280 --> 00:14:49,440
+- Tak.
+- Dziękuję. Do widzenia.
+
+149
+00:14:52,560 --> 00:14:54,360
+Dziewczynki, wracamy.
+
+150
+00:15:04,000 --> 00:15:05,800
+<font color="#8080FF">UDERZENIA PIŁKĄ</font>
+
+151
+00:15:09,280 --> 00:15:11,080
+<font color="#16F158">Nie ma takiej opcji?</font>
+
+152
+00:15:11,240 --> 00:15:13,040
+<font color="#16F158">Dlaczego?</font>
+
+153
+00:15:13,200 --> 00:15:15,800
+<font color="#16F158">Nie chciał nikogo sprzedać,</font>
+
+154
+00:15:16,000 --> 00:15:19,800
+<font color="#16F158">ale opcja, że sprzeda cię</font>
+<font color="#16F158">kto inny jest zawsze.</font>
+
+155
+00:15:21,800 --> 00:15:24,120
+<font color="#16F158">Nie interesuje cię ta piłka?</font>
+
+156
+00:15:24,280 --> 00:15:26,080
+<font color="#16F158">W ogóle?</font>
+
+157
+00:15:27,400 --> 00:15:30,480
+<font color="#16F158">Nie mów, że nie bawią cię</font>
+<font color="#16F158">proste gry.</font>
+
+158
+00:15:30,640 --> 00:15:32,800
+<font color="#16F158">Wolałbyś poczytać jakiś...</font>
+
+159
+00:15:33,960 --> 00:15:35,760
+<font color="#16F158">kryminał?</font>
+
+160
+00:15:35,920 --> 00:15:37,720
+<font color="#16F158">Nie zrobisz tego.</font>
+
+161
+00:15:45,160 --> 00:15:48,480
+<font color="#16F158">Przyniosłeś mi kryminał?</font>
+<font color="#8080FF">DZWONEK DO DRZWI</font>
+
+162
+00:15:48,640 --> 00:15:50,720
+<font color="#16F158">Jesteś nienormalnym psem.</font>
+
+163
+00:15:52,240 --> 00:15:54,040
+<font color="#16F158">No już! Poczekaj!</font>
+
+164
+00:15:54,200 --> 00:15:56,000
+<font color="#16F158">Otwieraj.</font>
+
+165
+00:15:57,960 --> 00:15:59,760
+Alex, straszysz mnie.
+
+166
+00:16:01,600 --> 00:16:04,920
+<font color="#16F158">Doceń to. Nie każdego tak wita.</font>
+Doceniam.
+
+167
+00:16:06,160 --> 00:16:08,560
+Powiedział ci coś?
+<font color="#16F158">Kotys? Nie.</font>
+
+168
+00:16:10,040 --> 00:16:12,200
+Tacy faceci nic nie mówią.
+
+169
+00:16:14,080 --> 00:16:15,880
+<font color="#16F158">Dałem mu do myślenia.</font>
+
+170
+00:16:16,760 --> 00:16:19,080
+Mnie też nic nie powiedział.
+
+171
+00:16:19,240 --> 00:16:21,640
+Co ty zrobiłeś z mieszkaniem?
+
+172
+00:16:21,800 --> 00:16:23,600
+Remont?
+<font color="#16F158">Nie.</font>
+
+173
+00:16:23,760 --> 00:16:25,560
+<font color="#16F158">To on.</font>
+
+174
+00:16:25,720 --> 00:16:27,960
+<font color="#16F158">Posprzątał. Kocha porządek.</font>
+
+175
+00:16:29,400 --> 00:16:31,200
+Stary, uważaj.
+
+176
+00:16:31,360 --> 00:16:33,680
+Najpierw zaczynają sprzątać,
+
+177
+00:16:33,840 --> 00:16:37,160
+potem robią ci
+harmonogram na cały dzień,
+
+178
+00:16:37,320 --> 00:16:40,240
+potem wprowadzają się
+na całe życie.
+
+179
+00:18:08,560 --> 00:18:10,360
+<font color="#16F158">Alex!</font>
+
+180
+00:18:17,080 --> 00:18:18,880
+<font color="#16F158">Chodź!</font>
+
+181
+00:18:48,640 --> 00:18:50,440
+Dzień dobry.
+
+182
+00:19:18,440 --> 00:19:21,040
+NAUCZYCIELKA: Raz, dwa, trzy...
+
+183
+00:19:27,320 --> 00:19:29,120
+To znowu pan.
+
+184
+00:19:29,280 --> 00:19:31,200
+Do środka sali! Prędko!
+
+185
+00:19:31,360 --> 00:19:33,520
+Biegiem, biegiem, biegiem!
+
+186
+00:19:33,680 --> 00:19:36,000
+Siadać w kucki!
+A ty gdzie?!
+
+187
+00:19:36,160 --> 00:19:37,960
+Na środek!
+
+188
+00:19:38,120 --> 00:19:39,920
+Siadać w kucki!
+
+189
+00:19:40,080 --> 00:19:41,880
+Cisza!
+
+190
+00:19:43,880 --> 00:19:47,400
+Nie gadać bez pozwolenia,
+bo łby odstrzelę!
+
+191
+00:19:58,560 --> 00:20:00,360
+Halo...
+
+192
+00:20:11,560 --> 00:20:13,360
+Jest Bromski?
+
+193
+00:20:14,600 --> 00:20:18,840
+<font color="#FFFF51">Wyszedł na chwilę. Zaraz będzie.</font>
+To jest czy nie ma?
+
+194
+00:20:19,000 --> 00:20:20,800
+<font color="#FFFF51">Jest...</font>
+
+195
+00:20:20,960 --> 00:20:23,120
+<font color="#16F158">Poszedł do parku z Alexem.</font>
+
+196
+00:20:23,280 --> 00:20:28,960
+Jakiś szaleniec trzyma na muszce
+grupę dziewcząt ze szkoły baletowej.
+
+197
+00:20:29,120 --> 00:20:32,280
+Mówi, że ma bombę
+i gotów się wysadzić.
+
+198
+00:20:32,440 --> 00:20:34,240
+Porwał dziewczynki?
+
+199
+00:20:34,400 --> 00:20:37,160
+Na miejscu są już antyterroryści.
+
+200
+00:20:37,320 --> 00:20:39,640
+Dołączysz do nich.
+Weź Alexa.
+
+201
+00:20:39,800 --> 00:20:43,720
+<font color="#16F158">Wiadomo, o co mu chodzi?</font>
+No właśnie nie wiadomo.
+
+202
+00:20:43,880 --> 00:20:46,320
+Informuj mnie o wszystkim.
+
+203
+00:20:48,240 --> 00:20:50,160
+<font color="#16F158">Budzimy się. Do roboty!</font>
+
+204
+00:20:51,880 --> 00:20:53,680
+<font color="#FFFF51">W szkole baletowej?</font>
+
+205
+00:20:56,080 --> 00:20:57,920
+Powiedziałem wyraźnie.
+
+206
+00:20:58,080 --> 00:21:02,400
+Macie przewieźć Marka Kotysa
+z więzienia na lotnisko.
+
+207
+00:21:02,600 --> 00:21:07,760
+Tam ma czekać samolot. Chłopak
+ma to potwierdzić telefonicznie.
+
+208
+00:21:08,320 --> 00:21:10,160
+Nie, ja nie negocjuję!
+
+209
+00:21:10,320 --> 00:21:12,240
+Powiedz, komu trzeba,
+
+210
+00:21:12,400 --> 00:21:16,840
+że jak za trzy godziny
+nie dostanę od niego wiadomości,
+
+211
+00:21:17,000 --> 00:21:20,160
+nie będzie tu czego zbierać,kapujesz?
+
+212
+00:21:20,600 --> 00:21:22,400
+To dobrze.
+
+213
+00:21:28,440 --> 00:21:30,360
+Nie ryczeć, nie ryczeć.
+
+214
+00:21:30,520 --> 00:21:32,920
+Zamiast chlipać, módlcie się,
+
+215
+00:21:33,720 --> 00:21:35,960
+żeby spełnili moje żądania.
+
+216
+00:21:44,680 --> 00:21:46,480
+Desperat.
+
+217
+00:21:46,640 --> 00:21:48,960
+Nie zawaha się przed niczym.
+
+218
+00:21:50,040 --> 00:21:54,120
+Jedźcie do tego Marka Kotysa.
+Bądźcie w kontakcie.
+
+219
+00:22:00,760 --> 00:22:02,840
+Czwórka i piątka na dach.
+
+220
+00:22:05,680 --> 00:22:08,280
+Zorganizujcie mi jakiś podgląd.
+
+221
+00:22:09,760 --> 00:22:11,560
+<font color="#16F158">Cześć.</font>
+
+222
+00:22:11,720 --> 00:22:14,040
+<font color="#16F158">Jak to wygląda?</font>
+Kiepsko.
+
+223
+00:22:14,680 --> 00:22:19,040
+Facet ma walizkę z bombą.
+Żąda zwolnienia więźnia.
+
+224
+00:22:19,200 --> 00:22:24,120
+Mamy go wywieźć na wakacje
+do Meksyku. Dał nam trzy godziny.
+
+225
+00:22:24,280 --> 00:22:26,760
+<font color="#16F158">O kogo chodzi?</font>
+To Marek Kotys.
+
+226
+00:22:26,920 --> 00:22:28,720
+<font color="#8080FF">BROMSKI WZDYCHA</font>
+
+227
+00:22:29,080 --> 00:22:32,240
+<font color="#16F158">Próbowano go odbić</font>
+<font color="#16F158">w drodze do zakładu.</font>
+
+228
+00:22:32,400 --> 00:22:35,240
+Ten szaleniec to jego ojciec.
+
+229
+00:22:35,400 --> 00:22:37,200
+<font color="#16F158">Co chcecie zrobić?</font>
+
+230
+00:22:37,480 --> 00:22:40,800
+Ja tylko z nim gadam.
+Wiesz, kto rządzi.
+
+231
+00:22:44,320 --> 00:22:46,120
+<font color="#16F158">Zostań.</font>
+
+232
+00:22:48,360 --> 00:22:50,160
+<font color="#16F158">Cześć.</font>
+
+233
+00:22:50,320 --> 00:22:53,080
+Bromski?
+Nic tu po tobie.
+
+234
+00:22:53,720 --> 00:22:55,520
+Po tobie też.
+
+235
+00:22:55,880 --> 00:22:57,680
+<font color="#16F158">Jaki masz plan?</font>
+
+236
+00:22:57,840 --> 00:23:01,920
+Nikomu nie spadnie włos z głowy.
+<font color="#16F158">Chcesz tam wejść?</font>
+
+237
+00:23:02,080 --> 00:23:05,480
+<font color="#16F158">Ryzykujesz jatką</font>
+<font color="#16F158">i życiem tych dzieciaków.</font>
+
+238
+00:23:05,640 --> 00:23:07,880
+Chcesz mnie uczyć?
+<font color="#16F158">Nie.</font>
+
+239
+00:23:09,200 --> 00:23:11,000
+<font color="#16F158">Mam inne rozwiązanie.</font>
+
+240
+00:23:11,360 --> 00:23:13,160
+<font color="#16F158">Bezpieczniejsze.</font>
+
+241
+00:23:16,360 --> 00:23:18,160
+Co to za plan?
+
+242
+00:23:42,920 --> 00:23:44,760
+Mam go jak na widelcu.
+
+243
+00:23:46,400 --> 00:23:50,000
+- Na razie czekaj.
+- Facet może się przemieścić.
+
+244
+00:23:50,160 --> 00:23:51,960
+Czekać!
+
+245
+00:23:52,120 --> 00:23:53,920
+Przyjąłem, czekam.
+
+246
+00:24:03,040 --> 00:24:06,440
+Nie ma powodu.
+Wszystkie są całe i zdrowe.
+
+247
+00:24:07,240 --> 00:24:09,080
+To ja stawiam warunki!
+
+248
+00:24:10,800 --> 00:24:13,480
+Dobra, ale na sekundę.
+
+249
+00:24:14,560 --> 00:24:16,960
+Tylko jeden i bez broni.
+
+250
+00:24:17,120 --> 00:24:18,920
+I żadnych numerów.
+
+251
+00:24:22,360 --> 00:24:24,160
+Profesorka...
+
+252
+00:24:25,120 --> 00:24:28,800
+Otworzysz drzwi.
+Sprawdzą, czy jesteście całe.
+
+253
+00:24:29,000 --> 00:24:30,800
+Pospiesz się!
+
+254
+00:24:34,920 --> 00:24:36,720
+Otwieraj.
+
+255
+00:24:38,600 --> 00:24:40,400
+I żadnych numerów.
+
+256
+00:24:42,840 --> 00:24:44,640
+<font color="#8080FF">SZCZĘK KLUCZA W ZAMKU</font>
+
+257
+00:24:46,440 --> 00:24:48,240
+Wracaj.
+
+258
+00:24:48,400 --> 00:24:50,200
+Na miejsce!
+
+259
+00:25:18,320 --> 00:25:20,120
+Stój.
+
+260
+00:25:34,560 --> 00:25:36,360
+<font color="#16F158">Nic wam nie jest?</font>
+
+261
+00:25:36,520 --> 00:25:38,320
+<font color="#8080FF">DZIEWCZYNKI PŁACZĄ</font>
+
+262
+00:25:38,480 --> 00:25:40,280
+Cisza.
+
+263
+00:25:40,440 --> 00:25:42,240
+<font color="#16F158">Wszystko w porządku?</font>
+
+264
+00:25:42,400 --> 00:25:45,880
+Już słyszałeś.
+A teraz spieprzaj.
+
+265
+00:25:46,040 --> 00:25:47,840
+<font color="#16F158">Na pewno?</font>
+Spieprzaj.
+
+266
+00:25:52,400 --> 00:25:54,200
+Wynocha!
+
+267
+00:25:55,920 --> 00:25:57,720
+<font color="#16F158">Spokojnie.</font>
+
+268
+00:26:05,960 --> 00:26:07,760
+<font color="#16F158">Będzie okej.</font>
+
+269
+00:26:15,200 --> 00:26:17,000
+Zamknij za nim.
+
+270
+00:26:18,480 --> 00:26:20,280
+Szybciej.
+
+271
+00:26:23,000 --> 00:26:24,800
+Siadaj.
+
+272
+00:26:42,040 --> 00:26:44,120
+Melduję, cel niewidoczny.
+
+273
+00:26:47,920 --> 00:26:49,720
+Szlag!
+
+274
+00:26:51,560 --> 00:26:53,360
+<font color="#8080FF">DZWONI TELEFON</font>
+
+275
+00:27:01,280 --> 00:27:03,880
+Tak, to ja, panie prokuratorze.
+
+276
+00:27:04,040 --> 00:27:05,840
+Słucham?
+
+277
+00:27:07,560 --> 00:27:09,360
+Oczywiście, rozumiem.
+
+278
+00:27:10,680 --> 00:27:12,760
+Nie możemy go odstrzelić.
+
+279
+00:27:12,920 --> 00:27:14,720
+Na razie negocjujemy.
+
+280
+00:27:20,440 --> 00:27:23,160
+Wiemy, dlaczego wybrał tę szkołę.
+
+281
+00:27:23,320 --> 00:27:26,440
+Tam jest córka
+prokuratora Majewskiego.
+
+282
+00:27:26,600 --> 00:27:29,880
+<font color="#16F158">Majewski prowadzi sprawę Kotysa.</font>
+Właśnie.
+
+283
+00:27:30,040 --> 00:27:35,080
+Może będziesz nam potrzebny.
+Tylko nie możesz się pomylić.
+
+284
+00:27:36,240 --> 00:27:40,560
+To być może nasza ostatnia szansa.
+Czasu coraz mniej.
+
+285
+00:27:40,720 --> 00:27:42,520
+<font color="#16F158">Uda się.</font>
+
+286
+00:27:42,680 --> 00:27:44,480
+<font color="#16F158">Słuchaj, a...</font>
+
+287
+00:27:44,640 --> 00:27:47,160
+<font color="#16F158">Może pogadać z młodym Kotysem?</font>
+
+288
+00:27:47,320 --> 00:27:50,240
+<font color="#16F158">Może wpłynie na ojca?</font>
+Załatwiamy to.
+
+289
+00:27:50,400 --> 00:27:53,160
+<font color="#16F158">Puchała go dobrze zna.</font>
+<font color="#16F158">Pomagał mi.</font>
+
+290
+00:27:53,320 --> 00:27:55,120
+Dobra, znikaj.
+
+291
+00:27:55,280 --> 00:27:57,080
+<font color="#16F158">Przyda ci się.</font>
+
+292
+00:28:07,600 --> 00:28:10,840
+Chojnacki,
+jedźcie do Marka Kotysa.
+
+293
+00:28:11,000 --> 00:28:14,760
+Zabierz po drodze z komendy
+aspiranta Puchałę.
+
+294
+00:28:14,920 --> 00:28:16,920
+On go bardzo dobrze zna.
+
+295
+00:28:26,800 --> 00:28:29,120
+<font color="#8080FF">NACISKA KLAWISZE W TELEFONIE</font>
+
+296
+00:28:32,720 --> 00:28:34,520
+<font color="#8080FF">KASZEL</font>
+
+297
+00:28:35,680 --> 00:28:37,480
+Ania, w porządku?
+
+298
+00:28:41,120 --> 00:28:42,920
+Gdzie masz inhalator?
+
+299
+00:28:43,080 --> 00:28:44,880
+Został w szatni.
+
+300
+00:28:45,280 --> 00:28:47,600
+<font color="#8080FF">DZIEWCZYNKA NIERÓWNO ODDYCHA</font>
+
+301
+00:28:48,640 --> 00:28:50,440
+<font color="#8080FF">KASZLE</font>
+
+302
+00:28:51,400 --> 00:28:53,200
+Chodź.
+
+303
+00:28:54,400 --> 00:28:56,200
+Ej ty, profesorka!
+
+304
+00:28:57,040 --> 00:28:58,840
+Zostaw ją i siadaj!
+
+305
+00:28:59,000 --> 00:29:02,120
+- Ona ma atak astmy.
+- Nic jej nie będzie.
+
+306
+00:29:02,280 --> 00:29:05,000
+Ona natychmiast musi przyjąć lek!
+
+307
+00:29:05,160 --> 00:29:07,760
+Uspokój się, nic ci nie będzie.
+
+308
+00:29:08,320 --> 00:29:10,920
+Nic ci nie będzie.
+Bez histerii.
+
+309
+00:29:11,080 --> 00:29:12,880
+Siadaj.
+
+310
+00:29:20,920 --> 00:29:23,000
+Zostały wam dwie godziny.
+
+311
+00:29:23,160 --> 00:29:25,560
+Chcę wiedzieć, co się dzieje.
+
+312
+00:29:25,720 --> 00:29:28,240
+Musisz nam dać godzinę dłużej.
+
+313
+00:29:28,400 --> 00:29:31,400
+To nie takie proste
+załatwić samolot.
+
+314
+00:29:31,560 --> 00:29:33,560
+Myślicie, że ja żartuję?
+
+315
+00:29:33,720 --> 00:29:36,320
+Mam tu dziecko z atakiem astmy.
+
+316
+00:29:36,560 --> 00:29:40,720
+Jeśli nie utrzymacie czasu,
+stracicie zakładniczkę.
+
+317
+00:29:42,000 --> 00:29:43,840
+Dobrze, postaramy się.
+
+318
+00:29:44,000 --> 00:29:45,800
+Obiecuję.
+
+319
+00:29:46,720 --> 00:29:49,480
+Tylko pozwól podać jej lekarstwo.
+
+320
+00:29:49,640 --> 00:29:51,440
+<font color="#8080FF">KASZEL</font>
+
+321
+00:29:51,600 --> 00:29:53,400
+Błagam pana.
+
+322
+00:29:54,600 --> 00:29:57,360
+<font color="#8080FF">ZACZYNA KASZLEĆ</font>
+
+323
+00:30:00,040 --> 00:30:01,840
+Halo? Jesteś tam?
+
+324
+00:30:04,360 --> 00:30:06,160
+Zadzwonię do was
+
+325
+00:30:06,320 --> 00:30:08,120
+za chwilę.
+
+326
+00:30:15,840 --> 00:30:17,640
+<font color="#FFFF51">To idiotyczny pomysł.</font>
+
+327
+00:30:17,800 --> 00:30:19,600
+<font color="#FFFF51">Nie uda się.</font>
+
+328
+00:30:19,760 --> 00:30:22,760
+<font color="#16F158">Damy radę. Usiądź.</font>
+<font color="#FFFF51">Ja dam, ale ten...</font>
+
+329
+00:30:22,920 --> 00:30:24,720
+<font color="#16F158">On też da.</font>
+
+330
+00:30:24,880 --> 00:30:26,680
+<font color="#16F158">Siedzisz?</font>
+<font color="#FFFF51">Siedzę.</font>
+
+331
+00:30:26,840 --> 00:30:29,120
+<font color="#16F158">Usiądź, jak facet.</font>
+
+332
+00:30:29,880 --> 00:30:32,200
+<font color="#16F158">Jak facet! Nogi szeroko!</font>
+
+333
+00:30:32,360 --> 00:30:35,600
+<font color="#16F158">Masz broń.</font>
+<font color="#16F158">Jesteś niebezpieczna, groźna.</font>
+
+334
+00:30:35,760 --> 00:30:38,160
+<font color="#FFFF51">Może jeszcze mam pluć?</font>
+<font color="#16F158">Możesz.</font>
+
+335
+00:30:38,320 --> 00:30:40,280
+<font color="#16F158">Chodź. Spokój.</font>
+
+336
+00:30:40,440 --> 00:30:42,240
+<font color="#16F158">Posłuchaj teraz.</font>
+
+337
+00:30:42,400 --> 00:30:44,560
+<font color="#16F158">Lucynka, nie pomagasz nam.</font>
+
+338
+00:30:46,880 --> 00:30:48,680
+<font color="#16F158">Łapiesz broń.</font>
+
+339
+00:30:48,840 --> 00:30:50,640
+<font color="#16F158">Nie neseser. Broń.</font>
+
+340
+00:30:50,800 --> 00:30:52,600
+<font color="#FFFF51">Broń!</font>
+
+341
+00:30:52,760 --> 00:30:54,560
+<font color="#16F158">Lucyna!</font>
+
+342
+00:30:54,720 --> 00:30:56,520
+<font color="#16F158">Ręka! Ręka!</font>
+
+343
+00:30:58,520 --> 00:31:00,320
+<font color="#16F158">Nie! Nie!</font>
+
+344
+00:31:01,000 --> 00:31:02,800
+<font color="#16F158">Nie tak!</font>
+
+345
+00:31:02,960 --> 00:31:04,760
+<font color="#FFFF51">Weź go!</font>
+
+346
+00:31:05,640 --> 00:31:07,440
+Błagam pana.
+
+347
+00:31:08,280 --> 00:31:10,080
+To jest małe dziecko.
+
+348
+00:31:10,720 --> 00:31:12,520
+Niech ją pan wypuści.
+
+349
+00:31:12,680 --> 00:31:15,600
+Będzie pan miał całą resztę.
+Proszę.
+
+350
+00:31:19,240 --> 00:31:22,320
+Dajcie ten cholerny inhalator!
+Szybko!
+
+351
+00:31:22,480 --> 00:31:25,240
+Niech nikt nie wchodzi do środka.
+
+352
+00:31:25,400 --> 00:31:28,560
+Otwieracie drzwi
+i wrzucacie inhalator.
+
+353
+00:31:30,320 --> 00:31:32,840
+I nie kombinujcie nic z gazem.
+
+354
+00:31:33,000 --> 00:31:36,600
+Jak zobaczę, że to podstęp,
+zdetonuję bombę.
+
+355
+00:31:38,280 --> 00:31:40,400
+No, możecie.
+
+356
+00:31:41,680 --> 00:31:43,480
+Wrzucaj!
+
+357
+00:31:53,320 --> 00:31:55,400
+Mała z lewej, podnieś go.
+
+358
+00:31:55,560 --> 00:31:57,360
+Zamykaj drzwi!
+
+359
+00:31:59,480 --> 00:32:01,280
+Szybko!
+
+360
+00:32:06,080 --> 00:32:08,600
+<font color="#16F158">To jest bomba,</font>
+<font color="#16F158">tego nie wolno.</font>
+
+361
+00:32:08,760 --> 00:32:10,560
+<font color="#16F158">Tego nie wolno.</font>
+
+362
+00:32:10,720 --> 00:32:12,520
+<font color="#FFFF51">Tego nie! To tak!</font>
+
+363
+00:32:12,680 --> 00:32:14,480
+<font color="#FFFF51">No!</font>
+
+364
+00:32:14,640 --> 00:32:16,440
+<font color="#16F158">Lucyna, brawo.</font>
+
+365
+00:32:16,600 --> 00:32:18,400
+<font color="#16F158">Chodź, chodź.</font>
+
+366
+00:32:18,560 --> 00:32:21,720
+<font color="#16F158">Państwo się nudzą?</font>
+<font color="#16F158">Zapraszam do boksów.</font>
+
+367
+00:32:21,880 --> 00:32:24,400
+<font color="#16F158">Uda się! Ręka!</font>
+<font color="#16F158">Lucuś, pokaż mu!</font>
+
+368
+00:32:24,560 --> 00:32:26,360
+<font color="#FFFF51">Tu! Bierzesz!</font>
+
+369
+00:32:26,520 --> 00:32:28,320
+<font color="#FFFF51">Broń!</font>
+
+370
+00:32:28,480 --> 00:32:30,280
+<font color="#16F158">Bierz!</font>
+
+371
+00:32:30,440 --> 00:32:32,240
+<font color="#16F158">Tak jest!</font>
+
+372
+00:32:32,400 --> 00:32:34,200
+<font color="#16F158">Brawo! Żyjesz?</font>
+
+373
+00:32:34,360 --> 00:32:36,600
+<font color="#16F158">Gratuluję, dziękuję, cześć!</font>
+
+374
+00:32:38,520 --> 00:32:41,200
+<font color="#8080FF">OKLASKI</font>
+
+375
+00:32:42,400 --> 00:32:44,200
+<font color="#FFFF51">Udało się.</font>
+
+376
+00:32:46,640 --> 00:32:48,440
+<font color="#FFFF51">Zrobił to, no.</font>
+
+377
+00:32:48,600 --> 00:32:50,400
+<font color="#FFFF51">Co za pies.</font>
+
+378
+00:32:55,640 --> 00:32:57,440
+<font color="#8080FF">DZWONI TELEFON</font>
+
+379
+00:32:58,640 --> 00:33:00,920
+- Halo?
+- Możemy porozmawiać?
+
+380
+00:33:01,080 --> 00:33:02,880
+O czym?
+
+381
+00:33:03,040 --> 00:33:05,720
+- Jest samolot?
+- Będzie.
+
+382
+00:33:06,280 --> 00:33:08,080
+A czas płynie.
+
+383
+00:33:08,240 --> 00:33:10,040
+Tik, tak, tik, tak.
+
+384
+00:33:10,200 --> 00:33:12,880
+- Pół godziny.
+- Po co to robisz?
+
+385
+00:33:13,080 --> 00:33:16,320
+Resztę życia
+możesz spędzić w więzieniu.
+
+386
+00:33:17,360 --> 00:33:21,520
+Wypuść zakładników,
+może wyrok będzie łagodniejszy.
+
+387
+00:33:21,840 --> 00:33:23,640
+Wyrok?
+
+388
+00:33:28,080 --> 00:33:29,880
+Ja już mam wyrok.
+
+389
+00:33:30,040 --> 00:33:33,120
+Wiesz, co to jest carcinoma laryngis?
+
+390
+00:33:33,280 --> 00:33:35,080
+Nie.
+
+391
+00:33:35,240 --> 00:33:37,040
+Rak krtani.
+
+392
+00:33:37,200 --> 00:33:39,200
+Zostały mi dwa miesiące.
+
+393
+00:33:40,000 --> 00:33:42,320
+Dla mnie już nie ma ratunku.
+
+394
+00:33:42,480 --> 00:33:46,240
+Ale mój syn ma być wolny.
+Kapujesz?
+
+395
+00:33:46,760 --> 00:33:48,680
+Powtarzam, pół godziny.
+
+396
+00:33:48,840 --> 00:33:54,360
+Jeśli za pół godziny Marek do mnie
+nie zadzwoni, że jest powietrzu,
+
+397
+00:33:54,520 --> 00:33:58,280
+wyniesiecie stąd
+kilkanaście worków. Kapujesz?
+
+398
+00:34:12,080 --> 00:34:14,920
+Kilkanaście niewinnych dzieciaków.
+
+399
+00:34:15,080 --> 00:34:18,640
+Serca nie masz?
+Chcesz je mieć na sumieniu?
+
+400
+00:34:18,800 --> 00:34:22,720
+Co ci szkodzi powiedzieć,
+że jesteś w samolocie?
+
+401
+00:34:22,880 --> 00:34:25,880
+- Spadaj.
+- Zmniejszymy ci wyrok.
+
+402
+00:34:27,720 --> 00:34:29,960
+Stary wie, co robi. Koniec.
+
+403
+00:34:34,480 --> 00:34:36,280
+Wiesz, że jest chory?
+
+404
+00:34:36,440 --> 00:34:38,240
+Kto? Ojciec?
+
+405
+00:34:40,160 --> 00:34:44,480
+Nieuleczalnie. Ma nowotwór.
+Zostały mu dwa miesiące.
+
+406
+00:34:44,640 --> 00:34:46,440
+Blefujesz?
+
+407
+00:34:47,120 --> 00:34:51,120
+- Nie ma nic do stracenia.
+- Blefujesz jak Bromski.
+
+408
+00:34:52,600 --> 00:34:54,400
+Nie blefuję.
+
+409
+00:34:56,320 --> 00:34:59,480
+Blefujesz czy nie,
+wali mnie to, stary.
+
+410
+00:34:59,640 --> 00:35:01,440
+Załatwiasz samolot.
+
+411
+00:35:07,920 --> 00:35:11,520
+Puchała niczego nie załatwił.
+Mamy 10 minut.
+
+412
+00:35:11,680 --> 00:35:13,480
+<font color="#16F158">Daj nam szansę!</font>
+
+413
+00:35:17,040 --> 00:35:20,200
+Drzwi mają się otworzyć
+bezszelestnie.
+
+414
+00:35:20,360 --> 00:35:23,200
+Mam nadzieję, że wiesz, co robisz.
+
+415
+00:35:27,520 --> 00:35:30,280
+Chojnacki, dawaj tę dziennikarkę.
+
+416
+00:35:30,440 --> 00:35:33,600
+Powiedz mu,
+żeby włączył łódzką Trójkę.
+
+417
+00:35:40,360 --> 00:35:42,160
+Bracie,
+
+418
+00:35:42,720 --> 00:35:45,400
+teraz wszystko zależy od ciebie.
+
+419
+00:35:46,480 --> 00:35:51,640
+W szkole baletowej napastnik
+przetrzymuje kilkanaście uczennic.
+
+420
+00:35:51,800 --> 00:35:54,040
+Za mną zrozpaczeni rodzice.
+
+421
+00:35:54,200 --> 00:35:56,360
+Sytuacja jest dramatyczna.
+
+422
+00:35:56,520 --> 00:36:01,080
+Terrorysta żąda
+uwolnienia syna z więzienia.
+
+423
+00:36:01,240 --> 00:36:04,480
+Twój syn już jest
+na płycie lotniska.
+
+424
+00:36:04,640 --> 00:36:07,720
+Dobra, dobra.
+Uwierzę, jak go usłyszę.
+
+425
+00:36:07,880 --> 00:36:09,720
+Usłyszysz, bądź pewny.
+
+426
+00:36:14,600 --> 00:36:16,400
+<font color="#16F158">Tak jak z Lucyną.</font>
+
+427
+00:36:16,560 --> 00:36:18,360
+<font color="#16F158">Będzie okej.</font>
+
+428
+00:36:23,320 --> 00:36:25,120
+Gotowe?
+
+429
+00:36:31,200 --> 00:36:33,000
+<font color="#16F158">Powoli.</font>
+
+430
+00:36:33,160 --> 00:36:34,960
+<font color="#16F158">Powoli.</font>
+
+431
+00:36:35,120 --> 00:36:39,040
+TV: Terrorysta żąda
+uwolnienia syna z więzienia.
+
+432
+00:36:39,200 --> 00:36:43,320
+Jak dowiedzieliśmy się,
+żądania zostaną spełnione.
+
+433
+00:36:43,480 --> 00:36:48,440
+Za chwilę z łódzkiego lotniska
+wystartuje samolot do Meksyku.
+
+434
+00:36:48,600 --> 00:36:51,760
+Mamy nadzieję,
+że nic się nie wydarzy.
+
+435
+00:37:01,080 --> 00:37:02,880
+No to...
+
+436
+00:37:03,040 --> 00:37:05,560
+Chciałem wam coś powiedzieć...
+
+437
+00:37:07,520 --> 00:37:09,320
+Policja!
+
+438
+00:37:16,320 --> 00:37:18,120
+Zabezpieczyć walizkę.
+
+439
+00:37:24,280 --> 00:37:26,080
+<font color="#16F158">Alex, chodź.</font>
+
+440
+00:37:26,240 --> 00:37:28,040
+<font color="#16F158">Brawo, piesku.</font>
+
+441
+00:37:28,200 --> 00:37:30,000
+<font color="#16F158">Już po wszystkim.</font>
+
+442
+00:37:30,160 --> 00:37:31,960
+Idziemy!
+
+443
+00:37:36,320 --> 00:37:38,120
+<font color="#8080FF">ŚMIECH DZIECI</font>
+
+444
+00:37:52,120 --> 00:37:55,280
+<font color="#16F158">Alex, one są gorsze</font>
+<font color="#16F158">od przestępców, co?</font>
+
+445
+00:37:58,680 --> 00:38:00,480
+<font color="#16F158">Już po wszystkim.</font>
+
+446
+00:38:01,400 --> 00:38:03,200
+<font color="#16F158">W porządku?</font>
+
+447
+00:38:03,360 --> 00:38:05,160
+Tak.
+
+448
+00:38:12,000 --> 00:38:13,800
+Mądry pies.
+
+449
+00:38:13,960 --> 00:38:16,320
+Jak się wabi?
+<font color="#16F158">Alex.</font>
+
+450
+00:38:16,480 --> 00:38:18,280
+<font color="#16F158">Ja mam na imię Marek.</font>
+
+451
+00:38:18,440 --> 00:38:20,240
+Kinga.
+
+452
+00:38:20,400 --> 00:38:22,200
+Bardzo mi miło.
+
+453
+00:38:22,360 --> 00:38:25,960
+Chociaż w tych okolicznościach...
+
+454
+00:38:26,760 --> 00:38:30,680
+<font color="#16F158">Nigdy nie mogą być tak złe,</font>
+<font color="#16F158">żeby się nie poznać.</font>
+
+455
+00:38:30,840 --> 00:38:32,640
+<font color="#16F158">Już po wszystkim.</font>
+
+456
+00:38:46,120 --> 00:38:47,920
+<font color="#8080FF">OKLASKI</font>
+
+457
+00:39:08,920 --> 00:39:10,720
+Fajnego masz psa.
+
+458
+00:39:10,880 --> 00:39:12,680
+<font color="#16F158">Wiem.</font>
+
+459
+00:39:15,240 --> 00:39:17,040
+<font color="#16F158">Co?</font>
+
+460
+00:39:40,720 --> 00:39:45,120
+<font color="#16F158">Zasłużyłeś na nagrodę,</font>
+<font color="#16F158">ale wspólne fontie to przesada.</font>
+
+461
+00:39:46,240 --> 00:39:48,480
+<font color="#16F158">Ty sobie chyba jaja robisz.</font>
+
+462
+00:39:51,800 --> 00:39:53,600
+<font color="#16F158">Dobra.</font>
+
+463
+00:39:56,000 --> 00:39:57,800
+<font color="#16F158">Zrobimy tak.</font>
+
+464
+00:39:58,840 --> 00:40:00,640
+<font color="#16F158">Pan zwinie ci kocyk.</font>
+
+465
+00:40:01,280 --> 00:40:03,800
+<font color="#16F158">Żebyś miał szeroko.</font>
+
+466
+00:40:04,360 --> 00:40:06,320
+<font color="#16F158">Ale fajny kocyk.</font>
+
+467
+00:40:07,200 --> 00:40:09,000
+<font color="#16F158">Ale fajny kocyk.</font>
+
+468
+00:40:09,160 --> 00:40:11,000
+<font color="#16F158">Patrz, jaki mięciutki.</font>
+
+469
+00:40:14,600 --> 00:40:17,840
+<font color="#16F158">Taki w sam raz,</font>
+<font color="#16F158">żeby się na nim położyć.</font>
+
+470
+00:40:18,600 --> 00:40:20,440
+<font color="#16F158">Położysz się na kocyk?</font>
+
+471
+00:40:20,600 --> 00:40:22,400
+<font color="#16F158">Położysz się?</font>
+
+472
+00:40:24,640 --> 00:40:27,040
+<font color="#16F158">Alex, położysz się na kocyku?</font>
+
+473
+00:40:29,120 --> 00:40:31,360
+<font color="#16F158">Aluś...</font>
+<font color="#16F158">To jest fajny kocyk.</font>
+
+474
+00:40:33,440 --> 00:40:35,240
+<font color="#16F158">Ja wiem...</font>
+
+475
+00:40:35,840 --> 00:40:39,080
+<font color="#16F158">Nie możesz spać ze mną w łóżku.</font>
+
+476
+00:40:47,960 --> 00:40:49,760
+<font color="#16F158">Dobra.</font>
+
+477
+00:40:49,920 --> 00:40:51,720
+<font color="#16F158">Jeden raz.</font>
+
+478
+00:40:51,880 --> 00:40:53,680
+<font color="#16F158">Jeden raz.</font>
+
+479
+00:40:53,840 --> 00:40:56,360
+<font color="#16F158">Jutro już śpisz gdzie indziej?</font>
+
+480
+00:40:56,520 --> 00:40:58,320
+<font color="#16F158">Tak?</font>
+
+481
+00:40:58,480 --> 00:41:02,080
+<font color="#16F158">Pierwszy i ostatni raz</font>
+<font color="#16F158">śpisz ze mną w łóżku.</font>
+
+482
+00:41:02,240 --> 00:41:04,040
+<font color="#16F158">Umowa?</font>
+
+483
+00:41:05,600 --> 00:41:07,400
+<font color="#16F158">Oddaj kołdrę.</font>
+
+484
+00:41:08,600 --> 00:41:10,400
+<font color="#16F158">Oddaj kołdrę.</font>
+
+485
+00:41:15,200 --> 00:41:17,120
+<font color="#16F158">Dobra, niech ci będzie.</font>
+
+486
+00:41:18,840 --> 00:41:20,640
+<font color="#16F158">Tylko nie sap.</font>
+
+487
+00:41:23,120 --> 00:41:25,280
+<font color="#8080FF">ALEX DYSZY GŁOŚNO, WZDYCHA</font>
+
+488
+00:42:26,400 --> 00:42:31,480
+OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH
+TVP SA - OŚRODEK iTVP-HD
+
+489
+00:42:31,640 --> 00:42:35,160
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+490
+00:42:42,840 --> 00:42:45,280
+
+

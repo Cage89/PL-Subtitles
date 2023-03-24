@@ -1,0 +1,996 @@
+1
+00:00:00,840 --> 00:00:02,640
+<font color="#8080FF">POHUKIWANIE SOWY</font>
+
+2
+00:00:07,360 --> 00:00:11,600
+<font color="#FFFF51">Ciekawe, czy jak dodam</font>
+<font color="#FFFF51">żółtego barwnika do kolby,</font>
+
+3
+00:00:11,760 --> 00:00:13,760
+<font color="#FFFF51">to mgła zmieni kolor?</font>
+
+4
+00:00:25,400 --> 00:00:28,080
+Ej, ty, chemiku!
+<font color="#FFFF51">Henryk!</font>
+
+5
+00:00:28,240 --> 00:00:30,040
+<font color="#FFFF51">Co tu robisz w nocy?</font>
+
+6
+00:00:30,200 --> 00:00:32,000
+A ty czemu nie śpisz?
+
+7
+00:00:32,160 --> 00:00:33,960
+<font color="#FFFF51">Nie mogłem zasnąć.</font>
+
+8
+00:00:34,120 --> 00:00:37,200
+<font color="#FFFF51">Pracuję nad uzyskaniem</font>
+<font color="#FFFF51">kolorowej mgły.</font>
+
+9
+00:00:37,360 --> 00:00:41,240
+<font color="#FFFF51">Co cię do mnie sprowadza?</font>
+Mnie tutaj nie ma.
+
+10
+00:00:41,400 --> 00:00:43,680
+<font color="#FFFF51">Przecież jesteś.</font>
+
+11
+00:00:44,880 --> 00:00:47,560
+Jestem, ale mnie nie ma.
+
+12
+00:00:47,720 --> 00:00:50,160
+Wiesz, dla innych.
+
+13
+00:00:50,320 --> 00:00:53,000
+Nie powinienem, rozumiesz.
+
+14
+00:00:53,160 --> 00:00:54,960
+<font color="#FFFF51">Chyba tak.</font>
+
+15
+00:00:55,120 --> 00:00:59,840
+<font color="#FFFF51">Co cię do mnie sprowadza,</font>
+<font color="#FFFF51">skoro cię tu nie ma, a jesteś?</font>
+
+16
+00:01:00,000 --> 00:01:03,240
+Czarownica z Przełęczy
+chce cię poznać.
+
+17
+00:01:03,400 --> 00:01:06,360
+<font color="#FFFF51">Ta Wanda?</font>
+Cicho! Mnie tu nie ma.
+
+18
+00:01:06,520 --> 00:01:08,720
+<font color="#FFFF51">Bo to jest tajemnica?</font>
+
+19
+00:01:10,720 --> 00:01:13,480
+Tak. Wielka tajemnica.
+
+20
+00:01:13,640 --> 00:01:15,440
+Spotkaj się z Wandą,
+
+21
+00:01:15,600 --> 00:01:20,120
+ale wasza królowa
+nie może o tym wiedzieć.
+
+22
+00:01:20,280 --> 00:01:22,720
+Wymyśl coś.
+
+23
+00:01:22,880 --> 00:01:25,480
+Więcej nie mogę powiedzieć.
+
+24
+00:01:25,640 --> 00:01:29,520
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+25
+00:01:29,680 --> 00:01:33,200
+Takiego trudno znaleźć
+na mojej planecie.
+
+26
+00:01:33,360 --> 00:01:36,920
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+27
+00:01:37,080 --> 00:01:40,880
+Kiedy szybko pobiegł za mną,
+nie mogłem czekać.
+
+28
+00:01:41,040 --> 00:01:44,360
+Pokazali go w pałacu,
+kara go nie ominie.
+
+29
+00:01:44,520 --> 00:01:47,760
+Nagle wyczarował ognie
+królowej Kalinie.
+
+30
+00:01:47,920 --> 00:01:51,320
+Nie był on oszustem,
+nie był czarownikiem.
+
+31
+00:01:51,480 --> 00:01:54,960
+Miał na imię Al i jest alchemikiem.
+
+32
+00:01:56,640 --> 00:01:59,680
+<font color="#8080FF">RADOSNY ŚPIEW KRÓLOWEJ</font>
+
+33
+00:01:59,840 --> 00:02:02,160
+Oto nadchodzi nasza królowa.
+
+34
+00:02:02,320 --> 00:02:04,240
+<font color="aqua">Królowa Kalina.</font>
+
+35
+00:02:09,080 --> 00:02:12,280
+<font color="#8080FF">KRÓLOWA NUCI WESOŁO</font>
+
+36
+00:02:15,680 --> 00:02:19,760
+<font color="#16F158">Przepraszam, alchemiku,</font>
+<font color="#16F158">że musiałeś tyle czekać.</font>
+
+37
+00:02:19,920 --> 00:02:22,440
+<font color="#16F158">Ostatnio jestem jakaś taka...</font>
+
+38
+00:02:22,600 --> 00:02:25,440
+<font color="#16F158">Sama nie wiem, jak to nazwać.</font>
+
+39
+00:02:25,600 --> 00:02:28,160
+<font color="#16F158">Rozpromieniona, zadowolona.</font>
+
+40
+00:02:29,000 --> 00:02:31,040
+<font color="#16F158">Chyba jestem zakochana.</font>
+
+41
+00:02:31,200 --> 00:02:34,600
+<font color="#FFFF51">To bardzo dobra wiadomość,</font>
+<font color="#FFFF51">Wasza Wysokość.</font>
+
+42
+00:02:34,760 --> 00:02:39,720
+<font color="#16F158">To tylko moje spekulacje,</font>
+<font color="#16F158">ale wszystkie gwiazdy na niebie,</font>
+
+43
+00:02:39,880 --> 00:02:43,480
+<font color="#16F158">przeczucie,</font>
+<font color="#16F158">a przede wszystkim moje serce</font>
+
+44
+00:02:43,640 --> 00:02:46,000
+<font color="#16F158">mówią mi, że się zakochałam.</font>
+
+45
+00:02:46,160 --> 00:02:49,880
+<font color="#FFFF51">Kim jest szczęśliwy wybraniec,</font>
+<font color="#FFFF51">Wasza Wysokość?</font>
+
+46
+00:02:50,040 --> 00:02:51,840
+<font color="#FFFF51">Jeśli mogę spytać.</font>
+
+47
+00:02:52,000 --> 00:02:53,800
+<font color="#16F158">Kim, kim, kim?</font>
+
+48
+00:02:53,960 --> 00:02:56,320
+<font color="#16F158">Przecież to oczywiste kto.</font>
+
+49
+00:02:56,480 --> 00:02:58,360
+<font color="#16F158">Bartłomieju?</font>
+
+50
+00:03:00,120 --> 00:03:01,920
+Ja...
+
+51
+00:03:02,080 --> 00:03:05,160
+dużo o tym myślałem i...
+
+52
+00:03:05,320 --> 00:03:08,560
+Teraz akurat o tym myślałem i...
+
+53
+00:03:08,720 --> 00:03:12,880
+Wydaje mi się, że Wasza Wysokość
+zakochała się w...
+
+54
+00:03:15,600 --> 00:03:17,760
+Przepraszam, ale nie wiem.
+
+55
+00:03:17,920 --> 00:03:19,720
+<font color="#16F158">Bartłomieju!</font>
+
+56
+00:03:19,880 --> 00:03:22,520
+<font color="#16F158">Przecież to takie oczywiste.</font>
+
+57
+00:03:22,680 --> 00:03:24,920
+<font color="#16F158">Mirmile?</font>
+
+58
+00:03:25,080 --> 00:03:28,280
+<font color="aqua">Wasza Wysokość, to jest oczywiste.</font>
+
+59
+00:03:28,440 --> 00:03:33,240
+<font color="aqua">Sporo o tym myślałem i teraz też</font>
+<font color="aqua">myślę, i to jest oczywiste.</font>
+
+60
+00:03:33,400 --> 00:03:36,840
+<font color="aqua">Wasza Wysokość zakochała się...</font>
+<font color="aqua">we mnie.</font>
+
+61
+00:03:39,280 --> 00:03:41,080
+<font color="#16F158">Nie!</font>
+
+62
+00:03:42,640 --> 00:03:44,440
+<font color="#16F158">Alchemiku!</font>
+
+63
+00:03:46,360 --> 00:03:50,720
+<font color="#FFFF51">Myślę, że tylko pani zna odpowiedź,</font>
+<font color="#FFFF51">Wasza Wysokość.</font>
+
+64
+00:03:50,880 --> 00:03:52,960
+<font color="#16F158">Skoro nikt z was nie wie,</font>
+
+65
+00:03:53,120 --> 00:03:55,240
+<font color="#16F158">niech tak będzie.</font>
+
+66
+00:03:55,400 --> 00:03:58,200
+<font color="#16F158">Zostanie to moją słodką tajemnicą.</font>
+
+67
+00:03:58,360 --> 00:04:00,400
+<font color="#FFFF51">Jak sobie, pani, życzysz.</font>
+
+68
+00:04:00,560 --> 00:04:04,840
+<font color="#16F158">A jak tam nasza chemia?</font>
+<font color="#16F158">Czyli doświadczenia chemiczne.</font>
+
+69
+00:04:05,000 --> 00:04:08,160
+<font color="#16F158">Wszystko idzie</font>
+<font color="#16F158">zgodnie z pana myślą?</font>
+
+70
+00:04:08,320 --> 00:04:10,400
+<font color="#FFFF51">Właśnie z tym przychodzę.</font>
+
+71
+00:04:10,560 --> 00:04:14,480
+<font color="#FFFF51">Chcę dokonać</font>
+<font color="#FFFF51">kilku skomplikowanych doświadczeń,</font>
+
+72
+00:04:14,640 --> 00:04:17,920
+<font color="#FFFF51">które mogą być</font>
+<font color="#FFFF51">niebezpieczne dla środowiska.</font>
+
+73
+00:04:18,080 --> 00:04:20,920
+<font color="#FFFF51">Nie chcę,</font>
+<font color="#FFFF51">by komuś stała się krzywda.</font>
+
+74
+00:04:21,080 --> 00:04:25,520
+<font color="#FFFF51">Dlatego proszę, bym mógł</font>
+<font color="#FFFF51">eksperymentować w samotności.</font>
+
+75
+00:04:26,880 --> 00:04:30,360
+<font color="#FFFF51">Chodzi o to,</font>
+<font color="#FFFF51">żeby nikt mi nie przeszkadzał.</font>
+
+76
+00:04:30,520 --> 00:04:32,360
+<font color="#16F158">Oczywiście, rozumiem.</font>
+
+77
+00:04:32,520 --> 00:04:36,680
+<font color="#16F158">Jeśli pan sobie tego życzy,</font>
+<font color="#16F158">nie mogę tego zabronić.</font>
+
+78
+00:04:36,840 --> 00:04:40,600
+<font color="#16F158">Chociaż jestem bardzo ciekawa,</font>
+<font color="#16F158">co pan tam szykuje.</font>
+
+79
+00:04:40,760 --> 00:04:46,360
+<font color="#FFFF51">To coś spektakularnego</font>
+<font color="#FFFF51">i innowacyjnego, ale...</font>
+
+80
+00:04:47,760 --> 00:04:51,680
+<font color="#FFFF51">Niech to tym razem będzie</font>
+<font color="#FFFF51">moją słodką tajemnicą,</font>
+
+81
+00:04:51,840 --> 00:04:53,680
+<font color="#FFFF51">Wasza Wysokość.</font>
+
+82
+00:05:01,880 --> 00:05:03,680
+<font color="#16F158">Miejcie go na oku.</font>
+
+83
+00:05:03,840 --> 00:05:08,400
+<font color="#16F158">Nie wiadomo, co takiemu alchemikowi</font>
+<font color="#16F158">może wpaść do głowy.</font>
+
+84
+00:05:08,560 --> 00:05:12,920
+<font color="#16F158">Nie lubię, a wręcz nie cierpię</font>
+<font color="#16F158">tych całych...</font>
+
+85
+00:05:13,080 --> 00:05:15,160
+<font color="#16F158">tajemnic.</font>
+
+86
+00:05:15,320 --> 00:05:19,240
+<font color="#16F158">Wykonać! Odmaszerować!</font>
+Tak jest.
+
+87
+00:05:19,400 --> 00:05:21,560
+<font color="aqua">Tak będzie, królowo.</font>
+
+88
+00:05:21,720 --> 00:05:23,680
+<font color="aqua">Idź tam już.</font>
+Idę!
+
+89
+00:05:24,480 --> 00:05:26,280
+Czekaj!
+
+90
+00:05:35,000 --> 00:05:38,640
+<font color="#FFFF51">Trochę niezręcznie wyszło</font>
+<font color="#FFFF51">z tymi tajemnicami.</font>
+
+91
+00:05:38,800 --> 00:05:42,800
+<font color="#FFFF51">Królowa Kalina ma tajemnicę,</font>
+<font color="#FFFF51">teraz ja też ją mam.</font>
+
+92
+00:05:42,960 --> 00:05:46,760
+<font color="#FFFF51">Jeśli mam się spotkać</font>
+<font color="#FFFF51">z Czarownicą z Przełęczy,</font>
+
+93
+00:05:46,920 --> 00:05:50,240
+<font color="#FFFF51">tak by królowa</font>
+<font color="#FFFF51">się o tym nie dowiedziała,</font>
+
+94
+00:05:50,400 --> 00:05:55,120
+<font color="#FFFF51">nie mam wyboru i muszę</font>
+<font color="#FFFF51">zachować to przed nią w tajemnicy.</font>
+
+95
+00:05:55,280 --> 00:05:58,440
+<font color="#FFFF51">Nauka skrywa przed nami</font>
+<font color="#FFFF51">sporo tajemnic.</font>
+
+96
+00:05:58,600 --> 00:06:02,200
+<font color="#FFFF51">A tajemnice to pewna niewiadoma,</font>
+
+97
+00:06:02,360 --> 00:06:06,720
+<font color="#FFFF51">która w matematyce może być</font>
+<font color="#FFFF51">częścią równania. Popatrzcie.</font>
+
+98
+00:06:06,880 --> 00:06:10,680
+<font color="#FFFF51">Królowa Kalina jest zakochana.</font>
+
+99
+00:06:11,600 --> 00:06:13,880
+<font color="#FFFF51">Pytanie brzmi: w kim.</font>
+
+100
+00:06:21,560 --> 00:06:24,680
+<font color="#FFFF51">Musimy dowiedzieć się,</font>
+<font color="#FFFF51">kim jest ten X,</font>
+
+101
+00:06:24,840 --> 00:06:27,800
+<font color="#FFFF51">wtedy cała zagadka</font>
+<font color="#FFFF51">będzie rozwiązana.</font>
+
+102
+00:06:27,960 --> 00:06:31,680
+<font color="#FFFF51">W równaniach lewa strona</font>
+<font color="#FFFF51">zawsze równa się prawej.</font>
+
+103
+00:06:31,840 --> 00:06:34,120
+<font color="#FFFF51">Jak nazwa wskazuje, są równe.</font>
+
+104
+00:06:34,280 --> 00:06:37,960
+<font color="#FFFF51">Widać to w przyrodzie,</font>
+<font color="#FFFF51">w chemii czy w fizyce.</font>
+
+105
+00:06:38,120 --> 00:06:41,360
+<font color="#FFFF51">Działa to również w matematyce.</font>
+
+106
+00:06:41,520 --> 00:06:45,000
+<font color="#FFFF51">Lewa strona</font>
+<font color="#FFFF51">zawsze będzie równa prawej.</font>
+
+107
+00:06:45,160 --> 00:06:49,040
+<font color="#FFFF51">W końcu dwa plus dwa</font>
+<font color="#FFFF51">równa się cztery, czyż nie?</font>
+
+108
+00:06:56,400 --> 00:06:58,720
+O czym myślisz, Mirmile?
+
+109
+00:06:58,880 --> 00:07:00,680
+<font color="aqua">Ja?</font>
+
+110
+00:07:02,000 --> 00:07:04,160
+<font color="aqua">Nie mogę ci powiedzieć.</font>
+
+111
+00:07:04,320 --> 00:07:07,680
+Dlaczego? Przecież my
+sobie wszystko mówimy.
+
+112
+00:07:07,840 --> 00:07:11,880
+<font color="aqua">No tak, ale teraz</font>
+<font color="aqua">nie mogę ci powiedzieć.</font>
+
+113
+00:07:12,040 --> 00:07:13,840
+<font color="aqua">To tajemnica.</font>
+
+114
+00:07:14,000 --> 00:07:15,800
+Co?
+
+115
+00:07:15,960 --> 00:07:17,760
+Ty też!
+
+116
+00:07:17,920 --> 00:07:22,840
+Królowa Kalina ma tajemnicę,
+alchemik ma tajemnicę.
+
+117
+00:07:23,000 --> 00:07:26,960
+Teraz ty też masz tajemnicę.
+Wiesz, co to oznacza?
+
+118
+00:07:28,800 --> 00:07:31,880
+<font color="aqua">To oznacza,</font>
+<font color="aqua">że wszyscy mamy tajemnice.</font>
+
+119
+00:07:32,040 --> 00:07:36,360
+Nie! Że ja też będę musiał ją mieć!
+
+120
+00:07:36,520 --> 00:07:39,640
+Tę tajemnicę!
+<font color="aqua">Bartłomieju, nie płacz.</font>
+
+121
+00:07:39,800 --> 00:07:41,920
+<font color="aqua">Uspokój się.</font>
+
+122
+00:07:42,080 --> 00:07:44,480
+Ja nie chcę!
+<font color="aqua">Czego nie chcesz?</font>
+
+123
+00:07:44,640 --> 00:07:46,760
+Nie chcę mieć tajemnic.
+
+124
+00:07:46,920 --> 00:07:48,720
+<font color="aqua">Nie musisz ich mieć.</font>
+
+125
+00:07:48,880 --> 00:07:53,760
+To jest tak, że osoba,
+która ma tajemnice, czegoś się boi
+
+126
+00:07:53,920 --> 00:07:56,440
+i nie chce powiedzieć dlatego,
+
+127
+00:07:56,600 --> 00:07:59,520
+że jak powie,
+to to, czego się boi...
+
+128
+00:07:59,680 --> 00:08:02,120
+to ją dopadnie.
+
+129
+00:08:02,280 --> 00:08:06,120
+Rozumiesz już?
+<font color="aqua">Nic a nic nie rozumiem.</font>
+
+130
+00:08:06,280 --> 00:08:08,960
+<font color="aqua">Bartłomieju, już dobrze.</font>
+
+131
+00:08:09,120 --> 00:08:10,920
+<font color="#8080FF">GŁOŚNY PŁACZ</font>
+
+132
+00:08:11,960 --> 00:08:15,000
+<font color="aqua">Lalalala... nie boję się...</font>
+
+133
+00:08:15,160 --> 00:08:16,960
+Ja nie chcę tajemnic!
+
+134
+00:08:17,120 --> 00:08:18,920
+<font color="aqua">No już, już.</font>
+
+135
+00:08:32,800 --> 00:08:35,040
+<font color="#FFFF51">Henryk?</font>
+
+136
+00:08:36,720 --> 00:08:38,520
+Zarygluj drzwi.
+
+137
+00:08:39,840 --> 00:08:42,480
+<font color="#FFFF51">Co ty robisz?</font>
+Muszę mieć pewność...
+
+138
+00:08:42,640 --> 00:08:48,520
+Że nikt nie wejdzie,
+jak będziesz rozmawiał z czarownicą.
+
+139
+00:08:48,680 --> 00:08:51,680
+<font color="#FFFF51">No dobrze, ale gdzie ona jest?</font>
+
+140
+00:08:55,200 --> 00:08:57,000
+Tu.
+
+141
+00:08:57,160 --> 00:08:59,400
+<font color="#FFFF51">Ona jest w tej fiolce.</font>
+
+142
+00:09:00,760 --> 00:09:05,920
+Ty się nie śmiej. Nie wiesz,
+jaką Czarownica z Przełęczy ma moc.
+
+143
+00:09:06,080 --> 00:09:07,880
+Ona może wszystko.
+
+144
+00:09:08,040 --> 00:09:12,680
+Ona może się zamienić,
+ona może wszystko zmienić.
+
+145
+00:09:12,840 --> 00:09:16,240
+<font color="#FFFF51">Trochę trudno mi</font>
+<font color="#FFFF51">to przyjąć do wiadomości,</font>
+
+146
+00:09:16,400 --> 00:09:21,240
+<font color="#FFFF51">jako człowiekowi nauki i chemikowi,</font>
+<font color="#FFFF51">ale skoro tak twierdzisz.</font>
+
+147
+00:09:22,400 --> 00:09:25,080
+<font color="#FFFF51">Witam wielką</font>
+<font color="#FFFF51">Czarownicę z Przełęczy.</font>
+
+148
+00:09:25,240 --> 00:09:29,200
+<font color="#FFFF51">Jestem Alek, choć wolę,</font>
+<font color="#FFFF51">jak mówi się do mnie Al.</font>
+
+149
+00:09:29,360 --> 00:09:32,360
+<font color="#FFFF51">A najlepiej</font>
+<font color="#FFFF51">mówić do mnie "alchemiku".</font>
+
+150
+00:09:32,520 --> 00:09:34,320
+Co ty gadasz?
+
+151
+00:09:34,480 --> 00:09:37,040
+Tak się nie gada do czarownicy.
+
+152
+00:09:37,200 --> 00:09:41,440
+Ona się przemieni na twoich oczach,
+
+153
+00:09:41,600 --> 00:09:44,440
+gdy ją rozleję na tej podłodze.
+
+154
+00:09:44,600 --> 00:09:47,200
+Tylko musisz zamknąć powieki.
+
+155
+00:09:47,360 --> 00:09:51,160
+<font color="#FFFF51">Jak to "na moich oczach",</font>
+<font color="#FFFF51">skoro mam je zamknąć?</font>
+
+156
+00:09:51,320 --> 00:09:53,560
+No tak.
+
+157
+00:09:53,720 --> 00:10:00,280
+Ona słuchała o tobie i wstydzi się
+trochę... pokazywać swoją magię.
+
+158
+00:10:00,440 --> 00:10:07,360
+Więc z szacunku dla czarownicy
+lepiej jakbyś...
+
+159
+00:10:07,520 --> 00:10:11,840
+zamknął oczy,
+gdy będzie się przemieniać.
+
+160
+00:10:13,760 --> 00:10:16,080
+Ej! Tylko nie podglądaj.
+
+161
+00:10:16,960 --> 00:10:19,880
+Najlepiej będzie, jak się odwrócisz.
+
+162
+00:10:20,040 --> 00:10:21,760
+<font color="#FFFF51">Dobrze, już dobrze.</font>
+
+163
+00:10:24,040 --> 00:10:26,640
+Ołkum kołkum...
+
+164
+00:10:28,320 --> 00:10:30,560
+elo melo...
+
+165
+00:10:31,680 --> 00:10:36,840
+<font color="#8080FF">KRZYCZY</font>
+
+166
+00:10:49,960 --> 00:10:52,600
+Witam wielkiego alchemika.
+
+167
+00:10:52,760 --> 00:10:54,560
+Jestem Wanda.
+
+168
+00:10:54,720 --> 00:10:56,520
+<font color="#FFFF51">Miło mi, jestem Alek.</font>
+
+169
+00:10:56,680 --> 00:10:58,560
+Czarownica z Przełęczy.
+
+170
+00:10:58,720 --> 00:11:03,600
+<font color="#FFFF51">Witam i doceniam,</font>
+<font color="#FFFF51">że chciała się pani ze mną spotkać.</font>
+
+171
+00:11:03,760 --> 00:11:08,480
+<font color="#FFFF51">Ale po co to całe zamieszanie?</font>
+<font color="#FFFF51">Te tajemnice przed królową.</font>
+
+172
+00:11:08,640 --> 00:11:12,360
+<font color="#FFFF51">I ta ciecz,</font>
+<font color="#FFFF51">która tylko pobrudziła mi podłogę.</font>
+
+173
+00:11:12,520 --> 00:11:14,760
+<font color="#FFFF51">Przecież to nie były czary.</font>
+
+174
+00:11:14,920 --> 00:11:18,520
+Tak się nie mówi
+do Czarownicy z Przełęczy.
+
+175
+00:11:18,680 --> 00:11:22,400
+Spokojnie, Henryku.
+Pan alchemik mnie nie zna.
+
+176
+00:11:22,560 --> 00:11:27,880
+W królestwie aż huczy od informacji
+na temat wielkiego alchemika.
+
+177
+00:11:28,040 --> 00:11:33,000
+A ja po prostu chciałam pana poznać.
+
+178
+00:11:33,160 --> 00:11:37,680
+I zobaczyć, jak to jest tutaj.
+
+179
+00:11:37,840 --> 00:11:44,240
+Skoro pan nie wierzy w moje moce,
+może pokaże pan swoją sztuczkę.
+
+180
+00:11:44,400 --> 00:11:48,960
+<font color="#FFFF51">Już tłumaczyłem Henrykowi,</font>
+<font color="#FFFF51">ja nie robię sztuczek.</font>
+
+181
+00:11:49,120 --> 00:11:52,240
+<font color="#FFFF51">To czysta nauka,</font>
+<font color="#FFFF51">a dokładnie chemia.</font>
+
+182
+00:11:53,120 --> 00:11:58,320
+<font color="#FFFF51">Przed chwilą skończyłem</font>
+<font color="#FFFF51">dość niebezpieczny eksperyment.</font>
+
+183
+00:12:00,160 --> 00:12:03,680
+<font color="#FFFF51">Mam tu butelkę i złapałem w nią</font>
+
+184
+00:12:03,840 --> 00:12:06,320
+<font color="#FFFF51">mały kawałek chmury.</font>
+
+185
+00:12:06,480 --> 00:12:08,280
+<font color="#FFFF51">Nie wierzycie?</font>
+
+186
+00:12:08,440 --> 00:12:10,480
+<font color="#FFFF51">Henryku, wyciągnij korek.</font>
+
+187
+00:12:25,480 --> 00:12:28,120
+<font color="#FFFF51">Ja rozumiem, że niektóre rzeczy</font>
+
+188
+00:12:28,280 --> 00:12:31,920
+<font color="#FFFF51">mogą się wydawać</font>
+<font color="#FFFF51">czarami lub sztuczkami.</font>
+
+189
+00:12:32,080 --> 00:12:34,880
+<font color="#FFFF51">Zwłaszcza jeśli ich nie rozumiemy.</font>
+
+190
+00:12:35,040 --> 00:12:38,640
+<font color="#FFFF51">Ale to wszystko da się wyjaśnić.</font>
+<font color="#FFFF51">Popatrzcie.</font>
+
+191
+00:12:42,760 --> 00:12:47,120
+<font color="#FFFF51">Tę kolbę przygotowałem</font>
+<font color="#FFFF51">w ten sam sposób jak pierwszą.</font>
+
+192
+00:12:47,280 --> 00:12:52,680
+<font color="#FFFF51">Nalałem na dno perhydrolu - takiej</font>
+<font color="#FFFF51">skoncentrowanej wody utlenionej.</font>
+
+193
+00:12:52,840 --> 00:12:58,480
+<font color="#FFFF51">Sznureczek natomiast przytrzymuje</font>
+<font color="#FFFF51">porcję bardzo ciekawego odczynnika,</font>
+
+194
+00:12:58,640 --> 00:13:01,200
+<font color="#FFFF51">jakim jest nadmanganian potasu.</font>
+
+195
+00:13:01,360 --> 00:13:03,360
+<font color="#FFFF51">Jeśli wyciągniemy korek,</font>
+
+196
+00:13:03,520 --> 00:13:08,760
+<font color="#FFFF51">nadmanganian spadnie na dno kolby</font>
+<font color="#FFFF51">i rozpocznie reakcję chemiczną,</font>
+
+197
+00:13:08,920 --> 00:13:12,280
+<font color="#FFFF51">polegającą na rozbiciu</font>
+<font color="#FFFF51">tej wody utlenionej</font>
+
+198
+00:13:12,440 --> 00:13:14,240
+<font color="#FFFF51">na zwykłą wodę i tlen.</font>
+
+199
+00:13:14,400 --> 00:13:19,880
+<font color="#FFFF51">Powstanie przy tym sporo ciepła</font>
+<font color="#FFFF51">i, jak sami zaraz zobaczycie, mgły.</font>
+
+200
+00:13:20,040 --> 00:13:22,160
+<font color="#FFFF51">Henryku, wyciągnij korek.</font>
+
+201
+00:13:23,200 --> 00:13:25,200
+<font color="#FFFF51">Trzymaj.</font>
+
+202
+00:13:28,920 --> 00:13:31,560
+<font color="#FFFF51">Widzicie? Żadne czary, sztuczki.</font>
+
+203
+00:13:32,800 --> 00:13:34,840
+<font color="#FFFF51">Tylko reakcja chemiczna.</font>
+
+204
+00:13:37,000 --> 00:13:38,840
+To niezwykłe.
+
+205
+00:13:39,000 --> 00:13:42,280
+<font color="#FFFF51">Chciałem wam pokazać</font>
+<font color="#FFFF51">jeszcze jedną rzecz,</font>
+
+206
+00:13:42,440 --> 00:13:44,240
+<font color="#FFFF51">ale zabrakło mi kolb.</font>
+
+207
+00:13:44,400 --> 00:13:49,320
+<font color="#FFFF51">Chyba jedna jest w kuchni.</font>
+<font color="#FFFF51">Zaraz wracam, poczekajcie na mnie.</font>
+
+208
+00:13:58,680 --> 00:14:02,360
+<font color="#FFFF51">Pod żadnym pozorem</font>
+<font color="#FFFF51">nie możecie tam wchodzić.</font>
+
+209
+00:14:02,520 --> 00:14:05,200
+<font color="#FFFF51">To wielka tajemnica. Zrozumiano?</font>
+
+210
+00:14:05,360 --> 00:14:07,640
+<font color="aqua">Ma się rozumieć, alchemiku.</font>
+
+211
+00:14:10,880 --> 00:14:14,200
+I znowu te tajemnice!
+
+212
+00:14:17,200 --> 00:14:19,000
+<font color="aqua">No już, już, już.</font>
+
+213
+00:14:24,680 --> 00:14:27,160
+Henryku, zobacz.
+
+214
+00:14:27,320 --> 00:14:31,880
+Z tego równania wynika,
+że królowa Kalina się zakochała.
+
+215
+00:14:32,040 --> 00:14:35,840
+Musimy się dowiedzieć,
+kto jest jej wybrańcem.
+
+216
+00:14:36,000 --> 00:14:39,720
+A wtedy już nic mnie
+nie powstrzyma przed tym,
+
+217
+00:14:39,880 --> 00:14:43,040
+żeby zawładnąć całym jej królestwem!
+
+218
+00:14:43,200 --> 00:14:45,920
+Pomożesz mi zdobyć te informacje.
+
+219
+00:14:46,080 --> 00:14:50,440
+Ależ oczywiście, droga Wando.
+
+220
+00:14:53,280 --> 00:14:55,920
+Całe królestwo będzie moje!
+
+221
+00:14:56,080 --> 00:14:58,880
+<font color="#8080FF">DEMONICZNY ŚMIECH</font>
+
+222
+00:15:19,320 --> 00:15:22,280
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+223
+00:15:22,440 --> 00:15:25,880
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+224
+00:15:28,880 --> 00:15:30,680
+
+

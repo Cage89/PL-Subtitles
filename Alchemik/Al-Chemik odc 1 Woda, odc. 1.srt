@@ -1,0 +1,928 @@
+1
+00:00:07,760 --> 00:00:09,560
+PIOSENKA:
+
+2
+00:00:09,720 --> 00:00:13,520
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+3
+00:00:13,680 --> 00:00:17,240
+Takiego trudno znaleźć
+na mojej planecie.
+
+4
+00:00:17,400 --> 00:00:20,800
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+5
+00:00:20,960 --> 00:00:24,240
+Szybko pobiegł za mną,
+nie mogłem czekać.
+
+6
+00:00:24,400 --> 00:00:28,800
+Skoczyłem do jamy bez złego zamiaru,
+
+7
+00:00:28,960 --> 00:00:32,840
+by przedostać się do mojego wymiaru.
+
+8
+00:00:33,000 --> 00:00:38,160
+Jednak on poszedł za mną
+w swojej dobrej wierze.
+
+9
+00:00:39,720 --> 00:00:42,440
+Gdy wyszedł drugą stroną,
+
+10
+00:00:42,600 --> 00:00:45,240
+złapali go rycerze.
+
+11
+00:00:47,880 --> 00:00:51,200
+Pokazali go w pałacu,
+kara go nie ominie.
+
+12
+00:00:51,360 --> 00:00:54,600
+Nagle wyczarował ognie
+królowej Kalinie.
+
+13
+00:00:54,760 --> 00:00:58,480
+Ale nie był on oszustem,
+nie był czarownikiem.
+
+14
+00:00:58,640 --> 00:01:01,520
+Miał na imię Al i jest alchemikiem.
+
+15
+00:01:04,440 --> 00:01:08,360
+<font color="#16F158">Nie potrafi pan sobie wyobrazić,</font>
+<font color="#16F158">jak się cieszę,</font>
+
+16
+00:01:08,520 --> 00:01:12,000
+<font color="#16F158">że moi strażnicy</font>
+<font color="#16F158">spotkali pana w lesie,</font>
+
+17
+00:01:12,160 --> 00:01:14,280
+<font color="#16F158">panie magiku.</font>
+
+18
+00:01:14,440 --> 00:01:18,280
+<font color="#16F158">Nasz ostatni mag</font>
+<font color="#16F158">Henryk Złoty Gagatek zniknął.</font>
+
+19
+00:01:18,440 --> 00:01:20,400
+<font color="#16F158">Krążą plotki na dworze,</font>
+
+20
+00:01:20,560 --> 00:01:24,400
+<font color="#16F158">że Czarownica z Przełęczy</font>
+<font color="#16F158">zamieniła go...</font>
+
+21
+00:01:24,560 --> 00:01:26,360
+<font color="#16F158">W co ona go zamieniła?</font>
+
+22
+00:01:26,520 --> 00:01:28,400
+<font color="aqua">W mysz, Wasza Wysokość.</font>
+
+23
+00:01:28,560 --> 00:01:31,640
+Ja słyszałem, że w żabę,
+Wasza Miłość.
+
+24
+00:01:31,800 --> 00:01:36,200
+<font color="#16F158">Kimkolwiek jest,</font>
+<font color="#16F158">nie zmienia to faktu, że zniknął.</font>
+
+25
+00:01:37,120 --> 00:01:38,960
+<font color="aqua">A może...?</font>
+
+26
+00:01:39,120 --> 00:01:40,920
+A może...
+
+27
+00:01:41,080 --> 00:01:45,760
+<font color="#16F158">A może pomógłby pan odnaleźć</font>
+<font color="#16F158">Henryka Złotego Gagatka?</font>
+
+28
+00:01:45,920 --> 00:01:49,040
+<font color="#FFFF51">Dziękuję Waszej Wysokości</font>
+<font color="#FFFF51">za propozycję.</font>
+
+29
+00:01:49,200 --> 00:01:51,960
+<font color="#FFFF51">Ale ja nie wiem, gdzie ja jestem.</font>
+
+30
+00:01:54,120 --> 00:01:58,800
+<font color="#FFFF51">Byłem w lesie</font>
+<font color="#FFFF51">na ekspedycji naukowej.</font>
+
+31
+00:01:58,960 --> 00:02:02,800
+<font color="#FFFF51">Spotkałem taką tajemniczą postać.</font>
+
+32
+00:02:02,960 --> 00:02:05,760
+<font color="#FFFF51">Ona wskoczyła do piaskowej jamy.</font>
+
+33
+00:02:05,920 --> 00:02:07,840
+<font color="#FFFF51">Kiedy poszedłem za nią,</font>
+
+34
+00:02:08,000 --> 00:02:11,760
+<font color="#FFFF51">to z drugiej strony</font>
+<font color="#FFFF51">spotkałem już wartowników.</font>
+
+35
+00:02:11,920 --> 00:02:14,200
+<font color="aqua">Rycerzy.</font>
+<font color="#FFFF51">Rycerzy, przepraszam.</font>
+
+36
+00:02:15,960 --> 00:02:18,920
+<font color="#16F158">Jest pan na moim dworze.</font>
+
+37
+00:02:19,080 --> 00:02:22,920
+<font color="#16F158">Nic nie wiem o dziurze w ziemi</font>
+<font color="#16F158">i o tej postaci.</font>
+
+38
+00:02:23,080 --> 00:02:27,440
+<font color="#16F158">Wiem tylko, że potrzebujemy</font>
+<font color="#16F158">w królestwie magika.</font>
+
+39
+00:02:27,600 --> 00:02:29,720
+<font color="#16F158">A pan spadł nam z nieba.</font>
+
+40
+00:02:30,760 --> 00:02:33,440
+<font color="#FFFF51">Czy mógłbym dostać wody?</font>
+
+41
+00:02:33,600 --> 00:02:37,280
+<font color="#16F158">Wody?</font>
+<font color="#FFFF51">Wody i coś do jedzenia.</font>
+
+42
+00:02:38,200 --> 00:02:41,920
+<font color="#16F158">Straże! Przynieście wodę</font>
+<font color="#16F158">i jedzenie.</font>
+
+43
+00:02:43,320 --> 00:02:45,240
+<font color="aqua">Tak jest, Wasza Miłość.</font>
+
+44
+00:03:16,080 --> 00:03:18,160
+<font color="#FFFF51">O, cześć. Siemanko.</font>
+
+45
+00:03:18,320 --> 00:03:20,320
+<font color="#FFFF51">Jestem Al.</font>
+
+46
+00:03:21,720 --> 00:03:26,280
+<font color="#FFFF51">Tak naprawdę to Alek,</font>
+<font color="#FFFF51">ale wolę, jak mówi się do mnie Al.</font>
+
+47
+00:03:26,440 --> 00:03:28,680
+<font color="#FFFF51">Jak widzicie,</font>
+
+48
+00:03:28,840 --> 00:03:31,280
+<font color="#FFFF51">jestem w niezłych tarapatach.</font>
+
+49
+00:03:31,440 --> 00:03:34,320
+<font color="#FFFF51">Zamknęli mnie w wieży,</font>
+<font color="#FFFF51">drzwi na klucz,</font>
+
+50
+00:03:34,480 --> 00:03:36,520
+<font color="#FFFF51">nie wiem, jak stąd wyjść.</font>
+
+51
+00:03:36,680 --> 00:03:39,840
+<font color="#FFFF51">Wiem tylko jedno. To nie jest sen.</font>
+
+52
+00:03:40,000 --> 00:03:41,800
+<font color="#FFFF51">Pomyślmy.</font>
+
+53
+00:03:41,960 --> 00:03:46,120
+<font color="#FFFF51">Wybierałem się na moją</font>
+<font color="#FFFF51">coroczną ekspedycję naukową.</font>
+
+54
+00:03:46,280 --> 00:03:50,000
+<font color="#FFFF51">Trafiłem na dziwną,</font>
+<font color="#FFFF51">tajemniczą postać w lesie.</font>
+
+55
+00:03:50,160 --> 00:03:53,280
+<font color="#FFFF51">Ona wskoczyła do piaskowej jamy.</font>
+
+56
+00:03:56,520 --> 00:03:58,320
+<font color="#FFFF51">A ja...</font>
+
+57
+00:03:59,280 --> 00:04:01,080
+<font color="#FFFF51">poszedłem za nią.</font>
+
+58
+00:04:02,320 --> 00:04:04,120
+<font color="#FFFF51">Wygląda na to,</font>
+
+59
+00:04:04,280 --> 00:04:07,280
+<font color="#FFFF51">że przeniosłem się</font>
+<font color="#FFFF51">do innego wymiaru.</font>
+
+60
+00:04:08,880 --> 00:04:10,680
+<font color="#FFFF51">Znalazłem się tu.</font>
+
+61
+00:04:12,480 --> 00:04:14,280
+<font color="#FFFF51">Jedno jest pewne.</font>
+
+62
+00:04:15,600 --> 00:04:19,840
+<font color="#FFFF51">To nie jest zwykły świat,</font>
+<font color="#FFFF51">skoro wierzą tu w magików.</font>
+
+63
+00:04:20,000 --> 00:04:23,000
+<font color="#FFFF51">Oni uważają,</font>
+<font color="#FFFF51">że jestem jednym z nich.</font>
+
+64
+00:04:23,160 --> 00:04:25,400
+<font color="#FFFF51">Ale ja nie jestem magikiem.</font>
+
+65
+00:04:25,560 --> 00:04:30,040
+<font color="#FFFF51">To, co robię na co dzień,</font>
+<font color="#FFFF51">to nie są czary czy sztuczki,</font>
+
+66
+00:04:30,200 --> 00:04:32,000
+<font color="#FFFF51">tylko prawdziwa nauka.</font>
+
+67
+00:04:32,160 --> 00:04:34,040
+<font color="#FFFF51">A dokładniej to chemia.</font>
+
+68
+00:04:34,200 --> 00:04:40,320
+<font color="#FFFF51">Bo widzicie, chemia to jedna</font>
+<font color="#FFFF51">z najpiękniejszych nauk na świecie.</font>
+
+69
+00:04:40,480 --> 00:04:45,080
+<font color="#FFFF51">Pozwala mi zrozumieć,</font>
+<font color="#FFFF51">z czego zbudowany jest cały świat.</font>
+
+70
+00:04:45,240 --> 00:04:47,760
+<font color="#FFFF51">Dlaczego jest taki, jaki jest.</font>
+
+71
+00:04:47,920 --> 00:04:53,120
+<font color="#FFFF51">Zawsze miałem wiele pytań, na które</font>
+<font color="#FFFF51">nikt nie umiał mi odpowiedzieć.</font>
+
+72
+00:04:53,280 --> 00:04:58,040
+<font color="#FFFF51">Skąd w chlebie tyle dziurek?</font>
+<font color="#FFFF51">Jak rośnie ciasto w piekarniku?</font>
+
+73
+00:04:58,200 --> 00:05:04,080
+<font color="#FFFF51">Skąd się biorą kolory fajerwerków?</font>
+<font color="#FFFF51">Jak paliwo napędza samochód?</font>
+
+74
+00:05:04,240 --> 00:05:08,480
+<font color="#FFFF51">Chemia potrafi odpowiedzieć</font>
+<font color="#FFFF51">na wszystkie te pytanie.</font>
+
+75
+00:05:08,640 --> 00:05:12,600
+<font color="#FFFF51">I milion innych.</font>
+<font color="#FFFF51">Dzięki temu nigdy się nie nudzę.</font>
+
+76
+00:05:12,760 --> 00:05:15,160
+<font color="#FFFF51">Zawsze mam coś do zrobienia.</font>
+
+77
+00:05:15,320 --> 00:05:19,600
+<font color="#FFFF51">Wymyślę świecącego gluta,</font>
+<font color="#FFFF51">zmieniającą kolor miksturę.</font>
+
+78
+00:05:19,760 --> 00:05:22,080
+<font color="#FFFF51">Mogę zrobić prawie wszystko.</font>
+
+79
+00:05:22,240 --> 00:05:26,560
+<font color="#FFFF51">Najważniejsze to pomysł</font>
+<font color="#FFFF51">i odczynniki chemiczne.</font>
+
+80
+00:05:26,720 --> 00:05:30,440
+<font color="#FFFF51">I oczywiście wiedza.</font>
+<font color="#FFFF51">Bez niej się nie obędzie.</font>
+
+81
+00:05:30,600 --> 00:05:33,320
+<font color="#FFFF51">Albo może się obyć nie najlepiej.</font>
+
+82
+00:05:33,480 --> 00:05:35,400
+<font color="#FFFF51">A teraz...</font>
+
+83
+00:05:35,560 --> 00:05:38,760
+<font color="#FFFF51">Teraz najważniejsze</font>
+<font color="#FFFF51">to znaleźć pomysł,</font>
+
+84
+00:05:38,920 --> 00:05:41,840
+<font color="#FFFF51">jak się najszybciej stąd wydostać.</font>
+
+85
+00:05:50,120 --> 00:05:52,960
+<font color="aqua">On jest jakiś dziwny, Bartłomieju.</font>
+
+86
+00:05:53,120 --> 00:05:55,560
+Nie myśl już o tym, Mirmile.
+
+87
+00:05:55,720 --> 00:05:58,120
+<font color="aqua">Czekaj. Patrz.</font>
+
+88
+00:05:58,280 --> 00:06:01,960
+<font color="aqua">Jeśli on jest magikiem,</font>
+<font color="aqua">za którego się uważa,</font>
+
+89
+00:06:02,120 --> 00:06:05,040
+<font color="aqua">to po co królowa</font>
+<font color="aqua">zamyka go na zamku?</font>
+
+90
+00:06:05,200 --> 00:06:08,040
+<font color="aqua">Może uciec w każdej chwili.</font>
+
+91
+00:06:08,200 --> 00:06:12,520
+<font color="aqua">Przecież magowie mają potężną moc.</font>
+<font color="aqua">Potrafią wszystko.</font>
+
+92
+00:06:12,680 --> 00:06:16,200
+<font color="aqua">Ja ci mówię, Bartłomieju,</font>
+<font color="aqua">oni mogą...</font>
+
+93
+00:06:16,360 --> 00:06:18,160
+<font color="aqua">Wszystko mogą.</font>
+
+94
+00:06:19,600 --> 00:06:23,200
+Mirmile, a pamiętasz,
+jak pojawił się w lochu?
+
+95
+00:06:23,360 --> 00:06:28,040
+Wyszedł z tej dziury,
+jakby mieszkał tam przez całe życie.
+
+96
+00:06:28,200 --> 00:06:32,320
+A jak przedstawiliśmy go królowej,
+to co zrobił?
+
+97
+00:06:32,480 --> 00:06:36,120
+<font color="aqua">Wyciągnął ognie.</font>
+Tak było, sam widziałem.
+
+98
+00:06:36,280 --> 00:06:38,920
+<font color="aqua">I właśnie to mnie niepokoi.</font>
+
+99
+00:06:39,080 --> 00:06:42,160
+<font color="aqua">On jest zupełnie inny niż ten nasz.</font>
+
+100
+00:06:42,320 --> 00:06:45,800
+Nawet nie wspominaj
+imienia Gagatka.
+
+101
+00:06:45,960 --> 00:06:50,320
+Jak Czarownica z Przełęczy
+dowie się, że jest nowy mag,
+
+102
+00:06:50,480 --> 00:06:54,000
+królowa znowu będzie miała kłopoty.
+
+103
+00:06:54,160 --> 00:06:55,960
+<font color="aqua">Ty...</font>
+
+104
+00:06:56,800 --> 00:06:59,240
+<font color="aqua">W ogóle o tym nie pomyślałem.</font>
+
+105
+00:06:59,400 --> 00:07:02,600
+<font color="aqua">Może królowa po to</font>
+<font color="aqua">zamknęła go na zamku,</font>
+
+106
+00:07:02,760 --> 00:07:06,440
+<font color="aqua">żeby czarownica</font>
+<font color="aqua">nic o nim nie wiedziała.</font>
+
+107
+00:07:18,800 --> 00:07:21,280
+Oto woda, o którą prosiłeś.
+
+108
+00:07:23,640 --> 00:07:26,480
+Teraz możesz pić do woli.
+<font color="#FFFF51">Dziękuję.</font>
+
+109
+00:07:27,720 --> 00:07:31,320
+A co do jedzenia, to cierpliwości.
+Robi się.
+
+110
+00:07:31,480 --> 00:07:33,280
+Mości magiku.
+
+111
+00:07:33,440 --> 00:07:35,240
+<font color="#FFFF51">Nie jestem magikiem.</font>
+
+112
+00:07:44,560 --> 00:07:46,360
+<font color="#FFFF51">Woda.</font>
+
+113
+00:07:48,440 --> 00:07:50,240
+<font color="#FFFF51">Woda</font>
+
+114
+00:07:50,400 --> 00:07:52,280
+<font color="#FFFF51">to samo dobro.</font>
+
+115
+00:07:52,440 --> 00:07:55,360
+<font color="#FFFF51">Woda to życie.</font>
+
+116
+00:08:00,760 --> 00:08:04,080
+<font color="#FFFF51">Nie ma drugiego takiego</font>
+<font color="#FFFF51">płynu na świecie.</font>
+
+117
+00:08:04,240 --> 00:08:09,720
+<font color="#FFFF51">Pokrywa większość naszej planety</font>
+<font color="#FFFF51">i wypełnia większość naszych ciał.</font>
+
+118
+00:08:09,880 --> 00:08:13,200
+<font color="#FFFF51">Jak zresztą wszystkich organizmów.</font>
+
+119
+00:08:13,360 --> 00:08:15,320
+<font color="#FFFF51">Życie w wodzie powstało.</font>
+
+120
+00:08:15,480 --> 00:08:20,200
+<font color="#FFFF51">Kiedy już z tej wody wyszło,</font>
+<font color="#FFFF51">zabrało ją ze sobą, w środku.</font>
+
+121
+00:08:20,360 --> 00:08:23,240
+<font color="#FFFF51">Czy to grzyby,</font>
+<font color="#FFFF51">rośliny czy zwierzęta</font>
+
+122
+00:08:23,400 --> 00:08:25,800
+<font color="#FFFF51">- bez wody nie pożyją za długo.</font>
+
+123
+00:08:25,960 --> 00:08:27,760
+<font color="#FFFF51">Wiecie dlaczego?</font>
+
+124
+00:08:27,920 --> 00:08:30,800
+<font color="#FFFF51">Spróbujcie zaparzyć herbatę</font>
+<font color="#FFFF51">be wody.</font>
+
+125
+00:08:30,960 --> 00:08:33,000
+<font color="#FFFF51">Nie da się.</font>
+
+126
+00:08:33,160 --> 00:08:36,640
+<font color="#FFFF51">W wodzie wiele rzeczy</font>
+<font color="#FFFF51">świetnie się rozpuszcza.</font>
+
+127
+00:08:36,800 --> 00:08:40,680
+<font color="#FFFF51">Kiedy są rozpuszczone,</font>
+<font color="#FFFF51">mogą się ze sobą mieszać</font>
+
+128
+00:08:40,840 --> 00:08:43,040
+<font color="#FFFF51">i reagować.</font>
+
+129
+00:08:43,200 --> 00:08:46,360
+<font color="#FFFF51">A reakcje chemiczne</font>
+<font color="#FFFF51">to podstawa chemii.</font>
+
+130
+00:08:46,520 --> 00:08:51,760
+<font color="#FFFF51">Jeśli połączymy dwie różne rzeczy,</font>
+<font color="#FFFF51">razem mogą dać trzecią, inną.</font>
+
+131
+00:08:51,920 --> 00:08:54,240
+<font color="#FFFF51">Woda na to wszystko pozwala.</font>
+
+132
+00:08:54,400 --> 00:08:57,440
+<font color="#FFFF51">Woda wyciągnie z fusów esencję</font>
+
+133
+00:08:57,600 --> 00:09:02,000
+<font color="#FFFF51">i jednocześnie w tej samej wodzie</font>
+<font color="#FFFF51">rozpuści się cukier.</font>
+
+134
+00:09:02,160 --> 00:09:05,320
+<font color="#FFFF51">Oddzielnie na sucho</font>
+<font color="#FFFF51">już nie są takie dobre.</font>
+
+135
+00:09:05,480 --> 00:09:08,520
+<font color="#FFFF51">Razem z wodą tworzą pyszną herbatę.</font>
+
+136
+00:09:08,680 --> 00:09:10,960
+<font color="#FFFF51">Napiłbym się herbaty.</font>
+
+137
+00:09:11,120 --> 00:09:13,760
+<font color="#FFFF51">Wpadłem właśnie na pomysł,</font>
+
+138
+00:09:13,920 --> 00:09:18,400
+<font color="#FFFF51">jak pokazać wam działanie wody</font>
+<font color="#FFFF51">w prostym eksperymencie.</font>
+
+139
+00:09:18,560 --> 00:09:21,120
+<font color="#FFFF51">Myślę, że strażnicy nie wiedzą,</font>
+
+140
+00:09:21,280 --> 00:09:24,560
+<font color="#FFFF51">czym naprawdę jest mgła</font>
+<font color="#FFFF51">i jak powstaje.</font>
+
+141
+00:09:27,000 --> 00:09:29,960
+<font color="#FFFF51">To, co tutaj mam, to suchy lód.</font>
+
+142
+00:09:32,600 --> 00:09:36,200
+<font color="#FFFF51">Miałem go użyć</font>
+<font color="#FFFF51">do zamrożenia moich próbek,</font>
+
+143
+00:09:36,360 --> 00:09:38,440
+<font color="#FFFF51">ale to już nieaktualne.</font>
+
+144
+00:09:38,600 --> 00:09:40,560
+<font color="#8080FF">ŚPIEW STRAŻNIKA</font>
+
+145
+00:09:42,520 --> 00:09:44,760
+<font color="aqua">Klucze z komnaty Mirmił ma.</font>
+
+146
+00:09:44,920 --> 00:09:47,800
+<font color="#FFFF51">Opowiem wam jeszcze</font>
+<font color="#FFFF51">o suchym lodzie,</font>
+
+147
+00:09:47,960 --> 00:09:51,680
+<font color="#FFFF51">ale słyszę strażnika</font>
+<font color="#FFFF51">z jedzeniem dla mnie.</font>
+
+148
+00:09:51,840 --> 00:09:53,720
+<font color="#FFFF51">Czas zniknąć.</font>
+
+149
+00:09:54,520 --> 00:09:58,640
+<font color="aqua">Który to był - ten większy</font>
+<font color="aqua">czy ten mniejszy klucz?</font>
+
+150
+00:09:58,800 --> 00:10:01,240
+<font color="aqua">Zawsze zapomi... Jest.</font>
+
+151
+00:10:15,440 --> 00:10:18,640
+<font color="aqua">Ooo! Co to?</font>
+
+152
+00:10:20,680 --> 00:10:22,480
+<font color="aqua">Co to za...</font>
+
+153
+00:10:24,440 --> 00:10:26,600
+<font color="aqua">To jest niesamowite.</font>
+
+154
+00:10:26,760 --> 00:10:28,560
+<font color="aqua">Ojej...</font>
+
+155
+00:10:28,720 --> 00:10:32,880
+<font color="aqua">Ojej! Bartłomieju!</font>
+
+156
+00:10:36,480 --> 00:10:38,280
+Oooo!
+
+157
+00:10:38,440 --> 00:10:40,960
+To jest niesamowite.
+
+158
+00:10:42,080 --> 00:10:43,880
+Gdzie on jest?
+
+159
+00:10:44,040 --> 00:10:45,840
+Uciekł!
+
+160
+00:10:46,000 --> 00:10:49,320
+Mówiłem, że ucieknie.
+Biegnij po królową.
+
+161
+00:10:49,480 --> 00:10:51,760
+<font color="aqua">Biegnę po królową.</font>
+
+162
+00:10:51,920 --> 00:10:54,440
+Panie czarodzieju!
+
+163
+00:10:56,680 --> 00:10:59,320
+Panie czarodzieju, jest pan tam?
+
+164
+00:11:02,400 --> 00:11:04,200
+Panie czarodzieju!
+
+165
+00:11:04,360 --> 00:11:07,600
+Panie czarodzieju,
+proszę się nie chować
+
+166
+00:11:07,760 --> 00:11:09,800
+i sobie żartów nie robić!
+
+167
+00:11:12,720 --> 00:11:15,040
+<font color="#16F158">Gdzie on jest?</font>
+
+168
+00:11:15,200 --> 00:11:17,320
+Nie ma go, Wasza Wysokość.
+
+169
+00:11:17,480 --> 00:11:20,440
+<font color="#16F158">Jak to nie ma?</font>
+<font color="#16F158">Mieliście go pilnować.</font>
+
+170
+00:11:20,600 --> 00:11:22,720
+<font color="aqua">To czary, Wasza Wysokość.</font>
+
+171
+00:11:22,880 --> 00:11:25,680
+<font color="aqua">Zniknął. Po prostu zamienił się...</font>
+
+172
+00:11:27,720 --> 00:11:30,240
+<font color="aqua">Zamienił się we mgłę i zniknął.</font>
+
+173
+00:11:30,400 --> 00:11:32,720
+<font color="#8080FF">BRZĘK KLUCZY, SZCZĘK ZAMKA</font>
+
+174
+00:11:36,440 --> 00:11:38,240
+<font color="aqua">Zamknięte.</font>
+
+175
+00:11:41,280 --> 00:11:44,800
+<font color="#16F158">Proszę otworzyć te drzwi!</font>
+<font color="#16F158">Co to za wygłupy?</font>
+
+176
+00:11:44,960 --> 00:11:48,680
+<font color="#FFFF51">Otworzę, ale nie chcę już</font>
+<font color="#FFFF51">być zamykany.</font>
+
+177
+00:11:48,840 --> 00:11:51,080
+<font color="#16F158">No dobrze, dobrze.</font>
+
+178
+00:11:51,240 --> 00:11:53,400
+<font color="#16F158">Proszę wyjść.</font>
+<font color="#FFFF51">Na pewno?</font>
+
+179
+00:11:53,560 --> 00:11:56,120
+<font color="#16F158">Tak, na pewno.</font>
+
+180
+00:11:56,280 --> 00:11:58,680
+<font color="#8080FF">SZCZĘK ZAMKA W DRZWIACH</font>
+
+181
+00:12:02,680 --> 00:12:04,520
+<font color="#16F158">Co to jest?</font>
+
+182
+00:12:04,680 --> 00:12:06,480
+<font color="#16F158">To jakaś magia?</font>
+
+183
+00:12:08,720 --> 00:12:11,480
+<font color="#16F158">Jeżeli pan nie ucieknie,</font>
+
+184
+00:12:11,640 --> 00:12:15,040
+<font color="#16F158">mianuję pana</font>
+<font color="#16F158">moim nadwornym magikiem.</font>
+
+185
+00:12:15,880 --> 00:12:17,680
+<font color="#FFFF51">Zgoda.</font>
+
+186
+00:12:17,840 --> 00:12:19,640
+<font color="#FFFF51">Ale jest jedno "ale".</font>
+
+187
+00:12:19,800 --> 00:12:23,400
+<font color="#FFFF51">Mam na imię Al</font>
+<font color="#FFFF51">i nie jestem magikiem.</font>
+
+188
+00:12:24,680 --> 00:12:27,080
+<font color="#16F158">To w takim razie co to jest?</font>
+
+189
+00:12:27,240 --> 00:12:29,040
+<font color="#FFFF51">To jest mgła.</font>
+
+190
+00:12:31,040 --> 00:12:36,520
+<font color="#FFFF51">Wiele osób myśli, że białe kłęby,</font>
+<font color="#FFFF51">które unoszą się nad gotującą wodą,</font>
+
+191
+00:12:36,680 --> 00:12:41,240
+<font color="#FFFF51">albo te, które widzimy tutaj,</font>
+<font color="#FFFF51">to para wodna, ale to błąd.</font>
+
+192
+00:12:41,400 --> 00:12:43,440
+<font color="#FFFF51">Bo to mgła.</font>
+
+193
+00:12:43,600 --> 00:12:48,000
+<font color="#FFFF51">Pary wodnej nie da się zobaczyć,</font>
+<font color="#FFFF51">bo to gazowa forma wody.</font>
+
+194
+00:12:48,160 --> 00:12:51,400
+<font color="#FFFF51">Żeby ją zobaczyć,</font>
+<font color="#FFFF51">trzeba ją skroplić,</font>
+
+195
+00:12:51,560 --> 00:12:55,600
+<font color="#FFFF51">czyli zamienić</font>
+<font color="#FFFF51">w małe latające kropelki wody.</font>
+
+196
+00:12:55,760 --> 00:12:59,160
+<font color="#FFFF51">Kropelki wody</font>
+<font color="#FFFF51">widzimy już doskonale jako mgłę.</font>
+
+197
+00:13:00,440 --> 00:13:03,680
+<font color="#FFFF51">Wystarczy coś zimnego</font>
+<font color="#FFFF51">i mokre powietrze.</font>
+
+198
+00:13:03,840 --> 00:13:07,000
+<font color="#FFFF51">Każde dziecko u nas wie,</font>
+<font color="#FFFF51">jak to działa.</font>
+
+199
+00:13:07,160 --> 00:13:10,600
+<font color="#FFFF51">To chemia i fizyka w działaniu.</font>
+<font color="#FFFF51">Jestem chemikiem.</font>
+
+200
+00:13:10,760 --> 00:13:16,480
+<font color="#16F158">W takim razie, panie Al, mianuję</font>
+<font color="#16F158">pana moim nadwornym chemikiem.</font>
+
+201
+00:13:16,640 --> 00:13:18,600
+Al...
+
+202
+00:13:18,760 --> 00:13:20,560
+<font color="aqua">...chemik.</font>
+
+203
+00:13:20,720 --> 00:13:22,520
+<font color="aqua">Hip, hip!</font>
+
+204
+00:13:22,680 --> 00:13:24,480
+RAZEM: Hurra!
+
+205
+00:13:24,640 --> 00:13:26,440
+<font color="aqua">Hip hip!</font>
+
+206
+00:13:26,600 --> 00:13:28,880
+RAZEM: Hurra! Hurra! Hurra!
+
+207
+00:13:50,040 --> 00:13:52,880
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+208
+00:13:53,040 --> 00:13:56,520
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+209
+00:13:58,320 --> 00:14:00,120
+
+

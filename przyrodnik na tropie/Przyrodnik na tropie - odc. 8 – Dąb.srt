@@ -1,0 +1,1337 @@
+1
+00:00:01,600 --> 00:00:05,400
+<font color="aqua">Wytrawny przyrodnik rozpozna</font>
+<font color="aqua">gatunek lecącego ptaka</font>
+
+2
+00:00:05,560 --> 00:00:09,200
+<font color="aqua">z równą łatwością</font>
+<font color="aqua">co gatunek przydrożnego krzaka.</font>
+
+3
+00:00:09,360 --> 00:00:14,040
+<font color="aqua">Z roślinami, i małymi, i potężnymi,</font>
+<font color="aqua">od zawsze jest za pan brat,</font>
+
+4
+00:00:14,200 --> 00:00:17,880
+<font color="aqua">bo rozumie, że ich utrata</font>
+<font color="aqua">doprowadziłaby do strat.</font>
+
+5
+00:00:18,040 --> 00:00:21,520
+<font color="aqua">Poznajcie prowadzącego</font>
+<font color="aqua">"Przyrodnika na tropie",</font>
+
+6
+00:00:21,680 --> 00:00:23,680
+<font color="aqua">czyli Łukasza Bożyckiego,</font>
+
+7
+00:00:23,840 --> 00:00:26,480
+<font color="aqua">w jego naturalnym biotopie.</font>
+
+8
+00:00:55,320 --> 00:01:00,280
+<font color="#FFFF51">Dawno temu wierzono, że to drzewo</font>
+<font color="#FFFF51">było pierwszym drzewem na świecie.</font>
+
+9
+00:01:00,440 --> 00:01:02,680
+<font color="#FFFF51">Jego korona podtrzymywała niebo,</font>
+
+10
+00:01:02,840 --> 00:01:07,120
+<font color="#FFFF51">a korzenie sięgały tak głęboko,</font>
+<font color="#FFFF51">że były podporą dla piekła.</font>
+
+11
+00:01:07,280 --> 00:01:10,280
+<font color="#FFFF51">Mogła go powalić jedynie</font>
+<font color="#FFFF51">błyskawica z nieba.</font>
+
+12
+00:01:10,440 --> 00:01:13,640
+<font color="#FFFF51">W mitologii greckiej</font>
+<font color="#FFFF51">był atrybutem Zeusa,</font>
+
+13
+00:01:13,800 --> 00:01:17,440
+<font color="#FFFF51">w rzymskiej - Jowisza,</font>
+<font color="#FFFF51">a w słowiańskiej - Perkuna.</font>
+
+14
+00:01:17,600 --> 00:01:21,040
+<font color="#FFFF51">Od zawsze przedstawiano go</font>
+<font color="#FFFF51">w pozytywnym świetle.</font>
+
+15
+00:01:21,200 --> 00:01:25,520
+<font color="#FFFF51">Opisywano go słowami:</font>
+<font color="#FFFF51">"potężny", "prastary", "mocarny".</font>
+
+16
+00:01:25,680 --> 00:01:27,600
+<font color="#FFFF51">Mówiono: "chłop jak...".</font>
+
+17
+00:01:27,760 --> 00:01:30,560
+<font color="#FFFF51">Zawsze był utożsamiany</font>
+<font color="#FFFF51">z czymś dobrym.</font>
+
+18
+00:01:30,720 --> 00:01:34,960
+<font color="#FFFF51">I nadal tak jest, bo wszyscy</font>
+<font color="#FFFF51">mamy go w naszych portfelach,</font>
+
+19
+00:01:35,120 --> 00:01:37,360
+<font color="#FFFF51">niczym zdjęcie osoby ukochanej.</font>
+
+20
+00:01:37,520 --> 00:01:40,320
+<font color="#FFFF51">Ponieważ jego liście</font>
+<font color="#FFFF51">są na monetach:</font>
+
+21
+00:01:40,480 --> 00:01:43,000
+<font color="#FFFF51">jedno-, dwu- i pięciogroszowej.</font>
+
+22
+00:01:51,840 --> 00:01:55,200
+<font color="#FFFF51">Przypomina mi się bajka</font>
+<font color="#FFFF51">Ignacego Krasickiego,</font>
+
+23
+00:01:55,360 --> 00:01:59,120
+<font color="#FFFF51">jak dynia pytała bohatera odcinka,</font>
+<font color="#FFFF51">jak długo rósł.</font>
+
+24
+00:01:59,280 --> 00:02:01,320
+<font color="#FFFF51">"Sto lat" - odpowiedział jej,</font>
+
+25
+00:02:01,480 --> 00:02:03,280
+<font color="#FFFF51">na co dynia rzekła:</font>
+
+26
+00:02:03,440 --> 00:02:06,680
+<font color="#FFFF51">"Jam w sto dni zeszła taką,</font>
+<font color="#FFFF51">jak mnie widzisz".</font>
+
+27
+00:02:06,840 --> 00:02:09,440
+<font color="#FFFF51">Drzewo długo nie czekało</font>
+<font color="#FFFF51">z odpowiedzią:</font>
+
+28
+00:02:09,600 --> 00:02:11,520
+<font color="#FFFF51">"Próżno ze mnie szydzisz.</font>
+
+29
+00:02:11,680 --> 00:02:15,760
+<font color="#FFFF51">Pięknaś, to prawda, na pozór,</font>
+<font color="#FFFF51">na pozór też słyniesz,</font>
+
+30
+00:02:15,920 --> 00:02:18,880
+<font color="#FFFF51">prędko urosłaś,</font>
+<font color="#FFFF51">tak też prędko zgnijesz".</font>
+
+31
+00:02:19,040 --> 00:02:21,160
+<font color="#FFFF51">Dużo prawdy jest w tej bajce</font>
+
+32
+00:02:21,320 --> 00:02:25,400
+<font color="#FFFF51">i jestem pewien, że wiecie,</font>
+<font color="#FFFF51">kto jest bohaterem odcinka.</font>
+
+33
+00:02:25,560 --> 00:02:27,360
+<font color="#FFFF51">Jest nim dąb.</font>
+
+34
+00:02:37,640 --> 00:02:41,080
+<font color="#FFFF51">Dęby w ekosystemie leśnym</font>
+<font color="#FFFF51">pełnią kluczową rolę:</font>
+
+35
+00:02:41,240 --> 00:02:45,080
+<font color="#FFFF51">przez monstrualne rozmiary</font>
+<font color="#FFFF51">dostarczają wielu dziupli,</font>
+
+36
+00:02:45,240 --> 00:02:47,560
+<font color="#FFFF51">które wykorzystują</font>
+<font color="#FFFF51">wtórne dziuplaki</font>
+
+37
+00:02:47,720 --> 00:02:50,560
+<font color="#FFFF51">- zwierzęta, które,</font>
+<font color="#FFFF51">inaczej niż dzięcioły,</font>
+
+38
+00:02:50,720 --> 00:02:52,360
+<font color="#FFFF51">dziupli nie wykuwają.</font>
+
+39
+00:02:52,520 --> 00:02:56,640
+<font color="#FFFF51">Ich konary stanowią podporę</font>
+<font color="#FFFF51">dla gniazd ptaków drapieżnych,</font>
+
+40
+00:02:56,800 --> 00:02:58,840
+<font color="#FFFF51">a także bociana czarnego.</font>
+
+41
+00:02:59,000 --> 00:03:03,000
+<font color="#FFFF51">Ale ich najważniejsza funkcja</font>
+<font color="#FFFF51">to dostarczanie żołędzi,</font>
+
+42
+00:03:03,200 --> 00:03:07,520
+<font color="#FFFF51">które stanowią pokarm dla zwierząt</font>
+<font color="#FFFF51">w trudnym okresie zimy.</font>
+
+43
+00:03:07,680 --> 00:03:12,640
+<font color="#FFFF51">W Polsce wyróżniamy dwa gatunki</font>
+<font color="#FFFF51">dębów: szypułkowy i bezszypułkowy.</font>
+
+44
+00:03:12,800 --> 00:03:16,400
+<font color="#FFFF51">Możemy je rozpoznać</font>
+<font color="#FFFF51">po długości ogonka liściowego.</font>
+
+45
+00:03:16,560 --> 00:03:21,480
+<font color="#FFFF51">W tym przypadku ogonek jest długi,</font>
+<font color="#FFFF51">zatem jest to dąb bezszypułkowy.</font>
+
+46
+00:03:27,520 --> 00:03:31,760
+<font color="aqua">Dęby rosnące w Polsce mogą</font>
+<font color="aqua">osiągać wysokość do 50 metrów.</font>
+
+47
+00:03:31,920 --> 00:03:34,920
+<font color="aqua">Liście mają zielone</font>
+<font color="aqua">i głęboko powcinane.</font>
+
+48
+00:03:35,120 --> 00:03:37,200
+<font color="aqua">Dęby są rozdzielnopłciowe:</font>
+
+49
+00:03:37,360 --> 00:03:42,080
+<font color="aqua">kwiaty męskie to długie</font>
+<font color="aqua">i nieregularne zwisające kotki,</font>
+
+50
+00:03:42,240 --> 00:03:46,760
+<font color="aqua">natomiast żeńskie znajdują się</font>
+<font color="aqua">na końcach tegorocznych pędów,</font>
+
+51
+00:03:46,920 --> 00:03:48,760
+<font color="aqua">na tzw. szypułach.</font>
+
+52
+00:03:48,920 --> 00:03:53,320
+<font color="aqua">Z zapylonych kwiatów żeńskich</font>
+<font color="aqua">powstają owoce będące orzechami,</font>
+
+53
+00:03:53,480 --> 00:03:55,720
+<font color="aqua">a potocznie zwane żołędziami.</font>
+
+54
+00:04:08,640 --> 00:04:12,080
+<font color="#FFFF51">Nadając imiona wiekowym dębom,</font>
+<font color="#FFFF51">wierzyliśmy w to,</font>
+
+55
+00:04:12,240 --> 00:04:16,080
+<font color="#FFFF51">że wykiełkowały za czasów</font>
+<font color="#FFFF51">pierwszych władców Polski.</font>
+
+56
+00:04:16,240 --> 00:04:19,240
+<font color="#FFFF51">Najstarsze polskie dęby</font>
+<font color="#FFFF51">mają 700-800 lat,</font>
+
+57
+00:04:19,400 --> 00:04:21,600
+<font color="#FFFF51">ale ich nazwy i tak zostały.</font>
+
+58
+00:04:21,760 --> 00:04:24,720
+<font color="#FFFF51">Tym sposobem w Polsce</font>
+<font color="#FFFF51">mamy wiele dębów,</font>
+
+59
+00:04:24,880 --> 00:04:28,520
+<font color="#FFFF51">które nazywają się Mieszko,</font>
+<font color="#FFFF51">Bolesław czy Chrobry.</font>
+
+60
+00:04:36,400 --> 00:04:41,040
+<font color="#FFFF51">Dopiero od niedawna nazywamy dęby</font>
+<font color="#FFFF51">od współczesnych nam ludzi.</font>
+
+61
+00:04:41,200 --> 00:04:45,040
+<font color="#FFFF51">Poznajcie dąb szypułkowy</font>
+<font color="#FFFF51">Jan Paweł Wielki w Górkach.</font>
+
+62
+00:04:45,200 --> 00:04:48,680
+<font color="#FFFF51">Oby ludzie troszczyli się o niego</font>
+<font color="#FFFF51">jak najdłużej,</font>
+
+63
+00:04:48,840 --> 00:04:53,360
+<font color="#FFFF51">a imię nadane w 2005 r. chroniło go</font>
+<font color="#FFFF51">przed piłami łańcuchowymi</font>
+
+64
+00:04:53,560 --> 00:04:57,120
+<font color="#FFFF51">i tymi, którzy chcieliby</font>
+<font color="#FFFF51">przerobić go na deski.</font>
+
+65
+00:05:25,200 --> 00:05:28,120
+<font color="aqua">Galasówka dębianka</font>
+<font color="aqua">jest foliofagiem,</font>
+
+66
+00:05:28,280 --> 00:05:31,520
+<font color="aqua">co oznacza, że żeruje</font>
+<font color="aqua">na blaszce liściowej.</font>
+
+67
+00:05:31,680 --> 00:05:36,000
+<font color="aqua">Dostosowała swój cykl rozwojowy</font>
+<font color="aqua">do obecności liści dębów.</font>
+
+68
+00:05:38,640 --> 00:05:42,360
+<font color="#FFFF51">Galasówka to owad,</font>
+<font color="#FFFF51">nieco podobny do muchy.</font>
+
+69
+00:05:42,520 --> 00:05:46,120
+<font color="#FFFF51">Jest mniejsza,</font>
+<font color="#FFFF51">ciemniejsza i ma dłuższe skrzydła.</font>
+
+70
+00:05:46,320 --> 00:05:49,400
+<font color="#FFFF51">Samica składa</font>
+<font color="#FFFF51">na powierzchni liści dębu jaja.</font>
+
+71
+00:05:49,560 --> 00:05:51,480
+<font color="#FFFF51">Z nich wykluwają się larwy</font>
+
+72
+00:05:51,640 --> 00:05:55,840
+<font color="#FFFF51">i to z ich powodu powstają</font>
+<font color="#FFFF51">patologiczne, kuliste narośla.</font>
+
+73
+00:05:56,000 --> 00:05:59,920
+<font color="#FFFF51">To zjawisko powszechne,</font>
+<font color="#FFFF51">więc łatwo można je znaleźć.</font>
+
+74
+00:06:01,800 --> 00:06:04,200
+<font color="#FFFF51">Są tutaj. Nazywamy je galasami.</font>
+
+75
+00:06:04,360 --> 00:06:08,480
+<font color="#FFFF51">To takie kapsuły czasu,</font>
+<font color="#FFFF51">w których larwy przetrwają zimę,</font>
+
+76
+00:06:08,640 --> 00:06:13,440
+<font color="#FFFF51">a wiosną mogą przeobrazić się</font>
+<font color="#FFFF51">w dorosłego i latającego owada.</font>
+
+77
+00:06:40,560 --> 00:06:44,840
+<font color="aqua">Myszarka leśna połączona jest</font>
+<font color="aqua">z dębem na wiele sposobów.</font>
+
+78
+00:06:45,000 --> 00:06:46,960
+<font color="aqua">Najsilniejszym powiązaniem</font>
+
+79
+00:06:47,120 --> 00:06:50,040
+<font color="aqua">jest upodobanie myszarki</font>
+<font color="aqua">do żołędzi.</font>
+
+80
+00:06:53,360 --> 00:06:56,680
+<font color="#FFFF51">Dorosłe dęby</font>
+<font color="#FFFF51">w przedziale od 3 do 8 lat</font>
+
+81
+00:06:56,840 --> 00:07:00,320
+<font color="#FFFF51">intensywnie owocują,</font>
+<font color="#FFFF51">wydając dużo żołędzi.</font>
+
+82
+00:07:00,480 --> 00:07:03,840
+<font color="#FFFF51">Wygląda to tak,</font>
+<font color="#FFFF51">jakby wszystkie drzewa się zmówiły</font>
+
+83
+00:07:04,000 --> 00:07:07,200
+<font color="#FFFF51">i na jeden gwizdek</font>
+<font color="#FFFF51">zaczęły intensywnie owocować.</font>
+
+84
+00:07:07,360 --> 00:07:10,120
+<font color="#FFFF51">Opisujemy to</font>
+<font color="#FFFF51">jako rok nasienny dębów.</font>
+
+85
+00:07:10,280 --> 00:07:15,320
+<font color="#FFFF51">Nie wiemy, czemu tak się dzieje</font>
+<font color="#FFFF51">i nie umiemy sterować tym procesem,</font>
+
+86
+00:07:15,480 --> 00:07:18,040
+<font color="#FFFF51">ale kiedy jest rok nasienny dębów,</font>
+
+87
+00:07:18,200 --> 00:07:22,000
+<font color="#FFFF51">wszystkie zwierzęta w lesie</font>
+<font color="#FFFF51">z tego korzystają,</font>
+
+88
+00:07:22,160 --> 00:07:26,040
+<font color="#FFFF51">nawet te, które normalnie</font>
+<font color="#FFFF51">żołędziami się nie żywią.</font>
+
+89
+00:07:38,880 --> 00:07:42,640
+<font color="#FFFF51">Myszarka leśna, której w 2015 r.</font>
+<font color="#FFFF51">zmieniono nazwę,</font>
+
+90
+00:07:42,800 --> 00:07:45,280
+<font color="#FFFF51">wcześniej była myszą leśną,</font>
+
+91
+00:07:45,440 --> 00:07:47,960
+<font color="#FFFF51">jest aktywna o zmierzchu i w nocy.</font>
+
+92
+00:07:48,120 --> 00:07:51,120
+<font color="#FFFF51">W jej diecie przeważają</font>
+<font color="#FFFF51">nasiona drzew,</font>
+
+93
+00:07:51,280 --> 00:07:53,160
+<font color="#FFFF51">owoce, grzyby i owady,</font>
+
+94
+00:07:53,320 --> 00:07:56,200
+<font color="#FFFF51">ale żywi się też</font>
+<font color="#FFFF51">pisklętami i padliną.</font>
+
+95
+00:07:56,360 --> 00:07:59,360
+<font color="#FFFF51">W roku nasiennym dębów,</font>
+<font color="#FFFF51">przy nadwyżce żołędzi,</font>
+
+96
+00:07:59,520 --> 00:08:04,320
+<font color="#FFFF51">przeżywa zimę dużo myszarek,</font>
+<font color="#FFFF51">które na wiosnę rodzą dużo młodych,</font>
+
+97
+00:08:04,480 --> 00:08:08,600
+<font color="#FFFF51">i te młode stanowią później</font>
+<font color="#FFFF51">pokarm dla drapieżników.</font>
+
+98
+00:08:10,440 --> 00:08:13,280
+<font color="aqua">Podczas żmudnych</font>
+<font color="aqua">i czasochłonnych badań</font>
+
+99
+00:08:13,440 --> 00:08:16,200
+<font color="aqua">naukowcy korzystają</font>
+<font color="aqua">z żywołownych pułapek.</font>
+
+100
+00:08:16,360 --> 00:08:20,480
+<font color="aqua">Umożliwiają chwytanie gryzoni</font>
+<font color="aqua">bez wyrządzania im krzywdy.</font>
+
+101
+00:08:20,640 --> 00:08:25,480
+<font color="aqua">Zwierzęta są znakowane i wracają</font>
+<font color="aqua">do środowiska naturalnego.</font>
+
+102
+00:08:25,640 --> 00:08:28,760
+<font color="aqua">Po tygodniu oznakowanie</font>
+<font color="aqua">zniknie z łapy,</font>
+
+103
+00:08:28,920 --> 00:08:33,800
+<font color="aqua">ale naukowcy zdążą oszacować</font>
+<font color="aqua">przybliżoną liczebność myszarek.</font>
+
+104
+00:08:43,080 --> 00:08:46,040
+<font color="#FFFF51">Badania w Puszczy Białowieskiej</font>
+<font color="#FFFF51">pokazują,</font>
+
+105
+00:08:46,200 --> 00:08:50,320
+<font color="#FFFF51">że ptaki szponiaste, np. myszołowy</font>
+<font color="#FFFF51">czy sowy, np. puszczyki,</font>
+
+106
+00:08:50,480 --> 00:08:54,440
+<font color="#FFFF51">w roku nasiennym dęba</font>
+<font color="#FFFF51">wychowują dużo więcej potomstwa.</font>
+
+107
+00:08:54,600 --> 00:08:58,920
+<font color="#FFFF51">W ich terytorium łowieckim</font>
+<font color="#FFFF51">żyje dużo więcej gryzoni,</font>
+
+108
+00:08:59,120 --> 00:09:03,400
+<font color="#FFFF51">które ukrywają się</font>
+<font color="#FFFF51">w takich szczelinach i zakamarkach.</font>
+
+109
+00:09:03,560 --> 00:09:06,880
+<font color="#FFFF51">W roku nasiennym dęba</font>
+<font color="#FFFF51">na jednym hektarze lasu</font>
+
+110
+00:09:07,040 --> 00:09:09,240
+<font color="#FFFF51">może żyć aż trzysta myszarek,</font>
+
+111
+00:09:09,400 --> 00:09:12,520
+<font color="#FFFF51">a w roku nienasiennym</font>
+<font color="#FFFF51">- kilkadziesiąt.</font>
+
+112
+00:09:12,680 --> 00:09:15,360
+<font color="#FFFF51">I to właśnie dlatego</font>
+<font color="#FFFF51">ptaki drapieżne</font>
+
+113
+00:09:15,520 --> 00:09:18,720
+<font color="#FFFF51">z łatwością mogą</font>
+<font color="#FFFF51">wychować swoje potomstwo.</font>
+
+114
+00:09:21,360 --> 00:09:25,200
+<font color="aqua">Myszołów to najbardziej pospolity</font>
+<font color="aqua">i rozpowszechniony</font>
+
+115
+00:09:25,360 --> 00:09:27,160
+<font color="aqua">ptak drapieżny Polski.</font>
+
+116
+00:09:27,320 --> 00:09:29,960
+<font color="aqua">Polowanie rozpoczyna się</font>
+<font color="aqua">w bezruchu,</font>
+
+117
+00:09:30,120 --> 00:09:32,960
+<font color="aqua">od wielogodzinnego</font>
+<font color="aqua">wypatrywania ofiary.</font>
+
+118
+00:09:33,120 --> 00:09:37,080
+<font color="aqua">Atak następuje znienacka</font>
+<font color="aqua">i ma szansę powodzenia wtedy,</font>
+
+119
+00:09:37,240 --> 00:09:41,080
+<font color="aqua">gdy myszarka nie zauważy</font>
+<font color="aqua">nadlatującego drapieżnika.</font>
+
+120
+00:09:41,240 --> 00:09:44,200
+<font color="aqua">Tym razem los był łaskawy</font>
+<font color="aqua">dla myszołowa,</font>
+
+121
+00:09:44,360 --> 00:09:46,240
+<font color="aqua">a tragiczny dla gryzonia.</font>
+
+122
+00:09:58,800 --> 00:10:03,240
+<font color="#FFFF51">Niestety przychodzi czas,</font>
+<font color="#FFFF51">kiedy żołędzie kończą się w lesie.</font>
+
+123
+00:10:03,400 --> 00:10:06,920
+<font color="#FFFF51">Myszarki wyjadły, co mogły,</font>
+<font color="#FFFF51">zaczynają głodować,</font>
+
+124
+00:10:07,080 --> 00:10:09,400
+<font color="#FFFF51">a przez to dopadają je choroby.</font>
+
+125
+00:10:09,560 --> 00:10:11,360
+<font color="#FFFF51">Ich liczebność spada.</font>
+
+126
+00:10:11,520 --> 00:10:15,360
+<font color="#FFFF51">Drapieżniki mają mniej pokarmu</font>
+<font color="#FFFF51">i zaczynają głodować,</font>
+
+127
+00:10:15,520 --> 00:10:19,080
+<font color="#FFFF51">bo ich liczebność wzrosła</font>
+<font color="#FFFF51">powyżej normalnego poziomu.</font>
+
+128
+00:10:19,240 --> 00:10:21,600
+<font color="#FFFF51">Po tłustych latach</font>
+<font color="#FFFF51">przychodzą chude.</font>
+
+129
+00:10:21,760 --> 00:10:24,400
+<font color="#FFFF51">Po uczcie</font>
+<font color="#FFFF51">wszystkich mieszkańców lasu</font>
+
+130
+00:10:24,560 --> 00:10:26,360
+<font color="#FFFF51">przychodzi straszny głód.</font>
+
+131
+00:10:27,880 --> 00:10:30,840
+<font color="aqua">Rudzik pośrednio</font>
+<font color="aqua">powiązany jest z dębem.</font>
+
+132
+00:10:31,000 --> 00:10:34,680
+<font color="aqua">Łącznikiem są</font>
+<font color="aqua">myszarka leśna oraz drapieżniki.</font>
+
+133
+00:10:42,680 --> 00:10:46,040
+<font color="#FFFF51">Rudziki nie żywią się</font>
+<font color="#FFFF51">żołędziami i gryzoniami.</font>
+
+134
+00:10:46,200 --> 00:10:50,320
+<font color="#FFFF51">Wyobraźmy sobie, że jesteśmy</font>
+<font color="#FFFF51">2 lata po roku nasiennym dębów,</font>
+
+135
+00:10:50,480 --> 00:10:54,440
+<font color="#FFFF51">W którym był boom liczebności</font>
+<font color="#FFFF51">gryzoni i drapieżników</font>
+
+136
+00:10:54,600 --> 00:10:57,800
+<font color="#FFFF51">- ptaków i drapieżnych ssaków:</font>
+<font color="#FFFF51">kun i łasic.</font>
+
+137
+00:10:57,960 --> 00:11:01,840
+<font color="#FFFF51">Skończyły się żołędzie,</font>
+<font color="#FFFF51">drapieżniki i gryzonie głodują,</font>
+
+138
+00:11:02,000 --> 00:11:06,520
+<font color="#FFFF51">więc interesują się ptakami,</font>
+<font color="#FFFF51">które wcześniej ignorowały.</font>
+
+139
+00:11:06,680 --> 00:11:11,000
+<font color="#FFFF51">Myszarki zaczęły plądrować gniazda</font>
+<font color="#FFFF51">i zabijać pisklęta.</font>
+
+140
+00:11:11,160 --> 00:11:14,160
+<font color="#FFFF51">Badania w Puszczy Białowieskiej</font>
+<font color="#FFFF51">pokazały,</font>
+
+141
+00:11:14,320 --> 00:11:16,840
+<font color="#FFFF51">że jak się kończą żołędzie w lesie,</font>
+
+142
+00:11:17,000 --> 00:11:20,640
+<font color="#FFFF51">spada liczebność drobnych ptaków,</font>
+<font color="#FFFF51">w tym rudzików.</font>
+
+143
+00:11:20,800 --> 00:11:23,200
+<font color="#FFFF51">I wszystko to wróci do normy,</font>
+
+144
+00:11:23,360 --> 00:11:26,400
+<font color="#FFFF51">aż do następnego</font>
+<font color="#FFFF51">roku nasiennego dębów.</font>
+
+145
+00:11:28,520 --> 00:11:31,040
+<font color="aqua">Rudzika rozpoznamy po zachowaniu:</font>
+
+146
+00:11:31,200 --> 00:11:35,120
+<font color="aqua">stojąc na gałęzi,</font>
+<font color="aqua">często opuszcza końcówki skrzydeł,</font>
+
+147
+00:11:35,280 --> 00:11:37,360
+<font color="aqua">zadzierając do góry ogon.</font>
+
+148
+00:11:37,520 --> 00:11:42,600
+<font color="aqua">Najbardziej charakterystyczną cechą</font>
+<font color="aqua">jest rdzawobrązowy śliniak,</font>
+
+149
+00:11:42,760 --> 00:11:46,760
+<font color="aqua">wyraźnie widoczny</font>
+<font color="aqua">nawet u zupełnie mokrego ptaka.</font>
+
+150
+00:12:01,120 --> 00:12:04,480
+<font color="aqua">Kolorowego śliniaka</font>
+<font color="aqua">nie mają młode ptaki,</font>
+
+151
+00:12:04,640 --> 00:12:07,960
+<font color="aqua">wyróżnia je za to</font>
+<font color="aqua">kropkowane upierzenie.</font>
+
+152
+00:12:08,120 --> 00:12:12,040
+<font color="aqua">Młode ptaki zachowują się już</font>
+<font color="aqua">jak typowe rudziki:</font>
+
+153
+00:12:12,200 --> 00:12:15,240
+<font color="aqua">opuszczają skrzydła</font>
+<font color="aqua">i zadzierają ogon.</font>
+
+154
+00:12:17,840 --> 00:12:20,080
+<font color="#FFFF51">Rudzik to fascynujący ptak.</font>
+
+155
+00:12:20,240 --> 00:12:23,800
+<font color="#FFFF51">Jego piosenka godowa</font>
+<font color="#FFFF51">dorównuje śpiewom słowika.</font>
+
+156
+00:12:23,960 --> 00:12:27,240
+<font color="#FFFF51">To jeden z najlepszych</font>
+<font color="#FFFF51">polskich śpiewaków.</font>
+
+157
+00:12:27,400 --> 00:12:30,920
+<font color="#FFFF51">Jest skryty</font>
+<font color="#FFFF51">i unika kontaktu z człowiekiem.</font>
+
+158
+00:12:31,080 --> 00:12:34,200
+<font color="#FFFF51">Najlepiej czuje się</font>
+<font color="#FFFF51">w takich miejscach:</font>
+
+159
+00:12:34,360 --> 00:12:36,840
+<font color="#FFFF51">gęste krzaki i teren otwarty.</font>
+
+160
+00:12:37,000 --> 00:12:40,440
+<font color="#FFFF51">Słyszałem,</font>
+<font color="#FFFF51">jak jeden z rudzików tu śpiewał,</font>
+
+161
+00:12:40,600 --> 00:12:44,920
+<font color="#FFFF51">więc jak się zamaskuję siatką</font>
+<font color="#FFFF51">i poczekam kilka godzin,</font>
+
+162
+00:12:45,080 --> 00:12:47,960
+<font color="#FFFF51">to mam nadzieję, że rudzik przyleci</font>
+
+163
+00:12:48,120 --> 00:12:51,480
+<font color="#FFFF51">i będę miał okazję,</font>
+<font color="#FFFF51">żeby go fotografować.</font>
+
+164
+00:13:21,080 --> 00:13:24,800
+<font color="aqua">Amatorami dębowych żołędzi</font>
+<font color="aqua">są także wiewiórki,</font>
+
+165
+00:13:24,960 --> 00:13:29,120
+<font color="aqua">przez co ściśle</font>
+<font color="aqua">powiązane są z owocującymi dębami.</font>
+
+166
+00:13:32,080 --> 00:13:33,880
+<font color="#FFFF51">W lesie są też tacy,</font>
+
+167
+00:13:34,040 --> 00:13:38,080
+<font color="#FFFF51">którzy przygotowują sobie</font>
+<font color="#FFFF51">zimowe zapasy z żołędzi.</font>
+
+168
+00:13:38,240 --> 00:13:41,000
+<font color="#FFFF51">Wiewiórka nie zapada w sen zimowy,</font>
+
+169
+00:13:41,160 --> 00:13:46,640
+<font color="#FFFF51">czyli musi jesienią zmagazynować</font>
+<font color="#FFFF51">zapasy żołędzi na całą zimę.</font>
+
+170
+00:13:46,800 --> 00:13:51,080
+<font color="#FFFF51">Zimą zmniejsza jedynie</font>
+<font color="#FFFF51">zapotrzebowanie energetyczne:</font>
+
+171
+00:13:51,240 --> 00:13:55,080
+<font color="#FFFF51">potrzebuje w ciągu dnia</font>
+<font color="#FFFF51">jedynie 35 g pokarmu,</font>
+
+172
+00:13:55,240 --> 00:13:57,520
+<font color="#FFFF51">a wiosną - aż 80.</font>
+
+173
+00:13:57,680 --> 00:14:01,440
+<font color="#FFFF51">Gdyby wiewiórka</font>
+<font color="#FFFF51">jadła ludzkie jedzenie,</font>
+
+174
+00:14:01,600 --> 00:14:04,560
+<font color="#FFFF51">zimą wystarczyłyby jej</font>
+<font color="#FFFF51">cztery wiśnie,</font>
+
+175
+00:14:04,720 --> 00:14:07,320
+<font color="#FFFF51">a wiosną - aż jedna brzoskwinia.</font>
+
+176
+00:14:07,480 --> 00:14:12,560
+<font color="aqua">Dzika wiewiórka zjada orzechy</font>
+<font color="aqua">najczęściej wysoko na gałęzi.</font>
+
+177
+00:14:12,720 --> 00:14:17,840
+<font color="aqua">To dobra metoda na uniknięcie</font>
+<font color="aqua">drapieżników naziemnych, jak lis.</font>
+
+178
+00:14:18,000 --> 00:14:21,120
+<font color="aqua">Od czasu do czasu</font>
+<font color="aqua">musi zejść na ziemię,</font>
+
+179
+00:14:21,280 --> 00:14:23,160
+<font color="aqua">ale robi to niechętnie.</font>
+
+180
+00:14:23,320 --> 00:14:27,840
+<font color="aqua">Podczas zakopywania jedzenia</font>
+<font color="aqua">bacznie obserwuje okolicę.</font>
+
+181
+00:14:28,000 --> 00:14:31,120
+<font color="aqua">Upewnia się,</font>
+<font color="aqua">że nikt na nią nie patrzy.</font>
+
+182
+00:14:31,280 --> 00:14:36,360
+<font color="aqua">Wie, że obserwujący ją gawron</font>
+<font color="aqua">bez wahania ją okradnie z jedzenia.</font>
+
+183
+00:14:36,520 --> 00:14:39,640
+<font color="aqua">Wiewiórka korzysta wtedy</font>
+<font color="aqua">z oszustwa,</font>
+
+184
+00:14:39,800 --> 00:14:42,560
+<font color="aqua">markując miejsce ukrycia pokarmu.</font>
+
+185
+00:14:42,720 --> 00:14:48,200
+<font color="aqua">Prawdziwy orzech zakopie wtedy,</font>
+<font color="aqua">gdy nikt nie będzie na nią patrzył.</font>
+
+186
+00:15:55,080 --> 00:15:58,840
+<font color="#FFFF51">Dzięki badaniom naukowym</font>
+<font color="#FFFF51">rozwiązaliśmy zagadkę</font>
+
+187
+00:15:59,000 --> 00:16:03,520
+<font color="#FFFF51">i wiemy, że wiewiórki pamiętają,</font>
+<font color="#FFFF51">gdzie zakopały żołędzie.</font>
+
+188
+00:16:03,680 --> 00:16:07,240
+<font color="#FFFF51">Zakopują ich więcej,</font>
+<font color="#FFFF51">niż są w stanie zjeść.</font>
+
+189
+00:16:07,400 --> 00:16:11,800
+<font color="#FFFF51">Dąb ma sprzymierzeńca,</font>
+<font color="#FFFF51">bo te nieodkopane może wykiełkują.</font>
+
+190
+00:16:11,960 --> 00:16:16,320
+<font color="#FFFF51">Mówi się, że 1 na 10 tysięcy</font>
+<font color="#FFFF51">żołędzi będzie kiełkował</font>
+
+191
+00:16:16,480 --> 00:16:19,720
+<font color="#FFFF51">i może stanie się dorosłym drzewem.</font>
+
+192
+00:16:19,880 --> 00:16:24,360
+<font color="#FFFF51">Ten dąb, dla przykładu,</font>
+<font color="#FFFF51">jest zbyt młody, żeby owocować,</font>
+
+193
+00:16:24,520 --> 00:16:28,680
+<font color="#FFFF51">bo po raz pierwszy zakwitnie</font>
+<font color="#FFFF51">w wieku 50-80 lat.</font>
+
+194
+00:16:58,080 --> 00:17:01,440
+<font color="aqua">Dzik chętnie żywi się</font>
+<font color="aqua">dębowymi żołędziami,</font>
+
+195
+00:17:01,600 --> 00:17:05,760
+<font color="aqua">często odwiedzając miejsca,</font>
+<font color="aqua">w których owocują dęby.</font>
+
+196
+00:17:10,960 --> 00:17:13,400
+<font color="#FFFF51">"Poszedł jak dzik w żołędzie".</font>
+
+197
+00:17:13,560 --> 00:17:18,920
+<font color="#FFFF51">Dużo prawdy jest w tym powiedzonku,</font>
+<font color="#FFFF51">bo dziki uwielbiają żołędzie,</font>
+
+198
+00:17:19,080 --> 00:17:22,040
+<font color="#FFFF51">ale są też</font>
+<font color="#FFFF51">oportunistami pokarmowymi</font>
+
+199
+00:17:22,200 --> 00:17:25,560
+<font color="#FFFF51">- zjadają wszystko,</font>
+<font color="#FFFF51">co trafi im pod pysk.</font>
+
+200
+00:17:25,720 --> 00:17:29,800
+<font color="#FFFF51">Jesienią szukają jabłek,</font>
+<font color="#FFFF51">to ich prawdziwy przysmak.</font>
+
+201
+00:17:29,960 --> 00:17:34,360
+<font color="#FFFF51">Ale żywią się także owadami,</font>
+<font color="#FFFF51">dżdżownicami, grzybami,</font>
+
+202
+00:17:34,520 --> 00:17:37,320
+<font color="#FFFF51">kłączami roślin, a nawet padliną.</font>
+
+203
+00:17:37,480 --> 00:17:41,840
+<font color="#FFFF51">Najczęściej poszukują pokarmu</font>
+<font color="#FFFF51">za pomocą silnego ryja,</font>
+
+204
+00:17:42,000 --> 00:17:44,080
+<font color="#FFFF51">którym przekopują ziemię.</font>
+
+205
+00:17:44,240 --> 00:17:47,760
+<font color="#FFFF51">Tu są świeże ślady.</font>
+<font color="#FFFF51">Dziki niedawno tu były.</font>
+
+206
+00:17:47,920 --> 00:17:52,040
+<font color="#FFFF51">I może jeszcze są w krzakach.</font>
+<font color="#FFFF51">Spróbuję je znaleźć.</font>
+
+207
+00:17:59,120 --> 00:18:02,400
+<font color="#FFFF51">Dziki, jeśli znajdą stołówkę</font>
+<font color="#FFFF51">taką jak ta,</font>
+
+208
+00:18:02,560 --> 00:18:05,400
+<font color="#FFFF51">czyli opuszczony sad z jabłoniami,</font>
+
+209
+00:18:05,560 --> 00:18:08,920
+<font color="#FFFF51">będą tam tak długo,</font>
+<font color="#FFFF51">aż wyjedzą wszystko.</font>
+
+210
+00:18:09,080 --> 00:18:11,360
+<font color="#FFFF51">Nie spędzają tu całej doby,</font>
+
+211
+00:18:11,520 --> 00:18:16,320
+<font color="#FFFF51">wędrują między miejscem odpoczynku</font>
+<font color="#FFFF51">a sadem utartymi drogami,</font>
+
+212
+00:18:16,480 --> 00:18:18,280
+<font color="#FFFF51">więc jeśli pójdę tędy,</font>
+
+213
+00:18:18,440 --> 00:18:21,640
+<font color="#FFFF51">powinienem znaleźć</font>
+<font color="#FFFF51">odpoczywające dziki.</font>
+
+214
+00:19:08,400 --> 00:19:10,560
+<font color="#FFFF51">Spójrzcie na te drzewa.</font>
+
+215
+00:19:13,320 --> 00:19:16,560
+<font color="#FFFF51">Pokryte są błotem,</font>
+<font color="#FFFF51">i to tuż nad ziemią.</font>
+
+216
+00:19:16,720 --> 00:19:19,920
+<font color="#FFFF51">Oznacza to,</font>
+<font color="#FFFF51">że w pobliżu jest babrzysko,</font>
+
+217
+00:19:20,080 --> 00:19:24,360
+<font color="#FFFF51">czyli miejsce, gdzie dziki</font>
+<font color="#FFFF51">zażywają kąpieli błotnych.</font>
+
+218
+00:19:28,120 --> 00:19:32,800
+<font color="#FFFF51">Nieźle przeczuwałem,</font>
+<font color="#FFFF51">że ta ścieżka będzie dobrym tropem.</font>
+
+219
+00:19:32,960 --> 00:19:37,920
+<font color="#FFFF51">Dziki ocierają się o drzewa,</font>
+<font color="#FFFF51">aby pozbyć się z błotem pasożytów.</font>
+
+220
+00:19:38,120 --> 00:19:42,280
+<font color="#FFFF51">One odpadają z taką dużą warstwą</font>
+<font color="#FFFF51">wysuszonego błota.</font>
+
+221
+00:19:42,440 --> 00:19:44,560
+<font color="#FFFF51">A wszystko to robią po to,</font>
+
+222
+00:19:44,720 --> 00:19:49,880
+<font color="#FFFF51">aby natychmiast pokryć się</font>
+<font color="#FFFF51">świeżutką nową warstwą błota.</font>
+
+223
+00:19:50,040 --> 00:19:53,920
+<font color="#FFFF51">Zobaczcie, jak dużo wyniosły</font>
+<font color="#FFFF51">na swoim grzbiecie.</font>
+
+224
+00:19:54,080 --> 00:19:57,360
+<font color="#FFFF51">Takie babrzysko</font>
+<font color="#FFFF51">służy nie tylko dzikom,</font>
+
+225
+00:19:57,520 --> 00:19:59,880
+<font color="#FFFF51">ale także jeleniom i sarnom.</font>
+
+226
+00:20:18,560 --> 00:20:22,760
+<font color="#FFFF51">Przez działalność myśliwych</font>
+<font color="#FFFF51">dziki boją się człowieka</font>
+
+227
+00:20:22,920 --> 00:20:24,720
+<font color="#FFFF51">i uciekają przed nami.</font>
+
+228
+00:20:24,880 --> 00:20:26,800
+<font color="#FFFF51">Zbudowałem czatownię.</font>
+
+229
+00:20:26,960 --> 00:20:30,600
+<font color="#FFFF51">Zastąpi namiot,</font>
+<font color="#FFFF51">który na wietrze by hałasował</font>
+
+230
+00:20:30,760 --> 00:20:32,920
+<font color="#FFFF51">- dziki na pewno by uciekły.</font>
+
+231
+00:20:33,080 --> 00:20:36,480
+<font color="#FFFF51">Jest zrobiona</font>
+<font color="#FFFF51">pod wymiar bagażnika w aucie.</font>
+
+232
+00:20:36,640 --> 00:20:41,200
+<font color="#FFFF51">Nie mam dużego bagażnika,</font>
+<font color="#FFFF51">więc muszę wejść do niej tyłem,</font>
+
+233
+00:20:41,360 --> 00:20:44,080
+<font color="#FFFF51">bo w środku nie mogę się obrócić.</font>
+
+234
+00:20:44,320 --> 00:20:49,200
+<font color="#FFFF51">Najważniejsze jest to, żeby mieć</font>
+<font color="#FFFF51">wszystkie rzeczy pod ręką.</font>
+
+235
+00:20:49,360 --> 00:20:51,760
+<font color="#FFFF51">Ta noga jest najtrudniejsza.</font>
+
+236
+00:20:51,920 --> 00:20:55,880
+<font color="#FFFF51">Jak uda mi się ją przełożyć,</font>
+<font color="#FFFF51">to już będę w domu.</font>
+
+237
+00:20:56,040 --> 00:20:57,840
+<font color="#FFFF51">Udało się.</font>
+
+238
+00:20:58,000 --> 00:21:00,920
+<font color="#FFFF51">Teraz pierwszy aparat do środka.</font>
+
+239
+00:21:03,800 --> 00:21:07,520
+<font color="#FFFF51">Jak aparat jest w środku,</font>
+<font color="#FFFF51">to siatka maskująca.</font>
+
+240
+00:21:14,160 --> 00:21:16,520
+<font color="#FFFF51">Teraz plecak do środka.</font>
+
+241
+00:21:17,280 --> 00:21:20,760
+<font color="#FFFF51">Siatkę trzeba dobrze</font>
+<font color="#FFFF51">ułożyć sobie w dłoni,</font>
+
+242
+00:21:20,920 --> 00:21:24,920
+<font color="#FFFF51">żebym jednym ruchem</font>
+<font color="#FFFF51">mógł ją zarzucić na dach.</font>
+
+243
+00:21:26,520 --> 00:21:30,760
+<font color="#FFFF51">Znaleźć jakiś otwór w siatce,</font>
+<font color="#FFFF51">żeby wystawić obiektyw.</font>
+
+244
+00:21:33,320 --> 00:21:36,640
+<font color="#FFFF51">I teraz czekam na zabłocone dziki.</font>
+
+245
+00:22:02,640 --> 00:22:07,640
+<font color="#FFFF51">Mieszko I, bo tak się nazywa</font>
+<font color="#FFFF51">ten ponad 600-letni dąb szypułkowy,</font>
+
+246
+00:22:07,800 --> 00:22:10,680
+<font color="#FFFF51">to jeden z najgrubszych dębów</font>
+<font color="#FFFF51">na Mazowszu:</font>
+
+247
+00:22:10,840 --> 00:22:13,600
+<font color="#FFFF51">ponad 8,5 metra w obwodzie pnia.</font>
+
+248
+00:22:13,760 --> 00:22:16,080
+<font color="#FFFF51">Oj, niejedno już widział,</font>
+
+249
+00:22:16,240 --> 00:22:21,280
+<font color="#FFFF51">bo przecież jego korzenie sięgają</font>
+<font color="#FFFF51">czasów bitwy pod Grunwaldem.</font>
+
+250
+00:22:28,080 --> 00:22:33,120
+<font color="#FFFF51">Myśleliśmy, że już go straciliśmy.</font>
+<font color="#FFFF51">Cały pień był wypróchniały.</font>
+
+251
+00:22:33,280 --> 00:22:35,800
+<font color="#FFFF51">Wzmacniał go betonowy sarkofag,</font>
+
+252
+00:22:35,960 --> 00:22:39,440
+<font color="#FFFF51">ale korona drzewa</font>
+<font color="#FFFF51">już była zupełnie martwa.</font>
+
+253
+00:22:49,400 --> 00:22:54,840
+<font color="#FFFF51">W 2002 r. rozpoczęliśmy ratowanie</font>
+<font color="#FFFF51">tego pięknego i potężnego drzewa.</font>
+
+254
+00:22:55,000 --> 00:22:58,200
+<font color="#FFFF51">Jego korona została</font>
+<font color="#FFFF51">opatrzona medycznie,</font>
+
+255
+00:22:58,360 --> 00:23:00,520
+<font color="#FFFF51">pień został zakonserwowany,</font>
+
+256
+00:23:00,680 --> 00:23:04,240
+<font color="#FFFF51">a żyjący konar</font>
+<font color="#FFFF51">został wsparty rusztowaniem.</font>
+
+257
+00:23:04,400 --> 00:23:09,080
+<font color="#FFFF51">Od tego czasu wydawało się,</font>
+<font color="#FFFF51">że już wszystko będzie dobrze.</font>
+
+258
+00:23:19,160 --> 00:23:24,480
+<font color="#FFFF51">Niestety Mieszko zostało podpalony.</font>
+<font color="#FFFF51">Początkowe rokowania były złe.</font>
+
+259
+00:23:24,640 --> 00:23:29,040
+<font color="#FFFF51">Na szczęście dąb potwierdził</font>
+<font color="#FFFF51">swoją wielowiekową żywotność</font>
+
+260
+00:23:29,200 --> 00:23:31,880
+<font color="#FFFF51">i pomimo pożaru wypuścił liście.</font>
+
+261
+00:23:40,440 --> 00:23:44,520
+<font color="#FFFF51">Nie wszystkie dęby</font>
+<font color="#FFFF51">mają tyle szczęścia co Hetman.</font>
+
+262
+00:23:44,680 --> 00:23:48,920
+<font color="#FFFF51">Ma dopiero 250 lat,</font>
+<font color="#FFFF51">ale i tak wszyscy o niego dbają.</font>
+
+263
+00:23:49,080 --> 00:23:53,720
+<font color="#FFFF51">Szczęścia nie miał Napoleon.</font>
+<font color="#FFFF51">Było to nasze najgrubsze drzewo.</font>
+
+264
+00:23:53,880 --> 00:23:57,240
+<font color="#FFFF51">Obwód jego pnia sięgał aż 10 m.</font>
+
+265
+00:23:57,400 --> 00:24:03,680
+<font color="#FFFF51">Podpalono go trzykrotnie:</font>
+<font color="#FFFF51">w 1925 r., w 2006 r. oraz 2010 r.</font>
+
+266
+00:24:03,840 --> 00:24:06,960
+<font color="#FFFF51">Ostatni pożar</font>
+<font color="#FFFF51">był tragiczny w skutkach:</font>
+
+267
+00:24:07,120 --> 00:24:09,720
+<font color="#FFFF51">płonęło całe drzewo,</font>
+<font color="#FFFF51">pień się złamał,</font>
+
+268
+00:24:09,880 --> 00:24:11,880
+<font color="#FFFF51">drzewo przestało istnieć.</font>
+
+269
+00:24:14,600 --> 00:24:17,080
+<font color="#FFFF51">Słyszałem historie o ludziach,</font>
+
+270
+00:24:17,240 --> 00:24:21,080
+<font color="#FFFF51">którzy rozpalali ogniska</font>
+<font color="#FFFF51">w pustych pniach dębów.</font>
+
+271
+00:24:21,240 --> 00:24:25,200
+<font color="#FFFF51">Tak idiotyczne pomysły</font>
+<font color="#FFFF51">nie mogą się skończyć dobrze.</font>
+
+272
+00:24:25,360 --> 00:24:29,400
+<font color="#FFFF51">Dęby doskonale radzą sobie</font>
+<font color="#FFFF51">z kapryśnym środowiskiem,</font>
+
+273
+00:24:29,560 --> 00:24:33,280
+<font color="#FFFF51">ale w starciu z ludzką głupotą</font>
+<font color="#FFFF51">nie mają szans.</font>
+
+274
+00:24:34,960 --> 00:24:38,120
+<font color="aqua">Dobra kondycja</font>
+<font color="aqua">i obficie owocujące dęby</font>
+
+275
+00:24:38,280 --> 00:24:42,280
+<font color="aqua">to podstawa dobrze funkcjonującej</font>
+<font color="aqua">sieci powiązań.</font>
+
+276
+00:24:42,440 --> 00:24:45,800
+<font color="aqua">Dziś zobaczyliśmy</font>
+<font color="aqua">skromny wycinek relacji,</font>
+
+277
+00:24:45,960 --> 00:24:48,240
+<font color="aqua">w których uczestniczą dęby.</font>
+
+278
+00:24:48,400 --> 00:24:53,040
+<font color="aqua">Nie ma wątpliwości, że odgrywają</font>
+<font color="aqua">ważną rolę w ekosystemie,</font>
+
+279
+00:24:53,200 --> 00:24:55,960
+<font color="aqua">wpływając na życie</font>
+<font color="aqua">wielu zwierząt.</font>
+
+280
+00:25:14,960 --> 00:25:18,160
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+281
+00:25:18,320 --> 00:25:23,240
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+282
+00:25:23,400 --> 00:25:25,840
+
+

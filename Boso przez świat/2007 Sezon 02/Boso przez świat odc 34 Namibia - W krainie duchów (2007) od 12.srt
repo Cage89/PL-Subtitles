@@ -1,0 +1,957 @@
+1
+00:00:55,000 --> 00:01:00,920
+<font backgroundcolor="#000000"> Kultura duchowa buszmenów </font>
+<font backgroundcolor="#000000"> jest przeciwieństwem materialnej. </font>
+
+2
+00:01:01,080 --> 00:01:03,480
+<font backgroundcolor="#000000"> Materialnie tu nic nie ma. </font>
+
+3
+00:01:03,640 --> 00:01:08,400
+<font backgroundcolor="#000000"> Buszmeni nie wynaleźli </font>
+<font backgroundcolor="#000000"> żadnych skomplikowanych urządzeń. </font>
+
+4
+00:01:08,560 --> 00:01:12,160
+<font backgroundcolor="#000000"> Natomiast duchowo </font>
+<font backgroundcolor="#000000"> są bardzo rozwinięci. </font>
+
+5
+00:01:12,320 --> 00:01:18,200
+<font backgroundcolor="#000000"> Znają świat lepiej niż ktokolwiek inny </font>
+<font backgroundcolor="#000000"> - świat roślinny, zwierzęcy. </font>
+
+6
+00:01:18,360 --> 00:01:21,560
+<font backgroundcolor="#000000"> Także fizjologię i budowę człowieka. </font>
+
+7
+00:01:21,720 --> 00:01:27,800
+<font backgroundcolor="#000000"> O gwiazdach wiedzą rzeczy, które </font>
+<font backgroundcolor="#000000"> zaskakiwały astronomów w latach 60. </font>
+
+8
+00:01:27,960 --> 00:01:34,360
+<font backgroundcolor="#000000"> O gwiazdozbiorach wiedzieli więcej, </font>
+<font backgroundcolor="#000000"> niż umieliśmy wypatrzeć teleskopami. </font>
+
+9
+00:01:34,520 --> 00:01:37,080
+<font backgroundcolor="#000000"> Czym jest niebo dla buszmena? </font>
+
+10
+00:01:37,240 --> 00:01:40,800
+<font backgroundcolor="#000000"> To twarz Stwórcy. </font>
+<font backgroundcolor="#000000"> Ale to tylko przenośnia. </font>
+
+11
+00:01:40,960 --> 00:01:44,120
+<font backgroundcolor="#000000"> Oni wiedzą, że Bóg mieszka w niebie. </font>
+
+12
+00:01:44,280 --> 00:01:50,440
+<font backgroundcolor="#000000"> Tylko nie wiadomo gdzie, bo niebo </font>
+<font backgroundcolor="#000000"> jest ogromne, dużo większe od Ziemi. </font>
+
+13
+00:01:50,600 --> 00:01:56,520
+<font backgroundcolor="#000000"> Nie mieli koncepcji jak my, że to </font>
+<font backgroundcolor="#000000"> szklana przykrywka nad płaską Ziemią. </font>
+
+14
+00:01:56,680 --> 00:02:03,360
+<font backgroundcolor="#000000"> Od razu wiedzieli, że to niezmierzona </font>
+<font backgroundcolor="#000000"> przestrzeń i Bóg gdzieś tam mieszka. </font>
+
+15
+00:02:03,520 --> 00:02:06,640
+<font backgroundcolor="#000000"> A czasami może mieszka w górach. </font>
+
+16
+00:02:06,800 --> 00:02:11,280
+<font backgroundcolor="#000000"> Właściwie Bóg może mieszkać </font>
+<font backgroundcolor="#000000"> wszędzie po trochu. </font>
+
+17
+00:02:11,440 --> 00:02:15,600
+<font backgroundcolor="#000000"> A jaką ma płeć? Nie zadawali sobie </font>
+<font backgroundcolor="#000000"> tego pytania. </font>
+
+18
+00:02:15,760 --> 00:02:18,080
+<font backgroundcolor="#000000"> Ma wszystkie płci na raz. </font>
+
+19
+00:02:18,240 --> 00:02:23,400
+<font backgroundcolor="#000000"> Bóg buszmenów jest Stworzycielem, </font>
+<font backgroundcolor="#000000"> którego trzeba się bać. </font>
+
+20
+00:02:23,560 --> 00:02:28,120
+<font backgroundcolor="#000000"> Kocha ludzi, ale jest tak potężny, </font>
+<font backgroundcolor="#000000"> że się go boimy. </font>
+
+21
+00:02:28,280 --> 00:02:33,600
+<font backgroundcolor="#000000"> Trochę jak ognia. Jest przyjazny </font>
+<font backgroundcolor="#000000"> i ogrzewa, ale może poparzyć. </font>
+
+22
+00:02:33,760 --> 00:02:40,800
+<font backgroundcolor="#000000"> Jak Izraelici w Starym Testamencie </font>
+<font backgroundcolor="#000000"> - buszmeni nigdy nie chcą spojrzeć </font>
+<font backgroundcolor="#000000"> Bogu w twarz. </font>
+
+23
+00:02:40,960 --> 00:02:46,280
+<font backgroundcolor="#000000"> A to rozmawiają przez krzak gorejący </font>
+<font backgroundcolor="#000000"> albo sobie zasłonią twarz. </font>
+
+24
+00:02:46,440 --> 00:02:54,960
+<font backgroundcolor="#000000"> Spojrzenie Bogu w twarz oznacza </font>
+<font backgroundcolor="#000000"> natychmiastową śmierć i przejście </font>
+<font backgroundcolor="#000000"> do tego świata, gdzie jest Bóg. </font>
+
+25
+00:02:55,120 --> 00:02:57,760
+<font backgroundcolor="#000000"> Bóg oglądany z bliska spali. </font>
+
+26
+00:03:03,880 --> 00:03:10,000
+<font backgroundcolor="#000000"> A jak, według mitologii buszmeńskiej, </font>
+<font backgroundcolor="#000000"> wyglądało stworzenie człowieka? </font>
+
+27
+00:03:10,160 --> 00:03:12,600
+<font backgroundcolor="#000000"> Odwrotnie niż u nas. </font>
+
+28
+00:03:12,800 --> 00:03:18,000
+<font backgroundcolor="#000000"> My zawsze uważamy, że to nas </font>
+<font backgroundcolor="#000000"> Pan Bóg stworzył najlepszymi. </font>
+
+29
+00:03:18,160 --> 00:03:21,840
+<font backgroundcolor="#000000"> I na przykład jesteśmy </font>
+<font backgroundcolor="#000000"> narodem wybranym. </font>
+
+30
+00:03:22,000 --> 00:03:27,760
+<font backgroundcolor="#000000"> U buszmenów najpierw Bóg stworzył </font>
+<font backgroundcolor="#000000"> takiego człowieka ogólnego. </font>
+
+31
+00:03:28,120 --> 00:03:30,440
+<font backgroundcolor="#000000"> Wszyscy byli tacy sami. </font>
+
+32
+00:03:30,600 --> 00:03:33,000
+<font backgroundcolor="#000000"> Ale potem poprzebierał. </font>
+
+33
+00:03:33,160 --> 00:03:35,920
+<font backgroundcolor="#000000"> Najpierw ulepił białego. </font>
+
+34
+00:03:36,280 --> 00:03:42,200
+<font backgroundcolor="#000000"> Biały u buszmenów jest najlepszy </font>
+<font backgroundcolor="#000000"> i najważniejszy. Taki pierwowzór. </font>
+
+35
+00:03:42,360 --> 00:03:44,760
+<font backgroundcolor="#000000"> Potem ulepił czarnego. </font>
+
+36
+00:03:44,920 --> 00:03:51,120
+<font backgroundcolor="#000000"> A dopiero na końcu z wyskrobków </font>
+<font backgroundcolor="#000000"> na dnie garnka ulepił buszmenów. </font>
+
+37
+00:03:51,320 --> 00:03:56,680
+<font backgroundcolor="#000000"> I dlatego są tacy mali </font>
+<font backgroundcolor="#000000"> i tacy najgorsi na Ziemi. </font>
+
+38
+00:03:57,000 --> 00:04:02,400
+<font backgroundcolor="#000000"> Bóg kocha wszystkich równo, </font>
+<font backgroundcolor="#000000"> ale buszmenów ulepił na końcu. </font>
+
+39
+00:04:03,560 --> 00:04:08,120
+<font backgroundcolor="#000000"> I co było po ulepieniu? </font>
+<font backgroundcolor="#000000"> Znowu genialne przeczucie. </font>
+
+40
+00:04:08,280 --> 00:04:13,760
+<font backgroundcolor="#000000"> Po ulepieniu, żeby ożywić człowieka, </font>
+<font backgroundcolor="#000000"> nastąpiło tchnienie Boga. </font>
+
+41
+00:04:13,920 --> 00:04:16,520
+<font backgroundcolor="#000000"> Tchnął duszę we wszystkich. </font>
+
+42
+00:04:54,080 --> 00:04:57,960
+<font backgroundcolor="#000000"> Z jednej strony </font>
+<font backgroundcolor="#000000"> - bardzo prymitywna kultura. </font>
+
+43
+00:04:58,120 --> 00:05:01,880
+<font backgroundcolor="#000000"> Z drugiej strony - to są naukowcy. </font>
+
+44
+00:05:02,360 --> 00:05:06,240
+<font backgroundcolor="#000000"> Mają ogromną wiedzę, </font>
+<font backgroundcolor="#000000"> dotyczącą zielarstwa. </font>
+
+45
+00:05:06,400 --> 00:05:12,400
+<font backgroundcolor="#000000"> Znają wszystkie rośliny dookoła </font>
+<font backgroundcolor="#000000"> i po kilka zastosowań każdej z nich. </font>
+
+46
+00:05:12,560 --> 00:05:18,520
+<font backgroundcolor="#000000"> Mają roślinę, która leczy trąd. </font>
+<font backgroundcolor="#000000"> Znają odtrutki na jad każdego węża. </font>
+
+47
+00:05:18,680 --> 00:05:23,000
+<font backgroundcolor="#000000"> Nie chcą się dzielić swoją wiedzą. </font>
+<font backgroundcolor="#000000"> To ich wiedza. </font>
+
+48
+00:05:51,560 --> 00:05:54,520
+<font backgroundcolor="#000000"> Produkcja trucizny do strzał. </font>
+
+49
+00:05:54,680 --> 00:06:01,120
+<font backgroundcolor="#000000"> Najpierw spod ziemi wykopuje się </font>
+<font backgroundcolor="#000000"> korzenie odpowiedniej rośliny. </font>
+
+50
+00:06:01,600 --> 00:06:08,200
+<font backgroundcolor="#000000"> Muszą być w odpowiednim stanie. </font>
+<font backgroundcolor="#000000"> Powinny być dość wilgotne i dojrzałe. </font>
+
+51
+00:06:08,360 --> 00:06:11,680
+<font backgroundcolor="#000000"> Wtedy zawierają w sobie truciznę. </font>
+
+52
+00:06:11,840 --> 00:06:16,600
+<font backgroundcolor="#000000"> Do tego kokony pewnych owadów. </font>
+
+53
+00:06:17,400 --> 00:06:21,440
+<font backgroundcolor="#000000"> Wykorzystuje się żywe poczwarki. </font>
+
+54
+00:06:27,600 --> 00:06:32,800
+<font backgroundcolor="#000000"> Dzięki temu trucizna </font>
+<font backgroundcolor="#000000"> zostanie wzmocniona. </font>
+
+55
+00:06:33,400 --> 00:06:42,000
+<font backgroundcolor="#000000"> Miksturę będziemy ucierać w moździerzu </font>
+<font backgroundcolor="#000000"> zrobionym z rzepki kolanowej </font>
+<font backgroundcolor="#000000"> jakiegoś zwierzęcia. </font>
+
+56
+00:07:31,400 --> 00:07:34,080
+<font backgroundcolor="#000000"> Jak silna jest ta trucizna? </font>
+
+57
+00:07:34,240 --> 00:07:39,560
+<font backgroundcolor="#000000"> Zabija antylopę kudu, która </font>
+<font backgroundcolor="#000000"> jest wielkości naszego jelenia. </font>
+
+58
+00:07:39,720 --> 00:07:42,360
+<font backgroundcolor="#000000"> Jednak nie zabija od razu. </font>
+
+59
+00:07:42,520 --> 00:07:49,960
+<font backgroundcolor="#000000"> To nie jest trutka amazońska, </font>
+<font backgroundcolor="#000000"> która powoduje zatrzymanie </font>
+<font backgroundcolor="#000000"> akcji serca albo paraliż. </font>
+
+60
+00:07:50,440 --> 00:07:53,360
+<font backgroundcolor="#000000"> W tym miejscu strzałka pęka. </font>
+
+61
+00:07:53,720 --> 00:07:59,000
+<font backgroundcolor="#000000"> Część strzałki zostaje w ciele </font>
+<font backgroundcolor="#000000"> zwierzęcia wraz z trucizną. </font>
+
+62
+00:07:59,160 --> 00:08:01,720
+<font backgroundcolor="#000000"> Kudu stopniowo słabnie. </font>
+
+63
+00:08:02,040 --> 00:08:04,440
+<font backgroundcolor="#000000"> Oni tropią to zwierzę. </font>
+
+64
+00:08:04,600 --> 00:08:12,400
+<font backgroundcolor="#000000"> Następnego dnia znajdują je martwe </font>
+<font backgroundcolor="#000000"> albo na tyle osłabione, że można </font>
+<font backgroundcolor="#000000"> je dobić oszczepem. </font>
+
+65
+00:08:12,560 --> 00:08:16,600
+<font backgroundcolor="#000000"> Czy to potrafi zabić człowieka? </font>
+<font backgroundcolor="#000000"> Pewnie tak. </font>
+
+66
+00:08:16,760 --> 00:08:19,040
+<font backgroundcolor="#000000"> Oto przykład. </font>
+
+67
+00:08:19,200 --> 00:08:24,240
+<font backgroundcolor="#000000"> Ten mężczyzna miał silne poczucie winy </font>
+<font backgroundcolor="#000000"> po jednej z bójek. </font>
+
+68
+00:08:24,400 --> 00:08:27,720
+<font backgroundcolor="#000000"> Pobił najbliższych krewnych, </font>
+<font backgroundcolor="#000000"> pobił żonę. </font>
+
+69
+00:08:27,880 --> 00:08:33,640
+<font backgroundcolor="#000000"> Tak źle się czuł z tego powodu, </font>
+<font backgroundcolor="#000000"> że postanowił odebrać sobie życie. </font>
+
+70
+00:08:33,800 --> 00:08:37,520
+<font backgroundcolor="#000000"> Taką strzałką ukłuł się </font>
+<font backgroundcolor="#000000"> w lewe przedramię. </font>
+
+71
+00:08:37,680 --> 00:08:42,080
+<font backgroundcolor="#000000"> Po kilku dniach trzeba było mu </font>
+<font backgroundcolor="#000000"> obciąć rękę, bo gniła. </font>
+
+72
+00:08:42,240 --> 00:08:47,200
+<font backgroundcolor="#000000"> Lekarze nie umieli sobie </font>
+<font backgroundcolor="#000000"> z tym poradzić i ucięli rękę. </font>
+
+73
+00:08:48,560 --> 00:08:51,160
+<font backgroundcolor="#000000"> Tak silna jest ta trucizna. </font>
+
+74
+00:09:16,000 --> 00:09:24,000
+<font backgroundcolor="#000000"> Wszyscy buszmeni są szamanami, </font>
+<font backgroundcolor="#000000"> podobnie jak wszyscy Polacy </font>
+<font backgroundcolor="#000000"> są nauczycielami i lekarzami. </font>
+
+75
+00:09:24,160 --> 00:09:26,720
+<font backgroundcolor="#000000"> A jak leczą? Czym leczą? </font>
+
+76
+00:09:27,040 --> 00:09:29,560
+<font backgroundcolor="#000000"> To doskonali zielarze. </font>
+
+77
+00:09:29,720 --> 00:09:36,160
+<font backgroundcolor="#000000"> Po siedmiu tysiącach lat życia w </font>
+<font backgroundcolor="#000000"> buszu,każdy może być dobrym zielarzem. </font>
+
+78
+00:09:36,320 --> 00:09:39,880
+<font backgroundcolor="#000000"> Znają też leki uzyskiwane ze zwierząt. </font>
+
+79
+00:09:40,040 --> 00:09:45,600
+<font backgroundcolor="#000000"> Znowu kojarzy mi się to </font>
+<font backgroundcolor="#000000"> z prostymi lekami ludów znad Amazonii. </font>
+
+80
+00:09:45,760 --> 00:09:51,080
+<font backgroundcolor="#000000"> Tam podstawowym składnikiem </font>
+<font backgroundcolor="#000000"> wielu leków jest tłuszcz węża. </font>
+
+81
+00:09:51,240 --> 00:09:55,320
+<font backgroundcolor="#000000"> Musi to być wąż śmiertelnie jadowity. </font>
+
+82
+00:09:55,480 --> 00:09:57,720
+<font backgroundcolor="#000000"> Tutaj jest podobnie. </font>
+
+83
+00:09:57,880 --> 00:10:01,560
+<font backgroundcolor="#000000"> Dodatkowo stosuje się tłuszcz antylop. </font>
+
+84
+00:10:01,720 --> 00:10:07,680
+<font backgroundcolor="#000000"> A jak nie pomagają leki takie </font>
+<font backgroundcolor="#000000"> jak zioła, tłuszcze i inne cuda? </font>
+
+85
+00:10:07,840 --> 00:10:11,240
+<font backgroundcolor="#000000"> Wtedy zaczynają się prawdziwe cuda. </font>
+
+86
+00:10:11,400 --> 00:10:15,560
+<font backgroundcolor="#000000"> Szamani buszmeńscy leczą </font>
+<font backgroundcolor="#000000"> przykładając dłonie. </font>
+
+87
+00:10:15,720 --> 00:10:18,400
+<font backgroundcolor="#000000"> To nie powinno nas dziwić. </font>
+
+88
+00:10:18,560 --> 00:10:22,400
+<font backgroundcolor="#000000"> Jan Paweł II przykładał dłonie </font>
+<font backgroundcolor="#000000"> i działało. </font>
+
+89
+00:10:22,560 --> 00:10:25,320
+<font backgroundcolor="#000000"> Są udokumentowane przypadki. </font>
+
+90
+00:10:25,480 --> 00:10:31,280
+<font backgroundcolor="#000000"> Był też ojciec Pio i wiele innych </font>
+<font backgroundcolor="#000000"> postaci, znanych z historii. </font>
+
+91
+00:10:31,440 --> 00:10:35,160
+<font backgroundcolor="#000000"> Przykładaniem dłoni leczono już dawno. </font>
+
+92
+00:10:35,320 --> 00:10:42,040
+<font backgroundcolor="#000000"> Osoby charyzmatyczne, jak szaman, </font>
+<font backgroundcolor="#000000"> leczą przez dotyk i wysysanie choroby. </font>
+
+93
+00:10:42,200 --> 00:10:51,040
+<font backgroundcolor="#000000"> Gdy choroba nie poddaje się działaniu </font>
+<font backgroundcolor="#000000"> ziół i tłuszczów znaczy to, </font>
+<font backgroundcolor="#000000"> że to jakieś opętanie albo duch. </font>
+
+94
+00:10:51,200 --> 00:10:56,640
+<font backgroundcolor="#000000"> Tego ducha szaman musi wyssać </font>
+<font backgroundcolor="#000000"> z chorego, wziąć go w siebie. </font>
+
+95
+00:10:56,840 --> 00:11:03,040
+<font backgroundcolor="#000000"> A potem, będąc w transie, </font>
+<font backgroundcolor="#000000"> musi tego ducha w sobie pokonać. </font>
+
+96
+00:11:03,400 --> 00:11:08,280
+<font backgroundcolor="#000000"> To wojna z chorobą, </font>
+<font backgroundcolor="#000000"> którą się zdjęło z kogoś innego. </font>
+
+97
+00:11:37,920 --> 00:11:40,120
+<font backgroundcolor="#000000"> Rozmowy z duchami. </font>
+
+98
+00:11:40,280 --> 00:11:43,600
+<font backgroundcolor="#000000"> Odbywają się zawsze w jakimś celu. </font>
+
+99
+00:11:43,760 --> 00:11:48,800
+<font backgroundcolor="#000000"> Na przykład, żeby przywołać deszcz </font>
+<font backgroundcolor="#000000"> albo wygonić chorobę. </font>
+
+100
+00:11:48,960 --> 00:11:53,480
+<font backgroundcolor="#000000"> Takie rozmowy u buszmenów </font>
+<font backgroundcolor="#000000"> odbywają się w ekstazie. </font>
+
+101
+00:11:53,640 --> 00:11:56,640
+<font backgroundcolor="#000000"> Człowiek wprowadza się w trans. </font>
+
+102
+00:11:56,800 --> 00:12:04,400
+<font backgroundcolor="#000000"> Wtedy częściowo wchodzi w ten świat, </font>
+<font backgroundcolor="#000000"> którego na co dzień nie oglądamy </font>
+<font backgroundcolor="#000000"> - do świata duchów. </font>
+
+103
+00:12:04,560 --> 00:12:09,640
+<font backgroundcolor="#000000"> Duch robi to samo. Częściowo </font>
+<font backgroundcolor="#000000"> przechodzi do naszego świata. </font>
+
+104
+00:12:09,800 --> 00:12:13,920
+<font backgroundcolor="#000000"> I w tym miejscu się spotykają. </font>
+<font backgroundcolor="#000000"> W tej ekstazie. </font>
+
+105
+00:12:14,080 --> 00:12:19,040
+<font backgroundcolor="#000000"> Kto wpada w ekstazę? </font>
+<font backgroundcolor="#000000"> Kto jest szamanem do rozmów z duchami? </font>
+
+106
+00:12:20,000 --> 00:12:24,160
+<font backgroundcolor="#000000"> Każdy. To ich różni od innych plemion. </font>
+
+107
+00:12:24,320 --> 00:12:27,480
+<font backgroundcolor="#000000"> To mnie zaciekawiło najbardziej. </font>
+
+108
+00:12:27,640 --> 00:12:32,560
+<font backgroundcolor="#000000"> Zacząłem czytać na ten temat </font>
+<font backgroundcolor="#000000"> i okazało się to logiczne. </font>
+
+109
+00:12:32,720 --> 00:12:38,400
+<font backgroundcolor="#000000"> Tu jedyną organizacją społeczną </font>
+<font backgroundcolor="#000000"> jest rodzina i to niewielka. </font>
+
+110
+00:12:38,560 --> 00:12:42,920
+<font backgroundcolor="#000000"> Co dzieje się w rodzinie, </font>
+<font backgroundcolor="#000000"> kiedy ktoś zachoruje? </font>
+
+111
+00:12:43,080 --> 00:12:45,760
+<font backgroundcolor="#000000"> Wszyscy przychodzą z pomocą. </font>
+
+112
+00:12:45,920 --> 00:12:54,920
+<font backgroundcolor="#000000"> Jeśli tą pomocą jest rozmowa z duchami </font>
+<font backgroundcolor="#000000"> i przeganianie chorób, to każdy </font>
+<font backgroundcolor="#000000"> chce się przyłączyć do leczenia. </font>
+
+113
+00:12:55,080 --> 00:12:58,720
+<font backgroundcolor="#000000"> Dlatego u nich każdy </font>
+<font backgroundcolor="#000000"> może być szamanem. </font>
+
+114
+00:12:58,880 --> 00:13:02,440
+<font backgroundcolor="#000000"> Są ciotki nieuzdolnione </font>
+<font backgroundcolor="#000000"> w tym kierunku. </font>
+
+115
+00:13:02,600 --> 00:13:06,480
+<font backgroundcolor="#000000"> I ich nie będziemy prosić o pomoc. </font>
+
+116
+00:13:06,640 --> 00:13:14,280
+<font backgroundcolor="#000000"> Ale są też takie, do których </font>
+<font backgroundcolor="#000000"> z pełnym zaufaniem pójdą wszyscy. </font>
+
+117
+00:13:14,440 --> 00:13:20,560
+<font backgroundcolor="#000000"> One są tymi lepszymi szamanami </font>
+<font backgroundcolor="#000000"> u buszmenów. </font>
+
+118
+00:13:21,560 --> 00:13:23,760
+<font backgroundcolor="#000000"> A tamte drugie? </font>
+
+119
+00:13:23,920 --> 00:13:30,720
+<font backgroundcolor="#000000"> Próbują, nikt im nie zabroni, </font>
+<font backgroundcolor="#000000"> bo przecież chcą uleczyć </font>
+<font backgroundcolor="#000000"> swoją siostrzenicę. </font>
+
+120
+00:13:39,120 --> 00:13:42,400
+<font backgroundcolor="#000000"> Czym szaman walczy? </font>
+
+121
+00:13:42,920 --> 00:13:46,600
+<font backgroundcolor="#000000"> Mocą. Ale nie taką czarodziejską. </font>
+
+122
+00:13:47,080 --> 00:13:52,200
+<font backgroundcolor="#000000"> Buszmeni wiedzą dokładanie, </font>
+<font backgroundcolor="#000000"> że to jest tchnienie Boga. </font>
+
+123
+00:13:52,360 --> 00:14:00,040
+<font backgroundcolor="#000000"> Jest duszą człowieka, ale może też </font>
+<font backgroundcolor="#000000"> przebywać w różnych miejscach dookoła. </font>
+
+124
+00:14:00,240 --> 00:14:07,360
+<font backgroundcolor="#000000"> Bóg jest wszędzie, a w niektórych </font>
+<font backgroundcolor="#000000"> miejscach jest trochę </font>
+<font backgroundcolor="#000000"> bardziej skoncentrowany. </font>
+
+125
+00:14:07,520 --> 00:14:14,120
+<font backgroundcolor="#000000"> U nas skoncentrowana moc Boga </font>
+<font backgroundcolor="#000000"> jest w obrazie Matki Boskiej </font>
+<font backgroundcolor="#000000"> Częstochowskiej. </font>
+
+126
+00:14:14,280 --> 00:14:19,760
+<font backgroundcolor="#000000"> Wierzymy, że kiedy się tam pojedzie, </font>
+<font backgroundcolor="#000000"> moc Boga działa silniej. </font>
+
+127
+00:14:19,920 --> 00:14:27,240
+<font backgroundcolor="#000000"> Oni wierzą, że są takie zioła, </font>
+<font backgroundcolor="#000000"> dane z nieba, w których </font>
+<font backgroundcolor="#000000"> moc Boża jest mocniejsza. </font>
+
+128
+00:14:27,400 --> 00:14:36,240
+<font backgroundcolor="#000000"> Wierzą, że jaja strusie, </font>
+<font backgroundcolor="#000000"> jako największe, zawierają więcej mocy </font>
+<font backgroundcolor="#000000"> niż reszta przestrzeni dookoła. </font>
+
+129
+00:14:36,400 --> 00:14:43,280
+<font backgroundcolor="#000000"> Pewnie dlatego ta dziewczyna robi </font>
+<font backgroundcolor="#000000"> naszyjnik ze skorupy strusiego jaja. </font>
+
+130
+00:14:48,560 --> 00:14:51,120
+<font backgroundcolor="#000000"> Z mocą Bożą nie ma żartów. </font>
+
+131
+00:14:51,280 --> 00:14:55,480
+<font backgroundcolor="#000000"> Jest dobroczynna, </font>
+<font backgroundcolor="#000000"> ale może też być niszcząca. </font>
+
+132
+00:14:55,640 --> 00:14:59,640
+<font backgroundcolor="#000000"> Tak jak piorun jest </font>
+<font backgroundcolor="#000000"> przejawem boskiej mocy. </font>
+
+133
+00:14:59,800 --> 00:15:03,360
+<font backgroundcolor="#000000"> Może podpalić tutejsze </font>
+<font backgroundcolor="#000000"> wyschnięte trawy. </font>
+
+134
+00:15:03,520 --> 00:15:11,000
+<font backgroundcolor="#000000"> Dlatego człowiek, kiedy wprowadza się </font>
+<font backgroundcolor="#000000"> w trans, uzbraja się w moc, </font>
+<font backgroundcolor="#000000"> też musi uważać. </font>
+
+135
+00:15:11,160 --> 00:15:15,600
+<font backgroundcolor="#000000"> Dlatego to zawsze </font>
+<font backgroundcolor="#000000"> jest przedsięwzięcie rodzinne. </font>
+
+136
+00:15:15,760 --> 00:15:20,480
+<font backgroundcolor="#000000"> To się robi w grupie, w kręgu, </font>
+<font backgroundcolor="#000000"> żeby na siebie uważać. </font>
+
+137
+00:15:20,640 --> 00:15:26,720
+<font backgroundcolor="#000000"> A najlepiej jeśli wszyscy szamani </font>
+<font backgroundcolor="#000000"> z grupy rodzinnej robią to razem. </font>
+
+138
+00:15:26,880 --> 00:15:32,160
+<font backgroundcolor="#000000"> Wspierają tego jednego, </font>
+<font backgroundcolor="#000000"> który uzbraja się i przysposabia. </font>
+
+139
+00:15:32,320 --> 00:15:37,920
+<font backgroundcolor="#000000"> Tak jak ksiądz w seminarium </font>
+<font backgroundcolor="#000000"> przysposabia się do swojej roboty. </font>
+
+140
+00:15:38,080 --> 00:15:42,560
+<font backgroundcolor="#000000"> A potem jeszcze przed każdą mszą </font>
+<font backgroundcolor="#000000"> i w trakcie mszy. </font>
+
+141
+00:15:42,720 --> 00:15:48,840
+<font backgroundcolor="#000000"> Rytualne obrzędy wszystkich religii </font>
+<font backgroundcolor="#000000"> u buszmenów sprowadzone są do tańca. </font>
+
+142
+00:15:49,000 --> 00:15:55,440
+<font backgroundcolor="#000000"> On oczyszcza jak spowiedź </font>
+<font backgroundcolor="#000000"> i przygotowuje na spotkanie </font>
+<font backgroundcolor="#000000"> z większą dawką mocy. </font>
+
+143
+00:17:16,280 --> 00:17:22,840
+<font backgroundcolor="#000000"> Buszmen kocha trans, bo to jest boska </font>
+<font backgroundcolor="#000000"> energia życiowa, którą przywołujemy. </font>
+
+144
+00:17:23,000 --> 00:17:29,160
+<font backgroundcolor="#000000"> Jakby instynkt podpowiadał buszmenom, </font>
+<font backgroundcolor="#000000"> że człowiek ma hormony. </font>
+
+145
+00:17:29,320 --> 00:17:32,520
+<font backgroundcolor="#000000"> Oni wywołują tę moc z nerek. </font>
+
+146
+00:17:32,800 --> 00:17:40,000
+<font backgroundcolor="#000000"> Ta moc, czy jak kto woli adrenalina, </font>
+<font backgroundcolor="#000000"> wspina się w transie po kręgosłupie. </font>
+
+147
+00:17:40,160 --> 00:17:43,080
+<font backgroundcolor="#000000"> A na końcu wybucha w głowie. </font>
+
+148
+00:17:43,240 --> 00:17:46,640
+<font backgroundcolor="#000000"> Wtedy następuje ten trans głęboki. </font>
+
+149
+00:17:46,800 --> 00:17:49,680
+<font backgroundcolor="#000000"> Buszmeni mówią, że trzeba uważać. </font>
+
+150
+00:17:49,840 --> 00:17:57,880
+<font backgroundcolor="#000000"> Człowiek, który robi to pierwszy raz, </font>
+<font backgroundcolor="#000000"> może doznać pomieszania zmysłów, </font>
+<font backgroundcolor="#000000"> może zapaść w śpiączkę. </font>
+
+151
+00:17:58,040 --> 00:18:01,120
+<font backgroundcolor="#000000"> Może też zatańczyć się na śmierć. </font>
+
+152
+00:18:01,280 --> 00:18:05,360
+<font backgroundcolor="#000000"> Nie czuje bólu, więc </font>
+<font backgroundcolor="#000000"> może chodzić po ogniu. </font>
+
+153
+00:18:05,520 --> 00:18:10,000
+<font backgroundcolor="#000000"> Może przykładać sobie do ciała </font>
+<font backgroundcolor="#000000"> rozpalone żagwie. </font>
+
+154
+00:18:10,160 --> 00:18:13,960
+<font backgroundcolor="#000000"> Ale jak przesadzi, </font>
+<font backgroundcolor="#000000"> kiedyś spali swoje ciało. </font>
+
+155
+00:18:14,120 --> 00:18:17,000
+<font backgroundcolor="#000000"> Tak więc potrzebny jest umiar. </font>
+
+156
+00:18:46,280 --> 00:18:51,480
+<font backgroundcolor="#000000"> W Polsce jest moda </font>
+<font backgroundcolor="#000000"> na niekonwencjonalne sposoby leczenia. </font>
+
+157
+00:18:51,640 --> 00:18:59,560
+<font backgroundcolor="#000000"> Na pewno ktoś z państwa pomyślał, </font>
+<font backgroundcolor="#000000"> że mógłby ze swoimi chorobami </font>
+<font backgroundcolor="#000000"> przyjechać do buszmenów. </font>
+
+158
+00:18:59,720 --> 00:19:05,400
+<font backgroundcolor="#000000"> Kiedy coś stanie mi się w Amazonii, </font>
+<font backgroundcolor="#000000"> chodzę do tamtejszych szamanów. </font>
+
+159
+00:19:05,560 --> 00:19:10,960
+<font backgroundcolor="#000000"> Oni znają swoje choroby. </font>
+<font backgroundcolor="#000000"> Z tego terenu, na którym mieszkają. </font>
+
+160
+00:19:11,120 --> 00:19:17,320
+<font backgroundcolor="#000000"> Mają wiedzę, która była przekazywana </font>
+<font backgroundcolor="#000000"> przez dziesiątki, setki pokoleń. </font>
+
+161
+00:19:17,480 --> 00:19:22,480
+<font backgroundcolor="#000000"> A biały lekarz do dżungli przyjechał </font>
+<font backgroundcolor="#000000"> niedawno. Co on wie? </font>
+
+162
+00:19:22,720 --> 00:19:27,640
+<font backgroundcolor="#000000"> Co innego, gdyby tu przytrafiło mi się </font>
+<font backgroundcolor="#000000"> coś afrykańskiego. </font>
+
+163
+00:19:27,800 --> 00:19:33,040
+<font backgroundcolor="#000000"> Takie niewinne skaleczenie w palec </font>
+<font backgroundcolor="#000000"> zdarzyło mi się w Senegalu. </font>
+
+164
+00:19:33,200 --> 00:19:37,040
+<font backgroundcolor="#000000"> Następnego dnia rana </font>
+<font backgroundcolor="#000000"> zaczęła się jątrzyć. </font>
+
+165
+00:19:37,200 --> 00:19:43,200
+<font backgroundcolor="#000000"> Gdyby tam był szaman, pobiegłbym </font>
+<font backgroundcolor="#000000"> do niego, bo to zdarzyło się w buszu. </font>
+
+166
+00:19:43,360 --> 00:19:47,960
+<font backgroundcolor="#000000"> Ale z moimi oczami? </font>
+<font backgroundcolor="#000000"> Jestem krótkowidzem. </font>
+
+167
+00:19:48,520 --> 00:19:52,920
+<font backgroundcolor="#000000"> Co taki buszmen wie o okularach? </font>
+<font backgroundcolor="#000000"> Nic nie wie. </font>
+
+168
+00:19:53,080 --> 00:19:59,920
+<font backgroundcolor="#000000"> Jak jest krótkowidzem, </font>
+<font backgroundcolor="#000000"> pewnie umiera z głodu, </font>
+<font backgroundcolor="#000000"> bo nie może trafić w zwierzynę. </font>
+
+169
+00:20:00,080 --> 00:20:04,880
+<font backgroundcolor="#000000"> Choroby lokalne warto leczyć </font>
+<font backgroundcolor="#000000"> u lokalnych zielarzy. </font>
+
+170
+00:20:05,280 --> 00:20:11,160
+<font backgroundcolor="#000000"> A choroby przywiezione z Europy </font>
+<font backgroundcolor="#000000"> zabieramy z powrotem do Europy. </font>
+
+171
+00:20:11,480 --> 00:20:20,280
+<font backgroundcolor="#000000"> Dzisiaj wieczorem mój kolega Makaron </font>
+<font backgroundcolor="#000000"> wybiera się do tutejszego szamana </font>
+<font backgroundcolor="#000000"> ze swoją dziurą w nodze. </font>
+
+172
+00:20:20,440 --> 00:20:24,120
+<font backgroundcolor="#000000"> Dziura jest brzydka. </font>
+<font backgroundcolor="#000000"> Powstała w Afryce. </font>
+
+173
+00:20:24,280 --> 00:20:29,920
+<font backgroundcolor="#000000"> Afryka mu zadała tę gnijącą nogę, </font>
+<font backgroundcolor="#000000"> niech Afryka ją zabierze. </font>
+
+174
+00:21:04,040 --> 00:21:09,160
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> OKRZYKI SZAMANA </font></font>
+
+175
+00:21:33,000 --> 00:21:40,080
+<font backgroundcolor="#000000"> Co się dzieje z tym tchnieniem, </font>
+<font backgroundcolor="#000000"> gdy człowiek umiera </font>
+<font backgroundcolor="#000000"> i rozsypuje się w proch. </font>
+
+176
+00:21:40,440 --> 00:21:44,280
+<font backgroundcolor="#000000"> Tchnienie, czyli dusza, </font>
+<font backgroundcolor="#000000"> idzie do nieba. </font>
+
+177
+00:21:44,640 --> 00:21:48,520
+<font backgroundcolor="#000000"> Jakie jest buszmeńskie </font>
+<font backgroundcolor="#000000"> wyobrażenie nieba? </font>
+
+178
+00:21:48,680 --> 00:21:50,840
+<font backgroundcolor="#000000"> Nasze są różne. </font>
+
+179
+00:21:51,000 --> 00:21:54,080
+<font backgroundcolor="#000000"> Można mieć pałac i ogromny harem. </font>
+
+180
+00:21:54,240 --> 00:21:56,960
+<font backgroundcolor="#000000"> A buszmen jest minimalistą. </font>
+
+181
+00:21:57,120 --> 00:22:05,600
+<font backgroundcolor="#000000"> Buszmen jest szczęśliwy w niebie, </font>
+<font backgroundcolor="#000000"> kiedy ma zawsze co jeść, nigdy nie </font>
+<font backgroundcolor="#000000"> jest głodny i może dużo spać. </font>
+
+182
+00:22:06,320 --> 00:22:11,160
+<font backgroundcolor="#000000"> Śmierć u buszmenów to zjawisko groźne. </font>
+
+183
+00:22:11,640 --> 00:22:17,240
+<font backgroundcolor="#000000"> Kiedy umiera członek rodziny, </font>
+<font backgroundcolor="#000000"> natychmiast opuszcza się wioskę. </font>
+
+184
+00:22:17,400 --> 00:22:22,520
+<font backgroundcolor="#000000"> Jeśli to był jeden szałas, </font>
+<font backgroundcolor="#000000"> opuszcza się ten jeden szałas. </font>
+
+185
+00:22:22,680 --> 00:22:31,720
+<font backgroundcolor="#000000"> Wszyscy członkowie tej rodziny </font>
+<font backgroundcolor="#000000"> zmieniają imiona, zmieniają miejsce </font>
+<font backgroundcolor="#000000"> pobytu, zmieniają ścieżki i obyczaje. </font>
+
+186
+00:22:31,880 --> 00:22:39,640
+<font backgroundcolor="#000000"> Wszystko po to, żeby dusza zmarłego </font>
+<font backgroundcolor="#000000"> nie podążała za nimi i spokojnie </font>
+<font backgroundcolor="#000000"> odeszła do nieba. </font>
+
+187
+00:22:39,800 --> 00:22:46,720
+<font backgroundcolor="#000000"> Duchy mogą być groźne, </font>
+<font backgroundcolor="#000000"> szczególnie jeśli zostały </font>
+<font backgroundcolor="#000000"> na ziemi przez płaczącą rodzinę. </font>
+
+188
+00:22:47,040 --> 00:22:50,800
+<font backgroundcolor="#000000"> W Amazonii są plemiona, </font>
+<font backgroundcolor="#000000"> które robią to samo. </font>
+
+189
+00:22:50,960 --> 00:22:56,160
+<font backgroundcolor="#000000"> Zaszywają wejście do szałasu </font>
+<font backgroundcolor="#000000"> i robią wejście z drugiej strony. </font>
+
+190
+00:22:56,320 --> 00:22:58,840
+<font backgroundcolor="#000000"> Tego wejścia duch nie zna. </font>
+
+191
+00:22:59,000 --> 00:23:06,560
+<font backgroundcolor="#000000"> Żona niszczy wszystkie przedmioty, </font>
+<font backgroundcolor="#000000"> które należały do zmarłego, </font>
+<font backgroundcolor="#000000"> by nic go tu nie trzymało. </font>
+
+192
+00:23:06,720 --> 00:23:14,040
+<font backgroundcolor="#000000"> Skorupy naczyń zakopuje się </font>
+<font backgroundcolor="#000000"> pod paleniskiem, a palenisko </font>
+<font backgroundcolor="#000000"> przenosi się w inne miejsce. </font>
+
+193
+00:23:14,200 --> 00:23:17,920
+<font backgroundcolor="#000000"> Strach przed duchami, </font>
+<font backgroundcolor="#000000"> respekt wobec duchów. </font>
+
+194
+00:23:33,240 --> 00:23:39,280
+<font backgroundcolor="#000000"> W tym miejscu odłącza się przeddzidzie </font>
+<font backgroundcolor="#000000"> od zadzidzia. Tu się złamie. </font>
+
+195
+00:23:39,440 --> 00:23:42,400
+<font backgroundcolor="#000000"> Ta część zostaje w zwierzęciu. </font>
+
+196
+00:23:42,560 --> 00:23:45,120
+<font backgroundcolor="#000000"> Zwierzę stopniowo słabnie. </font>
+
+197
+00:23:45,280 --> 00:23:49,760
+<font backgroundcolor="#000000"> Może następnego dnia uda się </font>
+<font backgroundcolor="#000000"> je gdzieś znaleźć. </font>
+
+198
+00:23:50,040 --> 00:23:57,120
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+

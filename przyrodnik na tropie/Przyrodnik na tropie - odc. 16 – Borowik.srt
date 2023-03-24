@@ -1,0 +1,1192 @@
+1
+00:00:01,880 --> 00:00:04,920
+<font color="aqua">Polskie lasy</font>
+<font color="aqua">w niedostępnych obszarach</font>
+
+2
+00:00:05,080 --> 00:00:07,080
+<font color="aqua">strzegą swoich tajemnic.</font>
+
+3
+00:00:07,240 --> 00:00:09,400
+<font color="aqua">Słuchając tętna przyrody,</font>
+
+4
+00:00:09,560 --> 00:00:11,920
+<font color="aqua">można odkryć sieć powiązań</font>
+
+5
+00:00:12,080 --> 00:00:16,200
+<font color="aqua">tworzoną przez strzępki grzybów</font>
+<font color="aqua">oraz korzenie roślin.</font>
+
+6
+00:00:16,360 --> 00:00:19,240
+<font color="aqua">Najlepszy przewodnikiem</font>
+<font color="aqua">po tym świecie</font>
+
+7
+00:00:19,400 --> 00:00:21,840
+<font color="aqua">jest biolog i fotograf przyrody,</font>
+
+8
+00:00:22,000 --> 00:00:25,200
+<font color="aqua">który rozpoznaje gatunki</font>
+<font color="aqua">roślin i grzybów.</font>
+
+9
+00:00:25,360 --> 00:00:30,560
+<font color="aqua">Przed wami przyrodnik na tropie,</font>
+<font color="aqua">czyli Łukasz Bożycki.</font>
+
+10
+00:01:27,000 --> 00:01:30,120
+<font color="#FFFF51">Wyobraźcie sobie,</font>
+<font color="#FFFF51">że w tej grudce ziemi,</font>
+
+11
+00:01:30,280 --> 00:01:32,040
+<font color="#FFFF51">która waży około grama,</font>
+
+12
+00:01:32,200 --> 00:01:36,600
+<font color="#FFFF51">znajduje się 300 metrów</font>
+<font color="#FFFF51">sznurów grzybniowych i strzępek.</font>
+
+13
+00:01:36,760 --> 00:01:40,160
+<font color="#FFFF51">300 metrów to zdecydowanie więcej,</font>
+
+14
+00:01:40,320 --> 00:01:44,640
+<font color="#FFFF51">niż ma wysokość</font>
+<font color="#FFFF51">Pałacu Kultury i Nauki w Warszawie.</font>
+
+15
+00:01:44,800 --> 00:01:49,200
+<font color="#FFFF51">Grzyby występują niemal wszędzie,</font>
+<font color="#FFFF51">nawet w wodzie,</font>
+
+16
+00:01:49,360 --> 00:01:52,200
+<font color="#FFFF51">pełnią też ważną rolę w środowisku,</font>
+
+17
+00:01:52,360 --> 00:01:55,640
+<font color="#FFFF51">bo gdyby nie rozkładały</font>
+<font color="#FFFF51">martwej materii,</font>
+
+18
+00:01:55,800 --> 00:01:57,600
+<font color="#FFFF51">to te wszystkie liście</font>
+
+19
+00:01:57,760 --> 00:02:01,640
+<font color="#FFFF51">z roku na rok piętrzyłyby się</font>
+<font color="#FFFF51">w ogromnych hałdach,</font>
+
+20
+00:02:01,800 --> 00:02:05,400
+<font color="#FFFF51">a tak po dwóch latach</font>
+<font color="#FFFF51">nie będzie po nich śladu,</font>
+
+21
+00:02:05,560 --> 00:02:07,600
+<font color="#FFFF51">bo rozłożą je grzyby.</font>
+
+22
+00:02:07,760 --> 00:02:10,120
+<font color="#FFFF51">Myślę, że to najwyższy czas,</font>
+
+23
+00:02:10,280 --> 00:02:12,520
+<font color="#FFFF51">aby opowiedzieć o grzybach</font>
+
+24
+00:02:12,680 --> 00:02:16,280
+<font color="#FFFF51">i o ich sieci powiązań</font>
+<font color="#FFFF51">w polskiej przyrodzie.</font>
+
+25
+00:03:15,640 --> 00:03:18,960
+<font color="#FFFF51">Na grzybach</font>
+<font color="#FFFF51">znamy się wszyscy doskonale,</font>
+
+26
+00:03:19,120 --> 00:03:23,320
+<font color="#FFFF51">w związku z tym wiele gatunków</font>
+<font color="#FFFF51">ma różne nazwy ludowe.</font>
+
+27
+00:03:23,480 --> 00:03:27,200
+<font color="#FFFF51">Rekord należy chyba</font>
+<font color="#FFFF51">do sromotnika bezwstydnego,</font>
+
+28
+00:03:27,360 --> 00:03:30,160
+<font color="#FFFF51">bo ma aż 41 nazw ludowych.</font>
+
+29
+00:03:30,320 --> 00:03:33,280
+<font color="#FFFF51">Do moich ulubionych</font>
+<font color="#FFFF51">należy "obdartus"</font>
+
+30
+00:03:33,440 --> 00:03:35,560
+<font color="#FFFF51">i "denna bdła śmierdząca".</font>
+
+31
+00:03:35,720 --> 00:03:37,560
+<font color="#FFFF51">Kto to w ogóle wymyśla?</font>
+
+32
+00:03:37,720 --> 00:03:41,120
+<font color="#FFFF51">Bohater tego odcinka</font>
+<font color="#FFFF51">nie ma tak wielu nazw,</font>
+
+33
+00:03:41,280 --> 00:03:43,520
+<font color="#FFFF51">ale za to wszyscy je znamy.</font>
+
+34
+00:03:43,680 --> 00:03:47,560
+<font color="#FFFF51">To na przykład "grabak",</font>
+<font color="#FFFF51">"prawak" i "prawdziwek".</font>
+
+35
+00:03:47,720 --> 00:03:52,600
+<font color="#FFFF51">Myślę, że już się domyślacie,</font>
+<font color="#FFFF51">że bohaterem będzie borowik</font>
+
+36
+00:03:52,760 --> 00:03:55,760
+<font color="#FFFF51">i jego powiązania</font>
+<font color="#FFFF51">w świecie przyrody.</font>
+
+37
+00:03:58,400 --> 00:04:02,680
+<font color="aqua">Borowik szlachetny</font>
+<font color="aqua">ma ciemnobrązowy gładki kapelusz</font>
+
+38
+00:04:02,840 --> 00:04:06,000
+<font color="aqua">o średnicy</font>
+<font color="aqua">mniejszej niż 25 centymetrów.</font>
+
+39
+00:04:06,160 --> 00:04:10,680
+<font color="aqua">Rurki po spodniej stronie kapelusza</font>
+<font color="aqua">początkowo są białe.</font>
+
+40
+00:04:10,840 --> 00:04:14,960
+<font color="aqua">Potem stają się żółte,</font>
+<font color="aqua">a następnie oliwkowozielone.</font>
+
+41
+00:04:15,120 --> 00:04:20,280
+<font color="aqua">Trzon przyjmuje kształt maczugi,</font>
+<font color="aqua">która z czasem wydłuża się.</font>
+
+42
+00:04:20,440 --> 00:04:25,000
+<font color="aqua">Górna część jest brązowa</font>
+<font color="aqua">i pokryta jasną siateczką,</font>
+
+43
+00:04:25,160 --> 00:04:30,720
+<font color="aqua">natomiast dolna część trzonu jest</font>
+<font color="aqua">gładka, jaśniejsza, a czasem biała.</font>
+
+44
+00:05:04,800 --> 00:05:07,680
+<font color="#FFFF51">Przez współczesne</font>
+<font color="#FFFF51">badania genetyczne</font>
+
+45
+00:05:07,840 --> 00:05:11,720
+<font color="#FFFF51">13 gatunków borowików</font>
+<font color="#FFFF51">przestało być borowikami,</font>
+
+46
+00:05:11,880 --> 00:05:16,800
+<font color="#FFFF51">bo genetycznie jest im bliżej</font>
+<font color="#FFFF51">do innych gatunków grzybów,</font>
+
+47
+00:05:16,960 --> 00:05:19,880
+<font color="#FFFF51">więc przesunięto je</font>
+<font color="#FFFF51">do innych rodzin.</font>
+
+48
+00:05:20,040 --> 00:05:22,760
+<font color="#FFFF51">O, jaki ładny.</font>
+
+49
+00:05:22,920 --> 00:05:25,320
+<font color="#FFFF51">To się nazywa mieć szczęście.</font>
+
+50
+00:05:26,640 --> 00:05:31,080
+<font color="#FFFF51">W Polsce obecnie możemy spotkać</font>
+<font color="#FFFF51">cztery gatunki borowików,</font>
+
+51
+00:05:31,240 --> 00:05:35,720
+<font color="#FFFF51">borowik szlachetny, usiatkowany,</font>
+<font color="#FFFF51">sosnowy i ciemnobrązowy,</font>
+
+52
+00:05:35,880 --> 00:05:39,120
+<font color="#FFFF51">a ten ostatni</font>
+<font color="#FFFF51">jest zagrożony wyginięciem</font>
+
+53
+00:05:39,280 --> 00:05:42,040
+<font color="#FFFF51">zarówno w Polsce, jak i w Europie.</font>
+
+54
+00:07:02,800 --> 00:07:06,320
+<font color="#FFFF51">Grzyby rozmnażają się</font>
+<font color="#FFFF51">za pomocą zarodników,</font>
+
+55
+00:07:06,480 --> 00:07:08,320
+<font color="#FFFF51">które rozsiewa wiatr.</font>
+
+56
+00:07:08,480 --> 00:07:11,120
+<font color="#FFFF51">Zarodniki grzybów są bardzo małe.</font>
+
+57
+00:07:11,280 --> 00:07:16,880
+<font color="#FFFF51">Na przykład zarodniki tego borowika</font>
+<font color="#FFFF51">mają średnicę około 10 mikrometrów,</font>
+
+58
+00:07:17,040 --> 00:07:22,400
+<font color="#FFFF51">a to oznacza, że gdybym je ułożył</font>
+<font color="#FFFF51">na odcinku milimetra obok siebie,</font>
+
+59
+00:07:22,560 --> 00:07:25,320
+<font color="#FFFF51">to zmieściłoby się ich tam aż sto.</font>
+
+60
+00:07:25,480 --> 00:07:28,800
+<font color="#FFFF51">Obserwowanie wysypu zarodników</font>
+<font color="#FFFF51">jest proste.</font>
+
+61
+00:07:28,960 --> 00:07:34,240
+<font color="#FFFF51">Wystarczy mieć kartkę papieru,</font>
+<font color="#FFFF51">położyć ją na płaskiej powierzchni,</font>
+
+62
+00:07:34,400 --> 00:07:37,360
+<font color="#FFFF51">będzie potrzebny</font>
+<font color="#FFFF51">jeszcze duży grzyb,</font>
+
+63
+00:07:37,520 --> 00:07:42,040
+<font color="#FFFF51">sam kapelusz,</font>
+<font color="#FFFF51">ogonek zupełnie nie jest potrzebny.</font>
+
+64
+00:07:42,200 --> 00:07:46,760
+<font color="#FFFF51">Grzyb wystarczy położyć na kartce,</font>
+<font color="#FFFF51">poczekać kilka godzin,</font>
+
+65
+00:07:46,920 --> 00:07:49,920
+<font color="#FFFF51">a zarodniki wysypią się</font>
+<font color="#FFFF51">pod kapeluszem.</font>
+
+66
+00:08:11,400 --> 00:08:16,240
+<font color="aqua">W Polsce rośnie 3300 gatunków</font>
+<font color="aqua">grzybów wielkoowocnikowych,</font>
+
+67
+00:08:16,400 --> 00:08:20,320
+<font color="aqua">z czego aż 91 procent</font>
+<font color="aqua">związane jest z lasami.</font>
+
+68
+00:08:20,480 --> 00:08:23,960
+<font color="aqua">200 gatunków</font>
+<font color="aqua">jest dla człowieka trujących,</font>
+
+69
+00:08:24,120 --> 00:08:25,920
+<font color="aqua">kilka śmiertelnie.</font>
+
+70
+00:08:26,080 --> 00:08:29,280
+<font color="aqua">1300 gatunków grzybów jest jadalne,</font>
+
+71
+00:08:29,440 --> 00:08:34,960
+<font color="aqua">tylko 47 jest dopuszczone do użytku</font>
+<font color="aqua">przez Ministerstwo Zdrowia.</font>
+
+72
+00:09:05,400 --> 00:09:07,280
+<font color="#FFFF51">Borowik szlachetny</font>
+
+73
+00:09:07,440 --> 00:09:11,440
+<font color="#FFFF51">tworzy skomplikowane relacje</font>
+<font color="#FFFF51">z korzeniami drzew.</font>
+
+74
+00:09:11,600 --> 00:09:14,880
+<font color="#FFFF51">Opisujemy to zjawisko</font>
+<font color="#FFFF51">jako mikoryzę.</font>
+
+75
+00:09:15,040 --> 00:09:17,760
+<font color="#FFFF51">Często konkretny gatunek grzyba</font>
+
+76
+00:09:17,920 --> 00:09:21,320
+<font color="#FFFF51">wiąże się</font>
+<font color="#FFFF51">z konkretnym gatunkiem drzewa,</font>
+
+77
+00:09:21,480 --> 00:09:23,880
+<font color="#FFFF51">nawet oddalonego o 300 metrów.</font>
+
+78
+00:09:24,040 --> 00:09:26,960
+<font color="#FFFF51">Doskonałym przykładem</font>
+<font color="#FFFF51">może być maślak,</font>
+
+79
+00:09:27,120 --> 00:09:31,760
+<font color="#FFFF51">ponieważ wiąże się wyłącznie</font>
+<font color="#FFFF51">z korzeniami drzew iglastych,</font>
+
+80
+00:09:31,920 --> 00:09:33,520
+<font color="#FFFF51">i to dwuigłowych,</font>
+
+81
+00:09:33,680 --> 00:09:36,400
+<font color="#FFFF51">na przykład sosny i kosodrzewiny.</font>
+
+82
+00:09:36,560 --> 00:09:41,000
+<font color="#FFFF51">Koźlarz pomarańczowożółty</font>
+<font color="#FFFF51">wyłącznie z korzeniami brzozy,</font>
+
+83
+00:09:41,160 --> 00:09:45,160
+<font color="#FFFF51">a koźlarz czerwony</font>
+<font color="#FFFF51">wyłącznie z korzeniami osiki,</font>
+
+84
+00:09:45,320 --> 00:09:50,040
+<font color="#FFFF51">więc jak mamy wątpliwość,</font>
+<font color="#FFFF51">jakiego znaleźliśmy koźlarza,</font>
+
+85
+00:09:50,200 --> 00:09:52,160
+<font color="#FFFF51">wystarczy się rozejrzeć.</font>
+
+86
+00:09:52,320 --> 00:09:56,160
+<font color="#FFFF51">Jeśli jest brzoza,</font>
+<font color="#FFFF51">to koźlarz pomarańczowożółty.</font>
+
+87
+00:10:08,160 --> 00:10:11,080
+<font color="aqua">Świerk pospolity</font>
+<font color="aqua">odgrywa kluczową rolę</font>
+
+88
+00:10:11,240 --> 00:10:14,360
+<font color="aqua">w rozwoju grzybni</font>
+<font color="aqua">borowika szlachetnego.</font>
+
+89
+00:10:14,520 --> 00:10:18,920
+<font color="aqua">Ścisła współpraca przynosi korzyści</font>
+<font color="aqua">grzybom i drzewom.</font>
+
+90
+00:10:59,720 --> 00:11:03,080
+<font color="#FFFF51">Borowik</font>
+<font color="#FFFF51">wchodzi w symbiozę ze świerkiem,</font>
+
+91
+00:11:03,240 --> 00:11:08,000
+<font color="#FFFF51">tylko w wyjątkowych okolicznościach</font>
+<font color="#FFFF51">z drzewami liściastymi.</font>
+
+92
+00:11:10,960 --> 00:11:14,760
+<font color="#FFFF51">Grzyby otrzymują od roślin</font>
+<font color="#FFFF51">związki organiczne,</font>
+
+93
+00:11:14,920 --> 00:11:19,840
+<font color="#FFFF51">bo same nie fotosyntetyzują,</font>
+<font color="#FFFF51">a rośliny robią to doskonale.</font>
+
+94
+00:11:20,000 --> 00:11:22,200
+<font color="#FFFF51">Ale ładny podgrzybek.</font>
+
+95
+00:11:23,440 --> 00:11:28,080
+<font color="#FFFF51">Grzyby dają roślinom</font>
+<font color="#FFFF51">związki mineralne,</font>
+
+96
+00:11:28,240 --> 00:11:31,480
+<font color="#FFFF51">najczęściej związki</font>
+<font color="#FFFF51">fosforowe i azotowe.</font>
+
+97
+00:11:31,640 --> 00:11:35,960
+<font color="#FFFF51">Grzyby dostarczają roślinom</font>
+<font color="#FFFF51">także mikroelementy</font>
+
+98
+00:11:36,120 --> 00:11:38,040
+<font color="#FFFF51">takie jak cynk i miedź,</font>
+
+99
+00:11:38,200 --> 00:11:40,240
+<font color="#FFFF51">a nawet hormony roślinne.</font>
+
+100
+00:11:40,400 --> 00:11:43,680
+<font color="#FFFF51">Rośliny,</font>
+<font color="#FFFF51">które współpracują z grzybami,</font>
+
+101
+00:11:43,840 --> 00:11:46,480
+<font color="#FFFF51">dużo lepiej radzą sobie z suszą.</font>
+
+102
+00:11:50,120 --> 00:11:53,400
+<font color="#FFFF51">Relacja grzyb-roślina</font>
+<font color="#FFFF51">może być tak silna,</font>
+
+103
+00:11:53,560 --> 00:11:58,280
+<font color="#FFFF51">że niektóre rośliny bez grzybni</font>
+<font color="#FFFF51">nie są w stanie wykiełkować,</font>
+
+104
+00:11:58,440 --> 00:12:00,840
+<font color="#FFFF51">na przykład storczyki i wrzosy.</font>
+
+105
+00:12:12,000 --> 00:12:14,720
+<font color="#FFFF51">Świerk to bardzo żywotne drzewo.</font>
+
+106
+00:12:14,880 --> 00:12:17,840
+<font color="#FFFF51">Najstarszy świerk rośnie w Szwecji</font>
+
+107
+00:12:18,000 --> 00:12:23,160
+<font color="#FFFF51">i naukowcy szacują,</font>
+<font color="#FFFF51">że ma aż, uwaga, 9,5 tysiąca lat.</font>
+
+108
+00:12:23,320 --> 00:12:28,360
+<font color="#FFFF51">Wykiełkował z nasiona wtedy,</font>
+<font color="#FFFF51">kiedy wyginęły na Ziemi mamuty.</font>
+
+109
+00:12:28,520 --> 00:12:30,480
+<font color="#FFFF51">Oznacza to także to,</font>
+
+110
+00:12:30,640 --> 00:12:35,080
+<font color="#FFFF51">że jest dużo starszy</font>
+<font color="#FFFF51">niż jakakolwiek ludzka cywilizacja.</font>
+
+111
+00:12:35,240 --> 00:12:40,160
+<font color="#FFFF51">Polskie świerki nie są tak sędziwe,</font>
+<font color="#FFFF51">ale najstarszy ma 350 lat,</font>
+
+112
+00:12:40,320 --> 00:12:45,360
+<font color="#FFFF51">a to oznacza, że pamięta panowanie</font>
+<font color="#FFFF51">króla Jana III Sobieskiego.</font>
+
+113
+00:12:49,000 --> 00:12:51,560
+<font color="#FFFF51">Świerk jest podatny na wywroty.</font>
+
+114
+00:12:51,720 --> 00:12:55,720
+<font color="#FFFF51">Silny wiatr albo obfite opady</font>
+<font color="#FFFF51">deszczu czy śniegu</font>
+
+115
+00:12:55,880 --> 00:12:58,600
+<font color="#FFFF51">są w stanie powalić całe drzewo.</font>
+
+116
+00:12:58,760 --> 00:13:03,560
+<font color="#FFFF51">Spowodowane jest to tym,</font>
+<font color="#FFFF51">że ma płytki system korzeniowy.</font>
+
+117
+00:13:03,720 --> 00:13:06,280
+<font color="#FFFF51">Jest to jego pięta achillesowa.</font>
+
+118
+00:13:06,440 --> 00:13:09,800
+<font color="#FFFF51">System korzeniowy</font>
+<font color="#FFFF51">jest silnie rozgałęziony,</font>
+
+119
+00:13:09,960 --> 00:13:11,760
+<font color="#FFFF51">ale nie sięga głęboko,</font>
+
+120
+00:13:11,920 --> 00:13:16,440
+<font color="#FFFF51">więc nie może dostać się do wody</font>
+<font color="#FFFF51">znajdującej się głębiej.</font>
+
+121
+00:13:16,600 --> 00:13:20,200
+<font color="#FFFF51">Jak nastaje susza,</font>
+<font color="#FFFF51">świerk ma poważny problem.</font>
+
+122
+00:13:22,720 --> 00:13:27,880
+<font color="aqua">Borowik szlachetny tworzy</font>
+<font color="aqua">z muchomorem skomplikowane relacje,</font>
+
+123
+00:13:28,040 --> 00:13:30,760
+<font color="aqua">w których odgrywa dominującą rolę.</font>
+
+124
+00:13:30,920 --> 00:13:35,040
+<font color="aqua">Muchomor czerwieniejący</font>
+<font color="aqua">rośnie w lasach liściastych,</font>
+
+125
+00:13:35,200 --> 00:13:37,280
+<font color="aqua">a twardawy - w iglastych.</font>
+
+126
+00:13:54,920 --> 00:13:58,920
+<font color="#FFFF51">Borowik potrzebuje</font>
+<font color="#FFFF51">sprzymierzeńca poza świerkiem</font>
+
+127
+00:13:59,080 --> 00:14:00,880
+<font color="#FFFF51">i jest nim muchomor.</font>
+
+128
+00:14:01,040 --> 00:14:06,440
+<font color="#FFFF51">W Polsce związał się z muchomorami</font>
+<font color="#FFFF51">czerwieniejącym i twardawym.</font>
+
+129
+00:14:06,600 --> 00:14:11,320
+<font color="#FFFF51">Jeśli grzybnia muchomora</font>
+<font color="#FFFF51">ma kontakt z grzybnią borowika,</font>
+
+130
+00:14:11,480 --> 00:14:15,520
+<font color="#FFFF51">w lesie jest</font>
+<font color="#FFFF51">dużo więcej owocników borowika.</font>
+
+131
+00:14:15,680 --> 00:14:19,000
+<font color="#FFFF51">Jeśli chcemy mieć</font>
+<font color="#FFFF51">pełne koszyki grzybów,</font>
+
+132
+00:14:19,160 --> 00:14:23,720
+<font color="#FFFF51">powinnyśmy takie muchomory</font>
+<font color="#FFFF51">zostawiać bezpieczne w lesie,</font>
+
+133
+00:14:23,880 --> 00:14:29,120
+<font color="#FFFF51">dlatego że rozsiewają zarodniki,</font>
+<font color="#FFFF51">z których będzie więcej grzybni,</font>
+
+134
+00:14:29,280 --> 00:14:32,200
+<font color="#FFFF51">a w konsekwencji</font>
+<font color="#FFFF51">owocników borowika.</font>
+
+135
+00:14:50,360 --> 00:14:54,160
+<font color="#FFFF51">Ten muchomor czerwieniejący</font>
+<font color="#FFFF51">jest jadalny</font>
+
+136
+00:14:54,320 --> 00:14:59,320
+<font color="#FFFF51">i możemy go zabrać do domu</font>
+<font color="#FFFF51">i przyrządzić jak każdego grzyba,</font>
+
+137
+00:14:59,480 --> 00:15:03,880
+<font color="#FFFF51">ale wszyscy przestrzegają</font>
+<font color="#FFFF51">przed zbieraniem muchomorów.</font>
+
+138
+00:15:04,040 --> 00:15:07,480
+<font color="#FFFF51">Po pierwsze nie smakują</font>
+<font color="#FFFF51">szczególnie dobrze,</font>
+
+139
+00:15:07,640 --> 00:15:11,800
+<font color="#FFFF51">a po drugie przypominają</font>
+<font color="#FFFF51">te niebezpieczne muchomory,</font>
+
+140
+00:15:11,960 --> 00:15:14,640
+<font color="#FFFF51">które mogą doprowadzić do śmierci.</font>
+
+141
+00:15:14,800 --> 00:15:16,800
+<font color="#FFFF51">Nie zbierajmy muchomorów.</font>
+
+142
+00:15:16,960 --> 00:15:20,920
+<font color="#FFFF51">Niech zostaną w lesie</font>
+<font color="#FFFF51">i niech wspomagają borowiki.</font>
+
+143
+00:15:21,080 --> 00:15:25,200
+<font color="#FFFF51">Tu nie ma wątpliwości,</font>
+<font color="#FFFF51">są smaczne i każdy je lubi.</font>
+
+144
+00:15:27,600 --> 00:15:32,040
+<font color="aqua">Borowik usiatkowany</font>
+<font color="aqua">to najbliższy krewny szlachetnego.</font>
+
+145
+00:15:32,200 --> 00:15:34,600
+<font color="aqua">Są do siebie bardzo podobne.</font>
+
+146
+00:15:34,760 --> 00:15:39,360
+<font color="aqua">Przy nabraniu doświadczenia</font>
+<font color="aqua">można je od siebie odróżnić.</font>
+
+147
+00:15:54,760 --> 00:15:59,680
+<font color="#FFFF51">Borowik usiatkowany tworzy mikoryzę</font>
+<font color="#FFFF51">z drzewami liściastymi,</font>
+
+148
+00:15:59,840 --> 00:16:02,840
+<font color="#FFFF51">na przykład z grabami</font>
+<font color="#FFFF51">albo z dębami.</font>
+
+149
+00:16:03,000 --> 00:16:06,600
+<font color="#FFFF51">To środowisko</font>
+<font color="#FFFF51">wydaje się być dla niego idealne,</font>
+
+150
+00:16:06,760 --> 00:16:10,160
+<font color="#FFFF51">więc jeśli znajdziemy</font>
+<font color="#FFFF51">w takim lesie borowika,</font>
+
+151
+00:16:10,320 --> 00:16:13,760
+<font color="#FFFF51">będzie to prawdopodobnie</font>
+<font color="#FFFF51">borowik usiatkowany.</font>
+
+152
+00:16:13,920 --> 00:16:18,800
+<font color="#FFFF51">Przy określeniu gatunku</font>
+<font color="#FFFF51">warto kierować się cechami wyglądu.</font>
+
+153
+00:16:18,960 --> 00:16:24,800
+<font color="#FFFF51">To one pozwolą rozpoznać borowika</font>
+<font color="#FFFF51">usiatkowanego i szlachetnego.</font>
+
+154
+00:16:24,960 --> 00:16:28,120
+<font color="#FFFF51">O, a ty idziesz ze mną.</font>
+
+155
+00:16:33,120 --> 00:16:37,120
+<font color="aqua">Borowik szlachetny</font>
+<font color="aqua">ma kapelusz gładki i błyszczący,</font>
+
+156
+00:16:37,280 --> 00:16:39,400
+<font color="aqua">a po deszczu odrobinę lepki.</font>
+
+157
+00:16:39,560 --> 00:16:42,880
+<font color="aqua">Borowik usiatkowany</font>
+<font color="aqua">ma kapelusz zamszowaty,</font>
+
+158
+00:16:43,040 --> 00:16:45,440
+<font color="aqua">a u starych owocników popękany.</font>
+
+159
+00:16:45,600 --> 00:16:49,880
+<font color="aqua">Trzon borowika szlachetnego</font>
+<font color="aqua">jest ciemniejszy na górze,</font>
+
+160
+00:16:50,040 --> 00:16:53,680
+<font color="aqua">a powyżej połowy wysokości</font>
+<font color="aqua">- pokryty siateczką.</font>
+
+161
+00:16:53,840 --> 00:16:57,200
+<font color="aqua">Borowik usiatkowany</font>
+<font color="aqua">ma trzon jasnobrązowy</font>
+
+162
+00:16:57,360 --> 00:17:00,720
+<font color="aqua">z grubą siateczką</font>
+<font color="aqua">pokrywającą cały trzon.</font>
+
+163
+00:17:00,880 --> 00:17:04,440
+<font color="aqua">Borowik usiatkowany</font>
+<font color="aqua">jest często zaczerwiony,</font>
+
+164
+00:17:04,600 --> 00:17:09,240
+<font color="aqua">borowik szlachetny jest</font>
+<font color="aqua">bardziej odporny na larwy owadów.</font>
+
+165
+00:17:28,520 --> 00:17:34,320
+<font color="aqua">Goryczak żółciowy jest niejadalny</font>
+<font color="aqua">i przypomina borowika szlachetnego.</font>
+
+166
+00:17:34,480 --> 00:17:37,040
+<font color="aqua">Nie tworzy mikoryzy z drzewami.</font>
+
+167
+00:17:37,200 --> 00:17:41,560
+<font color="aqua">Rośnie w próchnicy leśnej</font>
+<font color="aqua">lub na spróchniałym drewnie.</font>
+
+168
+00:17:52,880 --> 00:17:57,480
+<font color="#FFFF51">Goryczak jest bardzo podobny</font>
+<font color="#FFFF51">do borowika szlachetnego</font>
+
+169
+00:17:57,640 --> 00:18:00,080
+<font color="#FFFF51">i łatwo te dwa gatunki pomylić.</font>
+
+170
+00:18:00,240 --> 00:18:02,160
+<font color="#FFFF51">Goryczak jest gorzki</font>
+
+171
+00:18:02,320 --> 00:18:05,920
+<font color="#FFFF51">- dodanie go do potrawy</font>
+<font color="#FFFF51">niszczy jej smak.</font>
+
+172
+00:18:07,320 --> 00:18:13,360
+<font color="#FFFF51">Goryczak ma bladoróżowe rurki,</font>
+<font color="#FFFF51">które są poduszkowato-wypukłe,</font>
+
+173
+00:18:13,520 --> 00:18:16,280
+<font color="#FFFF51">szczególnie u dojrzałych owocników.</font>
+
+174
+00:18:16,440 --> 00:18:19,240
+<font color="#FFFF51">Wtedy z daleka widać,</font>
+<font color="#FFFF51">że to goryczak.</font>
+
+175
+00:18:19,400 --> 00:18:22,040
+<font color="#FFFF51">Wysyp zarodników ma bladoróżowy,</font>
+
+176
+00:18:22,200 --> 00:18:26,200
+<font color="#FFFF51">a borowik szlachetny</font>
+<font color="#FFFF51">oliwkowobrązowy albo brązowy.</font>
+
+177
+00:18:27,400 --> 00:18:30,080
+<font color="aqua">Grzybami żywią się liczne ssaki.</font>
+
+178
+00:18:30,240 --> 00:18:32,440
+<font color="aqua">Wśród nich jest wiewiórka,</font>
+
+179
+00:18:32,600 --> 00:18:35,680
+<font color="aqua">która na jesieni</font>
+<font color="aqua">opuszcza korony drzew</font>
+
+180
+00:18:35,840 --> 00:18:39,360
+<font color="aqua">i schodzi na ziemię</font>
+<font color="aqua">w poszukiwaniu grzybów.</font>
+
+181
+00:18:41,040 --> 00:18:44,480
+<font color="#FFFF51">Nie tylko ludzie</font>
+<font color="#FFFF51">interesują się borowikami.</font>
+
+182
+00:18:44,640 --> 00:18:48,040
+<font color="#FFFF51">Doskonałym przykładem</font>
+<font color="#FFFF51">może być wiewiórka,</font>
+
+183
+00:18:48,200 --> 00:18:50,640
+<font color="#FFFF51">która tu skacze po gałęziach.</font>
+
+184
+00:18:50,800 --> 00:18:53,760
+<font color="#FFFF51">Na jesieni zjada</font>
+<font color="#FFFF51">duże ilości grzybów,</font>
+
+185
+00:18:53,920 --> 00:18:57,960
+<font color="#FFFF51">które mogą konkurować</font>
+<font color="#FFFF51">z nasionami drzew iglastych.</font>
+
+186
+00:18:58,120 --> 00:19:03,000
+<font color="#FFFF51">Do nasion trudno się dostać,</font>
+<font color="#FFFF51">bo znajdują się na czubku drzewa.</font>
+
+187
+00:19:03,160 --> 00:19:06,760
+<font color="#FFFF51">Grzyby mają ścianę zbudowaną</font>
+<font color="#FFFF51">z polisacharydów,</font>
+
+188
+00:19:06,920 --> 00:19:10,800
+<font color="#FFFF51">w związku z tym wiewiórka</font>
+<font color="#FFFF51">jest w stanie je strawić</font>
+
+189
+00:19:10,960 --> 00:19:13,480
+<font color="#FFFF51">w przeciwieństwie do celulozy</font>
+
+190
+00:19:13,640 --> 00:19:18,120
+<font color="#FFFF51">- ona jest zupełnie niestrawna</font>
+<font color="#FFFF51">dla wiewiórki.</font>
+
+191
+00:20:03,360 --> 00:20:07,000
+<font color="#FFFF51">Wysuszone grzyby</font>
+<font color="#FFFF51">zawierają 30 procent białka.</font>
+
+192
+00:20:07,160 --> 00:20:10,640
+<font color="#FFFF51">Jak są świeże,</font>
+<font color="#FFFF51">jest w nich mnóstwo wody.</font>
+
+193
+00:20:10,800 --> 00:20:13,600
+<font color="#FFFF51">Może to być 80-90 procent,</font>
+
+194
+00:20:13,760 --> 00:20:17,880
+<font color="#FFFF51">a to zależy od tego,</font>
+<font color="#FFFF51">czy padało, czy była susza.</font>
+
+195
+00:20:18,040 --> 00:20:22,640
+<font color="#FFFF51">W grzybach jest dużo fosforu,</font>
+<font color="#FFFF51">azotu, magnezu i wapnia.</font>
+
+196
+00:20:22,800 --> 00:20:28,480
+<font color="#FFFF51">Wiewiórka jest w stanie zjeść</font>
+<font color="#FFFF51">w ciągu doby 100 gramów grzybów.</font>
+
+197
+00:20:28,640 --> 00:20:31,480
+<font color="#FFFF51">Ale ile to jest 100 gramów grzybów?</font>
+
+198
+00:20:31,640 --> 00:20:35,200
+<font color="#FFFF51">Dobrym przykładem</font>
+<font color="#FFFF51">może być ten podgrzybek,</font>
+
+199
+00:20:35,360 --> 00:20:40,080
+<font color="#FFFF51">ponieważ jest na tyle dorodny</font>
+<font color="#FFFF51">- ale dobrze jest wrośnięty -</font>
+
+200
+00:20:40,240 --> 00:20:43,280
+<font color="#FFFF51">że wystarczyłby</font>
+<font color="#FFFF51">dla jednej wiewiórki.</font>
+
+201
+00:20:43,440 --> 00:20:45,240
+<font color="#FFFF51">Niestety ma ona pecha,</font>
+
+202
+00:20:45,400 --> 00:20:49,600
+<font color="#FFFF51">dlatego że byłem tu pierwszy</font>
+<font color="#FFFF51">i zamierzam go zabrać.</font>
+
+203
+00:21:01,400 --> 00:21:03,600
+<font color="#FFFF51">Bardzo wielu ludzi uważa,</font>
+
+204
+00:21:03,760 --> 00:21:07,040
+<font color="#FFFF51">że grzyby nie mają</font>
+<font color="#FFFF51">składników odżywczych.</font>
+
+205
+00:21:07,200 --> 00:21:11,960
+<font color="#FFFF51">To nieprawda. Dostarczają nam</font>
+<font color="#FFFF51">na przykład mnóstwo witamin.</font>
+
+206
+00:21:12,120 --> 00:21:18,120
+<font color="#FFFF51">100 gramów grzybów, czyli ilość,</font>
+<font color="#FFFF51">jaką zamierzam przygotować,</font>
+
+207
+00:21:18,280 --> 00:21:23,000
+<font color="#FFFF51">zaspokoi w 70 procentach</font>
+<font color="#FFFF51">zapotrzebowanie na witaminę B9,</font>
+
+208
+00:21:23,160 --> 00:21:25,000
+<font color="#FFFF51">czyli na kwas foliowy.</font>
+
+209
+00:21:25,160 --> 00:21:26,960
+<font color="#FFFF51">To nie wszystko,</font>
+
+210
+00:21:27,120 --> 00:21:32,280
+<font color="#FFFF51">w 50 procentach na witaminę B5</font>
+<font color="#FFFF51">i w 40 procentach na witaminę B3.</font>
+
+211
+00:21:32,440 --> 00:21:34,240
+<font color="#FFFF51">To nadal nie wszystko,</font>
+
+212
+00:21:34,400 --> 00:21:38,520
+<font color="#FFFF51">ponieważ zaspokoją także</font>
+<font color="#FFFF51">moje dobowe zapotrzebowanie</font>
+
+213
+00:21:38,680 --> 00:21:41,200
+<font color="#FFFF51">w 50 procentach na cynk i miedź.</font>
+
+214
+00:21:41,360 --> 00:21:43,840
+<font color="#FFFF51">Zatem nic, tylko jeść grzyby.</font>
+
+215
+00:21:44,000 --> 00:21:46,760
+<font color="#FFFF51">Najpierw trzeba je przyrządzić,</font>
+
+216
+00:21:46,920 --> 00:21:51,480
+<font color="#FFFF51">a na ognisku przyrządzić grzyby</font>
+<font color="#FFFF51">- to jest dopiero coś.</font>
+
+217
+00:21:54,000 --> 00:21:56,960
+<font color="aqua">Grzybolubkowate</font>
+<font color="aqua">związały swój rozwój</font>
+
+218
+00:21:57,120 --> 00:22:00,560
+<font color="aqua">z borowikami, pieczarkami</font>
+<font color="aqua">oraz gołąbkami.</font>
+
+219
+00:22:00,720 --> 00:22:02,920
+<font color="aqua">Uzależniły się od grzybów,</font>
+
+220
+00:22:03,080 --> 00:22:07,280
+<font color="aqua">które są im niezbędne</font>
+<font color="aqua">do prawidłowego rozwoju larw.</font>
+
+221
+00:22:09,960 --> 00:22:14,160
+<font color="#FFFF51">Prawdopodobnie z założenia</font>
+<font color="#FFFF51">"nic, tylko jeść grzyby"</font>
+
+222
+00:22:14,320 --> 00:22:18,080
+<font color="#FFFF51">wychodzą owady,</font>
+<font color="#FFFF51">które składają jaja na grzybach.</font>
+
+223
+00:22:18,240 --> 00:22:22,160
+<font color="#FFFF51">Larwa wygryza sobie korytarze</font>
+<font color="#FFFF51">do wnętrza owocnika,</font>
+
+224
+00:22:22,320 --> 00:22:24,600
+<font color="#FFFF51">gdzie intensywnie żeruje.</font>
+
+225
+00:22:24,760 --> 00:22:27,600
+<font color="#FFFF51">Doprowadza do zaczerwienia grzyba,</font>
+
+226
+00:22:27,760 --> 00:22:31,680
+<font color="#FFFF51">a my mówimy o takim grzybie,</font>
+<font color="#FFFF51">że jest robaczywy.</font>
+
+227
+00:22:31,840 --> 00:22:36,440
+<font color="#FFFF51">Dorosłe latające owady</font>
+<font color="#FFFF51">możemy obserwować przy grzybach,</font>
+
+228
+00:22:36,600 --> 00:22:39,840
+<font color="#FFFF51">ale także</font>
+<font color="#FFFF51">przy rozkładającym się drewnie.</font>
+
+229
+00:22:40,000 --> 00:22:42,520
+<font color="#FFFF51">W dziwny sposób je przyciąga.</font>
+
+230
+00:22:42,680 --> 00:22:46,000
+<font color="#FFFF51">Wydaje się,</font>
+<font color="#FFFF51">że to miejsce będzie idealne</font>
+
+231
+00:22:46,160 --> 00:22:51,080
+<font color="#FFFF51">- jest rozkładające się drewno</font>
+<font color="#FFFF51">i są liczne drobne grzyby.</font>
+
+232
+00:23:10,040 --> 00:23:14,960
+<font color="#FFFF51">Rozpoznanie gatunków owadów</font>
+<font color="#FFFF51">żywiących się owocnikami grzybów</font>
+
+233
+00:23:15,120 --> 00:23:17,000
+<font color="#FFFF51">jest bardzo trudne,</font>
+
+234
+00:23:17,160 --> 00:23:19,720
+<font color="#FFFF51">bo w jednym owocniku borowika</font>
+
+235
+00:23:19,880 --> 00:23:23,320
+<font color="#FFFF51">może żyć bardzo wiele gatunków</font>
+<font color="#FFFF51">obok siebie.</font>
+
+236
+00:23:23,480 --> 00:23:29,080
+<font color="#FFFF51">Jak larwy zjedzą to, co mają zjeść,</font>
+<font color="#FFFF51">przeobrażają się w dorosłego owada.</font>
+
+237
+00:23:29,240 --> 00:23:31,360
+<font color="#FFFF51">On wyglądem przypomina nieco</font>
+
+238
+00:23:31,520 --> 00:23:34,920
+<font color="#FFFF51">zgarbionego komara</font>
+<font color="#FFFF51">z długimi nogami,</font>
+
+239
+00:23:35,080 --> 00:23:39,360
+<font color="#FFFF51">ale na szczęście</font>
+<font color="#FFFF51">nie żywią się te owady naszą krwią.</font>
+
+240
+00:24:00,280 --> 00:24:03,720
+<font color="#FFFF51">Grzyby odgrywają</font>
+<font color="#FFFF51">ważną rolę w środowisku,</font>
+
+241
+00:24:03,880 --> 00:24:08,200
+<font color="#FFFF51">współpracują z licznymi gatunkami</font>
+<font color="#FFFF51">roślin i zwierząt</font>
+
+242
+00:24:08,360 --> 00:24:10,560
+<font color="#FFFF51">i są bardzo smaczne.</font>
+
+243
+00:24:10,720 --> 00:24:15,680
+<font color="#FFFF51">Ale zbierajcie tylko te grzyby,</font>
+<font color="#FFFF51">co do których jesteście pewni.</font>
+
+244
+00:24:15,840 --> 00:24:20,600
+<font color="#FFFF51">Z mojego doświadczenia wynika,</font>
+<font color="#FFFF51">że grzybami zatruwają się ci,</font>
+
+245
+00:24:20,760 --> 00:24:23,360
+<font color="#FFFF51">którym wydaje się, że się znają.</font>
+
+246
+00:24:23,520 --> 00:24:26,000
+<font color="#FFFF51">Pomylą sromotnika z pieczarką,</font>
+
+247
+00:24:26,160 --> 00:24:30,720
+<font color="#FFFF51">a wystarczy, że mało muchomora</font>
+<font color="#FFFF51">wyląduje w tej potrawie</font>
+
+248
+00:24:30,880 --> 00:24:32,960
+<font color="#FFFF51">i dochodzi do zatrucia.</font>
+
+249
+00:24:33,120 --> 00:24:37,680
+<font color="#FFFF51">Przeszczep wątroby, śmierć</font>
+<font color="#FFFF51">- takie mogą być konsekwencje.</font>
+
+250
+00:24:37,840 --> 00:24:41,800
+<font color="#FFFF51">Zbierajcie grzyby,</font>
+<font color="#FFFF51">co do których jesteście pewni,</font>
+
+251
+00:24:41,960 --> 00:24:44,480
+<font color="#FFFF51">a pozostałe zostawcie w lesie.</font>
+
+252
+00:24:44,640 --> 00:24:48,560
+<font color="#FFFF51">Niech współpracują</font>
+<font color="#FFFF51">ze zwierzętami i z roślinami.</font>
+
+253
+00:24:52,040 --> 00:24:54,880
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+254
+00:24:55,040 --> 00:24:58,560
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+255
+00:25:10,000 --> 00:25:11,920
+
+

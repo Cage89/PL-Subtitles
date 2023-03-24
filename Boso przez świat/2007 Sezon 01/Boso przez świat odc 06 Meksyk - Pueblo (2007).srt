@@ -1,0 +1,695 @@
+1
+00:01:06,440 --> 00:01:08,480
+<font backgroundcolor="#000000"> Oto pueblo. </font>
+
+2
+00:01:08,800 --> 00:01:13,280
+<font backgroundcolor="#000000"> Ani to wieś, ani miasteczko. </font>
+<font backgroundcolor="#000000"> Połączenie obu. </font>
+
+3
+00:01:13,520 --> 00:01:18,280
+<font backgroundcolor="#000000"> Każda hacjenda ma swoje pueblo. </font>
+<font backgroundcolor="#000000"> Jedno lub kilka. </font>
+
+4
+00:01:18,800 --> 00:01:23,480
+<font backgroundcolor="#000000"> Tak wygląda życie w Meksyku </font>
+<font backgroundcolor="#000000"> poza wielkimi miastami. </font>
+
+5
+00:01:23,680 --> 00:01:28,840
+<font backgroundcolor="#000000"> Na hacjendzie mieszka patron, </font>
+<font backgroundcolor="#000000"> który zarządza latyfundium. </font>
+
+6
+00:01:29,000 --> 00:01:31,840
+<font backgroundcolor="#000000"> A w pueblu mieszkają campesinos. </font>
+
+7
+00:01:32,000 --> 00:01:36,280
+<font backgroundcolor="#000000"> Campesino to połączenie </font>
+<font backgroundcolor="#000000"> rolnika z robotnikiem. </font>
+
+8
+00:01:36,440 --> 00:01:41,000
+<font backgroundcolor="#000000"> Ma trochę ziemi i mieszka </font>
+<font backgroundcolor="#000000"> w pueblu lub niedaleko. </font>
+
+9
+00:01:41,240 --> 00:01:48,040
+<font backgroundcolor="#000000"> Przed południem obrabia swoją ziemię, </font>
+<font backgroundcolor="#000000"> potem idzie do hacjendy. </font>
+
+10
+00:01:49,360 --> 00:01:52,400
+<font backgroundcolor="#000000"> Pueblo zaczyna się od kościoła. </font>
+
+11
+00:01:52,600 --> 00:01:58,600
+<font backgroundcolor="#000000"> Budują kościół. Naprzeciw - budynki </font>
+<font backgroundcolor="#000000"> rządowe lub jakichś bogaczy. </font>
+
+12
+00:01:59,280 --> 00:02:02,440
+<font backgroundcolor="#000000"> Wyznaczany jest plac centralny. </font>
+
+13
+00:02:02,640 --> 00:02:09,600
+<font backgroundcolor="#000000"> Od niego odchodzą ulice i 100-metrowe </font>
+<font backgroundcolor="#000000"> parcele - jeśli to budowali Hiszpanie. </font>
+
+14
+00:02:09,960 --> 00:02:12,920
+<font backgroundcolor="#000000"> To jest serce każdego puebla. </font>
+
+15
+00:02:17,240 --> 00:02:23,800
+<font backgroundcolor="#000000"> Dookoła tego terenu do trzech razy </font>
+<font backgroundcolor="#000000"> w tygodniu odbywa się targ. </font>
+
+16
+00:02:25,000 --> 00:02:30,280
+<font backgroundcolor="#000000"> Zjeżdżają się okoliczni mieszkańcy, </font>
+<font backgroundcolor="#000000"> biedniejsi i bogaci. </font>
+
+17
+00:02:35,880 --> 00:02:40,480
+<font backgroundcolor="#000000"> Handluje się tak, </font>
+<font backgroundcolor="#000000"> jak na polskiej wsi przed wojną. </font>
+
+18
+00:02:40,960 --> 00:02:47,680
+<font backgroundcolor="#000000"> Sprzedaje się kury, świnie, krowy </font>
+<font backgroundcolor="#000000"> kupuje zaś to, co jest tylko w pueblu. </font>
+
+19
+00:02:47,960 --> 00:02:53,480
+<font backgroundcolor="#000000"> Nikt nie jeździ do miast. </font>
+<font backgroundcolor="#000000"> W pueblu są rzemieślnicy. </font>
+
+20
+00:02:54,040 --> 00:02:59,120
+<font backgroundcolor="#000000"> Jeden robi buty, drugi ma guziki, </font>
+<font backgroundcolor="#000000"> inny piecze tortille. </font>
+
+21
+00:02:59,760 --> 00:03:06,360
+<font backgroundcolor="#000000"> Na tym obrazie widać jakąś fiestę. </font>
+<font backgroundcolor="#000000"> Są mężczyźni na koniach, w autach. </font>
+
+22
+00:03:08,680 --> 00:03:11,240
+<font backgroundcolor="#000000"> Girlandy nad głowami. </font>
+
+23
+00:03:12,760 --> 00:03:16,840
+<font backgroundcolor="#000000"> W czasie fiesty </font>
+<font backgroundcolor="#000000"> objeżdża się całe pueblo. </font>
+
+24
+00:03:21,680 --> 00:03:27,560
+<font backgroundcolor="#000000"> Z okazji tej fiesty, jak widać, </font>
+<font backgroundcolor="#000000"> przybyło też wesołe miasteczko. </font>
+
+25
+00:03:28,200 --> 00:03:32,480
+<font backgroundcolor="#000000"> Oto dodatek XIX-wieczny, </font>
+<font backgroundcolor="#000000"> którego ja nie lubię. </font>
+
+26
+00:03:33,080 --> 00:03:40,040
+<font backgroundcolor="#000000"> Przywożono do Meksyku metalowe </font>
+<font backgroundcolor="#000000"> konstrukcje, które skręcano </font>
+<font backgroundcolor="#000000"> na środku puebla. </font>
+
+27
+00:03:41,920 --> 00:03:47,240
+<font backgroundcolor="#000000"> Nazywają to kioskiem. </font>
+<font backgroundcolor="#000000"> Nie wiadomo, po co tu stoi. </font>
+
+28
+00:03:47,480 --> 00:03:53,440
+<font backgroundcolor="#000000"> Raz na rok odbywa się koncert </font>
+<font backgroundcolor="#000000"> lub przemówienie burmistrza. </font>
+
+29
+00:03:53,640 --> 00:03:57,480
+<font backgroundcolor="#000000"> A poza tym wchodzą tam ludzie </font>
+<font backgroundcolor="#000000"> i wychodzą. </font>
+
+30
+00:04:16,960 --> 00:04:19,040
+<font backgroundcolor="#000000"> Dzień dobry. </font>
+
+31
+00:04:20,600 --> 00:04:22,640
+<font backgroundcolor="#000000"> Typowy dom w pueblu. </font>
+
+32
+00:04:22,800 --> 00:04:28,040
+<font backgroundcolor="#000000"> Na ścianach zdjęcia. Te starsze </font>
+<font backgroundcolor="#000000"> to monidła, jak w Polsce. </font>
+
+33
+00:04:28,320 --> 00:04:33,560
+<font backgroundcolor="#000000"> Jak w Polsce papież Jan Paweł II. </font>
+<font backgroundcolor="#000000"> Tylko architektura inna. </font>
+
+34
+00:04:33,800 --> 00:04:37,440
+<font backgroundcolor="#000000"> Dom w pueblu przypomina </font>
+<font backgroundcolor="#000000"> dom na hacjendzie. </font>
+
+35
+00:04:37,640 --> 00:04:43,160
+<font backgroundcolor="#000000"> Na środku patio, dookoła tradycyjny </font>
+<font backgroundcolor="#000000"> bałagan, trochę polski... </font>
+
+36
+00:04:43,920 --> 00:04:50,640
+<font backgroundcolor="#000000"> Mieszka tu duża rodzina, jak u nas </font>
+<font backgroundcolor="#000000"> przed wojną, od dziadków do prawnuków. </font>
+
+37
+00:05:08,120 --> 00:05:14,600
+<font backgroundcolor="#000000"> Rynek w pueblu ożywa nie tylko </font>
+<font backgroundcolor="#000000"> podczas targów, ale i w czasie fiest. </font>
+
+38
+00:05:14,880 --> 00:05:21,400
+<font backgroundcolor="#000000"> Dzień powszedni, a tu mamy quincenę, </font>
+<font backgroundcolor="#000000"> czyli 15. urodziny jakiejś panny. </font>
+
+39
+00:05:22,320 --> 00:05:28,200
+<font backgroundcolor="#000000"> Kończy się msza. Za chwilę zagrają </font>
+<font backgroundcolor="#000000"> mariachi, prawie jak na ślubie. </font>
+
+40
+00:05:28,400 --> 00:05:31,880
+<font backgroundcolor="#000000"> To bardzo ważny dzień </font>
+<font backgroundcolor="#000000"> w życiu dziewczyny. </font>
+
+41
+00:05:32,040 --> 00:05:36,760
+<font backgroundcolor="#000000"> Bo ślubów można mieć kilka, </font>
+<font backgroundcolor="#000000"> a 15. urodziny są jedne. </font>
+
+42
+00:05:36,960 --> 00:05:41,400
+<font backgroundcolor="#000000"> Od tego dnia mówi się </font>
+<font backgroundcolor="#000000"> do dziewczyny "seniorita". </font>
+
+43
+00:05:41,960 --> 00:05:48,120
+<font backgroundcolor="#000000"> Od dziś może zajść w ciążę i nikt </font>
+<font backgroundcolor="#000000"> się nie obrazi, bo przecież dorosła. </font>
+
+44
+00:05:48,360 --> 00:05:53,960
+<font backgroundcolor="#000000"> Od dziś może wyjść za mąż. </font>
+<font backgroundcolor="#000000"> Tak jak u nas osiemnastolatka. </font>
+
+45
+00:05:58,840 --> 00:06:01,640
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> MUZYKA I ŚPIEW </font></font>
+
+46
+00:08:15,320 --> 00:08:17,360
+<font backgroundcolor="#000000"> Dobry wieczór. </font>
+
+47
+00:08:30,600 --> 00:08:33,880
+<font backgroundcolor="#000000"> Mąka i proszek do pieczenia. </font>
+
+48
+00:08:38,960 --> 00:08:41,760
+<font backgroundcolor="#000000"> Teraz woda, mleko. </font>
+
+49
+00:08:45,080 --> 00:08:47,760
+<font backgroundcolor="#000000"> To musi się nagrzać w oleju. </font>
+
+50
+00:08:48,040 --> 00:08:52,560
+<font backgroundcolor="#000000"> Nie wolno dotykać dna miski, </font>
+<font backgroundcolor="#000000"> bo się przypali. </font>
+
+51
+00:08:54,360 --> 00:08:56,440
+<font backgroundcolor="#000000"> Siedem sekund. </font>
+
+52
+00:09:00,360 --> 00:09:03,000
+<font backgroundcolor="#000000"> Potem zanurzyć w cukrze. </font>
+
+53
+00:09:05,440 --> 00:09:09,840
+<font backgroundcolor="#000000"> I do buzi dzieci, </font>
+<font backgroundcolor="#000000"> które tu czekają. </font>
+
+54
+00:09:13,960 --> 00:09:17,360
+<font backgroundcolor="#000000"> Proszę, za 20 peset jest nasze. </font>
+
+55
+00:09:24,240 --> 00:09:28,320
+<font backgroundcolor="#000000"> To coś w rodzaju racuchów. </font>
+
+56
+00:09:30,120 --> 00:09:35,760
+<font backgroundcolor="#000000"> Nie wiem, czemu nazywają się </font>
+<font backgroundcolor="#000000"> bimbuniuelos. Ale to ładnie brzmi. </font>
+
+57
+00:09:43,120 --> 00:09:45,920
+<font backgroundcolor="#000000"> Gotowe, tylko trochę gorące. </font>
+
+58
+00:09:46,160 --> 00:09:49,400
+<font backgroundcolor="#000000"> Muszę oddać, bo przypali mi palec. </font>
+
+59
+00:10:05,000 --> 00:10:10,800
+<font backgroundcolor="#000000"> My jesteśmy z Polski. </font>
+<font backgroundcolor="#000000"> Proszę mówić po polsku lub hiszpańsku. </font>
+
+60
+00:10:18,600 --> 00:10:23,440
+<font backgroundcolor="#000000"> Brakowało mu nie tylko piątej, </font>
+<font backgroundcolor="#000000"> czwartej chyba też... </font>
+
+61
+00:10:24,040 --> 00:10:29,880
+<font backgroundcolor="#000000"> Ale i tak szczęśliwy człowiek. </font>
+<font backgroundcolor="#000000"> W Meksyku nie opuszcza się ich. </font>
+
+62
+00:10:30,960 --> 00:10:36,440
+<font backgroundcolor="#000000"> Jeśli w pueblu wiedzą, </font>
+<font backgroundcolor="#000000"> że człowiek jest trochę szalony... </font>
+
+63
+00:10:36,680 --> 00:10:40,560
+<font backgroundcolor="#000000"> ... to ludzie mu dadzą </font>
+<font backgroundcolor="#000000"> jakąś odzież, obiad. </font>
+
+64
+00:10:40,800 --> 00:10:45,760
+<font backgroundcolor="#000000"> Wieś, mimo że biedna, </font>
+<font backgroundcolor="#000000"> opiekuje się innymi biedakami. </font>
+
+65
+00:10:54,800 --> 00:10:59,800
+<font backgroundcolor="#000000"> Dzień dobry. Możemy filmować? </font>
+<font backgroundcolor="#000000"> Dla Telewizji Polskiej. </font>
+
+66
+00:11:02,320 --> 00:11:08,160
+<font backgroundcolor="#000000"> Typowy campesino z puebla. </font>
+<font backgroundcolor="#000000"> Podobny z oczu do mojego dziadka. </font>
+
+67
+00:11:08,440 --> 00:11:10,440
+<font backgroundcolor="#000000"> Ile ma pan lat? </font>
+
+68
+00:11:14,680 --> 00:11:18,840
+<font backgroundcolor="#000000"> 76 lat skończył </font>
+<font backgroundcolor="#000000"> w Dniu Wszystkich Świętych. </font>
+
+69
+00:11:19,120 --> 00:11:23,280
+<font backgroundcolor="#000000"> To dla Meksykanina </font>
+<font backgroundcolor="#000000"> dobry dzień na urodziny. </font>
+
+70
+00:11:23,560 --> 00:11:28,560
+<font backgroundcolor="#000000"> Meksykanie mają inny stosunek </font>
+<font backgroundcolor="#000000"> do tego święta. Wesoły. </font>
+
+71
+00:11:33,880 --> 00:11:41,000
+<font backgroundcolor="#000000"> Mówi "ej" - to jest </font>
+<font backgroundcolor="#000000"> mocne potwierdzenie, podobne </font>
+<font backgroundcolor="#000000"> do naszego góralskiego "hej". </font>
+
+72
+00:11:41,240 --> 00:11:43,760
+<font backgroundcolor="#000000"> Jechał konno, wracał z pola. </font>
+
+73
+00:11:44,040 --> 00:11:48,120
+<font backgroundcolor="#000000"> Nie wszystkie słowa znam, </font>
+<font backgroundcolor="#000000"> niektóre są gwarowe. </font>
+
+74
+00:11:48,560 --> 00:11:55,280
+<font backgroundcolor="#000000"> I upadł na plecy. 76-letni pan. </font>
+<font backgroundcolor="#000000"> Powiedział: "Poboli i przestanie". </font>
+
+75
+00:12:00,440 --> 00:12:04,760
+<font backgroundcolor="#000000"> Pracuje na kawałku ziemi, </font>
+<font backgroundcolor="#000000"> 90 metrów na 16. </font>
+
+76
+00:12:05,760 --> 00:12:09,560
+<font backgroundcolor="#000000"> Wynajmuje się także </font>
+<font backgroundcolor="#000000"> jako robotnik rolny. </font>
+
+77
+00:12:10,240 --> 00:12:12,640
+<font backgroundcolor="#000000"> Typowy campesino. </font>
+
+78
+00:12:15,120 --> 00:12:17,320
+<font backgroundcolor="#000000"> Dziękuję bardzo. </font>
+
+79
+00:12:27,280 --> 00:12:31,680
+<font backgroundcolor="#000000"> Cmentarz w pueblu. </font>
+<font backgroundcolor="#000000"> Przypomina polski. </font>
+
+80
+00:12:33,280 --> 00:12:38,560
+<font backgroundcolor="#000000"> Tylko te wieńce z plastiku i papieru. </font>
+<font backgroundcolor="#000000"> Trochę brzydkie. </font>
+
+81
+00:12:40,160 --> 00:12:43,840
+<font backgroundcolor="#000000"> Ale prawdziwe kwiaty </font>
+<font backgroundcolor="#000000"> zwiędłyby tu szybko. </font>
+
+82
+00:12:45,760 --> 00:12:54,800
+<font backgroundcolor="#000000"> Widać, że marzeniem meksykańskiego </font>
+<font backgroundcolor="#000000"> chłopa nie jest klasyczny grób, </font>
+<font backgroundcolor="#000000"> taki jak w Polsce. </font>
+
+83
+00:12:55,320 --> 00:12:58,400
+<font backgroundcolor="#000000"> Oni wolą taki domek cmentarny. </font>
+
+84
+00:12:59,680 --> 00:13:04,680
+<font backgroundcolor="#000000"> Jak się taki dom ma, </font>
+<font backgroundcolor="#000000"> to jest gdzie robić fiestę. </font>
+
+85
+00:13:05,240 --> 00:13:09,240
+<font backgroundcolor="#000000"> Tu zmarłych czci się </font>
+<font backgroundcolor="#000000"> inaczej niż w Polsce. </font>
+
+86
+00:13:09,440 --> 00:13:13,840
+<font backgroundcolor="#000000"> Nie obchodzą tu Zaduszek </font>
+<font backgroundcolor="#000000"> i Dnia Wszystkich Świętych. </font>
+
+87
+00:13:14,080 --> 00:13:16,000
+<font backgroundcolor="#000000"> Mają Święto Zmarłych. </font>
+
+88
+00:13:16,200 --> 00:13:21,920
+<font backgroundcolor="#000000"> Przez dwa dni pije się, je i tańczy </font>
+<font backgroundcolor="#000000"> razem ze zmarłymi na cmentarzu. </font>
+
+89
+00:14:14,880 --> 00:14:19,440
+<font backgroundcolor="#000000"> Nie ma trawy, bo susza. </font>
+<font backgroundcolor="#000000"> Krowy dostają trzcinę cukrową. </font>
+
+90
+00:14:19,640 --> 00:14:24,200
+<font backgroundcolor="#000000"> Pytam, czy mleko słodkie. </font>
+<font backgroundcolor="#000000"> "Nie wiem, bo ja ser robię". </font>
+
+91
+00:14:26,320 --> 00:14:29,680
+<font backgroundcolor="#000000"> To jedzą krowy, gdy nie ma trawy. </font>
+
+92
+00:14:36,320 --> 00:14:38,560
+<font backgroundcolor="#000000"> Siodło drewniane. </font>
+
+93
+00:14:39,120 --> 00:14:43,360
+<font backgroundcolor="#000000"> Ludzie bogaci wykładają je skórą. </font>
+
+94
+00:14:47,520 --> 00:14:49,720
+<font backgroundcolor="#000000"> Każe mi wsiąść na osła. </font>
+
+95
+00:14:49,920 --> 00:14:54,160
+<font backgroundcolor="#000000"> Wcześniej mówił, </font>
+<font backgroundcolor="#000000"> że osioł go zrzucił i pogryzł. </font>
+
+96
+00:15:05,200 --> 00:15:07,280
+<font backgroundcolor="#000000"> Osioł na ośle. </font>
+
+97
+00:15:43,680 --> 00:15:45,680
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> MUCZENIE </font></font>
+
+98
+00:15:57,960 --> 00:16:00,160
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> MUCZENIE KROWY </font></font>
+
+99
+00:16:00,440 --> 00:16:03,080
+<font backgroundcolor="#000000"> Niewydojona inaczej muczy. </font>
+
+100
+00:16:04,480 --> 00:16:06,480
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> MUCZENIE </font></font>
+
+101
+00:16:09,280 --> 00:16:11,120
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> MUCZENIE KROWY </font></font>
+
+102
+00:16:11,480 --> 00:16:13,400
+<font backgroundcolor="#000000"> A wydojona? </font>
+
+103
+00:16:15,000 --> 00:16:16,840
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> MUCZENIE KROWY </font></font>
+
+104
+00:16:17,000 --> 00:16:19,360
+<font backgroundcolor="#000000"> Koleżanka się odezwała. </font>
+
+105
+00:16:25,640 --> 00:16:27,840
+<font backgroundcolor="#000000"> Chcecie mleka? </font>
+
+106
+00:16:38,920 --> 00:16:41,040
+<font backgroundcolor="#000000"> Spróbuję. </font>
+
+107
+00:16:48,800 --> 00:16:53,640
+<font backgroundcolor="#000000"> Proszę, jeszcze coś pamiętam </font>
+<font backgroundcolor="#000000"> z dzieciństwa. </font>
+
+108
+00:16:58,280 --> 00:17:04,520
+<font backgroundcolor="#000000"> Nikt w Ameryce Łacińskiej nie jest </font>
+<font backgroundcolor="#000000"> głodny, chyba że sam tego chce. </font>
+
+109
+00:17:04,760 --> 00:17:09,400
+<font backgroundcolor="#000000"> Gdy pójdzie ze wsi do miasta </font>
+<font backgroundcolor="#000000"> i mieszka pod mostem. </font>
+
+110
+00:17:10,280 --> 00:17:16,360
+<font backgroundcolor="#000000"> Tam czasami nie ma co jeść, </font>
+<font backgroundcolor="#000000"> ale w pueblu zawsze jest jedzenie. </font>
+
+111
+00:17:17,720 --> 00:17:21,920
+<font backgroundcolor="#000000"> Nawet poją mlekiem świnie, </font>
+<font backgroundcolor="#000000"> bo jest go za dużo. </font>
+
+112
+00:17:51,560 --> 00:17:57,440
+<font backgroundcolor="#000000"> Pole calebazy. Calebaza to dynia, </font>
+<font backgroundcolor="#000000"> kabaczki i inne podobne. </font>
+
+113
+00:17:59,720 --> 00:18:02,200
+<font backgroundcolor="#000000"> Te rośliny pochodzą stąd. </font>
+
+114
+00:18:04,600 --> 00:18:10,760
+<font backgroundcolor="#000000"> Je się także kwiaty, </font>
+<font backgroundcolor="#000000"> jeśli są na łodydze, nie na warzywie. </font>
+
+115
+00:18:15,840 --> 00:18:21,640
+<font backgroundcolor="#000000"> Takie kwiaty dodaje się </font>
+<font backgroundcolor="#000000"> do placka kukurydzianego z serem. </font>
+
+116
+00:18:35,320 --> 00:18:39,320
+<font backgroundcolor="#000000"> Mówią, że na wierzchu jest guma. </font>
+<font backgroundcolor="#000000"> Rzeczywiście. </font>
+
+117
+00:18:39,560 --> 00:18:43,800
+<font backgroundcolor="#000000"> Kiedy się umyje, </font>
+<font backgroundcolor="#000000"> ładniej wygląda na straganie. </font>
+
+118
+00:18:52,040 --> 00:18:57,120
+<font backgroundcolor="#000000"> Widać, że meksykański chłop </font>
+<font backgroundcolor="#000000"> radzi sobie po swojemu. </font>
+
+119
+00:18:57,960 --> 00:19:03,880
+<font backgroundcolor="#000000"> Wyłożone gazetami. Ale to już </font>
+<font backgroundcolor="#000000"> jest gospodarka przemysłowa. </font>
+
+120
+00:19:04,920 --> 00:19:10,480
+<font backgroundcolor="#000000"> Zwykły chłop zebrałby do kosza </font>
+<font backgroundcolor="#000000"> i zabrał do domu, by zjeść. </font>
+
+121
+00:19:10,840 --> 00:19:16,960
+<font backgroundcolor="#000000"> A ci panowie pracują </font>
+<font backgroundcolor="#000000"> u kogoś. Są wynajęci. </font>
+
+122
+00:19:52,160 --> 00:19:57,240
+<font backgroundcolor="#000000"> Czterema krzyżami wyznaczyli, </font>
+<font backgroundcolor="#000000"> gdzie się kończy pueblo. </font>
+
+123
+00:19:57,520 --> 00:20:00,440
+<font backgroundcolor="#000000"> Ale już wyszło poza te krzyże. </font>
+
+124
+00:20:05,040 --> 00:20:10,720
+<font backgroundcolor="#000000"> Mówi, że lubi dużo wypić. </font>
+<font backgroundcolor="#000000"> Czujemy się jak w polskiej wiosce. </font>
+
+125
+00:20:14,920 --> 00:20:17,680
+<font backgroundcolor="#000000"> Pan przyjechał z Kalifornii. </font>
+
+126
+00:20:24,560 --> 00:20:29,520
+<font backgroundcolor="#000000"> Zarabia w Kalifornii, </font>
+<font backgroundcolor="#000000"> a wydaje tu. Jest na wakacjach. </font>
+
+127
+00:20:31,640 --> 00:20:34,360
+<font backgroundcolor="#000000"> Jest kierowcą ciężarówki. </font>
+
+128
+00:20:40,000 --> 00:20:42,680
+<font backgroundcolor="#000000"> 11 miesięcy tam, jeden tu. </font>
+
+129
+00:21:08,800 --> 00:21:14,480
+<font backgroundcolor="#000000"> Tu kierowca tira zarabia </font>
+<font backgroundcolor="#000000"> 13 dolarów dziennie, a w USA 400. </font>
+
+130
+00:21:21,400 --> 00:21:26,920
+<font backgroundcolor="#000000"> Jeśli na granicy zbudują 10 murów, </font>
+<font backgroundcolor="#000000"> to i tak przejdą. </font>
+
+131
+00:21:46,560 --> 00:21:49,040
+<font backgroundcolor="#000000"> To są tacos. </font>
+
+132
+00:21:56,840 --> 00:22:00,120
+<font backgroundcolor="#000000"> To jest siekane mięso z kurczaka. </font>
+
+133
+00:22:05,360 --> 00:22:10,520
+<font backgroundcolor="#000000"> Dodano do niego pomidory, </font>
+<font backgroundcolor="#000000"> cebulę i ostrą paprykę. </font>
+
+134
+00:22:25,400 --> 00:22:31,960
+<font backgroundcolor="#000000"> Tu jest wiejski ser, czarna fasola </font>
+<font backgroundcolor="#000000"> i ziemniaki. I papryka. </font>
+
+135
+00:22:37,120 --> 00:22:40,520
+<font backgroundcolor="#000000"> Kupiłem jedną z serem i papryką. </font>
+
+136
+00:22:49,240 --> 00:22:51,400
+<font backgroundcolor="#000000"> Trzy pesety. </font>
+
+137
+00:22:57,360 --> 00:22:59,360
+<font backgroundcolor="#000000"> Pikantne. </font>
+
+138
+00:23:34,120 --> 00:23:37,480
+<font backgroundcolor="#000000"> Film o pueblu kończymy w piekarni. </font>
+
+139
+00:23:38,440 --> 00:23:43,440
+<font backgroundcolor="#000000"> Tu robi się chleb powszedni Meksykanów </font>
+<font backgroundcolor="#000000"> - tortillę. </font>
+
+140
+00:23:44,640 --> 00:23:50,240
+<font backgroundcolor="#000000"> To placek z kukurydzy. </font>
+<font backgroundcolor="#000000"> Dodaje się go do każdego posiłku. </font>
+
+141
+00:23:50,960 --> 00:23:57,320
+<font backgroundcolor="#000000"> Jeśli jakiś sczerstwieje, </font>
+<font backgroundcolor="#000000"> łamie się go i wrzuca do zupy. </font>
+
+142
+00:23:59,840 --> 00:24:03,000
+<font backgroundcolor="#000000"> Tortilla nie może się zmarnować. </font>
+
+143
+00:24:06,160 --> 00:24:10,560
+<font backgroundcolor="#000000"> Pueblo to samowystarczalny </font>
+<font backgroundcolor="#000000"> system gospodarczy. </font>
+
+144
+00:24:10,920 --> 00:24:14,520
+<font backgroundcolor="#000000"> Stąd jest za daleko </font>
+<font backgroundcolor="#000000"> do miasta - po zakupy. </font>
+
+145
+00:24:14,680 --> 00:24:21,600
+<font backgroundcolor="#000000"> Musi być tak, żeby wszystko, co </font>
+<font backgroundcolor="#000000"> potrzebne, można było dostać w pueblu. </font>
+
+146
+00:24:31,120 --> 00:24:34,640
+<font backgroundcolor="#000000"> Ładnie opakowany towar </font>
+<font backgroundcolor="#000000"> znajdzie nabywcę. </font>
+
+147
+00:24:34,920 --> 00:24:36,880
+<font backgroundcolor="#000000"> To miałem na myśli. </font>
+
+148
+00:24:41,640 --> 00:24:49,680
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH: </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+149
+00:24:49,840 --> 00:24:53,920
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+

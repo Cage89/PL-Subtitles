@@ -1,0 +1,989 @@
+1
+00:00:01,440 --> 00:00:08,280
+<font backgroundcolor="#000000"> Złoty medal na Festiwalu w Nowym Jorku </font>
+<font backgroundcolor="#000000"> za najlepszy program podróżniczy. </font>
+
+2
+00:00:44,080 --> 00:00:46,440
+<font backgroundcolor="#000000"> Siatka na moskity, </font>
+
+3
+00:00:47,080 --> 00:00:49,800
+<font backgroundcolor="#000000"> czyli moskitiera. </font>
+
+4
+00:00:50,040 --> 00:00:55,680
+<font backgroundcolor="#000000"> Czyli najbardziej skuteczny środek </font>
+<font backgroundcolor="#000000"> zabezpieczający przed malarią. </font>
+
+5
+00:00:55,840 --> 00:00:58,440
+<font backgroundcolor="#000000"> Szczepionki nie wynaleziono. </font>
+
+6
+00:00:58,600 --> 00:01:01,960
+<font backgroundcolor="#000000"> Wynaleziono opryski, dosyć skuteczne. </font>
+
+7
+00:01:02,120 --> 00:01:06,000
+<font backgroundcolor="#000000"> Jak się idzie do lasu, </font>
+<font backgroundcolor="#000000"> kilka godzin to działa. </font>
+
+8
+00:01:06,160 --> 00:01:10,400
+<font backgroundcolor="#000000"> Wynaleziono lekarstwa, </font>
+<font backgroundcolor="#000000"> jak już człowiek zachoruje. </font>
+
+9
+00:01:10,560 --> 00:01:16,120
+<font backgroundcolor="#000000"> Ale i tak choruje 500 milionów osób </font>
+<font backgroundcolor="#000000"> rocznie, a umierają 2 miliony. </font>
+
+10
+00:01:16,360 --> 00:01:21,240
+<font backgroundcolor="#000000"> Na żadną inną chorobę nie choruje </font>
+<font backgroundcolor="#000000"> i nie umiera tyle osób. </font>
+
+11
+00:01:21,400 --> 00:01:27,760
+<font backgroundcolor="#000000"> A na inne choroby wydajemy więcej </font>
+<font backgroundcolor="#000000"> pieniędzy, żeby mieć lepsze lekarstwa. </font>
+
+12
+00:01:28,040 --> 00:01:31,240
+<font backgroundcolor="#000000"> Dlaczego tyle osób umiera na malarię? </font>
+
+13
+00:01:31,400 --> 00:01:35,880
+<font backgroundcolor="#000000"> Taka prymitywna odpowiedź </font>
+<font backgroundcolor="#000000"> białego człowieka będzie: </font>
+
+14
+00:01:36,040 --> 00:01:42,200
+<font backgroundcolor="#000000"> "Bo oni tam lekarzy nie mają i trzeba </font>
+<font backgroundcolor="#000000"> zorganizować programy pomocowe. </font>
+
+15
+00:01:42,360 --> 00:01:46,120
+<font backgroundcolor="#000000"> Muszą tam jechać lekarze, </font>
+<font backgroundcolor="#000000"> trzeba edukować". </font>
+
+16
+00:01:46,280 --> 00:01:49,640
+<font backgroundcolor="#000000"> Wszędzie, gdzie są choroby, </font>
+<font backgroundcolor="#000000"> są lekarze. </font>
+
+17
+00:01:49,800 --> 00:01:53,920
+<font backgroundcolor="#000000"> To nie muszą być nasi </font>
+<font backgroundcolor="#000000"> biali lekarze po akademii. </font>
+
+18
+00:01:54,200 --> 00:01:57,640
+<font backgroundcolor="#000000"> Ale wszędzie, </font>
+<font backgroundcolor="#000000"> gdzie się pojawiała choroba, </font>
+
+19
+00:01:57,800 --> 00:02:03,800
+<font backgroundcolor="#000000"> pojawiał się ktoś, kto próbował </font>
+<font backgroundcolor="#000000"> chorobę leczyć. Szukał ziół, sposobów. </font>
+
+20
+00:02:03,960 --> 00:02:06,440
+<font backgroundcolor="#000000"> Znachor - znający chorobę. </font>
+
+21
+00:02:06,600 --> 00:02:12,760
+<font backgroundcolor="#000000"> Szaman - obłaskawiający chorobę </font>
+<font backgroundcolor="#000000"> czarami i wyciągający ją z człowieka. </font>
+
+22
+00:02:12,920 --> 00:02:18,160
+<font backgroundcolor="#000000"> Nie należy ich lekceważyć, </font>
+<font backgroundcolor="#000000"> dlatego że nie skończyli akademii. </font>
+
+23
+00:02:18,320 --> 00:02:20,360
+<font backgroundcolor="#000000"> Nasi lekarze też znają </font>
+
+24
+00:02:20,520 --> 00:02:24,320
+<font backgroundcolor="#000000"> wiele chorób </font>
+<font backgroundcolor="#000000"> nieuleczalnych i śmiertelnych. </font>
+
+25
+00:02:24,800 --> 00:02:28,120
+<font backgroundcolor="#000000"> To, że szaman </font>
+<font backgroundcolor="#000000"> nie umie czegoś wyleczyć, </font>
+
+26
+00:02:28,280 --> 00:02:31,160
+<font backgroundcolor="#000000"> nie znaczy, że nie umie leczyć. </font>
+
+27
+00:02:31,320 --> 00:02:36,200
+<font backgroundcolor="#000000"> Jak ja mówię "łojotokowe </font>
+<font backgroundcolor="#000000"> zapalenie skóry", dermatolog mówi: </font>
+
+28
+00:02:36,360 --> 00:02:38,840
+<font backgroundcolor="#000000"> "Nieuleczalne, nawracające". </font>
+
+29
+00:02:39,000 --> 00:02:44,720
+<font backgroundcolor="#000000"> A znachor w Ameryce Łacińskiej: </font>
+<font backgroundcolor="#000000"> "Panie, wetrzyj pan to raz i już". </font>
+
+30
+00:03:15,320 --> 00:03:19,160
+<font backgroundcolor="#000000"> Zapraszam na pięknie podany </font>
+<font backgroundcolor="#000000"> indiański posiłek. </font>
+
+31
+00:03:19,320 --> 00:03:23,560
+<font backgroundcolor="#000000"> Talerze zawsze z liścia, </font>
+<font backgroundcolor="#000000"> obrus z liścia bananowca. </font>
+
+32
+00:03:23,720 --> 00:03:28,040
+<font backgroundcolor="#000000"> Zawsze na obiad mamy to samo, </font>
+<font backgroundcolor="#000000"> tak samo jak państwo. </font>
+
+33
+00:03:28,200 --> 00:03:32,880
+<font backgroundcolor="#000000"> U państwa zawsze są kartofelki, </font>
+<font backgroundcolor="#000000"> coś do nich i surówka. </font>
+
+34
+00:03:33,040 --> 00:03:37,840
+<font backgroundcolor="#000000"> U nas też są kartofelki, </font>
+<font backgroundcolor="#000000"> tylko to jest juka albo maniok. </font>
+
+35
+00:03:38,000 --> 00:03:41,640
+<font backgroundcolor="#000000"> Oczywiście bez soli, </font>
+<font backgroundcolor="#000000"> bo skąd w dżungli sól. </font>
+
+36
+00:03:41,800 --> 00:03:46,000
+<font backgroundcolor="#000000"> Zamiast surówki jest inna juka, </font>
+<font backgroundcolor="#000000"> troszkę większa. </font>
+
+37
+00:03:46,160 --> 00:03:50,400
+<font backgroundcolor="#000000"> W smaku? Z zamkniętymi oczami </font>
+<font backgroundcolor="#000000"> nie do rozpoznania. </font>
+
+38
+00:03:50,560 --> 00:03:56,040
+<font backgroundcolor="#000000"> I jeszcze jedna surówka, </font>
+<font backgroundcolor="#000000"> a właściwie deser - banan pastewny. </font>
+
+39
+00:03:59,320 --> 00:04:01,640
+<font backgroundcolor="#000000"> Dostałem łopatkę. </font>
+
+40
+00:04:01,960 --> 00:04:07,440
+<font backgroundcolor="#000000"> Tak się zastanawiałem czyja </font>
+<font backgroundcolor="#000000"> i która to jest część ciała. </font>
+
+41
+00:04:09,160 --> 00:04:12,960
+<font backgroundcolor="#000000"> Patrzę, co jedzą dzieci, </font>
+<font backgroundcolor="#000000"> i jem to samo. </font>
+
+42
+00:04:14,000 --> 00:04:17,200
+<font backgroundcolor="#000000"> Ale tu wszystkie dzieci są chore. </font>
+
+43
+00:04:17,400 --> 00:04:22,600
+<font backgroundcolor="#000000"> -  Chyba twoje. Na co są chore? </font>
+<font backgroundcolor="#000000"> -  Na robaki. </font>
+
+44
+00:04:23,640 --> 00:04:30,520
+<font backgroundcolor="#000000"> Po przyjeździe szklanka wody kranówki </font>
+<font backgroundcolor="#000000"> w Warszawie na Dworcu Centralnym </font>
+
+45
+00:04:30,680 --> 00:04:32,680
+<font backgroundcolor="#000000"> i nie ma robaków. </font>
+
+46
+00:04:32,840 --> 00:04:37,160
+<font backgroundcolor="#000000"> Tak mi poradził pan doktor </font>
+<font backgroundcolor="#000000"> od chorób tropikalnych. </font>
+
+47
+00:04:48,240 --> 00:04:52,240
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> ROZMOWA PO HISZPAŃSKU </font></font>
+
+48
+00:05:16,400 --> 00:05:20,720
+<font backgroundcolor="#000000"> Proszę bardzo, </font>
+<font backgroundcolor="#000000"> zamiast łykać pigułkę paracetamolu, </font>
+
+49
+00:05:20,880 --> 00:05:23,280
+<font backgroundcolor="#000000"> biorą państwo coś takiego. </font>
+
+50
+00:05:23,440 --> 00:05:27,240
+<font backgroundcolor="#000000"> I chodzi właśnie o to, </font>
+<font backgroundcolor="#000000"> żeby rosło byle gdzie. </font>
+
+51
+00:05:27,480 --> 00:05:33,200
+<font backgroundcolor="#000000"> Bo jak do apteki jest za daleko, </font>
+<font backgroundcolor="#000000"> to człowiek nie dojdzie, bo chory. </font>
+
+52
+00:06:03,560 --> 00:06:09,200
+<font backgroundcolor="#000000"> Z tego trzeba oberżnąć dupkę. </font>
+<font backgroundcolor="#000000"> Działa świetnie na ucho. </font>
+
+53
+00:06:09,360 --> 00:06:14,400
+<font backgroundcolor="#000000"> Nie chodzi o to, żeby zatkać, </font>
+<font backgroundcolor="#000000"> tylko coś trzeba wygotować. </font>
+
+54
+00:06:14,560 --> 00:06:18,240
+<font backgroundcolor="#000000"> On tak może bardzo długo. </font>
+
+55
+00:06:18,520 --> 00:06:21,360
+<font backgroundcolor="#000000"> Tu nie ma lekarzy. </font>
+
+56
+00:06:21,520 --> 00:06:23,840
+<font backgroundcolor="#000000"> Szamani też poznikali. </font>
+
+57
+00:06:24,000 --> 00:06:30,760
+<font backgroundcolor="#000000"> Więc normalny chłop na roli swojej </font>
+<font backgroundcolor="#000000"> musi znać mnóstwo takich rozwiązań, </font>
+
+58
+00:06:30,920 --> 00:06:34,640
+<font backgroundcolor="#000000"> żeby obsłużyć mnóstwo takich dzieci. </font>
+
+59
+00:06:34,960 --> 00:06:37,360
+<font backgroundcolor="#000000"> Żeby mu nie chorowały. </font>
+
+60
+00:06:41,680 --> 00:06:45,960
+<font backgroundcolor="#000000"> A wiedza na temat </font>
+<font backgroundcolor="#000000"> medycyny wewnętrznej człowieka? </font>
+
+61
+00:06:46,120 --> 00:06:51,040
+<font backgroundcolor="#000000"> Jak tu boli... Nie wiemy, </font>
+<font backgroundcolor="#000000"> czy to wątroba, czy co innego. </font>
+
+62
+00:06:51,200 --> 00:06:56,000
+<font backgroundcolor="#000000"> Jak tu boli, to wtedy to. </font>
+<font backgroundcolor="#000000"> Jak tam boli, to tamto. </font>
+
+63
+00:06:56,280 --> 00:06:58,840
+<font backgroundcolor="#000000"> Tyle zostało z szamanizmu. </font>
+
+64
+00:06:59,000 --> 00:07:03,600
+<font backgroundcolor="#000000"> Szaman kroił ludzi, </font>
+<font backgroundcolor="#000000"> wiedział, co jest w środku. </font>
+
+65
+00:07:04,000 --> 00:07:08,680
+<font backgroundcolor="#000000"> A zostało z tego </font>
+<font backgroundcolor="#000000"> - tu boli, to tam urwać. </font>
+
+66
+00:07:21,600 --> 00:07:24,400
+<font backgroundcolor="#000000"> Nie robimy tak, jak w Europie, </font>
+
+67
+00:07:24,560 --> 00:07:28,400
+<font backgroundcolor="#000000"> że obieramy skórkę </font>
+<font backgroundcolor="#000000"> albo z włosów oskrobiemy. </font>
+
+68
+00:07:28,560 --> 00:07:32,960
+<font backgroundcolor="#000000"> Wszystko nadaje się do jedzenia. </font>
+<font backgroundcolor="#000000"> Szkoda wyrzucać. </font>
+
+69
+00:07:33,160 --> 00:07:37,680
+<font backgroundcolor="#000000"> I bardzo zdrowa dieta, </font>
+<font backgroundcolor="#000000"> bo mięsko też bez soli. </font>
+
+70
+00:07:42,120 --> 00:07:47,120
+<font backgroundcolor="#000000"> Lubię ostre, ale wystarczy mi </font>
+<font backgroundcolor="#000000"> ta połówka, którą zjadłem. </font>
+
+71
+00:07:47,280 --> 00:07:51,520
+<font backgroundcolor="#000000"> A potrafię zjeść </font>
+<font backgroundcolor="#000000"> cały słoik halapenios w Meksyku. </font>
+
+72
+00:07:51,680 --> 00:07:54,920
+<font backgroundcolor="#000000"> Lubię ostre, ale to jest wyjątkowe. </font>
+
+73
+00:07:55,080 --> 00:07:57,640
+<font backgroundcolor="#000000"> I oczywiście piecze dwa razy. </font>
+
+74
+00:07:58,160 --> 00:08:00,600
+<font backgroundcolor="#000000"> Jutro też. </font>
+
+75
+00:08:06,080 --> 00:08:10,240
+<font backgroundcolor="#000000"> Pan zgasi kamerę i coś zje. </font>
+<font backgroundcolor="#000000"> Naprawdę dobre. </font>
+
+76
+00:08:10,560 --> 00:08:13,200
+<font backgroundcolor="#000000"> Masz jakiś lepszy kawałek. </font>
+
+77
+00:08:13,360 --> 00:08:16,000
+<font backgroundcolor="#000000"> Bez soli ugotowane mięso. </font>
+
+78
+00:08:22,880 --> 00:08:26,720
+<font backgroundcolor="#000000"> Takie ma kwiatki </font>
+<font backgroundcolor="#000000"> - dzika amazońska bawełna. </font>
+
+79
+00:08:26,880 --> 00:08:29,480
+<font backgroundcolor="#000000"> Zrywa się takie śliweczki, </font>
+
+80
+00:08:29,680 --> 00:08:33,600
+<font backgroundcolor="#000000"> potem coś się z nimi robi, </font>
+<font backgroundcolor="#000000"> zaraz zobaczymy co, </font>
+
+81
+00:08:33,760 --> 00:08:39,040
+<font backgroundcolor="#000000"> i przechodzi to, co ma nasz pan </font>
+<font backgroundcolor="#000000"> operator, jak wypije chichę. </font>
+
+82
+00:08:39,200 --> 00:08:42,280
+<font backgroundcolor="#000000"> Wypił jedną i od trzech dni to ma. </font>
+
+83
+00:08:42,440 --> 00:08:46,840
+<font backgroundcolor="#000000"> Po wypiciu tego </font>
+<font backgroundcolor="#000000"> przez trzy dni nie będzie miał. </font>
+
+84
+00:08:56,280 --> 00:09:00,200
+<font backgroundcolor="#000000"> Człowiek ma poważne </font>
+<font backgroundcolor="#000000"> zatrucie pokarmowe </font>
+
+85
+00:09:00,360 --> 00:09:05,240
+<font backgroundcolor="#000000"> i leje się z niego to samo, </font>
+<font backgroundcolor="#000000"> co się wlało górą. </font>
+
+86
+00:09:05,400 --> 00:09:11,720
+<font backgroundcolor="#000000"> Trzeba zmieszać liść z tym oto owocem, </font>
+<font backgroundcolor="#000000"> wcześniej pokazaną bawełną </font>
+
+87
+00:09:11,880 --> 00:09:15,200
+<font backgroundcolor="#000000"> i jeszcze jednym składnikiem. </font>
+
+88
+00:09:15,360 --> 00:09:19,760
+<font backgroundcolor="#000000"> Jak się wszystko zmiesza </font>
+<font backgroundcolor="#000000"> i dokładnie zagotuje, </font>
+
+89
+00:09:19,920 --> 00:09:24,800
+<font backgroundcolor="#000000"> to kłopoty żołądka </font>
+<font backgroundcolor="#000000"> przechodzą panu jak ręką odjął. </font>
+
+90
+00:09:42,880 --> 00:09:48,000
+<font backgroundcolor="#000000"> Tu już nic nie ma, </font>
+<font backgroundcolor="#000000"> chyba że skóreczkę pan sobie życzy. </font>
+
+91
+00:09:48,440 --> 00:09:50,800
+<font backgroundcolor="#000000"> Nie, psom daję. </font>
+
+92
+00:09:54,400 --> 00:09:59,760
+<font backgroundcolor="#000000"> Psom pod stoły się rzuca </font>
+<font backgroundcolor="#000000"> resztki z pańskiego stołu. </font>
+
+93
+00:10:00,120 --> 00:10:03,480
+<font backgroundcolor="#000000"> Człowiek się od razu lepiej czuje. </font>
+
+94
+00:10:03,640 --> 00:10:06,440
+<font backgroundcolor="#000000"> Jak pan na włościach. </font>
+
+95
+00:10:07,760 --> 00:10:09,720
+<font backgroundcolor="#000000"> Pyszne nie jest, </font>
+
+96
+00:10:09,880 --> 00:10:14,720
+<font backgroundcolor="#000000"> ale zaleta takiej bezsolnej diety </font>
+<font backgroundcolor="#000000"> jest jeszcze taka, </font>
+
+97
+00:10:14,880 --> 00:10:20,240
+<font backgroundcolor="#000000"> że człowiek bardzo chudnie, </font>
+<font backgroundcolor="#000000"> bo ja na przykład już się najadłem. </font>
+
+98
+00:10:37,800 --> 00:10:41,600
+<font backgroundcolor="#000000"> Jego hiszpański </font>
+<font backgroundcolor="#000000"> jest bardzo słaby i kulawy. </font>
+
+99
+00:10:41,760 --> 00:10:48,960
+<font backgroundcolor="#000000"> Pięć lat temu zaczęli pisać książkę, </font>
+<font backgroundcolor="#000000"> żeby nie zapomnieć tego wszystkiego. </font>
+
+100
+00:10:49,240 --> 00:10:54,040
+<font backgroundcolor="#000000"> Myśleli, że może zarobią, </font>
+<font backgroundcolor="#000000"> może ktoś kupi tę książkę. </font>
+
+101
+00:10:54,200 --> 00:10:57,560
+<font backgroundcolor="#000000"> Na razie nic z tego, </font>
+<font backgroundcolor="#000000"> ale leczą się sami. </font>
+
+102
+00:10:57,720 --> 00:11:01,200
+<font backgroundcolor="#000000"> Sami Ashuarowie z własnej książki. </font>
+
+103
+00:11:22,880 --> 00:11:25,200
+<font backgroundcolor="#000000"> Bronchit. </font>
+
+104
+00:11:27,120 --> 00:11:29,920
+<font backgroundcolor="#000000"> Skupmy się na bronchicie. </font>
+
+105
+00:11:30,080 --> 00:11:33,400
+<font backgroundcolor="#000000"> Na jeden bronchit trzeba: </font>
+
+106
+00:11:33,640 --> 00:11:38,520
+<font backgroundcolor="#000000"> trzy listki, pięć listków, </font>
+<font backgroundcolor="#000000"> trzy listki, pięć listków, </font>
+
+107
+00:11:38,680 --> 00:11:43,760
+<font backgroundcolor="#000000"> korzenie, trzy listeczki </font>
+<font backgroundcolor="#000000"> i trzy garnki. </font>
+
+108
+00:11:45,280 --> 00:11:49,440
+<font backgroundcolor="#000000"> Czego nie wiem, </font>
+<font backgroundcolor="#000000"> ale w takich ilościach. </font>
+
+109
+00:11:49,600 --> 00:11:52,240
+<font backgroundcolor="#000000"> A potem dawka. </font>
+
+110
+00:11:52,400 --> 00:11:56,600
+<font backgroundcolor="#000000"> Sześć miesięcy </font>
+<font backgroundcolor="#000000"> po jednej łyżeczce co godzinę. </font>
+
+111
+00:11:56,760 --> 00:12:00,040
+<font backgroundcolor="#000000"> Sześć miesięcy </font>
+<font backgroundcolor="#000000"> trzeba przyjmować zioła, </font>
+
+112
+00:12:00,200 --> 00:12:05,720
+<font backgroundcolor="#000000"> żeby miały taki efekt jak u nas </font>
+<font backgroundcolor="#000000"> 14 pigułek, jedna dziennie. </font>
+
+113
+00:12:05,880 --> 00:12:11,520
+<font backgroundcolor="#000000"> Ale za to nie psują człowiekowi </font>
+<font backgroundcolor="#000000"> nic w środku jak nasze pigułki. </font>
+
+114
+00:12:36,360 --> 00:12:40,280
+<font backgroundcolor="#000000"> Kto wynalazł </font>
+<font backgroundcolor="#000000"> pierwsze lekarstwo na malarię? </font>
+
+115
+00:12:40,440 --> 00:12:42,360
+<font backgroundcolor="#000000"> Inkowie. </font>
+
+116
+00:12:42,520 --> 00:12:46,520
+<font backgroundcolor="#000000"> Naród, który podbiliśmy </font>
+<font backgroundcolor="#000000"> i mieliśmy w pogardzie. </font>
+
+117
+00:12:46,680 --> 00:12:50,040
+<font backgroundcolor="#000000"> Ale jednocześnie </font>
+<font backgroundcolor="#000000"> umieraliśmy na malarię. </font>
+
+118
+00:12:50,200 --> 00:12:56,680
+<font backgroundcolor="#000000"> Ten naród poszedł do lasu i dosłownie </font>
+<font backgroundcolor="#000000"> wynalazł drzewo, którego kora leczy. </font>
+
+119
+00:12:56,840 --> 00:13:02,480
+<font backgroundcolor="#000000"> Z tej kory robiliśmy chininę. </font>
+<font backgroundcolor="#000000"> Teraz produkujemy ją w laboratoriach. </font>
+
+120
+00:13:02,680 --> 00:13:07,840
+<font backgroundcolor="#000000"> Inkowie zajmowali się </font>
+<font backgroundcolor="#000000"> chirurgią wyższą i to setki lat temu. </font>
+
+121
+00:13:08,000 --> 00:13:11,280
+<font backgroundcolor="#000000"> Potrafili dokonywać </font>
+<font backgroundcolor="#000000"> trepanacji czaszki. </font>
+
+122
+00:13:11,440 --> 00:13:15,400
+<font backgroundcolor="#000000"> Wycinali fragmencik, </font>
+<font backgroundcolor="#000000"> otwierali, coś tam robili. </font>
+
+123
+00:13:15,760 --> 00:13:19,120
+<font backgroundcolor="#000000"> Z wykopalisk wiemy, </font>
+<font backgroundcolor="#000000"> że pacjent przeżył. </font>
+
+124
+00:13:19,680 --> 00:13:22,720
+<font backgroundcolor="#000000"> Bo wszystko się pięknie pozrastało. </font>
+
+125
+00:13:22,880 --> 00:13:28,120
+<font backgroundcolor="#000000"> Albo pacjent miał złotą płytkę </font>
+<font backgroundcolor="#000000"> wsadzoną, żeby zamknąć otwór. </font>
+
+126
+00:13:28,320 --> 00:13:34,680
+<font backgroundcolor="#000000"> Wiemy, że przeżył, bo są zrosty. </font>
+<font backgroundcolor="#000000"> Potrafimy ocenić, ile lat przeżył. </font>
+
+127
+00:13:34,880 --> 00:13:36,960
+<font backgroundcolor="#000000"> Tych czaszek jest wiele. </font>
+
+128
+00:13:37,120 --> 00:13:40,560
+<font backgroundcolor="#000000"> A więc to nie był </font>
+<font backgroundcolor="#000000"> jednorazowy eksperyment, </font>
+
+129
+00:13:40,720 --> 00:13:44,400
+<font backgroundcolor="#000000"> tylko leczenie, </font>
+<font backgroundcolor="#000000"> które kończyło się sukcesem. </font>
+
+130
+00:13:44,560 --> 00:13:48,720
+<font backgroundcolor="#000000"> Jakby się nie kończyło, </font>
+<font backgroundcolor="#000000"> to szamana by przepędzili. </font>
+
+131
+00:13:48,880 --> 00:13:54,640
+<font backgroundcolor="#000000"> Wiemy, jaką chorobę, między innymi, </font>
+<font backgroundcolor="#000000"> leczono w ten sposób - padaczkę. </font>
+
+132
+00:13:54,800 --> 00:13:59,080
+<font backgroundcolor="#000000"> Chorobę, z którą my </font>
+<font backgroundcolor="#000000"> nie dajemy sobie rady do dziś. </font>
+
+133
+00:13:59,240 --> 00:14:03,840
+<font backgroundcolor="#000000"> Stało się nieszczęście. </font>
+<font backgroundcolor="#000000"> Lekarze przepędzili znachorów. </font>
+
+134
+00:14:04,000 --> 00:14:10,880
+<font backgroundcolor="#000000"> A dzisiaj ci sami lekarze szukają </font>
+<font backgroundcolor="#000000"> znachorów, tych dawnych mikstur, </font>
+
+135
+00:14:11,040 --> 00:14:14,880
+<font backgroundcolor="#000000"> które ktoś kiedyś wymyślił </font>
+<font backgroundcolor="#000000"> i były skuteczne. </font>
+
+136
+00:14:15,040 --> 00:14:21,720
+<font backgroundcolor="#000000"> Lekarze przyjeżdżają też do Amazonii, </font>
+<font backgroundcolor="#000000"> szukają vilcacory lub innych lekarstw, </font>
+
+137
+00:14:21,880 --> 00:14:25,160
+<font backgroundcolor="#000000"> zanim znikną w niepamięci. </font>
+
+138
+00:14:29,400 --> 00:14:32,880
+<font backgroundcolor="#000000"> I jeszcze to. </font>
+<font backgroundcolor="#000000"> Zobaczmy, co to było. </font>
+
+139
+00:14:33,240 --> 00:14:39,200
+<font backgroundcolor="#000000"> Kwiatek taki mam w domu. </font>
+<font backgroundcolor="#000000"> To są kwiaty moich koszul. </font>
+
+140
+00:14:39,840 --> 00:14:44,080
+<font backgroundcolor="#000000"> On kiedyś był śliczny. </font>
+
+141
+00:14:45,200 --> 00:14:48,560
+<font backgroundcolor="#000000"> Tak wygląda przed zakwitnięciem. </font>
+
+142
+00:14:48,880 --> 00:14:52,800
+<font backgroundcolor="#000000"> Nie wiem, jak to się nazywa, </font>
+<font backgroundcolor="#000000"> pan też nie wie. </font>
+
+143
+00:14:52,960 --> 00:14:56,640
+<font backgroundcolor="#000000"> Tym bardziej, </font>
+<font backgroundcolor="#000000"> że jego hiszpański jest taki, </font>
+
+144
+00:14:56,800 --> 00:14:59,600
+<font backgroundcolor="#000000"> że rozumiem co czternaste słowo. </font>
+
+145
+00:14:59,760 --> 00:15:02,480
+<font backgroundcolor="#000000"> Zobaczymy, jak to się robi. </font>
+
+146
+00:16:18,760 --> 00:16:20,960
+<font backgroundcolor="#000000"> Puściło kolor. </font>
+
+147
+00:16:21,120 --> 00:16:26,600
+<font backgroundcolor="#000000"> I wystarczy, nie trzeba zegarka. </font>
+<font backgroundcolor="#000000"> Puściło kolor, znaczy jest okej. </font>
+
+148
+00:16:32,160 --> 00:16:34,200
+<font backgroundcolor="#000000"> Ziółko na gorąco. </font>
+
+149
+00:16:34,360 --> 00:16:40,560
+<font backgroundcolor="#000000"> Pan mówi, żeby przyjmować jedną </font>
+<font backgroundcolor="#000000"> łyżeczkę co minutę przez 25 minut. </font>
+
+150
+00:16:40,720 --> 00:16:45,880
+<font backgroundcolor="#000000"> Nie wiem, skąd te wyliczenia, </font>
+<font backgroundcolor="#000000"> pewnie robią to na oko. </font>
+
+151
+00:16:46,040 --> 00:16:49,960
+<font backgroundcolor="#000000"> W ciągu pół godziny </font>
+<font backgroundcolor="#000000"> zadziała i gorączka spada. </font>
+
+152
+00:16:50,120 --> 00:16:53,800
+<font backgroundcolor="#000000"> Musi być ten paracetamol </font>
+<font backgroundcolor="#000000"> bardzo stężony. </font>
+
+153
+00:17:16,280 --> 00:17:19,720
+<font backgroundcolor="#000000"> Tym razem nie chodziło o tę farbę, </font>
+
+154
+00:17:19,880 --> 00:17:23,640
+<font backgroundcolor="#000000"> o którą zwykle walczymy </font>
+<font backgroundcolor="#000000"> zbierając achiotę. </font>
+
+155
+00:17:24,160 --> 00:17:29,320
+<font backgroundcolor="#000000"> Tym razem chodziło o coś, </font>
+<font backgroundcolor="#000000"> co się kryje wewnątrz nasion. </font>
+
+156
+00:18:07,720 --> 00:18:11,280
+<font backgroundcolor="#000000"> Proste to nie było. </font>
+<font backgroundcolor="#000000"> Ja już nie pamiętam. </font>
+
+157
+00:18:11,440 --> 00:18:13,600
+<font backgroundcolor="#000000"> Kilka składników. </font>
+
+158
+00:18:13,760 --> 00:18:19,400
+<font backgroundcolor="#000000"> Musiałbym przejść tę procedurę </font>
+<font backgroundcolor="#000000"> trzy, cztery razy, żeby zapamiętać. </font>
+
+159
+00:18:19,560 --> 00:18:22,760
+<font backgroundcolor="#000000"> On zna takich procedur kilkadziesiąt. </font>
+
+160
+00:18:22,920 --> 00:18:28,560
+<font backgroundcolor="#000000"> I na końcu uzyskuje różne </font>
+<font backgroundcolor="#000000"> wywary, herbatki, napary... </font>
+
+161
+00:18:28,720 --> 00:18:31,720
+<font backgroundcolor="#000000"> Lekarstwa - mówiąc po naszemu. </font>
+
+162
+00:18:31,880 --> 00:18:34,400
+<font backgroundcolor="#000000"> To zielarstwo? Owszem. </font>
+
+163
+00:18:34,560 --> 00:18:37,840
+<font backgroundcolor="#000000"> Ziołolecznictwo? Można to tak nazwać. </font>
+
+164
+00:18:38,000 --> 00:18:42,080
+<font backgroundcolor="#000000"> Albo medycyna, </font>
+<font backgroundcolor="#000000"> tylko że nie tabletkowa. </font>
+
+165
+00:18:42,240 --> 00:18:49,800
+<font backgroundcolor="#000000"> Nasz pan doktor też się uczy </font>
+<font backgroundcolor="#000000"> i to wąskiego zakresu medycyny 6-7 lat </font>
+
+166
+00:18:49,960 --> 00:18:54,320
+<font backgroundcolor="#000000"> On uczył się już </font>
+<font backgroundcolor="#000000"> od dwudziestu i praktykował. </font>
+
+167
+00:18:58,040 --> 00:19:01,240
+<font backgroundcolor="#000000"> Ten pomaga na rozwolnienie dzieciom. </font>
+
+168
+00:19:01,400 --> 00:19:03,600
+<font backgroundcolor="#000000"> Po łyżeczce co minutę. </font>
+
+169
+00:19:03,760 --> 00:19:09,320
+<font backgroundcolor="#000000"> Dziecko przełknie, popłacze, zrobi, </font>
+<font backgroundcolor="#000000"> przełknie, popłacze, zrobi... </font>
+
+170
+00:19:09,480 --> 00:19:14,360
+<font backgroundcolor="#000000"> Po trzynastej łyżeczce już nie zrobi, </font>
+<font backgroundcolor="#000000"> popłacze i zaśnie. </font>
+
+171
+00:19:16,520 --> 00:19:21,760
+<font backgroundcolor="#000000"> A ty, biedaku, co jadłeś </font>
+<font backgroundcolor="#000000"> przez sześć tygodni na swojej łódce? </font>
+
+172
+00:19:21,920 --> 00:19:25,040
+<font backgroundcolor="#000000"> Ja mam tylko 12 rodzajów jedzenia. </font>
+
+173
+00:19:25,200 --> 00:19:31,680
+<font backgroundcolor="#000000"> Wołowina z ryżem, dorsz z ziemniakami, </font>
+<font backgroundcolor="#000000"> barszcz, pomidorowa... </font>
+
+174
+00:19:31,840 --> 00:19:34,760
+<font backgroundcolor="#000000"> Takie zwykłe proste jedzenie. </font>
+
+175
+00:19:35,800 --> 00:19:38,480
+<font backgroundcolor="#000000"> Tu masz jeszcze deser. </font>
+
+176
+00:19:38,640 --> 00:19:40,840
+<font backgroundcolor="#000000"> Mam, przyniosłem. </font>
+
+177
+00:19:50,560 --> 00:19:54,800
+<font backgroundcolor="#000000"> Ja cię jutro zaproszę na obiad. </font>
+
+178
+00:19:56,800 --> 00:19:59,480
+<font backgroundcolor="#000000"> Nie wiem, czy chcę. </font>
+
+179
+00:20:00,560 --> 00:20:03,040
+<font backgroundcolor="#000000"> Najwyżej nie zjesz. </font>
+
+180
+00:20:03,240 --> 00:20:06,360
+<font backgroundcolor="#000000"> Przyjdę w gości, kolega zaprasza. </font>
+
+181
+00:20:08,760 --> 00:20:13,520
+<font backgroundcolor="#000000"> Miałem o czym innym opowiadać, </font>
+<font backgroundcolor="#000000"> ale to mi się spodobało. </font>
+
+182
+00:20:13,680 --> 00:20:17,960
+<font backgroundcolor="#000000"> Nie wiem, czy to jest pułapka na ryby, </font>
+<font backgroundcolor="#000000"> czy co. </font>
+
+183
+00:20:18,120 --> 00:20:20,160
+<font backgroundcolor="#000000"> Ładna korona? </font>
+
+184
+00:20:20,320 --> 00:20:26,680
+<font backgroundcolor="#000000"> Od dziecka wszystko sobie na głowę </font>
+<font backgroundcolor="#000000"> wkładam, jak nie wiem, do czego służy. </font>
+
+185
+00:20:26,840 --> 00:20:31,880
+<font backgroundcolor="#000000"> Tych panów gryzą moskity. </font>
+<font backgroundcolor="#000000"> A mnie nie gryzą, bo sobie kupiłem. </font>
+
+186
+00:20:32,080 --> 00:20:37,840
+<font backgroundcolor="#000000"> Pokażemy do kamery ten środek. </font>
+<font backgroundcolor="#000000"> Państwo po azjatycku nie czytają. </font>
+
+187
+00:20:38,000 --> 00:20:40,360
+<font backgroundcolor="#000000"> Mnie zaciekawiło to - 95. </font>
+
+188
+00:20:40,520 --> 00:20:43,520
+<font backgroundcolor="#000000"> I szukam tutaj słowa "DID". </font>
+
+189
+00:20:43,800 --> 00:20:45,840
+<font backgroundcolor="#000000"> Jest. </font>
+
+190
+00:20:46,000 --> 00:20:52,000
+<font backgroundcolor="#000000"> 95% stężenia, jak jest "DID" - </font>
+<font backgroundcolor="#000000"> to jest doskonały środek na moskity. </font>
+
+191
+00:20:52,160 --> 00:20:54,480
+<font backgroundcolor="#000000"> Od lat nie miałem malarii. </font>
+
+192
+00:20:54,840 --> 00:20:58,520
+<font backgroundcolor="#000000"> Malaria występuje </font>
+<font backgroundcolor="#000000"> w czterech typach i zabija. </font>
+
+193
+00:20:58,680 --> 00:21:02,120
+<font backgroundcolor="#000000"> Polski lekarz </font>
+<font backgroundcolor="#000000"> może nie rozpoznać malarii. </font>
+
+194
+00:21:02,400 --> 00:21:05,240
+<font backgroundcolor="#000000"> Minęły cztery tygodnie od powrotu, </font>
+
+195
+00:21:05,400 --> 00:21:09,280
+<font backgroundcolor="#000000"> nie mówiliśmy lekarzowi, </font>
+<font backgroundcolor="#000000"> że byliśmy w tropiku. </font>
+
+196
+00:21:09,440 --> 00:21:14,560
+<font backgroundcolor="#000000"> Mamy objawy grypy, leczą nas na grypę, </font>
+<font backgroundcolor="#000000"> a potem jest za późno. </font>
+
+197
+00:21:14,720 --> 00:21:19,400
+<font backgroundcolor="#000000"> Do malarii dochodzi żółta febra, </font>
+<font backgroundcolor="#000000"> na którą się szczepimy. </font>
+
+198
+00:21:19,760 --> 00:21:24,240
+<font backgroundcolor="#000000"> Dwa typy denge, </font>
+<font backgroundcolor="#000000"> czyli potocznie gorączki krwotocznej. </font>
+
+199
+00:21:24,400 --> 00:21:27,120
+<font backgroundcolor="#000000"> Człowiek się poci własną krwią. </font>
+
+200
+00:21:27,360 --> 00:21:29,360
+<font backgroundcolor="#000000"> Potem jest za późno. </font>
+
+201
+00:21:29,520 --> 00:21:34,960
+<font backgroundcolor="#000000"> Poza tymi chorobami moskity </font>
+<font backgroundcolor="#000000"> roznoszą jeszcze całą masę innych. </font>
+
+202
+00:21:35,280 --> 00:21:37,760
+<font backgroundcolor="#000000"> Zamiast ładować pieniądze </font>
+
+203
+00:21:37,920 --> 00:21:41,840
+<font backgroundcolor="#000000"> w sentymentalny </font>
+<font backgroundcolor="#000000"> program ratowania pandy. </font>
+
+204
+00:21:42,000 --> 00:21:46,120
+<font backgroundcolor="#000000"> Panda ładna, </font>
+<font backgroundcolor="#000000"> ale nie ma szansy w przyrodzie. </font>
+
+205
+00:21:46,280 --> 00:21:52,600
+<font backgroundcolor="#000000"> Zamiast ładować pieniądze </font>
+<font backgroundcolor="#000000"> w ochronę żubra, który nie ma szansy. </font>
+
+206
+00:21:52,760 --> 00:21:58,280
+<font backgroundcolor="#000000"> Władowałbym całą kasę w trzebienie </font>
+<font backgroundcolor="#000000"> moskitów na całym świecie. </font>
+
+207
+00:21:58,440 --> 00:22:01,440
+<font backgroundcolor="#000000"> Żeby nie umierały 2 miliony ludzi. </font>
+
+208
+00:22:01,600 --> 00:22:04,680
+<font backgroundcolor="#000000"> W przypadku czarnej ospy udało się. </font>
+
+209
+00:22:04,840 --> 00:22:09,040
+<font backgroundcolor="#000000"> I kosztowało tylko tyle, </font>
+<font backgroundcolor="#000000"> ile jeden myśliwiec F-16. </font>
+
+210
+00:22:51,480 --> 00:22:57,120
+<font backgroundcolor="#000000"> To na podłodze za mną, </font>
+<font backgroundcolor="#000000"> to nie jest to, co państwo myślą. </font>
+
+211
+00:22:57,280 --> 00:23:00,360
+<font backgroundcolor="#000000"> Kompocik mi się rozlał. </font>
+
+212
+00:23:03,120 --> 00:23:11,560
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH: </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+213
+00:23:14,880 --> 00:23:19,520
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepność </font>
+

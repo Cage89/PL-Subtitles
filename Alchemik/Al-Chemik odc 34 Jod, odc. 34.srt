@@ -1,0 +1,954 @@
+1
+00:00:00,280 --> 00:00:03,600
+<font color="#8080FF">BARTŁOMIEJ IMITUJE BITOWE DŹWIĘKI</font>
+
+2
+00:00:03,760 --> 00:00:05,560
+<font color="aqua">Jestem E!</font>
+
+3
+00:00:07,040 --> 00:00:09,200
+<font color="aqua">Jesteśmy E!</font>
+
+4
+00:00:09,360 --> 00:00:11,640
+<font color="aqua">Jesteśmy E równa się...</font>
+
+5
+00:00:11,800 --> 00:00:13,600
+RAZEM: ...mc2!
+
+6
+00:00:13,760 --> 00:00:15,560
+Joł!
+
+7
+00:00:15,720 --> 00:00:19,720
+<font color="aqua">I jak? Fajne?</font>
+Fajne. Podoba mi się.
+
+8
+00:00:21,440 --> 00:00:25,000
+Fajne nam te naszyjniki zrobiłeś.
+
+9
+00:00:25,160 --> 00:00:28,440
+Ale brakuje mi czegoś.
+<font color="aqua">Czego?</font>
+
+10
+00:00:28,600 --> 00:00:33,760
+Ciągle śpiewamy to "E = mc2".
+
+11
+00:00:35,200 --> 00:00:39,440
+Może powinniśmy śpiewać
+o czymś ważniejszym.
+
+12
+00:00:39,600 --> 00:00:42,720
+<font color="aqua">Co może być ważniejsze</font>
+<font color="aqua">niż nasz zespół?</font>
+
+13
+00:00:42,880 --> 00:00:45,480
+Nie, to jest ważne.
+
+14
+00:00:45,640 --> 00:00:47,560
+Bardzo ważne nawet.
+
+15
+00:00:47,720 --> 00:00:52,120
+Ale może powinniśmy śpiewać
+o czymś jeszcze ważniejszym.
+
+16
+00:00:52,280 --> 00:00:56,760
+<font color="aqua">Co może być jeszcze ważniejsze...</font>
+<font color="#8080FF">KOBIECY SZLOCH</font>
+
+17
+00:00:56,920 --> 00:00:58,920
+<font color="aqua">Słyszysz?</font>
+
+18
+00:00:59,080 --> 00:01:00,480
+Co?
+<font color="aqua">No właśnie to.</font>
+
+19
+00:01:00,640 --> 00:01:04,640
+Nie słyszę, jak ty ciągle mówisz?
+<font color="aqua">To zamilcz.</font>
+
+20
+00:01:04,800 --> 00:01:07,560
+<font color="#8080FF">SZLOCH JEST CORAZ GŁOŚNIEJSZY</font>
+
+21
+00:01:11,680 --> 00:01:15,880
+Dźwięk dobiega stamtąd.
+
+22
+00:01:22,760 --> 00:01:24,640
+Mirmile,
+
+23
+00:01:24,800 --> 00:01:27,440
+zobacz, kogo znaleźliśmy.
+
+24
+00:01:32,240 --> 00:01:34,680
+<font color="aqua">Jak masz na imię, niewiasto?</font>
+
+25
+00:01:34,840 --> 00:01:36,600
+Jestem...
+
+26
+00:01:36,760 --> 00:01:38,480
+Malina.
+
+27
+00:01:48,200 --> 00:01:52,160
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+28
+00:01:52,320 --> 00:01:56,120
+Takiego trudno znaleźć
+na mojej planecie.
+
+29
+00:01:56,280 --> 00:01:59,320
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+30
+00:01:59,480 --> 00:02:03,200
+Pokazali go w pałacu,
+kara go nie ominie.
+
+31
+00:02:03,360 --> 00:02:06,560
+Nagle wyczarował ognie
+królowej Kalinie.
+
+32
+00:02:06,720 --> 00:02:10,720
+Ale nie był on oszustem,
+nie był czarownikiem.
+
+33
+00:02:10,880 --> 00:02:13,760
+Miał na imię Al
+i jest alchemikiem.
+
+34
+00:02:18,280 --> 00:02:22,040
+<font color="#FFFF51">Ostatnio sporo myślałem</font>
+<font color="#FFFF51">o pewnym pierwiastku.</font>
+
+35
+00:02:22,200 --> 00:02:26,680
+<font color="#FFFF51">Myślicie, że to tlen,</font>
+<font color="#FFFF51">magnez lub potas, ale nie.</font>
+
+36
+00:02:26,840 --> 00:02:28,640
+<font color="#FFFF51">Nie tym razem.</font>
+
+37
+00:02:28,800 --> 00:02:31,160
+<font color="#FFFF51">Tym razem myślałem o jodzie.</font>
+
+38
+00:02:34,040 --> 00:02:36,320
+<font color="#FFFF51">Dlaczego jod?</font>
+
+39
+00:02:36,480 --> 00:02:40,720
+<font color="#FFFF51">Bo jest ładny, ważny i ciekawy.</font>
+
+40
+00:02:40,880 --> 00:02:42,680
+<font color="#FFFF51">Zacznijmy od nazwy.</font>
+
+41
+00:02:44,320 --> 00:02:49,880
+<font color="#FFFF51">Znamy 12 pierwiastków,</font>
+<font color="#FFFF51">których nazwa pochodzi od koloru.</font>
+
+42
+00:02:50,040 --> 00:02:52,240
+<font color="#FFFF51">Jod jest jednym z nich.</font>
+
+43
+00:02:52,400 --> 00:02:55,600
+<font color="#FFFF51">Greckie słowo "iodes"</font>
+<font color="#FFFF51">oznacza fioletowy.</font>
+
+44
+00:02:55,760 --> 00:02:59,160
+<font color="#FFFF51">Zaraz zobaczycie,</font>
+<font color="#FFFF51">dlaczego wybrano ten kolor.</font>
+
+45
+00:02:59,320 --> 00:03:01,680
+<font color="#FFFF51">Jod występuje raczej rzadko,</font>
+
+46
+00:03:01,840 --> 00:03:04,880
+<font color="#FFFF51">tak we wszechświecie,</font>
+<font color="#FFFF51">jak i na ziemi.</font>
+
+47
+00:03:05,040 --> 00:03:06,880
+<font color="#FFFF51">Odkryto go przypadkiem.</font>
+
+48
+00:03:07,040 --> 00:03:10,320
+<font color="#FFFF51">Pewien francuski chemik</font>
+<font color="#FFFF51">Bernard Courtois</font>
+
+49
+00:03:10,480 --> 00:03:15,040
+<font color="#FFFF51">w 1812 roku szukał w wodorostach</font>
+<font color="#FFFF51">związków sodu i potasu.</font>
+
+50
+00:03:15,200 --> 00:03:17,440
+<font color="#FFFF51">A znalazł nowy pierwiastek.</font>
+
+51
+00:03:17,600 --> 00:03:20,680
+<font color="#FFFF51">Jod jest niezwykle ważny</font>
+<font color="#FFFF51">dla zdrowia.</font>
+
+52
+00:03:20,840 --> 00:03:26,560
+<font color="#FFFF51">Jego niedobory u dzieci i dorosłych</font>
+<font color="#FFFF51">mogą grozić problemami zdrowotnymi.</font>
+
+53
+00:03:26,720 --> 00:03:31,800
+<font color="#FFFF51">W postaci jodku potasu</font>
+<font color="#FFFF51">dodawany jest do soli kuchennej.</font>
+
+54
+00:03:31,960 --> 00:03:35,560
+<font color="#FFFF51">Dość teorii,</font>
+<font color="#FFFF51">czas na praktykę i eksperymenty.</font>
+
+55
+00:03:35,720 --> 00:03:38,760
+<font color="#FFFF51">Dziś chcę wam pokazać</font>
+<font color="#FFFF51">sublimację jodu.</font>
+
+56
+00:03:38,920 --> 00:03:41,520
+<font color="#FFFF51">Już rozmawialiśmy o sublimacji.</font>
+
+57
+00:03:41,680 --> 00:03:46,560
+<font color="#FFFF51">To taki proces, w którym</font>
+<font color="#FFFF51">substancje parują bez topienia się.</font>
+
+58
+00:03:46,720 --> 00:03:50,120
+<font color="#FFFF51">Jak wiecie,</font>
+<font color="#FFFF51">suchy lód bardzo dobrze sublimuje.</font>
+
+59
+00:03:52,840 --> 00:03:56,040
+<font color="#FFFF51">Jod również sublimuje,</font>
+<font color="#FFFF51">i to cały czas.</font>
+
+60
+00:03:56,200 --> 00:03:58,680
+<font color="#FFFF51">Ale nie widzimy tego za dobrze.</font>
+
+61
+00:03:58,840 --> 00:04:02,360
+<font color="#FFFF51">Jeśli go podgrzejemy,</font>
+<font color="#FFFF51">zobaczymy to lepiej.</font>
+
+62
+00:04:19,840 --> 00:04:23,000
+<font color="#FFFF51">Fioletowe opary,</font>
+<font color="#FFFF51">które tu się znajdują,</font>
+
+63
+00:04:23,160 --> 00:04:25,320
+<font color="#FFFF51">świadczą o obecności jodu.</font>
+
+64
+00:04:25,480 --> 00:04:28,040
+<font color="#FFFF51">Może uda się go więcej wywołać?</font>
+
+65
+00:04:40,120 --> 00:04:41,880
+<font color="#FFFF51">Kolba z lodem sprawi,</font>
+
+66
+00:04:42,040 --> 00:04:46,600
+<font color="#FFFF51">że opary tego pierwiastka</font>
+<font color="#FFFF51">nie wylecą na laboratorium,</font>
+
+67
+00:04:46,760 --> 00:04:48,840
+<font color="#FFFF51">lecz zmrożą się na niej.</font>
+
+68
+00:04:49,000 --> 00:04:51,680
+<font color="#FFFF51">Nazywamy to resublimacją.</font>
+
+69
+00:04:53,440 --> 00:04:55,320
+<font color="aqua">Jesteś.</font>
+
+70
+00:04:57,240 --> 00:04:59,480
+<font color="aqua">Alchemiku...</font>
+
+71
+00:04:59,640 --> 00:05:01,640
+<font color="#FFFF51">Coś się stało?</font>
+
+72
+00:05:01,800 --> 00:05:04,320
+<font color="aqua">Doświadczenia.</font>
+
+73
+00:05:04,480 --> 00:05:06,440
+<font color="aqua">Królowa chce cię widzieć.</font>
+
+74
+00:05:06,600 --> 00:05:08,920
+<font color="aqua">Znaleźliśmy kogoś.</font>
+
+75
+00:05:16,560 --> 00:05:18,360
+<font color="aqua">Czekaj! Alchemiku!</font>
+
+76
+00:05:18,520 --> 00:05:20,320
+<font color="aqua">Czekaj na mnie!</font>
+
+77
+00:05:24,520 --> 00:05:27,360
+<font color="#FFFF51">Już jestem, królowo. Co się stało?</font>
+
+78
+00:05:27,520 --> 00:05:29,320
+<font color="#16F158">Dobrze, że jesteś.</font>
+
+79
+00:05:29,480 --> 00:05:31,520
+Znaleźliśmy ją rano.
+
+80
+00:05:33,760 --> 00:05:35,680
+<font color="#FFFF51">Cześć, dzień dobry.</font>
+
+81
+00:05:35,840 --> 00:05:38,320
+<font color="#FFFF51">Mam na imię Alek, ale wolę Al.</font>
+
+82
+00:05:39,800 --> 00:05:44,280
+<font color="#16F158">Jest apatyczna i mam wrażenie,</font>
+<font color="#16F158">że ktoś zrobił jej krzywdę.</font>
+
+83
+00:05:44,440 --> 00:05:46,560
+<font color="#FFFF51">Coś wiecie o niej?</font>
+
+84
+00:05:46,720 --> 00:05:48,840
+<font color="#FFFF51">Skąd pochodzi?</font>
+
+85
+00:05:49,000 --> 00:05:51,080
+<font color="#16F158">Nie jest z naszego świata.</font>
+
+86
+00:05:51,240 --> 00:05:53,760
+Jestem... Malina.
+
+87
+00:05:53,920 --> 00:05:57,920
+<font color="#FFFF51">Malina?</font>
+<font color="#16F158">Cały czas mówi, że tak ma na imię.</font>
+
+88
+00:05:58,080 --> 00:06:00,760
+<font color="#FFFF51">Ciekawe.</font>
+
+89
+00:06:00,920 --> 00:06:04,560
+<font color="#FFFF51">Może jest w szoku,</font>
+<font color="#FFFF51">ciągle zdezorientowana.</font>
+
+90
+00:06:04,720 --> 00:06:08,080
+<font color="#FFFF51">Może jest niedożywiona</font>
+<font color="#FFFF51">i brakuje jej jodu.</font>
+
+91
+00:06:08,240 --> 00:06:10,080
+<font color="#16F158">Jakiego jodu?</font>
+
+92
+00:06:10,240 --> 00:06:15,120
+<font color="#FFFF51">Tak pomyślałem,</font>
+<font color="#FFFF51">bo dziś pracowałem nad jodem.</font>
+
+93
+00:06:15,280 --> 00:06:18,080
+<font color="#FFFF51">To pierwiastek,</font>
+<font color="#FFFF51">jest go sporo nad morzem.</font>
+
+94
+00:06:18,240 --> 00:06:22,440
+<font color="#FFFF51">Ludzie z mojego wymiaru</font>
+<font color="#FFFF51">specjalnie jeżdżą nad morze,</font>
+
+95
+00:06:22,600 --> 00:06:25,880
+<font color="#FFFF51">żeby się go nawdychać</font>
+<font color="#FFFF51">i odzyskać energię.</font>
+
+96
+00:06:26,040 --> 00:06:29,760
+Jak ten jod ma dostarczyć energii?
+
+97
+00:06:29,920 --> 00:06:32,880
+<font color="#FFFF51">To nie tak,</font>
+<font color="#FFFF51">że sam jod daje ci energię.</font>
+
+98
+00:06:33,040 --> 00:06:37,560
+<font color="#FFFF51">On uczestniczy w regulacji</font>
+<font color="#FFFF51">metabolizmu naszego ciała.</font>
+
+99
+00:06:37,720 --> 00:06:42,600
+<font color="#FFFF51">Najważniejszy jest udział</font>
+<font color="#FFFF51">w syntezie dwóch ważnych hormonów.</font>
+
+100
+00:06:42,760 --> 00:06:48,640
+<font color="#FFFF51">Te hormony regulują nasze tętno,</font>
+<font color="#FFFF51">wzrost, temperaturę, metabolizm.</font>
+
+101
+00:06:48,800 --> 00:06:53,120
+<font color="#FFFF51">Niedobory jodu mogą prowadzić</font>
+<font color="#FFFF51">do poważnych konsekwencji.</font>
+
+102
+00:06:53,280 --> 00:06:58,760
+<font color="#FFFF51">Objawami są np. poważne osłabienie</font>
+<font color="#FFFF51">i problemy z pamięcią.</font>
+
+103
+00:06:58,920 --> 00:07:01,200
+<font color="#FFFF51">Trochę pasuje do nowej koleżanki.</font>
+
+104
+00:07:01,360 --> 00:07:03,560
+Malina?
+
+105
+00:07:03,720 --> 00:07:06,000
+<font color="#16F158">To takie smutne.</font>
+
+106
+00:07:06,160 --> 00:07:08,000
+<font color="#16F158">Jest taka zagubiona.</font>
+
+107
+00:07:08,160 --> 00:07:13,000
+<font color="#FFFF51">Zabiorę ją do laboratorium.</font>
+<font color="#FFFF51">Może tam się więcej dowiemy?</font>
+
+108
+00:07:13,160 --> 00:07:17,280
+<font color="#16F158">Dobrze, ale najpierw</font>
+<font color="#16F158">niech się odświeży,</font>
+
+109
+00:07:17,440 --> 00:07:22,120
+<font color="#16F158">a Curry della Pizza niech</font>
+<font color="#16F158">przygotuje jej pyszny posiłek.</font>
+
+110
+00:07:22,280 --> 00:07:25,320
+<font color="#16F158">Potem ją odziejemy,</font>
+<font color="#16F158">to znaczy ubierzemy.</font>
+
+111
+00:07:25,480 --> 00:07:28,200
+<font color="aqua">Dobrze, królowo.</font>
+
+112
+00:07:28,360 --> 00:07:31,320
+Podoba ci się
+pomysł z jodem, Malino?
+
+113
+00:07:31,480 --> 00:07:34,160
+- Malina.
+- Chyba jej się podoba.
+
+114
+00:07:42,400 --> 00:07:44,600
+Pst, pst.
+
+115
+00:07:44,760 --> 00:07:46,720
+<font color="#FFFF51">Jest tu ktoś?</font>
+
+116
+00:07:46,880 --> 00:07:49,760
+Jestem.
+<font color="#FFFF51">Henryku, co tam?</font>
+
+117
+00:07:49,920 --> 00:07:51,720
+Sprawa jest.
+
+118
+00:07:51,880 --> 00:07:53,680
+Podejdź do okna.
+
+119
+00:07:54,680 --> 00:07:58,800
+Pamiętasz, co mówiłeś
+o królowej Kalinie?
+
+120
+00:07:58,960 --> 00:08:03,760
+<font color="#FFFF51">Dość dużo o niej mówiłem.</font>
+<font color="#FFFF51">Powiedz dokładnie, o co ci chodzi.</font>
+
+121
+00:08:03,920 --> 00:08:05,840
+O tych jej reformach.
+
+122
+00:08:06,000 --> 00:08:09,040
+Że ma ambicje je przeprowadzić.
+
+123
+00:08:09,200 --> 00:08:11,720
+<font color="#FFFF51">No tak. Mów dalej.</font>
+
+124
+00:08:13,360 --> 00:08:17,640
+Pamiętam jak dziś,
+kiedy strzegłem Studni Prawdy,
+
+125
+00:08:19,720 --> 00:08:21,600
+aż tu nagle...
+
+126
+00:08:35,760 --> 00:08:37,680
+<font color="#16F158">Studnio Prawdy,</font>
+
+127
+00:08:38,520 --> 00:08:40,320
+<font color="#16F158">powiedz mi, proszę,</font>
+
+128
+00:08:42,160 --> 00:08:46,400
+<font color="#16F158">odpowiedz mi</font>
+<font color="#16F158">na nurtujące mnie pytanie.</font>
+
+129
+00:08:47,600 --> 00:08:50,760
+<font color="#16F158">Co stało się z moimi rodzicami?</font>
+
+130
+00:08:50,920 --> 00:08:55,960
+<font color="#16F158">Proszę, odpowiedz. Jestem</font>
+<font color="#16F158">w tym wszystkim taka samotna.</font>
+
+131
+00:09:03,160 --> 00:09:05,320
+No i tak właśnie było.
+
+132
+00:09:07,040 --> 00:09:09,360
+<font color="#FFFF51">Czyli królowa jest samotna</font>
+
+133
+00:09:09,520 --> 00:09:14,000
+<font color="#FFFF51">i bardzo chce się dowiedzieć</font>
+<font color="#FFFF51">prawdy o swoich rodzicach.</font>
+
+134
+00:09:14,160 --> 00:09:17,520
+Dokładnie.
+<font color="#FFFF51">A co się z nimi stało?</font>
+
+135
+00:09:17,680 --> 00:09:20,400
+Tego nie wiadomo, alchemiku.
+
+136
+00:09:20,560 --> 00:09:22,360
+Krążą różne legendy.
+
+137
+00:09:22,520 --> 00:09:26,800
+A to że niby to, a to że niby tamto.
+
+138
+00:09:26,960 --> 00:09:30,520
+<font color="#FFFF51">Trzeba królowej pomóc</font>
+<font color="#FFFF51">rozwikłać tę zagadkę.</font>
+
+139
+00:09:31,520 --> 00:09:34,560
+<font color="#FFFF51">Henryku, informuj mnie na bieżąco.</font>
+
+140
+00:09:34,720 --> 00:09:39,280
+<font color="#FFFF51">A my spróbujemy znaleźć</font>
+<font color="#FFFF51">rozwiązanie tego trudnego równania.</font>
+
+141
+00:09:39,440 --> 00:09:41,880
+Tak się stanie, alchemiku.
+
+142
+00:09:42,040 --> 00:09:44,640
+<font color="#FFFF51">Ciekawe, bardzo ciekawe.</font>
+
+143
+00:09:48,520 --> 00:09:50,720
+<font color="#8080FF">WZDRYGA SIĘ Z PRZESTRACHEM</font>
+
+144
+00:09:54,160 --> 00:09:59,720
+<font color="#FFFF51">Wiele wskazuje na to, że królowa</font>
+<font color="#FFFF51">Kalina bardzo tęskni za rodzicami.</font>
+
+145
+00:09:59,880 --> 00:10:03,680
+<font color="#FFFF51">Myślę, że to ta tęsknota</font>
+<font color="#FFFF51">jest przyczyną reform.</font>
+
+146
+00:10:03,840 --> 00:10:06,760
+<font color="#FFFF51">Muszę to zapisać w mojej księdze.</font>
+
+147
+00:10:09,400 --> 00:10:13,880
+<font color="#FFFF51">Jeśli znajdziemy przyczynę</font>
+<font color="#FFFF51">zniknięcia rodziców Kaliny,</font>
+
+148
+00:10:14,040 --> 00:10:18,200
+<font color="#FFFF51">może zaprzestanie reform</font>
+<font color="#FFFF51">i wszystko wróci do normy.</font>
+
+149
+00:10:18,360 --> 00:10:21,640
+<font color="#FFFF51">Lewa strona</font>
+<font color="#FFFF51">będzie równała się prawej.</font>
+
+150
+00:10:21,800 --> 00:10:23,560
+<font color="#16F158">Witaj, alchemiku.</font>
+
+151
+00:10:23,720 --> 00:10:27,280
+<font color="#16F158">Co tam zapisujesz?</font>
+<font color="#FFFF51">To moje notatki naukowe.</font>
+
+152
+00:10:27,440 --> 00:10:30,520
+<font color="#FFFF51">Zapisuję tu np.</font>
+<font color="#FFFF51">wyniki eksperymentów.</font>
+
+153
+00:10:30,680 --> 00:10:32,800
+<font color="#16F158">Mogę zerknąć?</font>
+
+154
+00:10:32,960 --> 00:10:34,760
+<font color="#FFFF51">Lepiej nie.</font>
+
+155
+00:10:34,920 --> 00:10:40,320
+<font color="#FFFF51">Tam są zapiski nie całkiem jasne</font>
+<font color="#FFFF51">nawet dla mnie i bardzo osobiste.</font>
+
+156
+00:10:40,480 --> 00:10:43,080
+<font color="#16F158">To byłoby przydatne dla reform.</font>
+
+157
+00:10:43,240 --> 00:10:47,840
+<font color="#16F158">Każdy z nas mógłby zapisywać</font>
+<font color="#16F158">swoje myśli i spostrzeżenia.</font>
+
+158
+00:10:48,000 --> 00:10:51,280
+<font color="#16F158">Może sama założę taki notes?</font>
+<font color="#FFFF51">Świetny pomysł.</font>
+
+159
+00:10:51,440 --> 00:10:55,400
+<font color="#FFFF51">Każdego do tego zachęcam.</font>
+<font color="#16F158">Mówiłeś coś o jodzie.</font>
+
+160
+00:10:55,560 --> 00:10:58,240
+<font color="#16F158">Czuję, że to zainteresowało Malinę.</font>
+
+161
+00:10:58,400 --> 00:11:02,240
+<font color="#16F158">Może moglibyśmy</font>
+<font color="#16F158">zrobić z nią jakieś doświadczenie,</font>
+
+162
+00:11:02,400 --> 00:11:04,360
+<font color="#16F158">wykorzystując jod.</font>
+
+163
+00:11:04,520 --> 00:11:08,520
+<font color="#16F158">Może otworzyłaby się na nas</font>
+<font color="#16F158">i powiedziała coś więcej.</font>
+
+164
+00:11:08,680 --> 00:11:10,880
+<font color="#FFFF51">To bardzo dobry pomysł.</font>
+
+165
+00:11:11,760 --> 00:11:13,440
+<font color="aqua">Wasza Wysokość!</font>
+
+166
+00:11:13,600 --> 00:11:16,800
+Wasza Wysokość, będziesz zachwycona.
+
+167
+00:11:16,960 --> 00:11:18,360
+Przed wami...
+
+168
+00:11:18,520 --> 00:11:20,720
+Malina!
+
+169
+00:11:20,880 --> 00:11:22,240
+<font color="aqua">Malina, możesz wejść.</font>
+
+170
+00:11:24,520 --> 00:11:26,080
+<font color="#16F158">Malino, wfontiale.</font>
+
+171
+00:11:27,520 --> 00:11:29,480
+<font color="#16F158">Jak się czujesz?</font>
+
+172
+00:11:30,440 --> 00:11:32,240
+Jestem...
+
+173
+00:11:33,200 --> 00:11:35,000
+Malina.
+
+174
+00:11:35,160 --> 00:11:37,320
+<font color="#16F158">To nic.</font>
+
+175
+00:11:37,480 --> 00:11:40,960
+<font color="#16F158">Mamy z alchemikiem</font>
+<font color="#16F158">niespodziankę dla ciebie.</font>
+
+176
+00:11:41,120 --> 00:11:43,080
+<font color="#FFFF51">Rozmawialiśmy o jodzie.</font>
+
+177
+00:11:43,240 --> 00:11:46,480
+<font color="#FFFF51">Chcę wam zademonstrować</font>
+<font color="#FFFF51">jod w działaniu.</font>
+
+178
+00:11:46,640 --> 00:11:48,440
+<font color="aqua">Zaczyna się.</font>
+
+179
+00:11:48,600 --> 00:11:52,480
+<font color="#FFFF51">To jedna z najwfontialszych</font>
+<font color="#FFFF51">reakcji chemicznych.</font>
+
+180
+00:11:52,640 --> 00:11:57,280
+<font color="#FFFF51">Piękna, bezpieczna i do tego</font>
+<font color="#FFFF51">posiada element zaskoczenia.</font>
+
+181
+00:11:57,440 --> 00:12:01,160
+<font color="#FFFF51">Prócz wody użyjemy jeszcze</font>
+<font color="#FFFF51">trzech składników.</font>
+
+182
+00:12:01,320 --> 00:12:06,840
+<font color="#FFFF51">Będą to skrobia, w postaci której</font>
+<font color="#FFFF51">rośliny magazynują energię,</font>
+
+183
+00:12:07,000 --> 00:12:09,720
+<font color="#FFFF51">jodan potasu i pirosiarczyn sodu.</font>
+
+184
+00:12:09,880 --> 00:12:13,720
+<font color="#FFFF51">Tu jest skrobia</font>
+<font color="#FFFF51">rozpuszczona z pirosiarczynem.</font>
+
+185
+00:12:13,880 --> 00:12:15,920
+<font color="#FFFF51">Tutaj jodan potasu.</font>
+
+186
+00:12:19,640 --> 00:12:22,040
+Nic się nie wydarzyło.
+
+187
+00:12:23,440 --> 00:12:25,120
+Coś tam na dole...
+
+188
+00:12:27,040 --> 00:12:29,840
+Jak zwykle, po prostu.
+
+189
+00:12:30,000 --> 00:12:31,800
+Niesamowite.
+
+190
+00:12:31,960 --> 00:12:35,040
+Ale co tu się wydarzyło?
+<font color="#FFFF51">Już tłumaczę.</font>
+
+191
+00:12:35,200 --> 00:12:38,080
+<font color="#FFFF51">Jod uwielbia łączyć się ze skrobią.</font>
+
+192
+00:12:38,240 --> 00:12:40,960
+<font color="#FFFF51">Ale pirosiarczyn</font>
+<font color="#FFFF51">na to nie pozwalał,</font>
+
+193
+00:12:41,120 --> 00:12:43,280
+<font color="#FFFF51">bo zabierał jod dla siebie.</font>
+
+194
+00:12:43,440 --> 00:12:46,880
+<font color="#FFFF51">Reakcja została tak zaprojektowana,</font>
+
+195
+00:12:47,040 --> 00:12:51,800
+<font color="#FFFF51">aby po pewnym czasie</font>
+<font color="#FFFF51">pirosiarczyn się skończył,</font>
+
+196
+00:12:51,960 --> 00:12:56,600
+<font color="#FFFF51">a wtedy pozostały jod</font>
+<font color="#FFFF51">mógł swobodnie reagować ze skrobią.</font>
+
+197
+00:12:56,760 --> 00:13:00,560
+<font color="#FFFF51">Takie reakcje nazywamy zegarowymi.</font>
+<font color="#16F158">Niesamowite.</font>
+
+198
+00:13:00,720 --> 00:13:05,040
+Wszystko za sprawą jodu?
+<font color="#16F158">Udało się!</font>
+
+199
+00:13:05,200 --> 00:13:08,640
+<font color="#16F158">Nie musieliśmy nawet</font>
+<font color="#16F158">podawać jej tego jodu.</font>
+
+200
+00:13:08,800 --> 00:13:13,800
+Ja przepraszam,
+za to milczenie i w ogóle.
+
+201
+00:13:13,960 --> 00:13:16,840
+Ja po prostu się bałam.
+
+202
+00:13:17,000 --> 00:13:20,360
+Ale to doświadczenie
+było tak wfontiałe,
+
+203
+00:13:20,520 --> 00:13:22,600
+że zapomniałam o lęku.
+
+204
+00:13:22,760 --> 00:13:27,080
+Dziękuję wam za troskę i opiekę.
+
+205
+00:13:27,240 --> 00:13:29,520
+<font color="#16F158">A to dopiero początek.</font>
+
+206
+00:13:29,680 --> 00:13:32,000
+Naprawdę?
+
+207
+00:13:32,160 --> 00:13:36,600
+<font color="#16F158">Mam przeczucie, że jesteś</font>
+<font color="#16F158">ważną częścią naszych reform.</font>
+
+208
+00:13:36,760 --> 00:13:40,080
+<font color="#16F158">Chcę, abyś pozostała</font>
+<font color="#16F158">w naszym królestwie.</font>
+
+209
+00:13:40,240 --> 00:13:44,280
+<font color="#16F158">Żebyś uczyła się chemii i fizyki.</font>
+Świetny pomysł!
+
+210
+00:13:44,440 --> 00:13:46,800
+<font color="#FFFF51">Bardzo dobry pomysł, królowo.</font>
+
+211
+00:13:46,960 --> 00:13:50,040
+Tak się cieszę.
+<font color="#16F158">Ja też.</font>
+
+212
+00:14:04,960 --> 00:14:07,880
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+213
+00:14:08,040 --> 00:14:12,080
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+214
+00:14:16,200 --> 00:14:18,000
+
+

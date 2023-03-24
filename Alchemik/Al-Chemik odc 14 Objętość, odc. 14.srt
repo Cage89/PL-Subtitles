@@ -1,0 +1,997 @@
+1
+00:00:09,520 --> 00:00:11,320
+<font color="#16F158">Nareszcie w domu.</font>
+
+2
+00:00:16,640 --> 00:00:18,560
+PIOSENKA:
+
+3
+00:00:18,720 --> 00:00:22,600
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+4
+00:00:22,760 --> 00:00:26,080
+Takiego trudno znaleźć
+na mojej planecie.
+
+5
+00:00:26,240 --> 00:00:29,800
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+6
+00:00:29,960 --> 00:00:33,280
+Pokazali go w pałacu,
+kara go nie ominie.
+
+7
+00:00:33,440 --> 00:00:36,720
+Nagle wyczarował ognie
+królowej Kalinie.
+
+8
+00:00:36,880 --> 00:00:40,280
+Nie był on oszustem,
+nie był czarownikiem.
+
+9
+00:00:40,440 --> 00:00:43,240
+Miał na imię Al
+i jest alchemikiem.
+
+10
+00:00:45,960 --> 00:00:49,400
+Alchemiku, mam bardzo ważne pytanie.
+
+11
+00:00:49,560 --> 00:00:51,360
+Jesteś gotowy?
+<font color="#FFFF51">Tak.</font>
+
+12
+00:00:51,520 --> 00:00:55,840
+Jak to jest, że pewne przedmioty
+unoszą się na wodzie,
+
+13
+00:00:56,000 --> 00:00:57,720
+a pewne spadają na dno?
+
+14
+00:00:57,880 --> 00:01:00,120
+<font color="#FFFF51">Bardzo dobre pytanie.</font>
+
+15
+00:01:00,280 --> 00:01:02,760
+<font color="#FFFF51">W skrócie - ciała toną w płynach,</font>
+
+16
+00:01:02,920 --> 00:01:05,920
+<font color="#FFFF51">jeśli mają od nich</font>
+<font color="#FFFF51">większą gęstość.</font>
+
+17
+00:01:06,080 --> 00:01:10,320
+<font color="#FFFF51">W innym przypadku</font>
+<font color="#FFFF51">przedmiot będzie się unosił.</font>
+
+18
+00:01:10,480 --> 00:01:12,440
+<font color="#FFFF51">To prawo Archimedesa.</font>
+
+19
+00:01:12,600 --> 00:01:15,320
+Jakie ciała?
+<font color="aqua">Ale w jakich płynach?</font>
+
+20
+00:01:15,480 --> 00:01:17,720
+Archimedes?
+<font color="aqua">Ja nie rozumiem.</font>
+
+21
+00:01:17,880 --> 00:01:21,880
+<font color="#FFFF51">Spokojnie, czy zawsze</font>
+<font color="#FFFF51">musicie zadawać tyle pytań?</font>
+
+22
+00:01:22,040 --> 00:01:24,040
+Jesteśmy ciekawi świata.
+
+23
+00:01:24,200 --> 00:01:26,000
+<font color="#FFFF51">To w sumie zrozumiałe.</font>
+
+24
+00:01:27,400 --> 00:01:31,000
+<font color="#FFFF51">W przyrodzie wszystko</font>
+<font color="#FFFF51">musi być stałe, równe.</font>
+
+25
+00:01:31,160 --> 00:01:36,160
+<font color="#FFFF51">Słyszeliście, że szklanka może</font>
+<font color="#FFFF51">być do połowy pusta lub pełna?</font>
+
+26
+00:01:36,320 --> 00:01:38,960
+<font color="aqua">Jaka szklanka? To jest akwarium.</font>
+
+27
+00:01:39,120 --> 00:01:41,360
+<font color="#FFFF51">W sumie dobrze. Akwarium.</font>
+
+28
+00:01:41,520 --> 00:01:43,480
+<font color="#FFFF51">Pełne wody.</font>
+
+29
+00:01:43,640 --> 00:01:46,880
+<font color="#FFFF51">Zobaczmy, co pływa, a co tonie.</font>
+
+30
+00:01:48,360 --> 00:01:51,520
+<font color="#FFFF51">Jak myślicie,</font>
+<font color="#FFFF51">będzie pływać czy zatonie?</font>
+
+31
+00:01:51,680 --> 00:01:54,480
+Utonie.
+<font color="#FFFF51">Sprawdźmy.</font>
+
+32
+00:01:56,760 --> 00:02:00,200
+Poszło na dno.
+<font color="#FFFF51">I dobrze.</font>
+
+33
+00:02:00,360 --> 00:02:03,240
+<font color="#FFFF51">Mirmile, widzisz</font>
+<font color="#FFFF51">tę drewnianą miskę?</font>
+
+34
+00:02:03,400 --> 00:02:07,880
+<font color="#FFFF51">Wrzuć ją, proszę, do wody,</font>
+<font color="#FFFF51">zobaczymy czy opadnie na dno.</font>
+
+35
+00:02:08,040 --> 00:02:10,800
+<font color="aqua">Co ty? Jak opadnie na dno?</font>
+
+36
+00:02:10,960 --> 00:02:13,600
+<font color="aqua">Drewno to pływa na wodzie.</font>
+<font color="#FFFF51">Brawo.</font>
+
+37
+00:02:13,760 --> 00:02:15,960
+<font color="#FFFF51">Wrzucaj.</font>
+
+38
+00:02:19,600 --> 00:02:21,800
+<font color="#FFFF51">A teraz zagadka.</font>
+
+39
+00:02:21,960 --> 00:02:25,560
+<font color="#FFFF51">Czy pomarańcza</font>
+<font color="#FFFF51">będzie pływać czy zatonie?</font>
+
+40
+00:02:25,720 --> 00:02:29,760
+To nie jest pomarańcza.
+To jest przedmarańcza.
+
+41
+00:02:29,920 --> 00:02:33,480
+<font color="#FFFF51">Co? U mnie w krainie</font>
+<font color="#FFFF51">to jest pomarańcza.</font>
+
+42
+00:02:33,640 --> 00:02:38,720
+<font color="#FFFF51">Zastanówcie się nad odpowiedzią,</font>
+<font color="#FFFF51">a wy wrzućcie te owoce do wody.</font>
+
+43
+00:02:39,960 --> 00:02:41,760
+<font color="aqua">Ty pierwszy.</font>
+
+44
+00:02:41,920 --> 00:02:43,680
+Dobra.
+
+45
+00:02:46,720 --> 00:02:48,520
+Poszło na dno.
+
+46
+00:02:51,400 --> 00:02:53,240
+<font color="aqua">Eureka!</font>
+
+47
+00:02:53,400 --> 00:02:55,280
+<font color="aqua">Ja myślałem, że utonie.</font>
+
+48
+00:02:55,440 --> 00:02:58,000
+<font color="#FFFF51">A jednak pływa. Pytanie dlaczego?</font>
+
+49
+00:02:58,160 --> 00:03:03,440
+<font color="#FFFF51">Nieobrana pomarańcza unosi się</font>
+<font color="#FFFF51">na wodzie, bo ma porowatą skórkę.</font>
+
+50
+00:03:03,600 --> 00:03:07,080
+<font color="#FFFF51">To znaczy,</font>
+<font color="#FFFF51">że ma wiele małych dziurek.</font>
+
+51
+00:03:07,240 --> 00:03:11,480
+<font color="#FFFF51">Znajduje się w nich powietrze</font>
+<font color="#FFFF51">albo olejki eteryczne.</font>
+
+52
+00:03:11,640 --> 00:03:15,120
+<font color="#FFFF51">Olejki i powietrze</font>
+<font color="#FFFF51">mają niższą gęstość od wody,</font>
+
+53
+00:03:15,280 --> 00:03:17,200
+<font color="#FFFF51">dlatego owoc unosi się.</font>
+
+54
+00:03:17,360 --> 00:03:21,200
+<font color="#FFFF51">Gdy usuniemy skórkę,</font>
+<font color="#FFFF51">efekt znika i owoc tonie.</font>
+
+55
+00:03:21,360 --> 00:03:24,720
+<font color="aqua">Czekaj. A to jest inna miska.</font>
+
+56
+00:03:30,640 --> 00:03:33,160
+Poszła na dno.
+<font color="#FFFF51">Bo jest z gliny.</font>
+
+57
+00:03:33,320 --> 00:03:35,480
+<font color="#FFFF51">Ale poczekajcie.</font>
+
+58
+00:03:35,640 --> 00:03:37,560
+<font color="#FFFF51">Woda.</font>
+
+59
+00:03:37,720 --> 00:03:40,920
+<font color="aqua">Co woda?</font>
+<font color="#FFFF51">Wylała się. Zauważyliście?</font>
+
+60
+00:03:41,080 --> 00:03:43,920
+<font color="aqua">Wylała się do tej skrzyneczki.</font>
+
+61
+00:03:45,080 --> 00:03:50,320
+I nawet sporo się jej wylało.
+<font color="aqua">Dużo przedmiotów żeśmy tu dali.</font>
+
+62
+00:03:50,480 --> 00:03:54,880
+<font color="#FFFF51">No właśnie. Pytaliście wcześniej</font>
+<font color="#FFFF51">o prawo Archimedesa.</font>
+
+63
+00:03:55,040 --> 00:03:58,320
+<font color="#FFFF51">Nasze akwarium było pełne wody.</font>
+
+64
+00:03:58,480 --> 00:04:01,680
+<font color="#FFFF51">Jeśli wrzucaliście do środka</font>
+<font color="#FFFF51">przedmiot,</font>
+
+65
+00:04:01,840 --> 00:04:03,960
+<font color="#FFFF51">woda się wylewała.</font>
+
+66
+00:04:04,120 --> 00:04:08,200
+<font color="#FFFF51">Za każdym razem</font>
+<font color="#FFFF51">wylało się dokładnie tyle wody,</font>
+
+67
+00:04:08,360 --> 00:04:12,120
+<font color="#FFFF51">ile objętości wycisnął z niej</font>
+<font color="#FFFF51">nasz przedmiot.</font>
+
+68
+00:04:12,280 --> 00:04:16,440
+I to jest to prawo Archimedesa?
+Że się woda wylewa?
+
+69
+00:04:16,600 --> 00:04:19,000
+<font color="#FFFF51">Pełne prawo Archimedesa mówi:</font>
+
+70
+00:04:19,160 --> 00:04:22,720
+<font color="#FFFF51">na ciało zanurzone w cieczy</font>
+<font color="#FFFF51">działa siła wyporu</font>
+
+71
+00:04:22,880 --> 00:04:27,520
+<font color="#FFFF51">skierowana ku górze, a równa</font>
+<font color="#FFFF51">co do wartości ciężarowi cieczy</font>
+
+72
+00:04:27,680 --> 00:04:29,800
+<font color="#FFFF51">wypartej przez to ciało.</font>
+
+73
+00:04:29,960 --> 00:04:33,480
+<font color="#FFFF51">Archimedes odkrył to prawo,</font>
+<font color="#FFFF51">siedząc w wannie.</font>
+
+74
+00:04:33,640 --> 00:04:36,160
+<font color="#FFFF51">Krzyknął: "Eureka".</font>
+<font color="aqua">Jak my.</font>
+
+75
+00:04:36,320 --> 00:04:39,880
+<font color="aqua">Ale był w zwykłej wannie,</font>
+<font color="aqua">co się kąpie?</font>
+
+76
+00:04:40,040 --> 00:04:42,640
+<font color="#FFFF51">Czasami najlepsze pomysły</font>
+
+77
+00:04:42,800 --> 00:04:45,840
+<font color="#FFFF51">przychodzą</font>
+<font color="#FFFF51">w najdziwniejszych miejscach.</font>
+
+78
+00:04:46,000 --> 00:04:47,800
+<font color="aqua">Niesamowite to jest.</font>
+
+79
+00:04:52,360 --> 00:04:55,760
+I znowu nauczyliśmy się
+czegoś nowego.
+
+80
+00:04:58,000 --> 00:05:00,080
+Alchemiku!
+
+81
+00:05:00,240 --> 00:05:02,560
+Jakiś list!
+
+82
+00:05:02,720 --> 00:05:04,920
+<font color="aqua">Daj to.</font>
+
+83
+00:05:05,080 --> 00:05:07,760
+"Dla alchemika".
+
+84
+00:05:07,920 --> 00:05:09,640
+<font color="#FFFF51">Do mnie?</font>
+
+85
+00:05:10,600 --> 00:05:13,160
+<font color="#FFFF51">Rzeczywiście. Dziękuję.</font>
+
+86
+00:05:13,320 --> 00:05:15,040
+<font color="#FFFF51">Proszę.</font>
+<font color="aqua">Śmiało.</font>
+
+87
+00:05:16,800 --> 00:05:20,280
+<font color="aqua">Po co mu to dałeś?</font>
+<font color="aqua">Pewnie to podstęp czarownicy.</font>
+
+88
+00:05:21,560 --> 00:05:23,400
+Dziwne, list tutaj?
+
+89
+00:05:23,560 --> 00:05:25,360
+Nie pomyślałem.
+
+90
+00:05:25,520 --> 00:05:28,640
+Sam się prosił, żeby go dać.
+
+91
+00:05:28,800 --> 00:05:31,040
+<font color="aqua">Mówił do ciebie ten list?</font>
+
+92
+00:05:31,200 --> 00:05:33,000
+<font color="aqua">Ty głuptaku, ty.</font>
+
+93
+00:05:33,160 --> 00:05:36,200
+<font color="aqua">Teraz na pewno będą kłopoty.</font>
+<font color="aqua">Czekaj.</font>
+
+94
+00:05:36,360 --> 00:05:39,560
+<font color="aqua">Jak tam? Wszystko dobrze?</font>
+<font color="#FFFF51">Tak.</font>
+
+95
+00:05:39,720 --> 00:05:41,880
+<font color="#FFFF51">Wszystko w porządku, tylko...</font>
+
+96
+00:05:42,040 --> 00:05:44,160
+<font color="#FFFF51">chciałbym być teraz sam.</font>
+
+97
+00:05:44,320 --> 00:05:48,240
+<font color="#FFFF51">Muszę coś przemyśleć.</font>
+<font color="#FFFF51">Będziemy w kontakcie. Pa!</font>
+
+98
+00:05:48,400 --> 00:05:50,080
+Alchemiku!
+
+99
+00:05:50,240 --> 00:05:52,160
+<font color="aqua">Znowu nas wywalił.</font>
+
+100
+00:05:52,320 --> 00:05:54,120
+<font color="aqua">Wiesz co?</font>
+
+101
+00:05:54,280 --> 00:05:59,080
+<font color="aqua">Jak alchemik zamyka drzwi</font>
+<font color="aqua">do laboratorium, będą kłopoty.</font>
+
+102
+00:05:59,240 --> 00:06:01,560
+Dobrze powiedziane, Mirmile.
+
+103
+00:06:01,720 --> 00:06:03,760
+Musimy być czujni.
+
+104
+00:06:03,920 --> 00:06:06,720
+<font color="aqua">Tak, Bartłomieju. Jak ważka.</font>
+
+105
+00:06:13,000 --> 00:06:14,880
+<font color="#FFFF51">Musiałem ich wyprosić.</font>
+
+106
+00:06:15,040 --> 00:06:19,840
+<font color="#FFFF51">W liście jest napisane,</font>
+<font color="#FFFF51">by nikt nie poznał jego zawartości.</font>
+
+107
+00:06:22,240 --> 00:06:25,480
+<font color="#FFFF51">Jaka piękna reakcja spalania.</font>
+
+108
+00:06:25,640 --> 00:06:28,760
+<font color="#FFFF51">Mam przejść</font>
+<font color="#FFFF51">przez tajemne przejście.</font>
+
+109
+00:06:28,920 --> 00:06:31,560
+<font color="#FFFF51">Podobno jest w tej skrzyni.</font>
+
+110
+00:06:31,720 --> 00:06:36,600
+<font color="#FFFF51">A potem iść korytarzem w kierunku</font>
+<font color="#FFFF51">tunelu do naszego wymiaru.</font>
+
+111
+00:06:36,760 --> 00:06:38,560
+<font color="#FFFF51">Idę.</font>
+
+112
+00:06:52,400 --> 00:06:56,400
+<font color="aqua">Tak nie może być!</font>
+Alchemiku, co jest w tym liście?
+
+113
+00:06:59,920 --> 00:07:01,800
+Zniknął.
+
+114
+00:07:01,960 --> 00:07:04,720
+Alchemik zniknął.
+
+115
+00:07:04,880 --> 00:07:06,720
+<font color="aqua">I list też.</font>
+
+116
+00:07:06,880 --> 00:07:08,680
+Alchemiku!
+
+117
+00:07:09,880 --> 00:07:11,680
+Alchemiku!
+
+118
+00:07:20,240 --> 00:07:25,080
+<font color="#FFFF51">Nawet nie wiedziałem o tajemnym</font>
+<font color="#FFFF51">przejściu do laboratorium.</font>
+
+119
+00:07:25,240 --> 00:07:28,040
+<font color="#FFFF51">Chciałbym wam powiedzieć</font>
+<font color="#FFFF51">o objętości.</font>
+
+120
+00:07:28,200 --> 00:07:31,520
+<font color="#FFFF51">Wspomniałem o niej</font>
+<font color="#FFFF51">przy prawie Archimedesa.</font>
+
+121
+00:07:31,680 --> 00:07:34,840
+<font color="#FFFF51">Spróbujmy razem opisać</font>
+<font color="#FFFF51">jakiś przedmiot.</font>
+
+122
+00:07:35,000 --> 00:07:37,240
+<font color="#FFFF51">Na przykład czajnik.</font>
+
+123
+00:07:37,400 --> 00:07:41,640
+<font color="#FFFF51">Możemy powiedzieć,</font>
+<font color="#FFFF51">jaki ma kolor, kształt i rozmiar.</font>
+
+124
+00:07:41,800 --> 00:07:45,520
+<font color="#FFFF51">Możemy sprawdzić,</font>
+<font color="#FFFF51">czy jest twardy, czy elastyczny.</font>
+
+125
+00:07:45,680 --> 00:07:47,320
+<font color="#FFFF51">Czy ma ucho z boku.</font>
+
+126
+00:07:47,480 --> 00:07:50,960
+<font color="#FFFF51">Gdy rozmawiamy o przedmiotach</font>
+<font color="#FFFF51">w ten sposób,</font>
+
+127
+00:07:51,120 --> 00:07:53,480
+<font color="#FFFF51">opisujemy właściwości fizyczne.</font>
+
+128
+00:07:53,640 --> 00:07:57,280
+<font color="#FFFF51">Jedną z właściwości fizycznych</font>
+<font color="#FFFF51">jest objętość.</font>
+
+129
+00:07:57,440 --> 00:08:02,600
+<font color="#FFFF51">Ta cecha mówi nam, ile miejsca</font>
+<font color="#FFFF51">zajmuje przedmiot w przestrzeni.</font>
+
+130
+00:08:02,760 --> 00:08:05,600
+<font color="#FFFF51">Jeśli przedmioty są puste w środku,</font>
+
+131
+00:08:05,760 --> 00:08:09,680
+<font color="#FFFF51">objętość często oznacza,</font>
+<font color="#FFFF51">ile zmieszczą w sobie.</font>
+
+132
+00:08:09,840 --> 00:08:14,000
+<font color="#FFFF51">Kartonik mleka ma zwykle objętość</font>
+<font color="#FFFF51">około jednego litra.</font>
+
+133
+00:08:14,160 --> 00:08:17,640
+<font color="#FFFF51">Jeden litr to mniej więcej</font>
+<font color="#FFFF51">cztery szklanki.</font>
+
+134
+00:08:20,080 --> 00:08:21,920
+<font color="#FFFF51">Halo?</font>
+
+135
+00:08:23,440 --> 00:08:25,240
+<font color="#FFFF51">Jest tu ktoś?</font>
+
+136
+00:08:34,400 --> 00:08:36,280
+<font color="#FFFF51">Ojej! Mam zgadnąć, tak?</font>
+
+137
+00:08:38,160 --> 00:08:39,960
+<font color="#FFFF51">Mama?</font>
+
+138
+00:08:40,120 --> 00:08:42,640
+<font color="#16F158">Jaka mama?</font>
+<font color="#FFFF51">Królowa cała i zdrowa!</font>
+
+139
+00:08:42,800 --> 00:08:44,600
+<font color="#FFFF51">Tak się cieszę!</font>
+
+140
+00:08:44,760 --> 00:08:47,320
+<font color="#FFFF51">Gdzie się podziewałaś, królowo.</font>
+
+141
+00:08:47,480 --> 00:08:49,240
+<font color="#16F158">Dużo by gadać.</font>
+
+142
+00:08:49,400 --> 00:08:53,960
+<font color="#16F158">Henryk Złoty Gagatek prowadził</font>
+<font color="#16F158">mnie do lochów, ale uciekłam.</font>
+
+143
+00:08:54,120 --> 00:08:57,480
+<font color="#16F158">Znam labirynt korytarzy</font>
+<font color="#16F158">bardzo dobrze.</font>
+
+144
+00:08:57,640 --> 00:08:59,720
+<font color="#16F158">Dlatego mnie nie dogonił.</font>
+
+145
+00:08:59,880 --> 00:09:01,920
+<font color="#16F158">Byłam w twoim wymiarze.</font>
+
+146
+00:09:02,080 --> 00:09:04,800
+<font color="#16F158">Ta wasza kraina jest niesamowita.</font>
+
+147
+00:09:04,960 --> 00:09:08,960
+<font color="#16F158">Nie dziwię się,</font>
+<font color="#16F158">że tyle wiecie o chemii i fizyce.</font>
+
+148
+00:09:09,120 --> 00:09:11,760
+<font color="#16F158">Powiedz mi, co tutaj się dzieje.</font>
+
+149
+00:09:16,480 --> 00:09:22,000
+<font color="#FFFF51">Czarownica z Przełęczy rządzi.</font>
+<font color="#FFFF51">Przemeblowała całe królestwo.</font>
+
+150
+00:09:22,160 --> 00:09:24,360
+<font color="#FFFF51">Jest nie do poznania.</font>
+
+151
+00:09:24,520 --> 00:09:26,320
+<font color="#FFFF51">Ma jakiegoś brata.</font>
+
+152
+00:09:27,240 --> 00:09:29,400
+<font color="#16F158">Brata?</font>
+<font color="#FFFF51">Ma na imię Gniewko.</font>
+
+153
+00:09:29,560 --> 00:09:32,960
+<font color="#FFFF51">Ponoć jest olbrzymem,</font>
+<font color="#FFFF51">cokolwiek to znaczy.</font>
+
+154
+00:09:33,120 --> 00:09:36,520
+<font color="#FFFF51">Bartłomiej i Mirmił</font>
+<font color="#FFFF51">tak o nim mówią.</font>
+
+155
+00:09:36,680 --> 00:09:38,920
+<font color="#16F158">Bartłomiej i Mirmił?</font>
+
+156
+00:09:39,080 --> 00:09:41,760
+<font color="#16F158">Oni to zawsze przesadzają.</font>
+
+157
+00:09:41,920 --> 00:09:45,080
+<font color="#16F158">Będziesz musiał mnie ukryć</font>
+<font color="#16F158">na jakiś czas,</font>
+
+158
+00:09:45,240 --> 00:09:49,880
+<font color="#16F158">zanim nie znajdziemy planu,</font>
+<font color="#16F158">bym mogła odzyskać królestwo.</font>
+
+159
+00:09:50,040 --> 00:09:53,040
+<font color="#16F158">Najlepiej trzymać to na razie...</font>
+<font color="#FFFF51">Ćśśś...</font>
+
+160
+00:09:54,400 --> 00:09:56,640
+<font color="#FFFF51">SZEPTEM: W tajemnicy.</font>
+
+161
+00:09:58,360 --> 00:10:00,560
+<font color="#16F158">Rozumiemy się bez słów.</font>
+
+162
+00:10:05,840 --> 00:10:08,960
+Dziwne to wszystko.
+<font color="aqua">Nie ma go nigdzie.</font>
+
+163
+00:10:10,200 --> 00:10:12,560
+Może do swojego wymiaru wrócił.
+
+164
+00:10:12,720 --> 00:10:16,040
+<font color="aqua">Gdzie ty byłeś?</font>
+Cały zamek przeszukaliśmy.
+
+165
+00:10:16,200 --> 00:10:17,840
+<font color="#FFFF51">Byłem tu cały czas.</font>
+
+166
+00:10:19,640 --> 00:10:22,560
+<font color="#FFFF51">Zobaczcie,</font>
+<font color="#FFFF51">co dla was przygotowałem.</font>
+
+167
+00:10:22,720 --> 00:10:27,200
+<font color="#FFFF51">Pamiętacie, jak rozmawialiśmy</font>
+<font color="#FFFF51">o Archimedesie i wyporności?</font>
+
+168
+00:10:27,360 --> 00:10:32,640
+Na ciało wrzucone do płynu
+działa tak wielka siła,
+
+169
+00:10:32,800 --> 00:10:35,320
+że wypycha je do góry.
+
+170
+00:10:35,480 --> 00:10:37,160
+<font color="#FFFF51">Bardzo dobrze.</font>
+
+171
+00:10:37,320 --> 00:10:41,280
+<font color="#FFFF51">Zobaczmy, co będzie,</font>
+<font color="#FFFF51">jeśli użyjemy innych płynów,</font>
+
+172
+00:10:41,440 --> 00:10:43,760
+<font color="#FFFF51">takich jak olej czy miód.</font>
+
+173
+00:10:43,920 --> 00:10:45,800
+Są inne płyny niż woda?
+
+174
+00:10:45,960 --> 00:10:49,040
+<font color="#FFFF51">Woda w naszym eksperymencie</font>
+<font color="#FFFF51">jest niebieska,</font>
+
+175
+00:10:49,200 --> 00:10:51,680
+<font color="#FFFF51">żeby była łatwiej widoczna.</font>
+
+176
+00:10:51,840 --> 00:10:54,680
+<font color="aqua">Olej, woda zabarwiona</font>
+
+177
+00:10:54,840 --> 00:10:56,640
+<font color="aqua">i miód.</font>
+
+178
+00:10:57,720 --> 00:11:00,560
+<font color="#FFFF51">Sprawdzimy, jak się będą zachowywać</font>
+
+179
+00:11:00,720 --> 00:11:04,840
+<font color="#FFFF51">przedmioty o różnych gęstościach</font>
+<font color="#FFFF51">w różnych płynach.</font>
+
+180
+00:11:05,000 --> 00:11:09,760
+<font color="#FFFF51">Zaczniemy od stalowej nakrętki.</font>
+<font color="#FFFF51">Wydaje się mała i lekka.</font>
+
+181
+00:11:09,920 --> 00:11:13,640
+<font color="#FFFF51">Jednak ma dużą gęstość</font>
+<font color="#FFFF51">w porównaniu do płynów.</font>
+
+182
+00:11:13,800 --> 00:11:15,920
+<font color="#FFFF51">Sprawdźmy.</font>
+
+183
+00:11:18,680 --> 00:11:20,480
+<font color="aqua">Poszło na dół.</font>
+
+184
+00:11:20,640 --> 00:11:25,640
+<font color="#FFFF51">Ani olej, ani woda, ani miód</font>
+<font color="#FFFF51">nie utrzymują stalowej nakrętki.</font>
+
+185
+00:11:25,800 --> 00:11:30,120
+<font color="#FFFF51">Następne w kolejności gęstości</font>
+<font color="#FFFF51">jest winogrono.</font>
+
+186
+00:11:30,280 --> 00:11:32,840
+<font color="#FFFF51">Zobaczmy, gdzie ono się zatrzyma.</font>
+
+187
+00:11:35,000 --> 00:11:37,080
+Tu, na dnie wody.
+
+188
+00:11:37,240 --> 00:11:39,360
+<font color="#FFFF51">Sprawdźmy.</font>
+
+189
+00:11:39,520 --> 00:11:41,960
+<font color="#FFFF51">Nie olej, nie woda,</font>
+
+190
+00:11:43,160 --> 00:11:44,960
+<font color="#FFFF51">ale miód już tak.</font>
+
+191
+00:11:45,120 --> 00:11:48,120
+<font color="aqua">Zniknęło?</font>
+<font color="#FFFF51">Tutaj, widać z tej strony.</font>
+
+192
+00:11:48,280 --> 00:11:50,080
+Wiedziałem.
+
+193
+00:11:50,240 --> 00:11:54,960
+<font color="#FFFF51">Miód ma wystarczająco dużą</font>
+<font color="#FFFF51">wyporność, by utrzymać winogrono.</font>
+
+194
+00:11:55,120 --> 00:11:58,520
+<font color="#FFFF51">Innym materiałem jest plastik.</font>
+
+195
+00:11:58,680 --> 00:12:03,320
+<font color="#FFFF51">Dobrze, że go tu nie macie.</font>
+<font color="#FFFF51">Zobaczmy, gdzie się zatrzyma.</font>
+
+196
+00:12:08,000 --> 00:12:10,120
+<font color="#FFFF51">Ledwo, ledwo.</font>
+
+197
+00:12:10,280 --> 00:12:12,800
+<font color="#FFFF51">Ale plastik</font>
+<font color="#FFFF51">jest gęstszy od oleju.</font>
+
+198
+00:12:12,960 --> 00:12:16,920
+<font color="#FFFF51">Będzie tonąć,</font>
+<font color="#FFFF51">aż zatrzyma się na wodzie.</font>
+
+199
+00:12:17,080 --> 00:12:22,440
+<font color="#FFFF51">Woda ma wystarczającą wyporność,</font>
+<font color="#FFFF51">by utrzymać plastikową nakrętkę.</font>
+
+200
+00:12:22,600 --> 00:12:25,360
+<font color="#FFFF51">Ostatnie,</font>
+<font color="#FFFF51">co chciałem wam pokazać,</font>
+
+201
+00:12:25,520 --> 00:12:27,440
+<font color="#FFFF51">to taka śmieszna piłka.</font>
+
+202
+00:12:27,600 --> 00:12:29,800
+Jajko.
+<font color="#FFFF51">Jajka tak nie robią.</font>
+
+203
+00:12:29,960 --> 00:12:31,560
+<font color="#FFFF51">Takich piłeczek używamy</font>
+
+204
+00:12:31,720 --> 00:12:35,080
+<font color="#FFFF51">w dyscyplinie sportowej</font>
+<font color="#FFFF51">w mojej krainie.</font>
+
+205
+00:12:35,240 --> 00:12:40,640
+<font color="#FFFF51">Potocznie zwana ping-pongiem,</font>
+<font color="#FFFF51">ze względu na dźwięk, jaki wydaje.</font>
+
+206
+00:12:40,800 --> 00:12:44,800
+<font color="#FFFF51">W środku jest pusta,</font>
+<font color="#FFFF51">a tak naprawdę ma powietrze.</font>
+
+207
+00:12:44,960 --> 00:12:47,440
+<font color="#FFFF51">Sprawdźmy, gdzie się zatrzyma.</font>
+
+208
+00:12:49,000 --> 00:12:54,520
+<font color="#FFFF51">Nawet olej jest w stanie utrzymać</font>
+<font color="#FFFF51">przedmiot o tak niskiej gęstości.</font>
+
+209
+00:12:54,680 --> 00:12:57,840
+<font color="#FFFF51">Każdy płyn ma</font>
+<font color="#FFFF51">inną gęstość i wyporność,</font>
+
+210
+00:12:58,000 --> 00:13:02,920
+<font color="#FFFF51">dlatego różne przedmioty</font>
+<font color="#FFFF51">zatrzymały się na różnych fazach.</font>
+
+211
+00:13:03,080 --> 00:13:05,040
+<font color="aqua">Nie wierzę w to, co widzę.</font>
+
+212
+00:13:05,200 --> 00:13:08,960
+Jakby czarownica Wanda
+zobaczyła coś takiego,
+
+213
+00:13:09,120 --> 00:13:11,920
+pomyślałaby, że to są czary.
+
+214
+00:13:13,400 --> 00:13:15,640
+Namawiają się.
+
+215
+00:13:15,800 --> 00:13:20,360
+Musisz się z nimi zaprzyjaźnić,
+żeby poznać ich zamiary.
+
+216
+00:13:20,520 --> 00:13:22,320
+Zmiażdżyłby coś.
+
+217
+00:13:22,480 --> 00:13:24,960
+Spokojnie, spokojnie, zdążymy.
+
+218
+00:13:26,800 --> 00:13:28,640
+Co ja słyszę?
+
+219
+00:13:28,800 --> 00:13:31,360
+- Kalina jest na zamku!
+- Nie!
+
+220
+00:13:48,200 --> 00:13:50,960
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+221
+00:13:51,120 --> 00:13:55,360
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+222
+00:13:59,560 --> 00:14:01,360
+
+

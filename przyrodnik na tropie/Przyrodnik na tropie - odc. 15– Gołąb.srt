@@ -1,0 +1,1232 @@
+1
+00:00:01,440 --> 00:00:04,640
+<font color="aqua">Łukasz Bożycki,</font>
+<font color="aqua">niestrudzony przyrodnik,</font>
+
+2
+00:00:04,800 --> 00:00:07,280
+<font color="aqua">podąży dziś tropem zwierząt,</font>
+
+3
+00:00:07,440 --> 00:00:10,560
+<font color="aqua">które postanowiły żyć</font>
+<font color="aqua">blisko człowieka,</font>
+
+4
+00:00:10,720 --> 00:00:13,520
+<font color="aqua">wprowadzając się do miast i wiosek.</font>
+
+5
+00:00:13,680 --> 00:00:16,480
+<font color="aqua">Czy zamiana lasu na miejską dżunglę</font>
+
+6
+00:00:16,640 --> 00:00:20,560
+<font color="aqua">okaże się fascynującą opowieścią</font>
+<font color="aqua">o sieci powiązań przyrody?</font>
+
+7
+00:00:20,720 --> 00:00:22,880
+<font color="aqua">Przekonacie się za chwilę.</font>
+
+8
+00:00:23,040 --> 00:00:25,920
+<font color="aqua">Zostańcie</font>
+<font color="aqua">z "Przyrodnikiem na tropie".</font>
+
+9
+00:01:22,160 --> 00:01:24,120
+<font color="#FFFF51">Dziś opowiem o gołębiach.</font>
+
+10
+00:01:24,280 --> 00:01:28,760
+<font color="#FFFF51">Nie mogę pogodzić się z tym,</font>
+<font color="#FFFF51">jak wielu ludzi ich nie lubi,</font>
+
+11
+00:01:28,920 --> 00:01:31,640
+<font color="#FFFF51">choć od zawsze</font>
+<font color="#FFFF51">ratowały ludzkie życie.</font>
+
+12
+00:01:31,800 --> 00:01:36,120
+<font color="#FFFF51">Albo przenosiły informacje,</font>
+<font color="#FFFF51">kiedy nie było telefonów,</font>
+
+13
+00:01:36,280 --> 00:01:40,480
+<font color="#FFFF51">albo poszukiwały rozbitków,</font>
+<font color="#FFFF51">siedząc tuż obok pilota.</font>
+
+14
+00:01:40,640 --> 00:01:43,880
+<font color="#FFFF51">Wtedy gołębie</font>
+<font color="#FFFF51">jako pierwsze dostrzegały,</font>
+
+15
+00:01:44,040 --> 00:01:45,880
+<font color="#FFFF51">że coś dryfuje na fali.</font>
+
+16
+00:01:46,040 --> 00:01:48,800
+<font color="#FFFF51">Naciskały dziobem</font>
+<font color="#FFFF51">czerwony przycisk,</font>
+
+17
+00:01:48,960 --> 00:01:53,720
+<font color="#FFFF51">a pilot wiedział, że w tym miejscu</font>
+<font color="#FFFF51">może znaleźć zaginionych.</font>
+
+18
+00:01:53,880 --> 00:01:57,520
+<font color="#FFFF51">Mam nadzieję,</font>
+<font color="#FFFF51">że w tym odcinku przekonam was,</font>
+
+19
+00:01:57,680 --> 00:02:01,080
+<font color="#FFFF51">że gołębie</font>
+<font color="#FFFF51">to naprawdę fascynujące ptaki.</font>
+
+20
+00:02:21,240 --> 00:02:24,720
+<font color="#FFFF51">Nazwa wywodzi się</font>
+<font color="#FFFF51">od prasłowiańskiego słowa</font>
+
+21
+00:02:24,880 --> 00:02:27,400
+<font color="#FFFF51">opisującego kolor bladobłękitny,</font>
+
+22
+00:02:27,560 --> 00:02:29,160
+<font color="#FFFF51">czyli "golomb".</font>
+
+23
+00:02:29,320 --> 00:02:33,600
+<font color="#FFFF51">Gdy mówimy "gołąbkowy kolor",</font>
+<font color="#FFFF51">mamy na myśli tę barwę,</font>
+
+24
+00:02:33,760 --> 00:02:36,920
+<font color="#FFFF51">chociaż częściej mówimy</font>
+<font color="#FFFF51">"biały jak gołąb"</font>
+
+25
+00:02:37,080 --> 00:02:38,880
+<font color="#FFFF51">lub "siwy jak gołąb",</font>
+
+26
+00:02:39,040 --> 00:02:42,840
+<font color="#FFFF51">jak chcemy opisać</font>
+<font color="#FFFF51">siwiznę na głowie mężczyzny.</font>
+
+27
+00:02:43,000 --> 00:02:48,920
+<font color="#FFFF51">Gołębie symbolizują delikatność,</font>
+<font color="#FFFF51">wrażliwość oraz nieśmiałość.</font>
+
+28
+00:02:49,080 --> 00:02:53,560
+<font color="#FFFF51">Jak chcemy dobrze wypowiedzieć się</font>
+<font color="#FFFF51">o dobrym człowieku,</font>
+
+29
+00:02:53,720 --> 00:02:56,080
+<font color="#FFFF51">mówimy, że ma gołębie serce.</font>
+
+30
+00:02:56,240 --> 00:02:58,040
+<font color="#FFFF51">Prawda?</font>
+
+31
+00:02:59,280 --> 00:03:02,800
+<font color="aqua">Gołąb miejski wywodzi się</font>
+<font color="aqua">od gołębia skalnego,</font>
+
+32
+00:03:02,960 --> 00:03:06,840
+<font color="aqua">dlatego grzbiet i skrzydła</font>
+<font color="aqua">są jaśniejsze od głowy.</font>
+
+33
+00:03:07,000 --> 00:03:10,880
+<font color="aqua">Dwa czarne paski skrzydłowe</font>
+<font color="aqua">oraz śnieżnobiały kuper</font>
+
+34
+00:03:11,040 --> 00:03:12,840
+<font color="aqua">to cechy rozpoznawcze.</font>
+
+35
+00:03:13,000 --> 00:03:16,240
+<font color="aqua">Nogi oraz oczy są czerwone,</font>
+<font color="aqua">a dziób ciemny.</font>
+
+36
+00:03:16,400 --> 00:03:20,760
+<font color="aqua">W miastach możemy spotkać</font>
+<font color="aqua">wiele odmian gołębia miejskiego</font>
+
+37
+00:03:20,920 --> 00:03:25,240
+<font color="aqua">- to wynik ich krzyżowania się</font>
+<font color="aqua">z osobnikami hodowlanymi.</font>
+
+38
+00:03:25,400 --> 00:03:29,480
+<font color="aqua">Najczęściej są jasne, ciemne</font>
+<font color="aqua">lub zupełnie brązowe.</font>
+
+39
+00:04:26,280 --> 00:04:30,440
+<font color="#FFFF51">W 1995 roku</font>
+<font color="#FFFF51">przyznano nagrodę Ig Nobla,</font>
+
+40
+00:04:30,600 --> 00:04:33,440
+<font color="#FFFF51">humorystyczną wersję Nagrody Nobla,</font>
+
+41
+00:04:33,600 --> 00:04:35,720
+<font color="#FFFF51">za badania potwierdzające,</font>
+
+42
+00:04:35,880 --> 00:04:40,160
+<font color="#FFFF51">że gołębie rozpoznają obrazy</font>
+<font color="#FFFF51">w stylu Picassa i Moneta.</font>
+
+43
+00:04:40,320 --> 00:04:44,240
+<font color="#FFFF51">Gdy obrazy obrócono o 180 stopni,</font>
+
+44
+00:04:44,400 --> 00:04:48,840
+<font color="#FFFF51">gołębie wiedziały,</font>
+<font color="#FFFF51">że te obrazy były w stylu kubistów,</font>
+
+45
+00:04:49,000 --> 00:04:52,400
+<font color="#FFFF51">ale w przypadku impresjonistów</font>
+<font color="#FFFF51">się myliły.</font>
+
+46
+00:04:52,560 --> 00:04:56,680
+<font color="#FFFF51">Wtedy nikt się nie zastanawiał,</font>
+<font color="#FFFF51">co gołębie widzą</font>
+
+47
+00:04:56,840 --> 00:05:00,560
+<font color="#FFFF51">ani w jaki sposób tworzą</font>
+<font color="#FFFF51">kategorie w głowie.</font>
+
+48
+00:05:00,720 --> 00:05:03,920
+<font color="#FFFF51">Rok 2015 wszystko zmienił.</font>
+
+49
+00:05:24,760 --> 00:05:30,240
+<font color="#FFFF51">W doświadczeniu gołębie oglądały</font>
+<font color="#FFFF51">zdjęcia preparatów histologicznych</font>
+
+50
+00:05:30,400 --> 00:05:33,680
+<font color="#FFFF51">i na nich widziały</font>
+<font color="#FFFF51">komórki nowotworowe</font>
+
+51
+00:05:33,840 --> 00:05:35,640
+<font color="#FFFF51">- łagodne i złośliwe.</font>
+
+52
+00:05:35,800 --> 00:05:39,160
+<font color="#FFFF51">Tak nauczyły się,</font>
+<font color="#FFFF51">co jest daną kategorią.</font>
+
+53
+00:05:39,320 --> 00:05:41,240
+<font color="#FFFF51">Oglądały takie preparaty</font>
+
+54
+00:05:41,400 --> 00:05:43,840
+<font color="#FFFF51">i po dwóch tygodniach szkolenia</font>
+
+55
+00:05:44,000 --> 00:05:48,160
+<font color="#FFFF51">gołąb osiągał skuteczność</font>
+<font color="#FFFF51">na poziomie 85 procent.</font>
+
+56
+00:05:48,320 --> 00:05:51,960
+<font color="#FFFF51">A jak brano pod uwagę</font>
+<font color="#FFFF51">wybory czterech gołębi,</font>
+
+57
+00:05:52,120 --> 00:05:55,640
+<font color="#FFFF51">ich skuteczność była</font>
+<font color="#FFFF51">na poziomie 99 procent.</font>
+
+58
+00:05:55,800 --> 00:05:59,280
+<font color="#FFFF51">Taki wynik osiąga</font>
+<font color="#FFFF51">lekarz specjalista</font>
+
+59
+00:05:59,440 --> 00:06:01,760
+<font color="#FFFF51">po wielu latach treningu.</font>
+
+60
+00:06:01,920 --> 00:06:05,200
+<font color="#FFFF51">Gołębi wzrok</font>
+<font color="#FFFF51">jest na tyle fascynujący,</font>
+
+61
+00:06:05,360 --> 00:06:09,200
+<font color="#FFFF51">że doskonale wiedzą,</font>
+<font color="#FFFF51">czy zmiana jest złośliwa.</font>
+
+62
+00:06:09,360 --> 00:06:12,000
+<font color="#FFFF51">Tworzą sobie kategorię w głowie,</font>
+
+63
+00:06:12,160 --> 00:06:16,080
+<font color="#FFFF51">nie rozumiejąc,</font>
+<font color="#FFFF51">że oglądają komórki nowotworowe.</font>
+
+64
+00:06:16,240 --> 00:06:21,840
+<font color="#FFFF51">Ale nie chcemy, żeby gołębie</font>
+<font color="#FFFF51">w białym fartuchu leczyły ludzi.</font>
+
+65
+00:06:22,000 --> 00:06:25,160
+<font color="#FFFF51">Chcemy zrozumieć,</font>
+<font color="#FFFF51">jak działa ich wzrok,</font>
+
+66
+00:06:25,320 --> 00:06:29,640
+<font color="#FFFF51">bo wtedy być może skonstruujemy</font>
+<font color="#FFFF51">algorytm, maszynę,</font>
+
+67
+00:06:29,800 --> 00:06:34,160
+<font color="#FFFF51">która będzie pomagała</font>
+<font color="#FFFF51">rozpoznawać komórki nowotworowe.</font>
+
+68
+00:06:41,720 --> 00:06:44,200
+<font color="#FFFF51">Wzrok gołębi jest fascynujący,</font>
+
+69
+00:06:44,360 --> 00:06:48,600
+<font color="#FFFF51">bo widzą świat</font>
+<font color="#FFFF51">za pomocą czterech typów czopków.</font>
+
+70
+00:06:48,760 --> 00:06:51,800
+<font color="#FFFF51">Człowiek posiada trzy typy czopków</font>
+
+71
+00:06:51,960 --> 00:06:57,160
+<font color="#FFFF51">i widzi świat w niebieskościach,</font>
+<font color="#FFFF51">zieleniach i czerwieniach - RGB.</font>
+
+72
+00:06:57,320 --> 00:07:00,440
+<font color="#FFFF51">Skrót powstał</font>
+<font color="#FFFF51">od angielskich nazw kolorów</font>
+
+73
+00:07:00,600 --> 00:07:03,840
+<font color="#FFFF51">i na tej podstawie</font>
+<font color="#FFFF51">tworzona jest telewizja.</font>
+
+74
+00:07:04,000 --> 00:07:06,200
+<font color="#FFFF51">Programy, które oglądamy,</font>
+
+75
+00:07:06,360 --> 00:07:11,160
+<font color="#FFFF51">dla człowieka są barwne,</font>
+<font color="#FFFF51">kolorowe i ogólnie atrakcyjne.</font>
+
+76
+00:07:11,320 --> 00:07:13,920
+<font color="#FFFF51">Ale gdyby gołębie je oglądały,</font>
+
+77
+00:07:14,080 --> 00:07:19,000
+<font color="#FFFF51">mogłyby być dla nich bure, szare</font>
+<font color="#FFFF51">i ogólnie mało kolorowe.</font>
+
+78
+00:07:19,160 --> 00:07:21,640
+<font color="#FFFF51">Gołębie mają dodatkowy czopek,</font>
+
+79
+00:07:21,800 --> 00:07:25,360
+<font color="#FFFF51">który umożliwia im</font>
+<font color="#FFFF51">widzenie w ultrafiolecie.</font>
+
+80
+00:07:25,520 --> 00:07:29,560
+<font color="#FFFF51">To, co dla nas jest</font>
+<font color="#FFFF51">szare, bure, nijakie,</font>
+
+81
+00:07:29,720 --> 00:07:33,200
+<font color="#FFFF51">dla nich może mienić się</font>
+<font color="#FFFF51">milionem kolorów.</font>
+
+82
+00:07:33,360 --> 00:07:35,960
+<font color="#FFFF51">To, co widzi człowiek,</font>
+
+83
+00:07:36,120 --> 00:07:40,240
+<font color="#FFFF51">to jedynie wycinek</font>
+<font color="#FFFF51">całej barwnej rzeczywistości.</font>
+
+84
+00:07:56,920 --> 00:07:59,520
+<font color="#FFFF51">Gołębie w dziobach mają struktury</font>
+
+85
+00:07:59,680 --> 00:08:04,080
+<font color="#FFFF51">umożliwiające im rozpoznawanie</font>
+<font color="#FFFF51">pola magnetycznego Ziemi,</font>
+
+86
+00:08:04,240 --> 00:08:09,840
+<font color="#FFFF51">a także doskonale zapamiętują</font>
+<font color="#FFFF51">zapach okolicy, w której żyją</font>
+
+87
+00:08:10,000 --> 00:08:13,080
+<font color="#FFFF51">- są w stanie zlokalizować</font>
+<font color="#FFFF51">jego źródło</font>
+
+88
+00:08:13,240 --> 00:08:15,520
+<font color="#FFFF51">z bardzo dużej odległości.</font>
+
+89
+00:08:15,680 --> 00:08:17,200
+<font color="#FFFF51">Jak są w powietrzu,</font>
+
+90
+00:08:17,360 --> 00:08:20,760
+<font color="#FFFF51">tworzą szczegółową mapę</font>
+<font color="#FFFF51">powierzchni Ziemi.</font>
+
+91
+00:08:20,920 --> 00:08:26,200
+<font color="#FFFF51"> Dzięki temu mogą wrócić do domu</font>
+<font color="#FFFF51">z miejsca, w którym nigdy nie były,</font>
+
+92
+00:08:26,360 --> 00:08:29,200
+<font color="#FFFF51">oddalonego od domu</font>
+<font color="#FFFF51">o 2000 kilometrów,</font>
+
+93
+00:08:29,360 --> 00:08:32,360
+<font color="#FFFF51">z prędkością</font>
+<font color="#FFFF51">80 kilometrów na godzinę.</font>
+
+94
+00:08:32,520 --> 00:08:36,840
+<font color="#FFFF51">A my zamiast podziwiać gołębie,</font>
+<font color="#FFFF51">korzystać z ich wiedzy,</font>
+
+95
+00:08:37,000 --> 00:08:39,360
+<font color="#FFFF51">może nawet budować im pomniki,</font>
+
+96
+00:08:39,520 --> 00:08:43,280
+<font color="#FFFF51">stawiamy takie kolce,</font>
+<font color="#FFFF51">które mają je odstraszać.</font>
+
+97
+00:08:47,520 --> 00:08:50,400
+<font color="aqua">Grzywacz</font>
+<font color="aqua">to krewny gołębia miejskiego</font>
+
+98
+00:08:50,560 --> 00:08:54,280
+<font color="aqua">i największy gołąb</font>
+<font color="aqua">żyjący w Polsce na wolności.</font>
+
+99
+00:08:54,440 --> 00:08:57,440
+<font color="aqua">Ma biały kołnierzyk,</font>
+<font color="aqua">żółtą tęczówkę,</font>
+
+100
+00:08:57,600 --> 00:09:00,480
+<font color="aqua">jasny dziób oraz bladoróżową pierś.</font>
+
+101
+00:09:11,040 --> 00:09:14,880
+<font color="#FFFF51">Jak patrzę na grzywacza</font>
+<font color="#FFFF51">spacerującego po trawie,</font>
+
+102
+00:09:15,040 --> 00:09:17,720
+<font color="#FFFF51">mam wrażenie, że jest zaokrąglony,</font>
+
+103
+00:09:17,880 --> 00:09:20,600
+<font color="#FFFF51">żeby nie powiedzieć, że jest gruby.</font>
+
+104
+00:09:20,760 --> 00:09:24,160
+<font color="#FFFF51">Pierwotnie zasiedlały</font>
+<font color="#FFFF51">stare liściaste lasy,</font>
+
+105
+00:09:24,320 --> 00:09:26,360
+<font color="#FFFF51">gdzie było dużo pokarmu,</font>
+
+106
+00:09:26,520 --> 00:09:30,520
+<font color="#FFFF51">ale przez ostatnie 150 lat</font>
+<font color="#FFFF51">zaczęły podbijać Europę.</font>
+
+107
+00:09:30,680 --> 00:09:34,720
+<font color="#FFFF51">Teraz możemy je spotkać</font>
+<font color="#FFFF51">niemal na każdym trawniku.</font>
+
+108
+00:09:34,880 --> 00:09:37,800
+<font color="#FFFF51">Niestety w Polsce</font>
+<font color="#FFFF51">są gatunkiem łownym</font>
+
+109
+00:09:37,960 --> 00:09:40,280
+<font color="#FFFF51">i można do nich strzelać.</font>
+
+110
+00:09:55,320 --> 00:09:57,240
+<font color="#FFFF51">Okres polowań na ptaki</font>
+
+111
+00:09:57,400 --> 00:10:00,440
+<font color="#FFFF51">rozpoczyna się w Polsce</font>
+<font color="#FFFF51">15 sierpnia.</font>
+
+112
+00:10:00,600 --> 00:10:06,000
+<font color="#FFFF51">W trakcie sezonu łowieckiego</font>
+<font color="#FFFF51">myśliwi wystrzelą 600 ton ołowiu.</font>
+
+113
+00:10:06,160 --> 00:10:11,440
+<font color="#FFFF51">Jest to więcej, niż wyemituje</font>
+<font color="#FFFF51">do środowiska przemysł i transport.</font>
+
+114
+00:10:11,600 --> 00:10:15,840
+<font color="#FFFF51">Myśliwi strzelają do ptaków</font>
+<font color="#FFFF51">za pomocą takich nabojów.</font>
+
+115
+00:10:16,000 --> 00:10:17,840
+<font color="#FFFF51">W środku są śruciny.</font>
+
+116
+00:10:18,000 --> 00:10:23,200
+<font color="#FFFF51">Część śrucin zabije ptaki,</font>
+<font color="#FFFF51">ale część nie trafi albo je zrani.</font>
+
+117
+00:10:23,360 --> 00:10:28,360
+<font color="#FFFF51">Zraniony ptak spada i umiera</font>
+<font color="#FFFF51">przez kolejne dni i tygodnie,</font>
+
+118
+00:10:28,520 --> 00:10:33,120
+<font color="#FFFF51">a śruciny, które nie trafią,</font>
+<font color="#FFFF51">wylądują na ziemi i w wodzie,</font>
+
+119
+00:10:33,280 --> 00:10:36,280
+<font color="#FFFF51">doprowadzając</font>
+<font color="#FFFF51">do skażenia środowiska.</font>
+
+120
+00:10:36,440 --> 00:10:38,760
+<font color="#FFFF51">A to odczujemy już wszyscy.</font>
+
+121
+00:10:43,240 --> 00:10:46,560
+<font color="aqua">Sierpówka spokrewniona</font>
+<font color="aqua">z gołębiem miejskim</font>
+
+122
+00:10:46,720 --> 00:10:48,640
+<font color="aqua">wygląda zupełnie inaczej.</font>
+
+123
+00:10:48,800 --> 00:10:53,080
+<font color="aqua">W jej upierzeniu wyróżniają się</font>
+<font color="aqua">czarne pióra skrzydeł,</font>
+
+124
+00:10:53,240 --> 00:10:56,120
+<font color="aqua">półobroża na karku</font>
+<font color="aqua">oraz ciemne oczy.</font>
+
+125
+00:10:56,280 --> 00:11:00,440
+<font color="aqua">Jest także mniejsza i lżejsza</font>
+<font color="aqua">od gołębia miejskiego.</font>
+
+126
+00:11:31,920 --> 00:11:35,600
+<font color="#FFFF51">Badania prowadzone w Białymstoku</font>
+<font color="#FFFF51">potwierdziły,</font>
+
+127
+00:11:35,760 --> 00:11:40,880
+<font color="#FFFF51">że sierpówki najlepiej czują się</font>
+<font color="#FFFF51">w dzielnicy willowej</font>
+
+128
+00:11:41,040 --> 00:11:43,640
+<font color="#FFFF51">oraz w zabudowie śródmiejskiej,</font>
+
+129
+00:11:43,800 --> 00:11:47,760
+<font color="#FFFF51">a unikają dzielnic przemysłowych</font>
+<font color="#FFFF51">i obrzeży miast.</font>
+
+130
+00:11:47,920 --> 00:11:51,360
+<font color="#FFFF51">Sierpówka</font>
+<font color="#FFFF51">najliczniej występuje na Śląsku,</font>
+
+131
+00:11:51,520 --> 00:11:54,160
+<font color="#FFFF51">a najrzadziej na Suwalszczyźnie.</font>
+
+132
+00:11:54,320 --> 00:11:57,440
+<font color="#FFFF51">To jest prawdopodobnie</font>
+<font color="#FFFF51">spowodowane tym,</font>
+
+133
+00:11:57,600 --> 00:11:59,760
+<font color="#FFFF51">że sierpówki lubią ciepło.</font>
+
+134
+00:12:03,120 --> 00:12:06,840
+<font color="aqua">Sierpówka zdobyła Europę</font>
+<font color="aqua">w ostatnich 100 latach.</font>
+
+135
+00:12:07,000 --> 00:12:10,840
+<font color="aqua">Zaczęła od przedostania się</font>
+<font color="aqua">z Turcji do Bułgarii.</font>
+
+136
+00:12:11,000 --> 00:12:13,960
+<font color="aqua">W latach 30.</font>
+<font color="aqua">występowała na Bałkanach,</font>
+
+137
+00:12:14,120 --> 00:12:17,280
+<font color="aqua">a w latach 40.</font>
+<font color="aqua">zadomowiła się w Wiedniu.</font>
+
+138
+00:12:17,440 --> 00:12:20,880
+<font color="aqua">Pojawiła się w Polsce</font>
+<font color="aqua">w maju 1940 roku</font>
+
+139
+00:12:21,040 --> 00:12:22,840
+<font color="aqua">w okolicach Oleśnicy.</font>
+
+140
+00:12:23,000 --> 00:12:26,400
+<font color="aqua">W latach 60.</font>
+<font color="aqua">żyła w całej Europie Środkowej.</font>
+
+141
+00:12:26,560 --> 00:12:30,920
+<font color="aqua">Przez 10 lat zdobyła</font>
+<font color="aqua">Wyspy Brytyjskie, Francję i Włochy,</font>
+
+142
+00:12:31,080 --> 00:12:35,240
+<font color="aqua">a po 2000 roku osiedliła się</font>
+<font color="aqua">na Półwyspie Iberyjskim,</font>
+
+143
+00:12:35,400 --> 00:12:38,560
+<font color="aqua">skąd przedostała się</font>
+<font color="aqua">do Północnej Afryki.</font>
+
+144
+00:12:41,880 --> 00:12:46,320
+<font color="#FFFF51">Na sukces sierpówki</font>
+<font color="#FFFF51">wpływa co najmniej kilka czynników.</font>
+
+145
+00:12:46,480 --> 00:12:49,400
+<font color="#FFFF51">Po pierwsze - ocieplenie klimatu.</font>
+
+146
+00:12:49,560 --> 00:12:51,400
+<font color="#FFFF51">Zwykle jest odwrotnie.</font>
+
+147
+00:12:51,560 --> 00:12:56,000
+<font color="#FFFF51">Po drugie - zakłada gniazda</font>
+<font color="#FFFF51">blisko naszych domów.</font>
+
+148
+00:12:56,160 --> 00:13:02,000
+<font color="#FFFF51">Po trzecie - jest w stanie odbywać</font>
+<font color="#FFFF51">w Polsce nawet siedem lęgów.</font>
+
+149
+00:13:02,160 --> 00:13:05,520
+<font color="#FFFF51">Jej okres lęgowy</font>
+<font color="#FFFF51">może trwać nawet 200 dni,</font>
+
+150
+00:13:05,680 --> 00:13:07,840
+<font color="#FFFF51">od marca do listopada.</font>
+
+151
+00:13:08,000 --> 00:13:12,080
+<font color="#FFFF51">Nie znam w Polsce</font>
+<font color="#FFFF51">drugiego gatunku tych rozmiarów,</font>
+
+152
+00:13:12,240 --> 00:13:15,120
+<font color="#FFFF51">który tak intensywnie się rozmnaża.</font>
+
+153
+00:13:19,920 --> 00:13:23,680
+<font color="aqua">Gołębie zjadają dziennie</font>
+<font color="aqua">około 50 gramów nasion,</font>
+
+154
+00:13:23,840 --> 00:13:26,560
+<font color="aqua">które stanowią podstawę ich diety.</font>
+
+155
+00:13:26,720 --> 00:13:30,480
+<font color="aqua">Chętnie żywią się pszenicą</font>
+<font color="aqua">oraz innymi zbożami.</font>
+
+156
+00:13:55,920 --> 00:14:00,920
+<font color="#FFFF51">Gołębie uwielbiają ziarna zbóż,</font>
+<font color="#FFFF51">a pszenicy w szczególności.</font>
+
+157
+00:14:01,080 --> 00:14:02,920
+<font color="#FFFF51">Ale uspokoję rolników,</font>
+
+158
+00:14:03,080 --> 00:14:08,480
+<font color="#FFFF51">że nie potrafią wyłuskiwać ziaren</font>
+<font color="#FFFF51">z kłosów stojącej rośliny,</font>
+
+159
+00:14:08,640 --> 00:14:11,640
+<font color="#FFFF51">a czekają na ziarna, które spadają.</font>
+
+160
+00:14:11,800 --> 00:14:15,280
+<font color="#FFFF51">Tymi ziarnami</font>
+<font color="#FFFF51">rolnicy się nie interesują,</font>
+
+161
+00:14:15,440 --> 00:14:19,920
+<font color="#FFFF51">co oznacza,</font>
+<font color="#FFFF51">że gołębie nie wyrządzają strat.</font>
+
+162
+00:14:20,080 --> 00:14:24,880
+<font color="#FFFF51">Do diety dołączają także</font>
+<font color="#FFFF51">owoce, korzonki, pączki liści,</font>
+
+163
+00:14:25,040 --> 00:14:27,360
+<font color="#FFFF51">a także owady i dżdżownice,</font>
+
+164
+00:14:27,520 --> 00:14:31,200
+<font color="#FFFF51">a to wszystko zależy</font>
+<font color="#FFFF51">od pogody i od pory roku.</font>
+
+165
+00:15:04,560 --> 00:15:08,160
+<font color="#FFFF51">Wydaje się,</font>
+<font color="#FFFF51">że powodem do uprawiania pszenicy</font>
+
+166
+00:15:08,320 --> 00:15:10,520
+<font color="#FFFF51">była chęć produkowania piwa,</font>
+
+167
+00:15:10,680 --> 00:15:13,520
+<font color="#FFFF51">dopiero później</font>
+<font color="#FFFF51">na scenę wkroczył jęczmień.</font>
+
+168
+00:15:13,680 --> 00:15:18,240
+<font color="#FFFF51">Zmiany w wyglądzie rośliny</font>
+<font color="#FFFF51">zaszły w połowie zeszłego wieku</font>
+
+169
+00:15:18,400 --> 00:15:20,240
+<font color="#FFFF51">i doprowadziły do tego,</font>
+
+170
+00:15:20,400 --> 00:15:23,960
+<font color="#FFFF51">że plony pszenicy</font>
+<font color="#FFFF51">są dziesięciokrotnie większe</font>
+
+171
+00:15:24,120 --> 00:15:26,320
+<font color="#FFFF51">niż w czasach historycznych.</font>
+
+172
+00:15:26,480 --> 00:15:31,400
+<font color="#FFFF51">Zmiana to na przykład to,</font>
+<font color="#FFFF51">że pszenica miała 120 centymetrów,</font>
+
+173
+00:15:31,560 --> 00:15:33,480
+<font color="#FFFF51">a teraz zaledwie 40-50.</font>
+
+174
+00:15:33,640 --> 00:15:36,440
+<font color="#FFFF51">Kolejna różnica to wielkość kłosów.</font>
+
+175
+00:15:36,600 --> 00:15:40,840
+<font color="#FFFF51">Są czterokrotnie większe,</font>
+<font color="#FFFF51">przez co nasiona są większe.</font>
+
+176
+00:15:41,000 --> 00:15:42,880
+<font color="#FFFF51">Ostatnia zmiana to taka,</font>
+
+177
+00:15:43,040 --> 00:15:45,800
+<font color="#FFFF51">że łatwiej oddzielić ziarno</font>
+<font color="#FFFF51">od plew.</font>
+
+178
+00:15:45,960 --> 00:15:50,240
+<font color="#FFFF51">Wystarczy chwycić ziarno</font>
+<font color="#FFFF51">i mocno rozetrzeć.</font>
+
+179
+00:15:52,280 --> 00:15:54,080
+<font color="#FFFF51">Proszę bardzo.</font>
+
+180
+00:15:58,120 --> 00:16:00,400
+<font color="aqua">Jastrząb poluje z zasadzki.</font>
+
+181
+00:16:00,560 --> 00:16:04,680
+<font color="aqua">Lata nisko, korzystając z osłon</font>
+<font color="aqua">takich jak krzaki,</font>
+
+182
+00:16:04,840 --> 00:16:08,320
+<font color="aqua">dzięki czemu zaskakuje</font>
+<font color="aqua">swoje ofiary.</font>
+
+183
+00:16:08,480 --> 00:16:14,360
+<font color="aqua">Wyspecjalizował się w polowaniu</font>
+<font color="aqua">na grzywacze oraz sierpówki.</font>
+
+184
+00:16:39,360 --> 00:16:43,880
+<font color="#FFFF51">Jastrząb to śmiertelne zagrożenie</font>
+<font color="#FFFF51">dla wszystkich gołębi,</font>
+
+185
+00:16:44,040 --> 00:16:47,080
+<font color="#FFFF51">ponieważ stanowią</font>
+<font color="#FFFF51">podstawę jego diety.</font>
+
+186
+00:16:47,240 --> 00:16:50,000
+<font color="#FFFF51">Jednocześnie to jego przekleństwo,</font>
+
+187
+00:16:50,160 --> 00:16:53,440
+<font color="#FFFF51">ponieważ z tego powodu</font>
+<font color="#FFFF51">tępiono jastrzębie.</font>
+
+188
+00:16:53,600 --> 00:16:57,560
+<font color="#FFFF51">Hodowcy gołębi</font>
+<font color="#FFFF51">uważają jastrzębie za zło wcielone,</font>
+
+189
+00:16:57,720 --> 00:17:01,640
+<font color="#FFFF51">a dawniej wierzono,</font>
+<font color="#FFFF51">że jastrząb to diabeł,</font>
+
+190
+00:17:01,800 --> 00:17:05,320
+<font color="#FFFF51">ponieważ chwyta ptaki tak,</font>
+<font color="#FFFF51">jak szatan duszę.</font>
+
+191
+00:17:26,000 --> 00:17:28,960
+<font color="#FFFF51">Jastrząb jest gatunkiem chronionym,</font>
+
+192
+00:17:29,120 --> 00:17:33,360
+<font color="#FFFF51">więc samo jego płoszenie</font>
+<font color="#FFFF51">jest łamaniem prawa.</font>
+
+193
+00:17:33,520 --> 00:17:37,520
+<font color="#FFFF51">Niestety niektórzy</font>
+<font color="#FFFF51">traktują jastrzębie bestialsko.</font>
+
+194
+00:17:37,680 --> 00:17:39,680
+<font color="#FFFF51">Czytałem o ludziach,</font>
+
+195
+00:17:39,840 --> 00:17:43,240
+<font color="#FFFF51">którzy chwytali ptaki,</font>
+<font color="#FFFF51">obcinali im szpony,</font>
+
+196
+00:17:43,400 --> 00:17:45,320
+<font color="#FFFF51">a potem wypuszczali je.</font>
+
+197
+00:17:45,480 --> 00:17:48,640
+<font color="#FFFF51">Oczywiście umierały w cierpieniach.</font>
+
+198
+00:17:48,800 --> 00:17:52,480
+<font color="#FFFF51">Inni krzyżowali je,</font>
+<font color="#FFFF51">przybijając do drzew.</font>
+
+199
+00:17:52,640 --> 00:17:56,480
+<font color="#FFFF51">Wyrządziliśmy</font>
+<font color="#FFFF51">tak dużo krzywdy jastrzębiom,</font>
+
+200
+00:17:56,640 --> 00:18:01,240
+<font color="#FFFF51">że uciekają przed naszym wzrokiem</font>
+<font color="#FFFF51">i chowają się w lesie,</font>
+
+201
+00:18:01,400 --> 00:18:03,720
+<font color="#FFFF51">bo tu czują się bezpiecznie.</font>
+
+202
+00:18:19,800 --> 00:18:23,360
+<font color="#FFFF51">Okres wiosny i lata</font>
+<font color="#FFFF51">to uczta dla jastrzębi,</font>
+
+203
+00:18:23,520 --> 00:18:27,520
+<font color="#FFFF51">dlatego że jest mnóstwo</font>
+<font color="#FFFF51">niedoświadczonych gołębi,</font>
+
+204
+00:18:27,680 --> 00:18:29,480
+<font color="#FFFF51">na które mogą polować.</font>
+
+205
+00:18:29,640 --> 00:18:33,600
+<font color="#FFFF51">W zimie część ptaków</font>
+<font color="#FFFF51">poleciała do ciepłych krajów,</font>
+
+206
+00:18:33,760 --> 00:18:37,120
+<font color="#FFFF51">a te, co zostały,</font>
+<font color="#FFFF51">są na tyle doświadczone,</font>
+
+207
+00:18:37,280 --> 00:18:39,080
+<font color="#FFFF51">że unikają ataków.</font>
+
+208
+00:18:39,240 --> 00:18:42,920
+<font color="#FFFF51">Pamiętam doskonale</font>
+<font color="#FFFF51">pewien zimowy poranek.</font>
+
+209
+00:18:43,080 --> 00:18:47,320
+<font color="#FFFF51">Na takiej polanie</font>
+<font color="#FFFF51">jastrząb gonił gołębia, dopadł go,</font>
+
+210
+00:18:47,480 --> 00:18:49,680
+<font color="#FFFF51">po czym zaczął go zjadać.</font>
+
+211
+00:18:49,840 --> 00:18:52,560
+<font color="#FFFF51">Pomimo tego, że jest środek lata,</font>
+
+212
+00:18:52,720 --> 00:18:56,360
+<font color="#FFFF51">pamiętam tamten dzień,</font>
+<font color="#FFFF51">jakby było to wczoraj.</font>
+
+213
+00:18:59,360 --> 00:19:03,560
+<font color="aqua">Nawłoć kanadyjską</font>
+<font color="aqua">z gołębiem miejskim łączą hodowcy.</font>
+
+214
+00:19:03,720 --> 00:19:06,360
+<font color="aqua">Obydwa gatunki uciekły z hodowli</font>
+
+215
+00:19:06,520 --> 00:19:09,680
+<font color="aqua">i zadomowiły się</font>
+<font color="aqua">w polskim krajobrazie.</font>
+
+216
+00:19:17,520 --> 00:19:20,400
+<font color="#FFFF51">Gołębie, które uciekły hodowcom,</font>
+
+217
+00:19:20,560 --> 00:19:24,120
+<font color="#FFFF51">zaczęły krzyżować się</font>
+<font color="#FFFF51">z gołębiami skalnymi.</font>
+
+218
+00:19:24,280 --> 00:19:28,200
+<font color="#FFFF51">Ich potomstwo nie miało</font>
+<font color="#FFFF51">bojaźni przed człowiekiem</font>
+
+219
+00:19:28,360 --> 00:19:30,720
+<font color="#FFFF51">i zaczęło zasiedlać miasta.</font>
+
+220
+00:19:30,880 --> 00:19:35,800
+<font color="#FFFF51">Gołębie miejskie żyją</font>
+<font color="#FFFF51">w każdym większym polskim mieście.</font>
+
+221
+00:19:35,960 --> 00:19:38,880
+<font color="#FFFF51">Z nawłocią kanadyjską</font>
+<font color="#FFFF51">było podobnie.</font>
+
+222
+00:19:39,040 --> 00:19:41,880
+<font color="#FFFF51">Sprowadzili ją do Europy</font>
+<font color="#FFFF51">pszczelarze</font>
+
+223
+00:19:42,040 --> 00:19:44,120
+<font color="#FFFF51">ze względu na miododajność,</font>
+
+224
+00:19:44,280 --> 00:19:47,560
+<font color="#FFFF51">sięgającą</font>
+<font color="#FFFF51">tysiąca kilogramów na hektar.</font>
+
+225
+00:19:47,720 --> 00:19:50,520
+<font color="#FFFF51">Nawłoć wymknęła się spod kontroli</font>
+
+226
+00:19:50,680 --> 00:19:53,920
+<font color="#FFFF51">i teraz zagraża</font>
+<font color="#FFFF51">polskiej przyrodzie.</font>
+
+227
+00:20:20,800 --> 00:20:25,520
+<font color="#FFFF51">Nawłoć kanadyjska</font>
+<font color="#FFFF51">należy do roślin allelopatycznych.</font>
+
+228
+00:20:25,680 --> 00:20:29,120
+<font color="#FFFF51">Oznacza to,</font>
+<font color="#FFFF51">że wytwarza związki chemiczne,</font>
+
+229
+00:20:29,280 --> 00:20:33,280
+<font color="#FFFF51">które mają hamować rozwój</font>
+<font color="#FFFF51">innych gatunków roślin.</font>
+
+230
+00:20:33,440 --> 00:20:36,560
+<font color="#FFFF51">Osiąga ogromne zagęszczenia,</font>
+
+231
+00:20:36,720 --> 00:20:40,160
+<font color="#FFFF51">sięgające 300 pędów</font>
+<font color="#FFFF51">na metr kwadratowy.</font>
+
+232
+00:20:40,320 --> 00:20:43,480
+<font color="#FFFF51">Jak inne gatunki</font>
+<font color="#FFFF51">w tym oceanie nawłoci</font>
+
+233
+00:20:43,640 --> 00:20:46,280
+<font color="#FFFF51">mają znaleźć miejsce dla siebie?</font>
+
+234
+00:20:46,440 --> 00:20:50,160
+<font color="#FFFF51">Jak możemy walczyć</font>
+<font color="#FFFF51">z tak inwazyjnym gatunkiem?</font>
+
+235
+00:21:13,440 --> 00:21:16,120
+<font color="#FFFF51">Czytałem, że herbata z nawłoci</font>
+
+236
+00:21:16,280 --> 00:21:19,720
+<font color="#FFFF51">ma właściwości</font>
+<font color="#FFFF51">pobudzające i wzmacniające.</font>
+
+237
+00:21:19,880 --> 00:21:23,640
+<font color="#FFFF51">To będzie mój pomysł</font>
+<font color="#FFFF51">na walkę z tym gatunkiem.</font>
+
+238
+00:21:23,800 --> 00:21:28,680
+<font color="#FFFF51">Wobec takiej ilości surowca</font>
+<font color="#FFFF51">nie ma na co czekać. Zaczynam.</font>
+
+239
+00:23:03,400 --> 00:23:06,000
+<font color="#FFFF51">Pachnie całkiem ładnie.</font>
+
+240
+00:23:10,800 --> 00:23:12,680
+<font color="#FFFF51">Obrzydliwe.</font>
+
+241
+00:23:12,840 --> 00:23:16,040
+<font color="#FFFF51">ZE ŚMIECHEM:</font>
+<font color="#FFFF51">Ojejku, jakie to niedobre.</font>
+
+242
+00:23:16,200 --> 00:23:19,840
+<font color="#FFFF51">Musi być zdrowe,</font>
+<font color="#FFFF51">skoro tak obrzydliwie smakuje.</font>
+
+243
+00:23:20,000 --> 00:23:22,840
+<font color="#FFFF51">A może czytałem</font>
+<font color="#FFFF51">o nawłoci pospolitej?</font>
+
+244
+00:23:23,000 --> 00:23:25,840
+<font color="#FFFF51">Tak, to ona ma</font>
+<font color="#FFFF51">właściwości moczopędne,</font>
+
+245
+00:23:26,000 --> 00:23:28,320
+<font color="#FFFF51">odkażające i przeciwbakteryjne,</font>
+
+246
+00:23:28,480 --> 00:23:32,760
+<font color="#FFFF51">a nawłoć kanadyjska chyba nie ma</font>
+<font color="#FFFF51">właściwości leczniczych.</font>
+
+247
+00:23:32,920 --> 00:23:35,480
+<font color="#FFFF51">Tak na pewno z nią nie wygramy.</font>
+
+248
+00:23:40,240 --> 00:23:42,400
+<font color="#FFFF51">Idę w teren w takim razie.</font>
+
+249
+00:23:48,280 --> 00:23:52,160
+<font color="#FFFF51">Znane są inne skuteczne metody</font>
+<font color="#FFFF51">walki z nawłocią.</font>
+
+250
+00:23:52,320 --> 00:23:56,040
+<font color="#FFFF51">Na szczęście,</font>
+<font color="#FFFF51">bo nie dałbym rady całej wypić.</font>
+
+251
+00:23:56,200 --> 00:23:58,400
+<font color="#FFFF51">Zobaczcie, ile tu jej jest.</font>
+
+252
+00:23:58,560 --> 00:24:03,080
+<font color="#FFFF51">Najskuteczniejsza z metod</font>
+<font color="#FFFF51">to koszenie w maju i w sierpniu.</font>
+
+253
+00:24:03,240 --> 00:24:05,040
+<font color="#FFFF51">Osłabia to nawłoć tak,</font>
+
+254
+00:24:05,200 --> 00:24:08,920
+<font color="#FFFF51">że nie jest w stanie</font>
+<font color="#FFFF51">zagłuszyć naszych gatunków,</font>
+
+255
+00:24:09,080 --> 00:24:12,960
+<font color="#FFFF51">które mogą wkroczyć na scenę</font>
+<font color="#FFFF51">i przejąć kontrolę.</font>
+
+256
+00:24:18,160 --> 00:24:20,120
+<font color="aqua">Przyroda żyje wszędzie,</font>
+
+257
+00:24:20,280 --> 00:24:25,000
+<font color="aqua">a sieć powiązań możemy dostrzec</font>
+<font color="aqua">w betonowej dżungli miast.</font>
+
+258
+00:24:25,160 --> 00:24:29,040
+<font color="aqua">Dziś dostrzegaliśmy</font>
+<font color="aqua">powiązania gołębia miejskiego</font>
+
+259
+00:24:29,200 --> 00:24:32,200
+<font color="aqua">z grzywaczem,</font>
+<font color="aqua">sierpówką, jastrzębiem.</font>
+
+260
+00:24:32,360 --> 00:24:35,360
+<font color="aqua">Ich los</font>
+<font color="aqua">nie jest jeszcze przesądzony.</font>
+
+261
+00:24:35,520 --> 00:24:38,600
+<font color="aqua">Wszystko zależy</font>
+<font color="aqua">od naszej dobrej woli.</font>
+
+262
+00:24:40,040 --> 00:24:43,160
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+263
+00:24:43,320 --> 00:24:46,960
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+264
+00:24:57,920 --> 00:24:59,760
+
+

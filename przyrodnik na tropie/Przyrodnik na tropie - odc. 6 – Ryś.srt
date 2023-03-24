@@ -1,0 +1,1183 @@
+1
+00:00:02,280 --> 00:00:05,320
+<font color="aqua">Przyrodnika</font>
+<font color="aqua">rzadko spotkamy w mieście,</font>
+
+2
+00:00:05,480 --> 00:00:09,360
+<font color="aqua">bo źle się czuje tam,</font>
+<font color="aqua">gdzie jest za mało drzew.</font>
+
+3
+00:00:09,520 --> 00:00:14,160
+<font color="aqua">Rozległe, dzikie lasy</font>
+<font color="aqua">to zdecydowanie jego siedlisko.</font>
+
+4
+00:00:14,320 --> 00:00:16,880
+<font color="aqua">Nie rozstaje się z aparatem.</font>
+
+5
+00:00:17,040 --> 00:00:22,040
+<font color="aqua">Przyrodę podgląda z ukrycia,</font>
+<font color="aqua">wtapiając się w kępę krzaków.</font>
+
+6
+00:00:22,200 --> 00:00:26,920
+<font color="aqua">Poznajcie Łukasza Bożyckiego,</font>
+<font color="aqua">czyli przyrodnika na tropie.</font>
+
+7
+00:00:49,360 --> 00:00:52,920
+<font color="#FFFF51">Bohater odcinka</font>
+<font color="#FFFF51">prowadzi samotny tryb życia.</font>
+
+8
+00:00:53,080 --> 00:00:56,840
+<font color="#FFFF51">Broni swojego terytorium</font>
+<font color="#FFFF51">przed intruzami.</font>
+
+9
+00:00:57,000 --> 00:01:02,480
+<font color="#FFFF51">A ma co bronić! Jego terytorium</font>
+<font color="#FFFF51">może obejmować obszar do 350 km2.</font>
+
+10
+00:01:02,640 --> 00:01:04,760
+<font color="#FFFF51">A to oznaczałoby,</font>
+
+11
+00:01:04,920 --> 00:01:08,800
+<font color="#FFFF51">że w Warszawie mogłyby żyć</font>
+<font color="#FFFF51">jedynie dwa osobniki.</font>
+
+12
+00:01:08,960 --> 00:01:14,560
+<font color="#FFFF51">A tymczasem żyje 2 mln ludzi.</font>
+<font color="#FFFF51">Dobrze, że potrafimy żyć w zgodzie.</font>
+
+13
+00:01:14,720 --> 00:01:17,640
+<font color="#FFFF51">Gdybyśmy byli</font>
+<font color="#FFFF51">bohaterem tego odcinka,</font>
+
+14
+00:01:17,800 --> 00:01:21,880
+<font color="#FFFF51">na terytorium Polski</font>
+<font color="#FFFF51">żyłoby mniej niż 900 osób.</font>
+
+15
+00:01:24,360 --> 00:01:26,920
+<font color="#FFFF51">Bohater odcinka jest drapieżnikiem,</font>
+
+16
+00:01:27,080 --> 00:01:30,640
+<font color="#FFFF51">który po upolowaniu ofiary</font>
+<font color="#FFFF51">ukrywa ją w lesie,</font>
+
+17
+00:01:30,800 --> 00:01:34,880
+<font color="#FFFF51">często przykrywając liśćmi,</font>
+<font color="#FFFF51">żeby nikt mu jej nie zjadł.</font>
+
+18
+00:01:35,040 --> 00:01:37,680
+<font color="#FFFF51">Zostawia sobie jedzenie na później.</font>
+
+19
+00:01:37,840 --> 00:01:41,440
+<font color="#FFFF51">Jego nazwa pochodzi</font>
+<font color="#FFFF51">od prasłowiańskiego słowa,</font>
+
+20
+00:01:41,600 --> 00:01:44,680
+<font color="#FFFF51">które można przetłumaczyć</font>
+<font color="#FFFF51">jako "szybki".</font>
+
+21
+00:01:44,840 --> 00:01:49,040
+<font color="#FFFF51">Dawniej mówiono: "ruszyć rysią",</font>
+<font color="#FFFF51">czyli "ruszyć szybko".</font>
+
+22
+00:01:49,200 --> 00:01:52,320
+<font color="#FFFF51">Już się pewnie domyślacie,</font>
+<font color="#FFFF51">o kim mowa.</font>
+
+23
+00:01:52,480 --> 00:01:57,040
+<font color="#FFFF51">To jeden z największych</font>
+<font color="#FFFF51">i najskrytszych drapieżników Europy</font>
+
+24
+00:01:57,200 --> 00:01:59,000
+<font color="#FFFF51">- ryś.</font>
+
+25
+00:01:59,160 --> 00:02:03,000
+<font color="aqua">Ryś to jeden z największych</font>
+<font color="aqua">drapieżników Europy,</font>
+
+26
+00:02:03,160 --> 00:02:06,600
+<font color="aqua">o czym świadczy długość ciała</font>
+<font color="aqua">- do 150 cm.</font>
+
+27
+00:02:06,760 --> 00:02:11,200
+<font color="aqua">Na końcach uszu ma pędzelki</font>
+<font color="aqua">sztywnych, czarnych włosów,</font>
+
+28
+00:02:11,360 --> 00:02:16,360
+<font color="aqua">które skupiają fale dźwiękowe,</font>
+<font color="aqua">dzięki czemu ryś lepiej słyszy.</font>
+
+29
+00:02:16,520 --> 00:02:20,760
+<font color="aqua">Unikalny jest ogon rysia</font>
+<font color="aqua">- krótki i ciemny na końcu -</font>
+
+30
+00:02:20,920 --> 00:02:23,400
+<font color="aqua">oraz potężne łapy z pazurami,</font>
+
+31
+00:02:23,560 --> 00:02:27,760
+<font color="aqua">które umożliwiają rysiowi</font>
+<font color="aqua">wspinanie się po drzewach.</font>
+
+32
+00:02:30,040 --> 00:02:32,320
+<font color="#FFFF51">Ryś zachowuje się jak kot.</font>
+
+33
+00:02:32,480 --> 00:02:35,640
+<font color="#FFFF51">To oczywiste,</font>
+<font color="#FFFF51">ale jak o tym pomyślicie,</font>
+
+34
+00:02:35,800 --> 00:02:39,160
+<font color="#FFFF51">to zrozumiecie,</font>
+<font color="#FFFF51">czemu go trudno zobaczyć.</font>
+
+35
+00:02:39,320 --> 00:02:44,560
+<font color="#FFFF51">Gdy kot zobaczy człowieka,</font>
+<font color="#FFFF51">chowa się, odprowadza go wzrokiem</font>
+
+36
+00:02:44,720 --> 00:02:46,720
+<font color="#FFFF51">i idzie w swoją stronę.</font>
+
+37
+00:02:46,880 --> 00:02:49,200
+<font color="#FFFF51">Wilk zachowuje się jak pies,</font>
+
+38
+00:02:49,360 --> 00:02:52,240
+<font color="#FFFF51">który jak zobaczy człowieka,</font>
+<font color="#FFFF51">ucieka.</font>
+
+39
+00:02:52,400 --> 00:02:56,160
+<font color="#FFFF51">Mamy wzrok wyczulony na ruch,</font>
+<font color="#FFFF51">więc go zauważamy.</font>
+
+40
+00:02:56,320 --> 00:03:01,920
+<font color="#FFFF51">Mówi się, że rysie widzą człowieka</font>
+<font color="#FFFF51">częściej niż człowiek rysie.</font>
+
+41
+00:03:07,480 --> 00:03:12,320
+<font color="#FFFF51">Żeby zwiększyć szanse na zobaczenie</font>
+<font color="#FFFF51">rysia w Puszczy Piskiej,</font>
+
+42
+00:03:12,480 --> 00:03:14,280
+<font color="#FFFF51">użyję fotopułapki.</font>
+
+43
+00:03:14,440 --> 00:03:18,160
+<font color="#FFFF51">To drzewo będzie najlepsze</font>
+<font color="#FFFF51">do jej zamontowania,</font>
+
+44
+00:03:18,320 --> 00:03:23,880
+<font color="#FFFF51">bo te świerki tworzą przewężenie,</font>
+<font color="#FFFF51">z którego zwierzęta będą korzystać.</font>
+
+45
+00:03:24,040 --> 00:03:29,280
+<font color="#FFFF51">Liczę, że także ryś zauważy,</font>
+<font color="#FFFF51">że tędy jest najlepsze przejście.</font>
+
+46
+00:03:50,400 --> 00:03:52,200
+<font color="#8080FF">TRZASK MIGAWKI APARATU</font>
+
+47
+00:04:31,280 --> 00:04:35,000
+<font color="aqua">Sarna jest główną</font>
+<font color="aqua">i najczęstszą ofiarą rysia,</font>
+
+48
+00:04:35,160 --> 00:04:38,520
+<font color="aqua">stanowiąc jego podstawowe</font>
+<font color="aqua">źródło pokarmu.</font>
+
+49
+00:04:42,000 --> 00:04:47,080
+<font color="#FFFF51">Dorosły samiec rysia potrzebuje</font>
+<font color="#FFFF51">zabić sarnę co piąty dzień.</font>
+
+50
+00:04:47,240 --> 00:04:50,840
+<font color="#FFFF51">Najskuteczniejsza</font>
+<font color="#FFFF51">jest dorosła samica rysia,</font>
+
+51
+00:04:51,000 --> 00:04:53,040
+<font color="#FFFF51">która wychowuje kocięta.</font>
+
+52
+00:04:53,200 --> 00:04:58,480
+<font color="#FFFF51">Żeby mogła wykarmić trójkę kociąt</font>
+<font color="#FFFF51">i samej nie umrzeć z głodu,</font>
+
+53
+00:04:58,640 --> 00:05:02,280
+<font color="#FFFF51">musi zabić sarnę albo jelenia</font>
+<font color="#FFFF51">co drugi dzień.</font>
+
+54
+00:05:02,440 --> 00:05:05,720
+<font color="#FFFF51">To oznacza,</font>
+<font color="#FFFF51">że w ciągu roku rodzina rysi</font>
+
+55
+00:05:05,880 --> 00:05:08,960
+<font color="#FFFF51">potrzebuje do przeżycia</font>
+<font color="#FFFF51">ok. 200 saren.</font>
+
+56
+00:05:34,240 --> 00:05:36,200
+<font color="#FFFF51">Jestem w stołówce sarny.</font>
+
+57
+00:05:36,360 --> 00:05:39,840
+<font color="#FFFF51">To miejsce</font>
+<font color="#FFFF51">nie wygląda jak stołówka,</font>
+
+58
+00:05:40,000 --> 00:05:43,600
+<font color="#FFFF51">ale można zauważyć</font>
+<font color="#FFFF51">te niskie drzewka - graby,</font>
+
+59
+00:05:43,760 --> 00:05:47,240
+<font color="#FFFF51">ulubiony pokarm sarny,</font>
+<font color="#FFFF51">która je często ogryza.</font>
+
+60
+00:05:47,400 --> 00:05:52,200
+<font color="#FFFF51">Te drzewka mają pięć lat.</font>
+<font color="#FFFF51">Powinny być dużo wyższe ode mnie.</font>
+
+61
+00:05:52,360 --> 00:05:54,720
+<font color="#FFFF51">Jeśli chcemy mieć dużo rysi,</font>
+
+62
+00:05:54,880 --> 00:05:57,640
+<font color="#FFFF51">musimy zadbać, by było dużo saren,</font>
+
+63
+00:05:57,800 --> 00:06:00,800
+<font color="#FFFF51">dlatego sadzimy też</font>
+<font color="#FFFF51">drzewka owocowe,</font>
+
+64
+00:06:00,960 --> 00:06:02,920
+<font color="#FFFF51">uwielbiane przez sarny.</font>
+
+65
+00:06:03,080 --> 00:06:07,680
+<font color="#FFFF51">Żeby dorosły do takich rozmiarów,</font>
+<font color="#FFFF51">w których wydają owoce,</font>
+
+66
+00:06:07,840 --> 00:06:09,640
+<font color="#FFFF51">musimy je ogrodzić,</font>
+
+67
+00:06:09,800 --> 00:06:14,040
+<font color="#FFFF51">bo inaczej sarny je zgryzą,</font>
+<font color="#FFFF51">a drzewka nie zaowocują.</font>
+
+68
+00:06:16,600 --> 00:06:19,520
+<font color="aqua">Sarny unikają</font>
+<font color="aqua">spotkań z człowiekiem,</font>
+
+69
+00:06:19,680 --> 00:06:22,520
+<font color="aqua">ukrywając się w gęstej roślinności.</font>
+
+70
+00:06:22,680 --> 00:06:26,360
+<font color="aqua">Najaktywniejsze są</font>
+<font color="aqua">między zmierzchem a świtem.</font>
+
+71
+00:06:26,520 --> 00:06:30,880
+<font color="aqua">Wychodzą na otwartą przestrzeń</font>
+<font color="aqua">w poszukiwaniu pokarmu.</font>
+
+72
+00:06:31,040 --> 00:06:33,920
+<font color="aqua">Nieustannie wypatrują drapieżników,</font>
+
+73
+00:06:34,080 --> 00:06:37,480
+<font color="aqua">a w chwili zagrożenia</font>
+<font color="aqua">chowają się w lesie.</font>
+
+74
+00:06:57,280 --> 00:07:01,240
+<font color="#FFFF51">Dlaczego sarny nie jedzą</font>
+<font color="#FFFF51">tych wszystkich roślin?</font>
+
+75
+00:07:01,400 --> 00:07:05,160
+<font color="#FFFF51">Po pierwsze -</font>
+<font color="#FFFF51">nie wszystkie im smakują.</font>
+
+76
+00:07:05,320 --> 00:07:09,920
+<font color="#FFFF51">Np. czeremcha amerykańska.</font>
+<font color="#FFFF51">Jedzą ją tylko w ostateczności</font>
+
+77
+00:07:10,080 --> 00:07:13,080
+<font color="#FFFF51">albo kiedy chcą</font>
+<font color="#FFFF51">się pozbyć pasożytów.</font>
+
+78
+00:07:13,240 --> 00:07:17,880
+<font color="#FFFF51">Niektóre rośliny są zbyt duże,</font>
+<font color="#FFFF51">jak np. ten dąb.</font>
+
+79
+00:07:18,040 --> 00:07:22,680
+<font color="#FFFF51">Sarna, gdyby do niego dosięgnęła,</font>
+<font color="#FFFF51">zgryzłaby go z radością.</font>
+
+80
+00:07:34,720 --> 00:07:37,800
+<font color="#FFFF51">Sarny żywią się</font>
+<font color="#FFFF51">nie tylko pędami drzew,</font>
+
+81
+00:07:37,960 --> 00:07:42,320
+<font color="#FFFF51">ale też ziołami, trawami,</font>
+<font color="#FFFF51">owocami leśnymi i grzybami.</font>
+
+82
+00:07:42,480 --> 00:07:46,200
+<font color="#FFFF51">Uwielbiają opieńki miodowe,</font>
+<font color="#FFFF51">tak jak człowiek.</font>
+
+83
+00:07:46,360 --> 00:07:50,760
+<font color="#FFFF51">Wiedzieliście, że opieńki</font>
+<font color="#FFFF51">mają bioluminescencję?</font>
+
+84
+00:07:50,920 --> 00:07:53,640
+<font color="#FFFF51">Oznacza to, że produkują światło.</font>
+
+85
+00:07:53,800 --> 00:07:58,360
+<font color="#FFFF51">Nie świeci owocnik,</font>
+<font color="#FFFF51">tylko grzybnia, ukryta pod ziemią.</font>
+
+86
+00:07:58,520 --> 00:08:01,520
+<font color="#FFFF51">Jest to poza zasięgiem</font>
+<font color="#FFFF51">naszego wzroku.</font>
+
+87
+00:08:01,680 --> 00:08:03,480
+<font color="#FFFF51">Badania pokazują,</font>
+
+88
+00:08:03,640 --> 00:08:08,760
+<font color="#FFFF51">że najintensywniejsze świecenie</font>
+<font color="#FFFF51">odbywa się o 17.30 - to ciekawe.</font>
+
+89
+00:08:14,920 --> 00:08:17,600
+<font color="#FFFF51">Wiecie, ile trwa ciąża u sarny?</font>
+
+90
+00:08:17,760 --> 00:08:21,680
+<font color="#FFFF51">Tu nie ma prostej odpowiedzi</font>
+<font color="#FFFF51">jak u człowieka.</font>
+
+91
+00:08:21,840 --> 00:08:26,960
+<font color="#FFFF51">U sarny ciąża może trwać</font>
+<font color="#FFFF51">10 miesięcy albo 4,5 miesiąca.</font>
+
+92
+00:08:27,120 --> 00:08:30,080
+<font color="#FFFF51">Sarna umie regulować</font>
+<font color="#FFFF51">rozwój zarodka,</font>
+
+93
+00:08:30,240 --> 00:08:35,160
+<font color="#FFFF51">aby młode urodziły się wiosną,</font>
+<font color="#FFFF51">kiedy jest najwięcej pokarmu.</font>
+
+94
+00:08:35,320 --> 00:08:37,960
+<font color="#FFFF51">Gdybyśmy znaleźli małą sarenkę,</font>
+
+95
+00:08:38,120 --> 00:08:40,440
+<font color="#FFFF51">nie możemy jej dotykać.</font>
+
+96
+00:08:40,600 --> 00:08:44,680
+<font color="#FFFF51">Jest schowana pod drzewem,</font>
+<font color="#FFFF51">nie ma własnego zapachu</font>
+
+97
+00:08:44,840 --> 00:08:48,160
+<font color="#FFFF51">i wtedy drapieżnik</font>
+<font color="#FFFF51">nie może jej wyczuć.</font>
+
+98
+00:08:53,120 --> 00:08:55,600
+<font color="aqua">Przewrócone przez bobry drzewa</font>
+
+99
+00:08:55,760 --> 00:08:58,880
+<font color="aqua">są dla rysia zasłoną</font>
+<font color="aqua">podczas polowania.</font>
+
+100
+00:08:59,040 --> 00:09:00,840
+<font color="aqua">Rysie są aktywne w nocy.</font>
+
+101
+00:09:01,000 --> 00:09:05,160
+<font color="aqua">Wtedy też bobry wychodzą na ląd</font>
+<font color="aqua">w poszukiwaniu pokarmu.</font>
+
+102
+00:09:05,320 --> 00:09:08,600
+<font color="aqua">Powiązanie rysia z bobrem</font>
+<font color="aqua">jest oczywiste</font>
+
+103
+00:09:08,760 --> 00:09:11,000
+<font color="aqua">- drapieżnik i jego ofiara.</font>
+
+104
+00:09:43,440 --> 00:09:48,080
+<font color="#FFFF51">Bóbr jest bezbronny, gdy wychodzi</font>
+<font color="#FFFF51">w poszukiwaniu pokarmu.</font>
+
+105
+00:09:48,240 --> 00:09:51,520
+<font color="#FFFF51">Przewrócił tę brzozę,</font>
+<font color="#FFFF51">by dobrać się do kory.</font>
+
+106
+00:09:51,680 --> 00:09:56,880
+<font color="#FFFF51">Bobry zwykle nie oddalają się</font>
+<font color="#FFFF51">od brzegu bardziej niż na 20 m,</font>
+
+107
+00:09:57,040 --> 00:10:01,680
+<font color="#FFFF51">ale jest to dystans</font>
+<font color="#FFFF51">wystarczający dla polującego rysia.</font>
+
+108
+00:10:01,840 --> 00:10:06,000
+<font color="#FFFF51">Ryś korzysta z przewróconych drzew</font>
+<font color="#FFFF51">niczym z osłony.</font>
+
+109
+00:10:06,160 --> 00:10:10,160
+<font color="#FFFF51">Podczołguje się</font>
+<font color="#FFFF51">i z zaskoczenia łapie bobra.</font>
+
+110
+00:10:10,320 --> 00:10:12,800
+<font color="#FFFF51">Polowanie kończy się sukcesem.</font>
+
+111
+00:10:14,800 --> 00:10:18,960
+<font color="#FFFF51">Ryś jest prawdziwym sprinterem,</font>
+<font color="#FFFF51">ale krótkodystansowym.</font>
+
+112
+00:10:19,120 --> 00:10:21,880
+<font color="#FFFF51">Nie goni swojej ofiary zbyt długo.</font>
+
+113
+00:10:22,040 --> 00:10:25,760
+<font color="#FFFF51">Stara się ją dopaść</font>
+<font color="#FFFF51">w kilku krótkich skokach,</font>
+
+114
+00:10:25,920 --> 00:10:29,080
+<font color="#FFFF51">a potem powalić na ziemię</font>
+<font color="#FFFF51">impetem ciała.</font>
+
+115
+00:10:29,240 --> 00:10:33,800
+<font color="#FFFF51">Jeśli zaskoczy bobra,</font>
+<font color="#FFFF51">polowanie kończy się sukcesem.</font>
+
+116
+00:10:33,960 --> 00:10:37,920
+<font color="#FFFF51">Ale jeśli bóbr go wyczuje,</font>
+<font color="#FFFF51">schowa się w wodzie</font>
+
+117
+00:10:38,080 --> 00:10:40,960
+<font color="#FFFF51">i ryś zostaje zupełnie bezradny.</font>
+
+118
+00:11:14,560 --> 00:11:17,760
+<font color="#FFFF51">Tylko człowiek</font>
+<font color="#FFFF51">może równać się z bobrem</font>
+
+119
+00:11:17,920 --> 00:11:21,880
+<font color="#FFFF51">w przekształcaniu środowiska</font>
+<font color="#FFFF51">pod własne potrzeby.</font>
+
+120
+00:11:22,040 --> 00:11:25,400
+<font color="#FFFF51">Bobry przez budowanie tamy</font>
+<font color="#FFFF51">spiętrzają wodę,</font>
+
+121
+00:11:25,560 --> 00:11:30,480
+<font color="#FFFF51">co zwiększa bioróżnorodność,</font>
+<font color="#FFFF51">stopień samooczyszczania się wody</font>
+
+122
+00:11:30,640 --> 00:11:32,680
+<font color="#FFFF51">i zmniejsza erozję gleby.</font>
+
+123
+00:11:32,840 --> 00:11:36,640
+<font color="#FFFF51">Niestety człowiek,</font>
+<font color="#FFFF51">w przeciwieństwie do bobrów,</font>
+
+124
+00:11:36,800 --> 00:11:40,440
+<font color="#FFFF51">rzadko wywiera</font>
+<font color="#FFFF51">pozytywny wpływ na środowisko.</font>
+
+125
+00:12:02,840 --> 00:12:06,600
+<font color="aqua">Dorosły jeleń</font>
+<font color="aqua">poprzez swoje duże rozmiary ciała</font>
+
+126
+00:12:06,760 --> 00:12:11,600
+<font color="aqua">tylko w wyjątkowych okolicznościach</font>
+<font color="aqua">staje się ofiarą rysia.</font>
+
+127
+00:12:31,880 --> 00:12:34,520
+<font color="#FFFF51">Jeleń jest gatunkiem płochliwym,</font>
+
+128
+00:12:34,680 --> 00:12:38,760
+<font color="#FFFF51">więc muszę znaleźć dobre miejsce</font>
+<font color="#FFFF51">i się zamaskować.</font>
+
+129
+00:12:38,920 --> 00:12:43,680
+<font color="#FFFF51">Wydaje mi się, że tą ścieżką</font>
+<font color="#FFFF51">przechodzą codziennie jelenie,</font>
+
+130
+00:12:43,840 --> 00:12:48,200
+<font color="#FFFF51">a to miejsce wydaje się</font>
+<font color="#FFFF51">dobrym miejscem na maskowanie.</font>
+
+131
+00:12:48,360 --> 00:12:51,000
+<font color="#FFFF51">Liczę, że jakieś zwierzęta spotkam.</font>
+
+132
+00:13:30,560 --> 00:13:35,520
+<font color="#FFFF51">Muszę też schować plecak,</font>
+<font color="#FFFF51">żeby nie został na drodze zwierząt.</font>
+
+133
+00:13:39,640 --> 00:13:44,120
+<font color="#FFFF51">Zabieram też ze sobą aparat,</font>
+<font color="#FFFF51">kilka godzin cierpliwości</font>
+
+134
+00:13:44,280 --> 00:13:46,680
+<font color="#FFFF51">i zwierzęta na pewno przyjdą.</font>
+
+135
+00:14:10,600 --> 00:14:13,120
+<font color="#FFFF51">Jeleń jest zwierzęciem dziennym,</font>
+
+136
+00:14:13,280 --> 00:14:18,440
+<font color="#FFFF51">ale przez drapieżniki w ciągu dnia</font>
+<font color="#FFFF51">chowa się w gęstwinie leśnej,</font>
+
+137
+00:14:18,600 --> 00:14:21,440
+<font color="#FFFF51">a na żerowiska wychodzi po zmroku.</font>
+
+138
+00:14:21,600 --> 00:14:25,840
+<font color="#FFFF51">Jelenie śpią w ciągu doby</font>
+<font color="#FFFF51">jedynie 100 minut.</font>
+
+139
+00:14:26,000 --> 00:14:29,920
+<font color="#FFFF51">Jak ja im tego zazdroszczę,</font>
+<font color="#FFFF51">bo brakuje mi czasu.</font>
+
+140
+00:14:30,080 --> 00:14:33,360
+<font color="#FFFF51">A gdybym mógł spać</font>
+<font color="#FFFF51">1,5 godziny na dobę,</font>
+
+141
+00:14:33,520 --> 00:14:35,360
+<font color="#FFFF51">toby było pięknie...</font>
+
+142
+00:14:38,640 --> 00:14:40,520
+<font color="#8080FF">TRZASK MIGAWKI APARATU</font>
+
+143
+00:16:26,680 --> 00:16:31,760
+<font color="#FFFF51">Sarna nie jest samicą jelenia.</font>
+<font color="#FFFF51">To dwa zupełnie różne gatunki.</font>
+
+144
+00:16:31,920 --> 00:16:35,720
+<font color="#FFFF51">Na samicę sarny mówimy: koza,</font>
+<font color="#FFFF51">a na samca: kozioł.</font>
+
+145
+00:16:35,880 --> 00:16:38,840
+<font color="#FFFF51">W przypadku jelenia</font>
+<font color="#FFFF51">mamy łanię i byka.</font>
+
+146
+00:16:39,000 --> 00:16:43,440
+<font color="#FFFF51">Łatwo rozpoznamy te dwa gatunki,</font>
+<font color="#FFFF51">kierując się ich masą.</font>
+
+147
+00:16:43,600 --> 00:16:46,800
+<font color="#FFFF51">Sarna waży zwykle nie więcej</font>
+<font color="#FFFF51">niż 35 kg.</font>
+
+148
+00:16:46,960 --> 00:16:50,360
+<font color="#FFFF51">Natomiast</font>
+<font color="#FFFF51">najcięższy zanotowany jeleń</font>
+
+149
+00:16:50,520 --> 00:16:52,440
+<font color="#FFFF51">ważył aż 497 kg,</font>
+
+150
+00:16:52,600 --> 00:16:57,800
+<font color="#FFFF51">choć te żyjące w Polsce</font>
+<font color="#FFFF51">zwykle nie ważą więcej niż 220 kg.</font>
+
+151
+00:16:57,960 --> 00:17:02,120
+<font color="#FFFF51">I tak różnica między sarną</font>
+<font color="#FFFF51">a jeleniem jest ogromna.</font>
+
+152
+00:17:02,280 --> 00:17:04,520
+<font color="#FFFF51">Z łatwością je rozróżnimy.</font>
+
+153
+00:17:06,240 --> 00:17:09,240
+<font color="aqua">Strzyżak sarni</font>
+<font color="aqua">to pasożyt zewnętrzny,</font>
+
+154
+00:17:09,400 --> 00:17:11,200
+<font color="aqua">który żywi się krwią.</font>
+
+155
+00:17:11,360 --> 00:17:14,320
+<font color="aqua">W Polsce</font>
+<font color="aqua">jego najczęstszymi ofiarami</font>
+
+156
+00:17:14,480 --> 00:17:16,320
+<font color="aqua">są sarny i jelenie.</font>
+
+157
+00:17:22,360 --> 00:17:25,320
+<font color="#FFFF51">Strzyżak sarni</font>
+<font color="#FFFF51">mylony jest z kleszczem,</font>
+
+158
+00:17:25,480 --> 00:17:28,440
+<font color="#FFFF51">choć nie jest z nim</font>
+<font color="#FFFF51">blisko spokrewniony.</font>
+
+159
+00:17:28,600 --> 00:17:33,400
+<font color="#FFFF51">Strzyżak to owad i ma skrzydła,</font>
+<font color="#FFFF51">a kleszcz jest pajęczakiem.</font>
+
+160
+00:17:33,600 --> 00:17:37,600
+<font color="#FFFF51">Strzyżaki żywią się krwią</font>
+<font color="#FFFF51">sarny, jelenia i łosia.</font>
+
+161
+00:17:37,760 --> 00:17:40,520
+<font color="#FFFF51">Człowiek jest ofiarą przypadkową.</font>
+
+162
+00:17:40,680 --> 00:17:46,320
+<font color="#FFFF51">Kleszcz nie jest już tak wybredny.</font>
+<font color="#FFFF51">Żywi się krwią każdego stworzenia.</font>
+
+163
+00:17:49,920 --> 00:17:55,200
+<font color="#FFFF51">Strzyżak podrywa się do lotu,</font>
+<font color="#FFFF51">aby szybko dotrzeć do futra ofiary,</font>
+
+164
+00:17:55,360 --> 00:17:57,920
+<font color="#FFFF51">gdzie może żyć aż 10 miesięcy.</font>
+
+165
+00:17:58,080 --> 00:18:00,800
+<font color="#FFFF51">W futrze</font>
+<font color="#FFFF51">skrzydła są niepotrzebne.</font>
+
+166
+00:18:00,960 --> 00:18:04,840
+<font color="#FFFF51">Pozbywa się ich</font>
+<font color="#FFFF51">i korzysta z chwytnych odnóży.</font>
+
+167
+00:18:05,000 --> 00:18:07,400
+<font color="#FFFF51">W Finlandii znaleziono łosia,</font>
+
+168
+00:18:07,560 --> 00:18:11,640
+<font color="#FFFF51">w którego futrze naliczono</font>
+<font color="#FFFF51">aż 17 tys. strzyżaków.</font>
+
+169
+00:18:28,120 --> 00:18:31,960
+<font color="aqua">Duże i silne psy</font>
+<font color="aqua">stanowią śmiertelne zagrożenie</font>
+
+170
+00:18:32,120 --> 00:18:34,800
+<font color="aqua">dla każdego kota, w tym dla rysi.</font>
+
+171
+00:18:36,680 --> 00:18:40,200
+<font color="#FFFF51">Wałęsające się psy</font>
+<font color="#FFFF51">to zagrożenie dla rysi,</font>
+
+172
+00:18:40,360 --> 00:18:42,320
+<font color="#FFFF51">zwłaszcza dla młodych.</font>
+
+173
+00:18:42,480 --> 00:18:46,480
+<font color="#FFFF51">Mogą być z łatwością zabite</font>
+<font color="#FFFF51">przez dorosłego psa.</font>
+
+174
+00:18:46,640 --> 00:18:51,000
+<font color="#FFFF51">Nasze Burki, Azorki i Maksy,</font>
+<font color="#FFFF51">gdy opuszczą posesję,</font>
+
+175
+00:18:51,160 --> 00:18:52,960
+<font color="#FFFF51">tworzą brutalne bandy,</font>
+
+176
+00:18:53,120 --> 00:18:56,280
+<font color="#FFFF51">którymi napadają</font>
+<font color="#FFFF51">na dzikie zwierzęta.</font>
+
+177
+00:18:56,440 --> 00:19:01,480
+<font color="#FFFF51">Wracają do domu, machają ogonem</font>
+<font color="#FFFF51">i mówią: "Nic się nie stało".</font>
+
+178
+00:19:01,640 --> 00:19:05,280
+<font color="#FFFF51">Jeśli chcemy,</font>
+<font color="#FFFF51">żeby przyroda miała się dobrze,</font>
+
+179
+00:19:05,440 --> 00:19:09,320
+<font color="#FFFF51">musimy ograniczyć</font>
+<font color="#FFFF51">liczbę wałęsających się psów.</font>
+
+180
+00:19:10,680 --> 00:19:13,520
+<font color="aqua">W Polsce żyje ok. 7 mln psów,</font>
+
+181
+00:19:13,680 --> 00:19:17,880
+<font color="aqua">z czego kilkadziesiąt tysięcy</font>
+<font color="aqua">jest zdziczałych.</font>
+
+182
+00:19:18,040 --> 00:19:23,440
+<font color="aqua">Bezpańskie psy zabijają co roku</font>
+<font color="aqua">około 33 tysięcy dzikich zwierząt</font>
+
+183
+00:19:23,600 --> 00:19:26,360
+<font color="aqua">i 280 zwierząt gospodarskich.</font>
+
+184
+00:19:26,520 --> 00:19:30,760
+<font color="aqua">Korzystają na tym</font>
+<font color="aqua">wyłącznie padlinożercy, np. kruki.</font>
+
+185
+00:19:30,920 --> 00:19:35,720
+<font color="aqua">Inne zwierzęta unikają miejsc,</font>
+<font color="aqua">w których pojawiają się psy.</font>
+
+186
+00:19:35,880 --> 00:19:41,600
+<font color="aqua">Ponosimy pełną odpowiedzialność</font>
+<font color="aqua">za zwierzęta, które udomowiliśmy.</font>
+
+187
+00:19:45,080 --> 00:19:50,160
+<font color="aqua">Relacje między człowiekiem a rysiem</font>
+<font color="aqua">zmieniły się o 180 stopni.</font>
+
+188
+00:19:50,320 --> 00:19:54,560
+<font color="aqua">Przestaliśmy na nie polować</font>
+<font color="aqua">i zaczęliśmy je chronić.</font>
+
+189
+00:20:05,600 --> 00:20:08,360
+<font color="#FFFF51">Rysie mają gigantyczne terytoria,</font>
+
+190
+00:20:08,520 --> 00:20:13,280
+<font color="#FFFF51">ale ogromnym problemem dla nich</font>
+<font color="#FFFF51">jest sieć dróg i autostrad.</font>
+
+191
+00:20:13,440 --> 00:20:19,000
+<font color="#FFFF51">Dla większości zwierząt jest to</font>
+<font color="#FFFF51">przeszkoda nie do pokonania.</font>
+
+192
+00:20:19,160 --> 00:20:23,520
+<font color="#FFFF51">Ale na całe szczęście</font>
+<font color="#FFFF51">budujemy wzdłuż powstających dróg</font>
+
+193
+00:20:23,680 --> 00:20:25,480
+<font color="#FFFF51">takie przejścia jak to.</font>
+
+194
+00:20:25,640 --> 00:20:28,640
+<font color="#FFFF51">Tu rośliny jeszcze</font>
+<font color="#FFFF51">nie zdążyły urosnąć,</font>
+
+195
+00:20:28,800 --> 00:20:33,400
+<font color="#FFFF51">ale kiedyś będą dawały schronienie</font>
+<font color="#FFFF51">migrującym zwierzętom.</font>
+
+196
+00:20:33,560 --> 00:20:38,320
+<font color="#FFFF51">Im więcej przejść, tym mniejsza</font>
+<font color="#FFFF51">fragmentaryzacja siedliska,</font>
+
+197
+00:20:38,480 --> 00:20:41,760
+<font color="#FFFF51">szczególnie niebezpieczna</font>
+<font color="#FFFF51">dla tych zwierząt,</font>
+
+198
+00:20:41,920 --> 00:20:47,320
+<font color="#FFFF51">które przemierzają duże odległości</font>
+<font color="#FFFF51">i mają duże terytoria, jak ryś.</font>
+
+199
+00:20:47,480 --> 00:20:53,000
+<font color="#FFFF51">Im więcej przejść, tym więcej</font>
+<font color="#FFFF51">bezpieczeństwa dla zwierząt i ludzi</font>
+
+200
+00:20:53,160 --> 00:20:57,040
+<font color="#FFFF51">- będzie mniej kolizji drogowych</font>
+<font color="#FFFF51">ze zwierzętami.</font>
+
+201
+00:21:00,800 --> 00:21:03,320
+<font color="#FFFF51">W Puszczy Piskiej żyje 10 rysi.</font>
+
+202
+00:21:03,480 --> 00:21:08,680
+<font color="#FFFF51">Znamy je wszystkie doskonale,</font>
+<font color="#FFFF51">bo prowadzimy badania genetyczne.</font>
+
+203
+00:21:08,840 --> 00:21:14,320
+<font color="#FFFF51">Skąd uzyskujemy materiał do badań?</font>
+<font color="#FFFF51">Z takich pułapek włosowych.</font>
+
+204
+00:21:14,480 --> 00:21:18,400
+<font color="#FFFF51">Ryś, zachęcony</font>
+<font color="#FFFF51">substancją chemiczną, ociera się</font>
+
+205
+00:21:18,560 --> 00:21:21,440
+<font color="#FFFF51">i pozostawia włosy razem z cebulką.</font>
+
+206
+00:21:21,600 --> 00:21:24,400
+<font color="#FFFF51">W niej znajduje się materiał DNA.</font>
+
+207
+00:21:24,560 --> 00:21:28,440
+<font color="#FFFF51">Badania pozwalają określić,</font>
+<font color="#FFFF51">który to ryś,</font>
+
+208
+00:21:28,600 --> 00:21:34,040
+<font color="#FFFF51">oraz poznać jego pokrewieństwo</font>
+<font color="#FFFF51">z innymi rysiami w Puszczy Piskiej.</font>
+
+209
+00:21:46,640 --> 00:21:51,600
+<font color="#FFFF51">Wielu ludzi intensywnie pracuje,</font>
+<font color="#FFFF51">żeby rysiom żyło się lepiej.</font>
+
+210
+00:21:51,760 --> 00:21:56,200
+<font color="#FFFF51">Doskonałym przykładem</font>
+<font color="#FFFF51">są działania fundacji WWF,</font>
+
+211
+00:21:56,360 --> 00:21:59,680
+<font color="#FFFF51">np. we współpracy</font>
+<font color="#FFFF51">z Nadleśnictwem Spychowo.</font>
+
+212
+00:21:59,840 --> 00:22:05,280
+<font color="#FFFF51">W ramach projektu "Born to Be Free"</font>
+<font color="#FFFF51">- "Urodzony, by być wolnym" -</font>
+
+213
+00:22:05,440 --> 00:22:09,800
+<font color="#FFFF51">budowane są specjalne woliery</font>
+<font color="#FFFF51">w dzikich ostępach lasu.</font>
+
+214
+00:22:09,960 --> 00:22:12,880
+<font color="#FFFF51">Tam dorosła samica rysia</font>
+<font color="#FFFF51">rodzi młode,</font>
+
+215
+00:22:13,040 --> 00:22:16,400
+<font color="#FFFF51">które mogą wychodzić</font>
+<font color="#FFFF51">przez otwór w ścianie,</font>
+
+216
+00:22:16,560 --> 00:22:19,800
+<font color="#FFFF51">poznawać las</font>
+<font color="#FFFF51">i uczyć się samodzielności.</font>
+
+217
+00:22:19,960 --> 00:22:23,600
+<font color="#FFFF51">Jak się przestraszą,</font>
+<font color="#FFFF51">mogą natychmiast wrócić.</font>
+
+218
+00:22:23,760 --> 00:22:26,880
+<font color="#FFFF51">Jak podrosną</font>
+<font color="#FFFF51">i zwiększą rozmiary ciała,</font>
+
+219
+00:22:27,040 --> 00:22:29,160
+<font color="#FFFF51">otwór jest zbyt mały</font>
+
+220
+00:22:29,320 --> 00:22:32,240
+<font color="#FFFF51">i kocięta muszą</font>
+<font color="#FFFF51">pozostać na zewnątrz,</font>
+
+221
+00:22:32,400 --> 00:22:35,000
+<font color="#FFFF51">poznać las i się usamodzielnić.</font>
+
+222
+00:22:50,480 --> 00:22:55,560
+<font color="aqua">Intensywna ochrona polskich rysi</font>
+<font color="aqua">przynosi coraz lepsze efekty,</font>
+
+223
+00:22:55,720 --> 00:22:58,520
+<font color="aqua">o czym świadczą</font>
+<font color="aqua">filmy z fotopułapek.</font>
+
+224
+00:22:58,680 --> 00:23:00,560
+<font color="aqua">To bardzo dobra metoda</font>
+
+225
+00:23:00,720 --> 00:23:06,200
+<font color="aqua">- pozwala na obserwację unikających</font>
+<font color="aqua">kontaktu z człowiekiem zwierząt.</font>
+
+226
+00:23:06,360 --> 00:23:10,200
+<font color="aqua">Widok szczęśliwych rysi</font>
+<font color="aqua">jest największą nagrodą</font>
+
+227
+00:23:10,360 --> 00:23:13,320
+<font color="aqua">dla ciężko pracujących</font>
+<font color="aqua">przyrodników.</font>
+
+228
+00:23:37,040 --> 00:23:42,360
+<font color="#FFFF51">Ryś jest dużym drapieżnikiem,</font>
+<font color="#FFFF51">więc ma duże wymagania siedliskowe.</font>
+
+229
+00:23:42,520 --> 00:23:45,240
+<font color="#FFFF51">Potrzebuje lasów, gdzie żyją sarny,</font>
+
+230
+00:23:45,400 --> 00:23:48,840
+<font color="#FFFF51">i dostępu do wody,</font>
+<font color="#FFFF51">gdzie może polować na bobry.</font>
+
+231
+00:23:49,000 --> 00:23:51,880
+<font color="#FFFF51">Potrzebuje także pomocy człowieka,</font>
+
+232
+00:23:52,040 --> 00:23:55,400
+<font color="#FFFF51">bo tak bardzo</font>
+<font color="#FFFF51">zmieniliśmy jego środowisko,</font>
+
+233
+00:23:55,560 --> 00:23:59,040
+<font color="#FFFF51">że bez naszej pomocy</font>
+<font color="#FFFF51">na pewno nie przetrwają.</font>
+
+234
+00:23:59,200 --> 00:24:03,800
+<font color="#FFFF51">Jeśli chcemy cieszyć się</font>
+<font color="#FFFF51">widokiem rysi przez długie lata,</font>
+
+235
+00:24:03,960 --> 00:24:07,080
+<font color="#FFFF51">powinniśmy wykonać</font>
+<font color="#FFFF51">jeszcze dużo pracy.</font>
+
+236
+00:24:08,480 --> 00:24:12,560
+<font color="aqua">Rysie powiązane są</font>
+<font color="aqua">z wieloma gatunkami zwierząt.</font>
+
+237
+00:24:12,720 --> 00:24:16,120
+<font color="aqua">Dziś zobaczyliśmy</font>
+<font color="aqua">te oczywiste połączenia,</font>
+
+238
+00:24:16,280 --> 00:24:18,320
+<font color="aqua">ale jest ich dużo więcej.</font>
+
+239
+00:24:18,480 --> 00:24:22,440
+<font color="aqua">Patrząc na rysia tylko</font>
+<font color="aqua">w przyrodniczym kontekście,</font>
+
+240
+00:24:22,600 --> 00:24:24,800
+<font color="aqua">będziecie mogli go chronić,</font>
+
+241
+00:24:24,960 --> 00:24:28,360
+<font color="aqua">zapewniając mu</font>
+<font color="aqua">optymalne warunki do życia.</font>
+
+242
+00:24:29,320 --> 00:24:31,120
+<font color="#FFFF51">Klepnę w policzek.</font>
+
+243
+00:24:31,280 --> 00:24:33,040
+Się rozkręcił chłopak.
+
+244
+00:24:33,200 --> 00:24:34,560
+<font color="#FFFF51">W czoło.</font>
+
+245
+00:24:34,720 --> 00:24:36,280
+Jest klepnięte.
+
+246
+00:24:36,440 --> 00:24:37,480
+Ciach!
+
+247
+00:24:37,640 --> 00:24:39,160
+<font color="#FFFF51">Jak to wygląda?</font>
+
+248
+00:24:39,320 --> 00:24:41,640
+<font color="#FFFF51">Wywiera pozytywny wpływ...</font>
+
+249
+00:24:41,800 --> 00:24:43,360
+<font color="#FFFF51">Ojejku, bardzo źle.</font>
+
+250
+00:24:43,520 --> 00:24:45,440
+<font color="#FFFF51">Pomyliłem w ogóle tekst.</font>
+
+251
+00:24:45,600 --> 00:24:48,360
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+

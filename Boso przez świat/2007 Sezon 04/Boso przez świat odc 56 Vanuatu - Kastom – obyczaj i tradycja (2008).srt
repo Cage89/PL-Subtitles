@@ -1,0 +1,696 @@
+1
+00:01:15,280 --> 00:01:18,600
+<font backgroundcolor="#000000"> Widać, że jestem u półtutków, prawda? </font>
+
+2
+00:01:18,760 --> 00:01:22,960
+<font backgroundcolor="#000000"> A ten ma swojego półtutka </font>
+<font backgroundcolor="#000000"> na współczesnym pasku. </font>
+
+3
+00:01:23,120 --> 00:01:26,440
+<font backgroundcolor="#000000"> Małe tutki, duże tutki, półtutki... </font>
+
+4
+00:01:26,600 --> 00:01:31,200
+<font backgroundcolor="#000000"> Czy ja mam jakiś dodatek </font>
+<font backgroundcolor="#000000"> za ciężkie warunki pracy? </font>
+
+5
+00:01:32,280 --> 00:01:34,400
+<font backgroundcolor="#000000"> I nieobyczajne? </font>
+
+6
+00:02:39,280 --> 00:02:42,840
+<font backgroundcolor="#000000"> Na Wyspach Szczęśliwych jest ciasno. </font>
+
+7
+00:02:43,400 --> 00:02:46,720
+<font backgroundcolor="#000000"> Wyspa - ograniczona przestrzeń. </font>
+
+8
+00:02:47,000 --> 00:02:51,040
+<font backgroundcolor="#000000"> Ograniczona ilość wszelkich zasobów. </font>
+
+9
+00:02:51,200 --> 00:02:57,160
+<font backgroundcolor="#000000"> Zasobów ludzkich, pożywienia, </font>
+<font backgroundcolor="#000000"> wszystkiego jest ograniczona masa. </font>
+
+10
+00:02:57,320 --> 00:02:59,280
+<font backgroundcolor="#000000"> Co w takiej sytuacji? </font>
+
+11
+00:02:59,440 --> 00:03:05,360
+<font backgroundcolor="#000000"> Można się bić o każdą miedzę, </font>
+<font backgroundcolor="#000000"> ale to wyniszcza substancję ludzką. </font>
+
+12
+00:03:05,520 --> 00:03:12,240
+<font backgroundcolor="#000000"> Jak wodzowie pójdą na wojny ze sobą, </font>
+<font backgroundcolor="#000000"> mężczyźni poginą i plemię się kurczy. </font>
+
+13
+00:03:12,400 --> 00:03:15,720
+<font backgroundcolor="#000000"> Nie ma kto pól obrabiać </font>
+<font backgroundcolor="#000000"> albo polować. </font>
+
+14
+00:03:15,880 --> 00:03:22,040
+<font backgroundcolor="#000000"> Na Wyspach Szczęśliwych najlepiej </font>
+<font backgroundcolor="#000000"> się od razu umówić, co do kogo należy. </font>
+
+15
+00:03:22,200 --> 00:03:27,680
+<font backgroundcolor="#000000"> Podzielić te zasoby, zaczynając </font>
+<font backgroundcolor="#000000"> od dzielenia wyspy na kawałki. </font>
+
+16
+00:03:27,840 --> 00:03:33,240
+<font backgroundcolor="#000000"> Na ziemie plemienne należne </font>
+<font backgroundcolor="#000000"> różnym wioskom albo różnym rodom. </font>
+
+17
+00:03:33,400 --> 00:03:38,520
+<font backgroundcolor="#000000"> Tu ziemia jest podzielona </font>
+<font backgroundcolor="#000000"> razem z kawałkiem rafy koralowej. </font>
+
+18
+00:03:38,680 --> 00:03:41,040
+<font backgroundcolor="#000000"> Ona też karmi, jak ziemia. </font>
+
+19
+00:05:10,280 --> 00:05:13,080
+<font backgroundcolor="#000000"> Na wyspach jest ciasno. </font>
+
+20
+00:05:13,280 --> 00:05:16,760
+<font backgroundcolor="#000000"> Ograniczona powierzchnia </font>
+<font backgroundcolor="#000000"> ziemi uprawnej. </font>
+
+21
+00:05:16,920 --> 00:05:18,920
+<font backgroundcolor="#000000"> Co to powoduje? </font>
+
+22
+00:05:19,080 --> 00:05:23,440
+<font backgroundcolor="#000000"> W tradycji pojawiły się </font>
+<font backgroundcolor="#000000"> pewne imiona dla chłopców, </font>
+
+23
+00:05:23,600 --> 00:05:27,840
+<font backgroundcolor="#000000"> związane z konkretnymi </font>
+<font backgroundcolor="#000000"> obszarami ziemi na wyspie. </font>
+
+24
+00:05:28,000 --> 00:05:33,360
+<font backgroundcolor="#000000"> Każdy z tych chłopców dostał </font>
+<font backgroundcolor="#000000"> jedno konkretne zwyczajowe imię, </font>
+
+25
+00:05:33,520 --> 00:05:38,080
+<font backgroundcolor="#000000"> które go od razu "przypina" </font>
+<font backgroundcolor="#000000"> do pewnej działki ziemi. </font>
+
+26
+00:05:38,240 --> 00:05:42,120
+<font backgroundcolor="#000000"> Będzie ją uprawiać </font>
+<font backgroundcolor="#000000"> albo będzie tam polować. </font>
+
+27
+00:05:42,400 --> 00:05:47,560
+<font backgroundcolor="#000000"> Tak jak u nas - Puławski od Puław, </font>
+<font backgroundcolor="#000000"> Zamojski od Zamościa. </font>
+
+28
+00:05:47,840 --> 00:05:52,920
+<font backgroundcolor="#000000"> Tak i oni mają imiona, </font>
+<font backgroundcolor="#000000"> związane z obszarami na wyspie. </font>
+
+29
+00:06:49,680 --> 00:06:54,160
+<font backgroundcolor="#000000"> Ciasno jest również </font>
+<font backgroundcolor="#000000"> z dziewczynami dla tych chłopców. </font>
+
+30
+00:06:54,320 --> 00:06:57,720
+<font backgroundcolor="#000000"> Z tymi, z którymi </font>
+<font backgroundcolor="#000000"> będą się mogli ożenić. </font>
+
+31
+00:06:57,920 --> 00:07:01,880
+<font backgroundcolor="#000000"> Tu też musi wkroczyć kastom, </font>
+<font backgroundcolor="#000000"> czyli tradycja. </font>
+
+32
+00:07:02,040 --> 00:07:06,560
+<font backgroundcolor="#000000"> Ze względu na to </font>
+<font backgroundcolor="#000000"> jakie każdy z tych chłopców ma imię, </font>
+
+33
+00:07:06,720 --> 00:07:12,640
+<font backgroundcolor="#000000"> liczba dostępnych dziewczyn </font>
+<font backgroundcolor="#000000"> dla konkretnej osoby jest ograniczona. </font>
+
+34
+00:07:12,800 --> 00:07:17,120
+<font backgroundcolor="#000000"> Wyobraźmy sobie sytuację, </font>
+<font backgroundcolor="#000000"> że jest tak, jak u nas. </font>
+
+35
+00:07:17,280 --> 00:07:23,240
+<font backgroundcolor="#000000"> Zakochałeś się, żeń się. Starsza, </font>
+<font backgroundcolor="#000000"> młodsza, z innej wsi - nieważne. </font>
+
+36
+00:07:23,400 --> 00:07:27,160
+<font backgroundcolor="#000000"> Gdyby na ciasnej </font>
+<font backgroundcolor="#000000"> wyspie zrobić coś takiego, </font>
+
+37
+00:07:27,320 --> 00:07:31,520
+<font backgroundcolor="#000000"> wszyscy chłopcy zakochaliby się </font>
+<font backgroundcolor="#000000"> w jednej ładnej. </font>
+
+38
+00:07:32,200 --> 00:07:35,480
+<font backgroundcolor="#000000"> A stado brzydkich zostałoby samo. </font>
+
+39
+00:07:35,720 --> 00:07:41,040
+<font backgroundcolor="#000000"> Nie rozmnażaliby się, </font>
+<font backgroundcolor="#000000"> tylko bili o najładniejszą dziewczynę. </font>
+
+40
+00:07:41,400 --> 00:07:45,600
+<font backgroundcolor="#000000"> Dlatego od urodzenia wiedzą, </font>
+<font backgroundcolor="#000000"> gdzie jest ich żona. </font>
+
+41
+00:07:45,760 --> 00:07:51,280
+<font backgroundcolor="#000000"> Wśród których trzech, czterech </font>
+<font backgroundcolor="#000000"> dziewczyn mogą się rozglądać. </font>
+
+42
+00:07:51,440 --> 00:07:56,040
+<font backgroundcolor="#000000"> Jak wszystkie brzydule, </font>
+<font backgroundcolor="#000000"> wybieramy najmniej brzydką. </font>
+
+43
+00:07:56,200 --> 00:08:00,160
+<font backgroundcolor="#000000"> Bo jak nie wybierzemy sami, </font>
+<font backgroundcolor="#000000"> wódz zdecyduje. </font>
+
+44
+00:08:36,880 --> 00:08:41,480
+<font backgroundcolor="#000000"> Różne tradycje różnych plemion </font>
+<font backgroundcolor="#000000"> na wyspach Pacyfiku. </font>
+
+45
+00:08:41,640 --> 00:08:47,520
+<font backgroundcolor="#000000"> A jednak wszystkie skupiają się </font>
+<font backgroundcolor="#000000"> na idealnym partnerze do żeniaczki. </font>
+
+46
+00:08:47,680 --> 00:08:51,600
+<font backgroundcolor="#000000"> W różnych wioskach </font>
+<font backgroundcolor="#000000"> to będzie różnie opisane. </font>
+
+47
+00:08:51,760 --> 00:08:56,440
+<font backgroundcolor="#000000"> Ale są takie zasady, </font>
+<font backgroundcolor="#000000"> że idealną partnerką dla ciebie, </font>
+
+48
+00:08:56,600 --> 00:09:01,720
+<font backgroundcolor="#000000"> byłaby dziewczyna, która podchodzi </font>
+<font backgroundcolor="#000000"> od siostry twojego ojca. </font>
+
+49
+00:09:01,880 --> 00:09:04,320
+<font backgroundcolor="#000000"> Albo od brata twojej matki. </font>
+
+50
+00:09:04,480 --> 00:09:09,360
+<font backgroundcolor="#000000"> Idealna byłaby wymiana sióstr </font>
+<font backgroundcolor="#000000"> między dwoma mężczyznami. </font>
+
+51
+00:09:09,600 --> 00:09:15,080
+<font backgroundcolor="#000000"> Gdyby przydarzyła taka sytuacja, </font>
+<font backgroundcolor="#000000"> że mogą się wymienić siostrami </font>
+
+52
+00:09:15,240 --> 00:09:17,320
+<font backgroundcolor="#000000"> to jest super. </font>
+
+53
+00:09:17,480 --> 00:09:19,640
+<font backgroundcolor="#000000"> Dlaczego? </font>
+
+54
+00:09:19,800 --> 00:09:25,360
+<font backgroundcolor="#000000"> To powoduje, że na ciasnej wyspie </font>
+<font backgroundcolor="#000000"> żenią się kuzyni z kuzynkami? </font>
+
+55
+00:09:25,520 --> 00:09:30,440
+<font backgroundcolor="#000000"> To jest biologicznie niedobre. </font>
+<font backgroundcolor="#000000"> Dlaczego tak jest? </font>
+
+56
+00:09:31,080 --> 00:09:35,040
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> PIEŚŃ PLEMIENNA </font></font>
+
+57
+00:10:13,000 --> 00:10:18,440
+<font backgroundcolor="#000000"> W antropologii jest takie </font>
+<font backgroundcolor="#000000"> sformułowanie - równowaga wymiany. </font>
+
+58
+00:10:18,600 --> 00:10:21,960
+<font backgroundcolor="#000000"> Ciasno, ograniczona liczba zasobów. </font>
+
+59
+00:10:22,120 --> 00:10:28,680
+<font backgroundcolor="#000000"> Oddajemy silnego, młodego mężczyznę </font>
+<font backgroundcolor="#000000"> do innej wioski, bo się żeni. </font>
+
+60
+00:10:28,840 --> 00:10:33,200
+<font backgroundcolor="#000000"> Musimy natychmiast </font>
+<font backgroundcolor="#000000"> dostać coś równoważnego. </font>
+
+61
+00:10:33,360 --> 00:10:38,840
+<font backgroundcolor="#000000"> Stąd te systemy wymiany, </font>
+<font backgroundcolor="#000000"> na których wszyscy tu skupiają uwagę. </font>
+
+62
+00:10:39,040 --> 00:10:43,360
+<font backgroundcolor="#000000"> Oddaliśmy osiłka, </font>
+<font backgroundcolor="#000000"> musimy wziąć młodą dziewuchę, </font>
+
+63
+00:10:43,520 --> 00:10:46,960
+<font backgroundcolor="#000000"> która nam urodzi </font>
+<font backgroundcolor="#000000"> dużo takich osiłków. </font>
+
+64
+00:10:47,120 --> 00:10:50,400
+<font backgroundcolor="#000000"> Oddaliśmy faceta, który dobrze poluje, </font>
+
+65
+00:10:50,600 --> 00:10:54,880
+<font backgroundcolor="#000000"> musimy wziąć dziewuchę, </font>
+<font backgroundcolor="#000000"> która dobrze obrabia pole. </font>
+
+66
+00:10:55,040 --> 00:11:00,840
+<font backgroundcolor="#000000"> On tam będzie zdobywał mięso, </font>
+<font backgroundcolor="#000000"> ona tu będzie produkowała ziemniaki. </font>
+
+67
+00:11:01,000 --> 00:11:03,600
+<font backgroundcolor="#000000"> Równowaga wymiany wszelkiej. </font>
+
+68
+00:11:03,760 --> 00:11:08,520
+<font backgroundcolor="#000000"> To jest coś, na czym kastom </font>
+<font backgroundcolor="#000000"> skupia całą swoją uwagę. </font>
+
+69
+00:11:08,680 --> 00:11:13,680
+<font backgroundcolor="#000000"> Bo jest mało - ludzi, jedzenia. </font>
+<font backgroundcolor="#000000"> Wszystkiego jest mało. </font>
+
+70
+00:11:13,880 --> 00:11:18,840
+<font backgroundcolor="#000000"> Trzeba uważać, co się komu daje </font>
+<font backgroundcolor="#000000"> i co się dostaje w zamian. </font>
+
+71
+00:14:39,840 --> 00:14:46,720
+<font backgroundcolor="#000000"> A co tradycja, czyli kastom, mówi </font>
+<font backgroundcolor="#000000"> o tym, od kiedy wolno mi pić i palić? </font>
+
+72
+00:14:47,000 --> 00:14:49,840
+<font backgroundcolor="#000000"> Tu napojem wyskokowym jest kava. </font>
+
+73
+00:14:50,080 --> 00:14:53,440
+<font backgroundcolor="#000000"> Od kiedy można pić kavę i palić tytoń? </font>
+
+74
+00:14:53,840 --> 00:14:57,800
+<font backgroundcolor="#000000"> Najpierw mężczyzna musi się ożenić. </font>
+
+75
+00:14:58,280 --> 00:15:01,520
+<font backgroundcolor="#000000"> Potem musi spłodzić syna. </font>
+
+76
+00:15:02,000 --> 00:15:05,200
+<font backgroundcolor="#000000"> Ale taki mały syn nie wystarczy. </font>
+
+77
+00:15:05,480 --> 00:15:12,200
+<font backgroundcolor="#000000"> Bo jeszcze potem syn musi dorosnąć </font>
+<font backgroundcolor="#000000"> do wieku, gdy robi mu się obrzezanie. </font>
+
+78
+00:15:12,360 --> 00:15:16,080
+<font backgroundcolor="#000000"> To jakby nasza pierwsza komunia. </font>
+
+79
+00:15:16,560 --> 00:15:23,240
+<font backgroundcolor="#000000"> Dopiero wtedy, jak twój syn z twojej </font>
+<font backgroundcolor="#000000"> żony dorośnie do wieku obrzezania, </font>
+
+80
+00:15:23,400 --> 00:15:27,400
+<font backgroundcolor="#000000"> wolno ci się napić kavy </font>
+<font backgroundcolor="#000000"> i zapalić tytoń. </font>
+
+81
+00:15:27,560 --> 00:15:31,280
+<font backgroundcolor="#000000"> Jaki piękny obyczaj. </font>
+<font backgroundcolor="#000000"> Żeby u nas tak było. </font>
+
+82
+00:15:31,440 --> 00:15:37,880
+<font backgroundcolor="#000000"> A jeśli nie mam żony, mam lat 50 </font>
+<font backgroundcolor="#000000"> i chciałbym się napić na weselu? </font>
+
+83
+00:15:38,120 --> 00:15:42,880
+<font backgroundcolor="#000000"> Tutaj nie ma dorosłych mężczyzn, </font>
+<font backgroundcolor="#000000"> którzy nie są żonaci. </font>
+
+84
+00:15:43,040 --> 00:15:48,120
+<font backgroundcolor="#000000"> A kiedyś było więcej kobiet </font>
+<font backgroundcolor="#000000"> niż mężczyzn, bo były wojny. </font>
+
+85
+00:15:48,280 --> 00:15:53,480
+<font backgroundcolor="#000000"> Wtedy mężczyzna miał dwie żony. </font>
+<font backgroundcolor="#000000"> I prawo do dwóch kav. </font>
+
+86
+00:16:29,760 --> 00:16:32,320
+<font backgroundcolor="#000000"> Przyszedłem do krawcowej. </font>
+
+87
+00:16:32,480 --> 00:16:35,400
+<font backgroundcolor="#000000"> Po spódniczkę dla mojej. </font>
+
+88
+00:16:35,800 --> 00:16:40,080
+<font backgroundcolor="#000000"> U nas takie spódniczki </font>
+<font backgroundcolor="#000000"> uchodzą za hawajskie. </font>
+
+89
+00:16:40,240 --> 00:16:42,520
+<font backgroundcolor="#000000"> Tak się zakłada. </font>
+
+90
+00:16:42,680 --> 00:16:45,520
+<font backgroundcolor="#000000"> I tańczy się hula. </font>
+
+91
+00:16:47,320 --> 00:16:50,240
+<font backgroundcolor="#000000"> Z czego to jest zrobione? </font>
+
+92
+00:16:50,960 --> 00:16:54,360
+<font backgroundcolor="#000000"> Z takich kawałeczków. </font>
+
+93
+00:16:54,520 --> 00:16:57,240
+<font backgroundcolor="#000000"> To jest... </font>
+
+94
+00:16:58,320 --> 00:17:00,600
+<font backgroundcolor="#000000"> To jest kora. </font>
+
+95
+00:17:00,800 --> 00:17:02,920
+<font backgroundcolor="#000000"> Zaraz pokażę z czego. </font>
+
+96
+00:17:03,080 --> 00:17:06,600
+<font backgroundcolor="#000000"> Kora trochę sparciała, </font>
+<font backgroundcolor="#000000"> wyleżana w wodzie, </font>
+
+97
+00:17:06,760 --> 00:17:10,880
+<font backgroundcolor="#000000"> która zaczyna się dzielić </font>
+<font backgroundcolor="#000000"> na takie włókna. </font>
+
+98
+00:17:11,040 --> 00:17:14,520
+<font backgroundcolor="#000000"> Z nich te panie wyplatają spódniczki. </font>
+
+99
+00:17:14,680 --> 00:17:18,800
+<font backgroundcolor="#000000"> Kora pochodzi </font>
+<font backgroundcolor="#000000"> z takiej niepozornej rośliny. </font>
+
+100
+00:17:19,000 --> 00:17:24,960
+<font backgroundcolor="#000000"> Obcina się górę i dół, </font>
+<font backgroundcolor="#000000"> pakuje w wiązki i wrzuca się do wody. </font>
+
+101
+00:17:25,120 --> 00:17:28,040
+<font backgroundcolor="#000000"> Miesiąc poleży, czasami dwa. </font>
+
+102
+00:17:28,200 --> 00:17:33,680
+<font backgroundcolor="#000000"> Jak dosyć sparcieje, </font>
+<font backgroundcolor="#000000"> to kora daje się dość łatwo zdjąć. </font>
+
+103
+00:17:33,840 --> 00:17:36,560
+<font backgroundcolor="#000000"> Środek gałązki się wyrzuca. </font>
+
+104
+00:17:36,720 --> 00:17:40,360
+<font backgroundcolor="#000000"> Z kory się wyplata </font>
+<font backgroundcolor="#000000"> takie piękne rzeczy. </font>
+
+105
+00:17:40,520 --> 00:17:44,760
+<font backgroundcolor="#000000"> Ta będzie dla mojej. </font>
+<font backgroundcolor="#000000"> Piękny biały ślubny kolor. </font>
+
+106
+00:18:23,680 --> 00:18:25,880
+<font backgroundcolor="#000000"> Ależ tu jest ładnie. </font>
+
+107
+00:18:26,480 --> 00:18:30,680
+<font backgroundcolor="#000000"> W dodatku bogato, </font>
+<font backgroundcolor="#000000"> jeśli chodzi o architekturę. </font>
+
+108
+00:18:30,840 --> 00:18:34,800
+<font backgroundcolor="#000000"> To chciałem państwu pokazać </font>
+<font backgroundcolor="#000000"> na jednym placu. </font>
+
+109
+00:18:34,960 --> 00:18:39,520
+<font backgroundcolor="#000000"> Na jednym placu </font>
+<font backgroundcolor="#000000"> siedem typów architektury i budulca. </font>
+
+110
+00:18:39,720 --> 00:18:44,480
+<font backgroundcolor="#000000"> Zwykła budka. </font>
+<font backgroundcolor="#000000"> Poszycie zrobione z trzciny. </font>
+
+111
+00:18:46,200 --> 00:18:48,240
+<font backgroundcolor="#000000"> Proszę pokazać z bliska. </font>
+
+112
+00:18:50,120 --> 00:18:54,000
+<font backgroundcolor="#000000"> Ten domek przypomina nasze kempingi. </font>
+
+113
+00:18:54,720 --> 00:18:59,000
+<font backgroundcolor="#000000"> Taka buda przykryta dachem </font>
+<font backgroundcolor="#000000"> do samej ziemi. </font>
+
+114
+00:19:02,840 --> 00:19:08,760
+<font backgroundcolor="#000000"> Kolejny dom ma ściany zrobione </font>
+<font backgroundcolor="#000000"> według zasady, którą znamy w Polsce. </font>
+
+115
+00:19:08,920 --> 00:19:11,560
+<font backgroundcolor="#000000"> Wbite słupki, jeden za drugim. </font>
+
+116
+00:19:11,720 --> 00:19:17,520
+<font backgroundcolor="#000000"> A potem między słupkami coś </font>
+<font backgroundcolor="#000000"> się przeplata. Tak to u nas robią. </font>
+
+117
+00:19:17,720 --> 00:19:19,760
+<font backgroundcolor="#000000"> Widać? </font>
+
+118
+00:19:22,560 --> 00:19:27,360
+<font backgroundcolor="#000000"> Następny domek jest zrobiony </font>
+<font backgroundcolor="#000000"> w technologii bambusowej. </font>
+
+119
+00:19:27,520 --> 00:19:32,320
+<font backgroundcolor="#000000"> To jest ściana z bambusa </font>
+<font backgroundcolor="#000000"> przekładanego w taki sposób. </font>
+
+120
+00:19:32,480 --> 00:19:34,560
+<font backgroundcolor="#000000"> Pod kątem prostym. </font>
+
+121
+00:19:34,720 --> 00:19:36,720
+<font backgroundcolor="#000000"> Najprostszy sposób. </font>
+
+122
+00:19:36,880 --> 00:19:40,640
+<font backgroundcolor="#000000"> Tak samo wyplata się </font>
+<font backgroundcolor="#000000"> materiał na ubrania. </font>
+
+123
+00:19:42,520 --> 00:19:44,400
+<font backgroundcolor="#000000"> Tutaj domek na palach. </font>
+
+124
+00:19:44,560 --> 00:19:48,760
+<font backgroundcolor="#000000"> Podniesiony, żeby pod spodem </font>
+<font backgroundcolor="#000000"> suszyło się drewno. </font>
+
+125
+00:19:48,920 --> 00:19:52,760
+<font backgroundcolor="#000000"> Ten domek też </font>
+<font backgroundcolor="#000000"> ma ściany zrobione z bambusa. </font>
+
+126
+00:19:52,920 --> 00:19:55,520
+<font backgroundcolor="#000000"> Tylko w takiej technologii. </font>
+
+127
+00:19:56,360 --> 00:19:58,200
+<font backgroundcolor="#000000"> Proszę pokazać. </font>
+
+128
+00:19:59,320 --> 00:20:03,280
+<font backgroundcolor="#000000"> Ten domek jest cały zrobiony </font>
+<font backgroundcolor="#000000"> z takich liści. </font>
+
+129
+00:20:03,440 --> 00:20:06,400
+<font backgroundcolor="#000000"> Te na dachu porzucone byle jak. </font>
+
+130
+00:20:06,560 --> 00:20:11,120
+<font backgroundcolor="#000000"> Tu pod spodem ładnie zaplecione </font>
+<font backgroundcolor="#000000"> w taki oto sposób. </font>
+
+131
+00:20:11,280 --> 00:20:13,560
+<font backgroundcolor="#000000"> Z bliska widać? </font>
+
+132
+00:20:14,920 --> 00:20:16,880
+<font backgroundcolor="#000000"> A na samym końcu... </font>
+
+133
+00:20:17,080 --> 00:20:21,080
+<font backgroundcolor="#000000"> Ślad nowoczesności </font>
+<font backgroundcolor="#000000"> - domek z blachy falistej. </font>
+
+134
+00:20:21,280 --> 00:20:25,160
+<font backgroundcolor="#000000"> Właściwie szałas z blachy falistej. </font>
+
+135
+00:20:26,000 --> 00:20:28,120
+<font backgroundcolor="#000000"> Ależ tu ładnie. </font>
+
+136
+00:21:31,320 --> 00:21:34,200
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> PIEŚŃ PLEMIENNA </font></font>
+
+137
+00:22:39,960 --> 00:22:43,000
+<font backgroundcolor="#000000"> Taniec pełni rolę integrującą. </font>
+
+138
+00:22:43,160 --> 00:22:47,640
+<font backgroundcolor="#000000"> Najbardziej pierwotny rytuał </font>
+<font backgroundcolor="#000000"> wszystkich plemion. </font>
+
+139
+00:22:47,800 --> 00:22:51,320
+<font backgroundcolor="#000000"> Włącznie z naszymi plemionami </font>
+<font backgroundcolor="#000000"> w Polsce. </font>
+
+140
+00:22:51,480 --> 00:22:55,000
+<font backgroundcolor="#000000"> W tańcu trzeba współpracować z innymi. </font>
+
+141
+00:22:55,160 --> 00:22:59,320
+<font backgroundcolor="#000000"> Tańca uczymy się razem, </font>
+<font backgroundcolor="#000000"> a potem tańczymy razem. </font>
+
+142
+00:22:59,480 --> 00:23:03,560
+<font backgroundcolor="#000000"> Tu dodatkowo taniec jest </font>
+<font backgroundcolor="#000000"> jak nasz znak pokoju. </font>
+
+143
+00:23:03,720 --> 00:23:06,760
+<font backgroundcolor="#000000"> Po tańcu wszystkie spory zniknęły. </font>
+
+144
+00:23:06,920 --> 00:23:11,600
+<font backgroundcolor="#000000"> Tak jak u nas po wigilijnym </font>
+<font backgroundcolor="#000000"> przełamaniu się opłatkiem. </font>
+
+145
+00:23:16,480 --> 00:23:20,040
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> PIEŚŃ PLEMIENNA </font></font>
+
+146
+00:23:41,760 --> 00:23:49,400
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH: </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+147
+00:23:50,280 --> 00:23:55,400
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+
+148
+00:23:56,680 --> 00:24:00,440
+<font backgroundcolor="#000000"> Makaron, co ty mi dałeś do siedzenia? </font>
+
+149
+00:24:00,600 --> 00:24:03,280
+<font backgroundcolor="#000000"> Kibelek indiański. </font>
+
+150
+00:24:03,680 --> 00:24:07,560
+<font backgroundcolor="#000000"> Siedź spokojnie. </font>
+<font backgroundcolor="#000000"> Zapach się nie nagrywa. </font>
+
+151
+00:24:11,560 --> 00:24:14,960
+<font backgroundcolor="#000000"> Widać było tamtą dziurkę? </font>
+

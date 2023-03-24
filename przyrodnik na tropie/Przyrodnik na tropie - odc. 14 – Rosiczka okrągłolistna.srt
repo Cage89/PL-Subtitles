@@ -1,0 +1,1352 @@
+1
+00:00:03,760 --> 00:00:08,880
+<font color="aqua">Znany wam przyrodnik Łukasz Bożycki</font>
+<font color="aqua">podąża tropem zwierząt i roślin</font>
+
+2
+00:00:09,040 --> 00:00:13,080
+<font color="aqua">żyjących na najbardziej</font>
+<font color="aqua">niedostępnych polskich bagnach.</font>
+
+3
+00:00:13,240 --> 00:00:17,120
+<font color="aqua">Uzbrojony w aparat</font>
+<font color="aqua">i skafander nurka przyjrzy się</font>
+
+4
+00:00:17,280 --> 00:00:21,520
+<font color="aqua">tajemniczym mieszkańcom</font>
+<font color="aqua">nieprzyjaznych dla nas torfowisk.</font>
+
+5
+00:00:21,680 --> 00:00:25,120
+<font color="aqua">Zostańcie z nami,</font>
+<font color="aqua">aby wspólnie z przyrodnikiem</font>
+
+6
+00:00:25,280 --> 00:00:30,120
+<font color="aqua">odsłaniać tajemnice sieci powiązań</font>
+<font color="aqua">w polskiej przyrodzie.</font>
+
+7
+00:01:07,000 --> 00:01:11,680
+<font color="#FFFF51">Przyzwyczajeni jesteśmy do myśli,</font>
+<font color="#FFFF51">że zwierzęta zjadają rośliny.</font>
+
+8
+00:01:11,840 --> 00:01:13,640
+<font color="#FFFF51">To dla nas naturalne.</font>
+
+9
+00:01:13,800 --> 00:01:19,080
+<font color="#FFFF51">Ale myśl odwrotna</font>
+<font color="#FFFF51">- że to rośliny zjadają zwierzęta -</font>
+
+10
+00:01:19,240 --> 00:01:22,240
+<font color="#FFFF51">budzi w nas niepokój</font>
+<font color="#FFFF51">niemal tak silny,</font>
+
+11
+00:01:22,400 --> 00:01:26,080
+<font color="#FFFF51">jak we mnie to torfowisko,</font>
+<font color="#FFFF51">że zaraz się zapadnę.</font>
+
+12
+00:01:26,240 --> 00:01:29,600
+<font color="#FFFF51">Myśląc o roślinach mięsożernych,</font>
+<font color="#FFFF51">boimy się,</font>
+
+13
+00:01:29,760 --> 00:01:32,920
+<font color="#FFFF51">że zjedzą nas</font>
+<font color="#FFFF51">albo nasze domowe zwierzęta.</font>
+
+14
+00:01:33,080 --> 00:01:37,760
+<font color="#FFFF51">Oczywiście wszystkie ssaki</font>
+<font color="#FFFF51">żyjące w Polsce są bezpieczne,</font>
+
+15
+00:01:37,920 --> 00:01:41,240
+<font color="#FFFF51">ale za granicą</font>
+<font color="#FFFF51">już tak bezpiecznie nie jest,</font>
+
+16
+00:01:41,400 --> 00:01:45,560
+<font color="#FFFF51">bo niektóre mięsożerne rośliny</font>
+<font color="#FFFF51">zjadają małe nietoperze</font>
+
+17
+00:01:45,720 --> 00:01:47,640
+<font color="#FFFF51">albo inne drobne ssaki.</font>
+
+18
+00:02:28,400 --> 00:02:32,680
+<font color="#FFFF51">Opowiem o najbardziej</font>
+<font color="#FFFF51">fascynujących roślinach na świecie,</font>
+
+19
+00:02:32,840 --> 00:02:36,920
+<font color="#FFFF51">jak mawiał Darwin,</font>
+<font color="#FFFF51">czyli o mięsożernych rosiczkach,</font>
+
+20
+00:02:37,080 --> 00:02:40,120
+<font color="#FFFF51">a dokładniej</font>
+<font color="#FFFF51">o rosiczce okrągłolistnej</font>
+
+21
+00:02:40,280 --> 00:02:42,840
+<font color="#FFFF51">i jej sieci powiązań w przyrodzie.</font>
+
+22
+00:02:43,000 --> 00:02:45,040
+<font color="#FFFF51">Będzie też o torfowiskach,</font>
+
+23
+00:02:45,200 --> 00:02:47,600
+<font color="#FFFF51">żurawinie i karasiu srebrzystym</font>
+
+24
+00:02:47,760 --> 00:02:50,440
+<font color="#FFFF51">tworzącym</font>
+<font color="#FFFF51">populacje wolne od samców,</font>
+
+25
+00:02:50,600 --> 00:02:53,520
+<font color="#FFFF51">ale to już znamy</font>
+<font color="#FFFF51">z polskiej komedii.</font>
+
+26
+00:03:03,240 --> 00:03:05,160
+<font color="#FFFF51">Dobra, ruszamy w teren.</font>
+
+27
+00:03:07,280 --> 00:03:09,080
+<font color="#FFFF51">Tylko jak?</font>
+
+28
+00:03:09,240 --> 00:03:11,040
+<font color="#FFFF51">Halo?</font>
+
+29
+00:03:11,200 --> 00:03:13,000
+<font color="#FFFF51">Halo? Pomocy.</font>
+
+30
+00:03:19,040 --> 00:03:20,640
+<font color="#FFFF51">Może ktoś mi pomóc?</font>
+
+31
+00:03:26,760 --> 00:03:30,120
+<font color="aqua">Rosiczka okrągłolistna</font>
+<font color="aqua">jest wieloletnią byliną</font>
+
+32
+00:03:30,280 --> 00:03:32,640
+<font color="aqua">dorastającą do 20 cm wysokości.</font>
+
+33
+00:03:32,800 --> 00:03:37,160
+<font color="aqua">Na prostej, cienkiej, czerwonej</font>
+<font color="aqua">i dłuższej od liści łodydze</font>
+
+34
+00:03:37,320 --> 00:03:40,120
+<font color="aqua">znajdują się</font>
+<font color="aqua">białe i niepozorne kwiaty</font>
+
+35
+00:03:40,280 --> 00:03:41,680
+<font color="aqua">zebrane w grono.</font>
+
+36
+00:03:41,840 --> 00:03:46,600
+<font color="aqua">Okrągłe liście o długim ogonku</font>
+<font color="aqua">wyrastają bezpośrednio z podłoża.</font>
+
+37
+00:03:46,760 --> 00:03:50,400
+<font color="aqua">Na nich znajdują się</font>
+<font color="aqua">czerwone włoski gruczołowe.</font>
+
+38
+00:03:50,560 --> 00:03:53,880
+<font color="aqua">Pokrywa je słodki płyn,</font>
+<font color="aqua">który zwabia owady.</font>
+
+39
+00:03:54,040 --> 00:03:58,480
+<font color="aqua">Ciecz jest na tyle lepka,</font>
+<font color="aqua">że unieruchamia schwytaną ofiarę,</font>
+
+40
+00:03:58,640 --> 00:04:00,960
+<font color="aqua">która przykleja się do liści.</font>
+
+41
+00:04:01,120 --> 00:04:05,440
+<font color="aqua">W reakcji na jej ruch</font>
+<font color="aqua">liście zwijają się wokół zdobyczy</font>
+
+42
+00:04:05,600 --> 00:04:08,040
+<font color="aqua">i rozpoczynają jej trawienie.</font>
+
+43
+00:04:47,520 --> 00:04:50,800
+<font color="#FFFF51">Dlaczego rośliny stały się</font>
+<font color="#FFFF51">mięsożerne?</font>
+
+44
+00:04:50,960 --> 00:04:52,680
+<font color="#FFFF51">Odpowiedź jest prosta:</font>
+
+45
+00:04:52,840 --> 00:04:57,160
+<font color="#FFFF51">rekompensują sobie braki</font>
+<font color="#FFFF51">składników odżywczych w glebie.</font>
+
+46
+00:04:57,320 --> 00:04:59,280
+<font color="#FFFF51">Najczęściej to brak azotu.</font>
+
+47
+00:04:59,440 --> 00:05:03,240
+<font color="#FFFF51">Przez to, że rosiczki</font>
+<font color="#FFFF51">zaczęły odżywiać się owadami,</font>
+
+48
+00:05:03,400 --> 00:05:05,640
+<font color="#FFFF51">np. muchą, która mnie atakuje,</font>
+
+49
+00:05:05,800 --> 00:05:10,480
+<font color="#FFFF51">zyskały drobną przewagę</font>
+<font color="#FFFF51">w tym świecie pełnym konkurencji.</font>
+
+50
+00:05:12,160 --> 00:05:15,400
+<font color="aqua">Rosiczka długolistna</font>
+<font color="aqua">znacznie różni się</font>
+
+51
+00:05:15,560 --> 00:05:19,280
+<font color="aqua">od swojej krewniaczki</font>
+<font color="aqua">rosiczki okrągłolistnej.</font>
+
+52
+00:05:19,440 --> 00:05:24,640
+<font color="aqua">Jej liście osiągają długość do 4 cm</font>
+<font color="aqua">i mają kształt wąskiej łopatki.</font>
+
+53
+00:05:24,800 --> 00:05:29,240
+<font color="aqua">Dzięki temu, że osadzone są</font>
+<font color="aqua">na 10-centymetrowym ogonku,</font>
+
+54
+00:05:29,400 --> 00:05:31,840
+<font color="aqua">wystają wysoko ponad podłoże.</font>
+
+55
+00:05:55,480 --> 00:06:00,040
+<font color="#FFFF51">Rosiczka długolistna w inny sposób</font>
+<font color="#FFFF51">owija liście wokół ofiary</font>
+
+56
+00:06:00,200 --> 00:06:03,200
+<font color="#FFFF51">w porównaniu</font>
+<font color="#FFFF51">z rosiczką okrągłolistną,</font>
+
+57
+00:06:03,360 --> 00:06:05,680
+<font color="#FFFF51">która przymyka liść na ofierze.</font>
+
+58
+00:06:05,840 --> 00:06:08,280
+<font color="#FFFF51">Rosiczka długolistna owija liść,</font>
+
+59
+00:06:08,440 --> 00:06:11,840
+<font color="#FFFF51">dlatego że jest 8-krotnie dłuższy</font>
+<font color="#FFFF51">niż szerszy.</font>
+
+60
+00:06:12,000 --> 00:06:15,840
+<font color="#FFFF51">Wygląda to tak, jakbyśmy zwijali</font>
+<font color="#FFFF51">naleśniki z dżemem.</font>
+
+61
+00:06:16,000 --> 00:06:19,480
+<font color="#FFFF51">Jak już strawi owada,</font>
+<font color="#FFFF51">rosiczka rozwija liść,</font>
+
+62
+00:06:19,640 --> 00:06:23,920
+<font color="#FFFF51">wiatr zabiera jego szczątki</font>
+<font color="#FFFF51">i ponownie może polować.</font>
+
+63
+00:06:26,600 --> 00:06:31,400
+<font color="aqua">Torfowiec magellański i kończysty</font>
+<font color="aqua">tworzą optymalne warunki</font>
+
+64
+00:06:31,560 --> 00:06:34,760
+<font color="aqua">do prawidłowego</font>
+<font color="aqua">rozwoju rosiczek w Polsce.</font>
+
+65
+00:06:34,920 --> 00:06:37,080
+<font color="aqua">Torfowce to delikatne mchy</font>
+
+66
+00:06:37,240 --> 00:06:40,440
+<font color="aqua">o łodyżce</font>
+<font color="aqua">osiągającej długość do 20 cm.</font>
+
+67
+00:06:40,600 --> 00:06:45,320
+<font color="aqua">Torfowca magellańskiego wyróżnia</font>
+<font color="aqua">czerwona górna część łodyżki,</font>
+
+68
+00:06:45,480 --> 00:06:49,680
+<font color="aqua">która u torfowca kończystego</font>
+<font color="aqua">jest koloru zielonego.</font>
+
+69
+00:07:19,840 --> 00:07:23,880
+<font color="#FFFF51">Odpowiednie warunki</font>
+<font color="#FFFF51">do rozwoju rosiczek stwarzają mchy</font>
+
+70
+00:07:24,040 --> 00:07:25,880
+<font color="#FFFF51">z rodziny torfowców.</font>
+
+71
+00:07:26,040 --> 00:07:30,760
+<font color="#FFFF51">Niektóre gatunki zasiedlają</font>
+<font color="#FFFF51">różne obszary na jednym torfowisku.</font>
+
+72
+00:07:30,920 --> 00:07:34,560
+<font color="#FFFF51">Na kępkach rosną wyłącznie</font>
+<font color="#FFFF51">torfowce magellańskie.</font>
+
+73
+00:07:34,720 --> 00:07:36,240
+<font color="#FFFF51">Łatwo je rozpoznać</font>
+
+74
+00:07:36,400 --> 00:07:40,040
+<font color="#FFFF51">- mają czerwone główki</font>
+<font color="#FFFF51">i tępo zakończone liście.</font>
+
+75
+00:07:40,200 --> 00:07:42,920
+<font color="#FFFF51">W dolinkach,</font>
+<font color="#FFFF51">gdzie jest więcej wody,</font>
+
+76
+00:07:43,080 --> 00:07:45,160
+<font color="#FFFF51">rośnie torfowiec kończysty.</font>
+
+77
+00:07:45,320 --> 00:07:50,000
+<font color="#FFFF51">Łatwo go rozpoznać - jest zielony</font>
+<font color="#FFFF51">i ma ostro zakończone liście.</font>
+
+78
+00:07:50,160 --> 00:07:53,280
+<font color="#FFFF51">Jak pojawi się susza,</font>
+<font color="#FFFF51">poziom wody spadnie,</font>
+
+79
+00:07:53,440 --> 00:07:58,120
+<font color="#FFFF51">torfowce zaczną wymierać,</font>
+<font color="#FFFF51">a razem z nimi, niestety, rosiczki.</font>
+
+80
+00:08:12,240 --> 00:08:14,040
+<font color="#FFFF51">Torf to skała osadowa</font>
+
+81
+00:08:14,200 --> 00:08:17,760
+<font color="#FFFF51">i powstaje m.in.</font>
+<font color="#FFFF51">dzięki działalności torfowców.</font>
+
+82
+00:08:17,920 --> 00:08:20,560
+<font color="#FFFF51">Zaliczany jest do węgla kamiennego,</font>
+
+83
+00:08:20,720 --> 00:08:24,520
+<font color="#FFFF51">a zawartość węgla w torfie</font>
+<font color="#FFFF51">może sięgać aż do 60%.</font>
+
+84
+00:08:24,680 --> 00:08:27,520
+<font color="#FFFF51">Do tej pory</font>
+<font color="#FFFF51">w Irlandii i w Finlandii</font>
+
+85
+00:08:27,680 --> 00:08:30,440
+<font color="#FFFF51">torf służy</font>
+<font color="#FFFF51">jako paliwo energetyczne.</font>
+
+86
+00:08:30,600 --> 00:08:32,400
+<font color="#FFFF51">Trudno sobie wyobrazić,</font>
+
+87
+00:08:32,560 --> 00:08:35,680
+<font color="#FFFF51">że te rośliny</font>
+<font color="#FFFF51">znajdujące się w tym miejscu</font>
+
+88
+00:08:35,840 --> 00:08:39,760
+<font color="#FFFF51">tworzą torf, którym potem możemy</font>
+<font color="#FFFF51">palić w piecach.</font>
+
+89
+00:08:39,920 --> 00:08:41,720
+<font color="#FFFF51">To jest niesamowite.</font>
+
+90
+00:08:50,760 --> 00:08:53,680
+<font color="aqua">Karaś osiąga długość ciała do 50 cm</font>
+
+91
+00:08:53,840 --> 00:08:56,320
+<font color="aqua">i potrafi dożyć nawet do 20 lat.</font>
+
+92
+00:08:56,480 --> 00:09:00,560
+<font color="aqua">Wyróżnia go wygrzbiecone ciało</font>
+<font color="aqua">pokryte dużymi łuskami,</font>
+
+93
+00:09:00,720 --> 00:09:04,040
+<font color="aqua">długa płetwa grzbietowa</font>
+<font color="aqua">z wypukłą krawędzią,</font>
+
+94
+00:09:04,200 --> 00:09:07,080
+<font color="aqua">czerwonawe płetwy piersiowe</font>
+<font color="aqua">i brzuszne</font>
+
+95
+00:09:07,240 --> 00:09:11,920
+<font color="aqua">oraz słabo wcięta płetwa ogonowa</font>
+<font color="aqua">z ciemną plamą u nasady.</font>
+
+96
+00:09:53,480 --> 00:09:56,400
+<font color="#FFFF51">Karaś pospolity</font>
+<font color="#FFFF51">to mistrz przetrwania.</font>
+
+97
+00:09:56,560 --> 00:09:59,800
+<font color="#FFFF51">Potrafi przeżyć</font>
+<font color="#FFFF51">kilkunastodniowe zamrożenie.</font>
+
+98
+00:09:59,960 --> 00:10:03,640
+<font color="#FFFF51">Gdy jest susza</font>
+<font color="#FFFF51">i wysycha zbiornik, w którym żyje,</font>
+
+99
+00:10:03,800 --> 00:10:06,640
+<font color="#FFFF51">zagrzebuje się w mule</font>
+<font color="#FFFF51">- dalej nie idę -</font>
+
+100
+00:10:06,800 --> 00:10:09,160
+<font color="#FFFF51">i potrafi ten okres przetrwać.</font>
+
+101
+00:10:09,320 --> 00:10:12,600
+<font color="#FFFF51">Karaś pospolity</font>
+<font color="#FFFF51">jest pospolity tylko z nazwy</font>
+
+102
+00:10:12,760 --> 00:10:16,600
+<font color="#FFFF51">- jego liczebność w Polsce</font>
+<font color="#FFFF51">cały czas się zmniejsza.</font>
+
+103
+00:10:16,760 --> 00:10:18,560
+<font color="#FFFF51">Powodów jest kilka.</font>
+
+104
+00:10:18,720 --> 00:10:22,640
+<font color="#FFFF51">Po pierwsze, osuszamy tereny</font>
+<font color="#FFFF51">i jeziorka zanikają.</font>
+
+105
+00:10:22,800 --> 00:10:25,480
+<font color="#FFFF51">Po drugie, zabudowujemy koryta rzek</font>
+
+106
+00:10:25,640 --> 00:10:29,920
+<font color="#FFFF51">i karaś nie ma gdzie się rozmnażać</font>
+<font color="#FFFF51">- potrzebuje zatoczek.</font>
+
+107
+00:10:30,080 --> 00:10:34,200
+<font color="#FFFF51">Po trzecie, karaś srebrzysty,</font>
+<font color="#FFFF51">jego bliski krewny,</font>
+
+108
+00:10:34,360 --> 00:10:37,200
+<font color="#FFFF51">jest dla niego ogromnym problemem.</font>
+
+109
+00:11:06,760 --> 00:11:10,360
+<font color="#FFFF51">Karasia srebrzystego</font>
+<font color="#FFFF51">sprowadzono do Polski z Azji</font>
+
+110
+00:11:10,520 --> 00:11:12,320
+<font color="#FFFF51">w latach 30. XX wieku.</font>
+
+111
+00:11:12,480 --> 00:11:16,720
+<font color="#FFFF51">Dzięki ogromnej wytrzymałości</font>
+<font color="#FFFF51">i niesamowitej rozrodczości</font>
+
+112
+00:11:16,880 --> 00:11:19,960
+<font color="#FFFF51">zasiedlił</font>
+<font color="#FFFF51">wszystkie typy polskich akwenów.</font>
+
+113
+00:11:20,120 --> 00:11:22,760
+<font color="#FFFF51">Gdyby pojawił się</font>
+<font color="#FFFF51">w tym starorzeczu,</font>
+
+114
+00:11:22,920 --> 00:11:25,240
+<font color="#FFFF51">to po kilku, kilkunastu latach</font>
+
+115
+00:11:25,400 --> 00:11:28,520
+<font color="#FFFF51">wyparłby</font>
+<font color="#FFFF51">nasz rodzimy gatunek karasia.</font>
+
+116
+00:11:58,040 --> 00:12:01,880
+<font color="#FFFF51">W Polsce żyją wyłącznie</font>
+<font color="#FFFF51">samice karasia srebrzystego.</font>
+
+117
+00:12:02,040 --> 00:12:06,000
+<font color="#FFFF51">Są w stanie rozmnażać się</font>
+<font color="#FFFF51">bez samców własnego gatunku.</font>
+
+118
+00:12:06,160 --> 00:12:09,400
+<font color="#FFFF51">Zjawisko to zostało opisane</font>
+<font color="#FFFF51">jako gynogeneza.</font>
+
+119
+00:12:09,560 --> 00:12:13,520
+<font color="#FFFF51">Karasie srebrzyste</font>
+<font color="#FFFF51">dołączają do tarła innych gatunków,</font>
+
+120
+00:12:13,680 --> 00:12:15,720
+<font color="#FFFF51">np. lina, leszcza i płoci,</font>
+
+121
+00:12:15,880 --> 00:12:20,240
+<font color="#FFFF51">i korzystają z ich plemników</font>
+<font color="#FFFF51">jako inicjatorów zapłodnienia,</font>
+
+122
+00:12:20,400 --> 00:12:23,000
+<font color="#FFFF51">choć plemniki nie wnikają do ikry.</font>
+
+123
+00:12:23,160 --> 00:12:27,200
+<font color="#FFFF51">W związku z tym ojciec</font>
+<font color="#FFFF51">nie przekazuje genów potomstwu,</font>
+
+124
+00:12:27,360 --> 00:12:31,280
+<font color="#FFFF51">a rodzą się klony matki,</font>
+<font color="#FFFF51">czyli wyłącznie samice.</font>
+
+125
+00:12:32,840 --> 00:12:36,000
+<font color="aqua">Mucha domowa</font>
+<font color="aqua">to jedna z największych ofiar,</font>
+
+126
+00:12:36,160 --> 00:12:38,880
+<font color="aqua">jaką jest</font>
+<font color="aqua">w stanie upolować rosiczka.</font>
+
+127
+00:12:39,040 --> 00:12:42,160
+<font color="aqua">Łączy je relacja</font>
+<font color="aqua">drapieżnika i ofiary.</font>
+
+128
+00:13:43,240 --> 00:13:46,920
+<font color="#FFFF51">Chodzenie po torfowisku</font>
+<font color="#FFFF51">może być bardzo męczące,</font>
+
+129
+00:13:47,080 --> 00:13:51,120
+<font color="#FFFF51">bo człowiek się zapada</font>
+<font color="#FFFF51">i musi walczyć z kaloszami,</font>
+
+130
+00:13:51,280 --> 00:13:53,480
+<font color="#FFFF51">żeby wyciągnąć je z błota,</font>
+
+131
+00:13:53,640 --> 00:13:57,600
+<font color="#FFFF51">dlatego myślę,</font>
+<font color="#FFFF51">że zasłużyłem na odpoczynek.</font>
+
+132
+00:13:57,760 --> 00:14:01,200
+<font color="#FFFF51">A teraz, uwaga, odrobina luksusu.</font>
+
+133
+00:14:01,360 --> 00:14:03,280
+<font color="#FFFF51">Noszę ze sobą krzesełko,</font>
+
+134
+00:14:03,440 --> 00:14:07,520
+<font color="#FFFF51">ponieważ nie ma nic lepszego</font>
+<font color="#FFFF51">niż usiąść jak człowiek</font>
+
+135
+00:14:07,680 --> 00:14:09,720
+<font color="#FFFF51">i spokojnie zjeść.</font>
+
+136
+00:14:09,880 --> 00:14:12,520
+<font color="#FFFF51">Wiemy, jak człowiek trawi pokarm.</font>
+
+137
+00:14:12,680 --> 00:14:16,760
+<font color="#FFFF51">Ma mnóstwo enzymów</font>
+<font color="#FFFF51">rozkładających pokarm na cegiełki,</font>
+
+138
+00:14:16,920 --> 00:14:19,080
+<font color="#FFFF51">które potem są wchłaniane.</font>
+
+139
+00:14:19,240 --> 00:14:22,120
+<font color="#FFFF51">Jak radzą sobie z pokarmem</font>
+<font color="#FFFF51">rosiczki?</font>
+
+140
+00:14:22,280 --> 00:14:24,080
+<font color="#FFFF51">To zależy od gatunku.</font>
+
+141
+00:14:24,240 --> 00:14:27,160
+<font color="#FFFF51">Rosiczka okrągłolistna</font>
+<font color="#FFFF51">posiada proteazy,</font>
+
+142
+00:14:27,320 --> 00:14:29,960
+<font color="#FFFF51">które tną białka</font>
+<font color="#FFFF51">na drobne elementy,</font>
+
+143
+00:14:30,120 --> 00:14:32,680
+<font color="#FFFF51">które są wchłaniane przez roślinę.</font>
+
+144
+00:14:32,840 --> 00:14:37,560
+<font color="#FFFF51">Proteaza jest podobna do pepsyny,</font>
+<font color="#FFFF51">którą wytwarza ludzki żołądek.</font>
+
+145
+00:14:37,720 --> 00:14:42,880
+<font color="#FFFF51">Rosiczki posiadają też inne enzymy</font>
+<font color="#FFFF51">umożliwiające im trawienie RNA.</font>
+
+146
+00:14:43,040 --> 00:14:46,440
+<font color="#FFFF51">To rybonukleaza</font>
+<font color="#FFFF51">- człowiek także ma ten enzym,</font>
+
+147
+00:14:46,600 --> 00:14:48,480
+<font color="#FFFF51">a wytwarza go trzustka.</font>
+
+148
+00:14:48,640 --> 00:14:50,960
+<font color="#FFFF51">Natura to nieźle wykombinowała:</font>
+
+149
+00:14:51,120 --> 00:14:54,560
+<font color="#FFFF51">zwierzęta jedzą rośliny,</font>
+<font color="#FFFF51">rośliny - zwierzęta,</font>
+
+150
+00:14:54,720 --> 00:14:58,120
+<font color="#FFFF51">ale wszyscy korzystają</font>
+<font color="#FFFF51">z podobnych enzymów.</font>
+
+151
+00:14:58,280 --> 00:15:02,400
+<font color="#FFFF51">I wszyscy potrzebują wody</font>
+<font color="#FFFF51">- i rośliny, i zwierzęta.</font>
+
+152
+00:15:22,400 --> 00:15:26,760
+<font color="#FFFF51">Wyobraźcie sobie, że jestem owadem,</font>
+<font color="#FFFF51">a te sosny to rosiczki</font>
+
+153
+00:15:26,920 --> 00:15:30,080
+<font color="#FFFF51">i na końcu gałązek</font>
+<font color="#FFFF51">znajduje się lepki płyn,</font>
+
+154
+00:15:30,240 --> 00:15:32,040
+<font color="#FFFF51">który ma mnie zatrzymać.</font>
+
+155
+00:15:32,200 --> 00:15:35,000
+<font color="#FFFF51">To abstrakcyjne,</font>
+<font color="#FFFF51">ale zostańcie ze mną.</font>
+
+156
+00:15:35,160 --> 00:15:38,760
+<font color="#FFFF51">Jako owad muszę unikać sosenek,</font>
+<font color="#FFFF51">bo mnie złapią.</font>
+
+157
+00:15:38,920 --> 00:15:41,560
+<font color="#FFFF51">Tędy nie przejdę,</font>
+<font color="#FFFF51">więc próbuję tędy.</font>
+
+158
+00:15:41,720 --> 00:15:43,640
+<font color="#FFFF51">Przelatuję! Uciekam! Och!</font>
+
+159
+00:15:43,800 --> 00:15:46,040
+<font color="#FFFF51">I to jest bardzo ważny moment.</font>
+
+160
+00:15:46,200 --> 00:15:50,680
+<font color="#FFFF51">Jestem średnio dużym owadem,</font>
+<font color="#FFFF51">a sosna - średnio dużą rosiczką,</font>
+
+161
+00:15:50,840 --> 00:15:55,080
+<font color="#FFFF51">ale jestem silniejszy</font>
+<font color="#FFFF51">i mogę się oderwać i ujść z życiem.</font>
+
+162
+00:15:55,240 --> 00:15:59,280
+<font color="#FFFF51">Ale jak mnie złapie</font>
+<font color="#FFFF51">większa rosiczka i zacznie oplatać,</font>
+
+163
+00:15:59,440 --> 00:16:03,600
+<font color="#FFFF51">to nie mogę się wyrwać,</font>
+<font color="#FFFF51">więc zostanę zabity i strawiony.</font>
+
+164
+00:16:03,760 --> 00:16:06,920
+<font color="#FFFF51">Największe ofiary rosiczek,</font>
+<font color="#FFFF51">jakie widziałem,</font>
+
+165
+00:16:07,080 --> 00:16:11,240
+<font color="#FFFF51">to biedronki, muchy,</font>
+<font color="#FFFF51">a czasem małe, niemrawe ważki.</font>
+
+166
+00:16:11,400 --> 00:16:13,760
+<font color="#FFFF51">No, i tak jestem silniejszy.</font>
+
+167
+00:16:17,960 --> 00:16:22,640
+<font color="aqua">Komar brzęczący to najbardziej</font>
+<font color="aqua">rozpowszechniony komar w Polsce.</font>
+
+168
+00:16:22,800 --> 00:16:26,920
+<font color="aqua">Rozwój jednego pokolenia może trwać</font>
+<font color="aqua">około dwóch tygodni.</font>
+
+169
+00:16:27,080 --> 00:16:31,280
+<font color="aqua">Zimę przeżywa zapłodniona samica</font>
+<font color="aqua">niepobierająca pokarmu,</font>
+
+170
+00:16:31,440 --> 00:16:34,520
+<font color="aqua">u której został</font>
+<font color="aqua">zatrzymany rozwój jaj.</font>
+
+171
+00:16:34,680 --> 00:16:39,200
+<font color="aqua">Z nadejściem wiosennej pogody</font>
+<font color="aqua">przystąpi do rozmnażania.</font>
+
+172
+00:16:54,280 --> 00:16:55,680
+<font color="#FFFF51">W okresie suszy,</font>
+
+173
+00:16:55,840 --> 00:16:58,560
+<font color="#FFFF51">gdy poziom wody gruntowej</font>
+<font color="#FFFF51">jest niski,</font>
+
+174
+00:16:58,720 --> 00:17:01,800
+<font color="#FFFF51">torfowiska</font>
+<font color="#FFFF51">mogą być porośnięte torfowcami.</font>
+
+175
+00:17:01,960 --> 00:17:04,040
+<font color="#FFFF51">To niekorzystne dla komarów.</font>
+
+176
+00:17:04,200 --> 00:17:09,160
+<font color="#FFFF51">Nie ma otwartej przestrzeni wody</font>
+<font color="#FFFF51">i samica nie ma gdzie składać jaj.</font>
+
+177
+00:17:09,320 --> 00:17:11,760
+<font color="#FFFF51">Ale komary sobie z tym poradziły</font>
+
+178
+00:17:11,920 --> 00:17:15,200
+<font color="#FFFF51">- do rozmnażania</font>
+<font color="#FFFF51">wystarczy im takie bajorko.</font>
+
+179
+00:17:15,360 --> 00:17:18,720
+<font color="#FFFF51">Tu przychodzą zwierzęta,</font>
+<font color="#FFFF51">kąpią się, piją wodę,</font>
+
+180
+00:17:18,880 --> 00:17:21,640
+<font color="#FFFF51">a samica komarów</font>
+<font color="#FFFF51">złoży tu mnóstwo jaj.</font>
+
+181
+00:17:21,800 --> 00:17:25,280
+<font color="#FFFF51">Potem wykluje się</font>
+<font color="#FFFF51">armia krwiopijnych komarów,</font>
+
+182
+00:17:25,440 --> 00:17:29,440
+<font color="#FFFF51">które polecą na torfowiska,</font>
+<font color="#FFFF51">a tam czekają rosiczki.</font>
+
+183
+00:17:40,680 --> 00:17:42,600
+<font color="#FFFF51">W ciekawym doświadczeniu</font>
+
+184
+00:17:42,760 --> 00:17:47,040
+<font color="#FFFF51">nakarmiono rosiczki</font>
+<font color="#FFFF51">jednocześnie komarem i muchą.</font>
+
+185
+00:17:47,200 --> 00:17:49,440
+<font color="#FFFF51">Po wyznakowaniu pierwiastków</font>
+
+186
+00:17:49,600 --> 00:17:53,320
+<font color="#FFFF51">naukowcy mogli śledzić</font>
+<font color="#FFFF51">losy tych pierwiastków.</font>
+
+187
+00:17:53,480 --> 00:17:56,080
+<font color="#FFFF51">Po 20 dniach trawienia owadów</font>
+
+188
+00:17:56,240 --> 00:18:01,160
+<font color="#FFFF51">rosiczki były w stanie</font>
+<font color="#FFFF51">wchłonąć 60% azotu z ciała owadów,</font>
+
+189
+00:18:01,320 --> 00:18:04,880
+<font color="#FFFF51">a 90% fosforu, potasu i magnezu.</font>
+
+190
+00:18:05,040 --> 00:18:08,240
+<font color="#FFFF51">To, co było najciekawsze</font>
+<font color="#FFFF51">w doświadczeniu:</font>
+
+191
+00:18:08,400 --> 00:18:12,400
+<font color="#FFFF51">rosiczki wchłaniały wapń</font>
+<font color="#FFFF51">wyłącznie z ciała komara.</font>
+
+192
+00:18:12,560 --> 00:18:16,000
+<font color="#FFFF51">Ciekawe,</font>
+<font color="#FFFF51">bo jak rosiczka potrzebuje wapnia,</font>
+
+193
+00:18:16,160 --> 00:18:18,000
+<font color="#FFFF51">to musi złapać komara.</font>
+
+194
+00:18:18,160 --> 00:18:20,200
+<font color="#FFFF51">O, a to też bardzo ciekawe.</font>
+
+195
+00:18:20,360 --> 00:18:25,040
+<font color="#FFFF51">Sama myśl o tym,</font>
+<font color="#FFFF51">że możemy karmić owadami rosiczki.</font>
+
+196
+00:18:25,200 --> 00:18:27,320
+<font color="#FFFF51">Proszę bardzo. Smacznego.</font>
+
+197
+00:18:29,520 --> 00:18:33,440
+<font color="aqua">Brzoza omszona to śmiertelne</font>
+<font color="aqua">zagrożenie dla rosiczki,</font>
+
+198
+00:18:33,600 --> 00:18:37,040
+<font color="aqua">która przegrywa z nią walkę</font>
+<font color="aqua">o dostęp do słońca.</font>
+
+199
+00:18:37,200 --> 00:18:39,680
+<font color="aqua">Drzewa, zacieniając torfowiska,</font>
+
+200
+00:18:39,840 --> 00:18:42,760
+<font color="aqua">doprowadzają</font>
+<font color="aqua">do wymierania rosiczek.</font>
+
+201
+00:18:58,360 --> 00:19:01,160
+<font color="#FFFF51">Wśród ośmiu</font>
+<font color="#FFFF51">rodzimych gatunków brzóz</font>
+
+202
+00:19:01,320 --> 00:19:04,320
+<font color="#FFFF51">trzy potrafią żyć</font>
+<font color="#FFFF51">na terenach podmokłych,</font>
+
+203
+00:19:04,480 --> 00:19:08,320
+<font color="#FFFF51">ale tylko brzoza omszona</font>
+<font color="#FFFF51">to zagrożenie dla rosiczek,</font>
+
+204
+00:19:08,480 --> 00:19:12,000
+<font color="#FFFF51">bo jest licznym drzewem</font>
+<font color="#FFFF51">na terenie całego kraju.</font>
+
+205
+00:19:12,160 --> 00:19:16,040
+<font color="#FFFF51">Rośliny na torfowiskach wysokich</font>
+<font color="#FFFF51">mają małe wymagania,</font>
+
+206
+00:19:16,200 --> 00:19:19,960
+<font color="#FFFF51">są odporne na niskie pH</font>
+<font color="#FFFF51">i tolerują braki azotu.</font>
+
+207
+00:19:20,120 --> 00:19:24,040
+<font color="#FFFF51">Tak duża brzoza</font>
+<font color="#FFFF51">nie mogłaby żyć na torfowisku,</font>
+
+208
+00:19:24,200 --> 00:19:27,920
+<font color="#FFFF51">ale rosnąc blisko torfowiska,</font>
+<font color="#FFFF51">wysyła tam nasiona,</font>
+
+209
+00:19:28,080 --> 00:19:30,000
+<font color="#FFFF51">żeby urosły małe brzozy.</font>
+
+210
+00:19:58,120 --> 00:20:02,680
+<font color="#FFFF51">Na krawędzi torfowiska wysokiego</font>
+<font color="#FFFF51">toczy się nieustająca wojna,</font>
+
+211
+00:20:02,840 --> 00:20:06,200
+<font color="#FFFF51">w której brzozy chcą</font>
+<font color="#FFFF51">skolonizować nowe tereny.</font>
+
+212
+00:20:06,360 --> 00:20:09,480
+<font color="#FFFF51">Jak zmienią się</font>
+<font color="#FFFF51">warunki pogodowe, glebowe,</font>
+
+213
+00:20:09,640 --> 00:20:14,120
+<font color="#FFFF51">będzie mniej wody,</font>
+<font color="#FFFF51">to brzozy będą w stanie tu rosnąć.</font>
+
+214
+00:20:14,280 --> 00:20:17,400
+<font color="#FFFF51">A jak im się to uda,</font>
+<font color="#FFFF51">zacienią cały obszar,</font>
+
+215
+00:20:17,560 --> 00:20:22,280
+<font color="#FFFF51">a to oznacza, że rosiczki wyginą,</font>
+<font color="#FFFF51">bo potrzebują dużo słońca.</font>
+
+216
+00:20:22,440 --> 00:20:25,880
+<font color="#FFFF51">Nie widzicie,</font>
+<font color="#FFFF51">gdzie toczy się ta wojna, prawda?</font>
+
+217
+00:20:26,040 --> 00:20:27,840
+<font color="#FFFF51">Już wam pokazuję.</font>
+
+218
+00:20:28,000 --> 00:20:29,960
+<font color="#FFFF51">To są najstarsi wojownicy.</font>
+
+219
+00:20:30,120 --> 00:20:34,640
+<font color="#FFFF51">Zaczęli toczyć wojnę z rosiczkami</font>
+<font color="#FFFF51">jakieś 60 lat temu.</font>
+
+220
+00:20:34,800 --> 00:20:37,440
+<font color="#FFFF51">Poniżej znajduje się ich potomstwo,</font>
+
+221
+00:20:37,600 --> 00:20:41,160
+<font color="#FFFF51">które dołączyło się do wojny</font>
+<font color="#FFFF51">jakieś 20 lat temu.</font>
+
+222
+00:20:41,320 --> 00:20:44,040
+<font color="#FFFF51">A to są wnuki, najmłodsi wojownicy.</font>
+
+223
+00:20:44,200 --> 00:20:48,040
+<font color="#FFFF51">Są w stanie tu rosnąć,</font>
+<font color="#FFFF51">bo torfowisko się osusza.</font>
+
+224
+00:20:48,200 --> 00:20:53,320
+<font color="#FFFF51">W związku z tym brzozy wygrywają,</font>
+<font color="#FFFF51">a rosiczki niestety przegrywają.</font>
+
+225
+00:21:19,160 --> 00:21:21,960
+<font color="#FFFF51">Brzoza omszona</font>
+<font color="#FFFF51">to plastyczny gatunek,</font>
+
+226
+00:21:22,120 --> 00:21:25,520
+<font color="#FFFF51">a to oznacza,</font>
+<font color="#FFFF51">że z łatwością przystosowuje się</font>
+
+227
+00:21:25,680 --> 00:21:27,480
+<font color="#FFFF51">do różnych środowisk.</font>
+
+228
+00:21:27,640 --> 00:21:29,840
+<font color="#FFFF51">Co roku każde dorosłe drzewo,</font>
+
+229
+00:21:30,000 --> 00:21:33,520
+<font color="#FFFF51">a może być duże</font>
+<font color="#FFFF51">- może osiągnąć 30 m wysokości -</font>
+
+230
+00:21:33,680 --> 00:21:38,320
+<font color="#FFFF51">rozrzuca wokół siebie</font>
+<font color="#FFFF51">tysiące nasion w postaci orzeszków,</font>
+
+231
+00:21:38,480 --> 00:21:40,280
+<font color="#FFFF51">które rozwiewa wiatr.</font>
+
+232
+00:21:40,440 --> 00:21:44,800
+<font color="#FFFF51">Brzoza omszona łatwo krzyżuje się</font>
+<font color="#FFFF51">z innymi gatunkami brzóz,</font>
+
+233
+00:21:44,960 --> 00:21:48,400
+<font color="#FFFF51">np. brzozą karłowatą,</font>
+<font color="#FFFF51">niską, brodawkowatą.</font>
+
+234
+00:21:48,560 --> 00:21:51,640
+<font color="#FFFF51">Te mieszańce nabywają cechy</font>
+<font color="#FFFF51">po rodzicach.</font>
+
+235
+00:21:51,800 --> 00:21:56,320
+<font color="#FFFF51">Niektóre cechy mogą im ułatwiać</font>
+<font color="#FFFF51">zdobywanie nowych terenów,</font>
+
+236
+00:21:56,480 --> 00:22:00,760
+<font color="#FFFF51">a to na pewno nie jest</font>
+<font color="#FFFF51">dobra wiadomość dla rosiczek.</font>
+
+237
+00:22:08,120 --> 00:22:11,400
+<font color="aqua">Żurawina błotna</font>
+<font color="aqua">zasiedla to samo środowisko</font>
+
+238
+00:22:11,560 --> 00:22:13,600
+<font color="aqua">co rosiczka okrągłolistna.</font>
+
+239
+00:22:13,760 --> 00:22:16,720
+<font color="aqua">Ze względu</font>
+<font color="aqua">na atrakcyjne dla człowieka</font>
+
+240
+00:22:16,880 --> 00:22:18,720
+<font color="aqua">czerwone kuliste jagody</font>
+
+241
+00:22:18,880 --> 00:22:23,720
+<font color="aqua">żurawina pośrednio stanowi</font>
+<font color="aqua">dla rosiczki poważne zagrożenie.</font>
+
+242
+00:22:30,200 --> 00:22:35,440
+<font color="#FFFF51">Wszystkie gatunki rosiczek,</font>
+<font color="#FFFF51">torfowiec magellański i kończysty</font>
+
+243
+00:22:35,600 --> 00:22:37,800
+<font color="#FFFF51">objęte są ochroną gatunkową,</font>
+
+244
+00:22:37,960 --> 00:22:40,920
+<font color="#FFFF51">a pomiędzy nimi</font>
+<font color="#FFFF51">rośnie żurawina błotna,</font>
+
+245
+00:22:41,080 --> 00:22:44,320
+<font color="#FFFF51">która pośrednio</font>
+<font color="#FFFF51">stanowi dla nich zagrożenie.</font>
+
+246
+00:22:44,480 --> 00:22:47,120
+<font color="#FFFF51">Żurawina błotna nie jest chroniona.</font>
+
+247
+00:22:47,280 --> 00:22:51,120
+<font color="#FFFF51">Więcej: jest intensywnie</font>
+<font color="#FFFF51">pozyskiwana przez ludzi.</font>
+
+248
+00:22:51,280 --> 00:22:55,000
+<font color="#FFFF51">Pokusą pozyskiwania żurawiny</font>
+<font color="#FFFF51">jest jej owoc.</font>
+
+249
+00:22:55,160 --> 00:22:58,560
+<font color="#FFFF51">Jest smaczny, ma kwaskowy smak</font>
+<font color="#FFFF51">- ja uwielbiam.</font>
+
+250
+00:22:58,720 --> 00:23:02,320
+<font color="#FFFF51">Ale pokusa człowieka</font>
+<font color="#FFFF51">do zbierania owoców żurawiny</font>
+
+251
+00:23:02,480 --> 00:23:06,320
+<font color="#FFFF51">jest poważnym zagrożeniem</font>
+<font color="#FFFF51">dla rosiczek i torfowców.</font>
+
+252
+00:23:28,400 --> 00:23:31,160
+<font color="#FFFF51">Intensywne zbiory żurawiny</font>
+<font color="#FFFF51">oznaczają,</font>
+
+253
+00:23:31,320 --> 00:23:34,520
+<font color="#FFFF51">że tysiące rosiczek</font>
+<font color="#FFFF51">zostanie zadeptanych</font>
+
+254
+00:23:34,680 --> 00:23:37,320
+<font color="#FFFF51">- rosiczki rosną między żurawinami.</font>
+
+255
+00:23:37,480 --> 00:23:39,280
+<font color="#FFFF51">Zbieracze żurawiny</font>
+
+256
+00:23:39,440 --> 00:23:42,520
+<font color="#FFFF51">nie zauważają rosiczek</font>
+<font color="#FFFF51">i je niszczą.</font>
+
+257
+00:23:42,680 --> 00:23:47,400
+<font color="#FFFF51">Torfowiska to delikatne ekosystemy</font>
+<font color="#FFFF51">i łatwo można je zniszczyć.</font>
+
+258
+00:23:47,560 --> 00:23:51,440
+<font color="#FFFF51">Należy po nich spacerować</font>
+<font color="#FFFF51">ze szczególną ostrożnością.</font>
+
+259
+00:23:51,600 --> 00:23:56,960
+<font color="#FFFF51">To oznacza, że jak odwrócimy się,</font>
+<font color="#FFFF51">nie zauważymy własnych śladów.</font>
+
+260
+00:23:59,720 --> 00:24:02,200
+<font color="#FFFF51">Owoce żurawiny błotnej cenione są</font>
+
+261
+00:24:02,360 --> 00:24:07,240
+<font color="#FFFF51">ze względu na walory smakowe,</font>
+<font color="#FFFF51">zawartość kwasów organicznych</font>
+
+262
+00:24:08,720 --> 00:24:10,800
+<font color="#FFFF51">oraz działanie lecznicze.</font>
+
+263
+00:24:10,960 --> 00:24:14,320
+<font color="#FFFF51">Spróbujemy, czy ten...</font>
+<font color="#FFFF51">już jest dojrzały.</font>
+
+264
+00:24:14,480 --> 00:24:16,800
+<font color="#FFFF51">Na pewno nie - jest kwaśny.</font>
+
+265
+00:24:16,960 --> 00:24:20,040
+<font color="#FFFF51">Potrzebuje... ojejku...</font>
+<font color="#FFFF51">kilku miesięcy.</font>
+
+266
+00:24:20,200 --> 00:24:24,560
+<font color="#FFFF51">Owoce i sok żurawiny stosuje się</font>
+<font color="#FFFF51">w leczeniu różnych chorób,</font>
+
+267
+00:24:24,720 --> 00:24:27,640
+<font color="#FFFF51">np. nadciśnienia,</font>
+<font color="#FFFF51">chorób dróg moczowych,</font>
+
+268
+00:24:27,800 --> 00:24:31,520
+<font color="#FFFF51">awitaminozy, czyli braku witamin,</font>
+<font color="#FFFF51">oraz gorączki.</font>
+
+269
+00:24:31,680 --> 00:24:35,640
+<font color="#FFFF51">Owoce i sok stosuje się także</font>
+<font color="#FFFF51">w przemyśle kosmetycznym</font>
+
+270
+00:24:35,800 --> 00:24:39,800
+<font color="#FFFF51">jako dodatek do kremów</font>
+<font color="#FFFF51">i różnego rodzaju mazideł.</font>
+
+271
+00:24:41,040 --> 00:24:42,880
+<font color="#FFFF51">Może ta będzie lepsza.</font>
+
+272
+00:24:48,680 --> 00:24:50,600
+<font color="#FFFF51">Jeszcze kilka miesięcy.</font>
+
+273
+00:24:57,120 --> 00:25:00,000
+<font color="#FFFF51">Umierające torfowisko</font>
+<font color="#FFFF51">to smutny widok.</font>
+
+274
+00:25:00,160 --> 00:25:02,200
+<font color="#FFFF51">Popatrzcie, jak to wygląda.</font>
+
+275
+00:25:02,360 --> 00:25:05,800
+<font color="#FFFF51">Ten torf jest zupełnie wysuszony,</font>
+<font color="#FFFF51">nie ma wody.</font>
+
+276
+00:25:05,960 --> 00:25:08,280
+<font color="#FFFF51">To nie jest to, co widzieliśmy.</font>
+
+277
+00:25:08,440 --> 00:25:11,280
+<font color="#FFFF51">Widać to też po woderach</font>
+<font color="#FFFF51">- ani kropli.</font>
+
+278
+00:25:11,440 --> 00:25:15,280
+<font color="#FFFF51">Po torfowisku lepiej się spaceruje,</font>
+<font color="#FFFF51">jak nie ma wody,</font>
+
+279
+00:25:15,440 --> 00:25:18,000
+<font color="#FFFF51">ale to wyrok śmierci dla rosiczek.</font>
+
+280
+00:25:18,160 --> 00:25:22,840
+<font color="#FFFF51">Sosna się cieszy, dobrze rośnie,</font>
+<font color="#FFFF51">brzoza spóźniła się z atakiem,</font>
+
+281
+00:25:23,000 --> 00:25:26,000
+<font color="#FFFF51">ale rosiczki</font>
+<font color="#FFFF51">sobie nie poradzą bez wody.</font>
+
+282
+00:25:26,160 --> 00:25:28,000
+<font color="#FFFF51">Po części to nasza wina:</font>
+
+283
+00:25:28,160 --> 00:25:32,000
+<font color="#FFFF51">przyczyniamy się</font>
+<font color="#FFFF51">do ocieplenia klimatu i braku wody.</font>
+
+284
+00:25:32,160 --> 00:25:36,880
+<font color="#FFFF51">Jak chcemy, żeby przeżyły rosiczki,</font>
+<font color="#FFFF51">musimy im pomóc - sprawić,</font>
+
+285
+00:25:37,040 --> 00:25:39,920
+<font color="#FFFF51">żeby na torfowiskach</font>
+<font color="#FFFF51">było więcej wody.</font>
+
+286
+00:25:40,080 --> 00:25:42,840
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+287
+00:25:43,000 --> 00:25:46,520
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+288
+00:25:58,080 --> 00:25:59,880
+
+

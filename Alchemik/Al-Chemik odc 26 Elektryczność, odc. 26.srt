@@ -1,0 +1,965 @@
+1
+00:00:09,760 --> 00:00:12,240
+<font color="#FFFF51">Nie ma to jak porządki.</font>
+
+2
+00:00:12,400 --> 00:00:15,440
+<font color="aqua">Super, alchemiku. Naprawdę.</font>
+
+3
+00:00:15,600 --> 00:00:19,760
+<font color="aqua">Dlaczego do tego zadania</font>
+<font color="aqua">wyznaczyłeś mnie,</font>
+
+4
+00:00:19,920 --> 00:00:23,080
+<font color="aqua">a nie na przykład Bartłomieja?</font>
+
+5
+00:00:23,240 --> 00:00:25,720
+<font color="#FFFF51">Bartłomiej sprząta salę tronową.</font>
+
+6
+00:00:25,880 --> 00:00:28,800
+<font color="#FFFF51">Jest zajęty przygotowaniami</font>
+<font color="#FFFF51">do wyprawy.</font>
+
+7
+00:00:28,960 --> 00:00:33,160
+<font color="#FFFF51">Dlatego to ty będziesz dziś</font>
+<font color="#FFFF51">najlepszym pomocnikiem.</font>
+
+8
+00:00:33,320 --> 00:00:37,720
+<font color="aqua">Nie, żebym się skarżył</font>
+<font color="aqua">czy narzekał, ale sobie myślę,</font>
+
+9
+00:00:37,880 --> 00:00:41,320
+<font color="aqua">że porządki nie mają</font>
+<font color="aqua">nic wspólnego z nauką.</font>
+
+10
+00:00:41,480 --> 00:00:44,960
+<font color="#FFFF51">Nie zgadzam się.</font>
+<font color="#FFFF51">W nauce, jak w przyrodzie,</font>
+
+11
+00:00:45,120 --> 00:00:47,880
+<font color="#FFFF51">porządek jest podstawą egzystencji.</font>
+
+12
+00:00:48,040 --> 00:00:52,600
+<font color="#FFFF51">Wszędzie panuje porządek,</font>
+<font color="#FFFF51">dopóki nie zostanie zachwiany.</font>
+
+13
+00:00:52,760 --> 00:00:55,120
+<font color="aqua">Nie wydaje mi się,</font>
+
+14
+00:00:55,280 --> 00:01:00,040
+<font color="aqua">bym od sprzątania i ścierania kurzu</font>
+<font color="aqua">czegoś się nauczył.</font>
+
+15
+00:01:00,200 --> 00:01:04,360
+<font color="#FFFF51">Nieładnie tak mówić.</font>
+<font color="#FFFF51">Jeszcze Matka Nauka się obrazi.</font>
+
+16
+00:01:04,520 --> 00:01:09,000
+<font color="#FFFF51">Kurz też jest interesującą kwestią.</font>
+<font color="#FFFF51">Kiedyś to omówimy.</font>
+
+17
+00:01:09,160 --> 00:01:12,240
+<font color="aqua">Zaraz to ja się obrażę</font>
+<font color="aqua">na Matkę Naukę.</font>
+
+18
+00:01:12,400 --> 00:01:14,600
+<font color="#8080FF">KRZYK MIRMIŁA</font>
+
+19
+00:01:14,760 --> 00:01:17,080
+<font color="#FFFF51">Co się stało?</font>
+
+20
+00:01:18,800 --> 00:01:20,680
+<font color="aqua">Ojejku, jakieś czary.</font>
+
+21
+00:01:20,840 --> 00:01:25,320
+<font color="aqua">Jakieś moce, alchemiku.</font>
+<font color="#FFFF51">Przestań z tymi mocami.</font>
+
+22
+00:01:25,480 --> 00:01:27,280
+<font color="aqua">Ale jak?</font>
+
+23
+00:01:27,440 --> 00:01:29,440
+<font color="aqua">Taka moc mnie przeszyła.</font>
+
+24
+00:01:29,600 --> 00:01:33,840
+<font color="aqua">Matka Nauka</font>
+<font color="aqua">chyba się na mnie obraziła.</font>
+
+25
+00:01:34,000 --> 00:01:36,160
+<font color="aqua">Kopnęło mnie!</font>
+
+26
+00:01:37,440 --> 00:01:41,040
+<font color="#FFFF51">Czekaj, szorowałeś</font>
+<font color="#FFFF51">wełnianą szmatką bursztyn,</font>
+
+27
+00:01:41,200 --> 00:01:44,240
+<font color="#FFFF51">a potem dotknąłeś</font>
+<font color="#FFFF51">metalowego wiadra?</font>
+
+28
+00:01:44,400 --> 00:01:49,960
+<font color="aqua">Tak, przeszyła mnie taka moc,</font>
+<font color="aqua">od palców po czubek głowy.</font>
+
+29
+00:01:50,120 --> 00:01:53,040
+<font color="#FFFF51">Żadne moce, tylko kopnął cię prąd.</font>
+
+30
+00:01:53,200 --> 00:01:55,000
+<font color="aqua">Prąd?</font>
+<font color="#FFFF51">Prąd.</font>
+
+31
+00:01:55,160 --> 00:01:58,400
+<font color="#FFFF51">Wytworzyłeś prąd</font>
+<font color="#FFFF51">poprzez elektryzowanie.</font>
+
+32
+00:01:58,560 --> 00:02:01,840
+<font color="aqua">Wytworzyłem? Ja? Prąd?</font>
+
+33
+00:02:02,320 --> 00:02:04,440
+<font color="#8080FF">KRZYK</font>
+
+34
+00:02:07,960 --> 00:02:09,760
+<font color="#FFFF51">Dziwny ten Mirmił.</font>
+
+35
+00:02:13,200 --> 00:02:17,000
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+36
+00:02:17,280 --> 00:02:20,600
+Takiego trudno znaleźć
+na mojej planecie.
+
+37
+00:02:20,760 --> 00:02:24,320
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+38
+00:02:24,480 --> 00:02:28,160
+Pokazali go w pałacu,
+kara go nie ominie.
+
+39
+00:02:28,320 --> 00:02:31,560
+Nagle wyczarował ognie
+królowej Kalinie.
+
+40
+00:02:31,720 --> 00:02:35,720
+Ale nie był on oszustem,
+nie był czarownikiem.
+
+41
+00:02:35,880 --> 00:02:38,680
+Miał na imię Al
+i jest alchemikiem.
+
+42
+00:02:45,400 --> 00:02:47,920
+Najlepsze jest to,
+
+43
+00:02:48,080 --> 00:02:51,120
+że tam się wszystko w nocy świeci.
+
+44
+00:02:51,280 --> 00:02:53,080
+<font color="#16F158">Nie!</font>
+Naprawdę.
+
+45
+00:02:53,240 --> 00:02:57,480
+I to nie tak jak u nas,
+że trzeba zapalić pochodnie.
+
+46
+00:02:57,640 --> 00:03:00,120
+Tam jest guzik i się go wciska
+
+47
+00:03:00,280 --> 00:03:02,080
+i się wszystko świeci.
+
+48
+00:03:02,240 --> 00:03:05,240
+A jak się ten guzik
+wciśnie ponownie,
+
+49
+00:03:05,400 --> 00:03:07,200
+wszystko gaśnie.
+
+50
+00:03:07,360 --> 00:03:12,600
+<font color="#16F158">Już nie mogę się doczekać naszej</font>
+<font color="#16F158">ekspedycji do świata alchemika.</font>
+
+51
+00:03:12,760 --> 00:03:16,000
+<font color="#16F158">Tam jest tyle</font>
+<font color="#16F158">niewyjaśnionych zagadek,</font>
+
+52
+00:03:16,160 --> 00:03:18,960
+<font color="#16F158">które czekają na swoje rozwiązanie.</font>
+
+53
+00:03:19,120 --> 00:03:21,840
+<font color="#16F158">Gaśnie i zapala, zapala i gaśnie.</font>
+
+54
+00:03:22,000 --> 00:03:23,800
+<font color="aqua">Królowo!</font>
+
+55
+00:03:23,960 --> 00:03:25,760
+<font color="aqua">Królowo!</font>
+
+56
+00:03:28,680 --> 00:03:30,480
+<font color="#16F158">Co się stało?</font>
+
+57
+00:03:30,640 --> 00:03:33,640
+<font color="aqua">Stało się coś strasznego.</font>
+
+58
+00:03:33,800 --> 00:03:35,600
+Znowu coś nabroiłeś.
+
+59
+00:03:35,760 --> 00:03:37,560
+Przyznaj się.
+
+60
+00:03:38,480 --> 00:03:40,920
+<font color="aqua">Ale ja nie chciałem.</font>
+
+61
+00:03:41,080 --> 00:03:43,960
+<font color="#16F158">Nie chciałeś?</font>
+<font color="aqua">Naprawdę nie chciałem.</font>
+
+62
+00:03:44,120 --> 00:03:48,000
+<font color="aqua">Pomagałem, sprzątałem,</font>
+<font color="aqua">jak mnie prosił alchemik.</font>
+
+63
+00:03:48,160 --> 00:03:52,000
+<font color="aqua">Nagle coś mnie przeszyło,</font>
+<font color="aqua">jakieś takie moce.</font>
+
+64
+00:03:52,160 --> 00:03:53,960
+<font color="aqua">Kopnęło mnie.</font>
+
+65
+00:03:54,120 --> 00:03:55,920
+<font color="#16F158">Co cię kopnęło?</font>
+
+66
+00:03:56,080 --> 00:03:58,320
+Ja już wszystko wiem.
+
+67
+00:03:58,480 --> 00:04:02,640
+Alchemik poprosił Mirmiła,
+żeby pomógł mu sprzątać.
+
+68
+00:04:02,800 --> 00:04:08,600
+A że jedyną rzeczą, której Mirmił
+naprawdę nie lubi robić,
+
+69
+00:04:08,760 --> 00:04:10,760
+jest sprzątanie, więc...
+
+70
+00:04:10,920 --> 00:04:12,720
+<font color="aqua">Wcale nie!</font>
+
+71
+00:04:12,880 --> 00:04:15,920
+Mirmił się obijał i nic nie robił,
+
+72
+00:04:16,080 --> 00:04:19,600
+alchemik się zdenerwował
+i go kopnął.
+
+73
+00:04:19,760 --> 00:04:22,200
+<font color="#16F158">Czy to prawda?</font>
+<font color="aqua">Nie!</font>
+
+74
+00:04:22,360 --> 00:04:24,480
+To kto cię niby kopnął?
+
+75
+00:04:24,640 --> 00:04:27,160
+<font color="aqua">To był prąd!</font>
+
+76
+00:04:27,320 --> 00:04:29,960
+<font color="#16F158">Prąd?</font>
+<font color="aqua">Alchemik tak powiedział.</font>
+
+77
+00:04:30,120 --> 00:04:33,640
+<font color="aqua">Prąd mnie kopnął</font>
+<font color="aqua">i ja sam go wytworzyłem.</font>
+
+78
+00:04:33,800 --> 00:04:35,920
+<font color="#16F158">Jak to - sam wytworzyłeś?</font>
+
+79
+00:04:44,200 --> 00:04:46,000
+<font color="aqua">Co ja zrobiłem?</font>
+
+80
+00:04:53,480 --> 00:04:56,320
+<font color="aqua">Stworzyłem potwora.</font>
+
+81
+00:04:57,320 --> 00:05:00,800
+<font color="aqua">Teraz prąd opanuje zamek,</font>
+
+82
+00:05:00,960 --> 00:05:05,120
+<font color="aqua">a za chwilę zawładnie</font>
+<font color="aqua">całym naszym królestwem.</font>
+
+83
+00:05:06,880 --> 00:05:11,280
+<font color="#16F158">Musimy pójść do alchemika</font>
+<font color="#16F158">i to wszystko wyjaśnić.</font>
+
+84
+00:05:11,440 --> 00:05:14,840
+Coś, coś, coś... ten prąd...
+
+85
+00:05:15,000 --> 00:05:16,800
+Przypomniałem sobie.
+
+86
+00:05:16,960 --> 00:05:22,000
+Mówiłem, że w świecie alchemika
+się wszystko świeci?
+
+87
+00:05:22,160 --> 00:05:24,400
+To to jest właśnie ten prąd.
+
+88
+00:05:25,120 --> 00:05:27,000
+Czy tam...
+
+89
+00:05:27,160 --> 00:05:29,560
+elektryczność?
+
+90
+00:05:29,720 --> 00:05:31,520
+Elektryczność?!
+
+91
+00:05:37,440 --> 00:05:41,640
+<font color="#FFFF51">Tyle osób myśli,</font>
+<font color="#FFFF51">że to ludzki wynalazek.</font>
+
+92
+00:05:41,800 --> 00:05:43,880
+<font color="#FFFF51">Ale jest inaczej.</font>
+
+93
+00:05:44,040 --> 00:05:47,680
+<font color="#FFFF51">Pioruny i węgorze elektryczne</font>
+<font color="#FFFF51">istniały na Ziemi</font>
+
+94
+00:05:47,840 --> 00:05:51,080
+<font color="#FFFF51">długo przed pojawieniem się</font>
+<font color="#FFFF51">człowieka.</font>
+
+95
+00:05:51,240 --> 00:05:55,120
+<font color="#FFFF51">Mózgi wszystkich zwierząt</font>
+<font color="#FFFF51">komunikują się z ciałami</font>
+
+96
+00:05:55,280 --> 00:05:58,400
+<font color="#FFFF51">m.in. za pomocą</font>
+<font color="#FFFF51">impulsów elektrycznych.</font>
+
+97
+00:05:58,560 --> 00:06:01,080
+<font color="#FFFF51">Przemieszczają się one nerwami.</font>
+
+98
+00:06:01,240 --> 00:06:05,320
+<font color="#FFFF51">Elektryczność możecie spotkać</font>
+<font color="#FFFF51">absolutnie wszędzie.</font>
+
+99
+00:06:05,480 --> 00:06:09,560
+<font color="#FFFF51">Nawet nasz Mirmił miał okazję</font>
+<font color="#FFFF51">się o tym przekonać.</font>
+
+100
+00:06:09,720 --> 00:06:12,840
+<font color="#FFFF51">Ale co to jest ta elektryczność?</font>
+
+101
+00:06:13,000 --> 00:06:16,040
+<font color="#FFFF51">I co ma z tym wspólnego prąd?</font>
+
+102
+00:06:16,200 --> 00:06:18,440
+<font color="#FFFF51">Już tłumaczę.</font>
+
+103
+00:06:18,600 --> 00:06:21,320
+<font color="#FFFF51">Wszystko zbudowane jest z atomów.</font>
+
+104
+00:06:21,480 --> 00:06:24,880
+<font color="#FFFF51">Atomy zbudowane są</font>
+<font color="#FFFF51">z trzech typów cząstek.</font>
+
+105
+00:06:25,040 --> 00:06:29,440
+<font color="#FFFF51">Z występujących w jądrze atomowym</font>
+<font color="#FFFF51">protonów i neutronów</font>
+
+106
+00:06:29,600 --> 00:06:32,160
+<font color="#FFFF51">oraz z krążących dookoła</font>
+<font color="#FFFF51">elektronów.</font>
+
+107
+00:06:32,320 --> 00:06:37,360
+<font color="#FFFF51">Zarówno protony, jak i elektrony</font>
+<font color="#FFFF51">mają ładunki elektryczne.</font>
+
+108
+00:06:37,520 --> 00:06:41,000
+<font color="#FFFF51">Proton ma ładunek dodatni,</font>
+
+109
+00:06:41,160 --> 00:06:44,000
+<font color="#FFFF51">a elektron ma ładunek ujemny.</font>
+
+110
+00:06:44,160 --> 00:06:48,320
+<font color="#FFFF51">Jeśli stworzymy</font>
+<font color="#FFFF51">uporządkowany ruch takich ładunków,</font>
+
+111
+00:06:48,480 --> 00:06:50,280
+<font color="#FFFF51">powstanie prąd.</font>
+
+112
+00:06:50,440 --> 00:06:54,160
+<font color="#FFFF51">Wszystkie metale</font>
+<font color="#FFFF51">świetnie przewodzą elektrony.</font>
+
+113
+00:06:54,320 --> 00:06:59,360
+<font color="#FFFF51">Tym jest prąd w gniazdkach</font>
+<font color="#FFFF51">- uporządkowanym ruchem elektronów.</font>
+
+114
+00:06:59,520 --> 00:07:02,120
+<font color="#FFFF51">Elektryczność to termin szerszy.</font>
+
+115
+00:07:02,280 --> 00:07:04,280
+<font color="#FFFF51">Obejmuje wszystkie zjawiska</font>
+
+116
+00:07:04,440 --> 00:07:06,960
+<font color="#FFFF51">związane z ładunkami elektrycznymi.</font>
+
+117
+00:07:07,120 --> 00:07:09,200
+<font color="#FFFF51">A co z Mirmiłem?</font>
+
+118
+00:07:09,360 --> 00:07:13,720
+<font color="#FFFF51">Niektóre materiały</font>
+<font color="#FFFF51">podczas pocierania tracą elektrony.</font>
+
+119
+00:07:13,880 --> 00:07:17,120
+<font color="#FFFF51">Mirmił szorował bursztyn</font>
+<font color="#FFFF51">wełnianą szmatką.</font>
+
+120
+00:07:17,280 --> 00:07:22,000
+<font color="#FFFF51">Elektrony ze szmatki przechodziły</font>
+<font color="#FFFF51">na bursztyn i na Mirmiła.</font>
+
+121
+00:07:22,160 --> 00:07:26,880
+<font color="#FFFF51">Musiał przykładać się do pracy,</font>
+<font color="#FFFF51">bo zebrał dość elektronów,</font>
+
+122
+00:07:27,040 --> 00:07:32,000
+<font color="#FFFF51">by po dotknięciu wiaderka</font>
+<font color="#FFFF51">poczuć przeskok iskry elektrycznej.</font>
+
+123
+00:07:32,160 --> 00:07:37,400
+<font color="#FFFF51">Wiedzieliście, że w języku</font>
+<font color="#FFFF51">greckim elektron znaczy bursztyn?</font>
+
+124
+00:07:41,520 --> 00:07:43,360
+Mój drogi Henryku,
+
+125
+00:07:43,520 --> 00:07:47,720
+powiedziałeś,
+że potrzebujesz mojej pomocy?
+
+126
+00:07:47,880 --> 00:07:51,560
+Zawsze to ja ciebie prosiłam
+o wsparcie i pomoc.
+
+127
+00:07:51,720 --> 00:07:55,280
+I tę pomoc otrzymywałam
+przez tyle lat.
+
+128
+00:07:55,440 --> 00:08:00,600
+A teraz się okazuję, że ty też
+możesz potrzebować mojej pomocy.
+
+129
+00:08:01,720 --> 00:08:05,840
+Czarownico z Przełęczy,
+ja też tak myślałem.
+
+130
+00:08:06,000 --> 00:08:09,120
+Ale bardzo potrzebuję twojej pomocy,
+
+131
+00:08:09,280 --> 00:08:11,720
+bo zupełnie nie wiem, co robić.
+
+132
+00:08:11,880 --> 00:08:13,760
+Co się stało?
+
+133
+00:08:15,520 --> 00:08:18,040
+Alchemik odnalazł Studnię Prawdy.
+
+134
+00:08:18,200 --> 00:08:21,320
+Naprawdę? Tę Studnię Prawdy?
+
+135
+00:08:22,440 --> 00:08:24,600
+Dokładnie tę.
+
+136
+00:08:24,760 --> 00:08:26,800
+Ona istnieje naprawdę.
+
+137
+00:08:27,560 --> 00:08:30,640
+Ja myślałam,
+że ta studnia to jakiś mit.
+
+138
+00:08:30,800 --> 00:08:32,840
+Nie, ona istnieje.
+
+139
+00:08:34,080 --> 00:08:36,600
+Wiesz, gdzie ona się znajduje.
+
+140
+00:08:37,720 --> 00:08:40,800
+Tak, to była największa tajemnica.
+
+141
+00:08:40,960 --> 00:08:43,240
+Musisz mi ją pokazać.
+
+142
+00:08:43,400 --> 00:08:47,800
+No widzisz,
+właśnie po to cię potrzebuję.
+
+143
+00:08:47,960 --> 00:08:51,840
+- Chcę ci pokazać Studnię Prawdy.
+- Chodźmy tam.
+
+144
+00:08:52,000 --> 00:08:53,800
+Pójdźmy.
+
+145
+00:09:00,680 --> 00:09:02,480
+<font color="#16F158">Alchemiku!</font>
+
+146
+00:09:04,680 --> 00:09:06,520
+<font color="#16F158">Co tu się dzieje?</font>
+
+147
+00:09:06,680 --> 00:09:09,560
+<font color="#16F158">Co to za prąd</font>
+<font color="#16F158">panuje w naszym zamku?</font>
+
+148
+00:09:09,720 --> 00:09:13,760
+Mówiłem, nie prąd,
+tylko elektryczność, prawda?
+
+149
+00:09:15,000 --> 00:09:16,800
+<font color="#FFFF51">Co tu się dzieje?</font>
+
+150
+00:09:16,960 --> 00:09:19,440
+<font color="aqua">Powiedziałem im, co nabroiłem.</font>
+
+151
+00:09:19,600 --> 00:09:23,200
+<font color="aqua">Ten prąd tu jest.</font>
+<font color="aqua">W każdej chwili może kopnąć.</font>
+
+152
+00:09:23,360 --> 00:09:25,280
+<font color="#FFFF51">Spokojnie, spokojnie.</font>
+
+153
+00:09:25,440 --> 00:09:29,440
+<font color="#FFFF51">Prąd to uporządkowany ruch</font>
+<font color="#FFFF51">ładunków elektrycznych.</font>
+
+154
+00:09:29,600 --> 00:09:33,480
+<font color="#FFFF51">Mirmił, szorując bursztyn,</font>
+<font color="#FFFF51">spowodował, że z wełny</font>
+
+155
+00:09:33,640 --> 00:09:38,520
+<font color="#FFFF51">przeniosło się nieco elektronów</font>
+<font color="#FFFF51">na bursztyn i na Mirmiła.</font>
+
+156
+00:09:38,680 --> 00:09:42,320
+<font color="#FFFF51">Nazbierało się ich tyle,</font>
+<font color="#FFFF51">że powstał z nich prąd.</font>
+
+157
+00:09:42,480 --> 00:09:47,000
+<font color="#FFFF51">To on kopnął Mirmiła,</font>
+<font color="#FFFF51">przeskakując z niego na wiaderko.</font>
+
+158
+00:09:47,160 --> 00:09:51,400
+<font color="#16F158">To nie był potwór.</font>
+<font color="#FFFF51">Nie, to naturalne zjawisko.</font>
+
+159
+00:09:51,560 --> 00:09:53,720
+<font color="#FFFF51">Nazywa się elektryzowanie.</font>
+
+160
+00:09:53,880 --> 00:09:55,680
+<font color="#FFFF51">Tak powstają pioruny.</font>
+
+161
+00:09:55,840 --> 00:09:59,480
+<font color="#FFFF51">Wewnątrz chmury burzowej</font>
+<font color="#FFFF51">jest olbrzymi wiatr.</font>
+
+162
+00:09:59,640 --> 00:10:03,440
+<font color="#FFFF51">Kryształy lody i krople</font>
+<font color="#FFFF51">deszczu trą o siebie,</font>
+
+163
+00:10:03,600 --> 00:10:05,360
+<font color="#FFFF51">elektryzując się.</font>
+
+164
+00:10:05,520 --> 00:10:08,800
+<font color="aqua">Alchemiku, mówiłeś,</font>
+<font color="aqua">że ja go wytworzyłem.</font>
+
+165
+00:10:08,960 --> 00:10:11,360
+<font color="#FFFF51">Poprzez pocieranie bursztynu.</font>
+
+166
+00:10:11,520 --> 00:10:13,480
+<font color="#FFFF51">Naelektryzowałeś się.</font>
+
+167
+00:10:13,640 --> 00:10:15,800
+Niesamowity ten prąd jest.
+
+168
+00:10:15,960 --> 00:10:19,920
+<font color="#16F158">Czy ten prąd</font>
+<font color="#16F158">ma jakiś związek z chemią?</font>
+
+169
+00:10:20,080 --> 00:10:21,840
+<font color="#FFFF51">Tak.</font>
+
+170
+00:10:22,000 --> 00:10:24,880
+<font color="#FFFF51">Nawet nie masz pojęcia jak bardzo.</font>
+
+171
+00:10:25,040 --> 00:10:30,200
+<font color="#FFFF51">To właśnie elektrony uczestniczą</font>
+<font color="#FFFF51">w tworzeniu wiązań chemicznych.</font>
+
+172
+00:10:30,360 --> 00:10:35,560
+<font color="#FFFF51">Oddziaływania między protonami</font>
+<font color="#FFFF51">i elektronami stabilizują atomy.</font>
+
+173
+00:10:35,720 --> 00:10:40,680
+<font color="#FFFF51">Istnieje ogromna gałąź chemii,</font>
+<font color="#FFFF51">która nazywa się elektrochemią.</font>
+
+174
+00:10:40,840 --> 00:10:44,680
+<font color="#FFFF51">W moim wymiarze</font>
+<font color="#FFFF51">używamy prądu do mnóstwa rzeczy.</font>
+
+175
+00:10:44,840 --> 00:10:46,880
+Ten prąd to ogromna moc.
+
+176
+00:10:47,040 --> 00:10:52,080
+Ja nie wiedziałem,
+że pioruny to są z prądu właśnie.
+
+177
+00:10:52,240 --> 00:10:54,600
+<font color="#FFFF51">Prąd jest bardzo fascynujący.</font>
+
+178
+00:10:54,760 --> 00:10:57,760
+<font color="#FFFF51">Będziemy go badać</font>
+<font color="#FFFF51">częściej i więcej.</font>
+
+179
+00:10:57,920 --> 00:11:02,560
+<font color="#FFFF51">Dziś jako ciekawostkę mogę wam</font>
+<font color="#FFFF51">pokazać miniaturowe pioruny.</font>
+
+180
+00:11:02,720 --> 00:11:04,680
+<font color="#16F158">Pokaż.</font>
+
+181
+00:11:04,840 --> 00:11:06,640
+Jak?
+
+182
+00:11:08,000 --> 00:11:09,800
+<font color="#8080FF">OKRZYK ZDUMIENIA</font>
+
+183
+00:11:13,040 --> 00:11:15,320
+Ale wygląda.
+
+184
+00:11:15,480 --> 00:11:18,880
+<font color="aqua">Nie kopie cię w ręce.</font>
+<font color="#FFFF51">Jesteśmy bezpieczni.</font>
+
+185
+00:11:19,040 --> 00:11:21,160
+<font color="#FFFF51">Szkło nie przewodzi prądu.</font>
+
+186
+00:11:21,320 --> 00:11:25,000
+<font color="#FFFF51">Szklana kula chroni nas</font>
+<font color="#FFFF51">przed porażeniem.</font>
+
+187
+00:11:25,160 --> 00:11:27,480
+<font color="#FFFF51">Możecie dotknąć.</font>
+<font color="#16F158">Ja dziękuję.</font>
+
+188
+00:11:27,640 --> 00:11:29,440
+<font color="aqua">Kulo, kulo...</font>
+
+189
+00:11:30,360 --> 00:11:32,200
+<font color="aqua">Jest!</font>
+
+190
+00:11:32,360 --> 00:11:34,960
+<font color="aqua">Fajnie.</font>
+
+191
+00:11:35,120 --> 00:11:36,920
+Teraz ja.
+
+192
+00:11:40,000 --> 00:11:44,840
+Ja się boję,
+że mnie ten piorun mały kopnie.
+
+193
+00:11:46,000 --> 00:11:47,800
+Nie kopie.
+
+194
+00:11:49,400 --> 00:11:51,520
+<font color="#16F158">Alchemiku, a czy ten prąd</font>
+
+195
+00:11:51,680 --> 00:11:55,480
+<font color="#16F158">ma szersze zastosowanie</font>
+<font color="#16F158">w twoim świecie?</font>
+
+196
+00:11:55,640 --> 00:11:57,440
+<font color="#FFFF51">Olbrzymie.</font>
+
+197
+00:11:57,600 --> 00:12:00,840
+<font color="#FFFF51">Trudno sobie wyobrazić</font>
+<font color="#FFFF51">życie bez prądu.</font>
+
+198
+00:12:01,000 --> 00:12:05,560
+Mówiłem, że w wymiarze alchemika
+wszystko jest z prądem.
+
+199
+00:12:05,720 --> 00:12:10,560
+<font color="aqua">A ja myślałem,</font>
+<font color="aqua">że to wszystko jest przeze mnie.</font>
+
+200
+00:12:10,720 --> 00:12:13,560
+<font color="aqua">Głupi!</font>
+
+201
+00:12:30,840 --> 00:12:34,000
+Wygląda niewiarygodnie.
+
+202
+00:12:36,560 --> 00:12:40,520
+Bo w środku jest niewiarygodnie.
+
+203
+00:12:40,680 --> 00:12:42,520
+Inaczej.
+
+204
+00:12:43,880 --> 00:12:46,200
+To wielka tajemnica.
+
+205
+00:12:46,360 --> 00:12:50,520
+Nawet sam alchemik
+do końca jej nie rozumie.
+
+206
+00:12:52,000 --> 00:12:54,360
+Ale jest bardzo...
+
+207
+00:12:56,320 --> 00:12:58,520
+inspirująca.
+
+208
+00:13:00,440 --> 00:13:03,200
+Wchodzę tam. Mogę?
+
+209
+00:13:03,360 --> 00:13:06,720
+Właśnie po to
+cię tu przyprowadziłem.
+
+210
+00:13:08,160 --> 00:13:11,760
+Chcę, żebyś poznała prawdę.
+
+211
+00:13:11,920 --> 00:13:14,040
+Pomóż mi.
+
+212
+00:13:20,200 --> 00:13:22,080
+Ostrożnie.
+
+213
+00:13:22,240 --> 00:13:24,040
+<font color="#8080FF">KRZYK WANDY</font>
+
+214
+00:13:43,600 --> 00:13:46,480
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+215
+00:13:46,640 --> 00:13:50,120
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+216
+00:13:53,040 --> 00:13:54,840
+
+

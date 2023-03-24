@@ -1,0 +1,1548 @@
+1
+00:00:00,760 --> 00:00:05,200
+<font color="aqua">LEKTOR: Animalistę do działania</font>
+<font color="aqua">napędza dzika przyroda.</font>
+
+2
+00:00:05,360 --> 00:00:08,000
+<font color="aqua">Częściej</font>
+<font color="aqua">przedziera się przez krzaki</font>
+
+3
+00:00:08,160 --> 00:00:11,240
+<font color="aqua">niż przez tłum ludzi</font>
+<font color="aqua">pędzących do pracy.</font>
+
+4
+00:00:11,400 --> 00:00:14,040
+<font color="aqua">Na plaży nie rozstawia parawanu.</font>
+
+5
+00:00:14,200 --> 00:00:17,280
+<font color="aqua">W locie rozpoznaje</font>
+<font color="aqua">przelatujące ptaki.</font>
+
+6
+00:00:17,440 --> 00:00:20,440
+<font color="aqua">W korycie rzeki</font>
+<font color="aqua">staje się kępą trawy.</font>
+
+7
+00:00:20,600 --> 00:00:23,760
+<font color="aqua">Nie rozstaje się</font>
+<font color="aqua">z lornetką i aparatem.</font>
+
+8
+00:00:23,920 --> 00:00:27,920
+<font color="aqua">Przed wami Łukasz Bożycki</font>
+<font color="aqua">- przyrodnik na tropie.</font>
+
+9
+00:00:59,440 --> 00:01:03,680
+<font color="#FFFF51">Pierwsze wzmianki o nim</font>
+<font color="#FFFF51">pojawiają się 2500 lat temu.</font>
+
+10
+00:01:03,840 --> 00:01:07,920
+<font color="#FFFF51">Od tamtego czasu</font>
+<font color="#FFFF51">jego upodobania się nie zmieniły.</font>
+
+11
+00:01:08,080 --> 00:01:12,160
+<font color="#FFFF51">Nadal możemy go spotkać</font>
+<font color="#FFFF51">nad jeziorem, np. w lesie.</font>
+
+12
+00:01:12,320 --> 00:01:15,280
+<font color="#FFFF51">Pojawia się także</font>
+<font color="#FFFF51">w licznych bajkach,</font>
+
+13
+00:01:15,440 --> 00:01:17,240
+<font color="#FFFF51">np. w bajkach Ezopa.</font>
+
+14
+00:01:17,400 --> 00:01:21,120
+<font color="#FFFF51">Ale nie przedstawił on</font>
+<font color="#FFFF51">prawdziwych informacji,</font>
+
+15
+00:01:21,280 --> 00:01:25,840
+<font color="#FFFF51">ponieważ pisał, że nasz bohater</font>
+<font color="#FFFF51">otoczony przez myśliwych</font>
+
+16
+00:01:26,000 --> 00:01:28,320
+<font color="#FFFF51">dopuszcza się autokastracji.</font>
+
+17
+00:01:28,480 --> 00:01:32,640
+<font color="#FFFF51">Istnieje wiele nieprawdziwych</font>
+<font color="#FFFF51">legend na temat bobra.</font>
+
+18
+00:01:32,800 --> 00:01:35,840
+<font color="#FFFF51">Mam nadzieję,</font>
+<font color="#FFFF51">że uda mi się je rozwiać.</font>
+
+19
+00:01:48,520 --> 00:01:53,240
+<font color="#FFFF51">Dla pierwotnych plemion</font>
+<font color="#FFFF51">przemierzających terytorium Polski</font>
+
+20
+00:01:53,400 --> 00:01:55,400
+<font color="#FFFF51">bóbr był cenną zdobyczą.</font>
+
+21
+00:01:55,560 --> 00:01:59,120
+<font color="#FFFF51">Z jego skór wykonywano futra,</font>
+<font color="#FFFF51">mięso jedzono,</font>
+
+22
+00:01:59,280 --> 00:02:01,840
+<font color="#FFFF51">z siekaczy wykonywano narzędzia,</font>
+
+23
+00:02:02,000 --> 00:02:06,360
+<font color="#FFFF51">a z wydzieliny gruczołów skórnych</font>
+<font color="#FFFF51">produkowano lekarstwo,</font>
+
+24
+00:02:06,520 --> 00:02:09,840
+<font color="#FFFF51">które ponoć miało leczyć</font>
+<font color="#FFFF51">wszystkie choroby.</font>
+
+25
+00:02:10,000 --> 00:02:14,400
+<font color="#FFFF51">Strój bobrowy,</font>
+<font color="#FFFF51">czyli wydzielina służąca bobrom</font>
+
+26
+00:02:14,560 --> 00:02:18,640
+<font color="#FFFF51">do impregnowania futra</font>
+<font color="#FFFF51">oraz znakowania terytorium,</font>
+
+27
+00:02:18,800 --> 00:02:22,000
+<font color="#FFFF51">był także używany</font>
+<font color="#FFFF51">przy produkcji perfum.</font>
+
+28
+00:02:22,160 --> 00:02:25,120
+<font color="#FFFF51">Korzystano także</font>
+<font color="#FFFF51">z tłuszczu bobrowego,</font>
+
+29
+00:02:25,280 --> 00:02:28,000
+<font color="#FFFF51">który miał dwojakie zastosowanie.</font>
+
+30
+00:02:28,160 --> 00:02:32,640
+<font color="#FFFF51">Po pierwsze wierzono,</font>
+<font color="#FFFF51">że miał właściwości gojące rany,</font>
+
+31
+00:02:32,800 --> 00:02:35,880
+<font color="#FFFF51">po drugie używano go w pochodniach.</font>
+
+32
+00:02:45,720 --> 00:02:48,880
+<font color="#FFFF51">Był jeszcze jeden czynnik,</font>
+<font color="#FFFF51">najważniejszy,</font>
+
+33
+00:02:49,040 --> 00:02:52,520
+<font color="#FFFF51">który spowodował,</font>
+<font color="#FFFF51">że bobry wyginęły w Polsce.</font>
+
+34
+00:02:52,680 --> 00:02:56,560
+<font color="#FFFF51">Ponieważ żyją w wodzie</font>
+<font color="#FFFF51">i ogon mają pokryty łuskami,</font>
+
+35
+00:02:56,720 --> 00:02:59,120
+<font color="#FFFF51">ludzie myśleli, że bóbr to ryba.</font>
+
+36
+00:02:59,280 --> 00:03:02,280
+<font color="#FFFF51">Dlatego jego mięso</font>
+<font color="#FFFF51">jedzono podczas postu</font>
+
+37
+00:03:02,440 --> 00:03:04,680
+<font color="#FFFF51">i masowo na niego polowano.</font>
+
+38
+00:03:30,560 --> 00:03:32,360
+<font color="#FFFF51">Po II wojnie światowej</font>
+
+39
+00:03:32,520 --> 00:03:35,840
+<font color="#FFFF51">uznano bobra w Polsce</font>
+<font color="#FFFF51">za gatunek wymarły.</font>
+
+40
+00:03:36,000 --> 00:03:40,720
+<font color="#FFFF51">W Europie żyło ich tysiąc</font>
+<font color="#FFFF51">w ośmiu izolowanych populacjach.</font>
+
+41
+00:03:40,880 --> 00:03:43,760
+<font color="#FFFF51">Na szczęście dla bobra w 1958 roku</font>
+
+42
+00:03:43,920 --> 00:03:47,360
+<font color="#FFFF51">rozpoczęto proces</font>
+<font color="#FFFF51">jego aktywnej ochrony,</font>
+
+43
+00:03:47,520 --> 00:03:50,400
+<font color="#FFFF51">sprowadzając z ZSRR</font>
+<font color="#FFFF51">osiem osobników.</font>
+
+44
+00:03:50,560 --> 00:03:54,440
+<font color="#FFFF51">To właśnie one dały początek</font>
+<font color="#FFFF51">polskiej populacji.</font>
+
+45
+00:03:54,600 --> 00:03:57,760
+<font color="#FFFF51">Bobry mają się dobrze</font>
+<font color="#FFFF51">od tamtego czasu,</font>
+
+46
+00:03:57,920 --> 00:04:02,960
+<font color="#FFFF51">a pierwsze żeremie powstało</font>
+<font color="#FFFF51">w takim miejscu jak to.</font>
+
+47
+00:04:03,120 --> 00:04:07,120
+<font color="#FFFF51">Szacuje się, że w Europie</font>
+<font color="#FFFF51">żyje ich około miliona,</font>
+
+48
+00:04:07,280 --> 00:04:09,200
+<font color="#FFFF51">a w Polsce aż 20 tysięcy.</font>
+
+49
+00:04:09,360 --> 00:04:12,400
+<font color="#FFFF51">I to się nazywa</font>
+<font color="#FFFF51">proces ochrony przyrody.</font>
+
+50
+00:04:20,400 --> 00:04:23,600
+<font color="aqua">Bóbr jest największym</font>
+<font color="aqua">gryzoniem Eurazji.</font>
+
+51
+00:04:23,760 --> 00:04:26,840
+<font color="aqua">Przednie kończyny</font>
+<font color="aqua">są zręczne i chwytne,</font>
+
+52
+00:04:27,000 --> 00:04:31,640
+<font color="aqua">tylne są mocne i masywne,</font>
+<font color="aqua">o palcach spiętych błoną pławną.</font>
+
+53
+00:04:31,800 --> 00:04:34,880
+<font color="aqua">Małe oczy</font>
+<font color="aqua">chronione są podczas pływania</font>
+
+54
+00:04:35,040 --> 00:04:37,560
+<font color="aqua">trzecią, przezroczystą powieką.</font>
+
+55
+00:04:37,720 --> 00:04:39,520
+<font color="aqua">Duży, spłaszczony ogon</font>
+
+56
+00:04:39,680 --> 00:04:44,080
+<font color="aqua">pokryty jest zrogowaciałą łuską,</font>
+<font color="aqua">przypominającą rybią,</font>
+
+57
+00:04:44,240 --> 00:04:47,640
+<font color="aqua">spomiędzy której</font>
+<font color="aqua">z rzadka wyrastają włosy.</font>
+
+58
+00:04:47,800 --> 00:04:50,880
+<font color="aqua">Pełni on rolę steru</font>
+<font color="aqua">i napędu w wodzie,</font>
+
+59
+00:04:51,040 --> 00:04:52,840
+<font color="aqua">podpory na lądzie.</font>
+
+60
+00:04:53,000 --> 00:04:55,600
+<font color="aqua">Jest również magazynem tłuszczu</font>
+
+61
+00:04:55,760 --> 00:04:58,680
+<font color="aqua">oraz głównym organem</font>
+<font color="aqua">termoregulacji.</font>
+
+62
+00:04:58,840 --> 00:05:03,400
+<font color="aqua">Charakterystyczne dla bobra</font>
+<font color="aqua">są dwie pary dużych siekaczy</font>
+
+63
+00:05:03,560 --> 00:05:06,040
+<font color="aqua">pokrytych pomarańczową emalią.</font>
+
+64
+00:05:06,200 --> 00:05:10,840
+<font color="aqua">Ulubionym daniem bobra jest kora</font>
+<font color="aqua">i liście wierzby szarej.</font>
+
+65
+00:05:21,520 --> 00:05:23,400
+<font color="#FFFF51">Bobry nie jedzą drewna,</font>
+
+66
+00:05:23,560 --> 00:05:27,640
+<font color="#FFFF51">a jedynie liście, młode pędy,</font>
+<font color="#FFFF51">gałązki, łyko, korę.</font>
+
+67
+00:05:27,800 --> 00:05:31,400
+<font color="#FFFF51">Te potężne drzewa</font>
+<font color="#FFFF51">zwaliły wyłącznie dlatego,</font>
+
+68
+00:05:31,560 --> 00:05:34,280
+<font color="#FFFF51">żeby dobrać się do młodych pędów,</font>
+
+69
+00:05:34,440 --> 00:05:37,720
+<font color="#FFFF51">które znajdowały się</font>
+<font color="#FFFF51">wysoko na górze.</font>
+
+70
+00:05:37,880 --> 00:05:41,320
+<font color="aqua">Bobry uwielbiają gatunki</font>
+<font color="aqua">o miękkim drewnie,</font>
+
+71
+00:05:41,480 --> 00:05:43,280
+<font color="aqua">takie jak wierzba.</font>
+
+72
+00:05:43,440 --> 00:05:47,040
+<font color="aqua">Wierzby reprezentowane są</font>
+<font color="aqua">przez 400 gatunków,</font>
+
+73
+00:05:47,200 --> 00:05:49,520
+<font color="aqua">od drzew do małych krzewinek.</font>
+
+74
+00:05:49,680 --> 00:05:54,920
+<font color="aqua">Rosną na wszystkich kontynentach</font>
+<font color="aqua">z wyjątkiem Australii i Antarktydy.</font>
+
+75
+00:05:55,080 --> 00:05:56,880
+<font color="aqua">Wierzba szara to krzew</font>
+
+76
+00:05:57,040 --> 00:06:00,840
+<font color="aqua">przypominający duże gałęzie</font>
+<font color="aqua">wetknięte w ziemię.</font>
+
+77
+00:06:01,000 --> 00:06:05,240
+<font color="aqua">Jest gęsto rozgałęziona</font>
+<font color="aqua">i rośnie w szerokich kępach,</font>
+
+78
+00:06:05,400 --> 00:06:08,200
+<font color="aqua">tworząc zarośla zwane łozowiskami.</font>
+
+79
+00:06:10,160 --> 00:06:13,240
+<font color="#FFFF51">Wierzby szarej</font>
+<font color="#FFFF51">poszukują także ludzie,</font>
+
+80
+00:06:13,400 --> 00:06:16,480
+<font color="#FFFF51">którzy zajmują się</font>
+<font color="#FFFF51">medycyną naturalną.</font>
+
+81
+00:06:16,640 --> 00:06:20,200
+<font color="#FFFF51">Wczesną wiosną,</font>
+<font color="#FFFF51">kiedy w roślinie krążą soki,</font>
+
+82
+00:06:20,360 --> 00:06:24,080
+<font color="#FFFF51">zbierają korę,</font>
+<font color="#FFFF51">w której znajduje się salicyna,</font>
+
+83
+00:06:24,240 --> 00:06:28,760
+<font color="#FFFF51">która ma działanie przeciwbólowe,</font>
+<font color="#FFFF51">przeciwzapalne.</font>
+
+84
+00:06:28,920 --> 00:06:32,280
+<font color="#FFFF51">Z kory wierzby</font>
+<font color="#FFFF51">przygotowuje się wywar.</font>
+
+85
+00:06:32,440 --> 00:06:36,240
+<font color="#FFFF51">Czasem ten wywar zadziała,</font>
+<font color="#FFFF51">a dużo częściej nie.</font>
+
+86
+00:06:36,400 --> 00:06:41,200
+<font color="#FFFF51">To dlatego, że trudno ustalić</font>
+<font color="#FFFF51">stężenie substancji aktywnej.</font>
+
+87
+00:06:41,360 --> 00:06:44,960
+<font color="#FFFF51">Bobry są w stanie wyjść</font>
+<font color="#FFFF51">nawet 20 metrów na ląd,</font>
+
+88
+00:06:45,120 --> 00:06:47,200
+<font color="#FFFF51">żeby znaleźć wierzbę szarą.</font>
+
+89
+00:06:47,360 --> 00:06:51,240
+<font color="#FFFF51">Odległość wydaje się mała,</font>
+<font color="#FFFF51">ale pamiętajmy,</font>
+
+90
+00:06:51,400 --> 00:06:53,560
+<font color="#FFFF51">że na lądzie są bezbronne.</font>
+
+91
+00:06:53,720 --> 00:06:57,040
+<font color="#FFFF51">Prawdziwe schronienie dla bobrów</font>
+<font color="#FFFF51">to woda.</font>
+
+92
+00:06:57,200 --> 00:06:59,000
+<font color="#FFFF51">I dlatego budują tamę.</font>
+
+93
+00:07:22,680 --> 00:07:24,520
+<font color="#FFFF51">W połowie października</font>
+
+94
+00:07:24,680 --> 00:07:27,640
+<font color="#FFFF51">bobry zaczynają</font>
+<font color="#FFFF51">magazynować jedzenie.</font>
+
+95
+00:07:27,800 --> 00:07:31,160
+<font color="#FFFF51">Zaciągają wtedy pod wodę</font>
+<font color="#FFFF51">pocięte gałęzie.</font>
+
+96
+00:07:31,320 --> 00:07:35,040
+<font color="#FFFF51">Jest tam stała temperatura:</font>
+<font color="#FFFF51">4 stopnie Celsjusza.</font>
+
+97
+00:07:35,200 --> 00:07:39,080
+<font color="#FFFF51">W związku z tym ani kora,</font>
+<font color="#FFFF51">ani liście nie gniją.</font>
+
+98
+00:07:39,240 --> 00:07:42,600
+<font color="#FFFF51">Bobry żywią się</font>
+<font color="#FFFF51">niskoenergetycznym jedzeniem</font>
+
+99
+00:07:42,760 --> 00:07:45,120
+<font color="#FFFF51">zbudowanym głównie z celulozy,</font>
+
+100
+00:07:45,280 --> 00:07:48,000
+<font color="#FFFF51">której ssaki</font>
+<font color="#FFFF51">nie są w stanie trawić.</font>
+
+101
+00:07:48,160 --> 00:07:50,320
+<font color="#FFFF51">Bobry poradziły sobie z tym.</font>
+
+102
+00:07:50,480 --> 00:07:53,560
+<font color="#FFFF51">W ich przewodach pokarmowych</font>
+<font color="#FFFF51">żyją bakterie,</font>
+
+103
+00:07:53,720 --> 00:07:55,720
+<font color="#FFFF51">które nadtrawiają celulozę.</font>
+
+104
+00:07:55,880 --> 00:08:00,440
+<font color="#FFFF51">Znajdują się one w końcowym odcinku</font>
+<font color="#FFFF51">przewodu pokarmowego</font>
+
+105
+00:08:00,600 --> 00:08:03,640
+<font color="#FFFF51">i bóbr nie ma czasu</font>
+<font color="#FFFF51">wchłonąć celulozy.</font>
+
+106
+00:08:03,800 --> 00:08:06,640
+<font color="#FFFF51">Dlatego musi zjadać pokarm</font>
+<font color="#FFFF51">dwa razy.</font>
+
+107
+00:08:06,800 --> 00:08:09,920
+<font color="#FFFF51">W tym celu zjada swoje odchody.</font>
+
+108
+00:08:10,080 --> 00:08:13,360
+<font color="#FFFF51">Króliki także zjadają</font>
+<font color="#FFFF51">swoje odchody,</font>
+
+109
+00:08:13,520 --> 00:08:15,680
+<font color="#FFFF51">żeby skorzystać z celulozy,</font>
+
+110
+00:08:15,840 --> 00:08:19,840
+<font color="#FFFF51">której przy pierwszym trawieniu</font>
+<font color="#FFFF51">nie mogły wchłonąć.</font>
+
+111
+00:08:52,800 --> 00:08:55,960
+<font color="#FFFF51">Kiedy bobry osiągną</font>
+<font color="#FFFF51">dojrzałość płciową,</font>
+
+112
+00:08:56,120 --> 00:08:59,760
+<font color="#FFFF51">są wyrzucane przez rodziców</font>
+<font color="#FFFF51">z ich terytorium.</font>
+
+113
+00:08:59,920 --> 00:09:04,120
+<font color="#FFFF51">Muszą migrować, żeby znaleźć</font>
+<font color="#FFFF51">swoje miejsce na ziemi.</font>
+
+114
+00:09:04,280 --> 00:09:07,920
+<font color="#FFFF51">Jestem pewien,</font>
+<font color="#FFFF51">że tą rzeką płynął jakiś bóbr.</font>
+
+115
+00:09:08,080 --> 00:09:11,240
+<font color="#FFFF51">Na gałęzi</font>
+<font color="#FFFF51">znalazłem fragment jego futra.</font>
+
+116
+00:09:11,400 --> 00:09:14,640
+<font color="#FFFF51">Futro składa się</font>
+<font color="#FFFF51">z dwóch rodzajów włosów.</font>
+
+117
+00:09:14,800 --> 00:09:19,680
+<font color="#FFFF51">Te długie mają do 5 cm długości,</font>
+<font color="#FFFF51">odpowiadają za kolor futra,</font>
+
+118
+00:09:19,840 --> 00:09:23,160
+<font color="#FFFF51">a te krótkie mają do 2 cm</font>
+<font color="#FFFF51">i tworzą puszek.</font>
+
+119
+00:09:23,320 --> 00:09:25,240
+<font color="#FFFF51">Dopiero jak bóbr nurkuje,</font>
+
+120
+00:09:25,400 --> 00:09:28,760
+<font color="#FFFF51">możemy zauważyć,</font>
+<font color="#FFFF51">jaką pełnią funkcję.</font>
+
+121
+00:09:28,920 --> 00:09:33,480
+<font color="#FFFF51">Długie włosy zamykają powietrze</font>
+<font color="#FFFF51">w krótkich włosach</font>
+
+122
+00:09:33,640 --> 00:09:35,920
+<font color="#FFFF51">i powstaje warstwa ochronna.</font>
+
+123
+00:09:36,080 --> 00:09:39,160
+<font color="#FFFF51">Wtedy woda</font>
+<font color="#FFFF51">nie może dostać się do skóry.</font>
+
+124
+00:09:39,320 --> 00:09:42,200
+<font color="#FFFF51">Na 1 cm kwadratowym skóry bobra</font>
+
+125
+00:09:42,360 --> 00:09:45,360
+<font color="#FFFF51">możemy znaleźć</font>
+<font color="#FFFF51">aż 23 tysiące włosów.</font>
+
+126
+00:09:45,520 --> 00:09:47,960
+<font color="#FFFF51">A u nas, ludzi, zaledwie 500.</font>
+
+127
+00:09:48,120 --> 00:09:50,360
+<font color="#FFFF51">I to jeszcze nie u każdego.</font>
+
+128
+00:09:52,200 --> 00:09:54,840
+<font color="aqua">Toaleta futra jest bardzo ważna.</font>
+
+129
+00:09:55,000 --> 00:09:58,480
+<font color="aqua">Jeżeli jest zaniedbana,</font>
+<font color="aqua">to zwierzę choruje.</font>
+
+130
+00:09:58,640 --> 00:10:01,880
+<font color="aqua">Toaleta zaczyna się</font>
+<font color="aqua">od masowania brzucha</font>
+
+131
+00:10:02,040 --> 00:10:05,120
+<font color="aqua">symetrycznymi ruchami obydwu dłoni.</font>
+
+132
+00:10:05,280 --> 00:10:09,440
+<font color="aqua">Bóbr czesze także przedramiona,</font>
+<font color="aqua">uda i nasadę ogona.</font>
+
+133
+00:10:09,600 --> 00:10:11,760
+<font color="aqua">Pazurkiem pierwszego palca</font>
+
+134
+00:10:11,920 --> 00:10:14,920
+<font color="aqua">oczyszcza otoczenie oczu</font>
+<font color="aqua">i kąty warg.</font>
+
+135
+00:10:15,080 --> 00:10:16,880
+<font color="aqua">Resztę ciała wyczesuje</font>
+
+136
+00:10:17,040 --> 00:10:21,680
+<font color="aqua">rozdwojonym pazurem</font>
+<font color="aqua">drugiego palca tylnej stopy.</font>
+
+137
+00:10:21,840 --> 00:10:25,920
+<font color="aqua">Toaleta kończy się</font>
+<font color="aqua">delikatnym przygryzaniem futra,</font>
+
+138
+00:10:26,080 --> 00:10:29,640
+<font color="aqua">które jest namaszczane</font>
+<font color="aqua">wydzieliną z gruczołów</font>
+
+139
+00:10:29,800 --> 00:10:31,960
+<font color="aqua">nadającą mu wodoodporność.</font>
+
+140
+00:10:32,120 --> 00:10:36,440
+<font color="aqua">Żeremia bobra to miejsce odpoczynku</font>
+<font color="aqua">dla wielu ssaków,</font>
+
+141
+00:10:36,600 --> 00:10:38,840
+<font color="aqua">szczególnie lubią je wydry.</font>
+
+142
+00:10:41,240 --> 00:10:45,640
+<font color="#FFFF51">Drewno służy także do budowy żeremi</font>
+<font color="#FFFF51">- bobrowych domów.</font>
+
+143
+00:10:45,800 --> 00:10:49,440
+<font color="#FFFF51">Ale w tym domu</font>
+<font color="#FFFF51">nigdzie nie widać wejścia.</font>
+
+144
+00:10:49,600 --> 00:10:54,840
+<font color="#FFFF51">Bobry wykazały się inteligencją,</font>
+<font color="#FFFF51">ponieważ wejście ukryły pod wodą.</font>
+
+145
+00:10:55,000 --> 00:10:58,440
+<font color="#FFFF51">Tym samym odcięły się</font>
+<font color="#FFFF51">od nieproszonych gości.</font>
+
+146
+00:11:13,680 --> 00:11:17,680
+<font color="aqua">Bóbr jest dobrze przystosowany</font>
+<font color="aqua">do życia w wodzie.</font>
+
+147
+00:11:17,840 --> 00:11:21,320
+<font color="aqua">Fałdy skórne</font>
+<font color="aqua">zamykające kanały uszne i nosowe</font>
+
+148
+00:11:21,480 --> 00:11:23,880
+<font color="aqua">umożliwiają mu pracę pod wodą.</font>
+
+149
+00:11:24,040 --> 00:11:27,040
+<font color="aqua">Nozdrza, oczy i uszy</font>
+<font color="aqua">osadzone są wysoko,</font>
+
+150
+00:11:27,200 --> 00:11:29,320
+<font color="aqua">prawie na jednym poziomie,</font>
+
+151
+00:11:29,480 --> 00:11:33,120
+<font color="aqua">co umożliwia</font>
+<font color="aqua">bezpieczne obserwowanie otoczenia</font>
+
+152
+00:11:33,280 --> 00:11:38,280
+<font color="aqua">podczas pływania na powierzchni</font>
+<font color="aqua">i przy minimalnym wynurzeniu.</font>
+
+153
+00:11:39,520 --> 00:11:42,600
+<font color="#FFFF51">Bobry budują także</font>
+<font color="#FFFF51">żeremia pod ziemią.</font>
+
+154
+00:11:42,760 --> 00:11:45,560
+<font color="#FFFF51">Pierwszą wskazówką,</font>
+<font color="#FFFF51">żeby je znaleźć,</font>
+
+155
+00:11:45,720 --> 00:11:49,040
+<font color="#FFFF51">jest to, że woda robi się</font>
+<font color="#FFFF51">gwałtownie głęboka.</font>
+
+156
+00:11:49,200 --> 00:11:53,000
+<font color="#FFFF51">Bo właśnie tędy przepływa bóbr</font>
+<font color="#FFFF51">od strony jeziora,</font>
+
+157
+00:11:53,160 --> 00:11:57,160
+<font color="#FFFF51">szukając podwodnego wejścia,</font>
+<font color="#FFFF51">które znajduje się tu.</font>
+
+158
+00:11:57,320 --> 00:11:59,120
+<font color="#FFFF51">Tędy wpływa bóbr.</font>
+
+159
+00:11:59,280 --> 00:12:04,080
+<font color="#FFFF51">Nie sięgnąłem ręką do komory,</font>
+<font color="#FFFF51">bo jest ona daleko na brzegu.</font>
+
+160
+00:12:04,240 --> 00:12:08,400
+<font color="#FFFF51">Na lądzie znajdziemy także</font>
+<font color="#FFFF51">wskazówki mówiące o tym,</font>
+
+161
+00:12:08,560 --> 00:12:10,680
+<font color="#FFFF51">że żeremie jest właśnie tu.</font>
+
+162
+00:12:10,840 --> 00:12:13,000
+<font color="#FFFF51">Są to kominy wentylacyjne,</font>
+
+163
+00:12:13,160 --> 00:12:16,080
+<font color="#FFFF51">które umożliwiają</font>
+<font color="#FFFF51">oddychanie pod ziemią.</font>
+
+164
+00:12:31,440 --> 00:12:35,760
+<font color="#FFFF51">Takie środowisko jak to</font>
+<font color="#FFFF51">to idealne miejsce dla wydry,</font>
+
+165
+00:12:35,920 --> 00:12:39,800
+<font color="#FFFF51">która może tu znaleźć ryby</font>
+<font color="#FFFF51">i wykarmić potomstwo.</font>
+
+166
+00:12:39,960 --> 00:12:42,120
+<font color="#FFFF51">Na tym pniu na pewno była.</font>
+
+167
+00:12:42,280 --> 00:12:45,000
+<font color="#FFFF51">Widzę ślady: łuski i ości,</font>
+
+168
+00:12:45,160 --> 00:12:48,160
+<font color="#FFFF51">czyli była tu</font>
+<font color="#FFFF51">jedzona przez nią ryba,</font>
+
+169
+00:12:48,320 --> 00:12:51,960
+<font color="#FFFF51">i odchody,</font>
+<font color="#FFFF51">w których także znajdują się ości.</font>
+
+170
+00:12:52,120 --> 00:12:56,880
+<font color="#FFFF51">Środowisko plus te ślady</font>
+<font color="#FFFF51">- na pewno była tu wydra.</font>
+
+171
+00:13:00,120 --> 00:13:04,760
+<font color="aqua">Na świecie tylko nieliczne gatunki,</font>
+<font color="aqua">w tym człowiek i bóbr,</font>
+
+172
+00:13:04,920 --> 00:13:08,920
+<font color="aqua">potrafią przystosować środowisko</font>
+<font color="aqua">do własnych potrzeb.</font>
+
+173
+00:13:09,080 --> 00:13:12,720
+<font color="aqua">Bobry, spiętrzając wodę</font>
+<font color="aqua">poprzez budowanie tamy,</font>
+
+174
+00:13:12,880 --> 00:13:15,440
+<font color="aqua">zapewniają sobie bezpieczeństwo.</font>
+
+175
+00:13:15,600 --> 00:13:18,760
+<font color="#FFFF51">Bobry są niedoścignione</font>
+<font color="#FFFF51">w ścinaniu drzew,</font>
+
+176
+00:13:18,920 --> 00:13:23,120
+<font color="#FFFF51">których używają jako pokarm</font>
+<font color="#FFFF51">i materiał do budowy tamy.</font>
+
+177
+00:13:23,280 --> 00:13:26,240
+<font color="#FFFF51">Siła nacisku ich zębów</font>
+<font color="#FFFF51">sięga kilku ton.</font>
+
+178
+00:13:26,400 --> 00:13:29,520
+<font color="#FFFF51">Są w stanie ścinać</font>
+<font color="#FFFF51">twarde gatunki drzew.</font>
+
+179
+00:13:29,680 --> 00:13:34,120
+<font color="#FFFF51">Bobry, jak ścinają drzewo</font>
+<font color="#FFFF51">- tu widzimy ślady jego zębów -</font>
+
+180
+00:13:34,280 --> 00:13:38,880
+<font color="#FFFF51">zapierają się górnymi siekaczami,</font>
+<font color="#FFFF51">a pracują głównie dolne.</font>
+
+181
+00:13:39,040 --> 00:13:44,280
+<font color="#FFFF51">Te zęby nie posiadają korzeni,</font>
+<font color="#FFFF51">rosną przez całe życie zwierzaka.</font>
+
+182
+00:14:06,320 --> 00:14:08,200
+<font color="#FFFF51">Bobry doskonale wiedzą,</font>
+
+183
+00:14:08,360 --> 00:14:12,000
+<font color="#FFFF51">czy to dzięki instynktowi,</font>
+<font color="#FFFF51">czy doświadczeniu,</font>
+
+184
+00:14:12,160 --> 00:14:15,640
+<font color="#FFFF51">że to wfontiałe miejsce,</font>
+<font color="#FFFF51">żeby spiętrzyć wodę.</font>
+
+185
+00:14:15,800 --> 00:14:18,280
+<font color="#FFFF51">W tym celu budują szczelną tamę,</font>
+
+186
+00:14:18,440 --> 00:14:23,000
+<font color="#FFFF51">przez którą woda może się przelewać</font>
+<font color="#FFFF51">wyłącznie wierzchem.</font>
+
+187
+00:14:23,160 --> 00:14:27,400
+<font color="#FFFF51">Ewentualne nieszczelności</font>
+<font color="#FFFF51">są natychmiast naprawiane.</font>
+
+188
+00:14:27,560 --> 00:14:31,960
+<font color="#FFFF51">W tym celu bobry posługują się</font>
+<font color="#FFFF51">gałęziami, liśćmi, korą</font>
+
+189
+00:14:32,120 --> 00:14:35,440
+<font color="#FFFF51">albo zbutwiałymi szczątkami roślin.</font>
+
+190
+00:14:35,600 --> 00:14:39,160
+<font color="#FFFF51">A tama bobrów</font>
+<font color="#FFFF51">znajduje się za moimi plecami.</font>
+
+191
+00:14:53,240 --> 00:14:55,120
+<font color="#FFFF51">Ile pościnanych gałęzi!</font>
+
+192
+00:14:55,280 --> 00:14:58,320
+<font color="#FFFF51">I wszystkie</font>
+<font color="#FFFF51">zostały tu przyciągnięte.</font>
+
+193
+00:14:58,480 --> 00:15:02,640
+<font color="#FFFF51">Po co bobry budują</font>
+<font color="#FFFF51">tak potężną konstrukcję?</font>
+
+194
+00:15:02,800 --> 00:15:05,240
+<font color="#FFFF51">Żeby podnieść poziom wody.</font>
+
+195
+00:15:05,400 --> 00:15:09,000
+<font color="#FFFF51">Wysoka woda</font>
+<font color="#FFFF51">to ukryte wejścia do żeremi.</font>
+
+196
+00:15:09,160 --> 00:15:12,480
+<font color="#FFFF51">Wysoka woda to także</font>
+<font color="#FFFF51">ukryte magazyny jedzenia,</font>
+
+197
+00:15:12,640 --> 00:15:15,160
+<font color="#FFFF51">z których bobry korzystają zimą.</font>
+
+198
+00:15:15,320 --> 00:15:20,280
+<font color="#FFFF51">Wysoka woda to szybciej do wody,</font>
+<font color="#FFFF51">kiedy bobra goni drapieżnik.</font>
+
+199
+00:15:20,440 --> 00:15:23,960
+<font color="#FFFF51">Mnóstwo gatunków zwierząt</font>
+<font color="#FFFF51">zorientowało się,</font>
+
+200
+00:15:24,120 --> 00:15:25,920
+<font color="#FFFF51">że warto bobrom zaufać,</font>
+
+201
+00:15:26,080 --> 00:15:31,000
+<font color="#FFFF51">dlatego związały swoje życie</font>
+<font color="#FFFF51">ze stałym wysokim poziomem wody.</font>
+
+202
+00:15:31,160 --> 00:15:35,880
+<font color="#FFFF51">A bobry doskonale wywiązują się</font>
+<font color="#FFFF51">ze swojego zadania.</font>
+
+203
+00:15:36,040 --> 00:15:39,800
+<font color="aqua">Bobry, spiętrzając wodę</font>
+<font color="aqua">poprzez budowanie tamy,</font>
+
+204
+00:15:39,960 --> 00:15:43,080
+<font color="aqua">tworzą idealne warunki</font>
+<font color="aqua">dla bezkręgowców,</font>
+
+205
+00:15:43,240 --> 00:15:46,400
+<font color="aqua">które stanowią podstawę</font>
+<font color="aqua">diety pstrąga.</font>
+
+206
+00:15:53,360 --> 00:15:56,600
+<font color="#FFFF51">W stawach bobrowych</font>
+<font color="#FFFF51">jest mnóstwo roślin.</font>
+
+207
+00:15:56,760 --> 00:16:00,320
+<font color="#FFFF51">A to dlatego,</font>
+<font color="#FFFF51">że jest tu dużo płytkiej wody,</font>
+
+208
+00:16:00,480 --> 00:16:04,120
+<font color="#FFFF51">która jest nasłoneczniona,</font>
+<font color="#FFFF51">a przez to ciepła.</font>
+
+209
+00:16:04,280 --> 00:16:07,920
+<font color="#FFFF51">Jak jest dużo roślin,</font>
+<font color="#FFFF51">to jest dużo azotu, fosforu,</font>
+
+210
+00:16:08,080 --> 00:16:10,720
+<font color="#FFFF51">a przez to jest dużo planktonu.</font>
+
+211
+00:16:10,880 --> 00:16:15,920
+<font color="#FFFF51">Na początku - tego roślinnego,</font>
+<font color="#FFFF51">później pojawia się zwierzęcy,</font>
+
+212
+00:16:16,080 --> 00:16:18,600
+<font color="#FFFF51">który żywi się tym roślinnym.</font>
+
+213
+00:16:26,760 --> 00:16:29,480
+<font color="#FFFF51">Płynęła tędy kiedyś mała rzeczka.</font>
+
+214
+00:16:29,640 --> 00:16:33,880
+<font color="#FFFF51">Przypłynęły bobry, zbudowały tamę,</font>
+<font color="#FFFF51">woda się rozlała,</font>
+
+215
+00:16:34,040 --> 00:16:36,680
+<font color="#FFFF51">pojawiły się rośliny i plankton.</font>
+
+216
+00:16:36,840 --> 00:16:40,080
+<font color="#FFFF51">Byłaby to ogromna strata</font>
+<font color="#FFFF51">dla środowiska,</font>
+
+217
+00:16:40,240 --> 00:16:42,240
+<font color="#FFFF51">gdyby tylko one tu żyły.</font>
+
+218
+00:16:42,400 --> 00:16:47,040
+<font color="#FFFF51">Dlatego jest tu mnóstwo ślimaków,</font>
+<font color="#FFFF51">choćby ten przykład,</font>
+
+219
+00:16:47,200 --> 00:16:50,040
+<font color="#FFFF51">i mnóstwo innych bezkręgowców.</font>
+
+220
+00:16:50,200 --> 00:16:52,080
+<font color="#FFFF51">Są jętki, są chruściki.</font>
+
+221
+00:16:52,240 --> 00:16:55,960
+<font color="#FFFF51">A jak są bezkręgowce,</font>
+<font color="#FFFF51">to muszą być także ryby.</font>
+
+222
+00:16:56,120 --> 00:17:01,080
+<font color="#FFFF51">I rzeczywiście jest ich tutaj dużo.</font>
+<font color="#FFFF51">Są to często drobne ryby.</font>
+
+223
+00:17:01,240 --> 00:17:03,120
+<font color="#FFFF51">Mają gdzie się schronić</font>
+
+224
+00:17:03,280 --> 00:17:07,360
+<font color="#FFFF51">- pod drzewem zwalonym,</font>
+<font color="#FFFF51">pod korzeniami, gałęziami.</font>
+
+225
+00:17:07,520 --> 00:17:11,440
+<font color="#FFFF51">Jak jest dużo małych ryb,</font>
+<font color="#FFFF51">to każda większa ryba,</font>
+
+226
+00:17:11,600 --> 00:17:15,520
+<font color="#FFFF51">która płynęła tędy</font>
+<font color="#FFFF51">i zauważyła duże rozlewisko,</font>
+
+227
+00:17:15,680 --> 00:17:18,480
+<font color="#FFFF51">zatrzymuje się i zostaje na dłużej.</font>
+
+228
+00:17:18,640 --> 00:17:21,560
+<font color="#FFFF51">Znajdzie także głębszą wodę,</font>
+<font color="#FFFF51">przy tamie.</font>
+
+229
+00:17:21,720 --> 00:17:24,600
+<font color="#FFFF51">Albo tam,</font>
+<font color="#FFFF51">gdzie bobry wykopały norę,</font>
+
+230
+00:17:24,760 --> 00:17:26,640
+<font color="#FFFF51">której już nie używają.</font>
+
+231
+00:17:26,800 --> 00:17:30,680
+<font color="#FFFF51">Chyba wędkarze wiedzieli o tym,</font>
+<font color="#FFFF51">bo zwykli mawiać:</font>
+
+232
+00:17:30,840 --> 00:17:33,840
+<font color="#FFFF51">gdzie bobry, tam pstrąg dobry.</font>
+
+233
+00:17:55,600 --> 00:17:59,320
+<font color="#FFFF51">W Polsce możemy spotkać</font>
+<font color="#FFFF51">trzy gatunki pstrągów.</font>
+
+234
+00:17:59,480 --> 00:18:01,560
+<font color="#FFFF51">Pstrąg tęczowy i źródlany</font>
+
+235
+00:18:01,720 --> 00:18:05,040
+<font color="#FFFF51">zostały sprowadzone</font>
+<font color="#FFFF51">pod koniec XIX wieku.</font>
+
+236
+00:18:05,200 --> 00:18:10,360
+<font color="#FFFF51">Rozmnażają się u nas sporadycznie,</font>
+<font color="#FFFF51">dlatego spotykamy je rzadko.</font>
+
+237
+00:18:10,520 --> 00:18:14,320
+<font color="#FFFF51">Naszym rodzimym gatunkiem</font>
+<font color="#FFFF51">jest pstrąg potokowy,</font>
+
+238
+00:18:14,480 --> 00:18:18,640
+<font color="#FFFF51">który jak jest małą rybą,</font>
+<font color="#FFFF51">żywi się głównie owadami.</font>
+
+239
+00:18:18,800 --> 00:18:22,800
+<font color="#FFFF51">Jak podrośnie,</font>
+<font color="#FFFF51">do jego diety dołączają inne ryby.</font>
+
+240
+00:18:22,960 --> 00:18:25,840
+<font color="#FFFF51">Jest bardzo sprawnym drapieżnikiem.</font>
+
+241
+00:18:26,000 --> 00:18:29,800
+<font color="#FFFF51">Dostosowuje się do tego,</font>
+<font color="#FFFF51">co daje mu środowisko.</font>
+
+242
+00:18:29,960 --> 00:18:34,120
+<font color="#FFFF51">Wczesną wiosną</font>
+<font color="#FFFF51">do jego diety dołączają żaby.</font>
+
+243
+00:18:34,280 --> 00:18:37,080
+<font color="#FFFF51">W maju - jętka, w lipcu i sierpniu</font>
+
+244
+00:18:37,240 --> 00:18:40,320
+<font color="#FFFF51">pojawiają się w jego diecie</font>
+<font color="#FFFF51">inne ryby.</font>
+
+245
+00:18:40,480 --> 00:18:43,040
+<font color="#FFFF51">Pstrąg potokowy jest kanibalem.</font>
+
+246
+00:18:43,200 --> 00:18:45,000
+<font color="#FFFF51">Jest mu obojętne,</font>
+
+247
+00:18:45,160 --> 00:18:49,400
+<font color="#FFFF51">czy będzie zjadał</font>
+<font color="#FFFF51">ryby własnego gatunku, czy innego.</font>
+
+248
+00:18:50,760 --> 00:18:53,080
+<font color="aqua">Więcej ryb w bobrowym stawie</font>
+
+249
+00:18:53,240 --> 00:18:55,840
+<font color="aqua">to więcej okazji dla zimorodka.</font>
+
+250
+00:19:04,120 --> 00:19:06,120
+<font color="#FFFF51">Fotografowanie zimorodka</font>
+
+251
+00:19:06,280 --> 00:19:10,280
+<font color="#FFFF51">różni się od fotografowania</font>
+<font color="#FFFF51">rybołowa czy bielika.</font>
+
+252
+00:19:10,440 --> 00:19:12,680
+<font color="#FFFF51">Nie jest to płochliwy ptak.</font>
+
+253
+00:19:12,840 --> 00:19:16,960
+<font color="#FFFF51">Wystarczy mi suchy skafander</font>
+<font color="#FFFF51">i siatka maskująca.</font>
+
+254
+00:19:41,680 --> 00:19:46,240
+<font color="#FFFF51">Jeśli pozostanę w bezruchu,</font>
+<font color="#FFFF51">zimorodek na pewno przyleci.</font>
+
+255
+00:19:46,400 --> 00:19:49,400
+<font color="#FFFF51">Jest to dość popularny</font>
+<font color="#FFFF51">w Polsce ptak.</font>
+
+256
+00:19:49,560 --> 00:19:53,240
+<font color="#FFFF51">Są dwie legendy</font>
+<font color="#FFFF51">tłumaczące nazwę tego gatunku.</font>
+
+257
+00:19:53,400 --> 00:19:56,480
+<font color="#FFFF51">Pierwsza wywodzi się stąd,</font>
+<font color="#FFFF51">że wierzono,</font>
+
+258
+00:19:56,640 --> 00:20:00,200
+<font color="#FFFF51">że ten ptak rodzi się zimą</font>
+<font color="#FFFF51">- czyli zimorodek.</font>
+
+259
+00:20:00,360 --> 00:20:02,240
+<font color="#FFFF51">Druga mówi o tym,</font>
+
+260
+00:20:02,400 --> 00:20:06,800
+<font color="#FFFF51">że zakłada lęgi pod ziemią</font>
+<font color="#FFFF51">- czyli ziemiorodek.</font>
+
+261
+00:20:06,960 --> 00:20:10,120
+<font color="#FFFF51">Wydaje się,</font>
+<font color="#FFFF51">że ona jest bliższa prawdy.</font>
+
+262
+00:20:10,280 --> 00:20:13,360
+<font color="#FFFF51">Zimorodki</font>
+<font color="#FFFF51">także korzystają z czatowni,</font>
+
+263
+00:20:13,520 --> 00:20:17,680
+<font color="#FFFF51">ale nie z takiej jak człowiek</font>
+<font color="#FFFF51">- do obserwowania ptaków.</font>
+
+264
+00:20:17,840 --> 00:20:21,480
+<font color="#FFFF51">Znajdują patyk,</font>
+<font color="#FFFF51">obserwują wodę, polują na ryby.</font>
+
+265
+00:20:21,640 --> 00:20:24,560
+<font color="#FFFF51">Jak ją złowią, wyciągają i zjadają.</font>
+
+266
+00:20:24,720 --> 00:20:27,080
+<font color="#FFFF51">Są to niezwykle barwne ptaki.</font>
+
+267
+00:20:27,240 --> 00:20:30,800
+<font color="#FFFF51">Klejnoty naszej polskiej przyrody.</font>
+
+268
+00:20:30,960 --> 00:20:33,360
+<font color="#FFFF51">Barwne i wnoszące wiele radości,</font>
+
+269
+00:20:33,520 --> 00:20:36,320
+<font color="#FFFF51">słońca chyba</font>
+<font color="#FFFF51">- do moich zdjęć i filmów.</font>
+
+270
+00:20:54,280 --> 00:20:58,680
+<font color="aqua">Podczas polowania przesiaduje</font>
+<font color="aqua">na gałęziach nad wodą,</font>
+
+271
+00:20:58,840 --> 00:21:01,360
+<font color="aqua">skąd widzi zbliżające się ryby.</font>
+
+272
+00:21:01,520 --> 00:21:06,080
+<font color="aqua">Po szybkiej ocenie wielkości</font>
+<font color="aqua">podejmuje błyskawiczny atak.</font>
+
+273
+00:21:06,240 --> 00:21:09,920
+<font color="aqua">Nurkuje,</font>
+<font color="aqua">uderzając z impetem w lustro wody.</font>
+
+274
+00:21:10,080 --> 00:21:13,520
+<font color="aqua">Złowiona ryba</font>
+<font color="aqua">jest przekazywana potomstwu,</font>
+
+275
+00:21:13,680 --> 00:21:18,000
+<font color="aqua">które szybko ją uśmierca</font>
+<font color="aqua">kilkoma uderzeniami o gałąź.</font>
+
+276
+00:21:18,160 --> 00:21:22,600
+<font color="aqua">Obraca ją głową w swoją stronę,</font>
+<font color="aqua">co ułatwi połykanie.</font>
+
+277
+00:21:22,760 --> 00:21:27,840
+<font color="aqua">Dzielenie się z rodzeństwem</font>
+<font color="aqua">nie leży w naturze zimorodków.</font>
+
+278
+00:21:28,000 --> 00:21:30,800
+<font color="aqua">Po jedzeniu jest czas i na relaks.</font>
+
+279
+00:21:37,200 --> 00:21:41,920
+<font color="aqua">Bobry, ścinając drzewa</font>
+<font color="aqua">lub je zalewając przez budowę tamy,</font>
+
+280
+00:21:42,080 --> 00:21:44,720
+<font color="aqua">zwiększają ilość martwego drewna</font>
+
+281
+00:21:44,880 --> 00:21:47,720
+<font color="aqua">tak bardzo potrzebnego dzięciołom.</font>
+
+282
+00:21:56,760 --> 00:21:58,760
+<font color="#FFFF51">Mnóstwo martwego drewna.</font>
+
+283
+00:21:58,920 --> 00:22:00,720
+<font color="#FFFF51">A wzięło się ono stąd,</font>
+
+284
+00:22:00,880 --> 00:22:05,120
+<font color="#FFFF51">że jak bobry wybudowały tamę</font>
+<font color="#FFFF51">i zalały wszystko wodą,</font>
+
+285
+00:22:05,280 --> 00:22:10,680
+<font color="#FFFF51">stare drzewa nie były w stanie</font>
+<font color="#FFFF51">przystosować się do nowych warunków</font>
+
+286
+00:22:10,840 --> 00:22:12,920
+<font color="#FFFF51">i zaczęły usychać.</font>
+
+287
+00:22:13,080 --> 00:22:17,800
+<font color="#FFFF51">Wtedy pojawiły się owady,</font>
+<font color="#FFFF51">które żywią się martwym drewnem.</font>
+
+288
+00:22:17,960 --> 00:22:20,600
+<font color="#FFFF51">Za chwilę pojawiły się dzięcioły.</font>
+
+289
+00:22:20,760 --> 00:22:23,720
+<font color="#FFFF51">Tu widzimy</font>
+<font color="#FFFF51">robotę dzięcioła czarnego.</font>
+
+290
+00:22:23,880 --> 00:22:26,360
+<font color="#FFFF51">Jaki to musi być potężny ptak,</font>
+
+291
+00:22:26,520 --> 00:22:31,000
+<font color="#FFFF51">żeby tak sobie poradzić</font>
+<font color="#FFFF51">z takim twardym drewnem.</font>
+
+292
+00:22:50,400 --> 00:22:53,360
+<font color="#FFFF51">Dzięcioły</font>
+<font color="#FFFF51">to nie tylko rozkuwanie drewna</font>
+
+293
+00:22:53,520 --> 00:22:55,320
+<font color="#FFFF51">w poszukiwaniu larw,</font>
+
+294
+00:22:55,480 --> 00:22:57,600
+<font color="#FFFF51">ale także wykuwanie dziupli.</font>
+
+295
+00:22:57,760 --> 00:23:01,680
+<font color="#FFFF51">Tu widać małą dziuplę,</font>
+<font color="#FFFF51">ale nie dzięcioła czarnego.</font>
+
+296
+00:23:01,840 --> 00:23:06,200
+<font color="#FFFF51">Prawdopodobnie wykuł ją dzięciołek</font>
+<font color="#FFFF51">albo dzięcioł średni.</font>
+
+297
+00:23:06,360 --> 00:23:08,680
+<font color="#FFFF51">W tym roku zajęły ją sikory.</font>
+
+298
+00:23:08,840 --> 00:23:11,480
+<font color="#FFFF51">Dolna krawędź jest przybrudzona.</font>
+
+299
+00:23:11,640 --> 00:23:16,240
+<font color="#FFFF51">To sugeruje, że siadały tam ptaki,</font>
+<font color="#FFFF51">które karmiły pisklęta.</font>
+
+300
+00:23:16,400 --> 00:23:20,600
+<font color="#FFFF51">Dużo martwego drewna</font>
+<font color="#FFFF51">- to dużo dzięciołów i dziupli.</font>
+
+301
+00:23:20,760 --> 00:23:24,320
+<font color="#FFFF51">Tu znajduje się wejście</font>
+<font color="#FFFF51">do żeremi bobrowych,</font>
+
+302
+00:23:24,480 --> 00:23:26,960
+<font color="#FFFF51">które znajdują się pod ziemią.</font>
+
+303
+00:23:27,120 --> 00:23:30,280
+<font color="#FFFF51">A to bóbr jest sprawcą</font>
+<font color="#FFFF51">tej ilości wody,</font>
+
+304
+00:23:30,440 --> 00:23:35,160
+<font color="#FFFF51">martwego drewna, dzięciołów,</font>
+<font color="#FFFF51">dziupli i muchołówek szarych,</font>
+
+305
+00:23:35,320 --> 00:23:37,800
+<font color="#FFFF51">które śpiewają nad moją głową.</font>
+
+306
+00:23:37,960 --> 00:23:41,360
+<font color="#FFFF51">Tam też mają dziuplę</font>
+<font color="#FFFF51">i wychowują pisklęta.</font>
+
+307
+00:23:43,400 --> 00:23:46,480
+<font color="#8080FF">PISKLIWE ODGŁOSY MUCHOŁÓWKI</font>
+
+308
+00:23:52,720 --> 00:23:57,120
+<font color="#FFFF51">Tylko dwa gatunki tak bardzo</font>
+<font color="#FFFF51">zmieniają swoje środowisko:</font>
+
+309
+00:23:57,280 --> 00:23:59,080
+<font color="#FFFF51">człowiek i bóbr.</font>
+
+310
+00:23:59,240 --> 00:24:01,920
+<font color="#FFFF51">Wkurzamy się,</font>
+<font color="#FFFF51">jak bobry zbudują tamę,</font>
+
+311
+00:24:02,080 --> 00:24:04,240
+<font color="#FFFF51">zetną drzewo i zaleją łąki.</font>
+
+312
+00:24:04,400 --> 00:24:07,400
+<font color="#FFFF51">Niszcząc tamy,</font>
+<font color="#FFFF51">niszczymy bioróżnorodność.</font>
+
+313
+00:24:07,560 --> 00:24:11,280
+<font color="#FFFF51">Ale jeśli odłożymy na bok złość,</font>
+<font color="#FFFF51">to zauważymy,</font>
+
+314
+00:24:11,440 --> 00:24:15,840
+<font color="#FFFF51">jak wiele gatunków zwierząt</font>
+<font color="#FFFF51">postanowiło żyć z bobrami.</font>
+
+315
+00:24:16,000 --> 00:24:19,760
+<font color="#FFFF51">Obecnie trwa szóste</font>
+<font color="#FFFF51">masowe wymieranie gatunków.</font>
+
+316
+00:24:19,920 --> 00:24:24,560
+<font color="#FFFF51">W trakcie tego odcinka</font>
+<font color="#FFFF51">wyginął bezpowrotnie jeden gatunek.</font>
+
+317
+00:24:24,720 --> 00:24:29,040
+<font color="#FFFF51">A w ciągu najbliższego roku</font>
+<font color="#FFFF51">wyginie ich aż 27 tysięcy.</font>
+
+318
+00:24:29,200 --> 00:24:33,440
+<font color="#FFFF51">Co chcemy pokazać naszym wnukom?</font>
+<font color="#FFFF51">Czy mamy jakiś plan?</font>
+
+319
+00:24:33,600 --> 00:24:35,680
+<font color="#FFFF51">Bo chyba jakiś mamy, prawda?</font>
+
+320
+00:24:42,560 --> 00:24:46,920
+<font color="aqua">Dziś zobaczyliśmy</font>
+<font color="aqua">jedynie mały wycinek powiązań bobra</font>
+
+321
+00:24:47,080 --> 00:24:49,960
+<font color="aqua">z innymi zwierzętami i człowiekiem.</font>
+
+322
+00:24:50,120 --> 00:24:53,800
+<font color="aqua">W następnym odcinku</font>
+<font color="aqua">będziemy podglądać bociana</font>
+
+323
+00:24:53,960 --> 00:24:58,000
+<font color="aqua">i odsłonimy jego sieć powiązań</font>
+<font color="aqua">w świecie przyrody.</font>
+
+324
+00:25:00,160 --> 00:25:02,240
+<font color="#FFFF51">Dla pier...</font>
+<font color="#8080FF">ŚMIECH</font>
+
+325
+00:25:04,160 --> 00:25:08,880
+<font color="#FFFF51">Dla pierwotnych plemion</font>
+<font color="#FFFF51">przemierzających terytorium Polski</font>
+
+326
+00:25:09,040 --> 00:25:11,040
+<font color="#FFFF51">bóbr był cenną zdobyczą.</font>
+
+327
+00:25:11,200 --> 00:25:13,000
+<font color="#8080FF">WZDYCHA</font>
+
+328
+00:25:16,320 --> 00:25:18,960
+<font color="#8080FF">CHICHOCZE</font>
+
+329
+00:25:19,120 --> 00:25:23,360
+<font color="#FFFF51">Boże drogi... Muszę wylać wodę,</font>
+<font color="#FFFF51">bo nie mogę chodzić.</font>
+
+330
+00:25:23,520 --> 00:25:26,240
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+331
+00:25:26,400 --> 00:25:29,880
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+

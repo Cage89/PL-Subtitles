@@ -1,0 +1,1140 @@
+1
+00:00:00,320 --> 00:00:03,480
+Proszę mnie natychmiast
+stąd wypuścić!
+
+2
+00:00:03,640 --> 00:00:05,520
+Co to ma znaczyć?
+
+3
+00:00:08,360 --> 00:00:10,320
+Nie ma zasięgu.
+
+4
+00:00:10,480 --> 00:00:13,640
+Nie ma Internetu.
+
+5
+00:00:16,400 --> 00:00:18,480
+Zabrali mi komórkę.
+
+6
+00:00:20,120 --> 00:00:23,080
+Gdzie jest moja komórka?
+
+7
+00:00:23,240 --> 00:00:26,080
+Oddajcie natychmiast moją komórkę!
+
+8
+00:00:27,480 --> 00:00:29,800
+Czy ktoś mnie słyszy?
+
+9
+00:00:29,960 --> 00:00:33,760
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+10
+00:00:34,040 --> 00:00:37,360
+Takiego trudno znaleźć
+na mojej planecie.
+
+11
+00:00:37,520 --> 00:00:41,080
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+12
+00:00:41,240 --> 00:00:44,560
+Pokazali go w pałacu,
+kara go nie ominie.
+
+13
+00:00:44,720 --> 00:00:47,960
+Nagle wyczarował ognie
+królowej Kalinie.
+
+14
+00:00:48,120 --> 00:00:51,880
+Ale nie był on oszustem,
+nie był czarownikiem.
+
+15
+00:00:52,040 --> 00:00:54,840
+Miał na imię Al
+i jest alchemikiem.
+
+16
+00:00:57,760 --> 00:01:00,360
+<font color="#16F158">Nie potrafię w to uwierzyć.</font>
+
+17
+00:01:00,520 --> 00:01:04,280
+- To na pewno właściwy Bartłomiej?
+- Wando!
+
+18
+00:01:04,440 --> 00:01:08,800
+<font color="aqua">Może on jest tylko</font>
+<font color="aqua">podobny do Bartłomieja.</font>
+
+19
+00:01:08,960 --> 00:01:11,880
+<font color="aqua">To się przecież zdarza.</font>
+
+20
+00:01:12,040 --> 00:01:15,960
+<font color="aqua">Przez przypadek</font>
+<font color="aqua">ściągnąłeś tu jakiegoś nieboraka.</font>
+
+21
+00:01:16,120 --> 00:01:17,920
+<font color="aqua">Ty gałganie ty!</font>
+
+22
+00:01:18,080 --> 00:01:21,840
+Myślicie, że nie wiem,
+jak wygląda Bartłomiej?
+
+23
+00:01:22,000 --> 00:01:25,360
+To jest on, tylko jest jakiś inny.
+
+24
+00:01:25,520 --> 00:01:27,520
+<font color="#FFFF51">Co dokładnie powiedział?</font>
+
+25
+00:01:27,680 --> 00:01:31,040
+Prawie nic z tego,
+co on mówi, nie rozumiem.
+
+26
+00:01:31,200 --> 00:01:34,400
+<font color="#FFFF51">To jakaś wskazówka.</font>
+<font color="#16F158">Czego nie rozumiesz?</font>
+
+27
+00:01:34,560 --> 00:01:37,280
+Na przykład, że tu nie ma sieci.
+
+28
+00:01:37,440 --> 00:01:40,400
+<font color="aqua">Jakiej sieci? Co, on rybakiem jest?</font>
+
+29
+00:01:40,560 --> 00:01:43,200
+<font color="aqua">To na pewno nie jest Bartłomiej.</font>
+
+30
+00:01:43,360 --> 00:01:47,880
+Sieci internetowej.
+Mówi, że mu tu brakuje zasięgu.
+
+31
+00:01:48,040 --> 00:01:51,080
+Może brakuje mu zasięgu rąk?
+
+32
+00:01:51,240 --> 00:01:54,040
+Skrępowałeś go
+i nie może się ruszyć.
+
+33
+00:01:54,200 --> 00:01:56,200
+A skąd!
+
+34
+00:01:56,360 --> 00:02:00,480
+Siedzi sobie swobodnie w lochu,
+w tych swoich...
+
+35
+00:02:00,640 --> 00:02:02,600
+ubraniach dziwnych.
+
+36
+00:02:02,760 --> 00:02:04,560
+Tu ma taki jakiś...
+
+37
+00:02:04,720 --> 00:02:07,160
+taki dziwny sznur.
+
+38
+00:02:07,320 --> 00:02:10,040
+<font color="#FFFF51">Krawat. On ma krawat.</font>
+
+39
+00:02:10,200 --> 00:02:12,000
+Może krawat.
+
+40
+00:02:13,800 --> 00:02:16,560
+<font color="#16F158">No dobrze, zróbmy tak.</font>
+
+41
+00:02:16,720 --> 00:02:18,640
+<font color="#16F158">Ty, Mirmile,</font>
+
+42
+00:02:18,800 --> 00:02:20,760
+<font color="#16F158">odszukasz Bartłomieja.</font>
+
+43
+00:02:20,920 --> 00:02:25,480
+<font color="#16F158">Sprawdzisz, czy to w ogóle on.</font>
+<font color="#16F158">Jesteś jego przyjacielem.</font>
+
+44
+00:02:25,640 --> 00:02:27,440
+<font color="aqua">Dobrze, zrobię to.</font>
+
+45
+00:02:27,600 --> 00:02:29,400
+<font color="#16F158">A ty, alchemiku,</font>
+
+46
+00:02:29,560 --> 00:02:32,600
+<font color="#16F158">wymyśl coś, żeby go...</font>
+
+47
+00:02:32,760 --> 00:02:35,240
+<font color="#16F158">z tego dziwnego stanu uwolnić.</font>
+
+48
+00:02:35,400 --> 00:02:37,040
+<font color="#FFFF51">Oczywiście.</font>
+
+49
+00:02:37,200 --> 00:02:39,520
+<font color="aqua">Proszę przodem, alchemiku.</font>
+
+50
+00:02:44,880 --> 00:02:47,320
+<font color="#16F158">Masz jakiś pomysł, alchemiku?</font>
+
+51
+00:02:51,200 --> 00:02:53,040
+<font color="#FFFF51">Jeszcze nie.</font>
+
+52
+00:02:53,200 --> 00:02:56,960
+<font color="#FFFF51">Trzeba to zebrać w całość</font>
+<font color="#FFFF51">i wyciągnąć wnioski.</font>
+
+53
+00:02:57,120 --> 00:03:00,280
+<font color="#FFFF51">Istnieje hipoteza,</font>
+<font color="#FFFF51">że ta osoba w lochach</font>
+
+54
+00:03:00,440 --> 00:03:03,120
+<font color="#FFFF51">niekoniecznie jest Bartłomiejem.</font>
+
+55
+00:03:03,280 --> 00:03:07,080
+<font color="#FFFF51">Daje nam to możliwość</font>
+<font color="#FFFF51">dokładniejszej analizy.</font>
+
+56
+00:03:07,240 --> 00:03:10,760
+<font color="#16F158">Żebym choć w połowie</font>
+<font color="#16F158">wiedziała, o czym mówisz.</font>
+
+57
+00:03:10,920 --> 00:03:13,000
+<font color="#FFFF51">Co to jest, królowo?</font>
+
+58
+00:03:14,120 --> 00:03:17,280
+<font color="#16F158">To jest tablica Mendelejewa.</font>
+
+59
+00:03:17,440 --> 00:03:20,840
+<font color="#FFFF51">A co na niej jest?</font>
+<font color="#16F158">Pierwiastki, oczywiście.</font>
+
+60
+00:03:21,000 --> 00:03:22,960
+<font color="#FFFF51">Bardzo dobrze.</font>
+
+61
+00:03:23,120 --> 00:03:26,760
+<font color="#FFFF51">Na tej tablicy</font>
+<font color="#FFFF51">znajduje się 118 pierwiastków.</font>
+
+62
+00:03:26,920 --> 00:03:31,640
+<font color="#FFFF51">Niektóre z nich znamy</font>
+<font color="#FFFF51">w czystej postaci od starożytności.</font>
+
+63
+00:03:31,800 --> 00:03:34,040
+<font color="#FFFF51">Złoto, czyli Au.</font>
+
+64
+00:03:34,200 --> 00:03:36,000
+<font color="#FFFF51">Srebro - Ag.</font>
+
+65
+00:03:36,160 --> 00:03:37,960
+<font color="#FFFF51">Miedź...</font>
+<font color="#16F158">Cu.</font>
+
+66
+00:03:38,120 --> 00:03:39,840
+<font color="#FFFF51">Oraz ołów...</font>
+
+67
+00:03:40,000 --> 00:03:41,760
+<font color="#16F158">Pb.</font>
+
+68
+00:03:41,920 --> 00:03:44,160
+<font color="#FFFF51">To bardzo dobre przykłady.</font>
+
+69
+00:03:44,320 --> 00:03:49,080
+<font color="#FFFF51">Dopiero w 1649 roku</font>
+<font color="#FFFF51">dokonała się wielka zmiana.</font>
+
+70
+00:03:49,240 --> 00:03:51,520
+<font color="#FFFF51">Odkryto nowy pierwiastek.</font>
+
+71
+00:03:51,680 --> 00:03:55,320
+<font color="#FFFF51">Fosfor, czyli P.</font>
+
+72
+00:03:55,480 --> 00:03:59,360
+<font color="#FFFF51">Jego symbol pochodzi</font>
+<font color="#FFFF51">od łacińskiego "phosphorus",</font>
+
+73
+00:03:59,520 --> 00:04:01,640
+<font color="#FFFF51">czyli "niosący światło".</font>
+
+74
+00:04:01,800 --> 00:04:05,360
+<font color="#FFFF51">Alchemicy i chemicy</font>
+<font color="#FFFF51">odkrywali nowe pierwiastki.</font>
+
+75
+00:04:05,520 --> 00:04:10,680
+<font color="#FFFF51">Mimo tej ciężkiej pracy w czasach</font>
+<font color="#FFFF51">Mendelejewa znano ich tylko 63.</font>
+
+76
+00:04:10,840 --> 00:04:15,720
+<font color="#FFFF51">Ale istnieje grupa pierwiastków,</font>
+<font color="#FFFF51">o których można powiedzieć,</font>
+
+77
+00:04:15,880 --> 00:04:17,680
+<font color="#FFFF51">że są dość młode.</font>
+
+78
+00:04:17,840 --> 00:04:22,720
+<font color="#FFFF51">To pierwiastki syntetyczne,</font>
+<font color="#FFFF51">czyli stworzone przez człowieka.</font>
+
+79
+00:04:22,880 --> 00:04:27,320
+<font color="#FFFF51">Nie ma ich w przyrodzie.</font>
+<font color="#FFFF51">Takim pierwiastkiem jest kiur.</font>
+
+80
+00:04:27,480 --> 00:04:31,600
+<font color="#FFFF51">Jego nazwę utworzono</font>
+<font color="#FFFF51">na cześć Marii Skłodowskiej-Curie.</font>
+
+81
+00:04:31,760 --> 00:04:35,320
+<font color="#FFFF51">Największej polskiej</font>
+<font color="#FFFF51">chemiczki i fizyczki.</font>
+
+82
+00:04:35,480 --> 00:04:39,920
+<font color="#16F158">A można jeszcze coś odkryć?</font>
+<font color="#FFFF51">Cały czas, oczywiście.</font>
+
+83
+00:04:40,080 --> 00:04:44,360
+<font color="#FFFF51">Na przykład Bartłomiej.</font>
+<font color="#FFFF51">Musimy odkryć, czy on to on.</font>
+
+84
+00:04:44,520 --> 00:04:48,200
+<font color="#FFFF51">A jeśli tak,</font>
+<font color="#FFFF51">to dlaczego tak się zmienił.</font>
+
+85
+00:04:48,360 --> 00:04:51,800
+<font color="#16F158">Jak to zrobimy?</font>
+<font color="#FFFF51">Mam już pewien plan.</font>
+
+86
+00:04:57,520 --> 00:05:00,200
+Witaj, Mirmile.
+
+87
+00:05:03,320 --> 00:05:05,120
+No co?
+
+88
+00:05:05,280 --> 00:05:07,200
+Nie poznajesz mnie?
+
+89
+00:05:08,840 --> 00:05:11,160
+To ja, Bartłomiej.
+
+90
+00:05:11,320 --> 00:05:13,120
+<font color="aqua">Czy ja wiem?</font>
+
+91
+00:05:13,280 --> 00:05:15,760
+Czy wyście powariowali?
+
+92
+00:05:15,920 --> 00:05:18,840
+Henryk Złoty,
+a już na pewno Gagatek,
+
+93
+00:05:19,000 --> 00:05:21,920
+wyciąga mnie
+z przygody mojego życia.
+
+94
+00:05:22,080 --> 00:05:24,880
+Przygody mojego życia, tak, Mirmile.
+
+95
+00:05:25,040 --> 00:05:28,080
+I wtrąca tutaj, do tego lochu.
+
+96
+00:05:28,240 --> 00:05:30,040
+<font color="aqua">Ja to nie wiem.</font>
+
+97
+00:05:30,200 --> 00:05:33,880
+<font color="aqua">Nie jestem pewny.</font>
+Czego nie jesteś pewny? To ja.
+
+98
+00:05:34,040 --> 00:05:36,080
+<font color="aqua">No nie wiem.</font>
+
+99
+00:05:36,240 --> 00:05:38,400
+<font color="aqua">Udowodnij.</font>
+
+100
+00:05:41,760 --> 00:05:43,560
+<font color="aqua">Czekaj.</font>
+
+101
+00:05:43,720 --> 00:05:45,520
+<font color="aqua">Nie ruszaj się.</font>
+
+102
+00:05:49,880 --> 00:05:52,400
+<font color="aqua">Nie wiem, nie wiem, nie wiem.</font>
+
+103
+00:05:52,560 --> 00:05:54,960
+<font color="aqua">To nie jest takie ho, ho, ho.</font>
+
+104
+00:05:59,720 --> 00:06:03,120
+Wando, zrobiłem to, o co prosiłaś.
+
+105
+00:06:03,280 --> 00:06:07,680
+Poszedłem tam, znalazłem
+Bartłomieja, przyprowadziłem go.
+
+106
+00:06:07,840 --> 00:06:10,320
+Jest coś jeszcze.
+
+107
+00:06:10,480 --> 00:06:13,560
+Królowa spytała mnie
+o Studnię Prawdy.
+
+108
+00:06:13,720 --> 00:06:15,680
+Studnię Prawdy?
+
+109
+00:06:15,840 --> 00:06:20,000
+Ja nie wiem nic
+o żadnej Studni Prawdy.
+
+110
+00:06:20,160 --> 00:06:25,120
+Ja nie mówię, że coś wiesz,
+tylko że królowa o nią spytała.
+
+111
+00:06:28,480 --> 00:06:30,400
+Wando,
+
+112
+00:06:30,560 --> 00:06:33,040
+służę ci nie od dziś.
+
+113
+00:06:33,200 --> 00:06:35,920
+Wykonuję wszystkie twoje rozkazy.
+
+114
+00:06:36,080 --> 00:06:40,280
+Robię to z ogólnego szacunku
+do ciebie,
+
+115
+00:06:40,440 --> 00:06:42,240
+do przyrody,
+
+116
+00:06:42,400 --> 00:06:45,040
+kobiet... i wszystkiego.
+
+117
+00:06:46,400 --> 00:06:49,560
+Chciałaś tron, dostałaś tron.
+
+118
+00:06:51,000 --> 00:06:52,920
+Chcesz pomagać Kalinie,
+
+119
+00:06:53,080 --> 00:06:54,880
+pomagamy.
+
+120
+00:06:56,840 --> 00:06:59,640
+Ale to już jest jakaś przesada.
+
+121
+00:06:59,800 --> 00:07:02,960
+- Nie ma żadnej Studni Prawdy!
+- Dosyć!
+
+122
+00:07:03,120 --> 00:07:05,920
+Królowa musi się o niej dowiedzieć.
+
+123
+00:07:06,080 --> 00:07:08,520
+Chcę być jej przyjaciółką.
+
+124
+00:07:08,680 --> 00:07:12,800
+Ona już wystarczająco wycierpiała
+z mojego powodu.
+
+125
+00:07:20,720 --> 00:07:26,000
+A najbardziej na tym świecie
+lubię prawić banialuki,
+
+126
+00:07:26,160 --> 00:07:29,120
+w imię chemii i nauki.
+
+127
+00:07:29,280 --> 00:07:32,000
+Ho, ho, ho, ha, ha, ha!
+
+128
+00:07:32,160 --> 00:07:35,040
+Kto Mirmiła zna?
+
+129
+00:07:35,200 --> 00:07:37,080
+Ho, ho, ho, ha, ha, ha!
+
+130
+00:07:37,240 --> 00:07:40,360
+Kto Mirmiła zna?
+
+131
+00:07:42,360 --> 00:07:44,240
+<font color="aqua">Teraz to cię poznaję.</font>
+
+132
+00:07:44,400 --> 00:07:47,480
+<font color="aqua">Ten twój uśmiech taki, Bartłomieju.</font>
+
+133
+00:07:47,640 --> 00:07:51,040
+<font color="aqua">Co to jest za kostium w ogóle?</font>
+
+134
+00:07:51,200 --> 00:07:53,040
+Dużo by mówić.
+
+135
+00:07:53,200 --> 00:07:55,280
+To było tak. Postanowiłem
+
+136
+00:07:55,440 --> 00:07:59,320
+wyruszyć do innego wymiaru
+w celach poznawczych.
+
+137
+00:07:59,480 --> 00:08:02,640
+Tak jak to mówił
+nasz kochany alchemik.
+
+138
+00:08:02,800 --> 00:08:05,160
+No i ten muzyk,
+
+139
+00:08:05,320 --> 00:08:07,120
+Marcin Wyrostek,
+
+140
+00:08:07,280 --> 00:08:09,080
+akordeon,
+
+141
+00:08:09,240 --> 00:08:12,360
+zabrał mnie do wielkiego miasta.
+
+142
+00:08:12,520 --> 00:08:14,320
+Do Warszawy.
+
+143
+00:08:17,760 --> 00:08:21,160
+<font color="aqua">Trochę to dziwnie brzmi.</font>
+<font color="aqua">Warsz... awy.</font>
+
+144
+00:08:21,320 --> 00:08:23,560
+Mirmile, czego tam nie było.
+
+145
+00:08:23,720 --> 00:08:26,080
+Drapacze chmur.
+
+146
+00:08:26,240 --> 00:08:30,760
+Ale takie wysokie. Ogromne.
+
+147
+00:08:30,920 --> 00:08:32,840
+<font color="aqua">Ale kto drapał chmury?</font>
+
+148
+00:08:33,000 --> 00:08:34,680
+Te drapacze.
+
+149
+00:08:34,840 --> 00:08:36,800
+<font color="aqua">Czekaj.</font>
+
+150
+00:08:36,960 --> 00:08:39,760
+<font color="aqua">To jakieś stwory,</font>
+<font color="aqua">które się wdrapują?</font>
+
+151
+00:08:39,920 --> 00:08:42,760
+To takie wielkie wieżowce.
+
+152
+00:08:42,920 --> 00:08:45,360
+<font color="aqua">A kto to są wieżowce?</font>
+
+153
+00:08:45,520 --> 00:08:47,320
+To nie tylko one.
+
+154
+00:08:47,480 --> 00:08:49,560
+I samochody,
+
+155
+00:08:49,720 --> 00:08:51,520
+i telefony komórkowe,
+
+156
+00:08:51,680 --> 00:08:54,360
+i Internet,
+
+157
+00:08:54,520 --> 00:08:56,560
+portale społecznościowe.
+
+158
+00:08:56,720 --> 00:09:00,800
+Ja się tam nawet zadomowiłem,
+podoba mi się tam.
+
+159
+00:09:00,960 --> 00:09:03,400
+Ta sieć to jest coś po prostu...
+
+160
+00:09:03,560 --> 00:09:05,560
+niesamowitego.
+
+161
+00:09:05,720 --> 00:09:08,200
+Możesz znaleźć informacje o...
+
+162
+00:09:08,360 --> 00:09:10,160
+o wszystkim.
+
+163
+00:09:10,320 --> 00:09:12,560
+<font color="aqua">Czekaj, zaczynam się gubić.</font>
+
+164
+00:09:12,720 --> 00:09:16,040
+<font color="aqua">Sieć, w sieci. W sieci...</font>
+
+165
+00:09:16,200 --> 00:09:20,320
+<font color="aqua">To ty tam łowiłeś jakieś ryby?</font>
+
+166
+00:09:20,480 --> 00:09:22,680
+Żadne ryby, Mirmile.
+
+167
+00:09:22,840 --> 00:09:27,560
+Widzisz? Dlatego mówię,
+że podróże kształcą.
+
+168
+00:09:27,720 --> 00:09:29,520
+Wróciłem lepszy,
+
+169
+00:09:29,680 --> 00:09:31,480
+mądrzejszy.
+
+170
+00:09:31,640 --> 00:09:33,440
+Wiem więcej.
+
+171
+00:09:33,600 --> 00:09:35,520
+Tak jak mówił alchemik.
+
+172
+00:09:39,920 --> 00:09:44,520
+<font color="#FFFF51">To doświadczenie musi przekonać</font>
+<font color="#FFFF51">Bartłomieja do pozostania.</font>
+
+173
+00:09:44,680 --> 00:09:46,840
+<font color="#16F158">Co wymyśliłeś?</font>
+<font color="#FFFF51">Nic.</font>
+
+174
+00:09:47,000 --> 00:09:49,360
+<font color="#FFFF51">Tyle już widział.</font>
+
+175
+00:09:49,520 --> 00:09:52,640
+<font color="#FFFF51">Razem robiliśmy lustro</font>
+<font color="#FFFF51">i wybuchające balony.</font>
+
+176
+00:09:52,800 --> 00:09:56,000
+<font color="#FFFF51">Wdychaliśmy gazy,</font>
+<font color="#FFFF51">które zmieniały głos.</font>
+
+177
+00:09:56,160 --> 00:09:58,960
+<font color="#FFFF51">Studiowaliśmy prawo Archimedesa.</font>
+
+178
+00:09:59,120 --> 00:10:03,360
+<font color="#FFFF51">W tym samym czasie Wanda</font>
+<font color="#FFFF51">na tronie, ja w lochach,</font>
+
+179
+00:10:03,520 --> 00:10:06,160
+<font color="#FFFF51">zakochany król Mateusz i Gniewko.</font>
+
+180
+00:10:06,320 --> 00:10:08,600
+<font color="#FFFF51">Co rusz wielkie zamieszanie.</font>
+
+181
+00:10:08,760 --> 00:10:10,760
+<font color="#FFFF51">Wtedy zrozumiałem.</font>
+<font color="#16F158">Co?</font>
+
+182
+00:10:10,920 --> 00:10:14,040
+<font color="#FFFF51">W czasie tych przygód</font>
+<font color="#FFFF51">Bartłomiej pozostawał</font>
+
+183
+00:10:14,200 --> 00:10:18,680
+<font color="#FFFF51">pewnym siebie, ciekawym świata</font>
+<font color="#FFFF51">i śmiałym Bartłomiejem.</font>
+
+184
+00:10:18,840 --> 00:10:23,640
+<font color="#FFFF51">Nawet jeśli czegoś nie wiedział</font>
+<font color="#FFFF51">albo się czegoś wystraszył.</font>
+
+185
+00:10:23,800 --> 00:10:28,160
+<font color="#FFFF51">zawsze wracał do bycia</font>
+<font color="#FFFF51">najlepszym Bartłomiejem świata.</font>
+
+186
+00:10:28,320 --> 00:10:30,120
+<font color="#16F158">Nie pomyślałam o tym.</font>
+
+187
+00:10:30,280 --> 00:10:32,320
+<font color="#FFFF51">Zawsze wracał do formy.</font>
+
+188
+00:10:32,480 --> 00:10:35,960
+<font color="#FFFF51">Jeśli mu zaufamy,</font>
+<font color="#FFFF51">tym razem też tak będzie.</font>
+
+189
+00:10:36,120 --> 00:10:40,720
+<font color="#FFFF51">Mam pomysł na doświadczenie.</font>
+<font color="#16F158">Pokaż, nie mogę się doczekać.</font>
+
+190
+00:10:40,880 --> 00:10:44,080
+<font color="#FFFF51">Najpierw zakładaj rękawiczki,</font>
+<font color="#FFFF51">królowo.</font>
+
+191
+00:10:45,080 --> 00:10:48,840
+<font color="#FFFF51">Ten eksperyment nazywa się</font>
+<font color="#FFFF51">"Błękitna butelka".</font>
+
+192
+00:10:49,000 --> 00:10:52,240
+<font color="#FFFF51">Jeśli połączymy</font>
+<font color="#FFFF51">potrzebne nam składniki</font>
+
+193
+00:10:52,400 --> 00:10:54,840
+<font color="#FFFF51">i wymieszamy je solidnie,</font>
+
+194
+00:10:55,000 --> 00:10:57,720
+<font color="#FFFF51">uzyskamy piękny błękitny roztwór.</font>
+
+195
+00:10:57,880 --> 00:10:59,600
+<font color="#FFFF51">Przez chwilę taki jest,</font>
+
+196
+00:10:59,760 --> 00:11:01,720
+<font color="#FFFF51">ale reakcja</font>
+
+197
+00:11:01,880 --> 00:11:05,280
+<font color="#FFFF51">zdaje się mieć własne zdanie</font>
+<font color="#FFFF51">na ten temat</font>
+
+198
+00:11:05,440 --> 00:11:08,160
+<font color="#FFFF51">i roztwór znów</font>
+<font color="#FFFF51">będzie przeźroczysty.</font>
+
+199
+00:11:08,320 --> 00:11:13,320
+<font color="#FFFF51">Gdy wstrząśniemy butelką,</font>
+<font color="#FFFF51">znów będzie błękitny, przez chwilę.</font>
+
+200
+00:11:13,480 --> 00:11:18,760
+<font color="#FFFF51">Pomimo zamieszania zawsze wraca</font>
+<font color="#FFFF51">do swojej właściwej postaci.</font>
+
+201
+00:11:18,920 --> 00:11:22,520
+<font color="#FFFF51">Pierwszy składnik</font>
+<font color="#FFFF51">to wodorotlenek potasu.</font>
+
+202
+00:11:22,680 --> 00:11:25,720
+<font color="#FFFF51">Zapewni właściwe środowisko</font>
+<font color="#FFFF51">do reakcji.</font>
+
+203
+00:11:25,880 --> 00:11:30,720
+<font color="#16F158">Będę dziś twoją asystentką.</font>
+<font color="#FFFF51">Bardzo się cieszę, królowo.</font>
+
+204
+00:11:30,880 --> 00:11:33,760
+<font color="#16F158">Ile tego musimy wrzucić?</font>
+
+205
+00:11:34,920 --> 00:11:37,600
+<font color="#FFFF51">120 gramów.</font>
+
+206
+00:11:37,760 --> 00:11:40,960
+<font color="#FFFF51">Wlewamy wodę i mieszamy.</font>
+
+207
+00:11:44,360 --> 00:11:46,640
+<font color="#16F158">Dużo?</font>
+<font color="#FFFF51">Wszystko.</font>
+
+208
+00:11:48,640 --> 00:11:50,080
+<font color="#FFFF51">I mieszamy.</font>
+
+209
+00:11:51,960 --> 00:11:55,800
+<font color="#FFFF51">Czas na drugi składnik.</font>
+<font color="#FFFF51">Słodki cukier. Glukoza.</font>
+
+210
+00:11:58,320 --> 00:12:02,280
+<font color="#FFFF51">Jej zadaniem będzie</font>
+<font color="#FFFF51">pochłanianie tlenu z roztworu.</font>
+
+211
+00:12:06,360 --> 00:12:08,200
+<font color="#FFFF51">I znów mieszamy.</font>
+
+212
+00:12:15,240 --> 00:12:18,200
+<font color="#FFFF51">Teraz czas ma ostatni składnik.</font>
+
+213
+00:12:18,360 --> 00:12:21,520
+<font color="#FFFF51">Ma bardzo ładną nazwę</font>
+<font color="#FFFF51">- błękit metylenu.</font>
+
+214
+00:12:21,680 --> 00:12:23,480
+<font color="#FFFF51">Jest wskaźnikiem.</font>
+
+215
+00:12:26,120 --> 00:12:29,120
+<font color="#FFFF51">Podaj mi jeszcze te pipetki,</font>
+<font color="#FFFF51">królowo.</font>
+
+216
+00:12:29,280 --> 00:12:32,200
+<font color="#16F158">Pipetka numer 1, pipetka numer 2.</font>
+
+217
+00:12:32,360 --> 00:12:34,400
+<font color="#FFFF51">Druga będzie zapasowa.</font>
+
+218
+00:12:36,000 --> 00:12:38,400
+<font color="#16F158">Piękny błękitny kolor.</font>
+
+219
+00:12:44,360 --> 00:12:46,560
+<font color="#16F158">Ale piękny kolor.</font>
+
+220
+00:12:50,000 --> 00:12:51,840
+<font color="#16F158">Znika.</font>
+
+221
+00:12:52,000 --> 00:12:53,800
+<font color="#FFFF51">Teraz ty, królowo.</font>
+
+222
+00:12:59,840 --> 00:13:02,160
+<font color="#16F158">Piękny jest ten kolor.</font>
+
+223
+00:13:02,320 --> 00:13:07,120
+<font color="#FFFF51">Ta reakcja zmienia kolor,</font>
+<font color="#FFFF51">ale wraca do swojej postaci jak...</font>
+
+224
+00:13:07,280 --> 00:13:09,160
+<font color="#16F158">Bartłomiej.</font>
+
+225
+00:13:10,400 --> 00:13:15,160
+<font color="#16F158">Musimy pójść po Bartłomieja</font>
+<font color="#16F158">i pokazać mu to doświadczenie.</font>
+
+226
+00:13:21,560 --> 00:13:25,400
+Królowo Kalino,
+bardzo się cieszę, że cię widzę.
+
+227
+00:13:25,560 --> 00:13:28,000
+Wypuść mnie, nic nie zrobiłem.
+
+228
+00:13:28,160 --> 00:13:31,880
+Owszem, tak,
+może miałem chwilę słabości.
+
+229
+00:13:32,040 --> 00:13:36,960
+Ale przecież wróciłem tu po to,
+żeby być z wami.
+
+230
+00:13:37,120 --> 00:13:38,880
+Wróciłem do domu.
+
+231
+00:13:39,040 --> 00:13:42,160
+<font color="#16F158">Naprawdę?</font>
+Tak.
+
+232
+00:13:42,320 --> 00:13:44,120
+<font color="#16F158">Bo my z alchemikiem</font>
+
+233
+00:13:44,280 --> 00:13:47,520
+<font color="#16F158">przygotowaliśmy</font>
+<font color="#16F158">specjalne doświadczenie.</font>
+
+234
+00:13:47,680 --> 00:13:49,640
+<font color="#16F158">Tylko dla ciebie.</font>
+
+235
+00:13:49,800 --> 00:13:51,560
+<font color="#16F158">By cię przekonać.</font>
+
+236
+00:13:53,000 --> 00:13:55,240
+Doświadczenie?
+
+237
+00:13:55,400 --> 00:13:58,160
+<font color="#FFFF51">Bardzo ciekawe, Bartłomieju.</font>
+
+238
+00:13:58,960 --> 00:14:00,760
+Nie, nie, nie.
+
+239
+00:14:00,920 --> 00:14:05,400
+Ja nie potrzebuję
+żadnych doświadczeń.
+
+240
+00:14:05,560 --> 00:14:07,160
+<font color="#16F158">Na pewno?</font>
+
+241
+00:14:09,760 --> 00:14:15,560
+Wyruszyłem w tę podróż
+tylko po to, żeby wrócić tu lepszym,
+
+242
+00:14:15,720 --> 00:14:17,520
+mądrzejszym,
+
+243
+00:14:17,680 --> 00:14:21,880
+bogatszym w nowe... doświadczenia.
+
+244
+00:14:22,040 --> 00:14:26,040
+Królowo, ja wiem,
+że może wyglądam trochę inaczej,
+
+245
+00:14:26,200 --> 00:14:29,360
+ale w głębi duszy
+jestem ten sam Bartłomiej.
+
+246
+00:14:29,520 --> 00:14:31,680
+Królowo!
+
+247
+00:14:31,840 --> 00:14:34,360
+<font color="#FFFF51">Lepiej bym tego nie powiedział.</font>
+
+248
+00:14:34,520 --> 00:14:36,880
+<font color="#FFFF51">To na pewno nasz Bartłomiej.</font>
+
+249
+00:14:37,040 --> 00:14:39,360
+<font color="#16F158">Bartłomieju, wróciłeś!</font>
+
+250
+00:14:39,520 --> 00:14:42,320
+<font color="#16F158">Zaraz wypuszczę cię z tego lochu.</font>
+
+251
+00:14:42,480 --> 00:14:45,400
+<font color="#16F158">Przepraszam za to zamieszanie.</font>
+
+252
+00:14:45,560 --> 00:14:47,720
+<font color="#FFFF51">Przepraszam was na chwilę.</font>
+
+253
+00:14:47,880 --> 00:14:50,240
+Gdzie idzie alchemik?
+
+254
+00:14:50,400 --> 00:14:53,480
+Alchemiku, przynieś klucze!
+
+255
+00:15:00,240 --> 00:15:03,680
+<font color="#FFFF51">Ja wiedziałem,</font>
+<font color="#FFFF51">że wtedy źle skręciłem.</font>
+
+256
+00:15:03,840 --> 00:15:05,680
+<font color="#FFFF51">Ona tu jest.</font>
+
+257
+00:15:05,840 --> 00:15:07,640
+<font color="#FFFF51">Ta studnia.</font>
+
+258
+00:15:13,320 --> 00:15:14,880
+<font color="#FFFF51">Niesamowite.</font>
+
+259
+00:15:49,240 --> 00:15:52,720
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+260
+00:15:52,880 --> 00:15:56,520
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+261
+00:15:58,120 --> 00:15:59,920
+
+

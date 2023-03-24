@@ -1,0 +1,1479 @@
+1
+00:00:01,040 --> 00:00:04,280
+<font color="aqua">LEKTOR: Przyrodnik</font>
+<font color="aqua">jest w ciągłym ruchu.</font>
+
+2
+00:00:04,440 --> 00:00:09,080
+<font color="aqua">Nieustannie szuka dzikich zwierząt</font>
+<font color="aqua">z lornetką i aparatem.</font>
+
+3
+00:00:09,240 --> 00:00:12,880
+<font color="aqua">Żyje za pan brat</font>
+<font color="aqua">ze wszystkimi stworzeniami.</font>
+
+4
+00:00:13,040 --> 00:00:16,640
+<font color="aqua">Będąc w mieście, powtarza sobie:</font>
+
+5
+00:00:16,800 --> 00:00:19,280
+<font color="aqua">"Za dużo cegieł, za mało drzew"</font>
+
+6
+00:00:19,440 --> 00:00:23,600
+<font color="aqua">i czym prędzej wraca tam,</font>
+<font color="aqua">gdzie czuje się najlepiej.</font>
+
+7
+00:00:23,760 --> 00:00:27,760
+<font color="aqua">Przed wami Łukasz Bożycki</font>
+<font color="aqua">- przyrodnik na tropie.</font>
+
+8
+00:00:48,800 --> 00:00:52,200
+<font color="#FFFF51">Pierwsze ważki</font>
+<font color="#FFFF51">znaleźliśmy w skałach</font>
+
+9
+00:00:52,360 --> 00:00:54,920
+<font color="#FFFF51">pochodzących z późnego karbonu.</font>
+
+10
+00:00:55,080 --> 00:01:00,640
+<font color="#FFFF51">Węgiel kamienny, bo tam znaleziono</font>
+<font color="#FFFF51">pierwsze skamieniałe ciała ważek,</font>
+
+11
+00:01:00,800 --> 00:01:04,680
+<font color="#FFFF51">pochodził z roślin,</font>
+<font color="#FFFF51">które żyły 300 mln lat temu.</font>
+
+12
+00:01:04,840 --> 00:01:09,440
+<font color="#FFFF51">Wtedy nie było kontynentów,</font>
+<font color="#FFFF51">był jeden wielki praląd.</font>
+
+13
+00:01:09,600 --> 00:01:14,560
+<font color="#FFFF51">Panował klimat ciepły,</font>
+<font color="#FFFF51">było dużo terenów podmokłych.</font>
+
+14
+00:01:14,720 --> 00:01:18,200
+<font color="#FFFF51">Ważki czuły się idealnie</font>
+<font color="#FFFF51">w takim siedlisku.</font>
+
+15
+00:01:18,360 --> 00:01:22,000
+<font color="#FFFF51">Rosły wtedy potężne skrzypy,</font>
+<font color="#FFFF51">paprocie i mchy,</font>
+
+16
+00:01:22,160 --> 00:01:25,720
+<font color="#FFFF51">które były wfontiałym siedliskiem</font>
+<font color="#FFFF51">dla ważek.</font>
+
+17
+00:01:25,880 --> 00:01:29,520
+<font color="#FFFF51">Ważki nie zmieniły się niemal</font>
+<font color="#FFFF51">od 300 mln lat.</font>
+
+18
+00:01:29,680 --> 00:01:31,480
+<font color="#FFFF51">Te, co żyją obecnie,</font>
+
+19
+00:01:31,640 --> 00:01:35,440
+<font color="#FFFF51">są bardzo podobne do tych,</font>
+<font color="#FFFF51">które żyły wtedy.</font>
+
+20
+00:01:48,600 --> 00:01:51,160
+<font color="#FFFF51">Ważki są doskonałymi lotnikami.</font>
+
+21
+00:01:51,320 --> 00:01:55,960
+<font color="#FFFF51">Potrafią latać z szybkością</font>
+<font color="#FFFF51">stu długości ciała na sekundę.</font>
+
+22
+00:01:56,120 --> 00:01:58,920
+<font color="#FFFF51">A to oznaczałoby,</font>
+<font color="#FFFF51">gdybym był ważką,</font>
+
+23
+00:01:59,080 --> 00:02:02,040
+<font color="#FFFF51">że latałbym z szybkością 180 m/s,</font>
+
+24
+00:02:02,200 --> 00:02:04,520
+<font color="#FFFF51">czyli 650 km/h - nieźle.</font>
+
+25
+00:02:04,680 --> 00:02:06,480
+<font color="#FFFF51">I teraz mam dylemat:</font>
+
+26
+00:02:06,640 --> 00:02:09,520
+<font color="#FFFF51">czy wolałbym być ptakiem,</font>
+<font color="#FFFF51">czy ważką.</font>
+
+27
+00:02:21,600 --> 00:02:26,080
+<font color="#FFFF51">Próbę czasu przetrwało</font>
+<font color="#FFFF51">prawie 5 tysięcy gatunków ważek.</font>
+
+28
+00:02:26,240 --> 00:02:29,320
+<font color="#FFFF51">Czy to dużo, czy mało</font>
+<font color="#FFFF51">- ciężko powiedzieć.</font>
+
+29
+00:02:29,480 --> 00:02:31,720
+<font color="#FFFF51">Ale jak porównamy tę liczbę</font>
+
+30
+00:02:31,880 --> 00:02:35,600
+<font color="#FFFF51">z liczbą obecnie żyjących ssaków</font>
+<font color="#FFFF51">- 4 tysiące -</font>
+
+31
+00:02:35,760 --> 00:02:37,920
+<font color="#FFFF51">to może to robić wrażenie.</font>
+
+32
+00:02:38,080 --> 00:02:42,240
+<font color="#FFFF51">W Europie żyje 130 gatunków ważek,</font>
+<font color="#FFFF51">a w Polsce - 74.</font>
+
+33
+00:02:42,400 --> 00:02:45,800
+<font color="#FFFF51">Bohaterką odcinka</font>
+<font color="#FFFF51">będzie łątka dzieweczka.</font>
+
+34
+00:02:48,240 --> 00:02:52,240
+<font color="aqua">Łątka dzieweczka</font>
+<font color="aqua">należy do ważek równoskrzydłych.</font>
+
+35
+00:02:52,400 --> 00:02:56,720
+<font color="aqua">Obie pary skrzydeł</font>
+<font color="aqua">mają podobny kształt i rozmiar.</font>
+
+36
+00:02:56,880 --> 00:02:59,840
+<font color="aqua">Ciało ma smukłe,</font>
+<font color="aqua">o długości do 35 mm.</font>
+
+37
+00:03:00,000 --> 00:03:04,800
+<font color="aqua">Pośród wielu gatunków ważek</font>
+<font color="aqua">niebieskiego samca łątki dzieweczki</font>
+
+38
+00:03:04,960 --> 00:03:08,280
+<font color="aqua">wyróżnia czarna plama</font>
+<font color="aqua">w kształcie podkowy</font>
+
+39
+00:03:08,440 --> 00:03:11,920
+<font color="aqua">znajdująca się</font>
+<font color="aqua">na drugim segmencie odwłoka.</font>
+
+40
+00:03:12,080 --> 00:03:13,880
+<font color="aqua">Samice są zielone,</font>
+
+41
+00:03:14,040 --> 00:03:18,120
+<font color="aqua">a wierzchnia część ich odwłoka</font>
+<font color="aqua">jest niemal czarna.</font>
+
+42
+00:03:20,960 --> 00:03:23,360
+<font color="#FFFF51">Ważki to aktywni drapieżnicy,</font>
+
+43
+00:03:23,520 --> 00:03:27,000
+<font color="#FFFF51">którzy poszukują ofiar</font>
+<font color="#FFFF51">zamiast na nie czekać.</font>
+
+44
+00:03:27,160 --> 00:03:29,720
+<font color="#FFFF51">Larwy ważek, żyjące tuż pod wodą,</font>
+
+45
+00:03:29,880 --> 00:03:32,960
+<font color="#FFFF51">żywią się głównie</font>
+<font color="#FFFF51">larwami innych owadów.</font>
+
+46
+00:03:33,120 --> 00:03:36,080
+<font color="#FFFF51">Dorosłe ważki,</font>
+<font color="#FFFF51">polujące w powietrzu,</font>
+
+47
+00:03:36,240 --> 00:03:39,240
+<font color="#FFFF51">żywią się innymi</font>
+<font color="#FFFF51">latającymi owadami.</font>
+
+48
+00:03:39,400 --> 00:03:44,880
+<font color="#FFFF51">Upodobały sobie meszki i komary,</font>
+<font color="#FFFF51">za co powinniśmy wręczyć im medal.</font>
+
+49
+00:03:45,040 --> 00:03:48,440
+<font color="#FFFF51">Larwy ważek</font>
+<font color="#FFFF51">są tak dobrymi drapieżnikami,</font>
+
+50
+00:03:48,600 --> 00:03:52,080
+<font color="#FFFF51">że są w stanie upolować</font>
+<font color="#FFFF51">osobnika dorosłego.</font>
+
+51
+00:03:52,240 --> 00:03:55,320
+<font color="#FFFF51">Kiedy samica</font>
+<font color="#FFFF51">siedzi na krawędzi liścia</font>
+
+52
+00:03:55,480 --> 00:03:57,440
+<font color="#FFFF51">i składa jaja pod wodą,</font>
+
+53
+00:03:57,600 --> 00:04:02,400
+<font color="#FFFF51">larwa może podpłynąć,</font>
+<font color="#FFFF51">chwycić ją, wciągnąć pod wodę</font>
+
+54
+00:04:02,560 --> 00:04:05,240
+<font color="#FFFF51">i tam ją zjeść.</font>
+
+55
+00:04:05,400 --> 00:04:09,280
+<font color="#FFFF51">W świecie ważek</font>
+<font color="#FFFF51">istnieje ogromna różnorodność jaj.</font>
+
+56
+00:04:09,440 --> 00:04:14,160
+<font color="#FFFF51">Są jaja większe, mniejsze,</font>
+<font color="#FFFF51">różnią się kolorem i kształtem.</font>
+
+57
+00:04:14,320 --> 00:04:17,880
+<font color="#FFFF51">Te podłużne są składane</font>
+<font color="#FFFF51">za pomocą pokładełka</font>
+
+58
+00:04:18,040 --> 00:04:20,120
+<font color="#FFFF51">wprost do tkanki rośliny.</font>
+
+59
+00:04:20,280 --> 00:04:22,080
+<font color="#FFFF51">Są też jaja okrągłe,</font>
+
+60
+00:04:22,240 --> 00:04:25,400
+<font color="#FFFF51">które są zrzucane</font>
+<font color="#FFFF51">na powierzchnię wody.</font>
+
+61
+00:04:25,560 --> 00:04:29,440
+<font color="#FFFF51">Ważka, lecąc nad lustrem wody,</font>
+<font color="#FFFF51">uderza odwłokiem,</font>
+
+62
+00:04:29,600 --> 00:04:32,760
+<font color="#FFFF51">zrzucając za każdym razem</font>
+<font color="#FFFF51">jajo pod wodę.</font>
+
+63
+00:04:32,920 --> 00:04:37,240
+<font color="#FFFF51">Istnieje ogromna różnorodność</font>
+<font color="#FFFF51">zachowań rozrodczych ważek.</font>
+
+64
+00:04:37,400 --> 00:04:40,040
+<font color="#FFFF51">Będę tu siedział i je podglądał.</font>
+
+65
+00:05:11,400 --> 00:05:15,280
+<font color="#FFFF51">Samica łątki dzieweczki</font>
+<font color="#FFFF51">sięga odwłokiem do wody,</font>
+
+66
+00:05:15,440 --> 00:05:19,320
+<font color="#FFFF51">wkłuwając pokładełkiem jaja</font>
+<font color="#FFFF51">w zanurzoną część rośliny.</font>
+
+67
+00:05:19,480 --> 00:05:23,960
+<font color="#FFFF51">Samiec trzyma ją za przednią część</font>
+<font color="#FFFF51">tułowia, stojąc na niej.</font>
+
+68
+00:05:24,120 --> 00:05:26,440
+<font color="#FFFF51">Koryguje postawę skrzydłami.</font>
+
+69
+00:05:26,600 --> 00:05:29,680
+<font color="#FFFF51">Miłosne połączenie pary</font>
+<font color="#FFFF51">nazywamy tandemem.</font>
+
+70
+00:05:29,840 --> 00:05:32,040
+<font color="#FFFF51">Tandem daje samcowi gwarancję,</font>
+
+71
+00:05:32,200 --> 00:05:36,360
+<font color="#FFFF51">że jaja nie zostaną zapłodnione</font>
+<font color="#FFFF51">przez innego samca.</font>
+
+72
+00:05:36,520 --> 00:05:40,320
+<font color="#FFFF51">Para przelatuje</font>
+<font color="#FFFF51">z miejsca na miejsce połączona,</font>
+
+73
+00:05:40,480 --> 00:05:43,120
+<font color="#FFFF51">aż samica złoży ostatnie jajo.</font>
+
+74
+00:05:47,400 --> 00:05:49,640
+<font color="aqua">Miłosny tandem jest możliwy</font>
+
+75
+00:05:49,800 --> 00:05:52,960
+<font color="aqua">dzięki szczególnej</font>
+<font color="aqua">budowie ciała ważek.</font>
+
+76
+00:05:53,120 --> 00:05:57,680
+<font color="aqua">U samców na końcu odwłoka</font>
+<font color="aqua">znajdują się dwie pary przydatków</font>
+
+77
+00:05:57,840 --> 00:06:00,160
+<font color="aqua">służące do chwytania samicy.</font>
+
+78
+00:06:00,320 --> 00:06:04,280
+<font color="aqua">Obydwa elementy pasują do siebie</font>
+<font color="aqua">jak klucz do zamka.</font>
+
+79
+00:06:04,440 --> 00:06:08,400
+<font color="aqua">Wszystko przez rozmaite ząbki,</font>
+<font color="aqua">wzgórki i wycięcia.</font>
+
+80
+00:06:08,560 --> 00:06:12,800
+<font color="aqua">Dzięki nim złapanie przez samca</font>
+<font color="aqua">samicy innego gatunku</font>
+
+81
+00:06:12,960 --> 00:06:14,760
+<font color="aqua">jest niemożliwe.</font>
+
+82
+00:06:14,920 --> 00:06:17,120
+<font color="aqua">Klucz do zamka nie pasuje,</font>
+
+83
+00:06:17,280 --> 00:06:20,760
+<font color="aqua">co zapobiega</font>
+<font color="aqua">krzyżowaniu międzygatunkowemu.</font>
+
+84
+00:06:22,200 --> 00:06:26,080
+<font color="aqua">Śmiertelnym zagrożeniem dla ważek</font>
+<font color="aqua">jest zausznik,</font>
+
+85
+00:06:26,240 --> 00:06:30,880
+<font color="aqua">wysoko wyspecjalizowany</font>
+<font color="aqua">i doskonale nurkujący ptak wodny.</font>
+
+86
+00:06:46,800 --> 00:06:49,600
+<font color="#FFFF51">Wszystkie ważki unikają zausznika.</font>
+
+87
+00:06:49,760 --> 00:06:53,760
+<font color="#FFFF51">Jest to jeden z pięciu gatunków</font>
+<font color="#FFFF51">perkozów w Polsce.</font>
+
+88
+00:06:53,920 --> 00:06:57,560
+<font color="#FFFF51">Poluje głównie na owady wodne,</font>
+<font color="#FFFF51">rzadko na ryby.</font>
+
+89
+00:06:57,720 --> 00:07:02,720
+<font color="#FFFF51">Larwy ważek żyjące pod wodą</font>
+<font color="#FFFF51">są doskonałym posiłkiem dla niego,</font>
+
+90
+00:07:02,880 --> 00:07:05,880
+<font color="#FFFF51">choć potrafi także łowić</font>
+<font color="#FFFF51">owady latające.</font>
+
+91
+00:07:06,040 --> 00:07:08,680
+<font color="#FFFF51">Jego polowanie nie trwa zbyt długo,</font>
+
+92
+00:07:08,840 --> 00:07:12,480
+<font color="#FFFF51">bo zwykle pod wodą</font>
+<font color="#FFFF51">może spędzić do 30 sekund.</font>
+
+93
+00:07:15,240 --> 00:07:18,760
+<font color="#FFFF51">Zbudowałem</font>
+<font color="#FFFF51">specjalną pływającą konstrukcję,</font>
+
+94
+00:07:18,920 --> 00:07:22,160
+<font color="#FFFF51">która umożliwi mi</font>
+<font color="#FFFF51">podglądanie zauszników.</font>
+
+95
+00:07:22,320 --> 00:07:24,200
+<font color="#FFFF51">Pływadełko ma platformę,</font>
+
+96
+00:07:24,360 --> 00:07:27,360
+<font color="#FFFF51">która utrzyma mnie</font>
+<font color="#FFFF51">na powierzchni wody,</font>
+
+97
+00:07:27,520 --> 00:07:30,480
+<font color="#FFFF51">oraz stelaż</font>
+<font color="#FFFF51">pokryty siatką maskującą.</font>
+
+98
+00:07:30,640 --> 00:07:35,280
+<font color="#FFFF51">Zanim zacznę fotografować,</font>
+<font color="#FFFF51">muszę dołożyć kilka elementów,</font>
+
+99
+00:07:35,440 --> 00:07:37,920
+<font color="#FFFF51">które wtopią mnie w otoczenie.</font>
+
+100
+00:07:38,080 --> 00:07:42,480
+<font color="#FFFF51">Ale to zrobię na wodzie,</font>
+<font color="#FFFF51">w miejscu podglądania ptaków.</font>
+
+101
+00:08:09,680 --> 00:08:13,400
+<font color="aqua">Perkoz dwuczuby</font>
+<font color="aqua">jest bliskim krewnym zausznika</font>
+
+102
+00:08:13,560 --> 00:08:15,440
+<font color="aqua">i wiele go z nim łączy.</font>
+
+103
+00:08:15,600 --> 00:08:18,840
+<font color="aqua">To, co go różni z zausznikiem,</font>
+<font color="aqua">to dieta.</font>
+
+104
+00:08:36,960 --> 00:08:40,760
+<font color="#FFFF51">Bliskim krewnym zausznika</font>
+<font color="#FFFF51">jest perkoz dwuczuby,</font>
+
+105
+00:08:40,920 --> 00:08:44,080
+<font color="#FFFF51">nasz największy</font>
+<font color="#FFFF51">i najliczniejszy perkoz,</font>
+
+106
+00:08:44,240 --> 00:08:46,720
+<font color="#FFFF51">który preferuje otwarte akweny.</font>
+
+107
+00:08:46,880 --> 00:08:51,120
+<font color="#FFFF51">Tam najczęściej zakłada gniazda.</font>
+<font color="#FFFF51">Muszą być trzcinowiska.</font>
+
+108
+00:08:51,280 --> 00:08:55,160
+<font color="#FFFF51">Część samic zakłada gniazda</font>
+<font color="#FFFF51">na otwartej przestrzeni.</font>
+
+109
+00:08:55,320 --> 00:08:57,120
+<font color="#FFFF51">Kiedy schodzą z jajek,</font>
+
+110
+00:08:57,280 --> 00:09:00,280
+<font color="#FFFF51">przykrywają je</font>
+<font color="#FFFF51">zbutwiałymi roślinami,</font>
+
+111
+00:09:00,440 --> 00:09:03,080
+<font color="#FFFF51">aby drapieżnik ich nie zauważył.</font>
+
+112
+00:09:03,240 --> 00:09:06,640
+<font color="#FFFF51">Wystarczyło 15 cm różnicy</font>
+<font color="#FFFF51">w długości ciała</font>
+
+113
+00:09:06,800 --> 00:09:08,960
+<font color="#FFFF51">w porównaniu do zausznika,</font>
+
+114
+00:09:09,120 --> 00:09:12,840
+<font color="#FFFF51">aby perkoz dwuczuby</font>
+<font color="#FFFF51">zupełnie zmienił swoją dietę.</font>
+
+115
+00:09:13,000 --> 00:09:17,560
+<font color="#FFFF51">Nie interesuje się już ważkami,</font>
+<font color="#FFFF51">łowi tylko ryby.</font>
+
+116
+00:09:20,280 --> 00:09:22,440
+<font color="aqua">Gniazdo perkoza dwuczubego</font>
+
+117
+00:09:22,600 --> 00:09:26,080
+<font color="aqua">można pomylić</font>
+<font color="aqua">ze stertą butwiejących roślin</font>
+
+118
+00:09:26,240 --> 00:09:28,880
+<font color="aqua">pływających po powierzchni wody.</font>
+
+119
+00:09:29,040 --> 00:09:33,600
+<font color="aqua">Samica poprawia ukryte</font>
+<font color="aqua">w małej niecce śnieżnobiałe jaja,</font>
+
+120
+00:09:33,760 --> 00:09:38,360
+<font color="aqua">które w czasie wysiadywania</font>
+<font color="aqua">zyskują brunatne zabarwienie,</font>
+
+121
+00:09:38,520 --> 00:09:41,240
+<font color="aqua">pochodzące od butwiejących roślin.</font>
+
+122
+00:09:41,400 --> 00:09:45,000
+<font color="aqua">Samiec znosi do gniazda rośliny,</font>
+<font color="aqua">dbając o to,</font>
+
+123
+00:09:45,160 --> 00:09:49,560
+<font color="aqua">aby konstrukcja była w stanie</font>
+<font color="aqua">utrzymać samicę i jajka.</font>
+
+124
+00:09:49,720 --> 00:09:54,040
+<font color="aqua">Po ciężkim dniu pracy</font>
+<font color="aqua">samiec ma chwilę na odpoczynek.</font>
+
+125
+00:10:20,760 --> 00:10:24,760
+<font color="#FFFF51">Przed chwilą widziałem</font>
+<font color="#FFFF51">samicę perkoza dwuczubego,</font>
+
+126
+00:10:24,920 --> 00:10:27,000
+<font color="#FFFF51">która karmiła młode rybami.</font>
+
+127
+00:10:27,160 --> 00:10:30,040
+<font color="#FFFF51">Po chwili</font>
+<font color="#FFFF51">wyrwała sobie pióro z piersi</font>
+
+128
+00:10:30,200 --> 00:10:32,160
+<font color="#FFFF51">i dała im do połknięcia.</font>
+
+129
+00:10:32,320 --> 00:10:36,120
+<font color="#FFFF51">Samice zmuszają młode</font>
+<font color="#FFFF51">do połykania tych piór po to,</font>
+
+130
+00:10:36,280 --> 00:10:39,840
+<font color="#FFFF51">aby ości nie wbijały im się</font>
+<font color="#FFFF51">w przewód pokarmowy.</font>
+
+131
+00:10:40,000 --> 00:10:41,800
+<font color="#FFFF51">Wydaje się to dziwne.</font>
+
+132
+00:10:41,960 --> 00:10:47,360
+<font color="#FFFF51">Ale spójrzmy na nasze zachowanie,</font>
+<font color="#FFFF51">wtedy przypomnimy sobie te chwile,</font>
+
+133
+00:10:47,520 --> 00:10:50,520
+<font color="#FFFF51">kiedy jemy rybę</font>
+<font color="#FFFF51">i zagryzamy ją chlebem,</font>
+
+134
+00:10:50,680 --> 00:10:53,680
+<font color="#FFFF51">żeby ości</font>
+<font color="#FFFF51">nie wbijały nam się w gardło.</font>
+
+135
+00:10:53,840 --> 00:10:56,160
+<font color="#FFFF51">Ptaki zastępują chleb piórami.</font>
+
+136
+00:10:56,320 --> 00:11:00,800
+<font color="#FFFF51">Mam nadzieję, że za chwilę</font>
+<font color="#FFFF51">uda mi się je sfotografować.</font>
+
+137
+00:11:30,080 --> 00:11:33,320
+<font color="#FFFF51">Ważki większość życia</font>
+<font color="#FFFF51">spędzają pod wodą,</font>
+
+138
+00:11:33,480 --> 00:11:35,280
+<font color="#FFFF51">w postaci larwalnej.</font>
+
+139
+00:11:35,440 --> 00:11:38,600
+<font color="#FFFF51">Mam nadzieję,</font>
+<font color="#FFFF51">że uda mi się je znaleźć,</font>
+
+140
+00:11:38,760 --> 00:11:42,920
+<font color="#FFFF51">ich ofiarę, a także drapieżniki,</font>
+<font color="#FFFF51">które na nie polują.</font>
+
+141
+00:11:43,080 --> 00:11:45,480
+<font color="#FFFF51">Rzadko zanurzam się pod wodę,</font>
+
+142
+00:11:45,640 --> 00:11:49,640
+<font color="#FFFF51">dlatego że są tam pijawki,</font>
+<font color="#FFFF51">które na mnie czekają,</font>
+
+143
+00:11:49,800 --> 00:11:52,960
+<font color="#FFFF51">a ja nie chciałbym</font>
+<font color="#FFFF51">się z nimi spotykać.</font>
+
+144
+00:11:53,120 --> 00:11:56,680
+<font color="#FFFF51">Zatem duży wdech, zanurzenie</font>
+<font color="#FFFF51">i szukam ważek.</font>
+
+145
+00:11:59,040 --> 00:12:00,920
+<font color="aqua">Pod wodą dominują ryby.</font>
+
+146
+00:12:01,080 --> 00:12:06,080
+<font color="aqua">Jest ich bardzo dużo tam,</font>
+<font color="aqua">gdzie woda jest dobrze natleniona.</font>
+
+147
+00:12:06,240 --> 00:12:09,640
+<font color="aqua">Tuż przy dnie</font>
+<font color="aqua">znajdziemy larwy chruścików,</font>
+
+148
+00:12:09,800 --> 00:12:12,800
+<font color="aqua">które budują domki z tego,</font>
+<font color="aqua">co znajdą.</font>
+
+149
+00:12:12,960 --> 00:12:17,760
+<font color="aqua">Często są to ziarenka piasku,</font>
+<font color="aqua">drobne patyczki, resztki roślin.</font>
+
+150
+00:12:17,920 --> 00:12:20,920
+<font color="aqua">Wszystkie</font>
+<font color="aqua">żyjące pod wodą bezkręgowce</font>
+
+151
+00:12:21,080 --> 00:12:22,880
+<font color="aqua">razem z larwami ważek</font>
+
+152
+00:12:23,040 --> 00:12:24,840
+<font color="aqua">są ze sobą powiązane.</font>
+
+153
+00:12:25,000 --> 00:12:29,560
+<font color="aqua">Często stanowią źródło pokarmu</font>
+<font color="aqua">dla większych organizmów,</font>
+
+154
+00:12:29,720 --> 00:12:33,880
+<font color="aqua">ale zdecydowanie częściej</font>
+<font color="aqua">rywalizują pomiędzy sobą.</font>
+
+155
+00:12:36,600 --> 00:12:38,400
+<font color="aqua">Tygrzyk paskowany</font>
+
+156
+00:12:38,560 --> 00:12:42,040
+<font color="aqua">wyspecjalizował się</font>
+<font color="aqua">w łowieniu dużych ofiar.</font>
+
+157
+00:12:42,200 --> 00:12:46,280
+<font color="aqua">Jest śmiertelnym zagrożeniem</font>
+<font color="aqua">dla łątki dzieweczki.</font>
+
+158
+00:12:46,440 --> 00:12:50,080
+<font color="#FFFF51">Bardzo dużym zagrożeniem</font>
+<font color="#FFFF51">dla łątki dzieweczki</font>
+
+159
+00:12:50,240 --> 00:12:52,120
+<font color="#FFFF51">jest tygrzyk paskowany.</font>
+
+160
+00:12:52,280 --> 00:12:55,280
+<font color="#FFFF51">To jest ten pająk</font>
+<font color="#FFFF51">pośrodku tej sieci.</font>
+
+161
+00:12:55,440 --> 00:12:58,680
+<font color="#FFFF51">Charakterystyczne w niej</font>
+<font color="#FFFF51">są dwa zygzaki</font>
+
+162
+00:12:58,840 --> 00:13:00,920
+<font color="#FFFF51">spotykające się w środku.</font>
+
+163
+00:13:01,080 --> 00:13:04,080
+<font color="#FFFF51">Dlaczego te zygzaki</font>
+<font color="#FFFF51">są w tym miejscu?</font>
+
+164
+00:13:04,240 --> 00:13:08,560
+<font color="#FFFF51">Pierwsza teoria jest taka,</font>
+<font color="#FFFF51">że pająk wplata je celowo,</font>
+
+165
+00:13:08,720 --> 00:13:10,600
+<font color="#FFFF51">by wzmocnić swoją sieć.</font>
+
+166
+00:13:10,760 --> 00:13:13,840
+<font color="#FFFF51">Poluje na duże ofiary,</font>
+<font color="#FFFF51">w tym na ważki.</font>
+
+167
+00:13:14,000 --> 00:13:17,960
+<font color="#FFFF51">Taka ofiara mogłaby</font>
+<font color="#FFFF51">z łatwością porwać jego sieć.</font>
+
+168
+00:13:18,120 --> 00:13:20,440
+<font color="#FFFF51">Te zygzaki mają ją wzmocnić.</font>
+
+169
+00:13:20,600 --> 00:13:25,080
+<font color="#FFFF51">Druga teoria mówi o tym,</font>
+<font color="#FFFF51">że gdy pojawia się drapieżnik,</font>
+
+170
+00:13:25,240 --> 00:13:28,120
+<font color="#FFFF51">tygrzyk wprawia w drganie całą sieć</font>
+
+171
+00:13:28,280 --> 00:13:32,680
+<font color="#FFFF51">i wtedy zygzaki zlewają się</font>
+<font color="#FFFF51">z paskami na jego odwłoku.</font>
+
+172
+00:13:32,840 --> 00:13:36,080
+<font color="#FFFF51">Przez to jego kamuflaż</font>
+<font color="#FFFF51">jest dużo lepszy.</font>
+
+173
+00:13:36,240 --> 00:13:39,240
+<font color="#FFFF51">Ten osobnik jest młodociany.</font>
+
+174
+00:13:39,400 --> 00:13:41,720
+<font color="#FFFF51">Dorosły będzie dużo większy,</font>
+
+175
+00:13:41,880 --> 00:13:46,160
+<font color="#FFFF51">będzie miał bardziej wyraźny</font>
+<font color="#FFFF51">i kontrastowy odwłok.</font>
+
+176
+00:14:02,320 --> 00:14:04,120
+<font color="#FFFF51">Tygrzyk jest jadowity.</font>
+
+177
+00:14:04,280 --> 00:14:07,440
+<font color="#FFFF51">Po schwytaniu ważki</font>
+<font color="#FFFF51">oplata ją pajęczyną,</font>
+
+178
+00:14:07,600 --> 00:14:09,480
+<font color="#FFFF51">wstrzykuje jad i zjada.</font>
+
+179
+00:14:09,640 --> 00:14:13,520
+<font color="#FFFF51">Działanie jadu dla człowieka</font>
+<font color="#FFFF51">jest mało szkodliwe,</font>
+
+180
+00:14:13,680 --> 00:14:16,760
+<font color="#FFFF51">a łagodne usposobienie pająka</font>
+<font color="#FFFF51">powoduje,</font>
+
+181
+00:14:16,920 --> 00:14:20,000
+<font color="#FFFF51">że ugryzienie</font>
+<font color="#FFFF51">jest mało prawdopodobne.</font>
+
+182
+00:14:32,000 --> 00:14:34,760
+<font color="#8080FF">ODGŁOSY PTAKÓW</font>
+
+183
+00:14:45,680 --> 00:14:49,160
+<font color="#FFFF51">W zachowaniu tygrzyków</font>
+<font color="#FFFF51">fascynują mnie ich gody.</font>
+
+184
+00:14:49,320 --> 00:14:51,280
+<font color="#FFFF51">Samica wytwarza feromony.</font>
+
+185
+00:14:51,440 --> 00:14:55,440
+<font color="#FFFF51">Dodatkowo ze swojej pajęczyny</font>
+<font color="#FFFF51">spuszcza nić na podłoże,</font>
+
+186
+00:14:55,600 --> 00:14:59,000
+<font color="#FFFF51">tak aby samiec</font>
+<font color="#FFFF51">mógł z łatwością ją znaleźć.</font>
+
+187
+00:14:59,160 --> 00:15:02,240
+<font color="#FFFF51">Jak już ją znajdzie,</font>
+<font color="#FFFF51">samiec obcina nić,</font>
+
+188
+00:15:02,400 --> 00:15:04,960
+<font color="#FFFF51">by utrudnić zadanie konkurentom.</font>
+
+189
+00:15:05,120 --> 00:15:07,200
+<font color="#FFFF51">Samiec musi się śpieszyć.</font>
+
+190
+00:15:07,360 --> 00:15:11,520
+<font color="#FFFF51">Po drganiach pajęczyny</font>
+<font color="#FFFF51">musi odczytać nastrój samicy,</font>
+
+191
+00:15:11,680 --> 00:15:15,840
+<font color="#FFFF51">ponieważ samica po kopulacji</font>
+<font color="#FFFF51">przystępuje do kolacji,</font>
+
+192
+00:15:16,000 --> 00:15:18,640
+<font color="#FFFF51">na której daniem może być samiec.</font>
+
+193
+00:15:18,800 --> 00:15:22,280
+<font color="#FFFF51">W ten sposób</font>
+<font color="#FFFF51">80% samców kończy swoje życie.</font>
+
+194
+00:15:23,960 --> 00:15:26,040
+<font color="aqua">Ważki mają wielu wrogów.</font>
+
+195
+00:15:26,200 --> 00:15:29,440
+<font color="aqua">Jednym z największych</font>
+<font color="aqua">zagrożeń są ptaki,</font>
+
+196
+00:15:29,600 --> 00:15:32,600
+<font color="aqua">na przykład</font>
+<font color="aqua">żyjące w trzcinach bączki</font>
+
+197
+00:15:32,760 --> 00:15:35,640
+<font color="aqua">oraz polujące w trakcie lotu żołny.</font>
+
+198
+00:15:37,080 --> 00:15:40,880
+<font color="#FFFF51">Pająki są zagrożeniem dla ważek</font>
+<font color="#FFFF51">tuż nad ziemią.</font>
+
+199
+00:15:41,040 --> 00:15:45,760
+<font color="#FFFF51">Natomiast tuż nad wodą</font>
+<font color="#FFFF51">na ważki polują na przykład bączki.</font>
+
+200
+00:15:45,920 --> 00:15:50,400
+<font color="#FFFF51">Szacujemy, że w Polsce</font>
+<font color="#FFFF51">mamy około tysiąca par lęgowych.</font>
+
+201
+00:15:50,560 --> 00:15:52,560
+<font color="aqua">Bączka trudno wypatrzeć.</font>
+
+202
+00:15:52,720 --> 00:15:56,360
+<font color="aqua">Zwykle widać,</font>
+<font color="aqua">że coś porusza się w trzcinach,</font>
+
+203
+00:15:56,520 --> 00:15:58,440
+<font color="aqua">ale nie wiadomo co.</font>
+
+204
+00:15:58,600 --> 00:16:02,400
+<font color="aqua">Choć rozpiętość jego skrzydeł</font>
+<font color="aqua">przekracza pół metra,</font>
+
+205
+00:16:02,560 --> 00:16:04,360
+<font color="aqua">dzięki długim palcom</font>
+
+206
+00:16:04,520 --> 00:16:08,480
+<font color="aqua">bardzo sprawnie przemieszcza się</font>
+<font color="aqua">wśród trzcin.</font>
+
+207
+00:16:08,640 --> 00:16:13,040
+<font color="aqua">Potrafi przez wiele minut</font>
+<font color="aqua">wpatrywać się w jeden punkt,</font>
+
+208
+00:16:13,200 --> 00:16:15,920
+<font color="aqua">czekając na zbliżające się ważki.</font>
+
+209
+00:16:18,160 --> 00:16:21,800
+<font color="aqua">Jak u każdego ptaka,</font>
+<font color="aqua">higiena piór jest ważna.</font>
+
+210
+00:16:21,960 --> 00:16:24,840
+<font color="aqua">Dlatego bączek poświęca wiele uwagi</font>
+
+211
+00:16:25,000 --> 00:16:27,800
+<font color="aqua">na utrzymaniu</font>
+<font color="aqua">upierzenia w czystości.</font>
+
+212
+00:16:27,960 --> 00:16:32,280
+<font color="aqua">A w chwili zagrożenia</font>
+<font color="aqua">błyskawicznie znika wśród trzcin.</font>
+
+213
+00:16:32,440 --> 00:16:37,760
+<font color="aqua">Rzadkim gościem w Polsce</font>
+<font color="aqua">jest bliska krewniaczka bączka</font>
+
+214
+00:16:37,920 --> 00:16:39,720
+<font color="aqua">- czapla modronosa.</font>
+
+215
+00:16:39,880 --> 00:16:43,360
+<font color="aqua">W Polsce widziano ją</font>
+<font color="aqua">w ciągu ostatnich 20 lat</font>
+
+216
+00:16:43,520 --> 00:16:45,320
+<font color="aqua">zaledwie 40 razy.</font>
+
+217
+00:16:45,480 --> 00:16:49,040
+<font color="aqua">Jest jedną z najmniejszych</font>
+<font color="aqua">europejskich czapli,</font>
+
+218
+00:16:49,200 --> 00:16:52,160
+<font color="aqua">co widać w porównaniu</font>
+<font color="aqua">z tą czaplą siwą,</font>
+
+219
+00:16:52,320 --> 00:16:54,880
+<font color="aqua">która próbuje utrzymać równowagę.</font>
+
+220
+00:16:55,040 --> 00:16:57,760
+<font color="aqua">Razem z bączkiem czapla modronosa</font>
+
+221
+00:16:57,920 --> 00:17:01,240
+<font color="aqua">dzieli to samo środowisko</font>
+<font color="aqua">- trzcinowiska.</font>
+
+222
+00:17:01,400 --> 00:17:04,200
+<font color="aqua">Poluje też na skraju wody z lądem.</font>
+
+223
+00:17:04,360 --> 00:17:06,680
+<font color="aqua">Powoli skrada się do ofiary,</font>
+
+224
+00:17:06,840 --> 00:17:11,440
+<font color="aqua">by podejść jak najbliżej</font>
+<font color="aqua">w sposób niezauważony.</font>
+
+225
+00:17:11,600 --> 00:17:16,080
+<font color="#FFFF51">W powietrzu</font>
+<font color="#FFFF51">na ważki polują ptaki owadożerne.</font>
+
+226
+00:17:16,240 --> 00:17:18,320
+<font color="#FFFF51">Na przykład barwna żołna,</font>
+
+227
+00:17:18,480 --> 00:17:21,800
+<font color="#FFFF51">która wykopuje norki</font>
+<font color="#FFFF51">w skarpie nad rzeką.</font>
+
+228
+00:17:21,960 --> 00:17:25,840
+<font color="#FFFF51">W Polsce mamy</font>
+<font color="#FFFF51">około 140 par lęgowych żołny.</font>
+
+229
+00:17:27,000 --> 00:17:31,320
+<font color="aqua">Żołny wypatrują swoje ofiary,</font>
+<font color="aqua">korzystając z czatowni,</font>
+
+230
+00:17:31,480 --> 00:17:35,480
+<font color="aqua">czyli gałęzi,</font>
+<font color="aqua">na której obserwują otoczenie,</font>
+
+231
+00:17:35,640 --> 00:17:40,320
+<font color="aqua">zrywając się do lotu,</font>
+<font color="aqua">gdy zauważą przelatującego owada.</font>
+
+232
+00:17:40,480 --> 00:17:45,560
+<font color="aqua">Spędzają dużo czasu na polowaniu</font>
+<font color="aqua">oraz na czyszczeniu piór.</font>
+
+233
+00:17:45,720 --> 00:17:47,520
+<font color="aqua">A gdy już się zmęczą,</font>
+
+234
+00:17:47,680 --> 00:17:50,760
+<font color="aqua">potrafią</font>
+<font color="aqua">kilkanaście minut odpoczywać,</font>
+
+235
+00:17:50,920 --> 00:17:53,800
+<font color="aqua">przytulając się</font>
+<font color="aqua">do swojego partnera.</font>
+
+236
+00:18:11,920 --> 00:18:14,800
+<font color="aqua">Powiązanie z ważkami</font>
+<font color="aqua">jest oczywiste.</font>
+
+237
+00:18:14,960 --> 00:18:17,840
+<font color="aqua">Im więcej ważek, tym mniej komarów,</font>
+
+238
+00:18:18,000 --> 00:18:21,080
+<font color="aqua">im mniej komarów,</font>
+<font color="aqua">tym mniej pestycydów</font>
+
+239
+00:18:21,240 --> 00:18:24,400
+<font color="aqua">do zwalczania</font>
+<font color="aqua">plagi komarów i kleszczy.</font>
+
+240
+00:18:26,200 --> 00:18:29,760
+<font color="#FFFF51">Komary występują</font>
+<font color="#FFFF51">na wszystkich kontynentach.</font>
+
+241
+00:18:29,920 --> 00:18:33,560
+<font color="#FFFF51">W Polsce najliczniejszy jest</font>
+<font color="#FFFF51">komar brzęczący.</font>
+
+242
+00:18:33,720 --> 00:18:39,120
+<font color="#FFFF51">Ale w Kampinoskim Parku Narodowym</font>
+<font color="#FFFF51">występuje aż 31 gatunków komarów,</font>
+
+243
+00:18:39,280 --> 00:18:42,160
+<font color="#FFFF51">z czego dwa</font>
+<font color="#FFFF51">są zagrożone wyginięciem.</font>
+
+244
+00:18:42,320 --> 00:18:45,120
+<font color="#FFFF51">Jako biolog trzymam za nie kciuki,</font>
+
+245
+00:18:45,280 --> 00:18:49,160
+<font color="#FFFF51">ale jako ich ofiara</font>
+<font color="#FFFF51">nie życzę im już tak dobrze.</font>
+
+246
+00:18:49,320 --> 00:18:52,400
+<font color="aqua">Chryzantemy</font>
+<font color="aqua">zabijają komary i kleszcze.</font>
+
+247
+00:18:52,560 --> 00:18:55,200
+<font color="aqua">Kwas chryzantemowy w ich kwiatach</font>
+
+248
+00:18:55,360 --> 00:18:58,280
+<font color="aqua">jest trujący dla owadów</font>
+<font color="aqua">i pajęczaków.</font>
+
+249
+00:18:58,440 --> 00:19:02,040
+<font color="aqua">Jego podstawową wadą</font>
+<font color="aqua">jest duża niestabilność</font>
+
+250
+00:19:02,200 --> 00:19:05,840
+<font color="aqua">pod wpływem światła,</font>
+<font color="aqua">temperatury i powietrza.</font>
+
+251
+00:19:06,000 --> 00:19:08,800
+<font color="aqua">Człowiek zmodyfikował ten związek,</font>
+
+252
+00:19:08,960 --> 00:19:11,720
+<font color="aqua">wydłużając do wielu tygodni</font>
+
+253
+00:19:11,880 --> 00:19:16,160
+<font color="aqua">jego śmiertelne działanie</font>
+<font color="aqua">na owady i pajęczaki.</font>
+
+254
+00:19:16,320 --> 00:19:20,040
+<font color="#FFFF51">W 1948 roku Paul Mueller</font>
+<font color="#FFFF51">otrzymał Nagrodę Nobla</font>
+
+255
+00:19:20,200 --> 00:19:25,800
+<font color="#FFFF51">za wykazanie dużej skuteczności DDT</font>
+<font color="#FFFF51">w zwalczaniu owadów i pajęczaków.</font>
+
+256
+00:19:25,960 --> 00:19:30,440
+<font color="#FFFF51">Początkowo uważano, że związek</font>
+<font color="#FFFF51">jest nieszkodliwy dla ptaków.</font>
+
+257
+00:19:30,600 --> 00:19:34,080
+<font color="#FFFF51">Ale w 1962 roku</font>
+<font color="#FFFF51">autorka książki "Cicha wiosna"</font>
+
+258
+00:19:34,240 --> 00:19:37,440
+<font color="#FFFF51">oskarżyła przedsiębiorców</font>
+<font color="#FFFF51">stosujących DDT</font>
+
+259
+00:19:37,600 --> 00:19:41,440
+<font color="#FFFF51">o wyniszczenie</font>
+<font color="#FFFF51">całych populacji ptaków i ssaków.</font>
+
+260
+00:19:41,600 --> 00:19:46,120
+<font color="#FFFF51">Powiązała stosowanie DDT</font>
+<font color="#FFFF51">z cienkimi skorupkami jaj ptaków.</font>
+
+261
+00:19:46,280 --> 00:19:50,840
+<font color="#FFFF51">W 2001 roku 98 państw ratyfikowało</font>
+<font color="#FFFF51">konwencję sztokholmską,</font>
+
+262
+00:19:51,000 --> 00:19:55,080
+<font color="#FFFF51">w której zobowiązały się</font>
+<font color="#FFFF51">do niestosowania pestycydów</font>
+
+263
+00:19:55,240 --> 00:19:58,240
+<font color="#FFFF51">nieulegających degradacji</font>
+<font color="#FFFF51">w środowisku.</font>
+
+264
+00:19:58,400 --> 00:20:02,280
+<font color="#FFFF51">Polskim przykładem gatunku</font>
+<font color="#FFFF51">wytępionego przez DDT</font>
+
+265
+00:20:02,440 --> 00:20:04,400
+<font color="#FFFF51">może być kraska.</font>
+
+266
+00:20:04,560 --> 00:20:08,280
+<font color="#FFFF51">Za mojego życia</font>
+<font color="#FFFF51">z wiejskiego krajobrazu Polski</font>
+
+267
+00:20:08,440 --> 00:20:10,680
+<font color="#FFFF51">zniknęło 99,9% tych ptaków.</font>
+
+268
+00:20:10,840 --> 00:20:14,040
+<font color="#FFFF51">Szacuje się,</font>
+<font color="#FFFF51">że w Polsce żyje 12 par.</font>
+
+269
+00:20:14,200 --> 00:20:19,600
+<font color="#FFFF51">Stosowanie środków owadobójczych</font>
+<font color="#FFFF51">doprowadza do zmian w środowisku.</font>
+
+270
+00:20:19,760 --> 00:20:24,160
+<font color="#FFFF51">Im więcej ważek,</font>
+<font color="#FFFF51">tym mniej pestycydów i komarów.</font>
+
+271
+00:20:24,320 --> 00:20:27,200
+<font color="#FFFF51">Chroniąc ważki, chronimy ekosystem.</font>
+
+272
+00:20:27,360 --> 00:20:30,440
+<font color="#FFFF51">Chroniąc stare wierzby,</font>
+<font color="#FFFF51">wspomagamy kraski,</font>
+
+273
+00:20:30,600 --> 00:20:33,480
+<font color="#FFFF51">które zakładają gniazda</font>
+<font color="#FFFF51">w dziuplach.</font>
+
+274
+00:20:57,120 --> 00:21:00,520
+<font color="#FFFF51">Zapłodniona samica komara</font>
+<font color="#FFFF51">szuka żywiciela,</font>
+
+275
+00:21:00,680 --> 00:21:02,480
+<font color="#FFFF51">z którego wysysa krew.</font>
+
+276
+00:21:02,640 --> 00:21:05,440
+<font color="#FFFF51">Z mojej krwi</font>
+<font color="#FFFF51">powstanie około 100 jaj,</font>
+
+277
+00:21:05,600 --> 00:21:08,600
+<font color="#FFFF51">które zostaną złożone</font>
+<font color="#FFFF51">w stojącej wodzie.</font>
+
+278
+00:21:08,760 --> 00:21:12,880
+<font color="#FFFF51">Samica może korzystać z wody</font>
+<font color="#FFFF51">bardzo zanieczyszczonej,</font>
+
+279
+00:21:13,040 --> 00:21:16,040
+<font color="#FFFF51">mogą to być nawet</font>
+<font color="#FFFF51">odstojniki ścieków.</font>
+
+280
+00:21:16,200 --> 00:21:19,640
+<font color="#FFFF51">Po 24 godzinach</font>
+<font color="#FFFF51">z jaj wykluwają się larwy,</font>
+
+281
+00:21:19,800 --> 00:21:23,120
+<font color="#FFFF51">które po 10 dniach</font>
+<font color="#FFFF51">stają się poczwarkami.</font>
+
+282
+00:21:23,280 --> 00:21:28,040
+<font color="#FFFF51">Mijają 3 dni i z poczwarek</font>
+<font color="#FFFF51">wykluwają się krwiopijne owady.</font>
+
+283
+00:21:29,720 --> 00:21:32,360
+<font color="#8080FF">ŚWIERGOT PTAKÓW</font>
+
+284
+00:22:14,760 --> 00:22:18,760
+<font color="aqua">Nie wszystkie ptaki</font>
+<font color="aqua">polujące na owady w powietrzu</font>
+
+285
+00:22:18,920 --> 00:22:21,000
+<font color="aqua">są zagrożeniem dla ważek.</font>
+
+286
+00:22:21,160 --> 00:22:25,960
+<font color="aqua">Brzegówka poluje na drobne owady,</font>
+<font color="aqua">które chwyta w powietrzu.</font>
+
+287
+00:22:26,120 --> 00:22:28,200
+<font color="aqua">Najczęściej są to komary.</font>
+
+288
+00:22:28,360 --> 00:22:31,920
+<font color="#FFFF51">Sprzymierzeńcami ważek</font>
+<font color="#FFFF51">w walce z komarami</font>
+
+289
+00:22:32,080 --> 00:22:33,880
+<font color="#FFFF51">są jaskółki brzegówki,</font>
+
+290
+00:22:34,040 --> 00:22:37,440
+<font color="#FFFF51">które zakładają gniazda</font>
+<font color="#FFFF51">w skarpach nad rzeką.</font>
+
+291
+00:22:37,600 --> 00:22:39,400
+<font color="#FFFF51">Rodzina brzegówek</font>
+
+292
+00:22:39,560 --> 00:22:43,720
+<font color="#FFFF51">jest w stanie zjeść w ciągu dnia</font>
+<font color="#FFFF51">10 tysięcy komarów.</font>
+
+293
+00:22:43,880 --> 00:22:47,480
+<font color="#FFFF51">W tym miejscu</font>
+<font color="#FFFF51">lis dobierał się do ich norek.</font>
+
+294
+00:22:47,640 --> 00:22:51,880
+<font color="#FFFF51">Jaskółkom już nic nie grozi,</font>
+<font color="#FFFF51">bo wyleciały z gniazda.</font>
+
+295
+00:22:54,600 --> 00:22:58,760
+<font color="aqua">Zagrożeniem dla brzegówek</font>
+<font color="aqua">jest podnosząca się woda.</font>
+
+296
+00:22:58,920 --> 00:23:01,080
+<font color="aqua">Nie ma przed nią ucieczki.</font>
+
+297
+00:23:01,240 --> 00:23:03,640
+<font color="aqua">Ta kolonia została zatopiona.</font>
+
+298
+00:23:03,800 --> 00:23:06,360
+<font color="aqua">Szczęście miały tylko te ptaki,</font>
+
+299
+00:23:06,520 --> 00:23:10,920
+<font color="aqua">które wykopały swoje norki</font>
+<font color="aqua">wysoko poza zasięgiem wody.</font>
+
+300
+00:23:11,080 --> 00:23:14,280
+<font color="aqua">Nie wszystkie pisklęta</font>
+<font color="aqua">mają szczęście.</font>
+
+301
+00:23:14,440 --> 00:23:17,240
+<font color="aqua">Niektóre z nich wypadają z gniazd.</font>
+
+302
+00:23:17,400 --> 00:23:21,800
+<font color="aqua">Bez opieki rodziców</font>
+<font color="aqua">czeka je na zewnątrz pewna śmierć.</font>
+
+303
+00:23:23,640 --> 00:23:28,200
+<font color="aqua">Łątka dzieweczka powiązana jest</font>
+<font color="aqua">z wieloma drapieżnikami,</font>
+
+304
+00:23:28,360 --> 00:23:32,320
+<font color="aqua">a z niektórymi zakłada sojusz</font>
+<font color="aqua">w walce z komarami.</font>
+
+305
+00:23:32,480 --> 00:23:35,360
+<font color="aqua">Im więcej ważek, tym mniej komarów,</font>
+
+306
+00:23:35,520 --> 00:23:38,840
+<font color="aqua">a co za tym idzie,</font>
+<font color="aqua">wylejemy do środowiska</font>
+
+307
+00:23:39,000 --> 00:23:41,400
+<font color="aqua">mniej szkodliwych pestycydów.</font>
+
+308
+00:23:41,560 --> 00:23:44,560
+<font color="aqua">Warto ważki chronić.</font>
+
+309
+00:23:44,720 --> 00:23:49,440
+<font color="aqua">Dziś dzięki łątce dzieweczce</font>
+<font color="aqua">odsłoniliśmy kolejny fragment</font>
+
+310
+00:23:49,600 --> 00:23:53,400
+<font color="aqua">skomplikowanych powiązań</font>
+<font color="aqua">w polskiej przyrodzie.</font>
+
+311
+00:23:54,640 --> 00:23:57,520
+<font color="#FFFF51">Dubel. Trzeci odcinek, ważka.</font>
+
+312
+00:23:57,680 --> 00:23:59,840
+Teraz.
+<font color="#8080FF">KLAŚNIĘCIE</font>
+
+313
+00:24:00,000 --> 00:24:02,960
+O, jaka ładna halacja.
+
+314
+00:24:03,120 --> 00:24:06,000
+<font color="#FFFF51">Jest cień, jest woda, jest chłodno,</font>
+
+315
+00:24:06,160 --> 00:24:09,360
+<font color="#FFFF51">a ekipa stoi na wale</font>
+<font color="#FFFF51">w 40 stopniach.</font>
+
+316
+00:24:09,520 --> 00:24:13,360
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+

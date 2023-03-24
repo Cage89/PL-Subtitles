@@ -1,0 +1,999 @@
+1
+00:00:00,960 --> 00:00:07,800
+<font backgroundcolor="#000000"> Złoty medal na Festiwalu w Nowym Jorku </font>
+<font backgroundcolor="#000000"> za najlepszy program podróżniczy. </font>
+
+2
+00:00:47,480 --> 00:00:50,000
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> GWAR </font></font>
+
+3
+00:00:51,000 --> 00:00:55,720
+<font backgroundcolor="#000000"> Panie Wojtku, </font>
+<font backgroundcolor="#000000"> co pan taki szary dzisiaj? </font>
+
+4
+00:00:56,360 --> 00:00:59,680
+<font backgroundcolor="#000000"> Nawet mikrofon szary. </font>
+
+5
+00:01:00,120 --> 00:01:06,000
+<font backgroundcolor="#000000"> Tematem dzisiejszego odcinka jest </font>
+<font backgroundcolor="#000000"> bieda, więc ubrałem się stosownie. </font>
+
+6
+00:01:06,160 --> 00:01:10,800
+<font backgroundcolor="#000000"> Bieda jest szara, </font>
+<font backgroundcolor="#000000"> to się pan ubrał na szaro. </font>
+
+7
+00:01:10,960 --> 00:01:14,120
+<font backgroundcolor="#000000"> Nieprawda, ubrałem się kontrastowo. </font>
+
+8
+00:01:14,280 --> 00:01:18,360
+<font backgroundcolor="#000000"> Bieda jest pstrokata </font>
+<font backgroundcolor="#000000"> i kolorowa, jak to pranie. </font>
+
+9
+00:01:18,520 --> 00:01:22,320
+<font backgroundcolor="#000000"> Bieda jest zbieraniną </font>
+<font backgroundcolor="#000000"> elementów przypadkowych, </font>
+
+10
+00:01:22,480 --> 00:01:24,440
+<font backgroundcolor="#000000"> więc musi być pstrokata. </font>
+
+11
+00:01:24,600 --> 00:01:29,680
+<font backgroundcolor="#000000"> Ubrałem się na szaro, </font>
+<font backgroundcolor="#000000"> żeby mnie było widać na tle biedy. </font>
+
+12
+00:01:29,840 --> 00:01:35,400
+<font backgroundcolor="#000000"> To bogactwo lubi być szare </font>
+<font backgroundcolor="#000000"> albo acru, albo czarne na wieczorowo. </font>
+
+13
+00:01:35,560 --> 00:01:38,760
+<font backgroundcolor="#000000"> Bogactwo lubi być poważne na twarzy. </font>
+
+14
+00:01:38,920 --> 00:01:44,320
+<font backgroundcolor="#000000"> A bieda jest radosna, roześmiana, </font>
+<font backgroundcolor="#000000"> rozedrgana i nie jest smutna. </font>
+
+15
+00:01:47,160 --> 00:01:50,680
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> ŚMIECH I KRZYKI DZIECI </font></font>
+
+16
+00:02:24,560 --> 00:02:26,720
+<font backgroundcolor="#000000"> Bieda. </font>
+
+17
+00:02:27,040 --> 00:02:32,520
+<font backgroundcolor="#000000"> Kiedy państwo słyszą słowa: </font>
+<font backgroundcolor="#000000"> "bieda w Ameryce Południowej", </font>
+
+18
+00:02:32,680 --> 00:02:35,440
+<font backgroundcolor="#000000"> wyobrażamy sobie stereotyp. </font>
+
+19
+00:02:35,600 --> 00:02:41,320
+<font backgroundcolor="#000000"> Naoglądaliśmy się w Wiadomościach </font>
+<font backgroundcolor="#000000"> różnych wieści statystycznych. </font>
+
+20
+00:02:41,480 --> 00:02:47,040
+<font backgroundcolor="#000000"> Że w Brazylii 1% społeczeństwa </font>
+<font backgroundcolor="#000000"> zgarnia 10% dochodu narodowego. </font>
+
+21
+00:02:47,200 --> 00:02:51,960
+<font backgroundcolor="#000000"> To jest dochód narodowy </font>
+<font backgroundcolor="#000000"> podzielony na 10 paczek. </font>
+
+22
+00:02:52,320 --> 00:02:57,080
+<font backgroundcolor="#000000"> 1% społeczeństwa zabiera </font>
+<font backgroundcolor="#000000"> jeden taki worek dla siebie. </font>
+
+23
+00:02:57,240 --> 00:03:00,480
+<font backgroundcolor="#000000"> To są jacyś bankierzy, jakieś elity. </font>
+
+24
+00:03:00,640 --> 00:03:03,360
+<font backgroundcolor="#000000"> Jeden na stu. </font>
+
+25
+00:03:04,120 --> 00:03:07,120
+<font backgroundcolor="#000000"> Druga strona tego medalu jest taka, </font>
+
+26
+00:03:07,280 --> 00:03:11,280
+<font backgroundcolor="#000000"> że połowa społeczeństwa </font>
+<font backgroundcolor="#000000"> też dostaje tylko 10%. </font>
+
+27
+00:03:11,440 --> 00:03:15,760
+<font backgroundcolor="#000000"> Z tego wyciągamy wniosek, </font>
+<font backgroundcolor="#000000"> że połowa społeczeństwa, </font>
+
+28
+00:03:15,920 --> 00:03:19,240
+<font backgroundcolor="#000000"> która zgarnęła ten worek, </font>
+<font backgroundcolor="#000000"> żyje biednie. </font>
+
+29
+00:03:19,400 --> 00:03:24,400
+<font backgroundcolor="#000000"> A może nie, bo trzeba sprawdzić, </font>
+<font backgroundcolor="#000000"> jak duży jest ten worek. </font>
+
+30
+00:03:24,560 --> 00:03:29,320
+<font backgroundcolor="#000000"> Może, jak się te groszki </font>
+<font backgroundcolor="#000000"> podzieli ma 50% społeczeństwa, </font>
+
+31
+00:03:29,480 --> 00:03:33,640
+<font backgroundcolor="#000000"> nie żyją luksusowo jak ci, </font>
+<font backgroundcolor="#000000"> ale nadal nie biednie. </font>
+
+32
+00:03:33,800 --> 00:03:39,280
+<font backgroundcolor="#000000"> Ja uważam, że nie ma tragedii </font>
+<font backgroundcolor="#000000"> w takich krajach jak Brazylia. </font>
+
+33
+00:03:39,480 --> 00:03:41,480
+<font backgroundcolor="#000000"> To 51% społeczeństwa. </font>
+
+34
+00:03:41,640 --> 00:03:46,520
+<font backgroundcolor="#000000"> Czyli 49%, prawie połowa, </font>
+<font backgroundcolor="#000000"> zgarnia 80% dochodu narodowego. </font>
+
+35
+00:03:46,680 --> 00:03:48,600
+<font backgroundcolor="#000000"> To nie jest źle. </font>
+
+36
+00:03:48,760 --> 00:03:52,200
+<font backgroundcolor="#000000"> To jest margines </font>
+<font backgroundcolor="#000000"> statystyczny, niegroźny. </font>
+
+37
+00:03:52,360 --> 00:03:54,200
+<font backgroundcolor="#000000"> A tu się żyje tak. </font>
+
+38
+00:03:54,360 --> 00:03:59,840
+<font backgroundcolor="#000000"> Tragedia i prawdziwa bieda </font>
+<font backgroundcolor="#000000"> - brud, smród i ubóstwo dosłowne - </font>
+
+39
+00:04:00,000 --> 00:04:02,000
+<font backgroundcolor="#000000"> są w Somalii. </font>
+
+40
+00:04:02,160 --> 00:04:08,640
+<font backgroundcolor="#000000"> Tam ludzie żyją latami bez dachu </font>
+<font backgroundcolor="#000000"> nad głową w obozie dla uchodźców. </font>
+
+41
+00:04:08,800 --> 00:04:13,120
+<font backgroundcolor="#000000"> Nie mają co jeść </font>
+<font backgroundcolor="#000000"> i po nich muchy chodzą. </font>
+
+42
+00:04:13,520 --> 00:04:15,400
+<font backgroundcolor="#000000"> To jest tragedia. </font>
+
+43
+00:04:15,560 --> 00:04:20,240
+<font backgroundcolor="#000000"> A to nawet jeszcze nie jest bieda. </font>
+<font backgroundcolor="#000000"> Tylko tak wygląda. </font>
+
+44
+00:04:38,000 --> 00:04:40,040
+<font backgroundcolor="#000000"> Pan się nie rusza. </font>
+
+45
+00:04:40,200 --> 00:04:42,800
+<font backgroundcolor="#000000"> -  Widać te dzieci z tyłu? </font>
+<font backgroundcolor="#000000"> -  Widać. </font>
+
+46
+00:04:42,960 --> 00:04:44,880
+<font backgroundcolor="#000000"> -  A widać, że boso? </font>
+<font backgroundcolor="#000000"> -  Widać. </font>
+
+47
+00:04:45,040 --> 00:04:46,960
+<font backgroundcolor="#000000"> I niektóre w klapkach? </font>
+
+48
+00:04:47,120 --> 00:04:51,400
+<font backgroundcolor="#000000"> Nie widać. Ale boso generalnie. </font>
+<font backgroundcolor="#000000"> Możemy zaczynać. </font>
+
+49
+00:04:51,560 --> 00:04:55,880
+<font backgroundcolor="#000000"> Jak człowiek patrzy </font>
+<font backgroundcolor="#000000"> na te dekoracje polskim okiem, </font>
+
+50
+00:04:56,040 --> 00:04:59,840
+<font backgroundcolor="#000000"> ręce załamuje i mówi: </font>
+<font backgroundcolor="#000000"> "Ojejku, jaka bieda!". </font>
+
+51
+00:05:00,000 --> 00:05:02,120
+<font backgroundcolor="#000000"> Błąd! To jest stereotyp. </font>
+
+52
+00:05:02,520 --> 00:05:06,680
+<font backgroundcolor="#000000"> Czy to jest bieda, </font>
+<font backgroundcolor="#000000"> jak cały dzień się pali żarówka? </font>
+
+53
+00:05:06,840 --> 00:05:08,680
+<font backgroundcolor="#000000"> To jest prąd za darmo. </font>
+
+54
+00:05:08,840 --> 00:05:13,120
+<font backgroundcolor="#000000"> U nas człowiek biedny </font>
+<font backgroundcolor="#000000"> gasi wszystkie żarówki. </font>
+
+55
+00:05:13,400 --> 00:05:21,040
+<font backgroundcolor="#000000"> Kiedy państwo obserwują takie pejzaże, </font>
+<font backgroundcolor="#000000"> to przykładają do tego polską miarę. </font>
+
+56
+00:05:21,320 --> 00:05:24,960
+<font backgroundcolor="#000000"> W Polsce człowiek </font>
+<font backgroundcolor="#000000"> potrzebuje np. butów. </font>
+
+57
+00:05:25,120 --> 00:05:28,680
+<font backgroundcolor="#000000"> One są niezbędne, </font>
+<font backgroundcolor="#000000"> żeby nie umrzeć w zimie. </font>
+
+58
+00:05:28,840 --> 00:05:32,960
+<font backgroundcolor="#000000"> Tutaj można nie mieć butów. </font>
+<font backgroundcolor="#000000"> Inna skala potrzeb. </font>
+
+59
+00:05:33,120 --> 00:05:38,680
+<font backgroundcolor="#000000"> Jak widzimy bosego człowieka, </font>
+<font backgroundcolor="#000000"> nie musimy konieczne załamywać rąk. </font>
+
+60
+00:05:38,840 --> 00:05:43,640
+<font backgroundcolor="#000000"> Jak tu widzimy człowieka, </font>
+<font backgroundcolor="#000000"> który ma jedną jedyną koszulę, </font>
+
+61
+00:05:43,800 --> 00:05:47,920
+<font backgroundcolor="#000000"> nie musimy od razu </font>
+<font backgroundcolor="#000000"> kupować mu następnych koszul. </font>
+
+62
+00:05:48,080 --> 00:05:50,760
+<font backgroundcolor="#000000"> To w Europie potrzebujesz </font>
+
+63
+00:05:50,920 --> 00:05:55,680
+<font backgroundcolor="#000000"> ubrania na zimę, </font>
+<font backgroundcolor="#000000"> na jesień, na wiosnę, na lato. </font>
+
+64
+00:05:55,840 --> 00:06:01,640
+<font backgroundcolor="#000000"> A tu? Jak ci się podrze </font>
+<font backgroundcolor="#000000"> ta jedna koszula, kupujesz następną. </font>
+
+65
+00:06:02,040 --> 00:06:04,480
+<font backgroundcolor="#000000"> Bieda? </font>
+
+66
+00:06:04,640 --> 00:06:06,920
+<font backgroundcolor="#000000"> A zajrzyjmy tam w okno. </font>
+
+67
+00:06:07,120 --> 00:06:09,120
+<font backgroundcolor="#000000"> Meblościanka, stereo, </font>
+
+68
+00:06:09,280 --> 00:06:15,240
+<font backgroundcolor="#000000"> a na prawo widać, że muszą mieć </font>
+<font backgroundcolor="#000000"> telewizor i DVD, bo płyt nakupowali. </font>
+
+69
+00:06:15,400 --> 00:06:17,520
+<font backgroundcolor="#000000"> Czy to jest bieda? </font>
+
+70
+00:06:17,680 --> 00:06:21,960
+<font backgroundcolor="#000000"> To nie jest bieda, </font>
+<font backgroundcolor="#000000"> to jest inna skala potrzeb. </font>
+
+71
+00:06:22,120 --> 00:06:24,280
+<font backgroundcolor="#000000"> Tutaj dowód koronny. </font>
+
+72
+00:06:24,480 --> 00:06:29,120
+<font backgroundcolor="#000000"> W dzielnicy biedy klima? </font>
+<font backgroundcolor="#000000"> U nas to jest oznaka luksusu. </font>
+
+73
+00:06:29,280 --> 00:06:34,120
+<font backgroundcolor="#000000"> A tu klima włączona w nocy </font>
+<font backgroundcolor="#000000"> przegania komary malaryczne. </font>
+
+74
+00:06:34,280 --> 00:06:37,800
+<font backgroundcolor="#000000"> Jest niezbędna. Tak jak w Polsce buty. </font>
+
+75
+00:06:59,400 --> 00:07:01,400
+<font backgroundcolor="#000000"> Chodź pan... </font>
+
+76
+00:07:01,560 --> 00:07:07,800
+<font backgroundcolor="#000000"> Niedzielny grill w dzielnicy biedy </font>
+<font backgroundcolor="#000000"> nie różni się niczym od naszego. </font>
+
+77
+00:07:07,960 --> 00:07:11,760
+<font backgroundcolor="#000000"> Jest kiełbaska, </font>
+<font backgroundcolor="#000000"> jest rybka i jest kurczaczek. </font>
+
+78
+00:07:11,920 --> 00:07:14,680
+<font backgroundcolor="#000000"> Byłaby wołowina, gdyby nie to, </font>
+
+79
+00:07:14,840 --> 00:07:20,040
+<font backgroundcolor="#000000"> że w Brazylii wołowina </font>
+<font backgroundcolor="#000000"> to podłe mięso, którego jest pełno. </font>
+
+80
+00:07:20,200 --> 00:07:23,040
+<font backgroundcolor="#000000"> Pani się pokaże do kamery. </font>
+
+81
+00:07:23,240 --> 00:07:27,320
+<font backgroundcolor="#000000"> Ona przygotowała jedzenie </font>
+<font backgroundcolor="#000000"> i będziemy jedli. </font>
+
+82
+00:07:30,880 --> 00:07:34,400
+<font backgroundcolor="#000000"> I jeszcze coś pokażę. </font>
+<font backgroundcolor="#000000"> Nikt nie uwierzy. </font>
+
+83
+00:07:34,560 --> 00:07:36,640
+<font backgroundcolor="#000000"> Musi pan wejść do góry. </font>
+
+84
+00:07:36,800 --> 00:07:41,800
+<font backgroundcolor="#000000"> Na razie nie ma wody, </font>
+<font backgroundcolor="#000000"> ale to jest basen dla dzieci. </font>
+
+85
+00:07:42,040 --> 00:07:46,280
+<font backgroundcolor="#000000"> W dzielnicy biedy ludzie </font>
+<font backgroundcolor="#000000"> mają identyczne potrzeby </font>
+
+86
+00:07:46,440 --> 00:07:48,920
+<font backgroundcolor="#000000"> jak w dzielnicach luksusu. </font>
+
+87
+00:07:49,080 --> 00:07:55,560
+<font backgroundcolor="#000000"> Spełniają je czasami w inny, prostszy </font>
+<font backgroundcolor="#000000"> sposób - bawią się w beczce wody. </font>
+
+88
+00:08:28,680 --> 00:08:32,360
+<font backgroundcolor="#000000"> A gdzie powstają </font>
+<font backgroundcolor="#000000"> takie dzielnice biedy? </font>
+
+89
+00:08:32,520 --> 00:08:34,720
+<font backgroundcolor="#000000"> Na ziemi niczyjej. </font>
+
+90
+00:08:34,960 --> 00:08:39,600
+<font backgroundcolor="#000000"> Ziemią niczyją jest np. koryto rzeki. </font>
+
+91
+00:08:40,280 --> 00:08:44,960
+<font backgroundcolor="#000000"> Tutaj rzeka czasami jest, </font>
+<font backgroundcolor="#000000"> czasami jej nie ma. </font>
+
+92
+00:08:45,120 --> 00:08:50,200
+<font backgroundcolor="#000000"> Amazonka jak wody przygna, </font>
+<font backgroundcolor="#000000"> to dochodzi aż tam. </font>
+
+93
+00:08:50,360 --> 00:08:55,960
+<font backgroundcolor="#000000"> Ze cztery metry nad moją głową </font>
+<font backgroundcolor="#000000"> widać taką czarną krechę na domu. </font>
+
+94
+00:08:56,120 --> 00:08:58,640
+<font backgroundcolor="#000000"> Tam była w tym roku woda. </font>
+
+95
+00:08:58,800 --> 00:09:01,800
+<font backgroundcolor="#000000"> A to nieatrakcyjna ziemia niczyja. </font>
+
+96
+00:09:01,960 --> 00:09:06,720
+<font backgroundcolor="#000000"> A skoro niczyja, </font>
+<font backgroundcolor="#000000"> to mogę przyjść i sobie zająć parcelę. </font>
+
+97
+00:09:06,920 --> 00:09:10,640
+<font backgroundcolor="#000000"> Tam widać, ktoś już </font>
+<font backgroundcolor="#000000"> sobie zajmuje parcelę. </font>
+
+98
+00:09:10,800 --> 00:09:13,640
+<font backgroundcolor="#000000"> Coś się zawaliło, zostały słupki </font>
+
+99
+00:09:13,800 --> 00:09:18,240
+<font backgroundcolor="#000000"> i z recyklingu mamy słupy, </font>
+<font backgroundcolor="#000000"> które podeprą nasz dom. </font>
+
+100
+00:09:18,400 --> 00:09:22,360
+<font backgroundcolor="#000000"> Z recyklingu, </font>
+<font backgroundcolor="#000000"> bo tu pełno wszystkiego leży, </font>
+
+101
+00:09:22,520 --> 00:09:24,840
+<font backgroundcolor="#000000"> mamy także kupę desek. </font>
+
+102
+00:09:25,480 --> 00:09:28,840
+<font backgroundcolor="#000000"> Już jest właściciel do tych desek. </font>
+
+103
+00:09:29,000 --> 00:09:35,000
+<font backgroundcolor="#000000"> Ta kupa desek posłuży nam za ściany, </font>
+<font backgroundcolor="#000000"> za drzwi, za daszek, za podłogę. </font>
+
+104
+00:09:35,160 --> 00:09:39,800
+<font backgroundcolor="#000000"> Trzeba włożyć </font>
+<font backgroundcolor="#000000"> tylko trochę pracy i mamy dom. </font>
+
+105
+00:09:39,960 --> 00:09:44,240
+<font backgroundcolor="#000000"> Jeden, drugi, trzeci... Szeregówka. </font>
+
+106
+00:09:44,480 --> 00:09:49,320
+<font backgroundcolor="#000000"> Co trzeba zrobić u nas, </font>
+<font backgroundcolor="#000000"> żeby mieć segment w szeregówce? </font>
+
+107
+00:09:49,480 --> 00:09:55,280
+<font backgroundcolor="#000000"> Trzeba sobie założyć pętlę </font>
+<font backgroundcolor="#000000"> 30-letniego kredytu na szyję. </font>
+
+108
+00:09:55,440 --> 00:10:01,920
+<font backgroundcolor="#000000"> Wtedy dom masz od razu, ale potem </font>
+<font backgroundcolor="#000000"> przez 30 lat jesteś niewolnikiem. </font>
+
+109
+00:10:02,080 --> 00:10:04,560
+<font backgroundcolor="#000000"> A tutaj ludzie są wolni. </font>
+
+110
+00:10:04,760 --> 00:10:11,120
+<font backgroundcolor="#000000"> Biorą drewno, biorą ziemię, biorą się </font>
+<font backgroundcolor="#000000"> do roboty, budują sobie dom i mają. </font>
+
+111
+00:10:11,280 --> 00:10:13,080
+<font backgroundcolor="#000000"> 30 lat nie wytrzyma, </font>
+
+112
+00:10:13,240 --> 00:10:18,160
+<font backgroundcolor="#000000"> ale jak się zawali, </font>
+<font backgroundcolor="#000000"> biorą się do roboty i mają następny. </font>
+
+113
+00:10:18,320 --> 00:10:22,840
+<font backgroundcolor="#000000"> A potem następny. </font>
+<font backgroundcolor="#000000"> I tak przez 30 lat wolnego życia. </font>
+
+114
+00:10:57,000 --> 00:10:59,200
+<font backgroundcolor="#000000"> Ludzie sobie radzą. </font>
+
+115
+00:11:00,000 --> 00:11:02,040
+<font backgroundcolor="#000000"> Każdy dom ma prąd. </font>
+
+116
+00:11:02,200 --> 00:11:04,280
+<font backgroundcolor="#000000"> Ludzi sobie radzą. </font>
+
+117
+00:11:04,440 --> 00:11:08,840
+<font backgroundcolor="#000000"> Jak ktoś stawia pytanie - </font>
+<font backgroundcolor="#000000"> A z czego tu ludzie żyją? </font>
+
+118
+00:11:09,000 --> 00:11:12,840
+<font backgroundcolor="#000000"> Lokalny proboszcz odpowiada: "Z cudu". </font>
+
+119
+00:11:13,000 --> 00:11:18,040
+<font backgroundcolor="#000000"> Zarabiają tysiąc, </font>
+<font backgroundcolor="#000000"> wydają dwa, a odkładają trzy. </font>
+
+120
+00:11:18,200 --> 00:11:24,680
+<font backgroundcolor="#000000"> To jest pogranicze społeczeństwa, </font>
+<font backgroundcolor="#000000"> to jest pogranicze miasta, </font>
+
+121
+00:11:24,840 --> 00:11:27,720
+<font backgroundcolor="#000000"> to jest pogranicze wszystkiego. </font>
+
+122
+00:11:27,880 --> 00:11:31,720
+<font backgroundcolor="#000000"> Obowiązują tu takie </font>
+<font backgroundcolor="#000000"> dzikie prawa pogranicza. </font>
+
+123
+00:11:31,880 --> 00:11:36,600
+<font backgroundcolor="#000000"> Prąd się bierze. </font>
+<font backgroundcolor="#000000"> Z przyrody. Ciągnie się z miasta. </font>
+
+124
+00:11:36,760 --> 00:11:38,840
+<font backgroundcolor="#000000"> On tam istnieje. </font>
+
+125
+00:11:39,000 --> 00:11:44,320
+<font backgroundcolor="#000000"> Wodę bierze się z przyrody, </font>
+<font backgroundcolor="#000000"> ona tam istnieje, płynie w rurach. </font>
+
+126
+00:11:44,480 --> 00:11:47,200
+<font backgroundcolor="#000000"> Podłączamy się do rury i jest. </font>
+
+127
+00:11:47,360 --> 00:11:51,240
+<font backgroundcolor="#000000"> Tu są inne prawa </font>
+<font backgroundcolor="#000000"> i zaraz by pan wpadł do dziury. </font>
+
+128
+00:12:15,680 --> 00:12:18,040
+<font backgroundcolor="#000000"> A co to? </font>
+
+129
+00:12:18,720 --> 00:12:21,240
+<font backgroundcolor="#000000"> "Correio" - poczta. </font>
+
+130
+00:12:21,400 --> 00:12:25,640
+<font backgroundcolor="#000000"> Z tej poczty listy </font>
+<font backgroundcolor="#000000"> trafiają na prawdziwą pocztę. </font>
+
+131
+00:12:25,800 --> 00:12:30,000
+<font backgroundcolor="#000000"> Pani ma znaczki </font>
+<font backgroundcolor="#000000"> i pani zarabia jakiś mikrogrosz. </font>
+
+132
+00:12:30,160 --> 00:12:34,840
+<font backgroundcolor="#000000"> To jest skrzynka pocztowa </font>
+<font backgroundcolor="#000000"> i tutaj się wrzuca listy. </font>
+
+133
+00:13:00,880 --> 00:13:03,040
+<font backgroundcolor="#000000"> Bieda. </font>
+
+134
+00:13:03,600 --> 00:13:08,520
+<font backgroundcolor="#000000"> Gdybym w teleturnieju "Skojarzenia" </font>
+<font backgroundcolor="#000000"> rzucił hasło "bieda", </font>
+
+135
+00:13:08,680 --> 00:13:11,680
+<font backgroundcolor="#000000"> większość odpowiedziałaby "brud". </font>
+
+136
+00:13:11,840 --> 00:13:13,800
+<font backgroundcolor="#000000"> Czy tu jest brudno? </font>
+
+137
+00:13:13,960 --> 00:13:18,880
+<font backgroundcolor="#000000"> Tu jest biednie, ale widać </font>
+<font backgroundcolor="#000000"> jednocześnie, że posprzątane. </font>
+
+138
+00:13:19,080 --> 00:13:22,520
+<font backgroundcolor="#000000"> Tam ciurka, bo ktoś bierze prysznic. </font>
+
+139
+00:13:22,680 --> 00:13:27,640
+<font backgroundcolor="#000000"> Tu za mną ciurka i tam ciurka, </font>
+<font backgroundcolor="#000000"> bo ktoś bierze prysznic. </font>
+
+140
+00:13:27,800 --> 00:13:29,880
+<font backgroundcolor="#000000"> Wszyscy biorą prysznic? </font>
+
+141
+00:13:30,040 --> 00:13:34,600
+<font backgroundcolor="#000000"> Bo co - jak ktoś biedny, </font>
+<font backgroundcolor="#000000"> to lubi zarastać brudem? Nie. </font>
+
+142
+00:13:34,760 --> 00:13:40,080
+<font backgroundcolor="#000000"> W ramach swoich możliwości </font>
+<font backgroundcolor="#000000"> też lubi czystość i porządek. </font>
+
+143
+00:13:40,560 --> 00:13:43,160
+<font backgroundcolor="#000000"> I lubi mieć ładnie pomalowane. </font>
+
+144
+00:13:43,320 --> 00:13:49,520
+<font backgroundcolor="#000000"> A że każdy kawałek domu z innej </font>
+<font backgroundcolor="#000000"> pół puszki farby, to już inna sprawa. </font>
+
+145
+00:15:09,120 --> 00:15:11,920
+<font backgroundcolor="#000000"> "Kevin sam w domu II". </font>
+
+146
+00:15:12,080 --> 00:15:14,480
+<font backgroundcolor="#000000"> Poznają państwo ten film? </font>
+
+147
+00:15:14,640 --> 00:15:17,920
+<font backgroundcolor="#000000"> Normalny telewizor i normalny odbiór, </font>
+
+148
+00:15:18,080 --> 00:15:24,040
+<font backgroundcolor="#000000"> tak jak u nas w niektórych częściach </font>
+<font backgroundcolor="#000000"> kraju, jak się antena przekrzywi. </font>
+
+149
+00:15:24,200 --> 00:15:26,720
+<font backgroundcolor="#000000"> Salon. Tak się siada w hamaku, </font>
+
+150
+00:15:26,880 --> 00:15:30,480
+<font backgroundcolor="#000000"> jak się chce odpocząć </font>
+<font backgroundcolor="#000000"> i pooglądać telewizję. </font>
+
+151
+00:15:48,440 --> 00:15:54,560
+<font backgroundcolor="#000000"> Chodzenie tutaj to nie jest </font>
+<font backgroundcolor="#000000"> najlepszy pomysł. Dzień dobry pani. </font>
+
+152
+00:16:03,280 --> 00:16:06,480
+<font backgroundcolor="#000000"> Ta pani ma 68 lat. </font>
+
+153
+00:16:07,160 --> 00:16:11,360
+<font backgroundcolor="#000000"> Średnia długość życia </font>
+<font backgroundcolor="#000000"> w Brazylii to jest 68 lat. </font>
+
+154
+00:16:11,520 --> 00:16:15,080
+<font backgroundcolor="#000000"> A takiej biednej dzielnicy - 48. </font>
+
+155
+00:16:15,240 --> 00:16:19,760
+<font backgroundcolor="#000000"> Jak ktoś coś takiego usłyszy, </font>
+<font backgroundcolor="#000000"> od razu ręce załamuje. </font>
+
+156
+00:16:19,920 --> 00:16:23,160
+<font backgroundcolor="#000000"> "Bieda ludzi wykańcza, nie dojadają". </font>
+
+157
+00:16:23,320 --> 00:16:27,640
+<font backgroundcolor="#000000"> Nie dojadają? </font>
+<font backgroundcolor="#000000"> Tutaj chudych nie widzieliśmy. </font>
+
+158
+00:16:27,840 --> 00:16:33,680
+<font backgroundcolor="#000000"> Ta niska długość życia w tej dzielnicy </font>
+<font backgroundcolor="#000000"> wynika ze specyfiki środowiska. </font>
+
+159
+00:16:33,840 --> 00:16:37,680
+<font backgroundcolor="#000000"> Młodzież angażuje się </font>
+<font backgroundcolor="#000000"> w szemrane interesy. </font>
+
+160
+00:16:37,840 --> 00:16:42,280
+<font backgroundcolor="#000000"> Czasem z nożem </font>
+<font backgroundcolor="#000000"> wychodzi gdzieś w nocy i nie wraca. </font>
+
+161
+00:16:42,440 --> 00:16:44,320
+<font backgroundcolor="#000000"> Ale zdrowi są. </font>
+
+162
+00:16:44,480 --> 00:16:48,760
+<font backgroundcolor="#000000"> Powiedzą to państwu </font>
+<font backgroundcolor="#000000"> ksiądz i lekarz z tej okolicy. </font>
+
+163
+00:16:48,920 --> 00:16:51,800
+<font backgroundcolor="#000000"> Zdrowsi niż reszta towarzystwa. </font>
+
+164
+00:16:51,960 --> 00:16:55,520
+<font backgroundcolor="#000000"> Po prostu środowisko </font>
+<font backgroundcolor="#000000"> trochę niebezpieczne. </font>
+
+165
+00:16:55,680 --> 00:17:01,800
+<font backgroundcolor="#000000"> Gdybyśmy zmierzyli średnią długość </font>
+<font backgroundcolor="#000000"> życia w dzielnicy górniczej w Polsce, </font>
+
+166
+00:17:01,960 --> 00:17:05,880
+<font backgroundcolor="#000000"> to też byłaby niższa </font>
+<font backgroundcolor="#000000"> niż w całej populacji. </font>
+
+167
+00:17:06,040 --> 00:17:11,120
+<font backgroundcolor="#000000"> Bo górnicy mają </font>
+<font backgroundcolor="#000000"> niebezpieczne środowisko pracy. </font>
+
+168
+00:17:11,400 --> 00:17:14,640
+<font backgroundcolor="#000000"> A poziom życia w dzielnicy górniczej </font>
+
+169
+00:17:14,800 --> 00:17:18,640
+<font backgroundcolor="#000000"> wcale nie musi być </font>
+<font backgroundcolor="#000000"> niższy niż gdzie indziej. </font>
+
+170
+00:17:18,800 --> 00:17:22,280
+<font backgroundcolor="#000000"> Są plazmy, są telewizory, jest bogato. </font>
+
+171
+00:18:08,800 --> 00:18:13,520
+<font backgroundcolor="#000000"> W dzielnicy biedy </font>
+<font backgroundcolor="#000000"> się pije i ogląda telewizję. </font>
+
+172
+00:18:13,680 --> 00:18:18,200
+<font backgroundcolor="#000000"> A jak człowiek pojedzie </font>
+<font backgroundcolor="#000000"> do polskiej dzielnicy biedy, </font>
+
+173
+00:18:18,360 --> 00:18:23,040
+<font backgroundcolor="#000000"> do jakiegoś zagłębia bezrobocia, </font>
+<font backgroundcolor="#000000"> na blokowisko, to co? </font>
+
+174
+00:18:23,200 --> 00:18:27,280
+<font backgroundcolor="#000000"> Same anteny satelitarne, </font>
+<font backgroundcolor="#000000"> takie jak tamta. </font>
+
+175
+00:18:29,800 --> 00:18:34,680
+<font backgroundcolor="#000000"> Do tego piwko, calypso i telewizja. </font>
+
+176
+00:19:16,080 --> 00:19:20,720
+<font backgroundcolor="#000000"> Biedna dzielnica, </font>
+<font backgroundcolor="#000000"> niebezpieczna dzielnica. </font>
+
+177
+00:19:21,040 --> 00:19:25,560
+<font backgroundcolor="#000000"> Jak taksówkarz się dowiedział, </font>
+<font backgroundcolor="#000000"> gdzie chcemy jechać, </font>
+
+178
+00:19:25,720 --> 00:19:31,000
+<font backgroundcolor="#000000"> zawrócił na jednej oponie </font>
+<font backgroundcolor="#000000"> i powiedział: "Pan idzie piechotą". </font>
+
+179
+00:19:31,160 --> 00:19:33,680
+<font backgroundcolor="#000000"> Czy tu są jacyś inni ludzie? </font>
+
+180
+00:19:33,840 --> 00:19:39,720
+<font backgroundcolor="#000000"> Czy tu jest więcej cwaniaków i świń </font>
+<font backgroundcolor="#000000"> niż w dzielnicach bogatych? </font>
+
+181
+00:19:40,000 --> 00:19:42,720
+<font backgroundcolor="#000000"> Nie, tyle samo. </font>
+
+182
+00:19:42,880 --> 00:19:47,360
+<font backgroundcolor="#000000"> Tylko, że tu cwaniak </font>
+<font backgroundcolor="#000000"> to cwaniak, świnia to świnia. </font>
+
+183
+00:19:47,520 --> 00:19:51,080
+<font backgroundcolor="#000000"> Cwaniak chodzi z nożem, </font>
+<font backgroundcolor="#000000"> może cię kujnąć. </font>
+
+184
+00:19:51,240 --> 00:19:55,640
+<font backgroundcolor="#000000"> A w bogatej dzielnicy </font>
+<font backgroundcolor="#000000"> cwaniak zostaje burmistrzem, </font>
+
+185
+00:19:55,800 --> 00:19:59,040
+<font backgroundcolor="#000000"> a świnia to na przykład twój szef. </font>
+
+186
+00:19:59,200 --> 00:20:04,400
+<font backgroundcolor="#000000"> Ale proporcjonalnie cwaniaków i świń </font>
+<font backgroundcolor="#000000"> jest wszędzie tyle samo. </font>
+
+187
+00:20:04,560 --> 00:20:10,480
+<font backgroundcolor="#000000"> I ja nawet wolę tutaj, bo od razu </font>
+<font backgroundcolor="#000000"> widzę, z kim mam do czynienia. </font>
+
+188
+00:21:12,040 --> 00:21:14,120
+<font backgroundcolor="#000000"> Syjamski. </font>
+
+189
+00:21:14,440 --> 00:21:17,480
+<font backgroundcolor="#000000"> Rasowy, w dzielnicy biedy. </font>
+
+190
+00:21:41,200 --> 00:21:46,080
+<font backgroundcolor="#000000"> Dzielnica biedy - a kolorowa i wesoła. </font>
+
+191
+00:21:46,440 --> 00:21:50,480
+<font backgroundcolor="#000000"> A ludzie żyją dostatnio, jak widać. </font>
+
+192
+00:21:50,720 --> 00:21:53,240
+<font backgroundcolor="#000000"> Na czym to polega? </font>
+
+193
+00:21:55,560 --> 00:21:58,280
+<font backgroundcolor="#000000"> Tutaj to nie jest zsyłka. </font>
+
+194
+00:21:58,680 --> 00:22:01,000
+<font backgroundcolor="#000000"> Tu się mieszka z wyboru. </font>
+
+195
+00:22:01,160 --> 00:22:06,000
+<font backgroundcolor="#000000"> Ten pan, który oprowadzał </font>
+<font backgroundcolor="#000000"> nas dzisiaj z żoną po okolicy, </font>
+
+196
+00:22:06,160 --> 00:22:12,800
+<font backgroundcolor="#000000"> dla bezpieczeństwa - żeby wszyscy </font>
+<font backgroundcolor="#000000"> widzieli, że chodzimy z kimś stąd, </font>
+
+197
+00:22:12,960 --> 00:22:15,960
+<font backgroundcolor="#000000"> więc ten pan jest wojskowym. </font>
+
+198
+00:22:16,120 --> 00:22:20,000
+<font backgroundcolor="#000000"> Mógłby mieszkać </font>
+<font backgroundcolor="#000000"> w dobrej wojskowej dzielnicy. </font>
+
+199
+00:22:20,160 --> 00:22:25,960
+<font backgroundcolor="#000000"> Na razie nie mieszka. Może mu kiedyś </font>
+<font backgroundcolor="#000000"> zaproponują, to się przeniesie. </font>
+
+200
+00:22:26,120 --> 00:22:30,640
+<font backgroundcolor="#000000"> A teraz mieszka tu, </font>
+<font backgroundcolor="#000000"> gdzie się urodził i wychował. </font>
+
+201
+00:22:30,800 --> 00:22:36,040
+<font backgroundcolor="#000000"> Są często takie akcje rządowe, </font>
+<font backgroundcolor="#000000"> które oglądamy w Wiadomościach. </font>
+
+202
+00:22:36,200 --> 00:22:39,600
+<font backgroundcolor="#000000"> Wywózka dzielnic biedy </font>
+<font backgroundcolor="#000000"> w lepsze miejsce, </font>
+
+203
+00:22:39,760 --> 00:22:45,520
+<font backgroundcolor="#000000"> gdzie rząd postawił ludziom domy, </font>
+<font backgroundcolor="#000000"> zamontował liczniki prądu i wody. </font>
+
+204
+00:22:45,680 --> 00:22:50,120
+<font backgroundcolor="#000000"> Ci wszyscy ludzie stąd, </font>
+<font backgroundcolor="#000000"> który dostaną takie domy, </font>
+
+205
+00:22:50,280 --> 00:22:55,480
+<font backgroundcolor="#000000"> po jakimś czasie to sprzedają, </font>
+<font backgroundcolor="#000000"> bo dostali za darmo hipotekę, </font>
+
+206
+00:22:55,640 --> 00:22:59,440
+<font backgroundcolor="#000000"> biorą pieniądze </font>
+<font backgroundcolor="#000000"> i wracają na stare śmieci. </font>
+
+207
+00:22:59,600 --> 00:23:02,920
+<font backgroundcolor="#000000"> Jest coś takiego jak </font>
+<font backgroundcolor="#000000"> urok szarej strefy. </font>
+
+208
+00:23:03,080 --> 00:23:06,080
+<font backgroundcolor="#000000"> Ten świat tu to jest szara strefa. </font>
+
+209
+00:23:06,240 --> 00:23:08,680
+<font backgroundcolor="#000000"> Tutaj się nie płaci podatków, </font>
+
+210
+00:23:08,840 --> 00:23:13,080
+<font backgroundcolor="#000000"> tutaj ma się adres, </font>
+<font backgroundcolor="#000000"> ale nie jest się zameldowanym, </font>
+
+211
+00:23:13,240 --> 00:23:19,240
+<font backgroundcolor="#000000"> tu się nie płaci za prąd ani za wodę, </font>
+<font backgroundcolor="#000000"> ani za parcelę, za nic. </font>
+
+212
+00:23:52,400 --> 00:23:55,440
+<font backgroundcolor="#000000"> Atonio Brzęczyszczykiewicz. </font>
+
+213
+00:23:55,960 --> 00:24:00,080
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> DZIECI PRÓBUJĄ POWTÓRZYĆ </font></font>
+
+214
+00:24:03,600 --> 00:24:06,960
+<font backgroundcolor="#000000"> Antonio Cejrowski. </font>
+
+215
+00:24:08,320 --> 00:24:15,400
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+216
+00:24:15,560 --> 00:24:20,120
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+
+217
+00:24:20,520 --> 00:24:25,920
+<font backgroundcolor="#000000"> . </font>
+

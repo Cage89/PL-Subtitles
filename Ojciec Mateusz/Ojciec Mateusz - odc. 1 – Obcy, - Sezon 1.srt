@@ -1,0 +1,2042 @@
+1
+00:01:34,000 --> 00:01:37,880
+<font color="aqua">Proszę.</font>
+<font color="#16F158">Nie, dziękuję bardzo.</font>
+
+2
+00:01:40,000 --> 00:01:44,680
+<font color="aqua">Od mamy. Dawno nie jadłem.</font>
+<font color="#16F158">Smacznego.</font>
+
+3
+00:01:45,880 --> 00:01:49,600
+<font color="aqua">Po każdych odwiedzinach</font>
+<font color="aqua">muszę dietę trzymać.</font>
+
+4
+00:01:49,760 --> 00:01:51,880
+<font color="#16F158">Doskonale pan wygląda.</font>
+
+5
+00:01:54,560 --> 00:01:59,480
+<font color="aqua">Z ludźmi pracuję.</font>
+<font color="aqua">Prezencję muszę trzymać, formę.</font>
+
+6
+00:01:59,640 --> 00:02:04,880
+<font color="aqua">Ciągle mi o tym szef przypomina.</font>
+<font color="#16F158">Mój też często to powtarza.</font>
+
+7
+00:02:13,640 --> 00:02:16,600
+<font color="aqua">Może serniczka?</font>
+<font color="aqua">Grzech nie spróbować.</font>
+
+8
+00:02:16,760 --> 00:02:19,800
+<font color="aqua">Mamusia robi najlepszy na świecie.</font>
+
+9
+00:02:19,960 --> 00:02:25,480
+<font color="#16F158">Jak miałbym grzeszyć, to spróbuję.</font>
+<font color="aqua">Proszę.</font>
+
+10
+00:02:30,120 --> 00:02:32,160
+<font color="aqua">Dobry.</font>
+
+11
+00:02:33,320 --> 00:02:38,160
+<font color="aqua">Kruchy, taki jest najlepszy.</font>
+<font color="#16F158">Rzeczywiście bardzo dobry.</font>
+
+12
+00:02:38,320 --> 00:02:45,440
+<font color="aqua">Mamusia robi jeszcze taki sernik</font>
+<font color="aqua">z polewą czekoladową. Niebo w gębie.</font>
+
+13
+00:02:50,040 --> 00:02:52,080
+<font color="aqua">Dojeżdżamy.</font>
+
+14
+00:02:55,560 --> 00:02:58,920
+<font color="aqua">Jeszcze raz dziękuję</font>
+<font color="aqua">za miłe towarzystwo.</font>
+
+15
+00:02:59,080 --> 00:03:02,240
+<font color="#16F158">Cała przyjemność po mojej stronie.</font>
+
+16
+00:03:03,640 --> 00:03:06,800
+<font color="aqua">Miałem taki.</font>
+
+17
+00:03:03,640 --> 00:03:06,800
+<font color="#16F158">Przecież to stary grat.</font>
+
+18
+00:03:06,960 --> 00:03:10,360
+<font color="aqua">Był nie do zdarcia.</font>
+<font color="aqua">Teraz jest w piwnicy.</font>
+
+19
+00:03:10,520 --> 00:03:13,800
+<font color="#16F158">Ten się świetnie sprawuje.</font>
+<font color="#16F158">Miłego dnia.</font>
+
+20
+00:03:13,960 --> 00:03:18,040
+<font color="#16F158">Proszę pozdrowić kolegów z komendy.</font>
+<font color="aqua">Do widzenia.</font>
+
+21
+00:03:18,800 --> 00:03:21,640
+<font color="aqua">Z komendy? Skąd on wiedział?</font>
+
+22
+00:03:51,000 --> 00:03:52,880
+<font color="#16F158">Szczęść Boże.</font>
+
+23
+00:04:03,240 --> 00:04:05,240
+<font color="#16F158">Szczęść Boże.</font>
+
+24
+00:04:07,640 --> 00:04:12,200
+Mateusz! Nawet nie wiesz,
+jak się cieszę.
+
+25
+00:04:14,040 --> 00:04:18,400
+<font color="#16F158">Przepraszam za spóźnienie.</font>
+
+26
+00:04:14,040 --> 00:04:18,400
+Nic się nie zmieniłeś.
+
+27
+00:04:20,560 --> 00:04:23,880
+Brakowało nam ciebie.
+
+28
+00:04:20,560 --> 00:04:23,880
+<font color="#16F158">Ja też tęskniłem.</font>
+
+29
+00:04:24,040 --> 00:04:28,280
+<font color="#16F158">Chociaż mój powrót</font>
+<font color="#16F158">to nie do końca moja decyzja.</font>
+
+30
+00:04:28,440 --> 00:04:30,640
+Dotarły do mnie wiadomości,
+
+31
+00:04:30,800 --> 00:04:34,000
+że poproszono cię
+o wyjazd z Białorusi.
+
+32
+00:04:34,160 --> 00:04:36,160
+<font color="#16F158">Z tą prośbą to przesada.</font>
+
+33
+00:04:36,320 --> 00:04:39,720
+<font color="#16F158">Często miałem</font>
+<font color="#16F158">wizyty białoruskiej milicji.</font>
+
+34
+00:04:39,880 --> 00:04:44,960
+<font color="#16F158">A gdy wracałem z rekolekcji</font>
+<font color="#16F158">w Rostowie, nie wpuszczono mnie.</font>
+
+35
+00:04:45,120 --> 00:04:49,040
+Współczuję ci, bo wiem,
+ile roboty w to włożyłeś.
+
+36
+00:04:49,200 --> 00:04:54,360
+<font color="#16F158">Widocznie Pan Bóg tak chciał.</font>
+Ale wiedz, że cenię cię i ufam ci.
+
+37
+00:04:54,520 --> 00:04:57,800
+<font color="#16F158">Postaram się nie zawieść</font>
+<font color="#16F158">tego zaufania.</font>
+
+38
+00:04:57,960 --> 00:05:02,440
+Tu nie ma takich problemów.
+Mam dla ciebie propozycję.
+
+39
+00:05:02,600 --> 00:05:06,400
+Znasz parafię
+Matki Bożej Nieustającej Pomocy?
+
+40
+00:05:06,560 --> 00:05:09,840
+Ksiądz Napiórkowski
+był tam proboszczem.
+
+41
+00:05:10,000 --> 00:05:15,040
+<font color="#16F158">Łukasz Uśmiechnięty. Pamiętam.</font>
+Odszedł do Pana miesiąc temu.
+
+42
+00:05:15,200 --> 00:05:17,160
+Z tym swoim uśmiechem.
+
+43
+00:05:17,320 --> 00:05:22,520
+Mamy wakat. Pomyślałem,
+że może ty zająłbyś jego miejsce.
+
+44
+00:05:23,600 --> 00:05:27,800
+<font color="#16F158">Nigdy nie pracowałem</font>
+<font color="#16F158">w zwyczajnym duszpasterstwie.</font>
+
+45
+00:05:27,960 --> 00:05:29,960
+To popracujesz.
+
+46
+00:05:31,720 --> 00:05:35,680
+<font color="#16F158">Może jednak w seminarium,</font>
+<font color="#16F158">z młodzieżą - lepiej.</font>
+
+47
+00:05:35,840 --> 00:05:39,240
+Na pewno poproszą cię
+o jakieś wykłady.
+
+48
+00:05:40,480 --> 00:05:46,400
+<font color="#16F158">Jeżeli ksiądz biskup nie obawia się,</font>
+<font color="#16F158">że komuś tam poprzewracam w głowie,</font>
+
+49
+00:05:46,560 --> 00:05:48,440
+<font color="#16F158">to oczywiście.</font>
+
+50
+00:05:48,600 --> 00:05:53,720
+Jeżeli się boję, to jednego.
+Jak wytrzymają z tobą parafianie.
+
+51
+00:05:53,880 --> 00:05:58,240
+To spokojni ludzie.
+Nie potrzebują żadnych rewolucji.
+
+52
+00:05:58,400 --> 00:06:02,360
+<font color="#16F158">Dobrze.</font>
+
+53
+00:05:58,400 --> 00:06:02,360
+Mam prośbę.
+
+54
+00:06:06,120 --> 00:06:09,000
+<font color="#16F158">Oczywiście. Załatwię sobie coś.</font>
+
+55
+00:06:09,360 --> 00:06:12,240
+Nie masz sutanny?
+<font color="#16F158">Oddałem.</font>
+
+56
+00:06:13,840 --> 00:06:16,600
+Sutannę?
+
+57
+00:06:13,840 --> 00:06:16,600
+<font color="#16F158">Żartuję.</font>
+
+58
+00:06:17,320 --> 00:06:20,000
+<font color="#16F158">Mam, zachowałem sobie jedną.</font>
+
+59
+00:07:38,080 --> 00:07:40,080
+Zobacz, złodziej.
+
+60
+00:07:43,960 --> 00:07:47,680
+<font color="#FFFF51">Co pan tu robi? Do pana mówię!</font>
+
+61
+00:07:47,840 --> 00:07:52,000
+<font color="#16F158">Przepraszam, ja tutaj mam być</font>
+<font color="#16F158">nowym proboszczem.</font>
+
+62
+00:07:54,240 --> 00:07:57,960
+<font color="#FFFF51">Nie wygląda ksiądz na księdza.</font>
+I proboszcza.
+
+63
+00:07:58,120 --> 00:08:03,680
+<font color="#16F158">Ksiądz dziekan miał mnie oprowadzić</font>
+<font color="#16F158">po plebanii, ale minęliśmy się.</font>
+
+64
+00:08:03,840 --> 00:08:05,960
+<font color="#16F158">Ksiądz Mateusz Żmigrodzki.</font>
+
+65
+00:08:06,160 --> 00:08:08,600
+<font color="#FFFF51">Natalka. Byłam tu gospodynią.</font>
+
+66
+00:08:08,760 --> 00:08:12,000
+<font color="#FFFF51">To jest Piotr</font>
+<font color="#FFFF51">- kościelny i organista.</font>
+
+67
+00:08:12,600 --> 00:08:16,240
+<font color="#FFFF51">A to była ulubiona alba</font>
+<font color="#FFFF51">księdza Łukasza.</font>
+
+68
+00:08:16,520 --> 00:08:20,880
+<font color="#16F158">Chcę w niej w niedzielę</font>
+<font color="#16F158">odprawić mszę na inaugurację.</font>
+
+69
+00:08:21,040 --> 00:08:25,240
+<font color="#FFFF51">Nie, rękawy ma poprzecierane.</font>
+
+70
+00:08:21,040 --> 00:08:25,240
+<font color="#16F158">Będzie bardzo dobra.</font>
+
+71
+00:08:25,720 --> 00:08:30,080
+<font color="#FFFF51">Jak ksiądz uważa.</font>
+<font color="#16F158">Ktoś wam pomaga sprzątać kościół?</font>
+
+72
+00:08:30,240 --> 00:08:32,160
+<font color="#FFFF51">Coś się stało?</font>
+
+73
+00:08:32,320 --> 00:08:35,840
+<font color="#16F158">Nie, nic.</font>
+<font color="#16F158">Straszny kurz w konfesjonale.</font>
+
+74
+00:08:37,800 --> 00:08:39,640
+Nie przejmuj się.
+
+75
+00:08:39,800 --> 00:08:46,080
+Nowy proboszcz, tak samo jak stary,
+wszystko za ciebie sutanną powyciera.
+
+76
+00:08:49,600 --> 00:08:53,160
+<font color="#16F158">Oto Słowo Pańskie.</font>
+Chwała Tobie, Chryste.
+
+77
+00:08:57,880 --> 00:09:00,040
+<font color="#8080FF">MÓWI W JĘZYKU BIAŁORUSKIM</font>
+
+78
+00:09:00,200 --> 00:09:05,280
+<font color="#16F158">Wybaczcie,kochani,ale ostatnie lata</font>
+<font color="#16F158">spędziłem na Białorusi.</font>
+
+79
+00:09:05,440 --> 00:09:09,160
+<font color="#16F158">I w tym języku</font>
+<font color="#16F158">komunikowałem się z wiernymi.</font>
+
+80
+00:09:09,320 --> 00:09:12,240
+<font color="#16F158">Pewnie emocje to dziś spowodowały.</font>
+
+81
+00:09:12,400 --> 00:09:14,960
+<font color="#16F158">Ale zanim wyjechałem na wschód,</font>
+
+82
+00:09:15,120 --> 00:09:18,320
+<font color="#16F158">tu niedaleko urodziłem się</font>
+<font color="#16F158">i wychowałem.</font>
+
+83
+00:09:18,480 --> 00:09:22,840
+<font color="#16F158">Kilkadziesiąt kilometrów stąd</font>
+<font color="#16F158">jest mój dom rodzinny.</font>
+
+84
+00:09:23,000 --> 00:09:27,760
+<font color="#16F158">A do wyboru drogi duszpasterza</font>
+<font color="#16F158">namówił mnie nasz biskup.</font>
+
+85
+00:09:27,920 --> 00:09:29,800
+<font color="aqua">Znam go.</font>
+Skąd?
+
+86
+00:09:29,960 --> 00:09:31,800
+<font color="aqua">Później ci powiem.</font>
+
+87
+00:09:31,960 --> 00:09:36,920
+<font color="#16F158">Dzisiaj biskup przysyła mnie do was</font>
+<font color="#16F158">jako nowego proboszcza.</font>
+
+88
+00:09:37,080 --> 00:09:40,360
+<font color="#16F158">Żebym sprawował z wami</font>
+<font color="#16F158">tę świętą posługę</font>
+
+89
+00:09:40,520 --> 00:09:43,320
+<font color="#16F158">i żebyśmy wspólnie szli ku Panu.</font>
+
+90
+00:09:43,480 --> 00:09:46,800
+<font color="#16F158">Bo jestem tutaj po to,</font>
+<font color="#16F158">żeby wam służyć.</font>
+
+91
+00:09:46,960 --> 00:09:52,280
+<font color="#16F158">Chciałbym, żebyście traktowali mnie</font>
+<font color="#16F158">jak przyjaciela, jak brata.</font>
+
+92
+00:09:52,440 --> 00:09:57,840
+<font color="#16F158">Do którego zawsze można przyjść</font>
+<font color="#16F158">ze swoimi troskami, problemami.</font>
+
+93
+00:09:58,000 --> 00:10:02,200
+<font color="#16F158">Żebyśmy wspólnie mogli</font>
+<font color="#16F158">wasze problemy rozwiązywać.</font>
+
+94
+00:10:35,520 --> 00:10:39,600
+Wiem, że ta uroczysta chwila
+może nie jest dobra.
+
+95
+00:10:39,760 --> 00:10:44,920
+Ale chciałabym porozmawiać.
+Chodzi o pogrzeb mojego męża.
+
+96
+00:10:45,080 --> 00:10:50,880
+<font color="#16F158">Pani nie jest Polką?</font>
+Nie, Ormianka. Mój mąż też.
+
+97
+00:10:51,680 --> 00:10:53,800
+<font color="#16F158">Proszę mówić.</font>
+
+98
+00:10:55,360 --> 00:11:02,120
+Miał wypadek. Policja mówi,
+że to samobójstwo,że skoczył z mostu.
+
+99
+00:11:02,280 --> 00:11:07,000
+Ale to nieprawda.
+On nigdy by tego nie zrobił.
+
+100
+00:11:07,160 --> 00:11:10,920
+Nie miał powodu.
+Nie zostawiłby mnie tak.
+
+101
+00:11:11,280 --> 00:11:13,400
+Jesteśmy chrześcijanami.
+
+102
+00:11:13,560 --> 00:11:20,600
+Odebrać sobie życie - to jak zamknąć
+Bogu usta. To straszny grzech.
+
+103
+00:11:21,600 --> 00:11:24,760
+A Aram wierzył, całym sercem.
+
+104
+00:11:24,960 --> 00:11:30,240
+Może ksiądz spytać każdego,
+z kim pracował, nawet muzułmanów.
+
+105
+00:11:30,440 --> 00:11:33,760
+Taki człowiek nie podnosi
+ręki na życie.
+
+106
+00:11:33,920 --> 00:11:38,680
+<font color="#16F158">Jeżeli kochał Pana Boga,</font>
+<font color="#16F158">to on go na pewno nie zostawi.</font>
+
+107
+00:11:38,840 --> 00:11:43,960
+<font color="#16F158">W sprawie pogrzebu proszę przyjść</font>
+<font color="#16F158">jutro. Wszystko ustalimy.</font>
+
+108
+00:11:44,120 --> 00:11:46,160
+Dobrze.
+
+109
+00:12:30,360 --> 00:12:32,760
+<font color="#16F158">Panie Boże, jak jej pomóc?</font>
+
+110
+00:12:37,760 --> 00:12:40,920
+<font color="#16F158">Daj mi siłę, jeśli taka Twoja wola,</font>
+
+111
+00:12:41,080 --> 00:12:45,440
+<font color="#16F158">żebym mógł dać jej prawdę</font>
+<font color="#16F158">i nadzieję w rozpaczy.</font>
+
+112
+00:13:00,560 --> 00:13:03,040
+Muszę kończyć.
+
+113
+00:13:14,240 --> 00:13:19,560
+Przepraszam, co ksiądz tu robi?
+<font color="#16F158">Jestem umówiony z właścicielem.</font>
+
+114
+00:13:19,720 --> 00:13:23,320
+W jakiej sprawie?
+<font color="#16F158">Ksiądz Mateusz Żmigrodzki.</font>
+
+115
+00:13:23,480 --> 00:13:28,200
+Dyrektor papierni.
+To właściciel, pan Sierakowski.
+
+116
+00:13:29,840 --> 00:13:31,840
+Witam.
+<font color="#16F158">Dzień dobry.</font>
+
+117
+00:13:32,000 --> 00:13:35,880
+Ksiądz jest na pewno
+naszym nowym proboszczem.
+
+118
+00:13:36,040 --> 00:13:40,320
+<font color="#16F158">Ksiądz Mateusz Żmigrodzki.</font>
+Przepraszam za spóźnienie.
+
+119
+00:13:40,480 --> 00:13:45,400
+Sekretarka przed chwilą
+powiedziała mi o spotkaniu.
+
+120
+00:13:46,080 --> 00:13:51,400
+Czemu zawdzięczam tę miłą wizytę?
+<font color="#16F158">Chcę poznać nowych parafian.</font>
+
+121
+00:13:51,560 --> 00:13:57,400
+Sam bym przyszedł do księdza na mszę,
+ale ksiądz rozumie - masa spraw.
+
+122
+00:13:57,560 --> 00:14:01,200
+Staramy się zachować
+ciągłość produkcji.
+
+123
+00:14:01,360 --> 00:14:07,080
+Pracujemy nawet w niedziele.
+<font color="#16F158">Rozumiem.Ja też w niedziele pracuję.</font>
+
+124
+00:14:07,240 --> 00:14:10,520
+Zapraszam na gospodarstwo.
+
+125
+00:14:07,240 --> 00:14:10,520
+<font color="#16F158">Dziękuję.</font>
+
+126
+00:14:13,760 --> 00:14:17,280
+<font color="#16F158">Widzę, że zatrudniacie</font>
+<font color="#16F158">sporo cudzoziemców.</font>
+
+127
+00:14:17,440 --> 00:14:19,720
+Tyle się mówi o bezrobociu,
+
+128
+00:14:19,880 --> 00:14:25,000
+a prawda jest taka, że Polacy
+wyjechali i nie ma kto pracować.
+
+129
+00:14:25,160 --> 00:14:30,080
+Zwłaszcza w trudnych warunkach.
+Stąd tylu ludzi ze wschodu.
+
+130
+00:14:30,240 --> 00:14:33,400
+Prawie cały Kaukaz. Ale nie narzekam.
+
+131
+00:14:33,560 --> 00:14:38,240
+Mam problem z muzułmanami.
+Modlą się pięć razy dziennie.
+
+132
+00:14:38,400 --> 00:14:41,680
+<font color="#16F158">Gdyby chrześcijanie</font>
+<font color="#16F158">byli tacy gorliwi...</font>
+
+133
+00:14:41,840 --> 00:14:46,840
+Musiałbym zamknąć fabrykę.
+Pięć razy dziennie po 10 minut.
+
+134
+00:14:47,000 --> 00:14:51,840
+Musiałbym płacić za godzinę modlitwy,
+a nie za pracę.
+
+135
+00:14:52,000 --> 00:14:57,080
+<font color="#16F158">Niech pan to potraktuje</font>
+<font color="#16F158">jako inwestycję.Lokata na wieczność.</font>
+
+136
+00:14:57,240 --> 00:15:01,720
+Ja bym może i chciał,
+ale mój księgowy się nie zgadza.
+
+137
+00:15:01,880 --> 00:15:04,080
+Zatrudniam 300 osób.
+<font color="#16F158">299.</font>
+
+138
+00:15:05,120 --> 00:15:09,560
+<font color="#16F158">Słyszałem o pańskim</font>
+<font color="#16F158">pracowniku Aramie.</font>
+
+139
+00:15:10,760 --> 00:15:15,040
+To dla nas smutna sprawa.
+To był świetny pracownik.
+
+140
+00:15:15,200 --> 00:15:20,880
+Wykształcony inżynier, choć nie miał
+wymaganych w Polsce uprawnień.
+
+141
+00:15:21,040 --> 00:15:26,480
+Czegoś chciał, miał jakieś marzenia.
+Tam był jego warsztat pracy.
+
+142
+00:15:27,720 --> 00:15:31,440
+Przepraszam, są goście z Petersburga.
+
+143
+00:15:31,600 --> 00:15:35,200
+Kontrahent.
+Ksiądz wybaczy, że go zostawię.
+
+144
+00:15:35,360 --> 00:15:38,640
+<font color="#16F158">Znajdę drogę do wyjścia.</font>
+Do zobaczenia.
+
+145
+00:15:39,760 --> 00:15:42,400
+<font color="#16F158">Zapraszam na mszę.</font>
+Na pewno.
+
+146
+00:16:09,720 --> 00:16:11,680
+Można?
+
+147
+00:16:14,040 --> 00:16:19,080
+Nazywam się Tejmur Amirow.
+Chciałbym kupić za Arama mszę.
+
+148
+00:16:19,240 --> 00:16:24,360
+<font color="#16F158">Zamówić mszę za duszę Arama. Dobrze.</font>
+<font color="#16F158">Byliście przyjaciółmi?</font>
+
+149
+00:16:24,520 --> 00:16:29,240
+Nie, ciągle się kłóciliśmy.
+Ale teraz on nie żyje.
+
+150
+00:16:29,760 --> 00:16:34,480
+<font color="#16F158">Pan też jest Ormianinem?</font>
+
+151
+00:16:29,760 --> 00:16:34,480
+Nie, jestem Azer, muzułmanin.
+
+152
+00:16:34,640 --> 00:16:38,400
+Pomagam ludziom,
+bo to praca bardzo ciężka.
+
+153
+00:16:38,560 --> 00:16:43,640
+A ludzie mają kłopot,
+bo nie znają języka. I ja pomagam.
+
+154
+00:16:43,800 --> 00:16:46,080
+<font color="#16F158">Rozumiem. Aram też pomagał?</font>
+
+155
+00:16:46,240 --> 00:16:50,560
+Nie, bał się dyrekcji,
+bał się stracić pracę.
+
+156
+00:16:51,440 --> 00:16:53,880
+A tu jest dużo wypadków.
+
+157
+00:16:59,560 --> 00:17:02,160
+<font color="#16F158">Msza będzie w środę o 9.00.</font>
+
+158
+00:17:04,400 --> 00:17:07,720
+W Koranie pisze,że nie wolno się bać.
+
+159
+00:17:09,400 --> 00:17:12,320
+Trzeba walczyć, żeby było lepiej.
+
+160
+00:17:12,480 --> 00:17:19,880
+Jeśli wola Allaha dobra,
+to będzie lepiej w fabryce i w ogóle.
+
+161
+00:17:22,680 --> 00:17:24,760
+<font color="#16F158">Insz Allah.</font>
+
+162
+00:17:30,440 --> 00:17:32,640
+Insz Allah.
+
+163
+00:17:44,560 --> 00:17:50,320
+<font color="#FFFF51">Przygotowałam ulubione danie</font>
+<font color="#FFFF51">księdza Łukasza. Zapiekany kalafior.</font>
+
+164
+00:17:51,240 --> 00:17:54,080
+Tego się nie da jeść.
+
+165
+00:17:54,240 --> 00:17:57,600
+<font color="#FFFF51">Co ty tam mruczysz?</font>
+<font color="#FFFF51">Co ci się nie podoba?</font>
+
+166
+00:17:57,760 --> 00:18:01,880
+Mówię, że ten kalafior
+na pewno jest zjawiskowy.
+
+167
+00:18:04,160 --> 00:18:06,160
+<font color="#16F158">Dziękuję.</font>
+
+168
+00:18:07,760 --> 00:18:13,880
+Nie,dziękuję.Obiecałem Matce Boskiej
+ wyrzeczenie w intencji pewnej osoby.
+
+169
+00:18:14,040 --> 00:18:15,880
+<font color="#FFFF51">Ty wyrzeczenie?</font>
+
+170
+00:18:14,040 --> 00:18:15,880
+Tak.
+
+171
+00:18:16,040 --> 00:18:19,840
+<font color="#FFFF51">Zmyślasz.</font>
+W intencji, żeby była mniej złośliwa.
+
+172
+00:18:20,000 --> 00:18:21,920
+<font color="#FFFF51">A kto to jest?</font>
+
+173
+00:18:26,240 --> 00:18:30,040
+<font color="#FFFF51">I jak? Szczerze - smakuje czy nie?</font>
+
+174
+00:18:32,440 --> 00:18:34,440
+<font color="#16F158">Ciekawy smak.</font>
+
+175
+00:18:34,600 --> 00:18:37,800
+<font color="#FFFF51">Naprawdę?</font>
+<font color="#16F158">Interesujący, naprawdę.</font>
+
+176
+00:18:38,400 --> 00:18:43,440
+<font color="#FFFF51">To ja dołożę.Bo zimny jest niedobry.</font>
+<font color="#16F158">Nie, naprawdę dziękuję.</font>
+
+177
+00:19:25,440 --> 00:19:28,720
+Na policji o wszystko pytali.
+O Tejmura.
+
+178
+00:19:28,880 --> 00:19:32,920
+<font color="#16F158">Powiedziała im pani,</font>
+<font color="#16F158">że nie lubili się z Aramem?</font>
+
+179
+00:19:33,080 --> 00:19:38,320
+To nieprawda. Aram go szanował.
+Miał dużo podziwu dla Tejmura.
+
+180
+00:19:38,480 --> 00:19:41,640
+<font color="#16F158">Dla Azera?</font>
+My tu wszyscy równi.
+
+181
+00:19:42,600 --> 00:19:45,600
+Tak samo obcy. Musimy sobie pomagać.
+
+182
+00:19:45,760 --> 00:19:49,280
+Aram uważał,
+że muszą gadać z dyrektorami.
+
+183
+00:19:49,440 --> 00:19:53,040
+A Tejmur chciał walczyć,
+nawet strajkować.
+
+184
+00:19:53,200 --> 00:19:56,720
+Takie kłótnie - jak kolega z kolegą.
+
+185
+00:20:03,240 --> 00:20:05,840
+A Tejmur to dobry człowiek.
+
+186
+00:20:07,080 --> 00:20:09,200
+Azer, ale dobry.
+
+187
+00:20:12,160 --> 00:20:16,480
+Wie ksiądz - pierwszy przyszedł
+z pomocą do mnie.
+
+188
+00:20:33,000 --> 00:20:36,280
+<font color="aqua">Cieszę się,</font>
+<font color="aqua">że widzę księdza proboszcza.</font>
+
+189
+00:20:36,440 --> 00:20:40,800
+<font color="aqua">Jak zobaczyłem księdza w kościele,</font>
+<font color="aqua">byłem zaskoczony.</font>
+
+190
+00:20:40,960 --> 00:20:46,040
+<font color="aqua">Niczym się ksiądz nie zdradził.</font>
+<font color="aqua">Marczak, krzesło dla księdza.</font>
+
+191
+00:20:50,160 --> 00:20:53,520
+<font color="aqua">Herbaty, kawy, może coś słodkiego?</font>
+<font color="#16F158">Nie.</font>
+
+192
+00:20:54,240 --> 00:20:58,600
+<font color="#16F158">Chodzi mi o tego Arama,</font>
+<font color="#16F158">którego znaleźliście w rzece.</font>
+
+193
+00:20:58,760 --> 00:21:00,960
+<font color="#16F158">Rozmawiałem z jego żoną.</font>
+
+194
+00:21:01,120 --> 00:21:05,640
+<font color="#16F158">Ona twierdzi,</font>
+<font color="#16F158">że nigdy nie popełniłby samobójstwa.</font>
+
+195
+00:21:06,440 --> 00:21:10,920
+<font color="aqua">Trwa śledztwo. Na miejscu</font>
+<font color="aqua">nie znaleźliśmy oznak bójki.</font>
+
+196
+00:21:11,080 --> 00:21:16,960
+<font color="aqua">Nic, co by mogło sugerować, że ktoś</font>
+<font color="aqua">tam był. I jest list pożegnalny.</font>
+
+197
+00:21:18,160 --> 00:21:23,440
+<font color="#16F158">Czy ktoś go zbadał,</font>
+<font color="#16F158">porównał charakter pisma?</font>
+
+198
+00:21:24,040 --> 00:21:26,040
+<font color="aqua">Myślę, że to niemożliwe.</font>
+
+199
+00:21:26,200 --> 00:21:29,640
+<font color="aqua">Kilka słów</font>
+<font color="aqua">i to rozmytych przez wodę.</font>
+
+200
+00:21:30,120 --> 00:21:31,920
+<font color="#16F158">Mógłbym go zobaczyć?</font>
+
+201
+00:21:32,320 --> 00:21:35,240
+<font color="aqua">Ja dla swojego proboszcza wszystko.</font>
+
+202
+00:21:35,400 --> 00:21:40,200
+<font color="aqua">Miałem wypadek. Wszyscy mówili,</font>
+<font color="aqua">że nie będę żył, a żyję.</font>
+
+203
+00:21:40,360 --> 00:21:46,040
+<font color="aqua">Dzięki ślubom, jakie matka złożyła</font>
+<font color="aqua">Matce Boskiej Nieustającej Pomocy.</font>
+
+204
+00:21:46,200 --> 00:21:48,080
+<font color="aqua">Ja zawsze wierzyłem.</font>
+
+205
+00:21:48,240 --> 00:21:53,360
+<font color="aqua">Ale jestem gliną.</font>
+<font color="aqua">Muszę być lojalny wobec firmy.</font>
+
+206
+00:21:53,520 --> 00:21:56,520
+<font color="aqua">Inspektor Możejko, mój szef.</font>
+
+207
+00:21:57,240 --> 00:22:00,760
+Dzień dobry.
+Podinspektor Orest Możejko.
+
+208
+00:22:00,920 --> 00:22:02,800
+<font color="#16F158">Miło mi.</font>
+
+209
+00:22:02,960 --> 00:22:07,160
+Nie jestem tak praktykującym
+katolikiem jak Nocul.
+
+210
+00:22:07,320 --> 00:22:11,160
+Ale wiem, że teraz
+Kościół wybacza samobójcom.
+
+211
+00:22:11,320 --> 00:22:17,320
+To obowiązek księdza wytłumaczyć
+wdowie, że mąż może być zbawiony.
+
+212
+00:22:17,480 --> 00:22:23,040
+<font color="#16F158">Chciałbym to zrobić i dlatego...</font>
+Ja nie mogę dać księdzu tego listu.
+
+213
+00:22:23,200 --> 00:22:25,600
+To jest zabezpieczony dowód.
+
+214
+00:22:25,760 --> 00:22:28,360
+To tak, jakbym zapytał księdza,
+
+215
+00:22:28,520 --> 00:22:31,720
+co podejrzany powiedział
+w konfesjonale.
+
+216
+00:22:31,960 --> 00:22:34,840
+<font color="#16F158">Rozumiem.</font>
+
+217
+00:22:35,720 --> 00:22:37,880
+Do widzenia.
+
+218
+00:22:46,760 --> 00:22:49,440
+<font color="aqua">Proszę księdza, proszę zaczekać.</font>
+
+219
+00:22:51,400 --> 00:22:56,520
+<font color="aqua">Musi mnie ksiądz wyspowiadać,</font>
+<font color="aqua">bo tym razem zgrzeszyłem.</font>
+
+220
+00:22:56,680 --> 00:22:59,560
+<font color="#16F158">Serio?</font>
+<font color="aqua">Mam ksero tego listu.</font>
+
+221
+00:23:02,400 --> 00:23:05,400
+<font color="aqua">Jeśli Możejko się dowie... Boże.</font>
+
+222
+00:23:06,280 --> 00:23:08,840
+<font color="#16F158">Prawie nic nie widać.</font>
+<font color="aqua">Mówiłem.</font>
+
+223
+00:23:09,000 --> 00:23:14,320
+<font color="#16F158">Ale jest tak, jak myślałem.</font>
+<font color="#16F158">Jedno możemy sprawdzić na pewno.</font>
+
+224
+00:23:14,480 --> 00:23:16,400
+<font color="aqua">To znaczy?</font>
+
+225
+00:23:16,560 --> 00:23:18,800
+<font color="#16F158">Macie tu grafologa?</font>
+<font color="aqua">Nie.</font>
+
+226
+00:23:19,000 --> 00:23:23,640
+<font color="aqua">Ale jest jeden amator.</font>
+<font color="aqua">Interesuje się tym.</font>
+
+227
+00:23:24,720 --> 00:23:28,080
+<font color="#16F158">Niech mu pan zada</font>
+<font color="#16F158">jedno proste pytanie.</font>
+
+228
+00:23:28,240 --> 00:23:32,440
+<font color="aqua">Jakie?</font>
+
+229
+00:23:32,600 --> 00:23:36,760
+<font color="aqua">Miał ksiądz rację.</font>
+<font color="aqua">Listu nie napisał leworęczny.</font>
+
+230
+00:23:36,920 --> 00:23:39,160
+<font color="aqua">Ale czego to dowodzi?</font>
+
+231
+00:23:39,480 --> 00:23:43,400
+<font color="#16F158">To znaczy, że to nie Aram</font>
+<font color="#16F158">napisał ten list.</font>
+
+232
+00:23:43,560 --> 00:23:46,600
+<font color="aqua">Skąd ksiądz wie?</font>
+<font color="#16F158">Aram był leworęczny.</font>
+
+233
+00:23:46,760 --> 00:23:49,680
+<font color="#16F158">Używał suwmiarki dla leworęcznych.</font>
+
+234
+00:23:49,840 --> 00:23:53,360
+<font color="#16F158">Jest zdjęcie</font>
+<font color="#16F158">- gra w ping-ponga lewą ręką.</font>
+
+235
+00:23:53,640 --> 00:23:58,440
+<font color="aqua">Mańkut, tak?</font>
+<font color="#16F158">Brawo, Watsonie.</font>
+
+236
+00:23:59,400 --> 00:24:03,440
+<font color="aqua">Jest jeszcze jeden mały problem.</font>
+
+237
+00:24:04,520 --> 00:24:06,320
+<font color="#16F158">Już idę, Natalia.</font>
+
+238
+00:24:06,480 --> 00:24:09,680
+<font color="aqua">Jaki Możejko jest,</font>
+<font color="aqua">sam ksiądz widział.</font>
+
+239
+00:24:09,840 --> 00:24:13,160
+<font color="aqua">Jak powiem,</font>
+<font color="aqua">że ma bałagan w papierach,</font>
+
+240
+00:24:13,320 --> 00:24:16,160
+<font color="aqua">skończę jako "krawężnik" na wsi.</font>
+
+241
+00:24:16,480 --> 00:24:18,800
+<font color="#16F158">Dobrze, zrobimy tak.</font>
+
+242
+00:24:26,280 --> 00:24:28,600
+Ksiądz!
+
+243
+00:24:26,280 --> 00:24:28,600
+<font color="#16F158">Dzień dobry.</font>
+
+244
+00:24:28,760 --> 00:24:33,960
+Nie spodziewałem się księdza tutaj.
+<font color="#16F158">Lubię pobiegać przed mszą.</font>
+
+245
+00:24:34,720 --> 00:24:37,400
+<font color="#16F158">To daje jasność umysłu.</font>
+
+246
+00:24:37,600 --> 00:24:42,000
+<font color="#16F158">A jak dochodzenie</font>
+<font color="#16F158">w sprawie samobójstwa?</font>
+
+247
+00:24:42,320 --> 00:24:46,560
+Błagam. Po to biegam,
+żeby się odtruć od roboty.
+
+248
+00:24:46,720 --> 00:24:50,520
+A ksiądz z samego rana
+mi przypomina o pracy?
+
+249
+00:24:50,680 --> 00:24:52,480
+<font color="#16F158">Przepraszam.</font>
+
+250
+00:24:52,640 --> 00:24:57,640
+<font color="#16F158">Ale pytam dlatego, że w papierni</font>
+<font color="#16F158">zauważyłem ciekawą rzecz.</font>
+
+251
+00:24:57,800 --> 00:25:01,920
+<font color="#16F158">Aram posługiwał się</font>
+<font color="#16F158">suwmiarką dla leworęcznych.</font>
+
+252
+00:25:02,080 --> 00:25:05,360
+<font color="#16F158">Jego żona potwierdziła,</font>
+<font color="#16F158">że był mańkutem.</font>
+
+253
+00:25:05,520 --> 00:25:07,360
+I co z tego?
+
+254
+00:25:07,520 --> 00:25:11,960
+<font color="#16F158">Nic, poza tym,</font>
+<font color="#16F158">że uznany za samobójcę był mańkutem.</font>
+
+255
+00:25:12,120 --> 00:25:14,240
+"Uznany za samobójcę"?
+
+256
+00:25:14,400 --> 00:25:19,520
+<font color="#16F158">Rozumiem, że jakiś grafolog</font>
+<font color="#16F158">badał ten list i potwierdził to.</font>
+
+257
+00:25:19,680 --> 00:25:22,400
+Oczywiście.
+<font color="#16F158">Więc nie ma rozmowy.</font>
+
+258
+00:25:22,560 --> 00:25:25,560
+<font color="#16F158">Starałem się zrozumieć tego Arama.</font>
+
+259
+00:25:25,720 --> 00:25:30,080
+<font color="#16F158">Nie wierzyłem w samobójstwo.</font>
+<font color="#16F158">Ale skoro jest opinia...</font>
+
+260
+00:25:30,240 --> 00:25:35,040
+Nic więcej nie mogę powiedzieć.
+Przepraszam, muszę pędzić.
+
+261
+00:25:35,200 --> 00:25:37,080
+<font color="#16F158">Dobrego dnia.</font>
+
+262
+00:25:45,120 --> 00:25:46,960
+<font color="aqua">Tak?</font>
+
+263
+00:25:47,120 --> 00:25:51,200
+<font color="#16F158">Tu Możejko. Niech grafolog</font>
+<font color="#16F158">zbada list tego Arama.</font>
+
+264
+00:25:51,360 --> 00:25:56,680
+<font color="#16F158">Musimy wiedzieć,</font>
+<font color="#16F158">czy napisała go osoba leworęczna.</font>
+
+265
+00:25:58,440 --> 00:26:00,360
+<font color="aqua">Już się robi.</font>
+
+266
+00:26:00,520 --> 00:26:02,600
+<font color="aqua">Wracamy do sprawy!</font>
+
+267
+00:26:26,920 --> 00:26:32,240
+Po co kazali znowu tak dokładnie...
+<font color="aqua">Marczak, załóż rękawice.</font>
+
+268
+00:26:35,360 --> 00:26:37,240
+Szefie!
+
+269
+00:26:43,280 --> 00:26:45,360
+<font color="aqua">Co masz?</font>
+
+270
+00:26:46,720 --> 00:26:48,520
+<font color="aqua">Gdzie znalazłeś?</font>
+
+271
+00:26:48,680 --> 00:26:51,120
+<font color="aqua">Panowie, zabezpieczcie to!</font>
+
+272
+00:26:59,520 --> 00:27:05,600
+Tak, to mój guzik. Ale co z tego.
+Nie mam z tym nic wspólnego.
+
+273
+00:27:05,840 --> 00:27:12,080
+Każdy mógł oderwać guzik
+od mojego ubrania w szafce.
+
+274
+00:27:12,240 --> 00:27:15,360
+<font color="aqua">Może. Ale jest mały problem.</font>
+
+275
+00:27:15,520 --> 00:27:19,960
+<font color="aqua">W dniu śmieci Arama</font>
+<font color="aqua">byłeś nieobecny w pracy i w domu.</font>
+
+276
+00:27:20,120 --> 00:27:22,160
+<font color="aqua">I nie ma świadków.</font>
+
+277
+00:27:31,560 --> 00:27:35,880
+Ksiądz idzie do babskiego fryzjera?
+<font color="#16F158">A dlaczego nie?</font>
+
+278
+00:27:36,040 --> 00:27:41,280
+Ja nie byłbym taki odważny.
+Kobiety potrafią być groźne.
+
+279
+00:27:44,840 --> 00:27:47,160
+<font color="#16F158">Szczęść Boże.</font>
+Bóg zapłać.
+
+280
+00:27:50,560 --> 00:27:55,440
+W tym biegu za pieniądzem
+ludzie zapominają o duszyczkach.
+
+281
+00:27:55,600 --> 00:27:59,360
+A wielbłąd przez ucho igielne
+nie przejdzie.
+
+282
+00:27:59,520 --> 00:28:02,000
+<font color="#16F158">A św. Franciszek? Był bogaty.</font>
+
+283
+00:28:02,160 --> 00:28:07,000
+Tak, ale oddał wszystko
+i dlatego został tym, kim został.
+
+284
+00:28:07,160 --> 00:28:12,720
+<font color="#16F158">Myślę, że rzecz nie w tym,</font>
+<font color="#16F158">co człowiek ma na sobie,ale w sobie.</font>
+
+285
+00:28:12,880 --> 00:28:15,920
+Zastanawiam się, czy Bóg się śmieje.
+
+286
+00:28:16,080 --> 00:28:19,600
+Jak zobaczy takiego eleganta,
+to na pewno.
+
+287
+00:28:19,760 --> 00:28:23,120
+Teresa, słyszałaś? Cholerny czarnuch.
+
+288
+00:28:25,280 --> 00:28:27,800
+<font color="#16F158">Szczęść Boże.</font>
+Na wieki wieków.
+
+289
+00:28:27,960 --> 00:28:30,440
+Słyszeliście o tym samobójcy?
+
+290
+00:28:30,600 --> 00:28:36,120
+Podobno sam nie skoczył z mostu,
+tylko inny czarnuch go popchnął.
+
+291
+00:28:36,280 --> 00:28:39,280
+I już go przymknęli.
+<font color="#16F158">Pan ma brata?</font>
+
+292
+00:28:39,440 --> 00:28:41,520
+Mam.
+<font color="#16F158">Jak brat ma na imię?</font>
+
+293
+00:28:41,680 --> 00:28:45,800
+Zdzichu.
+<font color="#16F158">I do Zdzicha mówi pan "ty białasie"?</font>
+
+294
+00:28:48,480 --> 00:28:52,560
+<font color="#16F158">Tak myślałem.</font>
+<font color="#16F158">Wie pan, kto jest tym podejrzanym?</font>
+
+295
+00:28:52,720 --> 00:28:54,560
+Jakiś Azer.
+
+296
+00:28:54,720 --> 00:28:59,520
+Podobno dzień przed śmiercią
+się pokłócili, nawet pobili.
+
+297
+00:28:59,680 --> 00:29:02,080
+Tamten przy innych mu groził.
+
+298
+00:29:02,240 --> 00:29:06,360
+<font color="#16F158">To znaczy, że okoliczności</font>
+<font color="#16F158">są przeciwko niemu.</font>
+
+299
+00:29:07,400 --> 00:29:10,240
+<font color="#16F158">Przepraszam, nie mamy czasu.</font>
+
+300
+00:29:14,360 --> 00:29:17,880
+- To nowy proboszcz?
+- Nie zapłacił.
+
+301
+00:29:18,440 --> 00:29:20,600
+Jakiś wariat.
+
+302
+00:29:21,760 --> 00:29:25,040
+- Ile się należy?
+
+303
+00:29:21,760 --> 00:29:25,040
+- 15.
+
+304
+00:29:47,400 --> 00:29:49,440
+<font color="aqua">Siadaj.</font>
+
+305
+00:30:01,600 --> 00:30:06,240
+Nie wiedziałem,że tu księdza zobaczę.
+<font color="#16F158">Ja też nie.</font>
+
+306
+00:30:08,960 --> 00:30:10,760
+Ja tego nie zrobiłem.
+
+307
+00:30:10,920 --> 00:30:13,920
+<font color="#16F158">Dlaczego wtedy</font>
+<font color="#16F158">wychodziłeś z fabryki?</font>
+
+308
+00:30:14,080 --> 00:30:19,240
+To był początek ramadanu.
+<font color="#16F158">Nie mogłeś poprosić o zwolnienie?</font>
+
+309
+00:30:19,400 --> 00:30:23,480
+Prosiłem, ale nie dostałem zgody.
+
+310
+00:30:24,400 --> 00:30:27,240
+<font color="#16F158">Dokąd poszedłeś?</font>
+Do domu.
+
+311
+00:30:27,600 --> 00:30:30,520
+<font color="#16F158">Masz na to świadków?</font>
+Żonę.
+
+312
+00:30:31,360 --> 00:30:36,360
+<font color="#16F158">Obawiam się, że jej zeznanie</font>
+<font color="#16F158">może być mało wiarygodne.</font>
+
+313
+00:30:38,400 --> 00:30:41,160
+Ja przysięgam na Allaha.
+
+314
+00:30:49,720 --> 00:30:51,760
+<font color="aqua">Idziemy.</font>
+
+315
+00:31:21,880 --> 00:31:26,240
+<font color="#FFFF51">Dzwonił asystent księdza biskupa.</font>
+<font color="#FFFF51">Prosił o telefon.</font>
+
+316
+00:31:26,400 --> 00:31:28,400
+<font color="#16F158">Dobrze, dziękuję bardzo.</font>
+
+317
+00:31:28,560 --> 00:31:33,440
+<font color="#FFFF51">Powiedział mi, że nie jestem</font>
+<font color="#FFFF51">jeszcze w matronalnym wieku.</font>
+
+318
+00:31:33,600 --> 00:31:37,600
+<font color="#FFFF51">Mam się martwić?</font>
+<font color="#16F158">Na pewno nie.</font>
+
+319
+00:31:41,840 --> 00:31:47,240
+<font color="#16F158">Szczęść Boże. Ksiądz Mateusz</font>
+<font color="#16F158">Żmigrodzki. Z księdzem biskupem.</font>
+
+320
+00:32:04,920 --> 00:32:09,640
+Poprosiłem księdza Jacka,
+żeby był przy naszej rozmowie.
+
+321
+00:32:09,800 --> 00:32:14,240
+Wezwałem księdza w delikatnej
+sprawie. Powiem wprost.
+
+322
+00:32:14,400 --> 00:32:20,480
+Chodzi o nadmierną ciekawość, która
+u niektórych może wywołać niepokój.
+
+323
+00:32:20,640 --> 00:32:23,840
+Nie minął tydzień
+od przyjazdu księdza
+
+324
+00:32:24,000 --> 00:32:26,120
+i pojawiły się skargi.
+
+325
+00:32:26,280 --> 00:32:31,640
+<font color="#16F158">Nie zrobiłem nic, co by wykraczało</font>
+<font color="#16F158">poza zakres moich obowiązków.</font>
+
+326
+00:32:31,800 --> 00:32:37,080
+Ksiądz powinien wiedzieć,
+że pomoc jednym może drażnić drugich.
+
+327
+00:32:37,240 --> 00:32:43,360
+Dlatego proszę o większą dyskrecję.
+Ale ufam księdzu w każdym działaniu.
+
+328
+00:32:43,520 --> 00:32:46,360
+<font color="#16F158">Dziękuję za zaufanie,</font>
+<font color="#16F158">księże biskupie.</font>
+
+329
+00:32:46,520 --> 00:32:49,280
+<font color="#16F158">A upomnienie przyjmuję do serca.</font>
+
+330
+00:32:49,440 --> 00:32:52,720
+Jest jeszcze jedna trudna kwestia.
+
+331
+00:32:52,880 --> 00:32:59,960
+Księdza gospodyni nie jest jeszcze
+w wieku matronalnym. To wdówka.
+
+332
+00:33:00,120 --> 00:33:05,800
+Ksiądz biskup nie jest pewien,
+czy przy tak młodym proboszczu...
+
+333
+00:33:05,960 --> 00:33:12,360
+<font color="#16F158">Pracowała u księdza Łukasza.</font>
+Ksiądz Łukasz był dość sędziwy.
+
+334
+00:33:12,600 --> 00:33:15,640
+<font color="#16F158">Co chce ksiądz przez to powiedzieć?</font>
+
+335
+00:33:15,800 --> 00:33:20,080
+<font color="#16F158">Że jestem młodszy</font>
+<font color="#16F158">- w wieku podwyższonego ryzyka?</font>
+
+336
+00:33:20,360 --> 00:33:22,320
+A nie?
+
+337
+00:33:22,480 --> 00:33:26,680
+Co ksiądz myśli na widok
+młodej, ładnej dziewczyny?
+
+338
+00:33:26,840 --> 00:33:30,160
+<font color="#16F158">Dziękuję Panu,</font>
+<font color="#16F158">że stworzył takie piękno.</font>
+
+339
+00:33:30,320 --> 00:33:35,040
+A jak jest nieładna?
+<font color="#16F158">Wtedy dziękuję, że jestem księdzem.</font>
+
+340
+00:33:35,200 --> 00:33:38,360
+W liście do Tymoteusza stoi wyraźnie:
+
+341
+00:33:38,520 --> 00:33:42,920
+"Młodszych wdów nie dopuszczaj
+do służby Kościołowi.
+
+342
+00:33:43,080 --> 00:33:47,880
+Odkąd bowiem znęciła je rozkosz
+sprzeczna z Chrystusem..."
+
+343
+00:33:48,040 --> 00:33:52,760
+Chcą wychodzić za mąż.
+I o tym plotkować będą zgorszeni.
+
+344
+00:33:52,920 --> 00:33:56,320
+<font color="#16F158">Bez obaw.</font>
+<font color="#16F158">"Tylko głupiec głosi niesławę".</font>
+
+345
+00:33:56,480 --> 00:33:59,160
+Moja ukochana Księga Przysłów.
+
+346
+00:33:59,720 --> 00:34:03,960
+<font color="#16F158">Poza tym "zadufani w sobie</font>
+<font color="#16F158">są wśród nas, są jak my.</font>
+
+347
+00:34:04,120 --> 00:34:06,120
+<font color="#16F158">A często to właśnie my".</font>
+
+348
+00:34:06,280 --> 00:34:08,160
+Łukasz, rozdział...
+
+349
+00:34:08,320 --> 00:34:12,480
+<font color="#16F158">Nie, Wasyl Potopczy,</font>
+<font color="#16F158">taki białoruski piosenkarz.</font>
+
+350
+00:34:26,520 --> 00:34:29,920
+<font color="#16F158">Macie coś nowego?</font>
+<font color="aqua">Nie mogę tutaj.</font>
+
+351
+00:34:30,480 --> 00:34:34,960
+<font color="#16F158">Panie aspirancie, gdybym nie umiał</font>
+<font color="#16F158">dochować tajemnicy,</font>
+
+352
+00:34:35,120 --> 00:34:37,280
+<font color="#16F158">nie mógłbym spowiadać.</font>
+
+353
+00:34:38,360 --> 00:34:40,560
+<font color="aqua">Dobra, odejdźmy.</font>
+
+354
+00:34:46,360 --> 00:34:51,840
+<font color="aqua">Podczas sekcji Arama w ranach</font>
+<font color="aqua">na jego dłoniach znaleziono minię.</font>
+
+355
+00:34:52,000 --> 00:34:54,840
+<font color="aqua">To składnik farb antykorozyjnych.</font>
+
+356
+00:34:55,000 --> 00:34:58,840
+<font color="aqua">W wodzie coś takiego</font>
+<font color="aqua">trudno sobie wbić w ranę.</font>
+
+357
+00:34:59,000 --> 00:35:02,960
+<font color="#16F158">To się wydarzyło gdzie indziej,</font>
+<font color="#16F158">np. w papierni.</font>
+
+358
+00:35:03,120 --> 00:35:08,360
+<font color="#16F158">Aram tam został zamordowany.</font>
+<font color="#16F158">Potem jego ciało zrzucono z mostu.</font>
+
+359
+00:35:08,520 --> 00:35:13,880
+<font color="#16F158">Jeśli to się wydarzyło w fabryce,</font>
+<font color="#16F158">to nie mógł tego zrobić Tejmur.</font>
+
+360
+00:35:14,040 --> 00:35:18,320
+<font color="aqua">Tak, ale co z poszlakami</font>
+<font color="aqua">i znalezionymi dowodami?</font>
+
+361
+00:35:22,880 --> 00:35:28,480
+<font color="#FFFF51">Mogą być te naleśniki?</font>
+
+362
+00:35:22,880 --> 00:35:28,480
+<font color="#16F158">Było pyszne.</font>
+
+363
+00:35:28,640 --> 00:35:31,880
+<font color="#FFFF51">Nie zemdliły?</font>
+<font color="#16F158">Nie. Bardzo dobre.</font>
+
+364
+00:35:32,760 --> 00:35:36,520
+<font color="#8080FF">TV:</font> Może chodziło
+o zatarcie śladów zabójstwa.
+
+365
+00:35:36,680 --> 00:35:41,520
+<font color="#FFFF51">Zawsze, jak kogoś zabiją,</font>
+<font color="#FFFF51">to udają, że to był wypadek.</font>
+
+366
+00:35:46,440 --> 00:35:48,600
+<font color="#16F158">Jesteś genialna.</font>
+
+367
+00:35:50,200 --> 00:35:52,520
+<font color="#FFFF51">Czemu ksiądz nie je?</font>
+
+368
+00:35:57,440 --> 00:36:00,840
+<font color="aqua">Tak, oczywiście, sam na to wpadłem.</font>
+
+369
+00:36:01,240 --> 00:36:06,480
+<font color="aqua">Nie. To nie było samobójstwo</font>
+<font color="aqua">upozorowane na morderstwo.</font>
+
+370
+00:36:06,640 --> 00:36:10,680
+<font color="aqua">Tylko morderstwo,</font>
+<font color="aqua">upozorowane na morderstwo.</font>
+
+371
+00:36:12,720 --> 00:36:14,640
+<font color="#16F158">Wypadek.</font>
+
+372
+00:36:14,800 --> 00:36:18,200
+<font color="aqua">Wypadek, upozorowany na morderstwo.</font>
+
+373
+00:36:18,920 --> 00:36:21,080
+<font color="aqua">To by wiele wyjaśniało.</font>
+
+374
+00:36:21,240 --> 00:36:27,040
+<font color="aqua">Oczywiście, że mam podejrzenie, kto.</font>
+
+375
+00:36:28,920 --> 00:36:32,480
+<font color="aqua">Postawiłem sobie</font>
+<font color="aqua">pana ulubione pytanie.</font>
+
+376
+00:36:32,640 --> 00:36:35,480
+<font color="aqua">Kto by mógł na tym skorzystać?</font>
+
+377
+00:36:35,920 --> 00:36:38,840
+<font color="aqua">Mnie się też wydaje, że to on.</font>
+
+378
+00:36:39,760 --> 00:36:44,960
+<font color="aqua">Oczywiście, będę go miał na oku.</font>
+<font color="aqua">Do jutra.</font>
+
+379
+00:36:45,320 --> 00:36:47,200
+<font color="#16F158">Awans.</font>
+
+380
+00:36:47,360 --> 00:36:49,480
+<font color="aqua">Chciałem się zapytać...</font>
+
+381
+00:37:00,120 --> 00:37:02,280
+<font color="aqua">Odłożył słuchawkę.</font>
+
+382
+00:37:06,160 --> 00:37:08,120
+<font color="aqua">Następnym razem.</font>
+
+383
+00:37:10,680 --> 00:37:13,760
+<font color="#16F158">Biedak umiera i idzie do nieba.</font>
+
+384
+00:37:15,200 --> 00:37:19,640
+<font color="#16F158">I to jest, moi drodzy, ostrzeżenie,</font>
+<font color="#16F158">ale i wskazówka.</font>
+
+385
+00:37:19,800 --> 00:37:24,880
+<font color="#16F158">Aby nie zapominać o naszych braciach</font>
+<font color="#16F158">i siostrach w potrzebie.</font>
+
+386
+00:37:25,040 --> 00:37:28,960
+<font color="#16F158">Bo bogactwo to nie pełne konto,</font>
+<font color="#16F158">to nie luksus.</font>
+
+387
+00:37:29,120 --> 00:37:30,960
+<font color="#16F158">Pamiętajmy o tym.</font>
+
+388
+00:37:31,120 --> 00:37:36,560
+<font color="#16F158">Bogactwo to zwykle bywa poczucie</font>
+<font color="#16F158">dobrobytu, które nas rozleniwia.</font>
+
+389
+00:37:36,720 --> 00:37:39,040
+<font color="#16F158">I zagłusza nasze sumienia.</font>
+
+390
+00:37:39,200 --> 00:37:42,480
+<font color="#16F158">Ale nawet,</font>
+<font color="#16F158">jeśli sumienie jest uśpione...</font>
+
+391
+00:37:42,640 --> 00:37:48,000
+<font color="#16F158">Nawet gdy człowiek wyrzuci ze swej</font>
+<font color="#16F158">głowy nawet największy grzech,</font>
+
+392
+00:37:48,160 --> 00:37:50,120
+<font color="#16F158">to pojawią się wyrzuty.</font>
+
+393
+00:37:50,280 --> 00:37:53,760
+<font color="#16F158">Pojawią się</font>
+<font color="#16F158">i staną się nie do zniesienia.</font>
+
+394
+00:37:53,920 --> 00:37:57,120
+<font color="#16F158">I to jest piekło -piekło odrzucenia.</font>
+
+395
+00:38:12,560 --> 00:38:15,960
+- 08, zgłoś się.
+- 08 zgłasza się.
+
+396
+00:38:16,120 --> 00:38:20,400
+- Jest informacja z laboratorium.
+- Słucham.
+
+397
+00:38:20,560 --> 00:38:23,520
+Ślad na skórze denata
+pasuje do minii,
+
+398
+00:38:23,680 --> 00:38:25,920
+zabezpieczonej w fabryce.
+
+399
+00:38:28,120 --> 00:38:30,160
+Ruszamy.
+
+400
+00:40:07,400 --> 00:40:11,800
+<font color="#16F158">Gdyby w fabryce przestrzegano</font>
+<font color="#16F158">przepisów, Aram by żył.</font>
+
+401
+00:40:11,960 --> 00:40:16,120
+Zabił go Tejmur.
+<font color="#16F158">Nie, Tejmur go nie zabił.</font>
+
+402
+00:40:51,880 --> 00:40:56,280
+<font color="#16F158">Tak zrodził się pomysł,</font>
+<font color="#16F158">by upozorować samobójstwo.</font>
+
+403
+00:41:28,520 --> 00:41:31,600
+<font color="#16F158">Najpierw należało spreparować list.</font>
+
+404
+00:41:31,760 --> 00:41:37,440
+<font color="#16F158">Pan zna rosyjski, więc napisanie</font>
+<font color="#16F158">kilku słów nie zajęło wiele czasu.</font>
+
+405
+00:41:37,600 --> 00:41:41,320
+<font color="#16F158">Woda w rzece rozmyła pismo.</font>
+<font color="#16F158">Mogło się udać.</font>
+
+406
+00:41:41,480 --> 00:41:44,720
+<font color="#16F158">Ale okazało się,</font>
+<font color="#16F158">że Aram był mańkutem.</font>
+
+407
+00:41:44,880 --> 00:41:48,240
+<font color="#16F158">Samobójstwo zamieniło się</font>
+<font color="#16F158">w morderstwo.</font>
+
+408
+00:41:48,400 --> 00:41:53,560
+<font color="#16F158">Trzeba było pomóc tej tezie.</font>
+<font color="#16F158">Tejmur był idealnym podejrzanym.</font>
+
+409
+00:41:53,720 --> 00:41:57,520
+<font color="#16F158">Wiadomo, że Ormianie</font>
+<font color="#16F158">nie lubią się z Azerami.</font>
+
+410
+00:41:57,680 --> 00:42:01,720
+<font color="#16F158">Wystarczyło podrzucić ślad.</font>
+Nie ma ksiądz dowodu.
+
+411
+00:42:01,880 --> 00:42:05,240
+<font color="#16F158">Ja go nie potrzebuję.</font>
+<font color="#16F158">To sprawa policji.</font>
+
+412
+00:42:05,400 --> 00:42:10,600
+<font color="#16F158">Chcę jedynie, żeby pan przyznał,</font>
+<font color="#16F158">że pan zniszczył swoje życie.</font>
+
+413
+00:42:10,760 --> 00:42:13,840
+<font color="#16F158">I życie ludzi, którzy panu zaufali.</font>
+
+414
+00:42:14,480 --> 00:42:16,920
+Ja nie potrzebuję kazań.
+
+415
+00:42:22,080 --> 00:42:24,600
+Mówiłem, żebyś tam skręcił.
+
+416
+00:42:25,720 --> 00:42:27,680
+Dawaj.
+
+417
+00:42:28,280 --> 00:42:31,960
+- 00, zgłoś się do 08.
+- Zgłaszam się.
+
+418
+00:42:32,120 --> 00:42:36,800
+Podaj komunikat: "Dodge Durango,
+
+419
+00:42:36,960 --> 00:42:41,480
+kolor czarny, numer TSA 0101...
+
+420
+00:42:41,640 --> 00:42:43,680
+<font color="aqua">0191.</font>
+
+421
+00:42:44,960 --> 00:42:48,800
+- 0191.
+- Przyjąłem, 08.
+
+422
+00:42:49,360 --> 00:42:53,800
+310, wystawcie posterunek blokadowy
+na Warszawskiej.
+
+423
+00:42:53,960 --> 00:42:56,080
+Przyjąłem, wykonuję.
+
+424
+00:43:37,920 --> 00:43:39,920
+Widziałeś?
+
+425
+00:43:40,360 --> 00:43:43,080
+Weź mi czapkę i odwołaj blokadę.
+
+426
+00:43:43,240 --> 00:43:45,120
+<font color="aqua">00, zgłoś się do 08.</font>
+
+427
+00:43:45,280 --> 00:43:48,600
+<font color="aqua">Odwołujemy blokadę. Bez odbioru.</font>
+
+428
+00:44:10,800 --> 00:44:12,840
+Dziękuję.
+
+429
+00:44:24,000 --> 00:44:26,960
+Mam twojego skoczka i szach.
+
+430
+00:44:30,040 --> 00:44:31,880
+<font color="#16F158">Szczęść Boże.</font>
+
+431
+00:44:32,040 --> 00:44:34,280
+<font color="aqua">Szczęść Boże.</font>
+Dzień dobry.
+
+432
+00:44:34,440 --> 00:44:37,680
+<font color="#16F158">Partyjka?</font>
+
+433
+00:44:34,440 --> 00:44:37,680
+<font color="aqua">Tak, właśnie jestem w szachu.</font>
+
+434
+00:44:37,840 --> 00:44:42,520
+Sierakowski prosił,
+żeby go ksiądz odwiedził w areszcie.
+
+435
+00:44:42,680 --> 00:44:44,520
+<font color="#16F158">Dziękuję bardzo.</font>
+
+436
+00:44:44,680 --> 00:44:48,680
+<font color="#16F158">Przepraszam,</font>
+<font color="#16F158">że wtrącałem się do waszej roboty.</font>
+
+437
+00:44:48,840 --> 00:44:52,920
+Proszę nam zaufać.
+Znamy się na tym, co robimy.
+
+438
+00:44:53,080 --> 00:44:55,320
+<font color="#16F158">Oczywiście.</font>
+
+439
+00:44:56,280 --> 00:44:58,960
+<font color="#16F158">Do widzenia.</font>
+Do widzenia.
+
+440
+00:45:02,560 --> 00:45:04,520
+<font color="#16F158">Hetman.</font>
+
+441
+00:45:08,320 --> 00:45:10,320
+<font color="aqua">Szach.</font>
+
+442
+00:45:10,480 --> 00:45:12,520
+<font color="aqua">I mat.</font>
+
+443
+00:45:26,120 --> 00:45:32,600
+OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH
+TVP SA - OŚRODEK iTVP-HD
+
+444
+00:45:32,760 --> 00:45:36,320
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+445
+00:46:22,280 --> 00:46:24,520
+
+

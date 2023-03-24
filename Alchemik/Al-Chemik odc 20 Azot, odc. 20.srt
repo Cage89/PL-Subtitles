@@ -1,0 +1,992 @@
+1
+00:00:08,160 --> 00:00:09,960
+<font color="#8080FF">STĘKA Z BÓLU</font>
+
+2
+00:00:17,280 --> 00:00:22,400
+<font color="#FFFF51">Coś mi się wydaje, że w końcu</font>
+<font color="#FFFF51">znalazłem drogę do laboratorium.</font>
+
+3
+00:00:28,960 --> 00:00:31,080
+<font color="#FFFF51">Tylko skąd ten ból głowy?</font>
+
+4
+00:00:32,840 --> 00:00:34,720
+PIOSENKA:
+
+5
+00:00:34,880 --> 00:00:38,720
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+6
+00:00:38,880 --> 00:00:42,160
+Takiego trudno znaleźć
+na mojej planecie.
+
+7
+00:00:42,320 --> 00:00:45,600
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+8
+00:00:45,760 --> 00:00:49,120
+Pokazali go w pałacu,
+kara go nie ominie.
+
+9
+00:00:49,280 --> 00:00:53,160
+Nagle wyczarował ognie
+królowej Kalinie.
+
+10
+00:00:53,320 --> 00:00:56,880
+Ale nie był on oszustem,
+nie był czarownikiem.
+
+11
+00:00:57,040 --> 00:01:00,640
+Miał na imię Al i jest alchemikiem.
+
+12
+00:01:01,640 --> 00:01:03,840
+<font color="#FFFF51">Wasza Wysokość...</font>
+
+13
+00:01:05,040 --> 00:01:09,360
+<font color="#FFFF51">Gdzie się wszyscy podziali?</font>
+<font color="#FFFF51">Nie ma tu nikogo?</font>
+
+14
+00:01:09,520 --> 00:01:11,320
+<font color="#FFFF51">Wasza wysokość.</font>
+
+15
+00:01:14,640 --> 00:01:16,440
+<font color="#FFFF51">Wasza Wysokość!</font>
+
+16
+00:01:30,000 --> 00:01:31,960
+<font color="#FFFF51">Ciekawe, że ich nie ma.</font>
+
+17
+00:01:32,120 --> 00:01:35,920
+<font color="#FFFF51">Jakbym się przeniósł</font>
+<font color="#FFFF51">do jeszcze innego wymiaru.</font>
+
+18
+00:01:36,080 --> 00:01:38,960
+<font color="#FFFF51">Ciekawe, ile tych wymiarów</font>
+<font color="#FFFF51">może być?</font>
+
+19
+00:01:39,120 --> 00:01:41,960
+<font color="#FFFF51">Zresztą...</font>
+<font color="#16F158">Nie mogę w to uwierzyć!</font>
+
+20
+00:01:42,120 --> 00:01:43,960
+<font color="#16F158">Nie mogę uwierzyć!</font>
+
+21
+00:01:44,120 --> 00:01:49,360
+<font color="#16F158">Moi wierni i mniej wierni poddani</font>
+<font color="#16F158">uwierzyli, że to, co im pokazałeś,</font>
+
+22
+00:01:49,520 --> 00:01:52,120
+<font color="#16F158">to nie chemia tylko czary.</font>
+
+23
+00:01:52,280 --> 00:01:54,400
+Nie miałem na to wpływu,
+
+24
+00:01:54,560 --> 00:01:58,080
+że byli pod takim wrażeniem
+czarów Wandy,
+
+25
+00:01:58,240 --> 00:02:02,440
+które faktycznie były
+doświadczeniami chemicznymi.
+
+26
+00:02:02,600 --> 00:02:05,480
+<font color="#16F158">Trzeba to</font>
+<font color="#16F158">jak najprędzej uporządkować.</font>
+
+27
+00:02:05,640 --> 00:02:10,600
+<font color="#16F158">W myśl zasady, że wszystko,</font>
+<font color="#16F158">co w naturze, jest stałe.</font>
+
+28
+00:02:10,760 --> 00:02:13,120
+<font color="#FFFF51">Tak, Wasza Wysokość.</font>
+<font color="#16F158">Alchemik?</font>
+
+29
+00:02:13,280 --> 00:02:15,080
+<font color="#FFFF51">Wróciłem.</font>
+
+30
+00:02:15,240 --> 00:02:18,760
+Niemożliwe.
+<font color="#FFFF51">Przecież to mój dom teraz.</font>
+
+31
+00:02:18,920 --> 00:02:22,640
+To na pewno ty, alchemiku?
+A nie jakieś czary?
+
+32
+00:02:22,800 --> 00:02:24,960
+<font color="#FFFF51">Tylko nie żadne czary.</font>
+
+33
+00:02:25,120 --> 00:02:28,360
+<font color="#FFFF51">Myślałem, że skończyliśmy</font>
+<font color="#FFFF51">z tym tematem.</font>
+
+34
+00:02:28,520 --> 00:02:31,520
+Alchemik!
+<font color="#16F158">Witaj w domu!</font>
+
+35
+00:02:32,440 --> 00:02:34,920
+Alchemiku!
+
+36
+00:02:35,080 --> 00:02:37,760
+<font color="#FFFF51">Cieszę się, że was widzę, ale...</font>
+
+37
+00:02:38,920 --> 00:02:40,720
+<font color="#FFFF51">Gdzie Mirmił?</font>
+
+38
+00:02:45,240 --> 00:02:47,120
+<font color="#8080FF">SKOCZNA MUZYKA</font>
+
+39
+00:02:48,600 --> 00:02:50,560
+<font color="aqua">Ludzie, ludzie, ludzie!</font>
+
+40
+00:02:50,720 --> 00:02:52,960
+<font color="aqua">Komu, komu, bo idę do domu!</font>
+
+41
+00:02:53,120 --> 00:02:55,720
+<font color="aqua">Tylko dzisiaj, tylko u mnie!</font>
+
+42
+00:02:55,880 --> 00:02:59,520
+<font color="aqua">Darmowe zapisy</font>
+<font color="aqua">na kurs nauki fizyki i chemii!</font>
+
+43
+00:02:59,680 --> 00:03:02,080
+<font color="aqua">Tylko u mnie!</font>
+
+44
+00:03:02,240 --> 00:03:07,360
+<font color="aqua">Ludzie, ludzie, co wy, śpicie?</font>
+<font color="aqua">Czy wy chemii nie lubicie?</font>
+
+45
+00:03:07,520 --> 00:03:09,560
+<font color="aqua">Zapraszam tutaj, kochani.</font>
+
+46
+00:03:09,720 --> 00:03:12,120
+<font color="aqua">Ustawiajcie się w kolejeczce.</font>
+
+47
+00:03:12,280 --> 00:03:15,400
+<font color="aqua">Dzisiaj chemię wam pokażę.</font>
+
+48
+00:03:15,560 --> 00:03:19,960
+<font color="aqua">Dzisiaj, we śnie czy nie we śnie,</font>
+<font color="aqua">będę leżał w trawie.</font>
+
+49
+00:03:20,120 --> 00:03:22,480
+<font color="aqua">Pokażę wam tajemnice,</font>
+
+50
+00:03:22,640 --> 00:03:25,640
+<font color="aqua">które zainteresują</font>
+<font color="aqua">nawet dżdżownice.</font>
+
+51
+00:03:25,800 --> 00:03:31,040
+<font color="aqua">Dziś atomy i cząsteczki</font>
+<font color="aqua">powypadają tu, z tej beczki.</font>
+
+52
+00:03:31,200 --> 00:03:36,160
+<font color="aqua">Polimery i cząsteczki</font>
+<font color="aqua">żyją w ciele biedroneczki.</font>
+
+53
+00:03:36,320 --> 00:03:39,200
+<font color="aqua">Starszych też zapraszam do kolejki.</font>
+
+54
+00:03:39,360 --> 00:03:43,640
+<font color="aqua">Zapisujemy na kursy nauki</font>
+<font color="aqua">chemii i fizyki.</font>
+
+55
+00:03:43,800 --> 00:03:50,000
+Mirmił reklamuje nasz kiermasz
+programu edukacyjnego dla poddanych,
+
+56
+00:03:50,160 --> 00:03:53,480
+żeby każdy poddany,
+jak kiedyś Gniewko,
+
+57
+00:03:53,640 --> 00:03:56,000
+mógł nauczyć się chemii.
+
+58
+00:03:56,160 --> 00:03:58,240
+<font color="#FFFF51">Ciekawe.</font>
+
+59
+00:03:58,400 --> 00:04:01,640
+<font color="#16F158">Kiedy pogodziłam się</font>
+<font color="#16F158">z czarownicą Wandą,</font>
+
+60
+00:04:01,800 --> 00:04:05,440
+<font color="#16F158">zrozumiałam, że nie mam</font>
+<font color="#16F158">kontaktu z poddanymi.</font>
+
+61
+00:04:05,600 --> 00:04:10,080
+<font color="#16F158">A i oni zasługują na to,</font>
+<font color="#16F158">by nauczyć się podstaw chemii.</font>
+
+62
+00:04:10,240 --> 00:04:15,320
+Żeby nikt im nie mógł mówić,
+że to, co widzą, to jakieś czary.
+
+63
+00:04:15,480 --> 00:04:17,840
+Tylko że...
+
+64
+00:04:18,000 --> 00:04:22,120
+że jak ciebie nie było, to...
+
+65
+00:04:23,760 --> 00:04:27,480
+<font color="#FFFF51">No co?</font>
+<font color="#16F158">Powiedz w końcu.</font>
+
+66
+00:04:27,640 --> 00:04:32,760
+Użyłem suchego lodu
+z twojego laboratorium.
+
+67
+00:04:32,920 --> 00:04:35,160
+<font color="#FFFF51">I co się stało?</font>
+
+68
+00:04:35,320 --> 00:04:39,560
+<font color="#16F158">Właściwie to nic się nie stało.</font>
+
+69
+00:04:39,720 --> 00:04:42,160
+<font color="#16F158">Wszyscy się przestraszyli</font>
+
+70
+00:04:42,320 --> 00:04:46,480
+<font color="#16F158">i ostatecznie uwierzyli,</font>
+<font color="#16F158">że to były czary.</font>
+
+71
+00:04:46,640 --> 00:04:49,760
+Alchemiku?
+<font color="#FFFF51">Tak, Bartłomieju?</font>
+
+72
+00:04:53,320 --> 00:04:55,320
+Co ci się stało w głowę?
+
+73
+00:05:03,560 --> 00:05:06,160
+Jak ciebie nie było, alchemiku,
+
+74
+00:05:06,320 --> 00:05:10,320
+to przychodziłem tutaj,
+do twojego laboratorium,
+
+75
+00:05:10,480 --> 00:05:16,200
+i utrwalałem wiadomości z chemii,
+których nas nauczyłeś.
+
+76
+00:05:16,360 --> 00:05:20,080
+Wiem, że tlen, wodór i hel,
+
+77
+00:05:20,240 --> 00:05:24,120
+który ostatnio wdychaliśmy,
+
+78
+00:05:24,280 --> 00:05:27,000
+należą do rodziny gazów.
+
+79
+00:05:27,160 --> 00:05:28,760
+<font color="#FFFF51">Tak, dokładnie.</font>
+
+80
+00:05:30,160 --> 00:05:35,320
+<font color="#FFFF51">Należą do nich jeszcze</font>
+<font color="#FFFF51">fluor, chlor, neon, argon...</font>
+
+81
+00:05:35,480 --> 00:05:37,560
+<font color="#FFFF51">Sporo myślałem o argonie,</font>
+
+82
+00:05:37,720 --> 00:05:42,040
+<font color="#FFFF51">ponieważ jest to pierwiastek,</font>
+<font color="#FFFF51">który wdychamy i wydychamy</font>
+
+83
+00:05:42,200 --> 00:05:45,400
+<font color="#FFFF51">w niezmienionej postaci</font>
+<font color="#FFFF51">od milionów lat.</font>
+
+84
+00:05:45,560 --> 00:05:48,280
+<font color="#FFFF51">Należy do grupy gazów szlachetnych.</font>
+
+85
+00:05:48,440 --> 00:05:50,440
+Czyli nie tak jak tlen,
+
+86
+00:05:50,600 --> 00:05:55,480
+który jak wydychamy,
+zamienia się w CO2, dwutlenek węgla.
+
+87
+00:05:55,640 --> 00:06:00,960
+<font color="#FFFF51">Ty naprawdę ćwiczyłeś,</font>
+<font color="#FFFF51">jestem pod wrażeniem. Masz rację.</font>
+
+88
+00:06:01,120 --> 00:06:05,360
+Dziękuję. Cieszę się, że zauważyłeś.
+
+89
+00:06:05,520 --> 00:06:07,720
+<font color="#FFFF51">Gazowymi pierwiastkami,</font>
+
+90
+00:06:07,880 --> 00:06:10,880
+<font color="#FFFF51">przynajmniej</font>
+<font color="#FFFF51">w temperaturze pokojowej,</font>
+
+91
+00:06:11,040 --> 00:06:13,680
+<font color="#FFFF51">są jeszcze ksenon, krypton i radon.</font>
+
+92
+00:06:13,840 --> 00:06:18,720
+<font color="#FFFF51">Ale chcę ci powiedzieć</font>
+<font color="#FFFF51">o innym gazie, który już znamy.</font>
+
+93
+00:06:18,880 --> 00:06:20,680
+<font color="#FFFF51">Ale wciąż za mało.</font>
+
+94
+00:06:20,840 --> 00:06:22,600
+<font color="#FFFF51">Mówię o azocie.</font>
+
+95
+00:06:22,760 --> 00:06:24,560
+Azot, azot, azot.
+
+96
+00:06:24,720 --> 00:06:26,520
+Pamiętam!
+
+97
+00:06:26,680 --> 00:06:29,640
+Azot to główny składnik powietrza.
+
+98
+00:06:29,800 --> 00:06:36,360
+Jest to też pierwiastek niezbędny
+dla życia wszelakich organizmów.
+
+99
+00:06:36,520 --> 00:06:38,280
+I jeszcze pamiętam...
+
+100
+00:06:38,440 --> 00:06:40,920
+Używaliśmy...
+
+101
+00:06:41,080 --> 00:06:42,840
+kwasu azotowego!
+
+102
+00:06:43,000 --> 00:06:46,760
+Żeby stworzyć
+wybuchającą nitrocelulozę.
+
+103
+00:06:46,920 --> 00:06:48,680
+<font color="#FFFF51">Bardzo dobrze, brawo.</font>
+
+104
+00:06:48,840 --> 00:06:50,400
+Tylko...
+
+105
+00:06:51,520 --> 00:06:54,800
+więcej już nie pamiętam,
+przepraszam.
+
+106
+00:06:54,960 --> 00:06:57,600
+<font color="#FFFF51">Nie masz mnie za co przepraszać.</font>
+
+107
+00:06:57,760 --> 00:07:03,000
+<font color="#FFFF51">Jestem pod olbrzymim wrażeniem,</font>
+<font color="#FFFF51">że tyle wiesz o tym pierwiastku.</font>
+
+108
+00:07:03,160 --> 00:07:06,400
+<font color="#FFFF51">Ale jest jeszcze</font>
+<font color="#FFFF51">parę ciekawych rzeczy.</font>
+
+109
+00:07:06,560 --> 00:07:08,960
+<font color="#FFFF51">Jego symbol chemiczny to "N".</font>
+
+110
+00:07:09,120 --> 00:07:11,360
+<font color="#FFFF51">Od łacińskiego nitrogenium.</font>
+
+111
+00:07:11,520 --> 00:07:16,760
+<font color="#FFFF51">W powietrzu azot występuje</font>
+<font color="#FFFF51">w postaci cząsteczek dwuatomowych.</font>
+
+112
+00:07:16,920 --> 00:07:19,640
+<font color="#FFFF51">To akurat nic wyjątkowego.</font>
+
+113
+00:07:19,800 --> 00:07:23,920
+<font color="#FFFF51">Podobnie występują:</font>
+<font color="#FFFF51">brom, jod, chlor, wodór, tlen.</font>
+
+114
+00:07:25,160 --> 00:07:31,800
+Alchemiku, ja nie przypominam
+sobie, żebyśmy pisali N2.
+
+115
+00:07:31,960 --> 00:07:35,200
+<font color="#FFFF51">W reakcjach,</font>
+<font color="#FFFF51">gdzie takie gazy występują,</font>
+
+116
+00:07:35,360 --> 00:07:39,200
+<font color="#FFFF51">czasami piszemy je</font>
+<font color="#FFFF51">z dwójką jak O2 czy H2.</font>
+
+117
+00:07:39,360 --> 00:07:42,600
+<font color="#FFFF51">Azot jest</font>
+<font color="#FFFF51">pod tym względem wyjątkowy.</font>
+
+118
+00:07:42,760 --> 00:07:45,800
+<font color="#FFFF51">Jego cząsteczki</font>
+<font color="#FFFF51">są niezwykle stabilne.</font>
+
+119
+00:07:45,960 --> 00:07:49,600
+<font color="#FFFF51">Bardzo trudno rozerwać</font>
+<font color="#FFFF51">takie dwa atomy azotu.</font>
+
+120
+00:07:49,760 --> 00:07:53,320
+To jak je rozerwać,
+żeby azot mógł reagować?
+
+121
+00:07:53,480 --> 00:07:55,480
+<font color="#FFFF51">To bardzo dobre pytanie.</font>
+
+122
+00:07:55,640 --> 00:07:59,120
+<font color="#FFFF51">Stanęły przed nim</font>
+<font color="#FFFF51">wszystkie rośliny świata.</font>
+
+123
+00:07:59,280 --> 00:08:04,320
+<font color="#FFFF51">Mimo obfitości azotu w atmosferze</font>
+<font color="#FFFF51">jego niereaktywność sprawia,</font>
+
+124
+00:08:04,480 --> 00:08:07,640
+<font color="#FFFF51">że jest trudno dostępny</font>
+<font color="#FFFF51">dla organizmów.</font>
+
+125
+00:08:07,800 --> 00:08:11,320
+<font color="#FFFF51">Żadna roślina na świecie</font>
+<font color="#FFFF51">tego nie potrafi.</font>
+
+126
+00:08:11,480 --> 00:08:13,280
+Jak to możliwe?
+
+127
+00:08:13,440 --> 00:08:15,440
+Pełno wszędzie tego azotu,
+
+128
+00:08:15,600 --> 00:08:18,400
+a rośliny nie mogą
+z niego korzystać.
+
+129
+00:08:18,560 --> 00:08:22,320
+Jak to się dzieje,
+że ten azot jest w nich?
+
+130
+00:08:22,480 --> 00:08:24,680
+<font color="#FFFF51">Rośliny korzystają z azotu,</font>
+
+131
+00:08:24,840 --> 00:08:28,040
+<font color="#FFFF51">który jest już częścią</font>
+<font color="#FFFF51">jakiegoś związku.</font>
+
+132
+00:08:28,200 --> 00:08:32,440
+<font color="#FFFF51">A jeśli potrzeba go więcej,</font>
+<font color="#FFFF51">pomagają pioruny i bakterie.</font>
+
+133
+00:08:32,600 --> 00:08:34,720
+Chyba nie nadążam.
+
+134
+00:08:36,280 --> 00:08:39,160
+<font color="#FFFF51">Piorun to olbrzymia ilość energii.</font>
+
+135
+00:08:39,320 --> 00:08:41,760
+O tak.
+<font color="#8080FF">GRZMOT</font>
+
+136
+00:08:41,920 --> 00:08:46,800
+<font color="#FFFF51">Energia ta jest tak wielka,</font>
+<font color="#FFFF51">że potrafi rozerwać atomy azotu.</font>
+
+137
+00:08:46,960 --> 00:08:50,840
+<font color="#FFFF51">W ten sposób mogą reagować</font>
+<font color="#FFFF51">z tlenem z powietrza.</font>
+
+138
+00:08:51,000 --> 00:08:54,880
+<font color="#FFFF51">I powstają tlenki azotu.</font>
+<font color="#FFFF51">A bakterie natomiast...</font>
+
+139
+00:08:55,040 --> 00:08:58,600
+Bo ja nie wiem.
+<font color="#FFFF51">Właśnie chcę ci wytłumaczyć.</font>
+
+140
+00:08:58,760 --> 00:09:01,560
+<font color="#FFFF51">Bakterie to bardzo małe organizmy.</font>
+
+141
+00:09:01,720 --> 00:09:05,240
+<font color="#FFFF51">Nie zobaczysz ich gołym okiem,</font>
+<font color="#FFFF51">ale są wszędzie.</font>
+
+142
+00:09:05,400 --> 00:09:09,400
+<font color="#FFFF51">To duży temat,</font>
+<font color="#FFFF51">więc tyle na dziś ci wystarczy.</font>
+
+143
+00:09:09,560 --> 00:09:14,200
+<font color="#FFFF51">Są bakterie, które potrafią</font>
+<font color="#FFFF51">związać azot atmosferyczny.</font>
+
+144
+00:09:14,360 --> 00:09:19,040
+<font color="#FFFF51">Wtedy jest dostępny dla roślin.</font>
+To niesamowite, alchemiku.
+
+145
+00:09:19,200 --> 00:09:20,800
+Dobrze, że wróciłeś.
+
+146
+00:09:20,960 --> 00:09:26,680
+Zrobimy porządny pokaz w programie
+edukacyjnym dla poddanych.
+
+147
+00:09:26,840 --> 00:09:30,920
+<font color="#FFFF51">Oczywiście, ale najpierw</font>
+<font color="#FFFF51">chciałbym się dowiedzieć,</font>
+
+148
+00:09:31,080 --> 00:09:33,680
+<font color="#FFFF51">dlaczego tak mnie boli głowa.</font>
+
+149
+00:09:52,160 --> 00:09:56,680
+Studnio Prawdy, wielka tajemnico...
+
+150
+00:09:58,400 --> 00:10:03,960
+Co mogę zrobić, by uratować cię
+przed tym człowiekiem, alchemikiem?
+
+151
+00:10:04,840 --> 00:10:07,760
+On pochodzi z innego wymiaru.
+
+152
+00:10:07,920 --> 00:10:12,040
+Przez moje niedopatrzenie
+przedostał się tutaj,
+
+153
+00:10:12,200 --> 00:10:14,320
+a teraz zobaczył ciebie.
+
+154
+00:10:27,480 --> 00:10:29,680
+Tak też się stanie.
+
+155
+00:10:41,240 --> 00:10:43,120
+<font color="#16F158">Witajcie.</font>
+
+156
+00:10:43,280 --> 00:10:45,080
+Dzień dobry, królowo.
+
+157
+00:10:45,240 --> 00:10:47,320
+<font color="#16F158">Dzień dobry, dzień dobry.</font>
+
+158
+00:10:47,480 --> 00:10:49,280
+<font color="#16F158">Macie jakieś pomysły,</font>
+
+159
+00:10:49,440 --> 00:10:53,720
+<font color="#16F158">by pomóc Mirmiłowi</font>
+<font color="#16F158">w promocji programu edukacyjnego?</font>
+
+160
+00:10:53,880 --> 00:10:56,840
+Rozmawialiśmy z alchemikiem
+o azocie.
+
+161
+00:10:57,000 --> 00:11:00,200
+Może ten pierwiastek nam pomoże?
+
+162
+00:11:01,480 --> 00:11:04,000
+<font color="#FFFF51">Jak najbardziej, Bartłomieju.</font>
+
+163
+00:11:04,160 --> 00:11:09,200
+<font color="#FFFF51">Będziemy mogli pokazać poddanym</font>
+<font color="#FFFF51">działanie azotu w taki sposób,</font>
+
+164
+00:11:09,360 --> 00:11:12,880
+<font color="#FFFF51">żeby zrozumieli,</font>
+<font color="#FFFF51">że nie są świadkami magii.</font>
+
+165
+00:11:13,040 --> 00:11:15,280
+<font color="#16F158">I to się nazywa współpraca.</font>
+
+166
+00:11:15,440 --> 00:11:17,320
+<font color="#16F158">Idziemy, alchemiku.</font>
+
+167
+00:11:17,480 --> 00:11:18,880
+<font color="#16F158">Za mną!</font>
+
+168
+00:11:19,040 --> 00:11:21,520
+A ja?
+
+169
+00:11:25,480 --> 00:11:27,680
+Poddani i poddanki!
+
+170
+00:11:27,840 --> 00:11:29,600
+Poddani!
+
+171
+00:11:29,760 --> 00:11:33,760
+Królowa Kalina we własnej osobie
+na swoim dworze.
+
+172
+00:11:34,560 --> 00:11:36,800
+<font color="#16F158">Witam was serdecznie.</font>
+
+173
+00:11:38,160 --> 00:11:40,320
+<font color="#16F158">I jak tam, Mirmile?</font>
+
+174
+00:11:40,480 --> 00:11:45,200
+<font color="#16F158">Ile osób zachęciłeś</font>
+<font color="#16F158">do naszego programu edukacyjnego?</font>
+
+175
+00:11:45,360 --> 00:11:47,400
+<font color="aqua">Ja próbowałem wszystkiego.</font>
+
+176
+00:11:47,560 --> 00:11:49,360
+<font color="aqua">Śpiewałem piosenki,</font>
+
+177
+00:11:49,520 --> 00:11:51,320
+<font color="aqua">układałem poematy,</font>
+
+178
+00:11:51,480 --> 00:11:54,520
+<font color="aqua">o jakich się nie śniło</font>
+<font color="aqua">największym poetom.</font>
+
+179
+00:11:54,680 --> 00:11:56,480
+<font color="aqua">Ale...</font>
+
+180
+00:11:56,640 --> 00:12:03,160
+<font color="#16F158">Ile osób udało ci się zachęcić</font>
+<font color="#16F158">tymi poematami i piosenkami?</font>
+
+181
+00:12:03,320 --> 00:12:06,840
+<font color="aqua">Według moich obliczeń</font>
+<font color="aqua">żadnej osoby nie...</font>
+
+182
+00:12:07,000 --> 00:12:09,960
+Żadnej?
+<font color="#16F158">Rozczarowujesz mnie, Mirmile.</font>
+
+183
+00:12:10,120 --> 00:12:15,840
+<font color="aqua">Już była kolejka, oni podchodzą,</font>
+<font color="aqua">ale zaraz, że nie, że to nudne.</font>
+
+184
+00:12:16,000 --> 00:12:19,360
+<font color="aqua">Alchemik wszystko by im wyjaśnił.</font>
+<font color="#FFFF51">Witaj.</font>
+
+185
+00:12:19,520 --> 00:12:21,560
+<font color="aqua">Gdzie ty się podziewałeś?</font>
+
+186
+00:12:21,720 --> 00:12:26,360
+<font color="aqua">My tu mamy problemy, wszystko</font>
+<font color="aqua">nam się w rękach rozsypuje.</font>
+
+187
+00:12:26,520 --> 00:12:29,520
+<font color="aqua">A ty sobie idziesz</font>
+<font color="aqua">do innego wymiaru?</font>
+
+188
+00:12:29,680 --> 00:12:33,800
+<font color="#16F158">Spokojnie.</font>
+<font color="#16F158">Alchemik wrócił, żeby nam pomóc.</font>
+
+189
+00:12:36,440 --> 00:12:39,320
+<font color="#FFFF51">Witajcie, poddani królowej Kaliny.</font>
+
+190
+00:12:39,480 --> 00:12:41,800
+<font color="#FFFF51">Mam na imię Alek, z skrócie Al.</font>
+
+191
+00:12:41,960 --> 00:12:44,600
+<font color="#FFFF51">Jestem nadwornym alchemikiem.</font>
+
+192
+00:12:44,760 --> 00:12:48,760
+<font color="#FFFF51">Przychodzę tu,</font>
+<font color="#FFFF51">aby wam zaprezentować ciekły azot.</font>
+
+193
+00:12:48,920 --> 00:12:51,560
+<font color="#8080FF">OKRZYKI ZDUMIENIA</font>
+
+194
+00:12:51,720 --> 00:12:54,800
+<font color="#FFFF51">To prawdopodobnie</font>
+<font color="#FFFF51">najzimniejszy płyn,</font>
+
+195
+00:12:54,960 --> 00:12:57,440
+<font color="#FFFF51">jaki kiedykolwiek zobaczycie.</font>
+
+196
+00:12:57,600 --> 00:12:59,640
+<font color="#FFFF51">Ma -196 stopni Celsjusza.</font>
+
+197
+00:12:59,800 --> 00:13:01,600
+<font color="#FFFF51">Tak niska temperatura</font>
+
+198
+00:13:01,760 --> 00:13:05,960
+<font color="#FFFF51">pozwala zmieniać właściwości</font>
+<font color="#FFFF51">niektórych przedmiotów.</font>
+
+199
+00:13:06,120 --> 00:13:09,800
+<font color="#FFFF51">Róża! Czy mogę pożyczyć różę,</font>
+<font color="#FFFF51">droga pani?</font>
+
+200
+00:13:11,880 --> 00:13:14,160
+<font color="#FFFF51">Może od razu poproszę dwie.</font>
+
+201
+00:13:15,280 --> 00:13:20,280
+<font color="#FFFF51">Czyż róża nie jest jednym</font>
+<font color="#FFFF51">z najpiękniejszych kwiatów?</font>
+
+202
+00:13:20,440 --> 00:13:22,200
+<font color="#FFFF51">Zatrzymaj, królowo.</font>
+
+203
+00:13:22,360 --> 00:13:24,600
+Pięknie pachnie, alchemiku.
+
+204
+00:13:24,760 --> 00:13:27,040
+<font color="#FFFF51">Sprawdźmy, co się stanie,</font>
+
+205
+00:13:27,200 --> 00:13:30,360
+<font color="#FFFF51">gdy zanurzymy różę</font>
+<font color="#FFFF51">w ciekłym azocie.</font>
+
+206
+00:13:32,200 --> 00:13:34,840
+Drży.
+<font color="#FFFF51">Bo ciekły azot się gotuje.</font>
+
+207
+00:13:35,000 --> 00:13:37,760
+<font color="#FFFF51">Róża jest dla niego bardzo gorąca.</font>
+
+208
+00:13:37,920 --> 00:13:41,000
+<font color="#FFFF51">Jednak jeśli</font>
+<font color="#FFFF51">potrzymamy ją tam chwilę,</font>
+
+209
+00:13:41,160 --> 00:13:44,640
+<font color="#FFFF51">schłodzi się</font>
+<font color="#FFFF51">do temperatury ciekłego azotu.</font>
+
+210
+00:13:44,800 --> 00:13:46,960
+<font color="#FFFF51">Do -196 stopni Celsjusza.</font>
+
+211
+00:13:47,120 --> 00:13:48,880
+<font color="aqua">Ojej! Bardzo zimno.</font>
+
+212
+00:13:49,040 --> 00:13:50,840
+<font color="#16F158">Nic się nie stało.</font>
+
+213
+00:13:51,000 --> 00:13:52,800
+Wygląda normalnie.
+
+214
+00:13:52,960 --> 00:13:54,760
+<font color="#FFFF51">Naprawdę?</font>
+
+215
+00:14:02,080 --> 00:14:03,960
+<font color="#16F158">O!</font>
+
+216
+00:14:08,080 --> 00:14:10,720
+<font color="#16F158">Ja swojej nie oddam.</font>
+
+217
+00:14:10,880 --> 00:14:14,040
+<font color="#FFFF51">Kurs naukowy dla poddanych</font>
+<font color="#FFFF51">czas rozpocząć.</font>
+
+218
+00:14:14,200 --> 00:14:16,800
+Brawo!
+
+219
+00:14:34,160 --> 00:14:37,080
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+220
+00:14:37,240 --> 00:14:40,800
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+221
+00:14:42,760 --> 00:14:44,560
+
+

@@ -1,0 +1,980 @@
+1
+00:00:51,000 --> 00:00:53,880
+<font backgroundcolor="#000000"> Morza szum, ptaków śpiew... </font>
+
+2
+00:00:54,400 --> 00:00:56,680
+<font backgroundcolor="#000000"> I wszystko rośnie samo. </font>
+
+3
+00:00:57,000 --> 00:00:59,400
+<font backgroundcolor="#000000"> Owoce spadają z drzew. </font>
+
+4
+00:00:59,800 --> 00:01:02,160
+<font backgroundcolor="#000000"> Mandarynkowiec. </font>
+
+5
+00:01:02,440 --> 00:01:04,760
+<font backgroundcolor="#000000"> Pójdę poszukam. </font>
+
+6
+00:01:07,440 --> 00:01:09,520
+<font backgroundcolor="#000000"> Ta zgniła. </font>
+
+7
+00:01:09,760 --> 00:01:11,800
+<font backgroundcolor="#000000"> Tu są mrówki. </font>
+
+8
+00:01:11,960 --> 00:01:15,200
+<font backgroundcolor="#000000"> Ale te trzy to piękne mandarynki. </font>
+
+9
+00:01:15,560 --> 00:01:20,280
+<font backgroundcolor="#000000"> U nas jakiś chłop przyszedłby </font>
+<font backgroundcolor="#000000"> z koszykiem, pozbierał, </font>
+
+10
+00:01:20,440 --> 00:01:22,800
+<font backgroundcolor="#000000"> zaniósł kobiecie do domu. </font>
+
+11
+00:01:22,960 --> 00:01:26,520
+<font backgroundcolor="#000000"> Ona narobiłaby konfitur, </font>
+<font backgroundcolor="#000000"> zapasów na zimę. </font>
+
+12
+00:01:26,680 --> 00:01:29,080
+<font backgroundcolor="#000000"> A tu ciągle owoce rosną. </font>
+
+13
+00:01:29,240 --> 00:01:32,320
+<font backgroundcolor="#000000"> Papaja. Już prawie dojrzała. </font>
+
+14
+00:01:32,880 --> 00:01:38,520
+<font backgroundcolor="#000000"> Nawet nie muszę się po nią ani </font>
+<font backgroundcolor="#000000"> schylać, ani na drabinę wchodzić. </font>
+
+15
+00:01:38,680 --> 00:01:41,360
+<font backgroundcolor="#000000"> Rośnie na dogodnej wysokości. </font>
+
+16
+00:01:42,160 --> 00:01:46,480
+<font backgroundcolor="#000000"> Pieniądze mi niepotrzebne, </font>
+<font backgroundcolor="#000000"> ubranie też nie bardzo. </font>
+
+17
+00:01:46,680 --> 00:01:50,600
+<font backgroundcolor="#000000"> Dom może być byle jaki. </font>
+<font backgroundcolor="#000000"> I zapasy niepotrzebne. </font>
+
+18
+00:01:50,760 --> 00:01:53,400
+<font backgroundcolor="#000000"> Ludzie nie chodzą do roboty. </font>
+
+19
+00:01:53,560 --> 00:01:57,160
+<font backgroundcolor="#000000"> Białemu człowiekowi </font>
+<font backgroundcolor="#000000"> pieniądze są potrzebne, </font>
+
+20
+00:01:57,320 --> 00:02:02,480
+<font backgroundcolor="#000000"> żeby się najeść, ubrać, </font>
+<font backgroundcolor="#000000"> żeby mieć dom i nagromadzić zapasów. </font>
+
+21
+00:02:02,680 --> 00:02:05,120
+<font backgroundcolor="#000000"> A tu żyjemy sobie gnuśnie. </font>
+
+22
+00:02:06,360 --> 00:02:11,760
+<font backgroundcolor="#000000"> I po jakimś czasie </font>
+<font backgroundcolor="#000000"> zaczyna nas ta nuda wkurzać. </font>
+
+23
+00:02:12,600 --> 00:02:15,320
+<font backgroundcolor="#000000"> Napiłby się człowiek czegoś. </font>
+
+24
+00:02:15,480 --> 00:02:18,600
+<font backgroundcolor="#000000"> To poszukamy napoju wyskokowego. </font>
+
+25
+00:02:20,160 --> 00:02:22,360
+<font backgroundcolor="#000000"> Wdepnąłem w mandarynkę. </font>
+
+26
+00:02:46,160 --> 00:02:48,240
+<font backgroundcolor="#000000"> Oto kava. </font>
+
+27
+00:02:48,400 --> 00:02:53,800
+<font backgroundcolor="#000000"> Ale nie nasza czarna kawa, </font>
+<font backgroundcolor="#000000"> bo szukamy napoju wyskokowego. </font>
+
+28
+00:02:54,000 --> 00:02:58,520
+<font backgroundcolor="#000000"> To jest kava kava - pisane przez "v". </font>
+
+29
+00:02:58,680 --> 00:03:02,600
+<font backgroundcolor="#000000"> Ten problem będziemy mieli </font>
+<font backgroundcolor="#000000"> w całym odcinku. </font>
+
+30
+00:03:02,840 --> 00:03:06,880
+<font backgroundcolor="#000000"> Dziś będę mówił wyłącznie </font>
+<font backgroundcolor="#000000"> o roślinie kava kava, </font>
+
+31
+00:03:07,080 --> 00:03:09,680
+<font backgroundcolor="#000000"> czyli o pieprzu metystynowym. </font>
+
+32
+00:03:09,840 --> 00:03:14,760
+<font backgroundcolor="#000000"> To roślina lecznicza </font>
+<font backgroundcolor="#000000"> znana na wszystkich wyspach Pacyfiku: </font>
+
+33
+00:03:14,920 --> 00:03:19,120
+<font backgroundcolor="#000000"> Na Hawajach, na Samoa, </font>
+<font backgroundcolor="#000000"> na Fidżi oraz na Vanuatu. </font>
+
+34
+00:03:19,520 --> 00:03:23,520
+<font backgroundcolor="#000000"> Kava jest siostrą </font>
+<font backgroundcolor="#000000"> naszego czarnego pieprzu. </font>
+
+35
+00:03:23,680 --> 00:03:26,040
+<font backgroundcolor="#000000"> Te same sercowate liście. </font>
+
+36
+00:03:26,200 --> 00:03:31,920
+<font backgroundcolor="#000000"> Nawet owoce ma takie jak pieprz czarny </font>
+<font backgroundcolor="#000000"> i nawet smakują podobnie. </font>
+
+37
+00:03:32,080 --> 00:03:35,760
+<font backgroundcolor="#000000"> Ale nie z tego </font>
+<font backgroundcolor="#000000"> robi się napoje wyskokowe. </font>
+
+38
+00:03:35,920 --> 00:03:39,080
+<font backgroundcolor="#000000"> Szukamy w tej kavie korzeni. </font>
+
+39
+00:03:40,440 --> 00:03:45,800
+<font backgroundcolor="#000000"> One są gdzieś tu. Trzeba dużego kija, </font>
+<font backgroundcolor="#000000"> żeby się do nich dobrać. </font>
+
+40
+00:04:26,040 --> 00:04:28,320
+<font backgroundcolor="#000000"> Pięknie posprzątane pole. </font>
+
+41
+00:04:28,480 --> 00:04:31,960
+<font backgroundcolor="#000000"> Zabraliśmy z ziemi to, </font>
+<font backgroundcolor="#000000"> co nam potrzebne. </font>
+
+42
+00:04:32,120 --> 00:04:38,080
+<font backgroundcolor="#000000"> A potem ten krzaczek, który </font>
+<font backgroundcolor="#000000"> nie miał szansy urosnąć, został. </font>
+
+43
+00:04:38,400 --> 00:04:44,360
+<font backgroundcolor="#000000"> Tu obok zakopano fragmenty gałązek. </font>
+<font backgroundcolor="#000000"> One wszystkie wykiełkują. </font>
+
+44
+00:04:45,120 --> 00:04:49,760
+<font backgroundcolor="#000000"> Przykryto je, </font>
+<font backgroundcolor="#000000"> żeby ta ziemia nie wysychała. </font>
+
+45
+00:04:50,280 --> 00:04:53,560
+<font backgroundcolor="#000000"> Tutaj wykiełkują kolejne kavy. </font>
+
+46
+00:04:53,760 --> 00:04:58,800
+<font backgroundcolor="#000000"> Potem się je powyciąga </font>
+<font backgroundcolor="#000000"> i rozsadzi po tym polu. </font>
+
+47
+00:06:06,080 --> 00:06:09,960
+<font backgroundcolor="#000000"> Oto wiązka korzeni </font>
+<font backgroundcolor="#000000"> wykopana spod krzaka. </font>
+
+48
+00:06:10,160 --> 00:06:15,480
+<font backgroundcolor="#000000"> Takiego samego jak ten, </font>
+<font backgroundcolor="#000000"> przy którym byłem przed chwilą. </font>
+
+49
+00:06:15,640 --> 00:06:17,840
+<font backgroundcolor="#000000"> Korzenie jak korzenie. </font>
+
+50
+00:06:18,040 --> 00:06:23,240
+<font backgroundcolor="#000000"> Tutaj widać trochę substancji, </font>
+<font backgroundcolor="#000000"> które kava w sobie zawiera. </font>
+
+51
+00:06:23,400 --> 00:06:25,400
+<font backgroundcolor="#000000"> Jakie to substancje? </font>
+
+52
+00:06:25,560 --> 00:06:30,560
+<font backgroundcolor="#000000"> Jak podają wszystkie książki, </font>
+<font backgroundcolor="#000000"> ta kava nie uzależnia. </font>
+
+53
+00:06:30,880 --> 00:06:35,320
+<font backgroundcolor="#000000"> W przeciwieństwie </font>
+<font backgroundcolor="#000000"> do innych napojów wyskokowych. </font>
+
+54
+00:06:35,480 --> 00:06:41,640
+<font backgroundcolor="#000000"> A w dodatku wyzwala w człowieku stan </font>
+<font backgroundcolor="#000000"> uspokojenia, błogości i szczęścia. </font>
+
+55
+00:06:41,800 --> 00:06:44,480
+<font backgroundcolor="#000000"> W przeciwieństwie do alkoholu, </font>
+
+56
+00:06:44,640 --> 00:06:50,720
+<font backgroundcolor="#000000"> który potrafi wyzwolić gniew, </font>
+<font backgroundcolor="#000000"> chęć do bitki albo głośnego śpiewania. </font>
+
+57
+00:06:50,880 --> 00:06:54,000
+<font backgroundcolor="#000000"> Kava pasuje do Wysp Szczęśliwych. </font>
+
+58
+00:06:54,160 --> 00:06:57,800
+<font backgroundcolor="#000000"> Poskramia gniew i chęć do hałasowania. </font>
+
+59
+00:06:57,960 --> 00:07:02,000
+<font backgroundcolor="#000000"> Zalecałbym dzieciom. </font>
+<font backgroundcolor="#000000"> W tabletkach albo w pasku. </font>
+
+60
+00:07:26,440 --> 00:07:30,600
+<font backgroundcolor="#000000"> W mniejszych ilościach kava </font>
+<font backgroundcolor="#000000"> działa jak euforiant. </font>
+
+61
+00:07:30,760 --> 00:07:33,880
+<font backgroundcolor="#000000"> Wzmaga elokwencję, chęć do rozmowy. </font>
+
+62
+00:07:34,040 --> 00:07:39,440
+<font backgroundcolor="#000000"> Wyczula na delikatne dźwięki, </font>
+<font backgroundcolor="#000000"> można by cichutko słuchać Mozarta. </font>
+
+63
+00:07:39,600 --> 00:07:42,960
+<font backgroundcolor="#000000"> A jak się wypije za dużo? </font>
+<font backgroundcolor="#000000"> Idzie w nogi. </font>
+
+64
+00:07:43,200 --> 00:07:47,920
+<font backgroundcolor="#000000"> Robią się takie ciężkie. </font>
+<font backgroundcolor="#000000"> Nic się człowiekowi nie chce. </font>
+
+65
+00:07:48,080 --> 00:07:52,680
+<font backgroundcolor="#000000"> Tylko by siedział, nic nie gadał, </font>
+<font backgroundcolor="#000000"> niczego nie słuchał. </font>
+
+66
+00:07:52,840 --> 00:07:54,920
+<font backgroundcolor="#000000"> Trwa to ze trzy godziny. </font>
+
+67
+00:07:55,080 --> 00:07:57,040
+<font backgroundcolor="#000000"> Jak się kavę podaje? </font>
+
+68
+00:07:57,240 --> 00:07:59,360
+<font backgroundcolor="#000000"> To obejrzymy w domu. </font>
+
+69
+00:08:22,760 --> 00:08:24,800
+<font backgroundcolor="#000000"> Nie powinno mnie tu być. </font>
+
+70
+00:08:24,960 --> 00:08:30,640
+<font backgroundcolor="#000000"> Na pewno nie powinienem siedzieć </font>
+<font backgroundcolor="#000000"> w tym miejscu. To obejmuje tabu. </font>
+
+71
+00:08:30,800 --> 00:08:34,080
+<font backgroundcolor="#000000"> Ale chciałem państwu pokazać sprzęty, </font>
+
+72
+00:08:34,240 --> 00:08:38,160
+<font backgroundcolor="#000000"> których może zaraz </font>
+<font backgroundcolor="#000000"> nie pozwolą nam filmować. </font>
+
+73
+00:08:38,320 --> 00:08:41,240
+<font backgroundcolor="#000000"> To jest naczynie, korytko, miska, </font>
+
+74
+00:08:41,400 --> 00:08:46,440
+<font backgroundcolor="#000000"> w której przygotowuje się kavę </font>
+<font backgroundcolor="#000000"> i z której się kavę pije. </font>
+
+75
+00:08:46,600 --> 00:08:51,040
+<font backgroundcolor="#000000"> Kawałek osłony liścia palmowego, </font>
+<font backgroundcolor="#000000"> odpowiednio zgięty. </font>
+
+76
+00:08:51,200 --> 00:08:54,600
+<font backgroundcolor="#000000"> Przewiązany sznureczkiem </font>
+<font backgroundcolor="#000000"> w tym miejscu. </font>
+
+77
+00:08:54,760 --> 00:08:56,600
+<font backgroundcolor="#000000"> Ustawiony na stojaku. </font>
+
+78
+00:08:56,760 --> 00:08:58,880
+<font backgroundcolor="#000000"> Tu zasiądzie podczaszy. </font>
+
+79
+00:08:59,200 --> 00:09:05,600
+<font backgroundcolor="#000000"> Z takich włókien przygotuje napój, </font>
+<font backgroundcolor="#000000"> którym będą się raczyć mężczyźni. </font>
+
+80
+00:09:06,040 --> 00:09:11,400
+<font backgroundcolor="#000000"> Ile będzie można filmować? Nie wiem, </font>
+<font backgroundcolor="#000000"> bo wszystko obejmuje tabu. </font>
+
+81
+00:09:17,240 --> 00:09:19,680
+<font backgroundcolor="#000000"> Obejrzyjmy jeszcze ten dom. </font>
+
+82
+00:09:19,840 --> 00:09:21,920
+<font backgroundcolor="#000000"> Kurna chata. </font>
+
+83
+00:09:22,200 --> 00:09:27,320
+<font backgroundcolor="#000000"> Ale jak się zajrzy do środka, </font>
+<font backgroundcolor="#000000"> okazuje się, że wcale nie. </font>
+
+84
+00:09:27,480 --> 00:09:29,840
+<font backgroundcolor="#000000"> To porządny dom. </font>
+
+85
+00:09:30,000 --> 00:09:35,480
+<font backgroundcolor="#000000"> To nie jest zwykły słupek drewniany, </font>
+<font backgroundcolor="#000000"> to jest drewniana kolumna. </font>
+
+86
+00:09:35,640 --> 00:09:39,320
+<font backgroundcolor="#000000"> Ona podtrzymuje ogromny legar, </font>
+<font backgroundcolor="#000000"> tam u góry. </font>
+
+87
+00:09:39,480 --> 00:09:44,240
+<font backgroundcolor="#000000"> On idzie przez całą długość domu </font>
+<font backgroundcolor="#000000"> i wystaje na zewnątrz. </font>
+
+88
+00:09:44,560 --> 00:09:48,760
+<font backgroundcolor="#000000"> Na tym wszystkim trójwarstwowy </font>
+<font backgroundcolor="#000000"> bardzo mocny dach. </font>
+
+89
+00:09:48,920 --> 00:09:51,520
+<font backgroundcolor="#000000"> Konstrukcja nośna - te belki. </font>
+
+90
+00:09:51,680 --> 00:09:56,720
+<font backgroundcolor="#000000"> Na nich w poprzek mniejsze belki </font>
+<font backgroundcolor="#000000"> z bambusa, bardzo mocne. </font>
+
+91
+00:09:56,880 --> 00:10:02,720
+<font backgroundcolor="#000000"> I dopiero na tym łaty, do których </font>
+<font backgroundcolor="#000000"> poprzyczepiano panele dachówkowe. </font>
+
+92
+00:10:02,880 --> 00:10:07,000
+<font backgroundcolor="#000000"> Są z liścia palmowego, </font>
+<font backgroundcolor="#000000"> bardzo gęsto przyczepiane. </font>
+
+93
+00:10:07,160 --> 00:10:10,640
+<font backgroundcolor="#000000"> To nie jest prosta </font>
+<font backgroundcolor="#000000"> amazońska konstrukcja. </font>
+
+94
+00:10:10,800 --> 00:10:12,680
+<font backgroundcolor="#000000"> Po co aż tyle wysiłku? </font>
+
+95
+00:10:12,840 --> 00:10:15,560
+<font backgroundcolor="#000000"> Jesteśmy na wysepkach Pacyfiku. </font>
+
+96
+00:10:15,720 --> 00:10:20,040
+<font backgroundcolor="#000000"> Maleńkie drobinki lądu, </font>
+<font backgroundcolor="#000000"> a dookoła przestwór oceanu. </font>
+
+97
+00:10:20,200 --> 00:10:22,640
+<font backgroundcolor="#000000"> Po oceanie hulają wiatry. </font>
+
+98
+00:10:22,800 --> 00:10:29,040
+<font backgroundcolor="#000000"> Gdyby ta konstrukcja była słabsza, </font>
+<font backgroundcolor="#000000"> pierwszy wiatr zdmuchnąłby dach. </font>
+
+99
+00:10:29,200 --> 00:10:31,680
+<font backgroundcolor="#000000"> I siedzielibyśmy na ziemi. </font>
+
+100
+00:10:31,840 --> 00:10:37,560
+<font backgroundcolor="#000000"> Dlatego na wyspach Pacyfiku </font>
+<font backgroundcolor="#000000"> buduje się domy, a w Amazonii szałasy. </font>
+
+101
+00:10:43,960 --> 00:10:45,880
+<font backgroundcolor="#000000"> Bardzo grube ściany. </font>
+
+102
+00:10:46,040 --> 00:10:51,600
+<font backgroundcolor="#000000"> Widzą państwo, ile tego jest. </font>
+<font backgroundcolor="#000000"> Warstwa palmowych liści na warstwie. </font>
+
+103
+00:10:51,840 --> 00:10:55,920
+<font backgroundcolor="#000000"> W Amazonii coś takiego </font>
+<font backgroundcolor="#000000"> uznaliby za marnotrawstwo. </font>
+
+104
+00:10:56,080 --> 00:11:01,200
+<font backgroundcolor="#000000"> A z zewnątrz? Od frontu wszystko </font>
+<font backgroundcolor="#000000"> w porządku, elegancki domek. </font>
+
+105
+00:11:01,360 --> 00:11:03,200
+<font backgroundcolor="#000000"> Natomiast z boku... </font>
+
+106
+00:11:03,480 --> 00:11:05,800
+<font backgroundcolor="#000000"> Z boku to wygląda marnie. </font>
+
+107
+00:11:06,280 --> 00:11:11,360
+<font backgroundcolor="#000000"> Takie badziewie, szałasisko, </font>
+<font backgroundcolor="#000000"> takie wielkie nic. </font>
+
+108
+00:11:11,760 --> 00:11:17,520
+<font backgroundcolor="#000000"> To nie ujawnia tej misternej </font>
+<font backgroundcolor="#000000"> konstrukcji ze środka. </font>
+
+109
+00:11:17,880 --> 00:11:19,960
+<font backgroundcolor="#000000"> Chodźmy zobaczyć front. </font>
+
+110
+00:11:22,000 --> 00:11:24,000
+<font backgroundcolor="#000000"> Front dopracowany. </font>
+
+111
+00:11:24,160 --> 00:11:30,200
+<font backgroundcolor="#000000"> Najpierw rzut oka na tę belkę, która </font>
+<font backgroundcolor="#000000"> szła przez całą długość chałupy. </font>
+
+112
+00:11:30,360 --> 00:11:33,720
+<font backgroundcolor="#000000"> Wystaje z przodu i ma rzeźbioną głowę. </font>
+
+113
+00:11:33,880 --> 00:11:38,760
+<font backgroundcolor="#000000"> W Amazonii w ogóle </font>
+<font backgroundcolor="#000000"> się nie przejmują takimi rzeczami. </font>
+
+114
+00:11:38,920 --> 00:11:41,760
+<font backgroundcolor="#000000"> Troszkę niżej to nie jest herb. </font>
+
+115
+00:11:41,920 --> 00:11:45,440
+<font backgroundcolor="#000000"> To oznaka statusu społecznego </font>
+<font backgroundcolor="#000000"> - bogactwa. </font>
+
+116
+00:11:45,600 --> 00:11:50,720
+<font backgroundcolor="#000000"> Szczęki świńskie pozawieszane </font>
+<font backgroundcolor="#000000"> w różnych miejscach. </font>
+
+117
+00:11:50,880 --> 00:11:54,680
+<font backgroundcolor="#000000"> Wszystko, żeby pokazać, </font>
+<font backgroundcolor="#000000"> jaki ten dom bogaty. </font>
+
+118
+00:11:54,840 --> 00:11:58,760
+<font backgroundcolor="#000000"> Dom, nie budynek, </font>
+<font backgroundcolor="#000000"> ale rodzina albo klan. </font>
+
+119
+00:12:35,680 --> 00:12:38,160
+<font backgroundcolor="#000000"> Starodawna butelka na wodę. </font>
+
+120
+00:12:38,320 --> 00:12:40,160
+<font backgroundcolor="#000000"> Kawał bambusa. </font>
+
+121
+00:12:40,320 --> 00:12:44,600
+<font backgroundcolor="#000000"> Tam do środka nalano wody, </font>
+<font backgroundcolor="#000000"> tu jest korek z liści. </font>
+
+122
+00:12:44,760 --> 00:12:48,200
+<font backgroundcolor="#000000"> Trochę kapie, </font>
+<font backgroundcolor="#000000"> nie za bardzo zakorkowane. </font>
+
+123
+00:12:48,360 --> 00:12:52,560
+<font backgroundcolor="#000000"> W każdej takiej sekcji </font>
+<font backgroundcolor="#000000"> jest jakiś litr wody. </font>
+
+124
+00:12:52,720 --> 00:12:54,800
+<font backgroundcolor="#000000"> Może nawet półtora. </font>
+
+125
+00:12:54,960 --> 00:12:58,320
+<font backgroundcolor="#000000"> Tutaj jest z 10 sekcji. </font>
+
+126
+00:12:58,480 --> 00:13:02,360
+<font backgroundcolor="#000000"> Bambus ma w środku </font>
+<font backgroundcolor="#000000"> takie naturalne grodzie. </font>
+
+127
+00:13:02,520 --> 00:13:09,080
+<font backgroundcolor="#000000"> Żeby nalać wody, chłopcy musieli wziąć </font>
+<font backgroundcolor="#000000"> najpierw taki wycior z cienkiego kija. </font>
+
+128
+00:13:09,240 --> 00:13:12,160
+<font backgroundcolor="#000000"> I te grodzie poprzebijać. </font>
+
+129
+00:13:12,640 --> 00:13:17,440
+<font backgroundcolor="#000000"> Teraz wsadzą koniec bambusa </font>
+<font backgroundcolor="#000000"> w takie jarzmo, </font>
+
+130
+00:13:18,680 --> 00:13:23,640
+<font backgroundcolor="#000000"> będą dupkę podnosić </font>
+<font backgroundcolor="#000000"> i po troszeczku nalewać. </font>
+
+131
+00:13:40,320 --> 00:13:44,680
+<font backgroundcolor="#000000"> Ten konkretny dom </font>
+<font backgroundcolor="#000000"> nie pełni funkcji mieszkalnych. </font>
+
+132
+00:13:44,840 --> 00:13:47,000
+<font backgroundcolor="#000000"> Pełni funkcje społeczne. </font>
+
+133
+00:13:47,160 --> 00:13:52,760
+<font backgroundcolor="#000000"> Dżentelmeni schodzą się tutaj </font>
+<font backgroundcolor="#000000"> popołudniami na cygaro i koniaczek. </font>
+
+134
+00:13:52,920 --> 00:13:59,120
+<font backgroundcolor="#000000"> Ponieważ jesteśmy w kulturze Pacyfiku, </font>
+<font backgroundcolor="#000000"> nie ma koniaku, tylko tutejsza kava. </font>
+
+135
+00:13:59,280 --> 00:14:01,280
+<font backgroundcolor="#000000"> To taka klubokawiarnia. </font>
+
+136
+00:14:34,880 --> 00:14:38,520
+<font backgroundcolor="#000000"> Wielokrotnie przeżute i wyplute. </font>
+
+137
+00:14:39,080 --> 00:14:41,560
+<font backgroundcolor="#000000"> A potem jeszcze wyprane. </font>
+
+138
+00:14:41,720 --> 00:14:46,960
+<font backgroundcolor="#000000"> Chodzi o to, żeby te włókna oddały </font>
+<font backgroundcolor="#000000"> wszystko, co w sobie mają. </font>
+
+139
+00:14:47,120 --> 00:14:50,200
+<font backgroundcolor="#000000"> To ma wylądować tam, w tej breji. </font>
+
+140
+00:14:50,360 --> 00:14:53,000
+<font backgroundcolor="#000000"> Ma kolor kawy z mlekiem. </font>
+
+141
+00:15:03,840 --> 00:15:09,440
+<font backgroundcolor="#000000"> Jak państwo widzieli, oni z wielkim </font>
+<font backgroundcolor="#000000"> pietyzmem podchodzą do kavy. </font>
+
+142
+00:15:09,600 --> 00:15:12,400
+<font backgroundcolor="#000000"> Tak jak wszyscy mężczyźni świata </font>
+
+143
+00:15:12,560 --> 00:15:17,640
+<font backgroundcolor="#000000"> do wszystkich swoich napojów </font>
+<font backgroundcolor="#000000"> i innych substancji wyskokowych. </font>
+
+144
+00:15:17,800 --> 00:15:23,200
+<font backgroundcolor="#000000"> Jak się u nas bimber traktuje? </font>
+<font backgroundcolor="#000000"> Jak się go filtruje i oczyszcza? </font>
+
+145
+00:15:23,400 --> 00:15:26,400
+<font backgroundcolor="#000000"> Tak samo - długo i skrupulatnie. </font>
+
+146
+00:15:27,000 --> 00:15:31,920
+<font backgroundcolor="#000000"> Pierwsze nabranie kavy </font>
+<font backgroundcolor="#000000"> podaje się szefowi wioski. </font>
+
+147
+00:15:32,200 --> 00:15:35,280
+<font backgroundcolor="#000000"> Wtedy nikt nie może się odzywać. </font>
+
+148
+00:15:35,440 --> 00:15:38,360
+<font backgroundcolor="#000000"> Bo ten napój uwrażliwia słuch. </font>
+
+149
+00:15:38,520 --> 00:15:44,000
+<font backgroundcolor="#000000"> Nie chcemy obrazić zbyt głośnym </font>
+<font backgroundcolor="#000000"> dźwiękiem wodza, kiedy pije. </font>
+
+150
+00:17:27,880 --> 00:17:33,360
+<font backgroundcolor="#000000"> Dlaczego ten pan pił z miseczki </font>
+<font backgroundcolor="#000000"> a nie z korytka jak wszyscy inni? </font>
+
+151
+00:17:33,520 --> 00:17:36,600
+<font backgroundcolor="#000000"> Bo jest chory. </font>
+<font backgroundcolor="#000000"> Ma jakąś chorobę nosa. </font>
+
+152
+00:17:36,760 --> 00:17:42,280
+<font backgroundcolor="#000000"> Przez szacunek do innych nie mógł </font>
+<font backgroundcolor="#000000"> zanurzać twarzy w tym naczyniu. </font>
+
+153
+00:17:42,440 --> 00:17:44,280
+<font backgroundcolor="#000000"> A dlaczego splunął? </font>
+
+154
+00:17:44,440 --> 00:17:48,080
+<font backgroundcolor="#000000"> Indianie w Amazonii </font>
+<font backgroundcolor="#000000"> też spluwają na ziemię. </font>
+
+155
+00:17:48,240 --> 00:17:53,600
+<font backgroundcolor="#000000"> I u nas też czasem odrobinę wódki </font>
+<font backgroundcolor="#000000"> z kieliszka rzuca o ziemię. </font>
+
+156
+00:18:00,960 --> 00:18:02,880
+<font backgroundcolor="#000000"> Podczaszy. </font>
+
+157
+00:18:03,040 --> 00:18:09,280
+<font backgroundcolor="#000000"> Bardzo ważna funkcja każdej imprezy, </font>
+<font backgroundcolor="#000000"> gdzie się cokolwiek pije wyskokowego. </font>
+
+158
+00:18:09,440 --> 00:18:11,880
+<font backgroundcolor="#000000"> W Polsce ta funkcja zanikła. </font>
+
+159
+00:18:12,040 --> 00:18:15,280
+<font backgroundcolor="#000000"> Piją wszyscy ze wszystkimi bez sensu. </font>
+
+160
+00:18:15,440 --> 00:18:19,240
+<font backgroundcolor="#000000"> Kiedyś było tak </font>
+<font backgroundcolor="#000000"> - pierwsza wódka z ręki ojca. </font>
+
+161
+00:18:19,440 --> 00:18:21,960
+<font backgroundcolor="#000000"> Przy ojcu nie wolno się upić. </font>
+
+162
+00:18:22,120 --> 00:18:26,920
+<font backgroundcolor="#000000"> Nie wolno sięgać po dolewkę, </font>
+<font backgroundcolor="#000000"> póki podczaszy nie zezwoli. </font>
+
+163
+00:18:27,080 --> 00:18:30,760
+<font backgroundcolor="#000000"> Tradycje zostały </font>
+<font backgroundcolor="#000000"> tylko u dzikich plemion. </font>
+
+164
+00:19:26,280 --> 00:19:29,600
+<font backgroundcolor="#000000"> Makaron spróbuje w moim imieniu. </font>
+
+165
+00:19:29,760 --> 00:19:34,960
+<font backgroundcolor="#000000"> Jak się okaże, że język kołowacieje, </font>
+<font backgroundcolor="#000000"> nikt państwu nie opowie, </font>
+
+166
+00:19:35,120 --> 00:19:37,240
+<font backgroundcolor="#000000"> jak to pysznie smakuje. </font>
+
+167
+00:19:37,400 --> 00:19:40,920
+<font backgroundcolor="#000000"> Wygląda normalnie, </font>
+<font backgroundcolor="#000000"> jak woda ze ścierki, </font>
+
+168
+00:19:41,080 --> 00:19:43,280
+<font backgroundcolor="#000000"> którą się myje podłogę. </font>
+
+169
+00:19:43,440 --> 00:19:45,560
+<font backgroundcolor="#000000"> A smakuje... </font>
+
+170
+00:19:50,400 --> 00:19:52,560
+<font backgroundcolor="#000000"> Niedobre było? </font>
+
+171
+00:19:53,440 --> 00:19:58,080
+<font backgroundcolor="#000000"> Cukierki eukaliptusowe, </font>
+<font backgroundcolor="#000000"> stężenie 1000%. </font>
+
+172
+00:19:59,840 --> 00:20:03,080
+<font backgroundcolor="#000000"> I do tego jeszcze gorzko piekące. </font>
+
+173
+00:20:04,360 --> 00:20:06,960
+<font backgroundcolor="#000000"> Ale nie jest to taki smak... </font>
+
+174
+00:20:07,120 --> 00:20:12,400
+<font backgroundcolor="#000000"> Spodziewałem się, że to smakuje tak, </font>
+<font backgroundcolor="#000000"> jak wygląda. </font>
+
+175
+00:20:13,120 --> 00:20:15,280
+<font backgroundcolor="#000000"> Daje się to znieść. </font>
+
+176
+00:20:15,440 --> 00:20:19,200
+<font backgroundcolor="#000000"> -  Jak się czujemy? </font>
+<font backgroundcolor="#000000"> -  Na razie nic nie czujemy. </font>
+
+177
+00:20:19,360 --> 00:20:21,960
+<font backgroundcolor="#000000"> Jak po wypiciu wody ze ścierki. </font>
+
+178
+00:20:52,320 --> 00:21:00,000
+<font backgroundcolor="#000000"> Pan powiedział: "Poczekaj troszkę, </font>
+<font backgroundcolor="#000000"> a poczujesz, jak ci zdrętwieją wargi". </font>
+
+179
+00:21:00,240 --> 00:21:03,520
+<font backgroundcolor="#000000"> To będzie miłe uczucie rozleniwienia. </font>
+
+180
+00:21:03,920 --> 00:21:08,080
+<font backgroundcolor="#000000"> To zostawia posmak </font>
+<font backgroundcolor="#000000"> wywaru z sosnowych igieł. </font>
+
+181
+00:21:08,240 --> 00:21:10,920
+<font backgroundcolor="#000000"> Coś takiego czuję w ustach. </font>
+
+182
+00:21:11,080 --> 00:21:14,600
+<font backgroundcolor="#000000"> Dawno nie piłem, </font>
+<font backgroundcolor="#000000"> nie wiem, co powiedzieć. </font>
+
+183
+00:21:14,760 --> 00:21:18,120
+<font backgroundcolor="#000000"> Tak jakbyś pogryzł gałązkę sosnową. </font>
+
+184
+00:21:18,600 --> 00:21:21,320
+<font backgroundcolor="#000000"> To dosyć obrzydliwe jest. </font>
+
+185
+00:21:21,920 --> 00:21:26,440
+<font backgroundcolor="#000000"> Coś mi się już zrobiło? </font>
+<font backgroundcolor="#000000"> Oczy mi się powiększyły? </font>
+
+186
+00:21:26,600 --> 00:21:29,760
+<font backgroundcolor="#000000"> Nie, takie same jak zawsze. </font>
+
+187
+00:21:41,520 --> 00:21:43,680
+<font backgroundcolor="#000000"> Wygląda jak bar. </font>
+
+188
+00:21:44,040 --> 00:21:46,400
+<font backgroundcolor="#000000"> I to jest bar - kava bar. </font>
+
+189
+00:21:46,560 --> 00:21:51,640
+<font backgroundcolor="#000000"> W mieście gdzie żyją biali </font>
+<font backgroundcolor="#000000"> i nie biali, ale ucywilizowani. </font>
+
+190
+00:21:51,800 --> 00:21:55,960
+<font backgroundcolor="#000000"> Tutaj kavę pije się </font>
+<font backgroundcolor="#000000"> nie z korytka na klęczkach. </font>
+
+191
+00:21:56,120 --> 00:21:59,160
+<font backgroundcolor="#000000"> Nie siedząc wokół ogniska. </font>
+
+192
+00:21:59,320 --> 00:22:01,760
+<font backgroundcolor="#000000"> Tylko z takiego wiadra. </font>
+
+193
+00:22:02,280 --> 00:22:07,080
+<font backgroundcolor="#000000"> On to miesza czymś, </font>
+<font backgroundcolor="#000000"> czym moja babcia mieszała pranie. </font>
+
+194
+00:22:07,240 --> 00:22:10,600
+<font backgroundcolor="#000000"> Z eleganckich metalowych miseczek. </font>
+
+195
+00:22:10,760 --> 00:22:14,680
+<font backgroundcolor="#000000"> Od razu zastrzegł, że kosztuje 150, </font>
+
+196
+00:22:14,840 --> 00:22:21,640
+<font backgroundcolor="#000000"> bo mogę być już po kavach, </font>
+<font backgroundcolor="#000000"> zrelaksowany i pomyślę, że to prezent. </font>
+
+197
+00:22:22,200 --> 00:22:25,240
+<font backgroundcolor="#000000"> Proszę zobaczyć, jaką ma miarkę. </font>
+
+198
+00:22:25,760 --> 00:22:30,040
+<font backgroundcolor="#000000"> Miarka z jakiejś butelki, </font>
+<font backgroundcolor="#000000"> która miała podziałkę. </font>
+
+199
+00:22:30,200 --> 00:22:33,800
+<font backgroundcolor="#000000"> Wyrżnięte i nabiera się w to kopytko. </font>
+
+200
+00:22:37,720 --> 00:22:43,480
+<font backgroundcolor="#000000"> Pojemniczek podobny do kokosowego, </font>
+<font backgroundcolor="#000000"> jeśli chodzi o rozmiar i formę. </font>
+
+201
+00:22:43,640 --> 00:22:49,320
+<font backgroundcolor="#000000"> Ale zrobiony specjalnie do kavy </font>
+<font backgroundcolor="#000000"> - z metalu. Pewnie przez Chińczyków. </font>
+
+202
+00:22:49,560 --> 00:22:51,720
+<font backgroundcolor="#000000"> Mam to wypić? </font>
+
+203
+00:22:52,160 --> 00:22:55,080
+<font backgroundcolor="#000000"> Makaron lubi. </font>
+
+204
+00:23:18,240 --> 00:23:22,960
+<font backgroundcolor="#000000"> I tak dawne sacrum </font>
+<font backgroundcolor="#000000"> zamieniło się w profanum. </font>
+
+205
+00:23:23,160 --> 00:23:26,680
+<font backgroundcolor="#000000"> Takich sytuacji w przyrodzie </font>
+<font backgroundcolor="#000000"> mamy pełno. </font>
+
+206
+00:23:26,840 --> 00:23:31,480
+<font backgroundcolor="#000000"> W świecie człowieka różne </font>
+<font backgroundcolor="#000000"> święte rzeczy powszednieją. </font>
+
+207
+00:23:31,640 --> 00:23:37,680
+<font backgroundcolor="#000000"> Rzeczy zarezerwowane dla czarowników, </font>
+<font backgroundcolor="#000000"> stają się powszechnie dostępne. </font>
+
+208
+00:23:37,840 --> 00:23:42,240
+<font backgroundcolor="#000000"> Dziś w golfa grają wszyscy, </font>
+<font backgroundcolor="#000000"> kiedyś grali wybrańcy. </font>
+
+209
+00:23:42,400 --> 00:23:44,440
+<font backgroundcolor="#000000"> I z kavą jest podobnie. </font>
+
+210
+00:23:44,600 --> 00:23:50,360
+<font backgroundcolor="#000000"> Mnie najbardziej podobało się, </font>
+<font backgroundcolor="#000000"> jak ci dzicy ludzie w swoim szałasie </font>
+
+211
+00:23:50,520 --> 00:23:54,320
+<font backgroundcolor="#000000"> pili to rytualnie </font>
+<font backgroundcolor="#000000"> na klęczkach i z koryta. </font>
+
+212
+00:23:54,480 --> 00:24:00,320
+<font backgroundcolor="#000000"> Bardziej niż jak przychodzą tacy </font>
+<font backgroundcolor="#000000"> goście w czapce z obcej kultury </font>
+
+213
+00:24:00,480 --> 00:24:03,600
+<font backgroundcolor="#000000"> i piją z chińskiego kubeczka. </font>
+
+214
+00:24:07,080 --> 00:24:10,240
+<font backgroundcolor="#000000"> Z chińskiej miseczki na zupę. </font>
+
+215
+00:24:33,160 --> 00:24:40,480
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+216
+00:24:40,640 --> 00:24:45,200
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+

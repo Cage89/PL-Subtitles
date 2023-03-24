@@ -1,0 +1,944 @@
+1
+00:00:46,240 --> 00:00:48,400
+<font backgroundcolor="#000000"> Dzień dobry. </font>
+
+2
+00:00:48,680 --> 00:00:53,040
+<font backgroundcolor="#000000"> Ciekawe, czy państwo zgadną, </font>
+<font backgroundcolor="#000000"> gdzie dziś jestem. </font>
+
+3
+00:00:53,200 --> 00:00:57,680
+<font backgroundcolor="#000000"> Kawę zamawiałem po angielsku. </font>
+<font backgroundcolor="#000000"> Płaciłem dolarami. </font>
+
+4
+00:00:57,960 --> 00:01:06,680
+<font backgroundcolor="#000000"> Ci ludzie dookoła urzędowo </font>
+<font backgroundcolor="#000000"> mogą rozmawiać po angielsku, </font>
+<font backgroundcolor="#000000"> ale w domu uczyli się niemieckiego. </font>
+
+5
+00:01:07,240 --> 00:01:10,320
+<font backgroundcolor="#000000"> To wszystko Niemcy z urodzenia. </font>
+
+6
+00:01:10,480 --> 00:01:14,520
+<font backgroundcolor="#000000"> Gazetka lokalna "Allgemeine Zeitung". </font>
+
+7
+00:01:16,040 --> 00:01:21,120
+<font backgroundcolor="#000000"> Ulice opisane trochę po angielsku, </font>
+<font backgroundcolor="#000000"> trochę po niemiecku. </font>
+
+8
+00:01:21,560 --> 00:01:25,480
+<font backgroundcolor="#000000"> Na ścianie za mną </font>
+<font backgroundcolor="#000000"> rzewna panorama Królewca. </font>
+
+9
+00:01:25,640 --> 00:01:28,720
+<font backgroundcolor="#000000"> Tylko tu nazywa się Koenigsberg. </font>
+
+10
+00:01:29,520 --> 00:01:31,440
+<font backgroundcolor="#000000"> Gdzie jestem? </font>
+
+11
+00:01:47,560 --> 00:01:49,760
+<font backgroundcolor="#000000"> Domki jak w Sopocie. </font>
+
+12
+00:01:50,120 --> 00:01:56,320
+<font backgroundcolor="#000000"> Ciotka Jadzia to mówiła nawet Zopott. </font>
+<font backgroundcolor="#000000"> Dobre niemieckie uzdrowisko. </font>
+
+13
+00:01:57,360 --> 00:02:00,040
+<font backgroundcolor="#000000"> Tam willa "Stella Maris". </font>
+
+14
+00:02:01,040 --> 00:02:03,360
+<font backgroundcolor="#000000"> "Hansa Hotel". </font>
+
+15
+00:02:03,880 --> 00:02:06,120
+<font backgroundcolor="#000000"> Sopot, ale nie Sopot. </font>
+
+16
+00:02:26,000 --> 00:02:31,360
+<font backgroundcolor="#000000"> Ogólny pejzaż miasteczka </font>
+<font backgroundcolor="#000000"> przypomina raczej Stany Zjednoczone. </font>
+
+17
+00:02:31,520 --> 00:02:34,440
+<font backgroundcolor="#000000"> Środkowy zachód, jakiś Teksas. </font>
+
+18
+00:02:34,600 --> 00:02:37,040
+<font backgroundcolor="#000000"> Ulice pod kątem prostym. </font>
+
+19
+00:02:37,200 --> 00:02:41,560
+<font backgroundcolor="#000000"> Wszystkie wychodzą na pustkowie </font>
+<font backgroundcolor="#000000"> - pustynia, preria. </font>
+
+20
+00:02:41,720 --> 00:02:43,640
+<font backgroundcolor="#000000"> Może to Teksas? </font>
+
+21
+00:02:43,800 --> 00:02:47,200
+<font backgroundcolor="#000000"> W Teksasie jest </font>
+<font backgroundcolor="#000000"> sporo wiosek niemieckich. </font>
+
+22
+00:02:47,360 --> 00:02:51,960
+<font backgroundcolor="#000000"> Dolar by się zgadzał, </font>
+<font backgroundcolor="#000000"> angielski urzędowy by się zgadzał. </font>
+
+23
+00:02:52,120 --> 00:02:54,840
+<font backgroundcolor="#000000"> Niemiecki z domu by się zgadzał. </font>
+
+24
+00:02:55,000 --> 00:02:59,520
+<font backgroundcolor="#000000"> Tylko wiatr od morza się nie zgadza. </font>
+<font backgroundcolor="#000000"> Czerwiec a zimno. </font>
+
+25
+00:02:59,680 --> 00:03:02,520
+<font backgroundcolor="#000000"> W czerwcu w Teksasie jest ciepło. </font>
+
+26
+00:03:31,880 --> 00:03:37,840
+<font backgroundcolor="#000000"> Jestem na zwrotniku, w czerwcu, </font>
+<font backgroundcolor="#000000"> a temperatura jak nad Bałtykiem. </font>
+
+27
+00:03:38,240 --> 00:03:40,880
+<font backgroundcolor="#000000"> Może jestem w Argentynie. </font>
+
+28
+00:03:41,480 --> 00:03:44,680
+<font backgroundcolor="#000000"> Tam są zimne prądy z Antarktydy. </font>
+
+29
+00:03:46,040 --> 00:03:51,480
+<font backgroundcolor="#000000"> Rosną tu palmy i araukarie, </font>
+<font backgroundcolor="#000000"> tak jak tutaj. </font>
+
+30
+00:03:53,440 --> 00:03:58,240
+<font backgroundcolor="#000000"> Ale ci kolesie mają </font>
+<font backgroundcolor="#000000"> nieargentyński kolor twarzy. </font>
+
+31
+00:04:39,040 --> 00:04:41,080
+<font backgroundcolor="#000000"> Rozwiązanie zagadki. </font>
+
+32
+00:04:41,240 --> 00:04:45,880
+<font backgroundcolor="#000000"> Jesteśmy na południu Afryki, </font>
+<font backgroundcolor="#000000"> na zwrotniku Koziorożca. </font>
+
+33
+00:04:46,040 --> 00:04:48,240
+<font backgroundcolor="#000000"> Kraj nazywa się Namibia. </font>
+
+34
+00:04:48,400 --> 00:04:52,680
+<font backgroundcolor="#000000"> Dawniej niemiecka </font>
+<font backgroundcolor="#000000"> Afryka Południowo-Zachodnia. </font>
+
+35
+00:04:53,560 --> 00:04:57,680
+<font backgroundcolor="#000000"> Dawniej... To jest nadal </font>
+<font backgroundcolor="#000000"> niemiecka Afryka. </font>
+
+36
+00:04:58,040 --> 00:05:00,360
+<font backgroundcolor="#000000"> Wszędzie palą. </font>
+
+37
+00:05:00,720 --> 00:05:07,840
+<font backgroundcolor="#000000"> I jak człowiek siada, bo na herbatkę </font>
+<font backgroundcolor="#000000"> przyszedł, automatycznie podają piwo. </font>
+
+38
+00:05:08,360 --> 00:05:13,400
+<font backgroundcolor="#000000"> Ja panu oddam piwo, bo wiem, </font>
+<font backgroundcolor="#000000"> że pan kamerzysta lubi. </font>
+
+39
+00:05:14,040 --> 00:05:19,000
+<font backgroundcolor="#000000"> A państwu powiem, że piwo </font>
+<font backgroundcolor="#000000"> nadaje się głównie do sikania. </font>
+
+40
+00:05:19,160 --> 00:05:22,000
+<font backgroundcolor="#000000"> Głównie z tego się też składa. </font>
+
+41
+00:05:22,160 --> 00:05:28,360
+<font backgroundcolor="#000000"> Język niemiecki w karcie dań, </font>
+<font backgroundcolor="#000000"> mimo że urzędowy jest angielski. </font>
+
+42
+00:05:28,600 --> 00:05:31,480
+<font backgroundcolor="#000000"> Ale trudniej go tu znaleźć. </font>
+
+43
+00:05:31,640 --> 00:05:34,360
+<font backgroundcolor="#000000"> I kubeczki jakieś takie... </font>
+
+44
+00:05:34,800 --> 00:05:41,080
+<font backgroundcolor="#000000"> Niemców nie lubię, ale trzeba im </font>
+<font backgroundcolor="#000000"> przyznać, że porządek to tu jest. </font>
+
+45
+00:05:41,240 --> 00:05:46,680
+<font backgroundcolor="#000000"> Jak się pojedzie do innych </font>
+<font backgroundcolor="#000000"> afrykańskich krajów... </font>
+
+46
+00:05:46,840 --> 00:05:51,640
+<font backgroundcolor="#000000"> ... w samochodzie trzeba mieć </font>
+<font backgroundcolor="#000000"> miotacz ognia, bo napadają. </font>
+
+47
+00:05:51,800 --> 00:05:55,440
+<font backgroundcolor="#000000"> Obrabują ze wszystkiego, </font>
+<font backgroundcolor="#000000"> samochód zabiorą. </font>
+
+48
+00:05:55,600 --> 00:06:00,440
+<font backgroundcolor="#000000"> A tu porządek na ulicach. </font>
+<font backgroundcolor="#000000"> Jest miło, mimo że po niemiecku. </font>
+
+49
+00:06:04,840 --> 00:06:07,600
+<font backgroundcolor="#000000"> To właściciel tego interesu. </font>
+
+50
+00:06:07,920 --> 00:06:11,960
+<font backgroundcolor="#000000"> Norbert Sadłowski, tatuś z Królewca. </font>
+
+51
+00:06:12,200 --> 00:06:15,920
+<font backgroundcolor="#000000"> Urodzony tutaj, w Namibii. </font>
+
+52
+00:06:26,320 --> 00:06:32,720
+<font backgroundcolor="#000000"> Pytam, czy ludzie odczuwają jakąś </font>
+<font backgroundcolor="#000000"> nostalgię, że czasy kolonii odeszły... </font>
+
+53
+00:06:32,880 --> 00:06:39,480
+<font backgroundcolor="#000000"> ... nieważne czy niemieckiej, czy </font>
+<font backgroundcolor="#000000"> późniejszej południowoafrykańskiej. </font>
+
+54
+00:06:40,520 --> 00:06:48,120
+<font backgroundcolor="#000000"> Mówi, że trochę tęsknią za czasami, </font>
+<font backgroundcolor="#000000"> kiedy tylko biali byli przy władzy. </font>
+
+55
+00:06:48,520 --> 00:06:51,920
+<font backgroundcolor="#000000"> Teraz musieli się władzą podzielić. </font>
+
+56
+00:06:52,080 --> 00:06:56,000
+<font backgroundcolor="#000000"> Ale trzeba było, to się podzielili. </font>
+
+57
+00:06:57,640 --> 00:07:01,120
+<font backgroundcolor="#000000"> Może mi pan coś wyjaśni. </font>
+
+58
+00:07:07,440 --> 00:07:17,480
+<font backgroundcolor="#000000"> Gdy w Afryce Południowej skończył się </font>
+<font backgroundcolor="#000000"> apartheid, upadło wiele biznesów, </font>
+<font backgroundcolor="#000000"> wielu białych uciekło. </font>
+
+59
+00:07:17,640 --> 00:07:20,760
+<font backgroundcolor="#000000"> Skończyło się też bezpieczeństwo. </font>
+
+60
+00:07:20,920 --> 00:07:24,760
+<font backgroundcolor="#000000"> Trzeba mieć ochroniarzy, </font>
+<font backgroundcolor="#000000"> karabiny w domu. </font>
+
+61
+00:07:24,920 --> 00:07:27,280
+<font backgroundcolor="#000000"> Nie jest bezpiecznie. </font>
+
+62
+00:07:28,720 --> 00:07:37,000
+<font backgroundcolor="#000000"> A kiedy Namibia uzyskała niepodległość </font>
+<font backgroundcolor="#000000"> tu nadal jest bezpiecznie, </font>
+<font backgroundcolor="#000000"> jest porządek. </font>
+
+63
+00:07:37,360 --> 00:07:39,800
+<font backgroundcolor="#000000"> Na czym to polega? </font>
+
+64
+00:07:39,960 --> 00:07:44,000
+<font backgroundcolor="#000000"> Te kraje sąsiadują ze sobą. </font>
+
+65
+00:07:53,560 --> 00:08:00,440
+<font backgroundcolor="#000000"> Po pierwsze Namibia </font>
+<font backgroundcolor="#000000"> miała szczęście, bo była okupowana </font>
+<font backgroundcolor="#000000"> przez Afrykę Południową. </font>
+
+66
+00:08:00,600 --> 00:08:07,800
+<font backgroundcolor="#000000"> Południowa Afryka zabezpieczała </font>
+<font backgroundcolor="#000000"> tu Niemców i niemieckie interesy, </font>
+<font backgroundcolor="#000000"> okupując ten kraj. </font>
+
+67
+00:08:07,960 --> 00:08:12,120
+<font backgroundcolor="#000000"> Kiedy się wycofali, </font>
+<font backgroundcolor="#000000"> kraj uzyskał niepodległość. </font>
+
+68
+00:08:12,280 --> 00:08:17,960
+<font backgroundcolor="#000000"> Miejscowa czarna mniejszość </font>
+<font backgroundcolor="#000000"> nie uważała Niemców za prześladowców. </font>
+
+69
+00:08:18,120 --> 00:08:21,640
+<font backgroundcolor="#000000"> Tylko tamtą armię </font>
+<font backgroundcolor="#000000"> z Południowej Afryki. </font>
+
+70
+00:08:21,800 --> 00:08:26,560
+<font backgroundcolor="#000000"> Okupant był z zewnątrz. </font>
+<font backgroundcolor="#000000"> Więc do nich nie czują złości. </font>
+
+71
+00:08:26,720 --> 00:08:29,800
+<font backgroundcolor="#000000"> Po drugie naród jest bardzo mały. </font>
+
+72
+00:08:29,960 --> 00:08:34,280
+<font backgroundcolor="#000000"> Jest niewiele ludzi </font>
+<font backgroundcolor="#000000"> i potrzebują siebie nawzajem. </font>
+
+73
+00:08:34,440 --> 00:08:38,440
+<font backgroundcolor="#000000"> Jakby się zaczęli tłuc, </font>
+<font backgroundcolor="#000000"> zabrakłoby ludzi. </font>
+
+74
+00:08:38,840 --> 00:08:43,120
+<font backgroundcolor="#000000"> Na zakończenie pytam, </font>
+<font backgroundcolor="#000000"> czy będzie tu żył zawsze. </font>
+
+75
+00:08:43,280 --> 00:08:47,120
+<font backgroundcolor="#000000"> Powiedział, że nigdzie </font>
+<font backgroundcolor="#000000"> się nie wybiera. </font>
+
+76
+00:08:47,280 --> 00:08:53,200
+<font backgroundcolor="#000000"> Niemcy są tu potrzebni </font>
+<font backgroundcolor="#000000"> z powodów ekonomicznych. </font>
+
+77
+00:09:14,160 --> 00:09:17,280
+<font backgroundcolor="#000000"> Oto miejsce, gdzie nie chcę być. </font>
+
+78
+00:09:17,440 --> 00:09:20,720
+<font backgroundcolor="#000000"> Bismarck Strasse </font>
+<font backgroundcolor="#000000"> jeszcze bym wytrzymał. </font>
+
+79
+00:09:20,880 --> 00:09:27,440
+<font backgroundcolor="#000000"> Bismarck co prawda gnębił Polaków, </font>
+<font backgroundcolor="#000000"> ale obiektywnie był dobrym kanclerzem. </font>
+
+80
+00:09:27,600 --> 00:09:34,400
+<font backgroundcolor="#000000"> Ale co ten bandyta robi </font>
+<font backgroundcolor="#000000"> w wolnym kraju, gdzie nie ma </font>
+<font backgroundcolor="#000000"> komunistycznej dyktatury? </font>
+
+81
+00:09:34,560 --> 00:09:40,360
+<font backgroundcolor="#000000"> Natomiast w latach 90. w Namibii </font>
+<font backgroundcolor="#000000"> nastąpił proces odwrotny do naszego. </font>
+
+82
+00:09:40,520 --> 00:09:44,960
+<font backgroundcolor="#000000"> My czyściliśmy wszystkich </font>
+<font backgroundcolor="#000000"> czerwonych zbrodniarzy. </font>
+
+83
+00:09:45,120 --> 00:09:48,320
+<font backgroundcolor="#000000"> A oni mogliby ich od nas importować. </font>
+
+84
+00:09:48,480 --> 00:09:53,720
+<font backgroundcolor="#000000"> Wymieniali białych na czerwonych </font>
+<font backgroundcolor="#000000"> i w dodatku na bandytów. </font>
+
+85
+00:09:53,880 --> 00:09:57,000
+<font backgroundcolor="#000000"> Tym wyraża się niechęć do białych. </font>
+
+86
+00:09:57,160 --> 00:10:03,600
+<font backgroundcolor="#000000"> Ale jak idę ulicą widzę, że biały </font>
+<font backgroundcolor="#000000"> człowiek jest tu poważany. </font>
+
+87
+00:10:03,760 --> 00:10:08,520
+<font backgroundcolor="#000000"> Może to jest jakiś ślad strachu </font>
+<font backgroundcolor="#000000"> z dawnych lat? Nie wiem. </font>
+
+88
+00:10:08,680 --> 00:10:12,080
+<font backgroundcolor="#000000"> Idę ulicą, naprzeciwko mnie człowiek. </font>
+
+89
+00:10:12,240 --> 00:10:16,360
+<font backgroundcolor="#000000"> Nie zwracam na to uwagi, </font>
+<font backgroundcolor="#000000"> że Murzyn, tylko idę. </font>
+
+90
+00:10:16,520 --> 00:10:22,760
+<font backgroundcolor="#000000"> Ja mam odruch prawostronny, bo u nas </font>
+<font backgroundcolor="#000000"> ruch prawostronny. Robię taki uskok. </font>
+
+91
+00:10:22,920 --> 00:10:25,080
+<font backgroundcolor="#000000"> On ma odruch lewostronny. </font>
+
+92
+00:10:25,240 --> 00:10:29,080
+<font backgroundcolor="#000000"> Idzie z naprzeciwka. </font>
+<font backgroundcolor="#000000"> Uskakuje w tę samą stronę. </font>
+
+93
+00:10:29,240 --> 00:10:36,800
+<font backgroundcolor="#000000"> Jedyną metodą dla białego, </font>
+<font backgroundcolor="#000000"> aby poruszać się tutaj w tłumie </font>
+<font backgroundcolor="#000000"> murzyńskim jest iść na rympał. </font>
+
+94
+00:10:36,960 --> 00:10:40,400
+<font backgroundcolor="#000000"> Wszyscy się rozstępują. </font>
+<font backgroundcolor="#000000"> Mają to we krwi. </font>
+
+95
+00:10:59,280 --> 00:11:05,400
+<font backgroundcolor="#000000"> Proszę sobie wyobrazić, </font>
+<font backgroundcolor="#000000"> że mają państwo do pokonania </font>
+<font backgroundcolor="#000000"> ogromną przestrzeń. </font>
+
+96
+00:11:05,560 --> 00:11:11,040
+<font backgroundcolor="#000000"> Suchą, bezludną, gdzie nie będzie </font>
+<font backgroundcolor="#000000"> zapasów, żadnych miejscowości. </font>
+
+97
+00:11:11,400 --> 00:11:14,080
+<font backgroundcolor="#000000"> Co się wtedy zabiera w drogę? </font>
+
+98
+00:11:14,240 --> 00:11:17,240
+<font backgroundcolor="#000000"> Wojsko zabiera suchary. Prawda? </font>
+
+99
+00:11:17,400 --> 00:11:20,480
+<font backgroundcolor="#000000"> W Amazonii robi się suchary z ryb. </font>
+
+100
+00:11:20,640 --> 00:11:24,840
+<font backgroundcolor="#000000"> Na prerii Apacze robili </font>
+<font backgroundcolor="#000000"> sobie suchary z mięsa. </font>
+
+101
+00:11:25,000 --> 00:11:32,720
+<font backgroundcolor="#000000"> W Afryce Południowej robi się </font>
+<font backgroundcolor="#000000"> do dziś suchary z mięsa </font>
+<font backgroundcolor="#000000"> o nazwie biltong. </font>
+
+102
+00:11:33,280 --> 00:11:36,720
+<font backgroundcolor="#000000"> To jest mięso kudu, czyli antylopy. </font>
+
+103
+00:11:36,880 --> 00:11:41,800
+<font backgroundcolor="#000000"> Ale można jak w USA </font>
+<font backgroundcolor="#000000"> zrobić suchary z wołowiny. </font>
+
+104
+00:11:42,040 --> 00:11:48,920
+<font backgroundcolor="#000000"> Albo z każdego innego zwierzęcia, </font>
+<font backgroundcolor="#000000"> które raczej powinno być roślinożerne. </font>
+
+105
+00:12:11,520 --> 00:12:13,680
+<font backgroundcolor="#000000"> I mamy chipsy. </font>
+
+106
+00:12:14,120 --> 00:12:18,360
+<font backgroundcolor="#000000"> Jak jest tak pokrojone, </font>
+<font backgroundcolor="#000000"> to się za szybko zje. </font>
+
+107
+00:12:18,520 --> 00:12:22,840
+<font backgroundcolor="#000000"> Bo się je tak jak chipsy. </font>
+<font backgroundcolor="#000000"> Garściami aż do utycia. </font>
+
+108
+00:12:23,000 --> 00:12:25,040
+<font backgroundcolor="#000000"> To jest suche mięso. </font>
+
+109
+00:12:25,200 --> 00:12:28,720
+<font backgroundcolor="#000000"> Człowiek może tego zjeść </font>
+<font backgroundcolor="#000000"> dwa kilogramy. </font>
+
+110
+00:12:28,880 --> 00:12:33,520
+<font backgroundcolor="#000000"> To się równa kilkanaście kilogramów </font>
+<font backgroundcolor="#000000"> mięsa niesuchego. </font>
+
+111
+00:12:33,680 --> 00:12:35,720
+<font backgroundcolor="#000000"> Więc proszę uważać. </font>
+
+112
+00:13:01,600 --> 00:13:07,000
+<font backgroundcolor="#000000"> Na straganie z pamiątkami </font>
+<font backgroundcolor="#000000"> trudno znaleźć coś autentycznego. </font>
+
+113
+00:13:07,360 --> 00:13:11,360
+<font backgroundcolor="#000000"> Niby nie ma nic z Chin, </font>
+<font backgroundcolor="#000000"> ale wszędzie słonie. </font>
+
+114
+00:13:11,520 --> 00:13:16,760
+<font backgroundcolor="#000000"> Ale jest coś, co mnie zaciekawiło. </font>
+<font backgroundcolor="#000000"> Laseczka - dziwny wzór. </font>
+
+115
+00:13:16,920 --> 00:13:20,280
+<font backgroundcolor="#000000"> Widok znajomy. Skąd ja go znam? </font>
+
+116
+00:13:20,480 --> 00:13:25,520
+<font backgroundcolor="#000000"> Przypomniały mi się </font>
+<font backgroundcolor="#000000"> czarno-białe zdjęcia z XIX wieku. </font>
+
+117
+00:13:25,680 --> 00:13:31,320
+<font backgroundcolor="#000000"> To był kiedyś przedmiot pożądania </font>
+<font backgroundcolor="#000000"> wszystkich afrykańskich wodzów. </font>
+
+118
+00:13:31,480 --> 00:13:37,520
+<font backgroundcolor="#000000"> Kiedy tu przyszli biali, mieli ze sobą </font>
+<font backgroundcolor="#000000"> parasolki od słońca i deszczu. </font>
+
+119
+00:13:37,680 --> 00:13:43,200
+<font backgroundcolor="#000000"> I to był taki pierwszy prezent, </font>
+<font backgroundcolor="#000000"> który każdy wódz chciał dostać. </font>
+
+120
+00:13:43,360 --> 00:13:49,280
+<font backgroundcolor="#000000"> On się wtedy stawał bardziej biały </font>
+<font backgroundcolor="#000000"> i nowoczesny, jak miał parasolkę. </font>
+
+121
+00:13:49,440 --> 00:13:55,360
+<font backgroundcolor="#000000"> A to jest replika parasolki </font>
+<font backgroundcolor="#000000"> w pokrowcu, zrobiona z rogów oryksa. </font>
+
+122
+00:13:55,520 --> 00:14:00,400
+<font backgroundcolor="#000000"> To ma być nasz przedmiot pożądania. </font>
+
+123
+00:14:46,320 --> 00:14:51,640
+<font backgroundcolor="#000000"> Zwykły mały sklep w zwykłym </font>
+<font backgroundcolor="#000000"> małym miasteczku w Afryce. </font>
+
+124
+00:14:51,800 --> 00:14:59,880
+<font backgroundcolor="#000000"> A tu kolekcja afrykańskiej </font>
+<font backgroundcolor="#000000"> sztuki plemiennej lepsza </font>
+<font backgroundcolor="#000000"> niż w muzeach światowych. </font>
+
+125
+00:15:08,280 --> 00:15:12,840
+<font backgroundcolor="#000000"> To jest maska przodka </font>
+<font backgroundcolor="#000000"> z plemienia Caprivi. </font>
+
+126
+00:15:16,360 --> 00:15:22,680
+<font backgroundcolor="#000000"> W każdym szałasie na specjalnym </font>
+<font backgroundcolor="#000000"> ołtarzu powinna wisieć maska przodka. </font>
+
+127
+00:15:22,840 --> 00:15:25,440
+<font backgroundcolor="#000000"> To jest konkretny przodek. </font>
+
+128
+00:15:25,640 --> 00:15:37,320
+<font backgroundcolor="#000000"> I ten przodek powinien, tak jak </font>
+<font backgroundcolor="#000000"> patron, pilnować, żeby wszystkim </font>
+<font backgroundcolor="#000000"> mieszkańcom szałasu dobrze się wiodło. </font>
+
+129
+00:15:49,040 --> 00:15:57,440
+<font backgroundcolor="#000000"> Jeśli konkretny przodek </font>
+<font backgroundcolor="#000000"> źle się opiekuje naszym szałasem, </font>
+<font backgroundcolor="#000000"> jego maska ląduje w ogniu. </font>
+
+130
+00:15:57,600 --> 00:16:04,440
+<font backgroundcolor="#000000"> I robi się maskę innego przodka, który </font>
+<font backgroundcolor="#000000"> będzie się nami opiekował lepiej. </font>
+
+131
+00:16:21,520 --> 00:16:26,000
+<font backgroundcolor="#000000"> Jak człowiek w Kongu jest chory, </font>
+<font backgroundcolor="#000000"> idzie do szamana. </font>
+
+132
+00:16:26,160 --> 00:16:31,120
+<font backgroundcolor="#000000"> Daje mu w prezencie kurę, kozę </font>
+<font backgroundcolor="#000000"> - zależnie od choroby. </font>
+
+133
+00:16:31,640 --> 00:16:39,600
+<font backgroundcolor="#000000"> A ten szaman ma takiego fetysza </font>
+<font backgroundcolor="#000000"> w domu, w którego wbija gwóźdź. </font>
+
+134
+00:16:40,720 --> 00:16:44,680
+<font backgroundcolor="#000000"> To jest rodzaj bramy do zaświatów. </font>
+
+135
+00:16:45,080 --> 00:16:49,760
+<font backgroundcolor="#000000"> Tą drogą do naszego świata </font>
+<font backgroundcolor="#000000"> dostają się duchy. </font>
+
+136
+00:16:50,160 --> 00:16:53,600
+<font backgroundcolor="#000000"> Przez to miejsce gada się z duchami. </font>
+
+137
+00:16:53,760 --> 00:16:59,320
+<font backgroundcolor="#000000"> Wbijając tu gwóźdź, mówimy duchowi, </font>
+<font backgroundcolor="#000000"> żeby wyleczył tę chorobę. </font>
+
+138
+00:16:59,560 --> 00:17:08,760
+<font backgroundcolor="#000000"> Niektórzy antropolodzy uważają, że te </font>
+<font backgroundcolor="#000000"> gwoździe pojawiły się dopiero wtedy, </font>
+<font backgroundcolor="#000000"> kiedy pojawili się misjonarze. </font>
+
+139
+00:17:08,920 --> 00:17:16,480
+<font backgroundcolor="#000000"> I że jest jakiś związek między </font>
+<font backgroundcolor="#000000"> tymi gwoździami, a tymi wbijanymi </font>
+<font backgroundcolor="#000000"> w dłonie Chrystusa. </font>
+
+140
+00:17:16,640 --> 00:17:22,120
+<font backgroundcolor="#000000"> Wbijane były po to, żeby odkupić </font>
+<font backgroundcolor="#000000"> nasze winy, uzdrowić świat. </font>
+
+141
+00:17:22,280 --> 00:17:30,800
+<font backgroundcolor="#000000"> I szamani zrobili sobie taki rodzaj </font>
+<font backgroundcolor="#000000"> fetysza, gdzie ten sam mechanizm </font>
+<font backgroundcolor="#000000"> ma zabrać naszą chorobę. </font>
+
+142
+00:17:58,880 --> 00:18:01,480
+<font backgroundcolor="#000000"> Proszę, jaka piękna tradycja. </font>
+
+143
+00:18:01,640 --> 00:18:04,800
+<font backgroundcolor="#000000"> Buszmeni mają romantyczne pomysły. </font>
+
+144
+00:18:04,960 --> 00:18:08,120
+<font backgroundcolor="#000000"> To jest łuczek miłości buszmenów. </font>
+
+145
+00:18:08,280 --> 00:18:14,840
+<font backgroundcolor="#000000"> Inicjacja polega na tym, </font>
+<font backgroundcolor="#000000"> że młody chłopak pierwszy raz </font>
+<font backgroundcolor="#000000"> idzie na polowanie. </font>
+
+146
+00:18:15,000 --> 00:18:17,080
+<font backgroundcolor="#000000"> Tak jak w Amazonii. </font>
+
+147
+00:18:17,240 --> 00:18:25,200
+<font backgroundcolor="#000000"> Chłopak zostaje mężczyzną, jak pójdzie </font>
+<font backgroundcolor="#000000"> na pierwsze polowanie bez ojca. </font>
+
+148
+00:18:25,440 --> 00:18:33,000
+<font backgroundcolor="#000000"> Kiedy chłopak jest już mężczyzną </font>
+<font backgroundcolor="#000000"> i sam poluje, może sobie żonę złapać. </font>
+
+149
+00:18:35,000 --> 00:18:40,400
+<font backgroundcolor="#000000"> Bierze taki łuk i taką małą strzałkę, </font>
+<font backgroundcolor="#000000"> jak strzałka Amora. </font>
+
+150
+00:18:40,560 --> 00:18:44,120
+<font backgroundcolor="#000000"> Strzela upatrzonej dziewczynie w pupę. </font>
+
+151
+00:18:44,280 --> 00:18:48,920
+<font backgroundcolor="#000000"> Tak tu jest, że oni zwracają uwagę </font>
+<font backgroundcolor="#000000"> na kształt pupy. </font>
+
+152
+00:18:49,080 --> 00:18:51,040
+<font backgroundcolor="#000000"> To taki odruch samca. </font>
+
+153
+00:18:51,200 --> 00:18:56,680
+<font backgroundcolor="#000000"> Sprawdza, czy biodra odpowiednio </font>
+<font backgroundcolor="#000000"> szerokie, żeby rodzić dzieci. </font>
+
+154
+00:18:56,840 --> 00:18:59,480
+<font backgroundcolor="#000000"> U nas nie wszyscy to mają. </font>
+
+155
+00:18:59,640 --> 00:19:05,080
+<font backgroundcolor="#000000"> To się oczywiście nie wbija. </font>
+<font backgroundcolor="#000000"> Odbija się od pupy. </font>
+
+156
+00:19:05,240 --> 00:19:12,320
+<font backgroundcolor="#000000"> Jeśli dziewczyna podniesie strzałkę </font>
+<font backgroundcolor="#000000"> odbitą od jej pupy, wtedy mają randkę. </font>
+
+157
+00:19:20,200 --> 00:19:25,240
+<font backgroundcolor="#000000"> W takiej paczuszce jest amunicja </font>
+<font backgroundcolor="#000000"> na cztery dziewczyny. </font>
+
+158
+00:19:25,400 --> 00:19:28,920
+<font backgroundcolor="#000000"> Jak mu jedna odmówiła, szuka drugiej. </font>
+
+159
+00:19:29,080 --> 00:19:35,680
+<font backgroundcolor="#000000"> Szkoda amunicji. Jak mu jedna odmówi </font>
+<font backgroundcolor="#000000"> cztery razy, nie będzie miał żony. </font>
+
+160
+00:19:36,560 --> 00:19:40,760
+<font backgroundcolor="#000000"> Himba - podgrupa Indian Herero. </font>
+
+161
+00:19:41,160 --> 00:19:43,760
+<font backgroundcolor="#000000"> Tam się wybieramy. </font>
+
+162
+00:19:44,160 --> 00:19:47,440
+<font backgroundcolor="#000000"> Nie dali się ucywilizować. </font>
+
+163
+00:20:00,200 --> 00:20:05,560
+<font backgroundcolor="#000000"> Pan mówi, że Himba nigdy się nie myją. </font>
+<font backgroundcolor="#000000"> Przez całe życie. </font>
+
+164
+00:20:05,720 --> 00:20:07,960
+<font backgroundcolor="#000000"> Noworodka się nie myje. </font>
+
+165
+00:20:08,120 --> 00:20:11,080
+<font backgroundcolor="#000000"> Smarują się tym swoim błotem. </font>
+
+166
+00:20:11,240 --> 00:20:14,560
+<font backgroundcolor="#000000"> Mają doskonałą, zdrową skórę. </font>
+
+167
+00:20:14,760 --> 00:20:21,800
+<font backgroundcolor="#000000"> Nawet kiedy kobiety mają, </font>
+<font backgroundcolor="#000000"> jak pan powiedział, swoje dni, </font>
+<font backgroundcolor="#000000"> też się nie myją. </font>
+
+168
+00:20:22,520 --> 00:20:27,800
+<font backgroundcolor="#000000"> Pytam o coś, co mnie nurtuje. </font>
+<font backgroundcolor="#000000"> Pan zajmuje się antropologią. </font>
+
+169
+00:20:27,960 --> 00:20:32,040
+<font backgroundcolor="#000000"> Zbiera różne fetysze i maski, </font>
+<font backgroundcolor="#000000"> opowiada o nich. </font>
+
+170
+00:20:32,200 --> 00:20:40,640
+<font backgroundcolor="#000000"> Pytam, czy widział czary, </font>
+<font backgroundcolor="#000000"> takie których by się przestraszył </font>
+<font backgroundcolor="#000000"> albo w które by uwierzył. </font>
+
+171
+00:20:42,000 --> 00:20:46,480
+<font backgroundcolor="#000000"> W tym sklepie są różne </font>
+<font backgroundcolor="#000000"> małe rzeźby i duże rzeczy. </font>
+
+172
+00:20:46,640 --> 00:20:53,960
+<font backgroundcolor="#000000"> Codziennie ginęły tu małe przedmioty, </font>
+<font backgroundcolor="#000000"> zwierzątka z drewna. 600-700 rocznie. </font>
+
+173
+00:20:54,360 --> 00:20:58,000
+<font backgroundcolor="#000000"> Codziennie jeden, dwa, trzy. </font>
+
+174
+00:20:58,400 --> 00:21:02,960
+<font backgroundcolor="#000000"> Pan któregoś dnia się wkurzył </font>
+<font backgroundcolor="#000000"> i zaprosił szamana. </font>
+
+175
+00:21:03,120 --> 00:21:10,720
+<font backgroundcolor="#000000"> Szaman porozkładał po kątach </font>
+<font backgroundcolor="#000000"> jakieś swoje fetysze, potem </font>
+<font backgroundcolor="#000000"> wyrzucił wszystkich ze sklepu. </font>
+
+176
+00:21:10,880 --> 00:21:15,520
+<font backgroundcolor="#000000"> Miał jakieś pióra, kamyki, </font>
+<font backgroundcolor="#000000"> nie wiadomo, co robił. </font>
+
+177
+00:21:15,680 --> 00:21:19,200
+<font backgroundcolor="#000000"> Od tamtego czasu minęły trzy lata. </font>
+
+178
+00:21:19,760 --> 00:21:24,440
+<font backgroundcolor="#000000"> Od tamtego czasu zginęły </font>
+<font backgroundcolor="#000000"> dwa zwierzątka. </font>
+
+179
+00:21:44,480 --> 00:21:48,080
+<font backgroundcolor="#000000"> Pan mówi, że to działa </font>
+<font backgroundcolor="#000000"> jeszcze głębiej. </font>
+
+180
+00:21:48,240 --> 00:21:54,400
+<font backgroundcolor="#000000"> Ludzie czasem kradną stąd różne </font>
+<font backgroundcolor="#000000"> rzeczy, a potem przysyłają pieniądze. </font>
+
+181
+00:21:54,560 --> 00:22:01,120
+<font backgroundcolor="#000000"> Pan nawet nie wiedział, </font>
+<font backgroundcolor="#000000"> że coś zginęło, a tu nagle </font>
+<font backgroundcolor="#000000"> dostał pieniądze i list. </font>
+
+182
+00:22:01,280 --> 00:22:05,920
+<font backgroundcolor="#000000"> "Ukradłem z waszego sklepu </font>
+<font backgroundcolor="#000000"> mały otwieracz do butelek. </font>
+
+183
+00:22:06,080 --> 00:22:08,480
+<font backgroundcolor="#000000"> Bardzo za to przepraszam. </font>
+
+184
+00:22:08,640 --> 00:22:11,720
+<font backgroundcolor="#000000"> Rozbiłem samochód, złamałem nogę. </font>
+
+185
+00:22:11,880 --> 00:22:17,560
+<font backgroundcolor="#000000"> Skojarzyłem, że coś się złego dzieje </font>
+<font backgroundcolor="#000000"> z powodu tego złodziejstwa. </font>
+
+186
+00:22:17,720 --> 00:22:23,840
+<font backgroundcolor="#000000"> Oto pieniądze i ten otwieracz. </font>
+<font backgroundcolor="#000000"> Nie chcę mieć z tym nic wspólnego". </font>
+
+187
+00:22:25,280 --> 00:22:31,880
+<font backgroundcolor="#000000"> Takie historie wydarzyły się już </font>
+<font backgroundcolor="#000000"> 40-50 razy od czasu wizyty szamana. </font>
+
+188
+00:22:40,600 --> 00:22:46,000
+<font backgroundcolor="#000000"> Raz była tu rano jakaś </font>
+<font backgroundcolor="#000000"> grupa młodziaków. </font>
+
+189
+00:22:46,160 --> 00:22:52,920
+<font backgroundcolor="#000000"> Po południu wrócił jeden, </font>
+<font backgroundcolor="#000000"> bo reszta leżała już poskręcana </font>
+<font backgroundcolor="#000000"> chora w łóżkach. </font>
+
+190
+00:22:53,080 --> 00:22:56,880
+<font backgroundcolor="#000000"> Ten jeden oddał wszystko, co zabrali. </font>
+
+191
+00:23:00,760 --> 00:23:03,960
+<font backgroundcolor="#000000"> Pytam pana, czy się boi czarów. </font>
+
+192
+00:23:04,280 --> 00:23:07,680
+<font backgroundcolor="#000000"> Odpowiedział mi, że oczywiście tak. </font>
+
+193
+00:23:07,840 --> 00:23:12,600
+<font backgroundcolor="#000000"> Ja też się boję. Jak je widzę </font>
+<font backgroundcolor="#000000"> w Amazonii, to unikam. </font>
+
+194
+00:23:12,760 --> 00:23:14,840
+<font backgroundcolor="#000000"> Interesujące są. </font>
+
+195
+00:23:15,000 --> 00:23:24,720
+<font backgroundcolor="#000000"> Ale zabawa w czary... Albo obcowanie </font>
+<font backgroundcolor="#000000"> z szamanami czarnej magii, którzy </font>
+<font backgroundcolor="#000000"> zarzucają na nas uroki... </font>
+
+196
+00:23:25,680 --> 00:23:28,920
+<font backgroundcolor="#000000"> Więc obaj wierzymy w czary. </font>
+
+197
+00:23:42,040 --> 00:23:47,920
+<font backgroundcolor="#000000"> Zabezpieczone przez czarownika. </font>
+<font backgroundcolor="#000000"> Jak ukradniesz, coś ci się stanie. </font>
+
+198
+00:23:48,080 --> 00:23:54,880
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH: </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+199
+00:23:55,040 --> 00:23:58,880
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+

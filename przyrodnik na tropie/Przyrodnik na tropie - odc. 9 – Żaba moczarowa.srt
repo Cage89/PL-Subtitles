@@ -1,0 +1,1360 @@
+1
+00:00:00,000 --> 00:00:02,480
+<font color="aqua">Przyrodnika z zimowego marazmu</font>
+
+2
+00:00:02,640 --> 00:00:05,960
+<font color="aqua">wybudzają pierwsze</font>
+<font color="aqua">ciepłe majowe dni.</font>
+
+3
+00:00:06,120 --> 00:00:10,840
+<font color="aqua">Doskonale wie, że wiosną</font>
+<font color="aqua">płazy zaczynają wędrówkę do wody.</font>
+
+4
+00:00:11,000 --> 00:00:15,280
+<font color="aqua">Zabiera ze sobą aparat, lornetkę,</font>
+<font color="aqua">rozgrzewającą herbatę</font>
+
+5
+00:00:15,440 --> 00:00:18,240
+<font color="aqua">i z entuzjazmem wyrusza w Polskę.</font>
+
+6
+00:00:18,400 --> 00:00:23,400
+<font color="aqua">Będzie odsłaniał przed wami</font>
+<font color="aqua">sieć powiązań w świecie przyrody.</font>
+
+7
+00:00:23,560 --> 00:00:27,880
+<font color="aqua">Poznajcie przyrodnika na tropie</font>
+<font color="aqua">- Łukasza Bożyckiego.</font>
+
+8
+00:01:32,240 --> 00:01:37,720
+<font color="#FFFF51">W naszym życiu dość często</font>
+<font color="#FFFF51">spotykamy bohaterkę tego odcinka.</font>
+
+9
+00:01:37,880 --> 00:01:42,040
+<font color="#FFFF51">Możemy ją zobaczyć zarówno</font>
+<font color="#FFFF51">w mieście, jak i na wsi.</font>
+
+10
+00:01:42,200 --> 00:01:44,000
+<font color="#FFFF51">W dzień i o zmroku.</font>
+
+11
+00:01:44,160 --> 00:01:47,960
+<font color="#FFFF51">Wielu z nas powie,</font>
+<font color="#FFFF51">że spotykamy ją zbyt często.</font>
+
+12
+00:01:48,120 --> 00:01:52,000
+<font color="#FFFF51">Szczególnie ci,</font>
+<font color="#FFFF51">którzy chorują na batrachofobię,</font>
+
+13
+00:01:52,200 --> 00:01:53,960
+<font color="#FFFF51">jak David Beckham.</font>
+
+14
+00:01:55,920 --> 00:02:00,920
+<font color="#FFFF51">W literaturze zawsze przedstawiała</font>
+<font color="#FFFF51">nasze złe ludzkie cechy.</font>
+
+15
+00:02:01,080 --> 00:02:04,280
+<font color="#FFFF51">Na przykład</font>
+<font color="#FFFF51">w greckim poemacie satyrycznym</font>
+
+16
+00:02:04,440 --> 00:02:06,480
+<font color="#FFFF51">toczyła wojnę z myszami.</font>
+
+17
+00:02:06,640 --> 00:02:11,200
+<font color="#FFFF51">Bitwa dla niej skończyła się</font>
+<font color="#FFFF51">zwycięsko, ale tylko dlatego,</font>
+
+18
+00:02:11,360 --> 00:02:15,640
+<font color="#FFFF51">że Zeus wysłał armię krabów,</font>
+<font color="#FFFF51">która przegoniła myszy.</font>
+
+19
+00:02:26,120 --> 00:02:29,320
+<font color="#FFFF51">W swoich bajkach</font>
+<font color="#FFFF51">opisywał ją także Ezop.</font>
+
+20
+00:02:29,480 --> 00:02:32,720
+<font color="#FFFF51">Czasem nadymała się,</font>
+<font color="#FFFF51">żeby dorównać wołu.</font>
+
+21
+00:02:32,880 --> 00:02:37,360
+<font color="#FFFF51">Innym razem podstawiała nogę</font>
+<font color="#FFFF51">do podkucia, gdy kuto konie.</font>
+
+22
+00:02:37,520 --> 00:02:40,760
+<font color="#FFFF51">Było i tak,</font>
+<font color="#FFFF51">że nie mogła się zdecydować,</font>
+
+23
+00:02:40,920 --> 00:02:43,920
+<font color="#FFFF51">czy jest bardziej piękna,</font>
+<font color="#FFFF51">czy mądra.</font>
+
+24
+00:02:44,080 --> 00:02:46,080
+<font color="#FFFF51">Albo żądała zmiany króla,</font>
+
+25
+00:02:46,240 --> 00:02:49,640
+<font color="#FFFF51">bo w jej mniemaniu</font>
+<font color="#FFFF51">był to kloc drewniany.</font>
+
+26
+00:02:49,800 --> 00:02:51,880
+<font color="#FFFF51">Bohaterka tego odcinka</font>
+
+27
+00:02:52,040 --> 00:02:55,400
+<font color="#FFFF51">zawsze trafiała</font>
+<font color="#FFFF51">z deszczu pod rynnę.</font>
+
+28
+00:03:09,120 --> 00:03:13,760
+<font color="#FFFF51">Na pewno się domyślacie,</font>
+<font color="#FFFF51">kto jest bohaterką tego odcinka.</font>
+
+29
+00:03:13,920 --> 00:03:17,920
+<font color="#FFFF51">Jest nią żaba, ale sprawa</font>
+<font color="#FFFF51">nie jest aż tak prosta,</font>
+
+30
+00:03:18,080 --> 00:03:21,240
+<font color="#FFFF51">ponieważ większość z nas</font>
+<font color="#FFFF51">zalicza do żab</font>
+
+31
+00:03:21,400 --> 00:03:25,920
+<font color="#FFFF51">14 gatunków płazów bezogoniastych,</font>
+<font color="#FFFF51">które żyją w Polsce.</font>
+
+32
+00:03:26,080 --> 00:03:30,960
+<font color="#FFFF51">W tej grupie są: kumaki, ropuchy,</font>
+<font color="#FFFF51">rzekotki, grzebiuszka.</font>
+
+33
+00:03:31,120 --> 00:03:32,920
+<font color="#FFFF51">One nie są żabami.</font>
+
+34
+00:03:33,080 --> 00:03:38,080
+<font color="#FFFF51">W Polsce żyje sześć gatunków żab,</font>
+<font color="#FFFF51">podzielonych na dwie grupy.</font>
+
+35
+00:03:38,240 --> 00:03:40,640
+<font color="#FFFF51">Żaby zielone i żaby brunatne.</font>
+
+36
+00:03:40,800 --> 00:03:42,240
+<font color="#FFFF51">Bohaterka odcinka</font>
+
+37
+00:03:42,400 --> 00:03:46,200
+<font color="#FFFF51">na przełomie marca i kwietnia</font>
+<font color="#FFFF51">jest niebieska.</font>
+
+38
+00:03:46,360 --> 00:03:49,280
+<font color="#FFFF51">Przez większość roku jest brązowa,</font>
+
+39
+00:03:49,440 --> 00:03:52,680
+<font color="#FFFF51">dlatego zaliczamy ją</font>
+<font color="#FFFF51">do żab brunatnych.</font>
+
+40
+00:03:52,840 --> 00:03:58,600
+<font color="#FFFF51">W Polsce tylko jeden gatunek żab</font>
+<font color="#FFFF51">jest niebieski. To żaba moczarowa.</font>
+
+41
+00:03:58,760 --> 00:04:04,160
+<font color="#FFFF51">Ale tylko samce w okresie godowym</font>
+<font color="#FFFF51">mają intensywny niebieski kolor.</font>
+
+42
+00:04:04,320 --> 00:04:07,440
+<font color="#FFFF51">Utrzymuje się on przez kilka dni.</font>
+
+43
+00:04:07,600 --> 00:04:09,400
+<font color="#FFFF51">Pozostałe 350 dni w roku</font>
+
+44
+00:04:09,560 --> 00:04:13,880
+<font color="#FFFF51">żaba moczarowa</font>
+<font color="#FFFF51">jest brązowa z czarnymi plamami.</font>
+
+45
+00:04:14,040 --> 00:04:16,240
+<font color="#FFFF51">Jej brzuch jest biały.</font>
+
+46
+00:04:17,080 --> 00:04:20,280
+<font color="aqua">Poszczególne osobniki</font>
+<font color="aqua">żaby moczarowej</font>
+
+47
+00:04:20,440 --> 00:04:23,000
+<font color="aqua">mogą mieć różne ubarwienie.</font>
+
+48
+00:04:23,160 --> 00:04:26,200
+<font color="aqua">Najczęściej żaby te</font>
+<font color="aqua">są żółtawobrązowe</font>
+
+49
+00:04:26,360 --> 00:04:30,480
+<font color="aqua">z ciemnymi, nieregularnymi plamami</font>
+<font color="aqua">na bokach.</font>
+
+50
+00:04:30,640 --> 00:04:35,800
+<font color="aqua">Niektóre mają na całym ciele</font>
+<font color="aqua">jasne paski, a inne ciemne plamki.</font>
+
+51
+00:04:35,960 --> 00:04:41,200
+<font color="aqua">Najrzadsze wśród żab moczarowych</font>
+<font color="aqua">jest ubarwienie rdzawobrązowe.</font>
+
+52
+00:04:41,360 --> 00:04:46,240
+<font color="aqua">Samce w czasie godów na kilka dni</font>
+<font color="aqua">stają się jasnoniebieskie.</font>
+
+53
+00:04:46,400 --> 00:04:49,440
+<font color="aqua">Po tym okresie</font>
+<font color="aqua">wrócą do swego typowego,</font>
+
+54
+00:04:49,600 --> 00:04:51,480
+<font color="aqua">maskującego ubarwienia.</font>
+
+55
+00:04:52,080 --> 00:04:56,840
+<font color="#FFFF51">Tak kolorowej żaby żyjącej</font>
+<font color="#FFFF51">na wolności mogą nam zazdrościć</font>
+
+56
+00:04:57,000 --> 00:05:01,120
+<font color="#FFFF51">Hiszpanie, Francuzi, Włosi,</font>
+<font color="#FFFF51">a nawet Brytyjczycy.</font>
+
+57
+00:05:01,280 --> 00:05:06,760
+<font color="#FFFF51">Zasięg występowania żaby moczarowej</font>
+<font color="#FFFF51"> nie sięga tak daleko na zachód.</font>
+
+58
+00:05:06,920 --> 00:05:10,240
+<font color="#FFFF51">Wiosną,</font>
+<font color="#FFFF51">gdy przekwitną krokusy w Tatrach,</font>
+
+59
+00:05:10,400 --> 00:05:15,640
+<font color="#FFFF51">gody żaby moczarowej są jednym</font>
+<font color="#FFFF51">z najbardziej barwnych spektakli.</font>
+
+60
+00:05:15,800 --> 00:05:21,040
+<font color="#FFFF51">A gdy się zakończą, cała przyroda</font>
+<font color="#FFFF51">rozbudzi się milionem kolorów.</font>
+
+61
+00:05:37,520 --> 00:05:41,600
+<font color="aqua">Żaba moczarowa może dorastać</font>
+<font color="aqua">do ośmiu centymetrów.</font>
+
+62
+00:05:41,760 --> 00:05:46,560
+<font color="aqua">Spośród wszystkich żab brunatnych</font>
+<font color="aqua">wyróżniają ją trzy cechy:</font>
+
+63
+00:05:46,720 --> 00:05:49,600
+<font color="aqua">niewielka głowa</font>
+<font color="aqua">o szpiczastym pysku,</font>
+
+64
+00:05:49,760 --> 00:05:52,600
+<font color="aqua">duża, wyraźna narośl</font>
+<font color="aqua">na tylnej łapie,</font>
+
+65
+00:05:52,760 --> 00:05:54,400
+<font color="aqua">tzw. modzel piętowy,</font>
+
+66
+00:05:54,560 --> 00:05:56,360
+<font color="aqua">oraz biały brzuch,</font>
+
+67
+00:05:56,520 --> 00:06:01,000
+<font color="aqua">który u innych gatunków</font>
+<font color="aqua">pokryty jest ciemnymi plamkami.</font>
+
+68
+00:06:10,000 --> 00:06:12,360
+<font color="#FFFF51">Znam co najmniej dwie teorie,</font>
+
+69
+00:06:12,520 --> 00:06:16,640
+<font color="#FFFF51">dlaczego żaby te</font>
+<font color="#FFFF51">mają tak jaskrawe ubarwienie.</font>
+
+70
+00:06:16,800 --> 00:06:21,680
+<font color="#FFFF51">Pierwsza z nich mówi, że samicom</font>
+<font color="#FFFF51">podoba się niebieski kolor.</font>
+
+71
+00:06:21,840 --> 00:06:25,400
+<font color="#FFFF51">Chcesz mieć potomstwo,</font>
+<font color="#FFFF51">musisz być niebieski.</font>
+
+72
+00:06:25,560 --> 00:06:27,360
+<font color="#FFFF51">Druga teoria mówi,</font>
+
+73
+00:06:27,520 --> 00:06:32,080
+<font color="#FFFF51">że jest to ubarwienie</font>
+<font color="#FFFF51">aposematyczne, czyli ostrzegające.</font>
+
+74
+00:06:32,400 --> 00:06:37,200
+<font color="#FFFF51">To jest komunikat: "Jestem</font>
+<font color="#FFFF51">niebezpieczny, nie zbliżaj się".</font>
+
+75
+00:06:37,360 --> 00:06:42,000
+<font color="#FFFF51">Kto jest bardziej niebieski,</font>
+<font color="#FFFF51">jest bardziej niebezpieczny.</font>
+
+76
+00:06:46,840 --> 00:06:52,560
+<font color="#FFFF51">Są też inne cechy, które pozwalają</font>
+<font color="#FFFF51">odróżnić żabę zieloną od brunatnej.</font>
+
+77
+00:06:52,720 --> 00:06:57,560
+<font color="#FFFF51">Np. błona bębenkowa, a właściwie</font>
+<font color="#FFFF51">jej najbliższe otoczenie.</font>
+
+78
+00:06:57,720 --> 00:07:02,640
+<font color="#FFFF51">Tylko u żab brunatnych na skroni</font>
+<font color="#FFFF51">w okolicach błony bębenkowej</font>
+
+79
+00:07:02,800 --> 00:07:04,760
+<font color="#FFFF51">jest duża czarna plama.</font>
+
+80
+00:07:04,920 --> 00:07:10,000
+<font color="#FFFF51">Obydwie te grupy żab</font>
+<font color="#FFFF51">różnią się też strategią rozrodczą.</font>
+
+81
+00:07:10,160 --> 00:07:13,320
+<font color="#FFFF51">Żaby brunatne,</font>
+<font color="#FFFF51">gdy tylko się przebudzą,</font>
+
+82
+00:07:13,480 --> 00:07:16,000
+<font color="#FFFF51">natychmiast rozpoczynają gody.</font>
+
+83
+00:07:16,160 --> 00:07:19,160
+<font color="#FFFF51">Żaby zielone</font>
+<font color="#FFFF51">najpierw wolą się najeść,</font>
+
+84
+00:07:19,320 --> 00:07:21,560
+<font color="#FFFF51">a potem zajmują się godami.</font>
+
+85
+00:07:27,720 --> 00:07:29,920
+<font color="#FFFF51">Żaba wodna jest fascynująca</font>
+
+86
+00:07:30,080 --> 00:07:33,040
+<font color="#FFFF51">ze względu</font>
+<font color="#FFFF51">na zjawisko hybrydogenezy,</font>
+
+87
+00:07:33,200 --> 00:07:36,760
+<font color="#FFFF51">czyli płodnych mieszańców</font>
+<font color="#FFFF51">międzygatunkowych.</font>
+
+88
+00:07:36,920 --> 00:07:40,920
+<font color="#FFFF51">U żaby wodnej to mieszkanka</font>
+<font color="#FFFF51">między żabą jeziorkową</font>
+
+89
+00:07:41,080 --> 00:07:42,640
+<font color="#FFFF51">oraz żabą śmieszką.</font>
+
+90
+00:07:42,800 --> 00:07:45,640
+<font color="#FFFF51">Niestety</font>
+<font color="#FFFF51">potomstwo dwóch żab wodnych</font>
+
+91
+00:07:45,800 --> 00:07:47,800
+<font color="#FFFF51">ma ogromną śmiertelność.</font>
+
+92
+00:07:47,960 --> 00:07:50,960
+<font color="#FFFF51">70% nigdy nie wykluje się</font>
+<font color="#FFFF51">ze skrzeku.</font>
+
+93
+00:07:51,120 --> 00:07:55,000
+<font color="#FFFF51">97% tych, którym się uda,</font>
+<font color="#FFFF51">nie dożyje dorosłości.</font>
+
+94
+00:07:55,160 --> 00:07:58,640
+<font color="#FFFF51">Żaba wodna poradziła sobie</font>
+<font color="#FFFF51">z tym problemem.</font>
+
+95
+00:07:58,800 --> 00:08:01,360
+<font color="#FFFF51">Stała się pasożytem seksualnym.</font>
+
+96
+00:08:02,800 --> 00:08:06,440
+<font color="aqua">Żaba jeziorkowa krzyżuje się</font>
+<font color="aqua">z żabą śmieszką.</font>
+
+97
+00:08:06,600 --> 00:08:11,160
+<font color="aqua">Rodzi się żaba wodna</font>
+<font color="aqua">z połową genów żaby jeziorkowej</font>
+
+98
+00:08:11,320 --> 00:08:14,080
+<font color="aqua">i połową genów żaby śmieszki.</font>
+
+99
+00:08:14,240 --> 00:08:17,240
+<font color="aqua">Hybrydogeneza żab zielonych</font>
+<font color="aqua">zachodzi,</font>
+
+100
+00:08:17,400 --> 00:08:20,040
+<font color="aqua">gdy mieszaniec międzygatunkowy</font>
+
+101
+00:08:20,200 --> 00:08:23,480
+<font color="aqua">krzyżuje się</font>
+<font color="aqua">z gatunkiem rodzicielskim.</font>
+
+102
+00:08:23,640 --> 00:08:27,280
+<font color="aqua">W przypadku krzyżowania się</font>
+<font color="aqua">z żabą jeziorkową</font>
+
+103
+00:08:27,440 --> 00:08:30,440
+<font color="aqua">dochodzi do usunięcia</font>
+<font color="aqua">wszystkich gamet</font>
+
+104
+00:08:30,600 --> 00:08:32,840
+<font color="aqua">z genomem żaby jeziorkowej.</font>
+
+105
+00:08:33,000 --> 00:08:36,160
+<font color="aqua">Inaczej urodziłaby się</font>
+<font color="aqua">żaba jeziorkowa.</font>
+
+106
+00:08:36,320 --> 00:08:41,120
+<font color="aqua">Żaba wodna pozostawia tylko gamety</font>
+<font color="aqua">z genomem żaby śmieszki.</font>
+
+107
+00:08:41,280 --> 00:08:44,000
+<font color="aqua">Powstaje mieszaniec - żaba wodna.</font>
+
+108
+00:08:44,160 --> 00:08:47,560
+<font color="aqua">W przypadku</font>
+<font color="aqua">krzyżowania się z żabą śmieszką</font>
+
+109
+00:08:47,720 --> 00:08:49,880
+<font color="aqua">sytuacja jest analogiczna,</font>
+
+110
+00:08:50,040 --> 00:08:53,360
+<font color="aqua">ale usuwane są gamety</font>
+<font color="aqua">z genomem śmieszki,</font>
+
+111
+00:08:53,520 --> 00:08:56,600
+<font color="aqua">aby w efekcie</font>
+<font color="aqua">urodziła się żaba wodna.</font>
+
+112
+00:09:01,720 --> 00:09:04,680
+<font color="#FFFF51">Nie znamy jeszcze do końca</font>
+<font color="#FFFF51">mechanizmów</font>
+
+113
+00:09:04,840 --> 00:09:09,480
+<font color="#FFFF51">rządzących segregacją chromosomami,</font>
+<font color="#FFFF51">które zawierają geny.</font>
+
+114
+00:09:09,640 --> 00:09:14,440
+<font color="#FFFF51">Wiemy, że na świecie rozmnaża się</font>
+<font color="#FFFF51">tak tylko kilka gatunków.</font>
+
+115
+00:09:14,600 --> 00:09:17,080
+<font color="#FFFF51">W tym nasza polska żaba wodna.</font>
+
+116
+00:09:17,240 --> 00:09:20,240
+<font color="#FFFF51">Mówi się o tym,</font>
+<font color="#FFFF51">że na naszych oczach</font>
+
+117
+00:09:20,400 --> 00:09:22,840
+<font color="#FFFF51">wyodrębnia się nowy gatunek.</font>
+
+118
+00:09:24,160 --> 00:09:26,200
+<font color="aqua">Pomrów żółtawy jest jedną</font>
+
+119
+00:09:26,360 --> 00:09:29,320
+<font color="aqua">z podstawowych ofiar</font>
+<font color="aqua">żaby moczarowej.</font>
+
+120
+00:09:29,480 --> 00:09:34,800
+<font color="aqua">Nieoskorupione ślimaki lądowe</font>
+<font color="aqua">są także pokarmem dla innych żab,</font>
+
+121
+00:09:34,960 --> 00:09:36,760
+<font color="aqua">w tym żaby wodnej.</font>
+
+122
+00:09:40,280 --> 00:09:43,280
+<font color="#FFFF51">Pomrów żółtawy</font>
+<font color="#FFFF51">to dla większości z nas</font>
+
+123
+00:09:43,440 --> 00:09:45,760
+<font color="#FFFF51">bardzo dobrze znany gatunek.</font>
+
+124
+00:09:45,920 --> 00:09:48,080
+<font color="#FFFF51">Zasiedla się tuż obok nas.</font>
+
+125
+00:09:48,240 --> 00:09:52,800
+<font color="#FFFF51">Najczęściej możemy go spotkać</font>
+<font color="#FFFF51">w piwnicach i spiżarniach.</font>
+
+126
+00:09:52,960 --> 00:09:54,760
+<font color="#FFFF51">Żywi się warzywami.</font>
+
+127
+00:09:54,920 --> 00:09:57,800
+<font color="#FFFF51">Najbardziej nie lubią go ogrodnicy.</font>
+
+128
+00:09:57,960 --> 00:10:00,000
+<font color="#FFFF51">W takim środowisku jak to</font>
+
+129
+00:10:00,160 --> 00:10:03,280
+<font color="#FFFF51">pomrów żółtawy</font>
+<font color="#FFFF51">dołącza do diety grzyby.</font>
+
+130
+00:10:48,800 --> 00:10:53,240
+<font color="#FFFF51">Pomrów żółtawy jest częstą ofiarą</font>
+<font color="#FFFF51">żaby moczarowej.</font>
+
+131
+00:10:53,400 --> 00:10:56,640
+<font color="#FFFF51">Jej polowanie</font>
+<font color="#FFFF51">składa się z kilku etapów.</font>
+
+132
+00:10:56,800 --> 00:11:01,600
+<font color="#FFFF51">Na początek język jest wyrzucany</font>
+<font color="#FFFF51">z pyska z dużą szybkością.</font>
+
+133
+00:11:01,760 --> 00:11:04,920
+<font color="#FFFF51">Ślina jest lepka,</font>
+<font color="#FFFF51">ma konsystencję wody.</font>
+
+134
+00:11:05,080 --> 00:11:09,480
+<font color="#FFFF51">Doskonale wypełnia szczeliny</font>
+<font color="#FFFF51">między językiem a ofiarą.</font>
+
+135
+00:11:09,640 --> 00:11:13,720
+<font color="#FFFF51">Cofający się język</font>
+<font color="#FFFF51">inicjuje zmianę gęstości śliny.</font>
+
+136
+00:11:13,880 --> 00:11:17,680
+<font color="#FFFF51">Jest bardziej gęsta niż miód</font>
+<font color="#FFFF51">i działa jak klej.</font>
+
+137
+00:11:17,840 --> 00:11:22,560
+<font color="#FFFF51">Ofiara trafia do pyska żaby,</font>
+<font color="#FFFF51">a tam ślina znów się zmienia.</font>
+
+138
+00:11:22,720 --> 00:11:24,720
+<font color="#FFFF51">Ma płynność niczym woda.</font>
+
+139
+00:11:24,880 --> 00:11:30,040
+<font color="#FFFF51">Ofiara odkleja się od języka</font>
+<font color="#FFFF51">i może być pogryziona i połknięta.</font>
+
+140
+00:11:36,600 --> 00:11:39,080
+<font color="#FFFF51">Ślimaki mają dwie pary czułek.</font>
+
+141
+00:11:39,240 --> 00:11:43,240
+<font color="#FFFF51">Te górne odpowiadają</font>
+<font color="#FFFF51">za widzenie światła i cieni.</font>
+
+142
+00:11:43,400 --> 00:11:45,640
+<font color="#FFFF51">Te dolne reagują na zapach.</font>
+
+143
+00:11:45,800 --> 00:11:47,920
+<font color="#FFFF51">A jest na co reagować.</font>
+
+144
+00:11:48,080 --> 00:11:52,880
+<font color="#FFFF51">Ślimaki w śluzie zostawiają</font>
+<font color="#FFFF51">informacje dla innych ślimaków.</font>
+
+145
+00:11:53,040 --> 00:11:55,920
+<font color="#FFFF51">Np. o tym,</font>
+<font color="#FFFF51">że mają ochotę na zaloty.</font>
+
+146
+00:11:56,080 --> 00:12:00,080
+<font color="#FFFF51">Albo o tym, że były tam,</font>
+<font color="#FFFF51">a teraz zmierzają tam.</font>
+
+147
+00:12:00,240 --> 00:12:03,120
+<font color="#FFFF51">Czułki dla ślimaków</font>
+<font color="#FFFF51">są bardzo ważne.</font>
+
+148
+00:12:03,280 --> 00:12:06,160
+<font color="#FFFF51">Ich utrata to niemal wyrok śmierci.</font>
+
+149
+00:12:06,320 --> 00:12:10,120
+<font color="#FFFF51">Gdy zauważą drapieżnika,</font>
+<font color="#FFFF51">wpierw chowają czułki.</font>
+
+150
+00:12:25,320 --> 00:12:28,560
+<font color="aqua">Wszystkie polskie żaby,</font>
+<font color="aqua">bez wyjątków,</font>
+
+151
+00:12:28,720 --> 00:12:32,360
+<font color="aqua">mogą być ofiarami</font>
+<font color="aqua">dorosłego zaskrońca.</font>
+
+152
+00:12:32,520 --> 00:12:37,000
+<font color="aqua">Relacja ich wzajemnych powiązań</font>
+<font color="aqua">to ofiara i drapieżnik.</font>
+
+153
+00:12:44,960 --> 00:12:50,040
+<font color="#FFFF51">Śmiertelnym zagrożeniem dla</font>
+<font color="#FFFF51">wszystkich płazów jest zaskroniec,</font>
+
+154
+00:12:50,200 --> 00:12:53,520
+<font color="#FFFF51">specjalista</font>
+<font color="#FFFF51">w polowaniu na żaby.</font>
+
+155
+00:12:53,680 --> 00:12:56,080
+<font color="#FFFF51">To najliczniejszy polski wąż.</font>
+
+156
+00:12:56,240 --> 00:12:59,880
+<font color="#FFFF51">Samica może mieć więcej</font>
+<font color="#FFFF51">niż 2 metry długości.</font>
+
+157
+00:13:00,040 --> 00:13:03,120
+<font color="#FFFF51">To więcej niż rozpiętość</font>
+<font color="#FFFF51">moich ramion.</font>
+
+158
+00:13:03,280 --> 00:13:05,760
+<font color="#FFFF51">Samce nie przekraczają 100 cm.</font>
+
+159
+00:13:05,920 --> 00:13:09,880
+<font color="#FFFF51">Polska nazwa - zaskroniec -</font>
+<font color="#FFFF51">wzięła się stąd,</font>
+
+160
+00:13:10,040 --> 00:13:16,040
+<font color="#FFFF51">że na ich skroniach z tyłu głowy</font>
+<font color="#FFFF51">znajdują się dwie żółte plamy.</font>
+
+161
+00:13:46,360 --> 00:13:49,680
+<font color="#FFFF51">Zaskroniec jest</font>
+<font color="#FFFF51">skutecznym drapieżnikiem.</font>
+
+162
+00:13:49,840 --> 00:13:54,760
+<font color="#FFFF51">Jego bronią jest szybki atak</font>
+<font color="#FFFF51">i 180 zębów w pysku.</font>
+
+163
+00:13:54,920 --> 00:13:57,480
+<font color="#FFFF51">Tworzą one coś w rodzaju tarki,</font>
+
+164
+00:13:57,640 --> 00:14:01,720
+<font color="#FFFF51">która jak pochwyci ofiarę,</font>
+<font color="#FFFF51">to już jej nie wypuści.</font>
+
+165
+00:14:01,880 --> 00:14:05,760
+<font color="#FFFF51">Zaskroniec po wykluciu</font>
+<font color="#FFFF51">waży zaledwie trzy gramy.</font>
+
+166
+00:14:05,920 --> 00:14:08,240
+<font color="#FFFF51">To mniej niż łyżeczka cukru.</font>
+
+167
+00:14:08,400 --> 00:14:12,280
+<font color="#FFFF51">Dlatego ma mnóstwo wrogów,</font>
+<font color="#FFFF51">to np. żaba śmieszka.</font>
+
+168
+00:14:12,440 --> 00:14:14,600
+<font color="#FFFF51">To największa polska żaba.</font>
+
+169
+00:14:14,760 --> 00:14:17,000
+<font color="#FFFF51">Ale kiedy zaskroniec podrośnie,</font>
+
+170
+00:14:17,160 --> 00:14:20,480
+<font color="#FFFF51">relacje ofiara - drapieżnik</font>
+<font color="#FFFF51">się zmieniają.</font>
+
+171
+00:14:24,880 --> 00:14:28,680
+<font color="aqua">Wczesną wiosną zaskrońce</font>
+<font color="aqua">wygrzewają się na słońcu,</font>
+
+172
+00:14:28,880 --> 00:14:31,440
+<font color="aqua">by podnieść temperaturę ciała.</font>
+
+173
+00:14:31,600 --> 00:14:33,720
+<font color="aqua">To umożliwi im polowanie.</font>
+
+174
+00:14:33,880 --> 00:14:39,080
+<font color="aqua">Niestety często wygrzewają się</font>
+<font color="aqua">na rozgrzanym asfalcie.</font>
+
+175
+00:14:39,240 --> 00:14:43,960
+<font color="aqua">Pojazdy na drodze stanowią</font>
+<font color="aqua">dla nich śmiertelne zagrożenie.</font>
+
+176
+00:14:44,120 --> 00:14:48,760
+<font color="aqua">Strategie obronne takie jak</font>
+<font color="aqua">uderzanie głową w drapieżnika</font>
+
+177
+00:14:48,920 --> 00:14:52,680
+<font color="aqua">oraz wydzielanie</font>
+<font color="aqua">cuchnącej białej substancji</font>
+
+178
+00:14:52,840 --> 00:14:56,000
+<font color="aqua">nie uchroni zaskrońca</font>
+<font color="aqua">przed samochodem.</font>
+
+179
+00:14:56,160 --> 00:14:59,520
+<font color="aqua">Badania</font>
+<font color="aqua">w woj. mazowieckim pokazały,</font>
+
+180
+00:14:59,680 --> 00:15:04,360
+<font color="aqua">że na drodze rozdzielającej</font>
+<font color="aqua">torfowisko od boru sosnowego</font>
+
+181
+00:15:04,520 --> 00:15:08,480
+<font color="aqua">ginie średnio jeden zaskroniec</font>
+<font color="aqua">na 12 m drogi.</font>
+
+182
+00:15:10,200 --> 00:15:14,680
+<font color="aqua">Boleń jako jedyny drapieżny</font>
+<font color="aqua">przedstawiciel karpiowatych</font>
+
+183
+00:15:14,840 --> 00:15:19,840
+<font color="aqua">stanowi śmiertelne zagrożenie</font>
+<font color="aqua">dla wszystkich żab i zaskrońca.</font>
+
+184
+00:15:20,000 --> 00:15:24,320
+<font color="aqua">Dorosła żaba moczarowa</font>
+<font color="aqua">jest narażona na atak bolenia</font>
+
+185
+00:15:24,480 --> 00:15:29,200
+<font color="aqua">tylko podczas godów związanych</font>
+<font color="aqua">ze środowiskiem wodnym.</font>
+
+186
+00:15:33,760 --> 00:15:36,480
+<font color="#FFFF51">Młode bolenie</font>
+<font color="#FFFF51">żyją w małych stadkach</font>
+
+187
+00:15:36,640 --> 00:15:39,000
+<font color="#FFFF51">w przybrzeżnych wodach rzek.</font>
+
+188
+00:15:39,160 --> 00:15:42,320
+<font color="#FFFF51">Żywią się głównie</font>
+<font color="#FFFF51">drobnymi zwierzętami.</font>
+
+189
+00:15:42,480 --> 00:15:45,440
+<font color="#FFFF51">Najczęściej są to bezkręgowce.</font>
+
+190
+00:15:45,600 --> 00:15:49,120
+<font color="#FFFF51">Gdy bolenie podrosną,</font>
+<font color="#FFFF51">porzucają brzegi rzeki</font>
+
+191
+00:15:49,280 --> 00:15:52,080
+<font color="#FFFF51">i zaczynają żerować w jej nurcie.</font>
+
+192
+00:15:52,240 --> 00:15:54,440
+<font color="#FFFF51">Tam zmienia się ich dieta.</font>
+
+193
+00:15:54,600 --> 00:16:00,600
+<font color="#FFFF51">Dołączają do niej małe ryby, żaby,</font>
+<font color="#FFFF51">małe ssaki, a nawet małe ptaki.</font>
+
+194
+00:16:00,760 --> 00:16:04,320
+<font color="#FFFF51">Bolenie osiągają wielkość do 75 cm.</font>
+
+195
+00:16:04,480 --> 00:16:07,320
+<font color="#FFFF51">Największy opisany boleń</font>
+
+196
+00:16:07,480 --> 00:16:11,280
+<font color="#FFFF51">mierzył 120 cm i ważył aż 12 kg.</font>
+
+197
+00:16:25,480 --> 00:16:29,800
+<font color="#FFFF51">Polującego bolenia</font>
+<font color="#FFFF51">możemy z łatwością usłyszeć.</font>
+
+198
+00:16:29,960 --> 00:16:35,120
+<font color="#FFFF51">To się wydaje nieprawdopodobne,</font>
+<font color="#FFFF51">przecież bolenie żyją w wodzie.</font>
+
+199
+00:16:35,280 --> 00:16:37,440
+<font color="#FFFF51">Bolenie gonią swoją ofiarę</font>
+
+200
+00:16:37,600 --> 00:16:42,800
+<font color="#FFFF51">i w ostatnim etapie polowania</font>
+<font color="#FFFF51">uderzają mocno ogonem o wodę.</font>
+
+201
+00:16:42,960 --> 00:16:46,680
+<font color="#FFFF51">Wtedy możemy usłyszeć</font>
+<font color="#FFFF51">charakterystyczny plusk.</font>
+
+202
+00:16:46,840 --> 00:16:49,520
+<font color="#FFFF51">Podobny plusk</font>
+<font color="#FFFF51">możemy usłyszeć wtedy,</font>
+
+203
+00:16:49,680 --> 00:16:52,080
+<font color="#FFFF51">gdy bóbr odstrasza drapieżnika.</font>
+
+204
+00:16:52,240 --> 00:16:54,320
+<font color="#FFFF51">Też uderza ogonem o wodę.</font>
+
+205
+00:16:54,480 --> 00:16:57,520
+<font color="#FFFF51">Mam nadzieję,</font>
+<font color="#FFFF51">że jak posiedzę tu dłużej,</font>
+
+206
+00:16:57,680 --> 00:17:00,640
+<font color="#FFFF51">zobaczę, jak bolenie szukają ofiar,</font>
+
+207
+00:17:00,800 --> 00:17:03,360
+<font color="#FFFF51">i będę miał okazję je usłyszeć.</font>
+
+208
+00:17:09,040 --> 00:17:14,440
+<font color="#FFFF51">Bolenie osiągają dojrzałość</font>
+<font color="#FFFF51">w czwartym, piątym roku życia.</font>
+
+209
+00:17:14,600 --> 00:17:17,000
+<font color="#FFFF51">Samice przystępujące do tarła</font>
+
+210
+00:17:17,160 --> 00:17:20,440
+<font color="#FFFF51">składają ponad 500 tys.</font>
+<font color="#FFFF51">ziaren ikry.</font>
+
+211
+00:17:20,600 --> 00:17:22,400
+<font color="#FFFF51">Dlaczego tak dużo?</font>
+
+212
+00:17:22,560 --> 00:17:26,960
+<font color="#FFFF51">Dlatego, że zostawiają</font>
+<font color="#FFFF51">swoje potomstwo na pastwę losu.</font>
+
+213
+00:17:27,120 --> 00:17:30,440
+<font color="#FFFF51">Liczą na to,</font>
+<font color="#FFFF51">że jak młode się wyklują,</font>
+
+214
+00:17:30,600 --> 00:17:34,320
+<font color="#FFFF51">część z nich</font>
+<font color="#FFFF51">dożyje do wieku dorosłego.</font>
+
+215
+00:17:34,480 --> 00:17:38,640
+<font color="#FFFF51">Zaloty boleni nie są</font>
+<font color="#FFFF51">tak widowiskowe jak u ptaków.</font>
+
+216
+00:17:38,800 --> 00:17:43,120
+<font color="#FFFF51">Samiec po prostu gania samicę</font>
+<font color="#FFFF51">w wodach przybrzeżnych,</font>
+
+217
+00:17:43,280 --> 00:17:46,040
+<font color="#FFFF51">a jak ją dogoni, składają ikrę.</font>
+
+218
+00:17:46,200 --> 00:17:49,360
+<font color="aqua">Ślepowron</font>
+<font color="aqua">jest szczytowym drapieżnikiem</font>
+
+219
+00:17:49,520 --> 00:17:51,840
+<font color="aqua">środowiska wodno-lądowego.</font>
+
+220
+00:17:52,000 --> 00:17:54,400
+<font color="aqua">Poluje na ryby, płazy i gady.</font>
+
+221
+00:18:14,040 --> 00:18:18,200
+<font color="#FFFF51">Na żaby polują</font>
+<font color="#FFFF51">nie tylko ryby i węże, ale i ptaki.</font>
+
+222
+00:18:18,360 --> 00:18:22,000
+<font color="#FFFF51">Doskonałym przykładem</font>
+<font color="#FFFF51">jest ślepowron.</font>
+
+223
+00:18:22,160 --> 00:18:25,640
+<font color="#FFFF51">To mała czapla,</font>
+<font color="#FFFF51">w Polsce coraz liczniejsza.</font>
+
+224
+00:18:25,800 --> 00:18:27,960
+<font color="#FFFF51">Mamy już 800 par lęgowych.</font>
+
+225
+00:18:28,120 --> 00:18:32,280
+<font color="#FFFF51">Żeby je obserwować,</font>
+<font color="#FFFF51">muszę się zamaskować na drzewie</font>
+
+226
+00:18:32,440 --> 00:18:35,680
+<font color="#FFFF51">i liczyć, że ta czapla</font>
+<font color="#FFFF51">do mnie przyleci.</font>
+
+227
+00:18:59,040 --> 00:19:03,680
+<font color="#FFFF51">Bardzo ciekawa jest historia</font>
+<font color="#FFFF51">powstania nazwy - ślepowron.</font>
+
+228
+00:19:03,840 --> 00:19:05,640
+<font color="#FFFF51">Nasi przodkowie,</font>
+
+229
+00:19:05,800 --> 00:19:10,160
+<font color="#FFFF51">obserwując ptaki stojące</font>
+<font color="#FFFF51">przy gnieździe na jednej nodze,</font>
+
+230
+00:19:10,320 --> 00:19:12,880
+<font color="#FFFF51">zgarbione, z przymrużonymi oczami,</font>
+
+231
+00:19:13,040 --> 00:19:18,240
+<font color="#FFFF51">wierzyli, że ślepowrony są ślepe</font>
+<font color="#FFFF51">i w ciągu dnia nic nie widzą.</font>
+
+232
+00:19:18,400 --> 00:19:22,320
+<font color="#FFFF51">W dodatku ptaki te</font>
+<font color="#FFFF51">są aktywne głównie w nocy.</font>
+
+233
+00:19:22,480 --> 00:19:25,800
+<font color="#FFFF51">Druga część nazwy "wron"</font>
+<font color="#FFFF51">wzięła się stąd,</font>
+
+234
+00:19:25,960 --> 00:19:32,080
+<font color="#FFFF51">że lecące ślepowrony wydają dźwięk</font>
+<font color="#FFFF51">do złudzenia przypominający wrony.</font>
+
+235
+00:19:32,240 --> 00:19:34,960
+<font color="#FFFF51">I już mamy całą nazwę</font>
+<font color="#FFFF51">- ślepowron.</font>
+
+236
+00:19:40,400 --> 00:19:44,040
+<font color="#FFFF51">Ślepowron jest</font>
+<font color="#FFFF51">bardzo inteligentnym ptakiem.</font>
+
+237
+00:19:44,200 --> 00:19:46,000
+<font color="#FFFF51">Obserwowano osobniki,</font>
+
+238
+00:19:46,160 --> 00:19:49,640
+<font color="#FFFF51">które posługiwały się przynętą,</font>
+<font color="#FFFF51">łowiąc ryby.</font>
+
+239
+00:19:49,800 --> 00:19:54,200
+<font color="#FFFF51">Brały kawałek chleba,</font>
+<font color="#FFFF51">kładły go na powierzchni wody</font>
+
+240
+00:19:54,360 --> 00:19:55,960
+<font color="#FFFF51">i czekały na ryby.</font>
+
+241
+00:19:56,120 --> 00:19:58,920
+<font color="#FFFF51">Wtedy mogły z łatwością je złowić.</font>
+
+242
+00:19:59,080 --> 00:20:02,840
+<font color="#FFFF51">Na świecie żyje jeszcze</font>
+<font color="#FFFF51">siedem gatunków czapli,</font>
+
+243
+00:20:03,000 --> 00:20:05,080
+<font color="#FFFF51">które podobnie łowią ryby.</font>
+
+244
+00:20:05,240 --> 00:20:08,560
+<font color="#FFFF51">A w Polsce podobnie łowi ryby</font>
+<font color="#FFFF51">czapla biała.</font>
+
+245
+00:20:12,880 --> 00:20:16,360
+<font color="aqua">Człowiek</font>
+<font color="aqua">poprzez kształtowanie środowiska</font>
+
+246
+00:20:16,520 --> 00:20:19,040
+<font color="aqua">wpływa na liczebność płazów.</font>
+
+247
+00:20:19,200 --> 00:20:22,960
+<font color="aqua">Niestety najczęściej</font>
+<font color="aqua">kontakt płazów z człowiekiem</font>
+
+248
+00:20:23,120 --> 00:20:25,760
+<font color="aqua">kończy się dla nich tragicznie.</font>
+
+249
+00:20:30,480 --> 00:20:34,120
+<font color="#FFFF51">Liczebność płazów</font>
+<font color="#FFFF51">dramatycznie się zmniejsza.</font>
+
+250
+00:20:34,280 --> 00:20:37,440
+<font color="#FFFF51">Jest to spowodowane</font>
+<font color="#FFFF51">kilkoma czynnikami.</font>
+
+251
+00:20:37,600 --> 00:20:40,000
+<font color="#FFFF51">Pierwszy - to utrata siedlisk</font>
+
+252
+00:20:40,160 --> 00:20:43,160
+<font color="#FFFF51">wskutek osuszania</font>
+<font color="#FFFF51">terenów podmokłych,</font>
+
+253
+00:20:43,320 --> 00:20:44,960
+<font color="#FFFF51">ale i zmian klimatu,</font>
+
+254
+00:20:45,120 --> 00:20:48,200
+<font color="#FFFF51">które doprowadzają</font>
+<font color="#FFFF51">do okresowych susz.</font>
+
+255
+00:20:48,360 --> 00:20:52,240
+<font color="#FFFF51">Zanieczyszczenie środowiska</font>
+<font color="#FFFF51">to kolejny czynnik.</font>
+
+256
+00:20:52,400 --> 00:20:56,120
+<font color="#FFFF51">Skrajnym przykładem może być</font>
+<font color="#FFFF51">jezioro Titicaca,</font>
+
+257
+00:20:56,280 --> 00:21:00,920
+<font color="#FFFF51">gdzie wskutek spuszczenia</font>
+<font color="#FFFF51">ścieków przemysłowych do wody</font>
+
+258
+00:21:01,080 --> 00:21:06,400
+<font color="#FFFF51">wyginęło 10 tys. żab endemicznych,</font>
+<font color="#FFFF51">żyjących tylko w tym jeziorze.</font>
+
+259
+00:21:06,560 --> 00:21:09,280
+<font color="#FFFF51">Ostatni czynnik to wypalanie łąk.</font>
+
+260
+00:21:09,440 --> 00:21:14,000
+<font color="#FFFF51">Konsekwencje są oczywiste.</font>
+<font color="#FFFF51">Żaden płaz tego nie przeżyje.</font>
+
+261
+00:21:14,160 --> 00:21:16,280
+<font color="#FFFF51">Podobnie jak ta brzoza,</font>
+
+262
+00:21:16,440 --> 00:21:19,880
+<font color="#FFFF51">która już się nie odbuduje</font>
+<font color="#FFFF51">po pożarze.</font>
+
+263
+00:21:38,760 --> 00:21:43,560
+<font color="#FFFF51">W 2019 roku 41 naukowców</font>
+<font color="#FFFF51">we wspólnej publikacji udowodniło,</font>
+
+264
+00:21:43,720 --> 00:21:47,360
+<font color="#FFFF51">że najbardziej śmiertelną</font>
+<font color="#FFFF51">chorobą na świecie</font>
+
+265
+00:21:47,520 --> 00:21:50,800
+<font color="#FFFF51">jest grzybicza choroba</font>
+<font color="#FFFF51">skóry płazów.</font>
+
+266
+00:21:50,960 --> 00:21:56,120
+<font color="#FFFF51">Doprowadziła ona do zmniejszenia</font>
+<font color="#FFFF51">populacji 500 gatunków płazów.</font>
+
+267
+00:21:56,280 --> 00:21:59,520
+<font color="#FFFF51">90 z nich uznano już</font>
+<font color="#FFFF51">za gatunki wymarłe.</font>
+
+268
+00:21:59,680 --> 00:22:01,560
+<font color="#FFFF51">124 inne gatunki płazów</font>
+
+269
+00:22:01,720 --> 00:22:05,000
+<font color="#FFFF51">zmniejszyły swoją liczebność</font>
+<font color="#FFFF51">o ponad 90%.</font>
+
+270
+00:22:05,160 --> 00:22:09,320
+<font color="#FFFF51">Chorobę tę po świecie rozwlekli</font>
+<font color="#FFFF51">podróżujący ludzie.</font>
+
+271
+00:22:32,640 --> 00:22:36,200
+<font color="#FFFF51">Los wszystkich płazów</font>
+<font color="#FFFF51">jest w naszych rękach.</font>
+
+272
+00:22:36,360 --> 00:22:39,080
+<font color="#FFFF51">Nie tylko tych żyjących w Polsce.</font>
+
+273
+00:22:39,240 --> 00:22:43,160
+<font color="#FFFF51">Jeśli nie zmienimy swojego</font>
+<font color="#FFFF51">nastawienia do przyrody,</font>
+
+274
+00:22:43,320 --> 00:22:46,120
+<font color="#FFFF51">wiele gatunków po prostu wyginie.</font>
+
+275
+00:22:46,280 --> 00:22:48,560
+<font color="#FFFF51">Wraz z nimi stracimy wiedzę,</font>
+
+276
+00:22:48,720 --> 00:22:51,920
+<font color="#FFFF51">która być może</font>
+<font color="#FFFF51">byłaby dla nas użyteczna.</font>
+
+277
+00:22:52,080 --> 00:22:54,360
+<font color="#FFFF51">Ostatnio wyginął gatunek żaby,</font>
+
+278
+00:22:54,520 --> 00:22:58,160
+<font color="#FFFF51">która umiała regulować</font>
+<font color="#FFFF51">swoje soki trawienne tak,</font>
+
+279
+00:22:58,320 --> 00:23:02,200
+<font color="#FFFF51">aby młode żaby mogły się rozwijać</font>
+<font color="#FFFF51">w jej żołądku.</font>
+
+280
+00:23:02,360 --> 00:23:07,080
+<font color="#FFFF51">Nie dowiedzieliśmy się,</font>
+<font color="#FFFF51">jaka substancja za to odpowiadała.</font>
+
+281
+00:23:07,240 --> 00:23:09,040
+<font color="#FFFF51">Gdybyśmy ją poznali,</font>
+
+282
+00:23:09,200 --> 00:23:12,680
+<font color="#FFFF51">może stworzylibyśmy</font>
+<font color="#FFFF51">lek ratujący nam życie.</font>
+
+283
+00:23:12,840 --> 00:23:18,480
+<font color="aqua">Zobaczyliśmy jedynie wycinek</font>
+<font color="aqua">zależności w świecie przyrody.</font>
+
+284
+00:23:18,640 --> 00:23:20,440
+<font color="aqua">Nie ma wątpliwości,</font>
+
+285
+00:23:20,640 --> 00:23:24,960
+<font color="aqua">że żaby powiązane z rybami,</font>
+<font color="aqua">gadami, ptakami i ssakami</font>
+
+286
+00:23:25,200 --> 00:23:28,200
+<font color="aqua">odgrywają ważną rolę w środowisku.</font>
+
+287
+00:23:28,360 --> 00:23:31,400
+<font color="aqua">Ich brak z pewnością</font>
+<font color="aqua">negatywnie wpłynie</font>
+
+288
+00:23:31,560 --> 00:23:34,080
+<font color="aqua">na życie wszystkich zwierząt.</font>
+
+289
+00:24:03,840 --> 00:24:06,560
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+290
+00:24:06,720 --> 00:24:10,200
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+291
+00:24:10,360 --> 00:24:12,160
+
+

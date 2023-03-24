@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="pl-PL" xmlns="http://www.w3.org/ns/ttml"   xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<head>
+  <metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+    <ttm:title/>
+    <ttm:desc/>
+    <ttm:copyright/>
+  </metadata>
+  <styling>
+    <style xml:id="s1" tts:color="white" tts:fontFamily="proportionalSansSerif" tts:fontSize="0.8c" tts:textAlign="center"/>
+  </styling>
+  <layout>
+    <region xml:id="subtitles" style="s1" tts:padding="5px 3px" tts:displayAlign="after"/>
+  </layout>
+</head>
+<body xml:space="preserve">
+  <div>
+    <p begin="81.040s" end="83.560s" region="subtitles"><span tts:backgroundColor="#000000"> Świat bez wody. </span><br/></p>
+    <p begin="84.080s" end="89.400s" region="subtitles"><span tts:backgroundColor="#000000"> Jak zrobić poranną toaletę? </span><br/><span tts:backgroundColor="#000000"> Jak się żyje w świecie bez wody? </span><br/></p>
+    <p begin="89.680s" end="93.360s" region="subtitles"><span tts:backgroundColor="#000000"> Wodę najpierw trzeba dać </span><br/><span tts:backgroundColor="#000000"> krowom, kozom. </span><br/></p>
+    <p begin="93.520s" end="95.920s" region="subtitles"><span tts:backgroundColor="#000000"> Trzeba się samemu napić. </span><br/></p>
+    <p begin="96.080s" end="100.920s" region="subtitles"><span tts:backgroundColor="#000000"> Woda jest przede wszystkim do picia. </span><br/><span tts:backgroundColor="#000000"> Oszczędzamy ją. </span><br/></p>
+    <p begin="101.640s" end="107.320s" region="subtitles"><span tts:backgroundColor="#000000"> W tym plemieniu toaleta wygląda </span><br/><span tts:backgroundColor="#000000"> inaczej, niż można się spodziewać. </span><br/></p>
+    <p begin="107.480s" end="111.000s" region="subtitles"><span tts:backgroundColor="#000000"> Tu człowiek się nie zmywa, </span><br/><span tts:backgroundColor="#000000"> tylko naciera. </span><br/></p>
+    <p begin="111.960s" end="117.320s" region="subtitles"><span tts:backgroundColor="#000000"> Do nacierania robimy </span><br/><span tts:backgroundColor="#000000"> miksturę złożoną z ochry... </span><br/></p>
+    <p begin="117.560s" end="121.800s" region="subtitles"><span tts:backgroundColor="#000000"> Tu widać utarte czerwone kamienie. </span><br/></p>
+    <p begin="127.240s" end="131.360s" region="subtitles"><span tts:backgroundColor="#000000"> Do tego dodajemy... łój. </span><br/></p>
+    <p begin="134.280s" end="137.600s" region="subtitles"><span tts:backgroundColor="#000000"> Rozpuszczone krowie masło. </span><br/></p>
+    <p begin="137.880s" end="145.000s" region="subtitles"><span tts:backgroundColor="#000000"> Jak się je rozpuści w niezbyt wysokiej </span><br/><span tts:backgroundColor="#000000"> temperaturze, to już zostaje płynne. </span><br/></p>
+    <p begin="145.240s" end="149.120s" region="subtitles"><span tts:backgroundColor="#000000"> Natomiast ma kontrowersyjny zapach. </span><br/></p>
+    <p begin="149.560s" end="156.640s" region="subtitles"><span tts:backgroundColor="#000000"> Żeby się go pozbyć i przy okazji </span><br/><span tts:backgroundColor="#000000"> zabić zapach człowieka, </span><br/><span tts:backgroundColor="#000000"> który się nie myje... </span><br/></p>
+    <p begin="156.800s" end="161.240s" region="subtitles"><span tts:backgroundColor="#000000"> ... stosujemy różne zioła, </span><br/><span tts:backgroundColor="#000000"> które perfumują. </span><br/></p>
+    <p begin="163.040s" end="165.760s" region="subtitles"><span tts:backgroundColor="#000000"> Otwórz mi to, dziewczyno. </span><br/></p>
+    <p begin="166.120s" end="168.480s" region="subtitles"><span tts:backgroundColor="#000000"> A właściwie - kobieto. </span><br/></p>
+    <p begin="168.640s" end="175.240s" region="subtitles"><span tts:backgroundColor="#000000"> Na czubku głowy ma taki czepeczek, </span><br/><span tts:backgroundColor="#000000"> który świadczy o tym, że jest mężatką. </span><br/></p>
+    <p begin="178.520s" end="184.560s" region="subtitles"><span tts:backgroundColor="#000000"> Ziółka przypominają wyglądem oregano. </span><br/><span tts:backgroundColor="#000000"> Zapachem już nie. </span><br/></p>
+    <p begin="185.400s" end="190.920s" region="subtitles"><span tts:backgroundColor="#000000"> Tymi ziółkami można nacierać </span><br/><span tts:backgroundColor="#000000"> całe ciało albo tylko koło szyi. </span><br/></p>
+    <p begin="191.080s" end="193.280s" region="subtitles"><span tts:backgroundColor="#000000"> One się na tym znają. </span><br/></p>
+    <p begin="193.440s" end="200.480s" region="subtitles"><span tts:backgroundColor="#000000"> Kobieta wie, gdzie się wyperfumować, </span><br/><span tts:backgroundColor="#000000"> żeby się mężowi podobać. </span><br/></p>
+    <p begin="200.640s" end="203.360s" region="subtitles"><span tts:backgroundColor="#000000"> Te są już z czymś zmieszane. </span><br/></p>
+    <p begin="203.520s" end="208.240s" region="subtitles"><span tts:backgroundColor="#000000"> To pachnie tak, że nie chciałbym </span><br/><span tts:backgroundColor="#000000"> być mężem tej pani. </span><br/></p>
+    <p begin="208.400s" end="210.600s" region="subtitles"><span tts:backgroundColor="#000000"> Nie ma wody. </span><br/></p>
+    <p begin="210.760s" end="215.800s" region="subtitles"><span tts:backgroundColor="#000000"> Całe życie nacieramy się. </span><br/><span tts:backgroundColor="#000000"> One to robią kilka razy dziennie. </span><br/></p>
+    <p begin="215.960s" end="219.600s" region="subtitles"><span tts:backgroundColor="#000000"> Dzięki temu nie przychodzą </span><br/><span tts:backgroundColor="#000000"> do nich muchy. </span><br/></p>
+    <p begin="219.760s" end="223.800s" region="subtitles"><span tts:backgroundColor="#000000"> A jak się hoduje bydło, </span><br/><span tts:backgroundColor="#000000"> owadów jest mnóstwo. </span><br/></p>
+    <p begin="223.960s" end="229.400s" region="subtitles"><span tts:backgroundColor="#000000"> A natłuszczone skóra się nie psuje. </span><br/><span tts:backgroundColor="#000000"> Nie schnie w tym klimacie. </span><br/></p>
+    <p begin="229.600s" end="235.440s" region="subtitles"><span tts:backgroundColor="#000000"> Proszę zobaczyć, jaką ja mam skórę. </span><br/><span tts:backgroundColor="#000000"> Wszystko maksymalnie wysuszone. </span><br/></p>
+    <p begin="236.400s" end="239.400s" region="subtitles"><span tts:backgroundColor="#000000"> Kupiłem sobie krem, </span><br/><span tts:backgroundColor="#000000"> ale nie pomaga. </span><br/></p>
+    <p begin="239.560s" end="245.520s" region="subtitles"><span tts:backgroundColor="#000000"> Trzeba w całości czymś pokryć ciało, </span><br/><span tts:backgroundColor="#000000"> żeby nie wysychać jak jaszczurka. </span><br/></p>
+    <p begin="245.680s" end="249.000s" region="subtitles"><span tts:backgroundColor="#000000"> Wszędzie mi się łuszczy. A im nie. </span><br/></p>
+    <p begin="249.160s" end="253.400s" region="subtitles"><span tts:backgroundColor="#000000"> A co ze sprawami intymnymi </span><br/><span tts:backgroundColor="#000000"> u kobiet i u mężczyzn? </span><br/></p>
+    <p begin="253.560s" end="258.960s" region="subtitles"><span tts:backgroundColor="#000000"> Jak idą zrobić kupę, to się podcierają </span><br/><span tts:backgroundColor="#000000"> piaskiem albo żwirkiem. </span><br/></p>
+    <p begin="259.120s" end="261.560s" region="subtitles"><span tts:backgroundColor="#000000"> Zależy, na jakim podłożu są. </span><br/></p>
+    <p begin="261.720s" end="264.800s" region="subtitles"><span tts:backgroundColor="#000000"> O liściach i trawie nie mówili. </span><br/></p>
+    <p begin="265.000s" end="270.480s" region="subtitles"><span tts:backgroundColor="#000000"> Jest jeszcze taka czynność, </span><br/><span tts:backgroundColor="#000000"> którą kobiety robią wieczorem. </span><br/></p>
+    <p begin="270.640s" end="274.040s" region="subtitles"><span tts:backgroundColor="#000000"> Ustawiają specjalne kadzidełko. </span><br/></p>
+    <p begin="274.200s" end="279.120s" region="subtitles"><span tts:backgroundColor="#000000"> Przykrywają je koszyczkiem, </span><br/><span tts:backgroundColor="#000000"> żeby nie usiąść za nisko. </span><br/></p>
+    <p begin="279.280s" end="282.400s" region="subtitles"><span tts:backgroundColor="#000000"> Okadzają się pod spódniczką. </span><br/></p>
+    <p begin="283.240s" end="285.320s" region="subtitles"><span tts:backgroundColor="#000000"> Oto cała toaleta. </span><br/></p>
+    <p begin="285.480s" end="287.680s" region="subtitles"><span tts:backgroundColor="#000000"> Mężczyźni mają lepiej. </span><br/></p>
+    <p begin="287.840s" end="293.800s" region="subtitles"><span tts:backgroundColor="#000000"> Mogą się podmyć, jak są gdzieś </span><br/><span tts:backgroundColor="#000000"> daleko z bydłem i jest dostatek wody. </span><br/></p>
+    <p begin="293.960s" end="300.040s" region="subtitles"><span tts:backgroundColor="#000000"> Za chwilę odejdą z tego miejsca, </span><br/><span tts:backgroundColor="#000000"> więc nie boją się tej wody zmarnować. </span><br/></p>
+    <p begin="305.320s" end="308.040s" region="subtitles"><span tts:backgroundColor="#000000"> Ozdoba na nogę. </span><br/></p>
+    <p begin="308.320s" end="311.280s" region="subtitles"><span tts:backgroundColor="#000000"> To są pocięte kawałki drutu. </span><br/></p>
+    <p begin="311.760s" end="314.280s" region="subtitles"><span tts:backgroundColor="#000000"> Też się je naciera. </span><br/></p>
+    <p begin="314.440s" end="320.600s" region="subtitles"><span tts:backgroundColor="#000000"> Żeby się czymś odróżniały, naciera się </span><br/><span tts:backgroundColor="#000000"> takim czarnym. To jest popiół. </span><br/></p>
+    <p begin="321.360s" end="325.000s" region="subtitles"><span tts:backgroundColor="#000000"> Tak mi powiedzieli. </span><br/></p>
+    <p begin="326.000s" end="336.360s" region="subtitles"><span tts:backgroundColor="#000000"> Natomiast inna biżuteria - skórzana - </span><br/><span tts:backgroundColor="#000000"> jest natarta tym samym mazidłem, </span><br/><span tts:backgroundColor="#000000"> co reszta ciała. </span><br/></p>
+    <p begin="337.040s" end="341.280s" region="subtitles"><span tts:backgroundColor="#000000"> Włosy omówimy osobno. </span><br/></p>
+    <p begin="384.520s" end="388.560s" region="subtitles"><span tts:backgroundColor="#000000"> A co z praniem ubrań, </span><br/><span tts:backgroundColor="#000000"> kiedy nie mamy wody? </span><br/></p>
+    <p begin="389.000s" end="394.000s" region="subtitles"><span tts:backgroundColor="#000000"> Pranie ubrań odbywa się </span><br/><span tts:backgroundColor="#000000"> tak samo jak pranie człowieka. </span><br/></p>
+    <p begin="394.160s" end="397.520s" region="subtitles"><span tts:backgroundColor="#000000"> To jest skóra z kozy albo z krowy. </span><br/></p>
+    <p begin="397.680s" end="401.040s" region="subtitles"><span tts:backgroundColor="#000000"> Jest nacierana tą samą substancją. </span><br/></p>
+    <p begin="401.200s" end="405.720s" region="subtitles"><span tts:backgroundColor="#000000"> Dzięki temu nie robi się sztywna, </span><br/><span tts:backgroundColor="#000000"> nie kurzy się. </span><br/></p>
+    <p begin="406.160s" end="411.520s" region="subtitles"><span tts:backgroundColor="#000000"> Skórę okadza się wieczorami, </span><br/><span tts:backgroundColor="#000000"> zdejmując z siebie ubranie na noc. </span><br/></p>
+    <p begin="411.680s" end="420.240s" region="subtitles"><span tts:backgroundColor="#000000"> Jak już się człowiek okadzi, </span><br/><span tts:backgroundColor="#000000"> stawia kadzidełko pod ubraniem </span><br/><span tts:backgroundColor="#000000"> i okadza je całą noc. </span><br/></p>
+    <p begin="423.200s" end="427.440s" region="subtitles"><span tts:backgroundColor="#000000"> A rano... Jak to powiedzieć? </span><br/><span tts:backgroundColor="#000000"> Śmierdzi inaczej. </span><br/></p>
+    <p begin="427.600s" end="432.440s" region="subtitles"><span tts:backgroundColor="#000000"> Nie śmierdzi tak, </span><br/><span tts:backgroundColor="#000000"> że drażni kwaśnym ludzkim zapachem. </span><br/></p>
+    <p begin="432.600s" end="436.800s" region="subtitles"><span tts:backgroundColor="#000000"> Po prostu ten zapach </span><br/><span tts:backgroundColor="#000000"> pokrywa inny zapach. </span><br/></p>
+    <p begin="438.240s" end="440.880s" region="subtitles"><span tts:backgroundColor="#000000"> Mogę przymierzyć? </span><br/></p>
+    <p begin="441.760s" end="445.120s" region="subtitles"><span tts:backgroundColor="#000000"> Nie mogę przymierzyć. Dziękuję. </span><br/></p>
+    <p begin="468.800s" end="472.440s" region="subtitles"><span tts:backgroundColor="#000000"> Bardzo ważna część kultury Himba. </span><br/></p>
+    <p begin="473.200s" end="477.640s" region="subtitles"><span tts:backgroundColor="#000000"> W ogóle u ludów czarnych </span><br/><span tts:backgroundColor="#000000"> włosy są istotne. </span><br/></p>
+    <p begin="477.800s" end="479.960s" region="subtitles"><span tts:backgroundColor="#000000"> Kto wymyślił dredy? </span><br/></p>
+    <p begin="480.120s" end="487.880s" region="subtitles"><span tts:backgroundColor="#000000"> W USA dziewczyny za pomocą </span><br/><span tts:backgroundColor="#000000"> różnych środków chemicznych </span><br/><span tts:backgroundColor="#000000"> robią z włosami przeróżne rzeczy. </span><br/></p>
+    <p begin="488.040s" end="496.680s" region="subtitles"><span tts:backgroundColor="#000000"> Szczególna dbałość o włosy u Himba </span><br/><span tts:backgroundColor="#000000"> wyraża się tym, że robią sobie </span><br/><span tts:backgroundColor="#000000"> ubłocone i wytłuszczone dredy. </span><br/></p>
+    <p begin="496.840s" end="502.320s" region="subtitles"><span tts:backgroundColor="#000000"> Zależnie od tego, jak się kto uczesał, </span><br/><span tts:backgroundColor="#000000"> pokazuje, kim jest. </span><br/></p>
+    <p begin="502.480s" end="508.760s" region="subtitles"><span tts:backgroundColor="#000000"> Taki welon z włosów, </span><br/><span tts:backgroundColor="#000000"> przykrywający twarz, pokazuje, </span><br/><span tts:backgroundColor="#000000"> że to jest dziewczynka. </span><br/></p>
+    <p begin="508.920s" end="512.120s" region="subtitles"><span tts:backgroundColor="#000000"> To jeszcze nie jest kobieta. </span><br/><span tts:backgroundColor="#000000"> Nie ruszać. </span><br/></p>
+    <p begin="512.280s" end="516.000s" region="subtitles"><span tts:backgroundColor="#000000"> Może już wkrótce będzie </span><br/><span tts:backgroundColor="#000000"> i można się pomylić. </span><br/></p>
+    <p begin="516.160s" end="521.440s" region="subtitles"><span tts:backgroundColor="#000000"> Te fryzury to sygnał dla mężczyzn, </span><br/><span tts:backgroundColor="#000000"> żeby trzymali się z daleka. </span><br/></p>
+    <p begin="521.720s" end="525.160s" region="subtitles"><span tts:backgroundColor="#000000"> Taką fryzurę stosuje się </span><br/><span tts:backgroundColor="#000000"> tylko od święta. </span><br/></p>
+    <p begin="525.320s" end="530.960s" region="subtitles"><span tts:backgroundColor="#000000"> Na co dzień, do pracy, dziewczynka </span><br/><span tts:backgroundColor="#000000"> rozgarnia sobie tę fryzurę. </span><br/></p>
+    <p begin="531.120s" end="533.680s" region="subtitles"><span tts:backgroundColor="#000000"> Inaczej nie dałaby rady. </span><br/></p>
+    <p begin="533.880s" end="541.920s" region="subtitles"><span tts:backgroundColor="#000000"> Twarz się zakrywa, </span><br/><span tts:backgroundColor="#000000"> gdy po miesiącach nieobecności </span><br/><span tts:backgroundColor="#000000"> z pastwisk wracają mężczyźni. </span><br/></p>
+    <p begin="542.080s" end="546.800s" region="subtitles"><span tts:backgroundColor="#000000"> Oni mogliby sądzić, </span><br/><span tts:backgroundColor="#000000"> że może już jest kobietą. </span><br/></p>
+    <p begin="546.960s" end="550.720s" region="subtitles"><span tts:backgroundColor="#000000"> Dlatego daje wyraźny sygnał </span><br/><span tts:backgroundColor="#000000"> - jeszcze nie. </span><br/></p>
+    <p begin="550.880s" end="555.960s" region="subtitles"><span tts:backgroundColor="#000000"> Wracają wyposzczeni, </span><br/><span tts:backgroundColor="#000000"> chcą się poprzytulać do swoich żon. </span><br/></p>
+    <p begin="556.120s" end="561.240s" region="subtitles"><span tts:backgroundColor="#000000"> Z okazji takiego święta wszyscy </span><br/><span tts:backgroundColor="#000000"> są nastawieni seksualnie. </span><br/></p>
+    <p begin="561.400s" end="564.800s" region="subtitles"><span tts:backgroundColor="#000000"> Stąd ważne symbole </span><br/><span tts:backgroundColor="#000000"> wystawione na pokaz. </span><br/></p>
+    <p begin="564.960s" end="566.920s" region="subtitles"><span tts:backgroundColor="#000000"> To jest czepek. </span><br/></p>
+    <p begin="567.080s" end="571.880s" region="subtitles"><span tts:backgroundColor="#000000"> U nas na ślubie zdejmuje się welon, </span><br/><span tts:backgroundColor="#000000"> a potem są oczepiny. </span><br/></p>
+    <p begin="572.040s" end="578.200s" region="subtitles"><span tts:backgroundColor="#000000"> To jest czepek ze skóry jagnięcia, </span><br/><span tts:backgroundColor="#000000"> nałożony na głowę. Oznacza mężatkę. </span><br/></p>
+    <p begin="578.360s" end="583.960s" region="subtitles"><span tts:backgroundColor="#000000"> A jak są dzieci, to dodatkowo </span><br/><span tts:backgroundColor="#000000"> każde dziecko symbolizuje naszyjnik. </span><br/></p>
+    <p begin="584.120s" end="589.760s" region="subtitles"><span tts:backgroundColor="#000000"> Nie wiem, ile dzieci ma ta pani. </span><br/><span tts:backgroundColor="#000000"> Chyba trójkę albo czwórkę. </span><br/></p>
+    <p begin="590.120s" end="593.520s" region="subtitles"><span tts:backgroundColor="#000000"> Dziewczynki też noszą coś na szyi. </span><br/></p>
+    <p begin="593.680s" end="597.120s" region="subtitles"><span tts:backgroundColor="#000000"> To jest takie białe sztywne kółko. </span><br/></p>
+    <p begin="597.280s" end="600.720s" region="subtitles"><span tts:backgroundColor="#000000"> To znak, że nie miała </span><br/><span tts:backgroundColor="#000000"> jeszcze dzieci. </span><br/></p>
+    <p begin="601.560s" end="605.600s" region="subtitles"><span tts:backgroundColor="#000000"> Dziewczynka, mężatka, mężatka... </span><br/></p>
+    <p begin="606.480s" end="611.080s" region="subtitles"><span tts:backgroundColor="#000000"> A tutaj już kobieta, </span><br/><span tts:backgroundColor="#000000"> ale jeszcze niezamężna. </span><br/></p>
+    <p begin="611.440s" end="613.720s" region="subtitles"><span tts:backgroundColor="#000000"> Nie ma czepeczka. </span><br/></p>
+    <p begin="613.880s" end="616.120s" region="subtitles"><span tts:backgroundColor="#000000"> Włosy zdjęte z twarzy. </span><br/></p>
+    <p begin="616.280s" end="621.480s" region="subtitles"><span tts:backgroundColor="#000000"> Pokazuje ramiona, pokazuje pierś, </span><br/><span tts:backgroundColor="#000000"> pokazuje śliczną buzię. </span><br/></p>
+    <p begin="621.640s" end="626.840s" region="subtitles"><span tts:backgroundColor="#000000"> Tą fryzurą zaprasza mężczyzn, </span><br/><span tts:backgroundColor="#000000"> żeby starali się o jej rękę. </span><br/></p>
+    <p begin="627.000s" end="631.440s" region="subtitles"><span tts:backgroundColor="#000000"> Pierwszy mąż będzie raczej </span><br/><span tts:backgroundColor="#000000"> wyznaczony przez ojca. </span><br/></p>
+    <p begin="631.600s" end="633.840s" region="subtitles"><span tts:backgroundColor="#000000"> Ale ojciec kocha córkę. </span><br/></p>
+    <p begin="634.000s" end="640.640s" region="subtitles"><span tts:backgroundColor="#000000"> Uważnie przygląda się, </span><br/><span tts:backgroundColor="#000000"> który z konkurentów </span><br/><span tts:backgroundColor="#000000"> jest zauroczony jego córką. </span><br/></p>
+    <p begin="640.800s" end="646.360s" region="subtitles"><span tts:backgroundColor="#000000"> Potem jeszcze sprawdza, </span><br/><span tts:backgroundColor="#000000"> którzy konkurenci mają dużo kóz. </span><br/></p>
+    <p begin="665.040s" end="668.400s" region="subtitles"><span tts:backgroundColor="#000000"> To jest kolejny element higieny. </span><br/></p>
+    <p begin="668.800s" end="676.440s" region="subtitles"><span tts:backgroundColor="#000000"> Brakuje wody, a gdyby ten chłopiec </span><br/><span tts:backgroundColor="#000000"> miał dużo włosów, musiałby je myć. </span><br/></p>
+    <p begin="676.600s" end="682.400s" region="subtitles"><span tts:backgroundColor="#000000"> Inaczej zalęgłoby się w nich robactwo. </span><br/><span tts:backgroundColor="#000000"> Albo skóra by się zepsuła. </span><br/></p>
+    <p begin="682.560s" end="690.520s" region="subtitles"><span tts:backgroundColor="#000000"> Dlatego kobiety, które mają </span><br/><span tts:backgroundColor="#000000"> długie włosy, czyszczą je </span><br/><span tts:backgroundColor="#000000"> za pomocą błota z ochrą i tłuszczu. </span><br/></p>
+    <p begin="690.680s" end="695.720s" region="subtitles"><span tts:backgroundColor="#000000"> Natomiast chłopcom i mężczyznom </span><br/><span tts:backgroundColor="#000000"> goli się głowy na łyso. </span><br/></p>
+    <p begin="695.880s" end="700.520s" region="subtitles"><span tts:backgroundColor="#000000"> Wtedy wystarczy odrobinka wody, </span><br/><span tts:backgroundColor="#000000"> żeby głowę umyć. </span><br/></p>
+    <p begin="702.680s" end="704.920s" region="subtitles"><span tts:backgroundColor="#000000"> Ale brzytwa... </span><br/></p>
+    <p begin="705.080s" end="707.360s" region="subtitles"><span tts:backgroundColor="#000000"> Zwykły scyzoryk. </span><br/></p>
+    <p begin="707.520s" end="710.880s" region="subtitles"><span tts:backgroundColor="#000000"> Naostrzony na kawałku drewienka. </span><br/></p>
+    <p begin="711.040s" end="715.400s" region="subtitles"><span tts:backgroundColor="#000000"> Mój dziadek kiedyś </span><br/><span tts:backgroundColor="#000000"> polerował brzytwę na pasku. </span><br/></p>
+    <p begin="715.560s" end="720.800s" region="subtitles"><span tts:backgroundColor="#000000"> To na brzytwę nie wygląda. </span><br/><span tts:backgroundColor="#000000"> Było polerowane na drewienku. </span><br/></p>
+    <p begin="720.960s" end="724.360s" region="subtitles"><span tts:backgroundColor="#000000"> Ale on ma trochę sztywniejsze włosy. </span><br/></p>
+    <p begin="724.520s" end="730.400s" region="subtitles"><span tts:backgroundColor="#000000"> Na twarzy widać, że się trochę krzywi. </span><br/><span tts:backgroundColor="#000000"> Chyba boli. Tak, krwawi. </span><br/></p>
+    <p begin="730.560s" end="732.560s" region="subtitles"><span tts:backgroundColor="#000000"> Ja stąd idę. </span><br/></p>
+    <p begin="738.120s" end="743.360s" region="subtitles"><span tts:backgroundColor="#000000"> A to białe? To jest coś </span><br/><span tts:backgroundColor="#000000"> w rodzaju talku albo pudru. </span><br/></p>
+    <p begin="743.520s" end="747.000s" region="subtitles"><span tts:backgroundColor="#000000"> Z czego to się robi? Proszę bardzo. </span><br/></p>
+    <p begin="747.800s" end="750.920s" region="subtitles"><span tts:backgroundColor="#000000"> Z tego. To jest popiół. </span><br/></p>
+    <p begin="751.640s" end="755.040s" region="subtitles"><span tts:backgroundColor="#000000"> Doskonała rzecz do mycia zębów. </span><br/></p>
+    <p begin="755.200s" end="759.280s" region="subtitles"><span tts:backgroundColor="#000000"> Tam jest mnóstwo węgla, </span><br/><span tts:backgroundColor="#000000"> który jest aktywny. </span><br/></p>
+    <p begin="759.440s" end="765.000s" region="subtitles"><span tts:backgroundColor="#000000"> Jest dobry także do mycia rąk </span><br/><span tts:backgroundColor="#000000"> w sytuacjach, kiedy nie ma wody. </span><br/></p>
+    <p begin="765.160s" end="772.880s" region="subtitles"><span tts:backgroundColor="#000000"> Gdy umazałem ręce tym, </span><br/><span tts:backgroundColor="#000000"> co pani kładła sobie na włosy, </span><br/><span tts:backgroundColor="#000000"> umyłem je właśnie w taki sposób. </span><br/></p>
+    <p begin="773.040s" end="778.480s" region="subtitles"><span tts:backgroundColor="#000000"> Doskonale się ze wszystkim łączy </span><br/><span tts:backgroundColor="#000000"> i już przestało być śliskie. </span><br/></p>
+    <p begin="778.640s" end="780.560s" region="subtitles"><span tts:backgroundColor="#000000"> A potem... </span><br/></p>
+    <p begin="780.720s" end="783.640s" region="subtitles"><span tts:backgroundColor="#000000"> Jesteśmy na pustyni, nie ma wody. </span><br/></p>
+    <p begin="783.800s" end="790.240s" region="subtitles"><span tts:backgroundColor="#000000"> Jak poprosiłem chłopców, </span><br/><span tts:backgroundColor="#000000"> żeby mi polali, powiedzieli, </span><br/><span tts:backgroundColor="#000000"> że woda jest do picia. </span><br/></p>
+    <p begin="796.640s" end="798.960s" region="subtitles"><span tts:backgroundColor="#000000"> A to? </span><br/></p>
+    <p begin="799.360s" end="802.440s" region="subtitles"><span tts:backgroundColor="#000000"> U innych chłopców w tę stronę. </span><br/></p>
+    <p begin="802.600s" end="807.240s" region="subtitles"><span tts:backgroundColor="#000000"> Każdy chce mieć jakąś fryzurę, </span><br/><span tts:backgroundColor="#000000"> nawet jak chodzi łysy. </span><br/></p>
+    <p begin="807.400s" end="812.800s" region="subtitles"><span tts:backgroundColor="#000000"> Każdy człowiek lubi piękno </span><br/><span tts:backgroundColor="#000000"> i lubi się przyozdabiać. </span><br/></p>
+    <p begin="812.960s" end="814.800s" region="subtitles"><span tts:backgroundColor="#000000"> Ten chłopiec też. </span><br/></p>
+    <p begin="814.960s" end="820.160s" region="subtitles"><span tts:backgroundColor="#000000"> Ma irokeza w poprzek. Jest minimalny, </span><br/><span tts:backgroundColor="#000000"> bo jesteśmy na pustyni. </span><br/></p>
+    <p begin="845.760s" end="848.160s" region="subtitles"><span tts:backgroundColor="#000000"> Teraz przykry obowiązek. </span><br/></p>
+    <p begin="848.320s" end="853.960s" region="subtitles"><span tts:backgroundColor="#000000"> One wszystkie pytają, co my robimy. </span><br/><span tts:backgroundColor="#000000"> I ja to muszę pokazać. </span><br/></p>
+    <p begin="870.120s" end="874.080s" region="subtitles"><span tts:backgroundColor="#000000"><span tts:color="#ffffff" tts:backgroundColor="#0000ff"> GŁOŚNE ŚMIECHY </span></span><br/></p>
+    <p begin="883.360s" end="887.240s" region="subtitles"><span tts:backgroundColor="#000000"> Oto dowód na to, </span><br/><span tts:backgroundColor="#000000"> że jesteśmy tacy sami. </span><br/></p>
+    <p begin="887.400s" end="890.360s" region="subtitles"><span tts:backgroundColor="#000000"> Każdy człowiek jest ciekawy. </span><br/></p>
+    <p begin="898.200s" end="900.560s" region="subtitles"><span tts:backgroundColor="#000000"> A gdzie są mężczyźni? </span><br/></p>
+    <p begin="900.800s" end="902.760s" region="subtitles"><span tts:backgroundColor="#000000"> Kobiety, dzieci i... </span><br/></p>
+    <p begin="903.160s" end="906.440s" region="subtitles"><span tts:backgroundColor="#000000"> Dziadek Dzidek i ja </span><br/><span tts:backgroundColor="#000000"> - jedyni mężczyźni. </span><br/></p>
+    <p begin="906.800s" end="909.520s" region="subtitles"><span tts:backgroundColor="#000000"> Na tym polega kultura Himba. </span><br/></p>
+    <p begin="909.680s" end="915.440s" region="subtitles"><span tts:backgroundColor="#000000"> Mężczyźni odchodzą na całe tygodnie, </span><br/><span tts:backgroundColor="#000000"> a nawet miesiące ze stadami. </span><br/></p>
+    <p begin="915.600s" end="921.400s" region="subtitles"><span tts:backgroundColor="#000000"> Szukają zielonych pastwisk i wody. </span><br/><span tts:backgroundColor="#000000"> Tu w okolicy już tego nie ma. </span><br/></p>
+    <p begin="921.560s" end="927.880s" region="subtitles"><span tts:backgroundColor="#000000"> Kiedy mężczyzn nie ma, </span><br/><span tts:backgroundColor="#000000"> jedynym chłopem jest głowa rodu. </span><br/></p>
+    <p begin="928.080s" end="930.360s" region="subtitles"><span tts:backgroundColor="#000000"> A kobiety czekają. </span><br/></p>
+    <p begin="930.600s" end="935.160s" region="subtitles"><span tts:backgroundColor="#000000"> Czekają i stają się </span><br/><span tts:backgroundColor="#000000"> coraz bardziej niecierpliwe. </span><br/></p>
+    <p begin="935.320s" end="940.200s" region="subtitles"><span tts:backgroundColor="#000000"> Niecierpliwe kobiety tu </span><br/><span tts:backgroundColor="#000000"> i niecierpliwi pasterze tam. </span><br/></p>
+    <p begin="940.360s" end="943.760s" region="subtitles"><span tts:backgroundColor="#000000"> I co się dzieje, jak się spotkają? </span><br/></p>
+    <p begin="943.920s" end="948.720s" region="subtitles"><span tts:backgroundColor="#000000"> Rozwiązłość pełna. </span><br/><span tts:backgroundColor="#000000"> Życie seksualne dzikich w akcji. </span><br/></p>
+    <p begin="948.880s" end="953.320s" region="subtitles"><span tts:backgroundColor="#000000"> Wrócili mężczyźni do domu. </span><br/><span tts:backgroundColor="#000000"> Każdy ma kilka żon. </span><br/></p>
+    <p begin="953.480s" end="959.840s" region="subtitles"><span tts:backgroundColor="#000000"> Zaczynają się kłopoty i napięcia. </span><br/><span tts:backgroundColor="#000000"> Do której żony pójdzie najpierw? </span><br/></p>
+    <p begin="960.000s" end="964.240s" region="subtitles"><span tts:backgroundColor="#000000"> Pozostałe są niecierpliwe </span><br/><span tts:backgroundColor="#000000"> i coraz bardziej złe. </span><br/></p>
+    <p begin="964.400s" end="970.520s" region="subtitles"><span tts:backgroundColor="#000000"> Dlatego u Himba jest dopuszczalne, </span><br/><span tts:backgroundColor="#000000"> że mężczyzna pożycza żonę kuzynowi. </span><br/></p>
+    <p begin="970.680s" end="977.040s" region="subtitles"><span tts:backgroundColor="#000000"> Paśli razem i najpierw przyszli do tej </span><br/><span tts:backgroundColor="#000000"> wioski, a potem pójdą do następnej. </span><br/></p>
+    <p begin="977.200s" end="983.440s" region="subtitles"><span tts:backgroundColor="#000000"> Więc koledze, kuzynowi, szwagrowi </span><br/><span tts:backgroundColor="#000000"> mężczyzna użycza niecierpliwej żony. </span><br/></p>
+    <p begin="983.600s" end="986.880s" region="subtitles"><span tts:backgroundColor="#000000"> Ona szczęśliwa i szwagier szczęśliwy. </span><br/></p>
+    <p begin="987.040s" end="991.400s" region="subtitles"><span tts:backgroundColor="#000000"> A jak się żona przyzna, </span><br/><span tts:backgroundColor="#000000"> że pod nieobecność męża... </span><br/></p>
+    <p begin="991.560s" end="997.840s" region="subtitles"><span tts:backgroundColor="#000000"> ... skorzystała z jakiegoś kuzyna, </span><br/><span tts:backgroundColor="#000000"> który akurat był w pobliżu? </span><br/></p>
+    <p begin="998.000s" end="1002.800s" region="subtitles"><span tts:backgroundColor="#000000"> Czasami nie ma tragedii. </span><br/><span tts:backgroundColor="#000000"> Chociaż są mężczyźni zazdrośni. </span><br/></p>
+    <p begin="1002.960s" end="1004.840s" region="subtitles"><span tts:backgroundColor="#000000"> I co wtedy? </span><br/></p>
+    <p begin="1005.000s" end="1012.440s" region="subtitles"><span tts:backgroundColor="#000000"> Jak się podkradło komuś żonę </span><br/><span tts:backgroundColor="#000000"> i mąż się zezłościł, trzeba mu dać </span><br/><span tts:backgroundColor="#000000"> sześć krów w prezencie. </span><br/></p>
+    <p begin="1012.600s" end="1014.680s" region="subtitles"><span tts:backgroundColor="#000000"> Straszna kara. </span><br/></p>
+    <p begin="1031.400s" end="1033.920s" region="subtitles"><span tts:backgroundColor="#000000"> Czy są tu jakieś toalety? </span><br/></p>
+    <p begin="1034.080s" end="1040.040s" region="subtitles"><span tts:backgroundColor="#000000"> Nie. Tutaj wyrażenie &quot;na stronę&quot; </span><br/><span tts:backgroundColor="#000000"> oznacza dokładnie to, co się robi. </span><br/></p>
+    <p begin="1040.200s" end="1042.840s" region="subtitles"><span tts:backgroundColor="#000000"> Idzie się gdzieś na stronę. </span><br/></p>
+    <p begin="1043.000s" end="1045.920s" region="subtitles"><span tts:backgroundColor="#000000"> To są nomadzi, plemię wędrowne. </span><br/></p>
+    <p begin="1046.080s" end="1052.800s" region="subtitles"><span tts:backgroundColor="#000000"> Za dwa miesiące, jak wyschnie rzeka, </span><br/><span tts:backgroundColor="#000000"> wioska przeniesie się w inne miejsce. </span><br/></p>
+    <p begin="1052.960s" end="1055.640s" region="subtitles"><span tts:backgroundColor="#000000"> Nie dba się o tę przestrzeń. </span><br/></p>
+    <p begin="1055.880s" end="1061.360s" region="subtitles"><span tts:backgroundColor="#000000"> Na środku jest zagroda dla bydła, </span><br/><span tts:backgroundColor="#000000"> dookoła domki i to wszystko. </span><br/></p>
+    <p begin="1061.520s" end="1066.640s" region="subtitles"><span tts:backgroundColor="#000000"> Nie trzeba dbać o porządek, </span><br/><span tts:backgroundColor="#000000"> bo za chwilę wszyscy stąd odejdą. </span><br/></p>
+    <p begin="1066.800s" end="1071.080s" region="subtitles"><span tts:backgroundColor="#000000"> Wiatr rozniesie to, </span><br/><span tts:backgroundColor="#000000"> co zostawiliśmy na stronie. </span><br/></p>
+    <p begin="1090.880s" end="1095.560s" region="subtitles"><span tts:backgroundColor="#000000"> Wyprawa po wodę. </span><br/><span tts:backgroundColor="#000000"> Dzisiaj tylko 400 metrów. </span><br/></p>
+    <p begin="1096.120s" end="1098.480s" region="subtitles"><span tts:backgroundColor="#000000"> Ale jaka woda. </span><br/></p>
+    <p begin="1124.960s" end="1127.200s" region="subtitles"><span tts:backgroundColor="#000000"> To źródło wody. </span><br/></p>
+    <p begin="1127.560s" end="1130.480s" region="subtitles"><span tts:backgroundColor="#000000"> Kompletnie wyschnięta rzeka. </span><br/></p>
+    <p begin="1130.640s" end="1136.320s" region="subtitles"><span tts:backgroundColor="#000000"> Tutaj ludzie muszą szukać wody </span><br/><span tts:backgroundColor="#000000"> gdzieś pod spodem. </span><br/></p>
+    <p begin="1136.800s" end="1139.840s" region="subtitles"><span tts:backgroundColor="#000000"> To codzienna praca. </span><br/></p>
+    <p begin="1140.040s" end="1144.320s" region="subtitles"><span tts:backgroundColor="#000000"> Wybieranie żwiru </span><br/><span tts:backgroundColor="#000000"> - aż się człowiek dokopie do wody. </span><br/></p>
+    <p begin="1144.480s" end="1151.960s" region="subtitles"><span tts:backgroundColor="#000000"> A jak pewnego dnia się nie dokopie, </span><br/><span tts:backgroundColor="#000000"> wioska natychmiast przenosi się </span><br/><span tts:backgroundColor="#000000"> w inne miejsce. </span><br/></p>
+    <p begin="1152.120s" end="1156.120s" region="subtitles"><span tts:backgroundColor="#000000"> Oto ta rzeka. Widać, </span><br/><span tts:backgroundColor="#000000"> że płynie w tamtą stronę. </span><br/></p>
+    <p begin="1156.360s" end="1162.480s" region="subtitles"><span tts:backgroundColor="#000000"> Dokopujemy się do takiej dziurki, </span><br/><span tts:backgroundColor="#000000"> potem napuszczamy tu trochę wody. </span><br/></p>
+    <p begin="1162.640s" end="1167.840s" region="subtitles"><span tts:backgroundColor="#000000"> Trzeba poczekać, żeby przynajmniej </span><br/><span tts:backgroundColor="#000000"> ten najgrubszy muł opadł. </span><br/></p>
+    <p begin="1168.000s" end="1172.720s" region="subtitles"><span tts:backgroundColor="#000000"> Wtedy woda będzie się nadawała </span><br/><span tts:backgroundColor="#000000"> do picia. Mniej więcej. </span><br/></p>
+    <p begin="1191.600s" end="1195.760s" region="subtitles"><span tts:backgroundColor="#000000"> Wyprawa po wodę polega </span><br/><span tts:backgroundColor="#000000"> głównie na czekaniu. </span><br/></p>
+    <p begin="1195.920s" end="1202.960s" region="subtitles"><span tts:backgroundColor="#000000"> Kilka pociągnięć puszką, a potem się </span><br/><span tts:backgroundColor="#000000"> siedzi i czeka, aż się znowu napełni. </span><br/></p>
+    <p begin="1214.120s" end="1218.320s" region="subtitles"><span tts:backgroundColor="#000000"> Wyschnięta rzeka szerokości Wisły. </span><br/></p>
+    <p begin="1218.960s" end="1224.720s" region="subtitles"><span tts:backgroundColor="#000000"> Skąd mam wiedzieć, gdzie zacząć kopać, </span><br/><span tts:backgroundColor="#000000"> żeby tam znaleźć wodę? </span><br/></p>
+    <p begin="1224.880s" end="1231.640s" region="subtitles"><span tts:backgroundColor="#000000"> Którędy w tej szerokiej rzece </span><br/><span tts:backgroundColor="#000000"> płynie ten ostatni wąski </span><br/><span tts:backgroundColor="#000000"> strumyczek podziemny? </span><br/></p>
+    <p begin="1231.800s" end="1234.280s" region="subtitles"><span tts:backgroundColor="#000000"> W tym pomagają zwierzęta. </span><br/></p>
+    <p begin="1234.440s" end="1240.080s" region="subtitles"><span tts:backgroundColor="#000000"> Na tym terenie żyją pustynne słonie. </span><br/><span tts:backgroundColor="#000000"> One tu przychodzą pić wodę. </span><br/></p>
+    <p begin="1240.240s" end="1243.680s" region="subtitles"><span tts:backgroundColor="#000000"> Nogami kopią potężne dziury w ziemi. </span><br/></p>
+    <p begin="1243.840s" end="1247.960s" region="subtitles"><span tts:backgroundColor="#000000"> Gdzie pije słoń, </span><br/><span tts:backgroundColor="#000000"> tam może się napić i człowiek. </span><br/></p>
+    <p begin="1248.120s" end="1255.480s" region="subtitles"><span tts:backgroundColor="#000000"> Wśród ludzi też są tacy, którzy chodzą </span><br/><span tts:backgroundColor="#000000"> z różdżką i potrafią znaleźć źródło. </span><br/></p>
+    <p begin="1256.520s" end="1259.280s" region="subtitles"><span tts:backgroundColor="#000000"> Ale jest ich niewielu. </span><br/></p>
+    <p begin="1259.880s" end="1264.840s" region="subtitles"><span tts:backgroundColor="#000000"> Dużo łatwiej jest posłużyć się </span><br/><span tts:backgroundColor="#000000"> instynktem zwierzęcym. </span><br/></p>
+    <p begin="1284.840s" end="1289.120s" region="subtitles"><span tts:backgroundColor="#000000"> Teraz zacznę na wesoło, </span><br/><span tts:backgroundColor="#000000"> a skończę na smutno. </span><br/></p>
+    <p begin="1289.480s" end="1295.120s" region="subtitles"><span tts:backgroundColor="#000000"> Od wczoraj mam tu straszne branie. </span><br/><span tts:backgroundColor="#000000"> Panny popatrują na mnie. </span><br/></p>
+    <p begin="1295.280s" end="1300.440s" region="subtitles"><span tts:backgroundColor="#000000"> Bo ja jako jedyny z ekipy </span><br/><span tts:backgroundColor="#000000"> trochę ich przypominam. </span><br/></p>
+    <p begin="1300.600s" end="1303.560s" region="subtitles"><span tts:backgroundColor="#000000"> Wszędzie łażę bez butów. </span><br/></p>
+    <p begin="1303.920s" end="1306.240s" region="subtitles"><span tts:backgroundColor="#000000"> To już im się podoba. </span><br/></p>
+    <p begin="1306.400s" end="1312.080s" region="subtitles"><span tts:backgroundColor="#000000"> Dziewczyny pokazywały sobie </span><br/><span tts:backgroundColor="#000000"> resztę ekipy - że w butach chodzą. </span><br/></p>
+    <p begin="1312.240s" end="1319.520s" region="subtitles"><span tts:backgroundColor="#000000"> Jestem też trochę ulizany, więc </span><br/><span tts:backgroundColor="#000000"> zrobiłem z włosami to, co robią oni. </span><br/></p>
+    <p begin="1320.400s" end="1326.520s" region="subtitles"><span tts:backgroundColor="#000000"> Wszystkie wolne panny </span><br/><span tts:backgroundColor="#000000"> popatrują na mnie od wczoraj. </span><br/></p>
+    <p begin="1326.720s" end="1329.360s" region="subtitles"><span tts:backgroundColor="#000000"> Teraz zacznie się smutne. </span><br/></p>
+    <p begin="1329.520s" end="1333.200s" region="subtitles"><span tts:backgroundColor="#000000"> To jest najgorsze </span><br/><span tts:backgroundColor="#000000"> zagrożenie dla Himba. </span><br/></p>
+    <p begin="1333.360s" end="1336.880s" region="subtitles"><span tts:backgroundColor="#000000"> Do tej pory mieszali się </span><br/><span tts:backgroundColor="#000000"> tylko ze sobą. </span><br/></p>
+    <p begin="1337.040s" end="1339.440s" region="subtitles"><span tts:backgroundColor="#000000"> Ale ich liczba maleje. </span><br/></p>
+    <p begin="1339.600s" end="1348.120s" region="subtitles"><span tts:backgroundColor="#000000"> Nadejdzie taka chwila, kiedy zaczną </span><br/><span tts:backgroundColor="#000000"> łamać to tabu i będą spotykać się </span><br/><span tts:backgroundColor="#000000"> z mężczyznami innej rasy. </span><br/></p>
+    <p begin="1348.280s" end="1353.560s" region="subtitles"><span tts:backgroundColor="#000000"> Wtedy tu zacznie się to, </span><br/><span tts:backgroundColor="#000000"> co jest już w całej Afryce - AIDS. </span><br/></p>
+    <p begin="1353.720s" end="1355.800s" region="subtitles"><span tts:backgroundColor="#000000"> To będzie ich koniec. </span><br/></p>
+    <p begin="1356.440s" end="1361.280s" region="subtitles"><span tts:backgroundColor="#000000"> Kolejnym zagrożeniem dla Himba </span><br/><span tts:backgroundColor="#000000"> jest prezydent Namibii. </span><br/></p>
+    <p begin="1361.440s" end="1364.760s" region="subtitles"><span tts:backgroundColor="#000000"> Wymyślił projekt, wspólny z Angolą. </span><br/></p>
+    <p begin="1364.920s" end="1368.360s" region="subtitles"><span tts:backgroundColor="#000000"> Ma powstać tama na rzece granicznej. </span><br/></p>
+    <p begin="1368.520s" end="1373.960s" region="subtitles"><span tts:backgroundColor="#000000"> W efekcie tereny, na których </span><br/><span tts:backgroundColor="#000000"> żyją Himba, zostaną zniszczone. </span><br/></p>
+    <p begin="1374.120s" end="1379.040s" region="subtitles"><span tts:backgroundColor="#000000"> Poza tym przyjdzie tu mnóstwo </span><br/><span tts:backgroundColor="#000000"> ludzi tę tamę budować. </span><br/></p>
+    <p begin="1379.200s" end="1385.800s" region="subtitles"><span tts:backgroundColor="#000000"> A Himba, zdaniem pana prezydenta, mają </span><br/><span tts:backgroundColor="#000000"> się nauczyć nosić koszule i krawaty. </span><br/></p>
+    <p begin="1433.880s" end="1436.720s" region="subtitles"><span tts:backgroundColor="#000000"> Ich woda. </span><br/></p>
+    <p begin="1437.080s" end="1439.320s" region="subtitles"><span tts:backgroundColor="#000000"> I nasza woda. </span><br/></p>
+    <p begin="1439.480s" end="1446.360s" region="subtitles"><span tts:backgroundColor="#000000"> Piją to od pokoleń i żyją. </span><br/><span tts:backgroundColor="#000000"> To tylko kwestia smaku i estetyki. </span><br/></p>
+    <p begin="1446.720s" end="1453.600s" region="subtitles"><span tts:backgroundColor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH </span><br/><span tts:backgroundColor="#000000"> TVP SA - OŚRODEK iTVP-HD </span><br/></p>
+    <p begin="1453.760s" end="1457.280s" region="subtitles"><span tts:backgroundColor="#000000"> ZAPRASZAMY NA STRONĘ: </span><br/><span tts:backgroundColor="#000000"> www.tvp.pl/dostepnosc </span><br/></p>
+  </div>
+</body>
+</tt>

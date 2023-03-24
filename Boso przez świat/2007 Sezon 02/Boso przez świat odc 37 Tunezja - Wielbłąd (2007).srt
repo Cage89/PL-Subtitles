@@ -1,0 +1,950 @@
+1
+00:00:46,800 --> 00:00:50,080
+<font backgroundcolor="#000000"> Sahara - morze piasku. </font>
+
+2
+00:00:50,600 --> 00:00:53,360
+<font backgroundcolor="#000000"> Nawet fale na nim widać. </font>
+
+3
+00:00:53,760 --> 00:00:56,120
+<font backgroundcolor="#000000"> Wydmy to duże fale. </font>
+
+4
+00:00:56,440 --> 00:00:59,400
+<font backgroundcolor="#000000"> A tu są trochę mniejsze fale. </font>
+
+5
+00:00:59,560 --> 00:01:05,360
+<font backgroundcolor="#000000"> Narysuję państwu Afrykę, ale pewnie </font>
+<font backgroundcolor="#000000"> wyjdzie mi Ameryka Południowa. </font>
+
+6
+00:01:05,520 --> 00:01:09,280
+<font backgroundcolor="#000000"> Człowiek z miłości </font>
+<font backgroundcolor="#000000"> zawsze myśli o tym samym. </font>
+
+7
+00:01:09,440 --> 00:01:11,440
+<font backgroundcolor="#000000"> Madagaskar. </font>
+
+8
+00:01:11,600 --> 00:01:14,800
+<font backgroundcolor="#000000"> Umówmy się, że to jest Afryka. </font>
+
+9
+00:01:14,960 --> 00:01:19,840
+<font backgroundcolor="#000000"> Sahara dzieli Afrykę </font>
+<font backgroundcolor="#000000"> na Afrykę północną, która jest biała. </font>
+
+10
+00:01:20,000 --> 00:01:25,600
+<font backgroundcolor="#000000"> Tam mieszkają europeidzi, czyli my, </font>
+<font backgroundcolor="#000000"> Arabowie, Żydzi, Berberowie. </font>
+
+11
+00:01:25,760 --> 00:01:29,720
+<font backgroundcolor="#000000"> Południowa część Afryki jest czarna. </font>
+
+12
+00:01:29,880 --> 00:01:32,200
+<font backgroundcolor="#000000"> Tam mieszkają Murzyni. </font>
+
+13
+00:01:34,520 --> 00:01:41,360
+<font backgroundcolor="#000000"> Powyżej Sahary były: owoce, </font>
+<font backgroundcolor="#000000"> oliwki, sól, cukier, herbata. </font>
+
+14
+00:01:41,960 --> 00:01:44,800
+<font backgroundcolor="#000000"> Przywożono je statkami. </font>
+
+15
+00:01:45,000 --> 00:01:51,120
+<font backgroundcolor="#000000"> Na południu byli: </font>
+<font backgroundcolor="#000000"> niewolnicy, złoto i kość słoniowa. </font>
+
+16
+00:01:51,560 --> 00:01:56,040
+<font backgroundcolor="#000000"> Trzeba było te towary </font>
+<font backgroundcolor="#000000"> przerzucić przez pustynię. </font>
+
+17
+00:01:56,200 --> 00:02:01,400
+<font backgroundcolor="#000000"> Trzeba było pokonać to morze piachu </font>
+<font backgroundcolor="#000000"> na okrętach pustyni. </font>
+
+18
+00:02:01,560 --> 00:02:06,080
+<font backgroundcolor="#000000"> Tak właśnie nazywamy wielbłądy </font>
+<font backgroundcolor="#000000"> - okręty pustyni. </font>
+
+19
+00:02:06,240 --> 00:02:11,520
+<font backgroundcolor="#000000"> Lepiej byłoby powiedzieć, </font>
+<font backgroundcolor="#000000"> że okrętem pustyni jest karawana. </font>
+
+20
+00:02:11,680 --> 00:02:14,520
+<font backgroundcolor="#000000"> Składa się z wielu wielbłądów. </font>
+
+21
+00:02:14,680 --> 00:02:18,040
+<font backgroundcolor="#000000"> Okręt kojarzy się z wojną, </font>
+<font backgroundcolor="#000000"> nie handlem. </font>
+
+22
+00:02:18,200 --> 00:02:21,480
+<font backgroundcolor="#000000"> A więc statek handlowy </font>
+<font backgroundcolor="#000000"> lub pasażerski. </font>
+
+23
+00:02:45,080 --> 00:02:51,680
+<font backgroundcolor="#000000"> By się zaprzyjaźnić z wielbłądem, </font>
+<font backgroundcolor="#000000"> klepie się go po szyi,tak jak konia. </font>
+
+24
+00:02:52,320 --> 00:02:56,160
+<font backgroundcolor="#000000"> Wielbłąd występuje w dwóch wersjach. </font>
+
+25
+00:02:56,760 --> 00:03:00,960
+<font backgroundcolor="#000000"> Wersja dwugarbna jeździ w Azji. </font>
+
+26
+00:03:01,360 --> 00:03:06,840
+<font backgroundcolor="#000000"> Wersja jednogarbna we wszystkich </font>
+<font backgroundcolor="#000000"> krajach Afryki Północnej. </font>
+
+27
+00:03:07,000 --> 00:03:12,640
+<font backgroundcolor="#000000"> Potem przez Bliski Wschód i Syrię </font>
+<font backgroundcolor="#000000"> dojeżdża do północnych Indii. </font>
+
+28
+00:03:12,800 --> 00:03:15,960
+<font backgroundcolor="#000000"> Tam te dwa gatunki się spotykają. </font>
+
+29
+00:03:16,120 --> 00:03:21,480
+<font backgroundcolor="#000000"> Możliwe, że tam też doszło </font>
+<font backgroundcolor="#000000"> do podziału na dwa gatunki. </font>
+
+30
+00:03:22,560 --> 00:03:26,120
+<font backgroundcolor="#000000"> I jeszcze nazwa wersji jednogarbnej. </font>
+
+31
+00:03:26,280 --> 00:03:31,760
+<font backgroundcolor="#000000"> "Dromader" to jest błąd językowy, </font>
+<font backgroundcolor="#000000"> wpisany teraz do słowników. </font>
+
+32
+00:03:31,920 --> 00:03:36,440
+<font backgroundcolor="#000000"> To jest dromedar. </font>
+<font backgroundcolor="#000000"> Proszę zobaczyć wersję łacińską. </font>
+
+33
+00:03:36,600 --> 00:03:40,000
+<font backgroundcolor="#000000"> Tylko patałachy mają dromadery. </font>
+
+34
+00:03:40,440 --> 00:03:43,880
+<font backgroundcolor="#000000"> Całujemy się, a to jest chłopiec. </font>
+
+35
+00:03:45,040 --> 00:03:48,400
+<font backgroundcolor="#000000"> Rozmiar - jak widać. </font>
+
+36
+00:03:52,600 --> 00:03:57,440
+<font backgroundcolor="#000000"> Dwa metry wzrostu, </font>
+<font backgroundcolor="#000000"> trzy metry długości. </font>
+
+37
+00:03:58,720 --> 00:04:02,640
+<font backgroundcolor="#000000"> Waga od 400 do 800 kilogramów. </font>
+
+38
+00:04:05,480 --> 00:04:07,880
+<font backgroundcolor="#000000"> Żyje 40 lat. </font>
+
+39
+00:04:08,400 --> 00:04:14,160
+<font backgroundcolor="#000000"> Wielbłądy już nie żyją w stanie dzikim </font>
+<font backgroundcolor="#000000"> w miejscu, skąd pochodzą. </font>
+
+40
+00:04:14,320 --> 00:04:20,080
+<font backgroundcolor="#000000"> Są tak cenne, że wszystkie udomowiono, </font>
+<font backgroundcolor="#000000"> wyłapano, oznakowano. </font>
+
+41
+00:04:20,240 --> 00:04:24,360
+<font backgroundcolor="#000000"> Żyją w wielkich stadach </font>
+<font backgroundcolor="#000000"> i mają dobre warunki. </font>
+
+42
+00:04:24,520 --> 00:04:27,640
+<font backgroundcolor="#000000"> Ale jednak pod opieką człowieka. </font>
+
+43
+00:04:27,800 --> 00:04:31,560
+<font backgroundcolor="#000000"> Tego encyklopedie </font>
+<font backgroundcolor="#000000"> najczęściej nie podają. </font>
+
+44
+00:04:31,720 --> 00:04:37,760
+<font backgroundcolor="#000000"> Jedyne miejsce, gdzie wielbłąd </font>
+<font backgroundcolor="#000000"> żyje w stanie dzikim, to Australia. </font>
+
+45
+00:04:37,920 --> 00:04:45,600
+<font backgroundcolor="#000000"> Przywiozła je tam armia i ci, </font>
+<font backgroundcolor="#000000"> którzy potrzebowali transportu </font>
+<font backgroundcolor="#000000"> na pustyniach australijskich. </font>
+
+46
+00:04:45,760 --> 00:04:50,640
+<font backgroundcolor="#000000"> W końcu przestały być potrzebne, </font>
+<font backgroundcolor="#000000"> pouciekały i zdziczały. </font>
+
+47
+00:04:50,800 --> 00:04:57,680
+<font backgroundcolor="#000000"> Można przejechać na wielbłądzie przez </font>
+<font backgroundcolor="#000000"> Australię w czymś w rodzaju karawany. </font>
+
+48
+00:05:22,280 --> 00:05:26,680
+<font backgroundcolor="#000000"> Czas w drogę, będziemy siodłać. </font>
+
+49
+00:05:33,440 --> 00:05:41,320
+<font backgroundcolor="#000000"> Muszę położyć wielbłąda na ziemi, </font>
+<font backgroundcolor="#000000"> żeby wspiąć się na niego z siodłem. </font>
+
+50
+00:05:50,520 --> 00:05:54,440
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> CHARCZY CICHO </font></font>
+
+51
+00:05:57,880 --> 00:06:02,480
+<font backgroundcolor="#000000"> Na moje charczenie </font>
+<font backgroundcolor="#000000"> zareagował prawidłowo. </font>
+
+52
+00:06:05,280 --> 00:06:08,240
+<font backgroundcolor="#000000"> Garb to nie jest woda. </font>
+
+53
+00:06:08,640 --> 00:06:12,320
+<font backgroundcolor="#000000"> Jest dosyć twardy. Tutaj jest tłuszcz. </font>
+
+54
+00:06:12,480 --> 00:06:15,680
+<font backgroundcolor="#000000"> Może być go więcej lub mniej. </font>
+
+55
+00:06:15,840 --> 00:06:20,600
+<font backgroundcolor="#000000"> W przeciwieństwie </font>
+<font backgroundcolor="#000000"> do większości zwierząt na pustyni </font>
+
+56
+00:06:20,760 --> 00:06:27,160
+<font backgroundcolor="#000000"> wielbłąd zje wszystko </font>
+<font backgroundcolor="#000000"> i ze wszystkiego ten tłuszcz odłoży. </font>
+
+57
+00:06:27,320 --> 00:06:33,000
+<font backgroundcolor="#000000"> Je suchorośla, słonorośla, </font>
+<font backgroundcolor="#000000"> rośliny kolczaste, kaktusy. </font>
+
+58
+00:06:33,160 --> 00:06:36,440
+<font backgroundcolor="#000000"> Jest trochę jak nasza koza. </font>
+
+59
+00:06:36,800 --> 00:06:41,240
+<font backgroundcolor="#000000"> Dopiero z tego tłuszczu </font>
+<font backgroundcolor="#000000"> czasami robi sobie wodę. </font>
+
+60
+00:06:41,400 --> 00:06:46,200
+<font backgroundcolor="#000000"> Bardziej jest odporny </font>
+<font backgroundcolor="#000000"> na niejedzenie niż na niepicie. </font>
+
+61
+00:06:46,360 --> 00:06:50,840
+<font backgroundcolor="#000000"> Z takim garbem przejedzie </font>
+<font backgroundcolor="#000000"> bez picia cztery dni. </font>
+
+62
+00:06:51,000 --> 00:06:55,320
+<font backgroundcolor="#000000"> A potem będzie długo pił ze studni. </font>
+
+63
+00:06:55,560 --> 00:06:58,320
+<font backgroundcolor="#000000"> Jeśli jest bardzo odwodniony, </font>
+
+64
+00:06:58,480 --> 00:07:04,320
+<font backgroundcolor="#000000"> może wypić ilość wody odpowiadającą </font>
+<font backgroundcolor="#000000"> jednej trzeciej masy ciała. </font>
+
+65
+00:07:04,480 --> 00:07:09,200
+<font backgroundcolor="#000000"> Jeśli waży 600 kilo </font>
+<font backgroundcolor="#000000"> potrafi wypić 200 litrów wody. </font>
+
+66
+00:07:09,360 --> 00:07:15,080
+<font backgroundcolor="#000000"> Człowiek, ważący 80 kilogramów, </font>
+<font backgroundcolor="#000000"> musiałby wypić 2,5 wiaderka. </font>
+
+67
+00:07:16,000 --> 00:07:18,880
+<font backgroundcolor="#000000"> Idziemy po siodło. </font>
+
+68
+00:07:28,680 --> 00:07:31,240
+<font backgroundcolor="#000000"> Tu ominęliśmy kręgosłup. </font>
+
+69
+00:07:31,640 --> 00:07:34,160
+<font backgroundcolor="#000000"> Tutaj się chowa garb. </font>
+
+70
+00:07:34,320 --> 00:07:37,320
+<font backgroundcolor="#000000"> Tam był taki wyraźny dołek. </font>
+
+71
+00:07:37,480 --> 00:07:42,120
+<font backgroundcolor="#000000"> Oczywiste jest, </font>
+<font backgroundcolor="#000000"> że muszę siedzieć z tyłu. </font>
+
+72
+00:07:42,480 --> 00:07:45,920
+<font backgroundcolor="#000000"> To wezmę jakoś między nogi. </font>
+
+73
+00:07:48,480 --> 00:07:52,360
+<font backgroundcolor="#000000"> Pod zwierzęciem trzeba wykopać rowek. </font>
+
+74
+00:07:52,520 --> 00:07:56,080
+<font backgroundcolor="#000000"> To jest popręg tylny. </font>
+
+75
+00:07:56,560 --> 00:08:05,120
+<font backgroundcolor="#000000"> W dużych kulbakach wojskowych siodło </font>
+<font backgroundcolor="#000000"> mocowano na koniu na dwa popręgi. </font>
+
+76
+00:08:05,600 --> 00:08:08,680
+<font backgroundcolor="#000000"> Teraz węzełek. </font>
+
+77
+00:08:17,440 --> 00:08:21,320
+<font backgroundcolor="#000000"> Przedni popręg zakładamy jak u konia. </font>
+
+78
+00:08:21,480 --> 00:08:26,440
+<font backgroundcolor="#000000"> Tutaj jest taka poducha, </font>
+<font backgroundcolor="#000000"> na której wielbłąd leży. </font>
+
+79
+00:08:26,800 --> 00:08:31,960
+<font backgroundcolor="#000000"> W Wenezueli czy Kolumbii </font>
+<font backgroundcolor="#000000"> tak samo wiążą popręg na koniu. </font>
+
+80
+00:08:32,120 --> 00:08:35,840
+<font backgroundcolor="#000000"> Nie ma żadnych europejskich sprzączek. </font>
+
+81
+00:08:36,000 --> 00:08:42,480
+<font backgroundcolor="#000000"> Prawdziwy mężczyzna wiąże węzełki </font>
+<font backgroundcolor="#000000"> i używa zwykłego sznurka. </font>
+
+82
+00:08:57,440 --> 00:09:02,800
+<font backgroundcolor="#000000"> Na wielbłąda można załadować </font>
+<font backgroundcolor="#000000"> 300 do 400 kg ładunku. </font>
+
+83
+00:09:03,720 --> 00:09:08,240
+<font backgroundcolor="#000000"> Trzech Amerykanów </font>
+<font backgroundcolor="#000000"> i jedno amerykańskie dziecko. </font>
+
+84
+00:09:08,400 --> 00:09:11,400
+<font backgroundcolor="#000000"> Europejczyków trochę więcej. </font>
+
+85
+00:09:11,800 --> 00:09:14,440
+<font backgroundcolor="#000000"> To była kulbaka towarowa. </font>
+
+86
+00:09:14,600 --> 00:09:18,640
+<font backgroundcolor="#000000"> Istnieje również </font>
+<font backgroundcolor="#000000"> takie siodło na wielbłąda. </font>
+
+87
+00:09:18,800 --> 00:09:22,680
+<font backgroundcolor="#000000"> Jest lekkie </font>
+<font backgroundcolor="#000000"> i zupełnie inaczej montowane. </font>
+
+88
+00:09:22,840 --> 00:09:27,160
+<font backgroundcolor="#000000"> Widać, że to siodło </font>
+<font backgroundcolor="#000000"> wyścigowe albo wojenne. </font>
+
+89
+00:09:32,240 --> 00:09:35,520
+<font backgroundcolor="#000000"> Pan też boso przez świat. </font>
+
+90
+00:10:10,280 --> 00:10:13,560
+<font backgroundcolor="#000000"> Technika siedzenia wyścigowego. </font>
+
+91
+00:10:13,720 --> 00:10:18,640
+<font backgroundcolor="#000000"> Tu się trzeba nogą zaczepić, </font>
+<font backgroundcolor="#000000"> tu się trzeba zaczepić. </font>
+
+92
+00:10:18,800 --> 00:10:22,720
+<font backgroundcolor="#000000"> On ma jeszcze dwa uchwyty, </font>
+<font backgroundcolor="#000000"> żeby się złapać. </font>
+
+93
+00:10:22,880 --> 00:10:26,120
+<font backgroundcolor="#000000"> Wielbłąd kiwa się inaczej niż koń. </font>
+
+94
+00:10:26,280 --> 00:10:30,560
+<font backgroundcolor="#000000"> Druga stopa naciska na szyję </font>
+<font backgroundcolor="#000000"> i to jest pedał gazu. </font>
+
+95
+00:10:30,720 --> 00:10:36,080
+<font backgroundcolor="#000000"> Im mocniej naciska się na szyję, </font>
+<font backgroundcolor="#000000"> tym wielbłąd szybciej biegnie. </font>
+
+96
+00:10:36,240 --> 00:10:39,560
+<font backgroundcolor="#000000"> Proste. </font>
+
+97
+00:11:25,560 --> 00:11:28,560
+<font backgroundcolor="#000000"> Wstawanie. </font>
+
+98
+00:11:34,640 --> 00:11:41,160
+<font backgroundcolor="#000000"> Państwo zwykle się boją przy wstawaniu </font>
+<font backgroundcolor="#000000"> i trzymają się kurczowo. Nie trzeba. </font>
+
+99
+00:11:41,320 --> 00:11:46,720
+<font backgroundcolor="#000000"> Wystarczy być rozluźnionym </font>
+<font backgroundcolor="#000000"> od pasa w dół. W czasie jazdy też. </font>
+
+100
+00:11:57,560 --> 00:12:01,040
+<font backgroundcolor="#000000"> Ten drugi też nie chce jechać. </font>
+
+101
+00:12:10,920 --> 00:12:16,160
+<font backgroundcolor="#000000"> Normalnie turysta </font>
+<font backgroundcolor="#000000"> kiwa się niezgrabnie. </font>
+
+102
+00:12:16,600 --> 00:12:21,240
+<font backgroundcolor="#000000"> Trudno jechać z gracją. </font>
+
+103
+00:12:21,520 --> 00:12:28,240
+<font backgroundcolor="#000000"> A wystarczy pamiętać o tym, </font>
+<font backgroundcolor="#000000"> co robimy, jadąc na koniu. </font>
+
+104
+00:12:32,240 --> 00:12:35,680
+<font backgroundcolor="#000000"> Od bioder w dół pełen luz. </font>
+
+105
+00:12:35,840 --> 00:12:38,720
+<font backgroundcolor="#000000"> To ma być ruchome. </font>
+
+106
+00:12:47,640 --> 00:12:53,480
+<font backgroundcolor="#000000"> Dzięki temu amortyzujemy </font>
+<font backgroundcolor="#000000"> wszystkie dziwne ruchy wielbłąda. </font>
+
+107
+00:12:53,640 --> 00:12:56,600
+<font backgroundcolor="#000000"> A reszta sylwetki nieruchoma. </font>
+
+108
+00:12:56,760 --> 00:12:59,600
+<font backgroundcolor="#000000"> Po co ma nam głowa skakać? </font>
+
+109
+00:12:59,760 --> 00:13:05,520
+<font backgroundcolor="#000000"> Tutaj ruchy takie, </font>
+<font backgroundcolor="#000000"> o których opowiem kiedyś po 23.00. </font>
+
+110
+00:13:06,600 --> 00:13:09,880
+<font backgroundcolor="#000000"> A u góry żadnych ruchów. </font>
+
+111
+00:13:40,840 --> 00:13:45,120
+<font backgroundcolor="#000000"> Tu każdy ma taki samochód, </font>
+<font backgroundcolor="#000000"> na jaki go stać. </font>
+
+112
+00:13:45,320 --> 00:13:48,160
+<font backgroundcolor="#000000"> Zatkane szmatką i działa. </font>
+
+113
+00:13:48,320 --> 00:13:54,280
+<font backgroundcolor="#000000"> Nieważne, że wyparuje. </font>
+<font backgroundcolor="#000000"> To moja benzyna, za którą zapłaciłem. </font>
+
+114
+00:13:54,440 --> 00:13:57,480
+<font backgroundcolor="#000000"> Tutaj lampa przyklejona taśmą. </font>
+
+115
+00:13:57,640 --> 00:14:01,720
+<font backgroundcolor="#000000"> U nas nikt by takiego auta </font>
+<font backgroundcolor="#000000"> nie zarejestrował. </font>
+
+116
+00:14:01,880 --> 00:14:07,160
+<font backgroundcolor="#000000"> Tutaj urwał się zameczek, </font>
+<font backgroundcolor="#000000"> więc zrobiony jest nowy. </font>
+
+117
+00:14:07,320 --> 00:14:12,360
+<font backgroundcolor="#000000"> I niech się państwo </font>
+<font backgroundcolor="#000000"> nie wtrąca do mojego samochodu. </font>
+
+118
+00:14:12,640 --> 00:14:15,480
+<font backgroundcolor="#000000"> A teraz zaglądamy do środka. </font>
+
+119
+00:14:15,640 --> 00:14:17,960
+<font backgroundcolor="#000000"> Piękne wygodne auto. </font>
+
+120
+00:14:18,120 --> 00:14:20,880
+<font backgroundcolor="#000000"> Uchwyt na szklankę z kawą. </font>
+
+121
+00:14:21,040 --> 00:14:29,160
+<font backgroundcolor="#000000"> Kabelki pospinane. Kolumny, różaniec, </font>
+<font backgroundcolor="#000000"> klucz do domu przyczepiony na magnes. </font>
+
+122
+00:14:29,720 --> 00:14:35,080
+<font backgroundcolor="#000000"> Mam taki samochód, </font>
+<font backgroundcolor="#000000"> bo taki mi się podoba. </font>
+
+123
+00:14:35,240 --> 00:14:39,240
+<font backgroundcolor="#000000"> Taki chcę mieć </font>
+<font backgroundcolor="#000000"> i nie chcę go rejestrować. </font>
+
+124
+00:14:39,400 --> 00:14:45,280
+<font backgroundcolor="#000000"> Ani ubezpieczać, bo nie warto. </font>
+<font backgroundcolor="#000000"> To jest przecież warte 12 groszy. </font>
+
+125
+00:14:45,440 --> 00:14:48,200
+<font backgroundcolor="#000000"> Tylko chwilowo nie jeździ. </font>
+
+126
+00:15:08,040 --> 00:15:11,280
+<font backgroundcolor="#000000"> Ile kosztuje? </font>
+
+127
+00:15:18,640 --> 00:15:21,800
+<font backgroundcolor="#000000"> Między 500 a 2 tys. dinarów. </font>
+
+128
+00:15:22,040 --> 00:15:28,000
+<font backgroundcolor="#000000"> Czyli między 700 a 5 tys. zł. </font>
+<font backgroundcolor="#000000"> Mniej więcej, szybko liczyłem. </font>
+
+129
+00:15:28,160 --> 00:15:30,920
+<font backgroundcolor="#000000"> A ten tu? </font>
+
+130
+00:15:33,960 --> 00:15:37,280
+<font backgroundcolor="#000000"> Już 750. </font>
+
+131
+00:15:37,720 --> 00:15:41,680
+<font backgroundcolor="#000000"> Przez chwilę mojego wahania </font>
+<font backgroundcolor="#000000"> cena spadła. </font>
+
+132
+00:15:41,840 --> 00:15:44,480
+<font backgroundcolor="#000000"> 750 razy 2,5... </font>
+
+133
+00:15:45,000 --> 00:15:48,280
+<font backgroundcolor="#000000"> Nie mam tyle pieniędzy - 1800 zł. </font>
+
+134
+00:15:48,600 --> 00:15:51,560
+<font backgroundcolor="#000000"> Narowisty trochę. </font>
+
+135
+00:15:51,920 --> 00:15:57,200
+<font backgroundcolor="#000000"> Pan go stamtąd wyciągnie </font>
+<font backgroundcolor="#000000"> i pokaże, jakie ma zęby. </font>
+
+136
+00:16:26,560 --> 00:16:31,000
+<font backgroundcolor="#000000"> Wielbłądy mają osobowość </font>
+<font backgroundcolor="#000000"> człowieka pustyni. </font>
+
+137
+00:16:31,480 --> 00:16:36,200
+<font backgroundcolor="#000000"> Są jak Berberowie, </font>
+<font backgroundcolor="#000000"> Tuaregowie, Arabowie. </font>
+
+138
+00:16:36,480 --> 00:16:40,120
+<font backgroundcolor="#000000"> To są wolne ludy, które łażą samopas. </font>
+
+139
+00:16:40,280 --> 00:16:46,960
+<font backgroundcolor="#000000"> Wielbłąd może mieć tylko jednego pana. </font>
+<font backgroundcolor="#000000"> Drugiego pana nie będzie słuchał. </font>
+
+140
+00:16:47,200 --> 00:16:53,520
+<font backgroundcolor="#000000"> Tak jak w stosunkach wasalnych </font>
+<font backgroundcolor="#000000"> - ma się tylko jednego pana. </font>
+
+141
+00:16:55,120 --> 00:17:00,320
+<font backgroundcolor="#000000"> A ten to jeszcze dziecko. </font>
+<font backgroundcolor="#000000"> I wydzierał się jak dziecko. </font>
+
+142
+00:17:40,760 --> 00:17:43,800
+<font backgroundcolor="#000000"> Kubeczek wody. </font>
+
+143
+00:17:45,680 --> 00:17:49,640
+<font backgroundcolor="#000000"> Strasznie siorbie. </font>
+
+144
+00:17:53,640 --> 00:17:57,200
+<font backgroundcolor="#000000"> Piękny dźwięk i piękne zwierzę. </font>
+
+145
+00:17:57,640 --> 00:18:03,920
+<font backgroundcolor="#000000"> Wytrzymuje temperatury </font>
+<font backgroundcolor="#000000"> do 50 stopni w cieniu. To tak jak ja. </font>
+
+146
+00:18:05,600 --> 00:18:12,680
+<font backgroundcolor="#000000"> Ale wytrzymuje też nocne temperatury </font>
+<font backgroundcolor="#000000"> pustyni, czyli do -30 stopni. </font>
+
+147
+00:18:13,280 --> 00:18:16,200
+<font backgroundcolor="#000000"> Ja tyle nie daję rady. </font>
+
+148
+00:18:16,600 --> 00:18:19,840
+<font backgroundcolor="#000000"> I pije raz na dwa albo trzy dni. </font>
+
+149
+00:18:20,000 --> 00:18:24,560
+<font backgroundcolor="#000000"> Jak nie ma ciężkiej roboty, </font>
+<font backgroundcolor="#000000"> nie musi pić więcej. </font>
+
+150
+00:18:24,720 --> 00:18:29,960
+<font backgroundcolor="#000000"> Mężczyzna uznawany za bogatego </font>
+<font backgroundcolor="#000000"> ma od 50 do 100 wielbłądów. </font>
+
+151
+00:18:30,120 --> 00:18:33,760
+<font backgroundcolor="#000000"> To wtedy uchodzi za lokalnego bogacza. </font>
+
+152
+00:18:33,920 --> 00:18:37,560
+<font backgroundcolor="#000000"> I muszą to być wyłącznie samice. </font>
+
+153
+00:18:44,000 --> 00:18:49,320
+<font backgroundcolor="#000000"> Jak się ma 50 klaczy, </font>
+<font backgroundcolor="#000000"> trzeba mieć jednego ogiera do tego. </font>
+
+154
+00:18:49,480 --> 00:18:53,320
+<font backgroundcolor="#000000"> Jak są dwa, to zaczynają się kłopoty. </font>
+
+155
+00:18:53,800 --> 00:18:56,080
+<font backgroundcolor="#000000"> Tu w okolicy były haremy. </font>
+
+156
+00:18:56,240 --> 00:19:00,760
+<font backgroundcolor="#000000"> Nie dlatego, </font>
+<font backgroundcolor="#000000"> że człowiek miał taki pomysł. </font>
+
+157
+00:19:00,920 --> 00:19:04,960
+<font backgroundcolor="#000000"> Tak natura działa </font>
+<font backgroundcolor="#000000"> - jeden samczyk na 50 samiczek. </font>
+
+158
+00:19:05,120 --> 00:19:08,400
+<font backgroundcolor="#000000"> Jak jest więcej, zaczynają walczyć. </font>
+
+159
+00:19:58,600 --> 00:20:03,680
+<font backgroundcolor="#000000"> Początkiem bardzo </font>
+<font backgroundcolor="#000000"> wielu kultur było pasterstwo. </font>
+
+160
+00:20:04,160 --> 00:20:08,200
+<font backgroundcolor="#000000"> Najpierw człowiek </font>
+<font backgroundcolor="#000000"> był dzikim zwierzęciem. </font>
+
+161
+00:20:08,480 --> 00:20:12,440
+<font backgroundcolor="#000000"> Potem zaczęło się </font>
+<font backgroundcolor="#000000"> zbieractwo i łowiectwo. </font>
+
+162
+00:20:12,640 --> 00:20:15,000
+<font backgroundcolor="#000000"> Człowiek wędrował. </font>
+
+163
+00:20:15,160 --> 00:20:20,200
+<font backgroundcolor="#000000"> Coś sobie znajdował i zjadał </font>
+<font backgroundcolor="#000000"> albo upolował i zjadał. </font>
+
+164
+00:20:20,360 --> 00:20:25,320
+<font backgroundcolor="#000000"> Krok następny </font>
+<font backgroundcolor="#000000"> to oswojenie dzikich zwierząt. </font>
+
+165
+00:20:25,680 --> 00:20:30,640
+<font backgroundcolor="#000000"> Najpierw takich spokojniejszych </font>
+<font backgroundcolor="#000000"> jak barany i owce. </font>
+
+166
+00:20:30,800 --> 00:20:34,920
+<font backgroundcolor="#000000"> Takie zwierzęta łatwo oswoić. </font>
+
+167
+00:20:35,320 --> 00:20:39,880
+<font backgroundcolor="#000000"> Potem można je było też </font>
+<font backgroundcolor="#000000"> wydoić albo ostrzyc. </font>
+
+168
+00:20:40,280 --> 00:20:44,240
+<font backgroundcolor="#000000"> Można je było zabić </font>
+<font backgroundcolor="#000000"> bez ganiania po lesie. </font>
+
+169
+00:20:44,400 --> 00:20:48,400
+<font backgroundcolor="#000000"> Czyli upolować </font>
+<font backgroundcolor="#000000"> w cywilizowanych warunkach. </font>
+
+170
+00:20:48,560 --> 00:20:52,960
+<font backgroundcolor="#000000"> Wtedy zawsze było wiadomo, </font>
+<font backgroundcolor="#000000"> ile jest jedzenia. </font>
+
+171
+00:20:53,120 --> 00:20:58,520
+<font backgroundcolor="#000000"> Oswajaliśmy zwierzęta </font>
+<font backgroundcolor="#000000"> i powoli stawaliśmy się pasterzami. </font>
+
+172
+00:20:58,680 --> 00:21:05,680
+<font backgroundcolor="#000000"> Kultura pasterska na początku wymagała </font>
+<font backgroundcolor="#000000"> przenoszenia się z miejsca na miejsce. </font>
+
+173
+00:21:05,840 --> 00:21:13,360
+<font backgroundcolor="#000000"> Jak barany wyjadły trawę </font>
+<font backgroundcolor="#000000"> do gołej ziemi, trzeba było </font>
+<font backgroundcolor="#000000"> przegnać je na nowe miejsce. </font>
+
+174
+00:21:13,520 --> 00:21:18,720
+<font backgroundcolor="#000000"> Przy okazji przenoszono cały dobytek. </font>
+
+175
+00:21:25,320 --> 00:21:30,360
+<font backgroundcolor="#000000"> W tym celu potrzebne były </font>
+<font backgroundcolor="#000000"> większe zwierzęta. </font>
+
+176
+00:21:31,440 --> 00:21:39,480
+<font backgroundcolor="#000000"> Czyli koń albo wielbłąd, </font>
+<font backgroundcolor="#000000"> bo mogą przenieść nasz dobytek. </font>
+
+177
+00:21:40,120 --> 00:21:48,080
+<font backgroundcolor="#000000"> Dodatkowo są dużo sprawniejsze </font>
+<font backgroundcolor="#000000"> i szybsze niż stado baranów. </font>
+
+178
+00:21:50,440 --> 00:21:54,680
+<font backgroundcolor="#000000"> Społeczeństwo dzieli się </font>
+<font backgroundcolor="#000000"> więc na dwie grupy. </font>
+
+179
+00:21:54,840 --> 00:21:58,080
+<font backgroundcolor="#000000"> Jedni zostali przy baranach. </font>
+
+180
+00:21:58,480 --> 00:22:07,720
+<font backgroundcolor="#000000"> Ci, którzy się wyspecjalizowali </font>
+<font backgroundcolor="#000000"> w hodowli zwierząt szybkich, </font>
+<font backgroundcolor="#000000"> zostali m.in. wojownikami. </font>
+
+181
+00:22:08,080 --> 00:22:14,800
+<font backgroundcolor="#000000"> Tak jak Tuaregowie, </font>
+<font backgroundcolor="#000000"> którzy jeździli na wielbłądach. </font>
+
+182
+00:22:16,560 --> 00:22:20,240
+<font backgroundcolor="#000000"> Zajrzyjmy teraz w duszę koczownika. </font>
+
+183
+00:22:22,440 --> 00:22:26,920
+<font backgroundcolor="#000000"> Ziemia i otwarta przestrzeń, </font>
+<font backgroundcolor="#000000"> którą dysponuje. </font>
+
+184
+00:22:27,120 --> 00:22:33,600
+<font backgroundcolor="#000000"> To on decyduje, gdzie zagna </font>
+<font backgroundcolor="#000000"> swoje stado, dokąd prowadzi </font>
+<font backgroundcolor="#000000"> swoją karawanę. </font>
+
+185
+00:22:33,760 --> 00:22:36,960
+<font backgroundcolor="#000000"> Koczownik decyduje o sobie. </font>
+
+186
+00:22:37,200 --> 00:22:41,000
+<font backgroundcolor="#000000"> Warunki do życia są trudne. </font>
+
+187
+00:22:41,560 --> 00:22:47,880
+<font backgroundcolor="#000000"> Koczownik musi być odporny, </font>
+<font backgroundcolor="#000000"> niezależny, musi być waleczny. </font>
+
+188
+00:22:48,040 --> 00:22:53,120
+<font backgroundcolor="#000000"> To dotyczy nie tylko przyrody, </font>
+<font backgroundcolor="#000000"> ale i innych ludzi. </font>
+
+189
+00:22:53,280 --> 00:22:59,280
+<font backgroundcolor="#000000"> Z ludów koczowniczych pochodzili </font>
+<font backgroundcolor="#000000"> najbardziej waleczni wojownicy. </font>
+
+190
+00:22:59,440 --> 00:23:03,160
+<font backgroundcolor="#000000"> Faraonowie wynajmowali Libijczyków. </font>
+
+191
+00:23:03,680 --> 00:23:07,080
+<font backgroundcolor="#000000"> Koczownik wszędzie jest u siebie. </font>
+
+192
+00:23:07,240 --> 00:23:09,560
+<font backgroundcolor="#000000"> I wszędzie jest panem. </font>
+
+193
+00:23:09,720 --> 00:23:18,440
+<font backgroundcolor="#000000"> Koczownik może się nająć do roboty, </font>
+<font backgroundcolor="#000000"> ale nie cierpi władzy, która mówi mu, </font>
+<font backgroundcolor="#000000"> gdzie, kiedy i co ma robić. </font>
+
+194
+00:23:18,600 --> 00:23:20,560
+<font backgroundcolor="#000000"> Koczownik myśli tak: </font>
+
+195
+00:23:20,720 --> 00:23:25,280
+<font backgroundcolor="#000000"> "Ten kawałek ziemi, </font>
+<font backgroundcolor="#000000"> na którym przysiadłem, jest mój". </font>
+
+196
+00:23:27,000 --> 00:23:32,840
+<font backgroundcolor="#000000"> Kiedy przebywam wśród ludów </font>
+<font backgroundcolor="#000000"> wędrownych, czuję się wolny jak oni. </font>
+
+197
+00:23:33,000 --> 00:23:36,440
+<font backgroundcolor="#000000"> A w Europie nie ma już ludzi wolnych. </font>
+
+198
+00:23:36,600 --> 00:23:42,720
+<font backgroundcolor="#000000"> Wolności obywatelskie spisano na </font>
+<font backgroundcolor="#000000"> papierze, ale człowiek wolny nie jest. </font>
+
+199
+00:23:42,880 --> 00:23:49,080
+<font backgroundcolor="#000000"> Tu jeszcze nie podlega nikomu. </font>
+<font backgroundcolor="#000000"> W Amazonii nie podlega jeszcze nikomu. </font>
+
+200
+00:23:49,240 --> 00:23:53,040
+<font backgroundcolor="#000000"> Wśród Buszmenów </font>
+<font backgroundcolor="#000000"> nie podlega jeszcze nikomu. </font>
+
+201
+00:23:53,200 --> 00:23:55,800
+<font backgroundcolor="#000000"> Ale podległość nadchodzi. </font>
+
+202
+00:23:57,880 --> 00:23:59,760
+<font backgroundcolor="#000000"> I coś dla Zielonych. </font>
+
+203
+00:23:59,920 --> 00:24:04,680
+<font backgroundcolor="#000000"> Ludzie sobie wpinają kolczyki w nos </font>
+<font backgroundcolor="#000000"> i nie ma protestów. </font>
+
+204
+00:24:04,840 --> 00:24:10,080
+<font backgroundcolor="#000000"> Odczepcie się od zwierząt. </font>
+<font backgroundcolor="#000000"> Też mają prawo do kolczyka w nosie. </font>
+
+205
+00:24:10,240 --> 00:24:15,240
+<font backgroundcolor="#000000"> Widziałem takie łańcuszki </font>
+<font backgroundcolor="#000000"> przyczepione do ucha i do nosa. </font>
+
+206
+00:24:15,400 --> 00:24:21,600
+<font backgroundcolor="#000000"> Jak się babę złapie za coś takiego, </font>
+<font backgroundcolor="#000000"> pójdzie za człowiekiem. Zwierzę też. </font>
+
+207
+00:24:21,760 --> 00:24:28,600
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH: </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+

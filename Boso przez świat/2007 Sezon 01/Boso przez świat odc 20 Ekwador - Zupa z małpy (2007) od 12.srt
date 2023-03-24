@@ -1,0 +1,813 @@
+1
+00:00:51,600 --> 00:00:53,640
+<font backgroundcolor="#000000"> Polowanie to marsz. </font>
+
+2
+00:00:53,800 --> 00:00:57,960
+<font backgroundcolor="#000000"> Małe polowanie to codzienny </font>
+<font backgroundcolor="#000000"> wymarsz z obozowiska. </font>
+
+3
+00:00:58,120 --> 00:01:01,560
+<font backgroundcolor="#000000"> Idzie się wkoło... </font>
+<font backgroundcolor="#000000"> i wraca do obozowiska. </font>
+
+4
+00:01:01,720 --> 00:01:04,920
+<font backgroundcolor="#000000"> Obozowisko jest daleko poza wioską. </font>
+
+5
+00:01:05,120 --> 00:01:08,000
+<font backgroundcolor="#000000"> Jest tam, gdzie już są zwierzęta. </font>
+
+6
+00:01:08,160 --> 00:01:12,520
+<font backgroundcolor="#000000"> A duże polowanie to marsz </font>
+<font backgroundcolor="#000000"> przed siebie na nowe ziemie. </font>
+
+7
+00:01:12,680 --> 00:01:16,440
+<font backgroundcolor="#000000"> Obóz zakłada się tam, </font>
+<font backgroundcolor="#000000"> gdzie coś się upoluje. </font>
+
+8
+00:01:16,600 --> 00:01:19,360
+<font backgroundcolor="#000000"> Powrót do wioski </font>
+<font backgroundcolor="#000000"> to kilka dni. </font>
+
+9
+00:01:19,520 --> 00:01:23,520
+<font backgroundcolor="#000000"> Jesteśmy na małym polowaniu. </font>
+<font backgroundcolor="#000000"> Mamy obozowisko. </font>
+
+10
+00:01:23,680 --> 00:01:28,560
+<font backgroundcolor="#000000"> W dzień zatoczymy koło </font>
+<font backgroundcolor="#000000"> i przyniesiemy jedzenie do obozu. </font>
+
+11
+00:01:28,720 --> 00:01:30,520
+<font backgroundcolor="#000000"> Uwędzimy je. </font>
+
+12
+00:01:30,680 --> 00:01:33,280
+<font backgroundcolor="#000000"> Następnego dnia znów marsz. </font>
+
+13
+00:01:33,440 --> 00:01:37,760
+<font backgroundcolor="#000000"> Znów zrobimy kilka takich tras </font>
+<font backgroundcolor="#000000"> dookoła obozowiska. </font>
+
+14
+00:01:55,240 --> 00:01:57,240
+<font backgroundcolor="#000000"> Piękne drzewo! </font>
+
+15
+00:01:57,400 --> 00:01:59,440
+<font backgroundcolor="#000000"> Potężne! </font>
+
+16
+00:01:59,600 --> 00:02:03,800
+<font backgroundcolor="#000000"> Korzenie ma wierzchu, </font>
+<font backgroundcolor="#000000"> bo jest płytko osadzone. </font>
+
+17
+00:02:04,200 --> 00:02:08,080
+<font backgroundcolor="#000000"> Na powierzchni jest co jeść, </font>
+<font backgroundcolor="#000000"> w głębi już nie. </font>
+
+18
+00:02:08,600 --> 00:02:12,720
+<font backgroundcolor="#000000"> Jest wysokie, potężne, </font>
+<font backgroundcolor="#000000"> podparte na korzeniach. </font>
+
+19
+00:02:14,440 --> 00:02:17,760
+<font backgroundcolor="#000000"> Ale ja chciałem </font>
+<font backgroundcolor="#000000"> pokazać to drzewo. </font>
+
+20
+00:02:18,520 --> 00:02:25,200
+<font backgroundcolor="#000000"> Na dole nie jest interesujące, </font>
+<font backgroundcolor="#000000"> bo też podpiera się korzeniami. </font>
+
+21
+00:02:25,640 --> 00:02:27,720
+<font backgroundcolor="#000000"> Ale spójrzmy wyżej. </font>
+
+22
+00:02:27,880 --> 00:02:30,680
+<font backgroundcolor="#000000"> U góry jest to, co chcę pokazać. </font>
+
+23
+00:02:30,840 --> 00:02:34,440
+<font backgroundcolor="#000000"> Z górnej części pnia </font>
+<font backgroundcolor="#000000"> robi się dmuchawki. </font>
+
+24
+00:02:34,640 --> 00:02:38,240
+<font backgroundcolor="#000000"> Gdy to się tnie, </font>
+<font backgroundcolor="#000000"> wystarczy naciąć u góry... </font>
+
+25
+00:02:38,400 --> 00:02:41,280
+<font backgroundcolor="#000000"> Potem ono popęka na deszczułki. </font>
+
+26
+00:02:41,440 --> 00:02:46,000
+<font backgroundcolor="#000000"> Dlatego Indianie zaczęli </font>
+<font backgroundcolor="#000000"> z tego robić łuki, dmuchawki. </font>
+
+27
+00:02:46,160 --> 00:02:49,120
+<font backgroundcolor="#000000"> Po pierwsze. Dało się podzielić. </font>
+
+28
+00:02:49,280 --> 00:02:52,720
+<font backgroundcolor="#000000"> Po drugie. Było giętkie </font>
+<font backgroundcolor="#000000"> i się nie łamało. </font>
+
+29
+00:02:52,880 --> 00:02:55,720
+<font backgroundcolor="#000000"> Jak się pień rozetnie wzdłuż... </font>
+
+30
+00:02:55,880 --> 00:02:58,040
+<font backgroundcolor="#000000"> Gdzie pan jest? </font>
+
+31
+00:02:58,640 --> 00:03:02,760
+<font backgroundcolor="#000000"> Jak się pień rozetnie wzdłuż </font>
+<font backgroundcolor="#000000"> i rozłoży... </font>
+
+32
+00:03:02,920 --> 00:03:06,720
+<font backgroundcolor="#000000"> W środku ma takie miękkie... </font>
+<font backgroundcolor="#000000"> To można wyrwać. </font>
+
+33
+00:03:06,880 --> 00:03:11,320
+<font backgroundcolor="#000000"> Rozłożony pień popęka </font>
+<font backgroundcolor="#000000"> na deseczki, połączone ze sobą. </font>
+
+34
+00:03:11,480 --> 00:03:15,880
+<font backgroundcolor="#000000"> Może być panelem podłogowym </font>
+<font backgroundcolor="#000000"> w indiańskim szałasie. </font>
+
+35
+00:04:29,080 --> 00:04:33,360
+<font backgroundcolor="#000000"> Z tej liany, zdjętej z drzewa, </font>
+<font backgroundcolor="#000000"> zeskrobuje się korę. </font>
+
+36
+00:04:34,680 --> 00:04:38,680
+<font backgroundcolor="#000000"> A z tej kory... właściwie </font>
+<font backgroundcolor="#000000"> zeskrobuje się skórę. </font>
+
+37
+00:04:38,840 --> 00:04:42,200
+<font backgroundcolor="#000000"> A z tej skóry powstanie kurara. </font>
+
+38
+00:04:44,120 --> 00:04:48,760
+<font backgroundcolor="#000000"> Kurara zabija zwierzę, </font>
+<font backgroundcolor="#000000"> a nie zatruwa mięsa. </font>
+
+39
+00:05:21,720 --> 00:05:25,480
+<font backgroundcolor="#000000"> Teraz do tej tutki, trzeba wlać wodę. </font>
+
+40
+00:05:26,480 --> 00:05:29,640
+<font backgroundcolor="#000000"> Jak przesączy się przez to woda... </font>
+
+41
+00:05:29,800 --> 00:05:33,360
+<font backgroundcolor="#000000"> ... tu będzie kapać </font>
+<font backgroundcolor="#000000"> prawie gotowa kurara. </font>
+
+42
+00:05:33,520 --> 00:05:36,720
+<font backgroundcolor="#000000"> Będzie wyglądała jak słaba herbata. </font>
+
+43
+00:05:36,880 --> 00:05:41,880
+<font backgroundcolor="#000000"> Trzeba ją jeszcze odparować </font>
+<font backgroundcolor="#000000"> i zagęścić. Musi być jak smoła. </font>
+
+44
+00:06:18,280 --> 00:06:21,640
+<font backgroundcolor="#000000"> Węgorz elektryczny. Okropna ryba. </font>
+
+45
+00:06:21,800 --> 00:06:23,600
+<font backgroundcolor="#000000"> Ten jest mały. </font>
+
+46
+00:06:23,760 --> 00:06:27,360
+<font backgroundcolor="#000000"> Inne mogą mieć nawet </font>
+<font backgroundcolor="#000000"> trzy metry długości. </font>
+
+47
+00:06:27,520 --> 00:06:30,520
+<font backgroundcolor="#000000"> Mały, ale może nas porazić prądem. </font>
+
+48
+00:06:30,680 --> 00:06:34,920
+<font backgroundcolor="#000000"> Jest niebezpieczny jak kabel, </font>
+<font backgroundcolor="#000000"> który nie ma izolacji. </font>
+
+49
+00:06:35,120 --> 00:06:38,600
+<font backgroundcolor="#000000"> Gdy nas dotknie w wodzie, utopimy się. </font>
+
+50
+00:06:38,880 --> 00:06:43,000
+<font backgroundcolor="#000000"> Nigdy nie wiadomo, </font>
+<font backgroundcolor="#000000"> kiedy już wreszcie zdechł. </font>
+
+51
+00:06:43,160 --> 00:06:47,240
+<font backgroundcolor="#000000"> Całymi dniami może leżeć </font>
+<font backgroundcolor="#000000"> na piachu i dalej żyć. </font>
+
+52
+00:06:47,400 --> 00:06:50,600
+<font backgroundcolor="#000000"> Nawet na patelni będzie podrygiwał. </font>
+
+53
+00:06:50,960 --> 00:06:55,160
+<font backgroundcolor="#000000"> Dopóki jest żywy, </font>
+<font backgroundcolor="#000000"> może nas porazić prądem. </font>
+
+54
+00:06:56,640 --> 00:06:59,920
+<font backgroundcolor="#000000"> Okropna ryba, ale jadalna. </font>
+
+55
+00:07:48,440 --> 00:07:50,400
+<font backgroundcolor="#000000"> Glonojad. </font>
+
+56
+00:07:50,560 --> 00:07:56,520
+<font backgroundcolor="#000000"> W naszych domowych akwariach </font>
+<font backgroundcolor="#000000"> nie mamy takich dużych glonojadów. </font>
+
+57
+00:07:56,840 --> 00:07:58,960
+<font backgroundcolor="#000000"> Pod spodem ma ryjek. </font>
+
+58
+00:08:08,680 --> 00:08:13,480
+<font backgroundcolor="#000000"> Powiedział, że nie wypuszczamy. </font>
+<font backgroundcolor="#000000"> Takie małe też się je. </font>
+
+59
+00:08:13,640 --> 00:08:15,640
+<font backgroundcolor="#000000"> Jedz, kiedy jest! </font>
+
+60
+00:08:18,360 --> 00:08:22,920
+<font backgroundcolor="#000000"> Tak pieką Indianie. Bez patroszenia. </font>
+<font backgroundcolor="#000000"> Prosto do ognia. </font>
+
+61
+00:08:24,920 --> 00:08:27,400
+<font backgroundcolor="#000000"> Kurara jest gotowa. </font>
+
+62
+00:08:27,560 --> 00:08:30,200
+<font backgroundcolor="#000000"> Stężała. </font>
+
+63
+00:08:30,400 --> 00:08:34,320
+<font backgroundcolor="#000000"> Pan nakłada kurarę na strzałki. </font>
+
+64
+00:08:40,160 --> 00:08:42,560
+<font backgroundcolor="#000000"> Tak wygląda strzałka. </font>
+
+65
+00:08:42,720 --> 00:08:46,160
+<font backgroundcolor="#000000"> Niegroźna szpilka, jeszcze niegroźna. </font>
+
+66
+00:08:46,320 --> 00:08:49,600
+<font backgroundcolor="#000000"> Tamtymi nie chciałbym </font>
+<font backgroundcolor="#000000"> grać w bierki. </font>
+
+67
+00:08:49,760 --> 00:08:54,840
+<font backgroundcolor="#000000"> Bo jeśli ktoś ukłuje się tamtą </font>
+<font backgroundcolor="#000000"> strzałą, przegrywa na zawsze. </font>
+
+68
+00:08:55,000 --> 00:08:58,200
+<font backgroundcolor="#000000"> Paraliż mięśni oddechowych. </font>
+
+69
+00:10:03,000 --> 00:10:08,920
+<font backgroundcolor="#000000"> Indianin z książki to cudotwórca. </font>
+<font backgroundcolor="#000000"> Widzi ślady tam,gdzie są tylko liście. </font>
+
+70
+00:10:09,120 --> 00:10:14,120
+<font backgroundcolor="#000000"> Indianin z dżungli to też cudotwórca. </font>
+<font backgroundcolor="#000000"> To nie powinno dziwić. </font>
+
+71
+00:10:14,280 --> 00:10:17,080
+<font backgroundcolor="#000000"> Mamy w rodzinach myśliwych. </font>
+
+72
+00:10:17,240 --> 00:10:21,720
+<font backgroundcolor="#000000"> Idą i widzą ślady tam, </font>
+<font backgroundcolor="#000000"> gdzie my widzimy tylko ścieżkę. </font>
+
+73
+00:10:21,880 --> 00:10:24,680
+<font backgroundcolor="#000000"> Indianin tu żyje od dziecka. </font>
+
+74
+00:10:24,840 --> 00:10:28,000
+<font backgroundcolor="#000000"> Wykształcił spostrzegawczość... </font>
+
+75
+00:10:28,160 --> 00:10:30,800
+<font backgroundcolor="#000000"> ... której my nie nadrobimy. </font>
+
+76
+00:10:30,960 --> 00:10:35,120
+<font backgroundcolor="#000000"> Idzie i widzi, że liście </font>
+<font backgroundcolor="#000000"> leżą inaczej, niż powinny. </font>
+
+77
+00:10:35,280 --> 00:10:39,640
+<font backgroundcolor="#000000"> To znaczy, że tu się ciągnął </font>
+<font backgroundcolor="#000000"> ogon jakiegoś zwierzęcia. </font>
+
+78
+00:10:39,800 --> 00:10:43,960
+<font backgroundcolor="#000000"> Widzi ślady tam, gdzie ja, </font>
+<font backgroundcolor="#000000"> widzę drobne wgniecenie. </font>
+
+79
+00:10:44,120 --> 00:10:47,360
+<font backgroundcolor="#000000"> W Polsce czytam </font>
+<font backgroundcolor="#000000"> książki o Indianach. </font>
+
+80
+00:10:47,520 --> 00:10:52,520
+<font backgroundcolor="#000000"> Przeczytałem, że gdy Indianin </font>
+<font backgroundcolor="#000000"> powącha kamyk,już wszystko wie. </font>
+
+81
+00:10:52,680 --> 00:10:56,480
+<font backgroundcolor="#000000"> Nieprawda. Indianin </font>
+<font backgroundcolor="#000000"> jest spostrzegawczy. </font>
+
+82
+00:11:32,040 --> 00:11:34,720
+<font backgroundcolor="#000000"> Indianie wabią zwierzynę. </font>
+
+83
+00:11:34,880 --> 00:11:38,280
+<font backgroundcolor="#000000"> W Polsce myśliwi też wabią zwierzynę. </font>
+
+84
+00:11:38,440 --> 00:11:41,880
+<font backgroundcolor="#000000"> Ale polski myśliwy </font>
+<font backgroundcolor="#000000"> ma fabryczne tutki. </font>
+
+85
+00:11:42,080 --> 00:11:45,200
+<font backgroundcolor="#000000"> Chyba że dziadek </font>
+<font backgroundcolor="#000000"> nauczył go udawać. </font>
+
+86
+00:11:45,360 --> 00:11:49,120
+<font backgroundcolor="#000000"> Indianie wabią zwierzęta </font>
+<font backgroundcolor="#000000"> i z nimi rozmawiają. </font>
+
+87
+00:11:49,280 --> 00:11:53,320
+<font backgroundcolor="#000000"> Rozmawiają ze zwierzętami, </font>
+<font backgroundcolor="#000000"> których nie widać. </font>
+
+88
+00:11:53,480 --> 00:11:58,640
+<font backgroundcolor="#000000"> Gdy Indianin usłyszy głos samicy, </font>
+<font backgroundcolor="#000000"> zachowuje się jak macho. </font>
+
+89
+00:11:59,760 --> 00:12:05,320
+<font backgroundcolor="#000000"> Zaczyna z nią gadać, a potem </font>
+<font backgroundcolor="#000000"> zaczynają się wzajemnie nawoływać. </font>
+
+90
+00:12:05,680 --> 00:12:12,320
+<font backgroundcolor="#000000"> Gdy Indianin zbliża się do samicy, </font>
+<font backgroundcolor="#000000"> ona nie ucieka. Czeka na niego. </font>
+
+91
+00:12:17,920 --> 00:12:20,720
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> NAŚLADUJE TAPIRA </font></font>
+
+92
+00:12:22,600 --> 00:12:26,320
+<font backgroundcolor="#000000"> Samiec tapira gwiżdże trochę inaczej. </font>
+
+93
+00:12:26,480 --> 00:12:31,320
+<font backgroundcolor="#000000"> To jest daleki kuzyn słonia. </font>
+<font backgroundcolor="#000000"> Ale ma tylko kawałek trąby. </font>
+
+94
+00:12:31,480 --> 00:12:34,440
+<font backgroundcolor="#000000"> Dzięki tej trąbie może gwizdać. </font>
+
+95
+00:12:37,200 --> 00:12:39,880
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> NAŚLADUJE PEKARI </font></font>
+
+96
+00:12:52,920 --> 00:12:58,600
+<font backgroundcolor="#000000"> Pekari, dzik dżunglowy, jest mniejszy </font>
+<font backgroundcolor="#000000"> od dzika, żyjącego w Polsce. </font>
+
+97
+00:12:58,800 --> 00:13:01,160
+<font backgroundcolor="#000000"> Pekari żyje w stadach. </font>
+
+98
+00:13:01,320 --> 00:13:07,160
+<font backgroundcolor="#000000"> Stada liczą kilkanaście sztuk </font>
+<font backgroundcolor="#000000"> a nawet kilkaset, zależnie od gatunku. </font>
+
+99
+00:13:08,280 --> 00:13:11,160
+<font backgroundcolor="#000000"> Pekari buczy. </font>
+
+100
+00:13:11,400 --> 00:13:14,680
+<font backgroundcolor="#000000"> Buczy oczywiście samiec. </font>
+
+101
+00:13:17,600 --> 00:13:20,440
+<font backgroundcolor="#000000"> A teraz... </font>
+
+102
+00:13:25,040 --> 00:13:28,560
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> NAŚLADUJE KRZYK MAŁPY </font></font>
+
+103
+00:13:34,680 --> 00:13:36,840
+<font backgroundcolor="#000000"> Kto tak wrzeszczy? </font>
+
+104
+00:13:37,000 --> 00:13:39,800
+<font backgroundcolor="#000000"> Prawie człowiek, czyli małpa. </font>
+
+105
+00:13:47,520 --> 00:13:50,840
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> NAŚLADUJĄ TUKANY </font></font>
+
+106
+00:13:55,880 --> 00:14:00,160
+<font backgroundcolor="#000000"> Indianie wabią tukany, </font>
+<font backgroundcolor="#000000"> bo chcą zdobyć ich pióra. </font>
+
+107
+00:14:00,320 --> 00:14:03,400
+<font backgroundcolor="#000000"> Indianie nie zabijają tukanów. </font>
+
+108
+00:14:03,560 --> 00:14:09,080
+<font backgroundcolor="#000000"> Ale ogłuszają je strzałami, </font>
+<font backgroundcolor="#000000"> które mają zaokrąglony koniec. </font>
+
+109
+00:14:09,240 --> 00:14:13,400
+<font backgroundcolor="#000000"> Potem wyciągają tukanom pióra </font>
+<font backgroundcolor="#000000"> i wypuszczają je. </font>
+
+110
+00:14:13,600 --> 00:14:15,960
+<font backgroundcolor="#000000"> Indyk leśny. </font>
+
+111
+00:14:16,640 --> 00:14:20,040
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> NAŚLADUJE INDYKA LEŚNEGO </font></font>
+
+112
+00:14:31,640 --> 00:14:34,240
+<font backgroundcolor="#000000"> To mój ulubiony ptaszek. </font>
+
+113
+00:14:36,040 --> 00:14:39,120
+<font backgroundcolor="#000000"> Ma cienkie nóżki, jest okrągły. </font>
+
+114
+00:14:39,280 --> 00:14:42,240
+<font backgroundcolor="#000000"> Ma długą szyjkę i długi dziobek. </font>
+
+115
+00:14:42,400 --> 00:14:45,120
+<font backgroundcolor="#000000"> Pilnuje domu, jak się go oswoi. </font>
+
+116
+00:15:23,560 --> 00:15:27,280
+<font backgroundcolor="#000000"> Teraz fragment dla polskich myśliwych. </font>
+
+117
+00:15:27,440 --> 00:15:30,360
+<font backgroundcolor="#000000"> Zapytałem o wnyki i pułapki. </font>
+
+118
+00:15:30,520 --> 00:15:35,360
+<font backgroundcolor="#000000"> Myśliwy w dżungli nie stosuje </font>
+<font backgroundcolor="#000000"> ani jednego, ani drugiego. </font>
+
+119
+00:15:35,520 --> 00:15:39,280
+<font backgroundcolor="#000000"> Ze względu na to, </font>
+<font backgroundcolor="#000000"> że mięso, by się zepsuło. </font>
+
+120
+00:15:39,440 --> 00:15:42,760
+<font backgroundcolor="#000000"> I że ktoś inny </font>
+<font backgroundcolor="#000000"> by je natychmiast zjadł. </font>
+
+121
+00:15:42,920 --> 00:15:46,680
+<font backgroundcolor="#000000"> Pierwsze przyszłyby </font>
+<font backgroundcolor="#000000"> na przykład mrówki. </font>
+
+122
+00:15:47,240 --> 00:15:53,560
+<font backgroundcolor="#000000"> Gdy zwierzę jest ranne albo cuchnie </font>
+<font backgroundcolor="#000000"> adrenaliną, bo się przestraszyło... </font>
+
+123
+00:15:53,720 --> 00:15:56,880
+<font backgroundcolor="#000000"> ... od razu przychodzą mrówki, węże. </font>
+
+124
+00:15:57,080 --> 00:15:59,680
+<font backgroundcolor="#000000"> Więc nie stosuje się wnyków. </font>
+
+125
+00:16:05,240 --> 00:16:08,040
+<font backgroundcolor="#000000"> Zapytałem, czy zabiją jaguary. </font>
+
+126
+00:16:08,200 --> 00:16:14,240
+<font backgroundcolor="#000000"> Plemiona osiadłe mają wyżej rozwiniętą </font>
+<font backgroundcolor="#000000"> kulturę niż to, które jest tu. </font>
+
+127
+00:16:14,400 --> 00:16:18,480
+<font backgroundcolor="#000000"> Plemiona osiadłe ubierają się </font>
+<font backgroundcolor="#000000"> w skóry jaguarów. </font>
+
+128
+00:16:18,640 --> 00:16:21,840
+<font backgroundcolor="#000000"> To świadczy, </font>
+<font backgroundcolor="#000000"> że wojownik jest wielki. </font>
+
+129
+00:16:22,000 --> 00:16:26,800
+<font backgroundcolor="#000000"> Wojownik wkłada w nos zęby jaguara. </font>
+<font backgroundcolor="#000000"> A oni chodzą nago. </font>
+
+130
+00:16:26,960 --> 00:16:30,080
+<font backgroundcolor="#000000"> Dlatego nie polują na jaguary. </font>
+
+131
+00:16:30,280 --> 00:16:33,520
+<font backgroundcolor="#000000"> Jeśli się nie je, </font>
+<font backgroundcolor="#000000"> to się nie zabija. </font>
+
+132
+00:16:37,680 --> 00:16:40,760
+<font backgroundcolor="#000000"> Powiedział, że jaguara się nie je. </font>
+
+133
+00:16:40,920 --> 00:16:43,960
+<font backgroundcolor="#000000"> Zapytałem, czy jaguar jest święty. </font>
+
+134
+00:16:44,120 --> 00:16:47,520
+<font backgroundcolor="#000000"> Powiedział, że mięso jaguara </font>
+<font backgroundcolor="#000000"> źle pachnie. </font>
+
+135
+00:16:47,680 --> 00:16:49,960
+<font backgroundcolor="#000000"> Dlatego jest niejadalne. </font>
+
+136
+00:17:20,320 --> 00:17:23,200
+<font backgroundcolor="#000000"> Trzeba poślinić strzałkę. </font>
+
+137
+00:17:23,360 --> 00:17:26,280
+<font backgroundcolor="#000000"> Ciasno ją owinąć. </font>
+
+138
+00:17:26,440 --> 00:17:29,320
+<font backgroundcolor="#000000"> Trzeba ją owinąć naturalną watą. </font>
+
+139
+00:17:29,480 --> 00:17:33,160
+<font backgroundcolor="#000000"> Poślinić, nadać formę </font>
+<font backgroundcolor="#000000"> aerodynamiczną... </font>
+
+140
+00:17:33,320 --> 00:17:35,760
+<font backgroundcolor="#000000"> I nabój jest gotowy. </font>
+
+141
+00:17:35,920 --> 00:17:40,960
+<font backgroundcolor="#000000"> Na końcu jest trucizna. </font>
+<font backgroundcolor="#000000"> Trzeba uważać, żeby się nie ukłuć. </font>
+
+142
+00:17:45,120 --> 00:17:47,360
+<font backgroundcolor="#000000"> Do dziury... </font>
+
+143
+00:17:47,520 --> 00:17:51,720
+<font backgroundcolor="#000000"> Trzeba uważać, żeby kurarą </font>
+<font backgroundcolor="#000000"> nie zbrudzić ustnika. </font>
+
+144
+00:18:12,080 --> 00:18:16,240
+<font backgroundcolor="#000000"> Z takiej odległości </font>
+<font backgroundcolor="#000000"> to każdy potrafi trafić. </font>
+
+145
+00:18:47,800 --> 00:18:51,200
+<font backgroundcolor="#000000"> Śmieją się ze mnie. </font>
+
+146
+00:19:03,360 --> 00:19:06,120
+<font backgroundcolor="#000000"> Chłopięce zabawy z bronią. </font>
+
+147
+00:19:06,440 --> 00:19:10,880
+<font backgroundcolor="#000000"> Dmuchawka to doskonałe </font>
+<font backgroundcolor="#000000"> narzędzie polowań w dżungli. </font>
+
+148
+00:19:11,080 --> 00:19:16,280
+<font backgroundcolor="#000000"> Oczywiście w rękach dobrego myśliwego, </font>
+<font backgroundcolor="#000000"> a nie takiego jak ja. </font>
+
+149
+00:19:16,440 --> 00:19:19,960
+<font backgroundcolor="#000000"> Dmuchawka jest doskonała, </font>
+<font backgroundcolor="#000000"> bo jest cicha. </font>
+
+150
+00:19:20,120 --> 00:19:26,240
+<font backgroundcolor="#000000"> Gdy się strzeli z dubeltówki w stado </font>
+<font backgroundcolor="#000000"> małp, spadnie jedna. Inne uciekną. </font>
+
+151
+00:19:26,400 --> 00:19:31,680
+<font backgroundcolor="#000000"> A gdy się strzeli z dmuchawki, </font>
+<font backgroundcolor="#000000"> małpy nadal siedzą na gałęzi. </font>
+
+152
+00:19:31,840 --> 00:19:35,040
+<font backgroundcolor="#000000"> Patrzą, gdzie spadła ich koleżanka. </font>
+
+153
+00:19:35,200 --> 00:19:40,120
+<font backgroundcolor="#000000"> Indianie polują jeszcze lancami, </font>
+<font backgroundcolor="#000000"> które państwo widzieli. </font>
+
+154
+00:19:40,280 --> 00:19:44,160
+<font backgroundcolor="#000000"> Ale nie dziś, </font>
+<font backgroundcolor="#000000"> bo nie spotkaliśmy stada pekari. </font>
+
+155
+00:19:44,320 --> 00:19:48,240
+<font backgroundcolor="#000000"> Oni potrafią ścigać </font>
+<font backgroundcolor="#000000"> kilometrami stado pekari. </font>
+
+156
+00:19:48,400 --> 00:19:51,160
+<font backgroundcolor="#000000"> Potrafią dogonić i przebić.... </font>
+
+157
+00:19:51,320 --> 00:19:54,960
+<font backgroundcolor="#000000"> Dogonią państwo psa? </font>
+<font backgroundcolor="#000000"> To dobre porównanie. </font>
+
+158
+00:19:55,200 --> 00:19:57,880
+<font backgroundcolor="#000000"> Ile jest warta dmuchawka? </font>
+
+159
+00:19:58,080 --> 00:20:03,600
+<font backgroundcolor="#000000"> Przed chwilą dowiedziałem się, </font>
+<font backgroundcolor="#000000"> że tyle, ile moje żółte kalosze. </font>
+
+160
+00:20:03,760 --> 00:20:09,800
+<font backgroundcolor="#000000"> Dokonaliśmy wymiany. Ja mam dmuchawkę </font>
+<font backgroundcolor="#000000"> na ścianę, a on kalosze na węże. </font>
+
+161
+00:20:29,280 --> 00:20:35,480
+<font backgroundcolor="#000000"> Gdy na ziemi leżą takie śliwki, </font>
+<font backgroundcolor="#000000"> to znaczy, że na drzewie siedzi małpa. </font>
+
+162
+00:20:35,640 --> 00:20:38,280
+<font backgroundcolor="#000000"> Są wyjedzone. </font>
+
+163
+00:21:41,880 --> 00:21:44,720
+<font backgroundcolor="#000000"> To ptak trompetero. </font>
+
+164
+00:21:45,040 --> 00:21:48,360
+<font backgroundcolor="#000000"> Nie jest smaczny, </font>
+<font backgroundcolor="#000000"> ale ładnie śpiewa. </font>
+
+165
+00:21:48,680 --> 00:21:53,040
+<font backgroundcolor="#000000"> Ma zielone nóżki </font>
+<font backgroundcolor="#000000"> i zielony dziobek. </font>
+
+166
+00:21:54,120 --> 00:21:57,680
+<font backgroundcolor="#000000"> Ale w dżungli się je, kiedy jest! </font>
+
+167
+00:21:58,920 --> 00:22:00,960
+<font backgroundcolor="#000000"> A to... </font>
+
+168
+00:22:04,280 --> 00:22:06,560
+<font backgroundcolor="#000000"> Ja bym tak nie potrafił. </font>
+
+169
+00:22:06,720 --> 00:22:10,160
+<font backgroundcolor="#000000"> Wszedł na drzewo </font>
+<font backgroundcolor="#000000"> i zastrzelił z góry. </font>
+
+170
+00:22:10,320 --> 00:22:15,600
+<font backgroundcolor="#000000"> Zastrzelił ją, siedząc na drzewie. </font>
+<font backgroundcolor="#000000"> Bo z dołu było za daleko. </font>
+
+171
+00:22:15,800 --> 00:22:20,080
+<font backgroundcolor="#000000"> Panowie z ekipy przeżyją </font>
+<font backgroundcolor="#000000"> swój pierwszy egzamin. </font>
+
+172
+00:22:20,240 --> 00:22:24,080
+<font backgroundcolor="#000000"> Kto nie jest w stanie </font>
+<font backgroundcolor="#000000"> jeść zupy z małpy... </font>
+
+173
+00:22:24,240 --> 00:22:29,160
+<font backgroundcolor="#000000"> ... nie pójdzie w dżunglę </font>
+<font backgroundcolor="#000000"> i nie spotka dzikich plemion. </font>
+
+174
+00:22:33,040 --> 00:22:37,480
+<font backgroundcolor="#000000"> Najtrudniejsza rzecz </font>
+<font backgroundcolor="#000000"> to te rączki i nóżki w zupie. </font>
+
+175
+00:22:38,600 --> 00:22:43,000
+<font backgroundcolor="#000000"> I twarz, która patrzy na nas </font>
+<font backgroundcolor="#000000"> oczami człowieka. </font>
+
+176
+00:23:06,720 --> 00:23:09,720
+<font backgroundcolor="#000000"> To samo babcia robiła z kurą. </font>
+
+177
+00:23:10,080 --> 00:23:13,440
+<font backgroundcolor="#000000"> Po oskubaniu z piór </font>
+<font backgroundcolor="#000000"> opalała nad ogniem. </font>
+
+178
+00:23:46,320 --> 00:23:52,960
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH: </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+179
+00:23:53,360 --> 00:23:57,160
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+

@@ -1,0 +1,910 @@
+1
+00:00:01,600 --> 00:00:03,840
+<font color="#16F158">To jest niemożliwe!</font>
+
+2
+00:00:04,000 --> 00:00:06,920
+Nie wiemy, Wasza Wysokość.
+
+3
+00:00:07,080 --> 00:00:09,120
+<font color="aqua">Nie ma.</font>
+Nie ma.
+
+4
+00:00:09,280 --> 00:00:11,080
+<font color="#16F158">Jak to nie ma?</font>
+
+5
+00:00:11,240 --> 00:00:15,840
+<font color="#16F158">Nie mogła się zapaść pod ziemię.</font>
+<font color="aqua">A może... być może...</font>
+
+6
+00:00:16,000 --> 00:00:19,360
+<font color="aqua">Może już nie chciała być z nami?</font>
+
+7
+00:00:19,520 --> 00:00:23,120
+I to jest
+bardzo wiarygodna hipoteza.
+
+8
+00:00:23,280 --> 00:00:25,480
+<font color="#16F158">Jaka hipoteza?</font>
+
+9
+00:00:25,640 --> 00:00:27,920
+<font color="#16F158">Sami jesteście jak hipoteza.</font>
+
+10
+00:00:28,080 --> 00:00:32,960
+<font color="#16F158">Nauczyliście się nowych słów</font>
+<font color="#16F158">od alchemika i już tacy mądrzy.</font>
+
+11
+00:00:33,120 --> 00:00:37,320
+Może był już najwyższy czas,
+żeby zniknęła.
+
+12
+00:00:37,480 --> 00:00:40,960
+Malina nie była rozmowna.
+Była skryta.
+
+13
+00:00:41,120 --> 00:00:43,680
+<font color="aqua">Tak, na pewno gdzieś się skryła.</font>
+
+14
+00:00:43,840 --> 00:00:46,120
+<font color="aqua">Zgadzam się z Bartłomiejem.</font>
+
+15
+00:00:46,280 --> 00:00:48,920
+Skryta czyli mało rozmowna.
+
+16
+00:00:49,080 --> 00:00:51,760
+Praktycznie nic o niej nie wiemy.
+
+17
+00:00:51,920 --> 00:00:54,880
+<font color="#16F158">Jak to nic nie wiemy? Jak to nic?</font>
+
+18
+00:00:55,040 --> 00:00:57,080
+<font color="#16F158">Wiemy, że jest sierotą,</font>
+
+19
+00:00:57,240 --> 00:00:59,360
+<font color="#16F158">że nie ma dachu nad głową</font>
+
+20
+00:00:59,520 --> 00:01:04,480
+<font color="#16F158">i że najprawdopodobniej</font>
+<font color="#16F158">krąży gdzieś zagubiona,</font>
+
+21
+00:01:05,680 --> 00:01:08,960
+<font color="#16F158">zrozpaczona, rozczarowana.</font>
+
+22
+00:01:09,840 --> 00:01:11,600
+<font color="aqua">Rozczarowana? Czym?</font>
+
+23
+00:01:11,760 --> 00:01:14,920
+<font color="#16F158">Tym, że ją zostawiłam,</font>
+<font color="#16F158">nie pomogłam.</font>
+
+24
+00:01:15,080 --> 00:01:17,320
+Nie, nie, nie.
+
+25
+00:01:17,480 --> 00:01:19,280
+Proszę nie płakać.
+
+26
+00:01:19,440 --> 00:01:21,600
+Proszę do przetarcia łez.
+
+27
+00:01:21,760 --> 00:01:23,560
+Znajdziemy ją.
+
+28
+00:01:23,720 --> 00:01:28,720
+<font color="aqua">Wasza Wysokość, nie będę spał</font>
+<font color="aqua">cztery dni i noce, a ją znajdę.</font>
+
+29
+00:01:29,720 --> 00:01:33,120
+<font color="#16F158">To dobrze. Wykonać. Odmaszerować.</font>
+
+30
+00:01:41,000 --> 00:01:44,960
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+31
+00:01:45,120 --> 00:01:48,360
+Takiego trudno znaleźć
+na mojej planecie.
+
+32
+00:01:48,520 --> 00:01:52,080
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+33
+00:01:52,240 --> 00:01:55,480
+Pokazali go w pałacu,
+kara go nie ominie.
+
+34
+00:01:55,640 --> 00:01:58,680
+Nagle wyczarował ognie
+królowej Kalinie.
+
+35
+00:01:58,840 --> 00:02:02,480
+Nie był on oszustem,
+nie był czarownikiem.
+
+36
+00:02:02,640 --> 00:02:05,440
+Miał na imię Al
+i jest alchemikiem.
+
+37
+00:02:15,880 --> 00:02:19,480
+<font color="#FFFF51">Słyszeliście kiedyś</font>
+<font color="#FFFF51">o czterech żywiołach?</font>
+
+38
+00:02:19,640 --> 00:02:22,760
+<font color="#FFFF51">Ogień, ziemia, woda i powietrze.</font>
+
+39
+00:02:22,920 --> 00:02:28,040
+<font color="#FFFF51">Według naszych przodków z tych</font>
+<font color="#FFFF51">elementów był zbudowany świat.</font>
+
+40
+00:02:28,200 --> 00:02:33,680
+<font color="#FFFF51">Żywioły były postrzegane jako</font>
+<font color="#FFFF51">cecha, właściwość, a nie przedmiot.</font>
+
+41
+00:02:33,840 --> 00:02:37,200
+<font color="#FFFF51">Żywioł wody</font>
+<font color="#FFFF51">nadawał rzeczom płynność.</font>
+
+42
+00:02:37,360 --> 00:02:42,040
+<font color="#FFFF51">Dawni alchemicy uważali,</font>
+<font color="#FFFF51">że to część roztopionego metalu.</font>
+
+43
+00:02:42,200 --> 00:02:46,960
+<font color="#FFFF51">Wierzono, że żywioły mogą mieć</font>
+<font color="#FFFF51">twórcze lub destrukcyjne relacje.</font>
+
+44
+00:02:47,120 --> 00:02:51,280
+<font color="#FFFF51">Twórcze to takie,</font>
+<font color="#FFFF51">gdy z ognia powstaje popiół</font>
+
+45
+00:02:51,440 --> 00:02:54,320
+<font color="#FFFF51">albo z powietrza woda,</font>
+<font color="#FFFF51">czyli deszcz.</font>
+
+46
+00:02:54,480 --> 00:02:56,720
+<font color="#FFFF51">Destrukcyjne to takie,</font>
+
+47
+00:02:56,880 --> 00:03:00,400
+<font color="#FFFF51">gdy woda gasi ogień,</font>
+<font color="#FFFF51">ogień zużywa powietrze.</font>
+
+48
+00:03:00,560 --> 00:03:02,360
+<font color="#FFFF51">I tak dalej.</font>
+
+49
+00:03:02,520 --> 00:03:05,600
+<font color="#FFFF51">Sprawdźmy,</font>
+<font color="#FFFF51">czy te hipotezy miały sens.</font>
+
+50
+00:03:05,760 --> 00:03:08,080
+<font color="#FFFF51">Na początek coś prostego.</font>
+
+51
+00:03:08,240 --> 00:03:12,000
+<font color="#FFFF51">Woda gasi ogień.</font>
+<font color="#FFFF51">To działa i w naszych czasach.</font>
+
+52
+00:03:18,880 --> 00:03:20,760
+<font color="#FFFF51">To teraz odwrotnie.</font>
+
+53
+00:03:20,920 --> 00:03:25,120
+<font color="#FFFF51">Zamiast zniszczyć ogień,</font>
+<font color="#FFFF51">spróbujmy go wzmocnić.</font>
+
+54
+00:03:27,480 --> 00:03:29,120
+<font color="#FFFF51">Tylko jak?</font>
+
+55
+00:03:47,400 --> 00:03:49,680
+<font color="#FFFF51">Powietrze wzmacnia ogień.</font>
+
+56
+00:03:49,840 --> 00:03:54,200
+<font color="#FFFF51">Zgadza się, przecież dmuchamy</font>
+<font color="#FFFF51">na żar, żeby go rozniecić.</font>
+
+57
+00:03:54,360 --> 00:03:59,280
+<font color="#FFFF51">Ustaliliśmy, że powietrze</font>
+<font color="#FFFF51">w postaci wiatru wzmacnia ogień.</font>
+
+58
+00:03:59,440 --> 00:04:03,680
+<font color="#FFFF51">To dlaczego świeczka,</font>
+<font color="#FFFF51">po dmuchnięciu na nią, gaśnie?</font>
+
+59
+00:04:03,840 --> 00:04:08,240
+<font color="#FFFF51">Nie da się wszystkiego wytłumaczyć</font>
+<font color="#FFFF51">czterema żywiołami.</font>
+
+60
+00:04:08,400 --> 00:04:12,240
+<font color="#FFFF51">Badacze zaczęli wymyślać</font>
+<font color="#FFFF51">nowe tłumaczenia.</font>
+
+61
+00:04:12,400 --> 00:04:17,960
+<font color="#FFFF51">Wymyślano nowe pierwiastki,</font>
+<font color="#FFFF51">nowe pomysły, nowe substancje.</font>
+
+62
+00:04:18,120 --> 00:04:22,560
+<font color="#FFFF51">Cztery żywioły od tysięcy lat</font>
+<font color="#FFFF51">fascynowały człowieka.</font>
+
+63
+00:04:22,720 --> 00:04:27,480
+<font color="#FFFF51">Choć to brzmi jak bajki,</font>
+<font color="#FFFF51">okazało się, że koncepcja żywiołów</font>
+
+64
+00:04:27,640 --> 00:04:33,000
+<font color="#FFFF51">przełożyła się na zrozumienie</font>
+<font color="#FFFF51">pierwiastków, jakimi je znamy dziś.</font>
+
+65
+00:04:41,120 --> 00:04:46,680
+<font color="aqua">RAPUJE: Kiedy idę sobie lochem,</font>
+<font color="aqua">to się trochę boję, joł!</font>
+
+66
+00:04:46,840 --> 00:04:52,320
+<font color="aqua">Ale jestem wartownikiem,</font>
+<font color="aqua">sprytnym, zwinnym wojownikiem.</font>
+
+67
+00:04:52,480 --> 00:04:57,160
+Mirmile, ty sobie "joł, joł, joł",
+a po Malinie ani śladu.
+
+68
+00:04:57,320 --> 00:04:59,120
+<font color="aqua">Dobrze, już dobrze.</font>
+
+69
+00:04:59,280 --> 00:05:03,560
+Smutna nasza królowa.
+Chyba nigdy taka smutna nie była.
+
+70
+00:05:03,720 --> 00:05:07,560
+<font color="aqua">Ta Malina to trochę tak zamąciła.</font>
+
+71
+00:05:09,200 --> 00:05:12,920
+Jak zamąciła?
+Nie widziałem nic takiego.
+
+72
+00:05:13,080 --> 00:05:15,000
+<font color="aqua">Odkąd jest na dworze,</font>
+
+73
+00:05:15,160 --> 00:05:18,760
+<font color="aqua">królowa tylko:</font>
+<font color="aqua">"Malina to, Malina tamto".</font>
+
+74
+00:05:18,920 --> 00:05:21,320
+<font color="aqua">Malina, Malina, Malina.</font>
+
+75
+00:05:21,480 --> 00:05:25,200
+<font color="aqua">Miała dosyć,</font>
+<font color="aqua">przestraszyła się i uciekła.</font>
+
+76
+00:05:25,360 --> 00:05:29,160
+<font color="aqua">Bo Malina była nadopiekuńcza.</font>
+Malina nadopiekuńcza?
+
+77
+00:05:29,320 --> 00:05:31,520
+<font color="aqua">Jaka Malina? Kalina.</font>
+
+78
+00:05:31,680 --> 00:05:34,520
+<font color="aqua">Czekaj, bo mnie się już pomieszało.</font>
+
+79
+00:05:34,680 --> 00:05:36,480
+Kalina, Malina...
+
+80
+00:05:38,000 --> 00:05:41,200
+Ty! Mam rym! Uważaj!
+
+81
+00:05:42,960 --> 00:05:46,800
+Była sobie raz Malina.
+
+82
+00:05:46,960 --> 00:05:49,640
+<font color="aqua">Wyglądała jak Kalina.</font>
+
+83
+00:05:49,800 --> 00:05:53,440
+A Kalina jak... Malina.
+
+84
+00:05:53,600 --> 00:05:55,800
+<font color="aqua">A na buzi smutna mina.</font>
+
+85
+00:05:59,400 --> 00:06:01,720
+Szkoda tej naszej królowej.
+
+86
+00:06:01,880 --> 00:06:03,840
+Mam pomysł.
+
+87
+00:06:04,000 --> 00:06:05,760
+Zrobimy tak.
+
+88
+00:06:05,920 --> 00:06:09,280
+Ja pójdę w lewo,
+a ty pójdziesz w prawo.
+
+89
+00:06:09,440 --> 00:06:10,920
+<font color="aqua">I bardzo dobrze.</font>
+
+90
+00:06:11,080 --> 00:06:13,640
+<font color="aqua">Czekaj!</font>
+
+91
+00:06:13,800 --> 00:06:16,360
+<font color="aqua">A czemu ty w lewo, a ja w prawo?</font>
+
+92
+00:06:16,520 --> 00:06:20,240
+<font color="aqua">Ja bym chciał w lewo.</font>
+Dobrze, to pójdę w prawo.
+
+93
+00:06:20,400 --> 00:06:23,680
+Mamy większe szanse
+na znalezienie Maliny.
+
+94
+00:06:23,840 --> 00:06:27,000
+<font color="aqua">Namówiłeś mnie. Joł!</font>
+Joł!
+
+95
+00:06:38,680 --> 00:06:42,200
+<font color="#8080FF">PUKANIE</font>
+<font color="#FFFF51">Proszę!</font>
+
+96
+00:06:46,640 --> 00:06:49,640
+Alchemiku, alchemiku...
+
+97
+00:06:49,800 --> 00:06:52,960
+Nadchodzą mroczne czasy.
+<font color="#FFFF51">Co ty gadasz?</font>
+
+98
+00:06:53,120 --> 00:06:55,760
+<font color="#FFFF51">Pomóż mi w eksperymencie.</font>
+
+99
+00:06:55,920 --> 00:06:57,800
+Co takiego robisz?
+
+100
+00:06:57,960 --> 00:06:59,960
+<font color="#FFFF51">Sprawdzam pewien pomysł.</font>
+
+101
+00:07:01,240 --> 00:07:04,240
+<font color="#FFFF51">Spróbuję przy pomocy wody</font>
+<font color="#FFFF51">stworzyć ogień.</font>
+
+102
+00:07:04,400 --> 00:07:08,440
+<font color="#FFFF51">Jeśli mam rację i żywioły</font>
+<font color="#FFFF51">nie są prawdziwe, uda się.</font>
+
+103
+00:07:08,600 --> 00:07:10,800
+<font color="#FFFF51">Jeśli się mylę, nie uda się,</font>
+
+104
+00:07:10,960 --> 00:07:15,840
+<font color="#FFFF51">bo żywioł wody nie może pomóc</font>
+<font color="#FFFF51">żywiołowi ognia, bo są przeciwne.</font>
+
+105
+00:07:16,000 --> 00:07:18,240
+Jakie żywioły?
+
+106
+00:07:18,400 --> 00:07:24,360
+<font color="#FFFF51">Woda, ogień, ziemia i powietrze,</font>
+<font color="#FFFF51">czy tam wiatr.</font>
+
+107
+00:07:24,520 --> 00:07:27,880
+<font color="#FFFF51">Nie słyszałeś o nich?</font>
+Skąd miałem słyszeć?
+
+108
+00:07:29,240 --> 00:07:33,920
+Czasami pada deszcz,
+czasami wieje, czasami susza.
+
+109
+00:07:35,400 --> 00:07:38,760
+Po ziemi dużo chodzę.
+Szanuję ziemię.
+
+110
+00:07:38,920 --> 00:07:42,320
+<font color="#FFFF51">Bardzo się cieszę, ja też szanuję.</font>
+
+111
+00:07:42,480 --> 00:07:44,680
+<font color="#FFFF51">Żywioły to stary pomysł ludzi.</font>
+
+112
+00:07:44,840 --> 00:07:49,000
+<font color="#FFFF51">Miał tłumaczyć,</font>
+<font color="#FFFF51">z czego jest wszystko zbudowane.</font>
+
+113
+00:07:49,160 --> 00:07:52,720
+Wszystko... wiadomo,
+że ze wszystkiego...
+
+114
+00:07:52,880 --> 00:07:56,760
+Z tych no... atomów i...
+
+115
+00:07:56,920 --> 00:07:58,680
+pierwiastków.
+
+116
+00:07:58,840 --> 00:08:01,480
+<font color="#FFFF51">Cieszę się, że już to rozumiesz.</font>
+
+117
+00:08:01,640 --> 00:08:04,800
+<font color="#FFFF51">Dawniej ludzie</font>
+<font color="#FFFF51">nie mieli takiej wiedzy.</font>
+
+118
+00:08:04,960 --> 00:08:07,520
+<font color="#FFFF51">Patrz i słuchaj. Możesz pytać.</font>
+
+119
+00:08:07,680 --> 00:08:09,760
+<font color="#FFFF51">Gotujemy wodę.</font>
+
+120
+00:08:09,920 --> 00:08:13,440
+<font color="#FFFF51">Ta zamienia się w gorącą parę</font>
+<font color="#FFFF51">i leci do góry.</font>
+
+121
+00:08:13,600 --> 00:08:18,680
+<font color="#FFFF51">Leci mosiężną rurką, a my będziemy</font>
+<font color="#FFFF51">ją jeszcze podgrzewać.</font>
+
+122
+00:08:18,840 --> 00:08:23,200
+<font color="#FFFF51">Za chwilę w tej rurce</font>
+<font color="#FFFF51">będzie bardzo gorąca para wodna.</font>
+
+123
+00:08:23,360 --> 00:08:25,840
+<font color="#FFFF51">Jak gorąca? Zaraz zobaczysz.</font>
+
+124
+00:08:26,000 --> 00:08:27,800
+<font color="#FFFF51">Trzymaj.</font>
+
+125
+00:08:28,680 --> 00:08:30,560
+<font color="#FFFF51">Nagrzewaj tę rurkę.</font>
+
+126
+00:08:32,960 --> 00:08:34,840
+Syczy jak smok.
+
+127
+00:08:40,240 --> 00:08:42,120
+<font color="#FFFF51">I co o tym myślisz?</font>
+
+128
+00:08:45,600 --> 00:08:47,400
+Nie rozumiem tego.
+
+129
+00:08:48,400 --> 00:08:50,520
+Jak to wytłumaczyć?
+
+130
+00:08:50,680 --> 00:08:56,120
+<font color="#FFFF51">Dawniej ludzie myśleli, że wszystko</font>
+<font color="#FFFF51">składa się z czterech żywiołów:</font>
+
+131
+00:08:56,280 --> 00:08:58,840
+<font color="#FFFF51">wody, ognia, ziemi i powietrza.</font>
+
+132
+00:08:59,000 --> 00:09:03,080
+<font color="#FFFF51">Żywioły mogły się nawzajem</font>
+<font color="#FFFF51">wzmacniać lub osłabiać.</font>
+
+133
+00:09:03,240 --> 00:09:05,560
+<font color="#FFFF51">Na przykład woda gasi ogień.</font>
+
+134
+00:09:05,720 --> 00:09:10,240
+<font color="#FFFF51">W tym eksperymencie</font>
+<font color="#FFFF51">przy pomocy wody zrobiliśmy ogień.</font>
+
+135
+00:09:10,400 --> 00:09:15,120
+<font color="#FFFF51">Żywioły nie są więc poprawnym</font>
+<font color="#FFFF51">sposobem rozumienia świata.</font>
+
+136
+00:09:15,280 --> 00:09:19,000
+<font color="#FFFF51">Bo wiemy, że ogień</font>
+<font color="#FFFF51">to efekt reakcji chemicznej,</font>
+
+137
+00:09:19,160 --> 00:09:22,120
+<font color="#FFFF51">a nie magiczny</font>
+<font color="#FFFF51">składnik wszechświata.</font>
+
+138
+00:09:33,320 --> 00:09:35,120
+<font color="aqua">Malina! Halo!</font>
+
+139
+00:09:38,440 --> 00:09:40,240
+<font color="aqua">To ja!</font>
+
+140
+00:09:41,160 --> 00:09:43,040
+<font color="aqua">Mirmił!</font>
+
+141
+00:09:43,200 --> 00:09:47,480
+<font color="aqua">Inaczej DJ Kwadrat.</font>
+
+142
+00:09:50,360 --> 00:09:52,200
+<font color="aqua">Halo!</font>
+
+143
+00:09:52,360 --> 00:09:55,840
+<font color="aqua">Malina, cudowna dziewczyna.</font>
+<font color="aqua">Kto ją widział?</font>
+
+144
+00:09:56,000 --> 00:09:57,800
+<font color="aqua">Halo! Odezwij się!</font>
+
+145
+00:10:08,880 --> 00:10:12,680
+<font color="aqua">I tak nikt nie zauważy,</font>
+<font color="aqua">że mnie tu nie ma.</font>
+
+146
+00:10:16,920 --> 00:10:19,800
+<font color="#8080FF">STĘKA</font>
+
+147
+00:10:33,120 --> 00:10:35,600
+Co to za miejsce?
+
+148
+00:10:38,080 --> 00:10:40,200
+Halo!
+
+149
+00:10:40,360 --> 00:10:42,480
+Jest tu kto?
+
+150
+00:10:44,480 --> 00:10:46,280
+Halo!
+
+151
+00:10:48,400 --> 00:10:51,000
+Ale piękne.
+
+152
+00:10:53,800 --> 00:10:57,840
+Nigdy czegoś takiego nie widziałem.
+
+153
+00:10:59,520 --> 00:11:01,320
+Halo!
+
+154
+00:11:01,480 --> 00:11:03,280
+ECHO: Halo!
+
+155
+00:11:05,160 --> 00:11:07,040
+Halo!
+<font color="#8080FF">ECHO</font>
+
+156
+00:11:09,720 --> 00:11:12,920
+Halo, Malina, jesteś tam?
+
+157
+00:11:13,080 --> 00:11:14,840
+ECHO: Tam... tam.
+
+158
+00:11:15,680 --> 00:11:18,320
+Malino!
+
+159
+00:11:18,480 --> 00:11:20,280
+Malino...
+
+160
+00:11:20,440 --> 00:11:22,240
+<font color="#8080FF">KRZYK BARTŁOMIEJA</font>
+
+161
+00:11:26,320 --> 00:11:28,640
+<font color="#FFFF51">Odłożyłbyś na półkę?</font>
+
+162
+00:11:32,760 --> 00:11:34,720
+<font color="#8080FF">PUKANIE W WIEKO SKRZYNI</font>
+
+163
+00:11:34,880 --> 00:11:36,680
+<font color="#FFFF51">Chyba mamy gościa.</font>
+
+164
+00:11:38,040 --> 00:11:39,880
+To Wanda!
+
+165
+00:11:40,040 --> 00:11:43,480
+- I jak?
+- Widziałam, jak jej szukali.
+
+166
+00:11:43,640 --> 00:11:45,840
+<font color="#FFFF51">Kogo szukali?</font>
+
+167
+00:11:46,000 --> 00:11:49,840
+Tej smarkuli Maliny.
+<font color="#FFFF51">Nieładnie tak mówić.</font>
+
+168
+00:11:50,000 --> 00:11:53,360
+- Nie przejmuj się.
+- Nie przejmuj się.
+
+169
+00:11:53,520 --> 00:11:55,280
+My wiemy, kim ona jest.
+
+170
+00:11:55,440 --> 00:11:57,320
+<font color="#FFFF51">Kim jest Malina?</font>
+
+171
+00:11:57,480 --> 00:11:59,840
+Nie chcesz tego wiedzieć.
+
+172
+00:12:00,000 --> 00:12:02,320
+Oj, nie chcesz wiedzieć.
+
+173
+00:12:02,480 --> 00:12:04,960
+<font color="#FFFF51">Już powiedzcie kto, kogo, jak.</font>
+
+174
+00:12:06,520 --> 00:12:09,280
+Kto? No to...
+
+175
+00:12:10,680 --> 00:12:12,840
+Mirmił i Bartłomiej.
+
+176
+00:12:13,000 --> 00:12:14,760
+A kogo? No...
+
+177
+00:12:15,560 --> 00:12:18,360
+Maliny, no. Szukają Maliny.
+
+178
+00:12:18,520 --> 00:12:21,520
+No a jak? Ja nie wiem jak.
+
+179
+00:12:21,680 --> 00:12:24,920
+Ale ja wiem, że znam Malinę.
+
+180
+00:12:25,080 --> 00:12:30,200
+<font color="#FFFF51">To bardzo dobrze. Możesz jej pomóc</font>
+<font color="#FFFF51">sobie przypomnieć, kim jest.</font>
+
+181
+00:12:30,360 --> 00:12:33,520
+<font color="#FFFF51">Twierdzi, że zapomniała,</font>
+<font color="#FFFF51">skąd pochodzi.</font>
+
+182
+00:12:33,680 --> 00:12:36,400
+Ona dobrze wie, skąd jest.
+
+183
+00:12:36,560 --> 00:12:40,720
+A my dobrze wiemy, kim jest.
+
+184
+00:12:40,880 --> 00:12:42,640
+<font color="#FFFF51">Kim jest Malina?</font>
+
+185
+00:12:44,400 --> 00:12:46,520
+Malina jest szpiegiem.
+
+186
+00:12:46,680 --> 00:12:48,440
+<font color="#FFFF51">Szpiegiem?</font>
+
+187
+00:12:49,720 --> 00:12:51,600
+<font color="#FFFF51">Czyim szpiegiem?</font>
+
+188
+00:12:51,760 --> 00:12:54,880
+Profesora Stożka.
+
+189
+00:12:55,040 --> 00:12:56,840
+<font color="#FFFF51">Profesora Stożka?</font>
+
+190
+00:13:05,840 --> 00:13:09,480
+Najwyższa Ekscelencjo, profesorze,
+jestem już.
+
+191
+00:13:11,520 --> 00:13:14,240
+Udało ci się zjednać królową?
+
+192
+00:13:14,400 --> 00:13:16,160
+Tak jest.
+
+193
+00:13:16,320 --> 00:13:18,760
+Królowa jest dla mnie miła.
+
+194
+00:13:18,920 --> 00:13:21,400
+Zaprosiła mnie na swój zamek.
+
+195
+00:13:21,560 --> 00:13:23,840
+Bardzo dobrze.
+
+196
+00:13:24,000 --> 00:13:29,680
+Zapłacą mi za to, że alchemik
+dowiedział się o studni prawdy.
+
+197
+00:13:30,560 --> 00:13:33,680
+Tak jest. Zapłacą za tę zniewagę.
+
+198
+00:13:36,080 --> 00:13:37,880
+Halo! Jest tam kto?
+
+199
+00:13:39,960 --> 00:13:42,080
+Halo!
+
+200
+00:13:42,240 --> 00:13:44,080
+Jest tu kto?
+
+201
+00:13:45,600 --> 00:13:47,480
+Malina!
+
+202
+00:13:49,000 --> 00:13:51,000
+Kto to jest?
+
+203
+00:13:52,360 --> 00:13:56,280
+Przepraszam, bo...
+chyba pomyliłem korytarze.
+
+204
+00:13:56,440 --> 00:13:58,120
+Brać go!
+
+205
+00:14:13,240 --> 00:14:15,960
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+206
+00:14:16,120 --> 00:14:20,400
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+207
+00:14:25,040 --> 00:14:26,840
+
+

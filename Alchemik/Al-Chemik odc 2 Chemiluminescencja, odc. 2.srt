@@ -1,0 +1,944 @@
+1
+00:00:02,400 --> 00:00:07,400
+<font color="#FFFF51">Wiele rzeczy może się przydać,</font>
+<font color="#FFFF51">gdy człowiek jest w potrzebie.</font>
+
+2
+00:00:07,560 --> 00:00:09,840
+<font color="#FFFF51">Z tego, co miałem w plecaku,</font>
+
+3
+00:00:10,000 --> 00:00:13,120
+<font color="#FFFF51">mogłem przygotować</font>
+<font color="#FFFF51">własne laboratorium.</font>
+
+4
+00:00:13,280 --> 00:00:16,160
+<font color="#FFFF51">Oczywiście nie róbcie tego w domu.</font>
+
+5
+00:00:16,320 --> 00:00:18,440
+<font color="#8080FF">PUKANIE</font>
+<font color="#FFFF51">Proszę.</font>
+
+6
+00:00:20,640 --> 00:00:26,440
+Mości alchemiku, królowa Kalina
+wzywa cię przed swoje oblicze.
+
+7
+00:00:28,200 --> 00:00:30,080
+PIOSENKA:
+
+8
+00:00:30,240 --> 00:00:34,200
+Zobaczyłem go przypadkiem,
+kiedy byłem w lesie.
+
+9
+00:00:34,360 --> 00:00:37,680
+Takiego trudno znaleźć
+na mojej planecie.
+
+10
+00:00:37,840 --> 00:00:40,480
+Zauważył mnie pod drzewem,
+musiałem uciekać.
+
+11
+00:00:40,640 --> 00:00:43,320
+Szybko pobiegł za mną,
+nie mogłem czekać.
+
+12
+00:00:43,480 --> 00:00:45,680
+Pokazali go w pałacu,
+kara go nie ominie.
+
+13
+00:00:45,840 --> 00:00:48,640
+Nagle wyczarował ognie
+królowej Kalinie.
+
+14
+00:00:48,800 --> 00:00:51,480
+Nie był on oszustem,
+nie był czarownikiem.
+
+15
+00:00:51,640 --> 00:00:54,520
+Miał na imię Al i jest alchemikiem.
+
+16
+00:00:59,720 --> 00:01:01,800
+<font color="#16F158">Teraz wygląda pan zacnie.</font>
+
+17
+00:01:01,960 --> 00:01:04,200
+<font color="#16F158">Jak na alchemika przystało.</font>
+
+18
+00:01:04,360 --> 00:01:08,440
+<font color="#FFFF51">Dziękuję. W moim wymiarze</font>
+<font color="#FFFF51">raczej by mnie wyśmiali.</font>
+
+19
+00:01:08,600 --> 00:01:12,000
+<font color="#FFFF51">Ale tutaj wydaje się być</font>
+<font color="#FFFF51">całkiem, całkiem.</font>
+
+20
+00:01:12,160 --> 00:01:16,960
+<font color="#16F158">Podobno zadomowił się pan</font>
+<font color="#16F158">w komnacie Henryka Złotego Gagatka.</font>
+
+21
+00:01:17,120 --> 00:01:20,120
+<font color="#16F158">Czy potrzebuje pan jeszcze czegoś?</font>
+
+22
+00:01:20,280 --> 00:01:23,520
+<font color="#FFFF51">Wszystko jest</font>
+<font color="#FFFF51">w jak najlepszym porządku.</font>
+
+23
+00:01:23,680 --> 00:01:27,320
+<font color="#FFFF51">A czy mógłbym zobaczyć</font>
+<font color="#FFFF51">tajemnicze przejście,</font>
+
+24
+00:01:27,480 --> 00:01:31,040
+<font color="#FFFF51">którym się dostałem</font>
+<font color="#FFFF51">do waszego królestwa?</font>
+
+25
+00:01:33,360 --> 00:01:35,680
+<font color="#16F158">Tajemnicze przejście...</font>
+
+26
+00:01:35,840 --> 00:01:38,720
+<font color="#16F158">jest teraz bardzo pilnie strzeżone.</font>
+
+27
+00:01:38,880 --> 00:01:43,400
+<font color="#16F158">na wypadek nieproszonych gości</font>
+<font color="#16F158">z innych wymiarów.</font>
+
+28
+00:01:43,560 --> 00:01:45,360
+<font color="#16F158">Prawda, Bartłomieju?</font>
+
+29
+00:01:45,520 --> 00:01:47,520
+<font color="aqua">Tak, najjaśniejsza pani.</font>
+
+30
+00:01:47,680 --> 00:01:49,480
+<font color="aqua">To prawda szczera.</font>
+
+31
+00:01:50,360 --> 00:01:55,880
+<font color="#16F158">Proszę dać nam czas, a obiecuję,</font>
+<font color="#16F158">że wszystko panu pokażemy.</font>
+
+32
+00:01:56,040 --> 00:02:00,760
+<font color="#16F158">Jestem ciekawa, jak to wygląda</font>
+<font color="#16F158">u was w przyszłości.</font>
+
+33
+00:02:00,920 --> 00:02:05,560
+<font color="#16F158">Nie potrafię sobie tego wyobrazić.</font>
+<font color="#FFFF51">U nas w przyszłości...</font>
+
+34
+00:02:07,640 --> 00:02:11,440
+<font color="#FFFF51">Konie zostały zastąpione</font>
+<font color="#FFFF51">przez samochody.</font>
+
+35
+00:02:11,600 --> 00:02:15,320
+<font color="#FFFF51">Latamy też jak ptaki samolotami.</font>
+<font color="#FFFF51">Są drony.</font>
+
+36
+00:02:15,480 --> 00:02:20,240
+<font color="#FFFF51">Mamy też komputery, smartfony,</font>
+<font color="#FFFF51">Internet, żarówki.</font>
+
+37
+00:02:20,400 --> 00:02:24,520
+<font color="#FFFF51">I masę innych rzeczy,</font>
+<font color="#FFFF51">które stworzył człowiek.</font>
+
+38
+00:02:24,680 --> 00:02:26,480
+<font color="#16F158">Rozumiem...</font>
+
+39
+00:02:26,640 --> 00:02:29,320
+<font color="#16F158">To znaczy nie rozumiem.</font>
+
+40
+00:02:31,200 --> 00:02:33,040
+<font color="#FFFF51">Na przykład światło.</font>
+
+41
+00:02:33,200 --> 00:02:35,520
+<font color="#FFFF51">Już nie musimy używać świec.</font>
+
+42
+00:02:35,680 --> 00:02:37,840
+<font color="#FFFF51">Proszę zobaczyć.</font>
+
+43
+00:02:39,840 --> 00:02:41,360
+<font color="aqua">O!</font>
+
+44
+00:02:41,520 --> 00:02:43,360
+<font color="#16F158">Niewiarygodne!</font>
+
+45
+00:02:43,520 --> 00:02:46,520
+<font color="#16F158">Trudno uwierzyć, że to nie czary.</font>
+
+46
+00:02:46,680 --> 00:02:49,280
+<font color="#FFFF51">W żadnym wypadku, to nie czary.</font>
+
+47
+00:02:49,440 --> 00:02:54,280
+<font color="#FFFF51">To jest reakcja chemiczna,</font>
+<font color="#FFFF51">która się nazywa luminescencja.</font>
+
+48
+00:02:54,440 --> 00:02:56,280
+<font color="#FFFF51">Zimne świecenie.</font>
+
+49
+00:02:56,440 --> 00:02:59,520
+<font color="#FFFF51">Dokładniej to jest</font>
+<font color="#FFFF51">chemiluminescencja.</font>
+
+50
+00:02:59,680 --> 00:03:04,840
+<font color="#FFFF51">Ale to jest dość trudne słowo,</font>
+<font color="#FFFF51">więc można je sobie podzielić.</font>
+
+51
+00:03:05,000 --> 00:03:06,760
+<font color="#FFFF51">Chemi-luminescencja.</font>
+
+52
+00:03:06,920 --> 00:03:10,000
+<font color="#FFFF51">Albo chemi-lumi-nescencja.</font>
+
+53
+00:03:10,160 --> 00:03:12,400
+<font color="#FFFF51">Może spróbujecie powtórzyć?</font>
+
+54
+00:03:12,560 --> 00:03:15,440
+RAZEM: Chemi-luminescencja.
+
+55
+00:03:15,600 --> 00:03:18,360
+<font color="#FFFF51">Nazwa nie jest aż tak ważna.</font>
+
+56
+00:03:18,520 --> 00:03:23,000
+<font color="#FFFF51">Ważne jest to, że ludzie</font>
+<font color="#FFFF51">nauczyli się tego od przyrody.</font>
+
+57
+00:03:23,160 --> 00:03:26,880
+<font color="#FFFF51">Świetliki tak świecą,</font>
+<font color="#FFFF51">są takie meduzy, grzyby.</font>
+
+58
+00:03:27,040 --> 00:03:31,520
+<font color="#FFFF51">Jest też świecący plankton,</font>
+<font color="#FFFF51">takie małe wodne żyjątka.</font>
+
+59
+00:03:31,680 --> 00:03:36,840
+<font color="#FFFF51">Ale wtedy to się inaczej nazywa,</font>
+<font color="#FFFF51">nazywamy to bioluminescencją.</font>
+
+60
+00:03:37,000 --> 00:03:39,240
+<font color="#FFFF51">Bio - bo robi to coś żywego.</font>
+
+61
+00:03:39,400 --> 00:03:41,560
+<font color="#FFFF51">Kiedy chemik, taki jak ja,</font>
+
+62
+00:03:41,720 --> 00:03:45,080
+<font color="#FFFF51">przygotuje reakcję chemiczną,</font>
+<font color="#FFFF51">która świeci,</font>
+
+63
+00:03:45,240 --> 00:03:47,920
+<font color="#FFFF51">nazywamy to chemiluminescencją.</font>
+
+64
+00:03:49,360 --> 00:03:52,640
+<font color="#16F158">Chciałabym mieć salę</font>
+<font color="#16F158">w takich światłach.</font>
+
+65
+00:03:52,800 --> 00:03:57,400
+<font color="#16F158">Czy to możliwe?</font>
+<font color="#FFFF51">Wszystko, czego sobie życzysz.</font>
+
+66
+00:04:12,920 --> 00:04:14,760
+<font color="#FFFF51">Światło.</font>
+
+67
+00:04:15,560 --> 00:04:17,400
+<font color="#FFFF51">Czym jest światło?</font>
+
+68
+00:04:17,560 --> 00:04:23,360
+<font color="#FFFF51">To pytanie od setek,</font>
+<font color="#FFFF51">ba, tysięcy lat, trapiło ludzi.</font>
+
+69
+00:04:23,520 --> 00:04:26,240
+<font color="#FFFF51">Światła nie da się zatrzymać</font>
+
+70
+00:04:26,400 --> 00:04:28,200
+<font color="#FFFF51">ani złapać.</font>
+
+71
+00:04:28,360 --> 00:04:32,160
+<font color="#FFFF51">Ale czujemy światło słońca</font>
+<font color="#FFFF51">na naszych twarzach.</font>
+
+72
+00:04:32,320 --> 00:04:37,480
+<font color="#FFFF51">Kiedyś ludzie nie mieli źródeł</font>
+<font color="#FFFF51">światła i bali się ciemności.</font>
+
+73
+00:04:37,640 --> 00:04:42,360
+<font color="#FFFF51">Wszystkie świecące fenomeny,</font>
+<font color="#FFFF51">takie jak pioruny, burze, ogień</font>
+
+74
+00:04:42,520 --> 00:04:45,840
+<font color="#FFFF51">czy świecące latające owady</font>
+<font color="#FFFF51">jak świetliki,</font>
+
+75
+00:04:46,000 --> 00:04:48,400
+<font color="#FFFF51">zastanawiały i ciekawiły ludzi.</font>
+
+76
+00:04:49,920 --> 00:04:52,920
+<font color="#FFFF51">Wydawały się czymś</font>
+<font color="#FFFF51">nie z tego świata.</font>
+
+77
+00:04:53,080 --> 00:04:54,840
+<font color="#FFFF51">Czymś magicznym.</font>
+
+78
+00:04:55,000 --> 00:04:58,440
+<font color="#FFFF51">Dziś już sami potrafimy</font>
+<font color="#FFFF51">wytwarzać światło.</font>
+
+79
+00:04:58,600 --> 00:05:03,480
+<font color="#FFFF51">I wcale nie musi być takie gorące</font>
+<font color="#FFFF51">jak ogień czy żarówka.</font>
+
+80
+00:05:03,640 --> 00:05:06,040
+<font color="#FFFF51">Tak właśnie świecą świetliki.</font>
+
+81
+00:05:06,200 --> 00:05:09,800
+<font color="#FFFF51">I tak zrobimy światło my.</font>
+
+82
+00:05:22,800 --> 00:05:25,160
+<font color="#8080FF">ŚMIEJĄ SIĘ</font>
+
+83
+00:05:25,320 --> 00:05:27,160
+I co ty o tym myślisz?
+
+84
+00:05:27,320 --> 00:05:29,280
+<font color="aqua">Nie wiem.</font>
+
+85
+00:05:29,440 --> 00:05:32,840
+<font color="aqua">Świeci samo z siebie.</font>
+Nie o tym mówię.
+
+86
+00:05:33,000 --> 00:05:35,040
+Kto to jest ten chemia?
+
+87
+00:05:35,200 --> 00:05:38,760
+Kto to jest?
+<font color="aqua">Skąd ja mam wiedzieć?</font>
+
+88
+00:05:38,920 --> 00:05:40,720
+<font color="aqua">Może to...</font>
+
+89
+00:05:43,360 --> 00:05:46,200
+<font color="aqua">Może to jakiś troll?</font>
+
+90
+00:05:46,880 --> 00:05:48,680
+Jak to?
+
+91
+00:05:48,840 --> 00:05:52,960
+<font color="aqua">Jak mówi, że nie jest magikiem,</font>
+<font color="aqua">a to nie są czary</font>
+
+92
+00:05:53,120 --> 00:05:55,000
+<font color="aqua">ani sztuczki,</font>
+
+93
+00:05:55,160 --> 00:05:58,600
+<font color="aqua">to może jakiś troll go wspiera.</font>
+
+94
+00:05:58,760 --> 00:06:00,520
+<font color="aqua">Tyle ich tutaj jest.</font>
+
+95
+00:06:00,680 --> 00:06:04,200
+<font color="aqua">Może dał mu to taki,</font>
+<font color="aqua">co opiekuje się światłem,</font>
+
+96
+00:06:04,360 --> 00:06:06,360
+<font color="aqua">żeby nas nastraszyć.</font>
+
+97
+00:06:06,520 --> 00:06:08,320
+Nastraszyć?
+
+98
+00:06:08,480 --> 00:06:10,920
+Co ty gadasz?
+
+99
+00:06:11,080 --> 00:06:12,880
+Wchodzę.
+
+100
+00:06:13,680 --> 00:06:16,080
+Zapytam go.
+<font color="aqua">Czekaj.</font>
+
+101
+00:06:16,240 --> 00:06:19,000
+<font color="aqua">A jak cię zamieni w ropuchę?</font>
+
+102
+00:06:19,160 --> 00:06:20,960
+<font color="aqua">Albo w żabę?</font>
+
+103
+00:06:21,120 --> 00:06:23,240
+<font color="aqua">Będziesz kicał jak ropucha?</font>
+
+104
+00:06:23,400 --> 00:06:28,240
+<font color="aqua">Tak samo jak czarownica zamieniła</font>
+<font color="aqua">Henryka Złotego Gagatka.</font>
+
+105
+00:06:31,560 --> 00:06:33,840
+Idę.
+
+106
+00:06:36,480 --> 00:06:40,480
+<font color="#FFFF51">Witaj, Bartłomieju.</font>
+<font color="#FFFF51">W czym mogę ci pomóc?</font>
+
+107
+00:06:42,040 --> 00:06:43,840
+Ja chciałem...
+
+108
+00:06:44,000 --> 00:06:45,800
+<font color="#FFFF51">Spokojnie.</font>
+
+109
+00:06:46,720 --> 00:06:48,560
+Chciałem zapytać...
+
+110
+00:06:50,200 --> 00:06:52,000
+Kim jest ten chemia?
+
+111
+00:06:52,160 --> 00:06:53,840
+Kto to jest?
+
+112
+00:06:54,000 --> 00:06:56,200
+<font color="#FFFF51">Jak to ten chemia?</font>
+
+113
+00:06:56,360 --> 00:07:00,720
+Mirmił powiedział,
+że to jakiś troll.
+
+114
+00:07:00,880 --> 00:07:02,680
+<font color="#8080FF">ŚMIECH ALCHEMIKA</font>
+
+115
+00:07:17,840 --> 00:07:19,680
+<font color="#16F158">Mirmile?</font>
+
+116
+00:07:25,680 --> 00:07:28,320
+<font color="aqua">Tak jest, Wasza Wysokość!</font>
+
+117
+00:07:28,480 --> 00:07:31,040
+<font color="#16F158">Co tu robisz? Gdzie Bartłomiej?</font>
+
+118
+00:07:33,000 --> 00:07:34,840
+<font color="aqua">U alchemika.</font>
+
+119
+00:07:35,920 --> 00:07:37,720
+<font color="#16F158">Daj popatrzeć.</font>
+
+120
+00:07:42,360 --> 00:07:44,240
+<font color="#FFFF51">Nie, Bartłomieju.</font>
+
+121
+00:07:44,400 --> 00:07:48,480
+<font color="#FFFF51">Chemia to wszystko, co nas otacza.</font>
+<font color="#FFFF51">Nawet my.</font>
+
+122
+00:07:48,640 --> 00:07:52,360
+<font color="#FFFF51">Chemia to wszystko,</font>
+<font color="#FFFF51">czego nie możesz zobaczyć.</font>
+
+123
+00:07:52,520 --> 00:07:54,800
+Jest niewidzialna.
+
+124
+00:07:54,960 --> 00:07:58,280
+<font color="#FFFF51">Nie muszę widzieć cząsteczek wody,</font>
+
+125
+00:07:58,440 --> 00:08:01,520
+<font color="#FFFF51">żeby wiedzieć,</font>
+<font color="#FFFF51">z czego jest zbudowana.</font>
+
+126
+00:08:01,680 --> 00:08:05,080
+<font color="#FFFF51">Nie muszę widzieć</font>
+<font color="#FFFF51">atomów wodoru i tlenu,</font>
+
+127
+00:08:05,240 --> 00:08:08,080
+<font color="#FFFF51">z których woda jest złożona,</font>
+
+128
+00:08:08,240 --> 00:08:11,320
+<font color="#FFFF51">żeby wiedzieć, jak woda działa.</font>
+
+129
+00:08:11,480 --> 00:08:15,040
+<font color="#FFFF51">Więc gdybyś wziął teraz</font>
+<font color="#FFFF51">bardzo dużo kamieni,</font>
+
+130
+00:08:15,200 --> 00:08:18,080
+<font color="#FFFF51">wysypał je wszystkie na jedną kupę,</font>
+
+131
+00:08:18,240 --> 00:08:21,360
+<font color="#FFFF51">to one nie stworzą zamku, nie?</font>
+
+132
+00:08:21,520 --> 00:08:26,240
+<font color="#FFFF51">Trzeba te kamienie poukładać</font>
+<font color="#FFFF51">w odpowiedniej kolejności</font>
+
+133
+00:08:26,400 --> 00:08:29,000
+<font color="#FFFF51">i połączyć je zaprawą murarską.</font>
+
+134
+00:08:29,160 --> 00:08:34,480
+<font color="#FFFF51">To są właśnie wiązania</font>
+<font color="#FFFF51">między atomami i cząsteczkami.</font>
+
+135
+00:08:34,640 --> 00:08:37,440
+<font color="#FFFF51">Tak jak masz</font>
+<font color="#FFFF51">różne odmiany kamieni,</font>
+
+136
+00:08:37,600 --> 00:08:40,600
+<font color="#FFFF51">tak możesz mieć</font>
+<font color="#FFFF51">różne odmiany atomów.</font>
+
+137
+00:08:40,760 --> 00:08:46,360
+<font color="#FFFF51">My dziś zajmiemy się specjalnymi</font>
+<font color="#FFFF51">odmianami atomów i cząsteczek.</font>
+
+138
+00:08:46,520 --> 00:08:48,320
+<font color="#FFFF51">Są takie kamienie,</font>
+
+139
+00:08:48,480 --> 00:08:52,800
+<font color="#FFFF51">które tworzą dużo iskier,</font>
+<font color="#FFFF51">gdy się je uderza o siebie.</font>
+
+140
+00:08:52,960 --> 00:08:54,760
+To są krzewienie.
+
+141
+00:08:54,920 --> 00:08:57,560
+<font color="#FFFF51">Prawie dobrze. To są krzemienie.</font>
+
+142
+00:08:57,720 --> 00:09:02,080
+<font color="#FFFF51">W reakcji użyjemy właśnie</font>
+<font color="#FFFF51">takich atomów i cząsteczek,</font>
+
+143
+00:09:02,240 --> 00:09:07,600
+<font color="#FFFF51">które uderzając o siebie nawzajem,</font>
+<font color="#FFFF51">może nie będą tworzyć iskier,</font>
+
+144
+00:09:07,760 --> 00:09:10,520
+<font color="#FFFF51">ale będą tworzyły dużo światła.</font>
+
+145
+00:09:10,680 --> 00:09:14,920
+<font color="#FFFF51">Tak jak robią to świetliki.</font>
+<font color="#FFFF51">Spróbujemy to powtórzyć.</font>
+
+146
+00:09:15,080 --> 00:09:17,560
+<font color="#FFFF51">Mam dla ciebie zadanie.</font>
+
+147
+00:09:17,720 --> 00:09:22,600
+<font color="#FFFF51">Znajdź dla mnie kolbę okrągłodenną.</font>
+<font color="#FFFF51">Przynajmniej dwulitrową.</font>
+
+148
+00:09:22,760 --> 00:09:24,760
+<font color="#FFFF51">Chyba jest w tym kufrze.</font>
+
+149
+00:09:24,920 --> 00:09:26,720
+<font color="#FFFF51">Znajdź ją, proszę.</font>
+
+150
+00:09:26,880 --> 00:09:29,080
+A co to właściwie jest...
+
+151
+00:09:29,240 --> 00:09:31,520
+<font color="#FFFF51">Kolba okrągłodenna?</font>
+
+152
+00:09:32,360 --> 00:09:36,440
+<font color="#FFFF51">Może będzie prościej,</font>
+<font color="#FFFF51">jak ci ją narysuję.</font>
+
+153
+00:09:36,600 --> 00:09:38,680
+<font color="#FFFF51">Żeby ci się to utrwaliło.</font>
+
+154
+00:09:42,920 --> 00:09:44,720
+<font color="#FFFF51">W sumie...</font>
+
+155
+00:09:46,080 --> 00:09:48,160
+<font color="#FFFF51">Nie mam tu takiej, ale...</font>
+
+156
+00:09:48,320 --> 00:09:51,400
+<font color="#FFFF51">Coś jak to,</font>
+<font color="#FFFF51">ale musi mieć okrągłe dno.</font>
+
+157
+00:09:51,560 --> 00:09:53,360
+<font color="#FFFF51">Świetnie. Dziękuję.</font>
+
+158
+00:09:57,960 --> 00:09:59,800
+<font color="#FFFF51">Mam dla was zagadkę.</font>
+
+159
+00:09:59,960 --> 00:10:02,520
+<font color="#FFFF51">Co najlepiej widać w ciemności?</font>
+
+160
+00:10:02,680 --> 00:10:05,040
+<font color="#FFFF51">No właśnie, światło.</font>
+
+161
+00:10:05,200 --> 00:10:07,800
+<font color="#FFFF51">To trochę tak, jak z latarką.</font>
+
+162
+00:10:07,960 --> 00:10:11,560
+<font color="#FFFF51">W słoneczny dzień</font>
+<font color="#FFFF51">latarka nie wydaje się mocna.</font>
+
+163
+00:10:11,720 --> 00:10:17,600
+<font color="#FFFF51">A jeśli weźmiemy tę samą latarkę</font>
+<font color="#FFFF51">i zaświecimy w ciemnej piwnicy,</font>
+
+164
+00:10:17,760 --> 00:10:19,560
+<font color="#FFFF51">może nas oślepić.</font>
+
+165
+00:10:19,720 --> 00:10:22,120
+<font color="#FFFF51">Bartłomieju, przestań szukać.</font>
+
+166
+00:10:22,280 --> 00:10:24,440
+<font color="#FFFF51">Chodź, zrobimy tę reakcję.</font>
+
+167
+00:10:24,600 --> 00:10:27,240
+Będzie świecić.
+<font color="#FFFF51">Mam nadzieję.</font>
+
+168
+00:10:27,400 --> 00:10:30,800
+<font color="#FFFF51">Potrzebujemy,</font>
+<font color="#FFFF51">jak wcześniej mówiłem...</font>
+
+169
+00:10:32,280 --> 00:10:34,960
+<font color="#16F158">Jak ci nie wstyd, drogi Mirmile.</font>
+
+170
+00:10:35,120 --> 00:10:37,200
+<font color="aqua">Drzwi się same otworzyły.</font>
+
+171
+00:10:37,360 --> 00:10:39,480
+<font color="#16F158">To niemożliwe.</font>
+
+172
+00:10:39,640 --> 00:10:43,880
+<font color="#16F158">Chcesz mi wmówić, że podsłuchiwałam</font>
+<font color="#16F158">naszego alchemika.</font>
+
+173
+00:10:44,040 --> 00:10:46,000
+<font color="aqua">To nieprawda.</font>
+
+174
+00:10:46,160 --> 00:10:50,960
+<font color="aqua">Najjaśniejsza pani przechodziła</font>
+<font color="aqua">i drzwi się same otworzyły.</font>
+
+175
+00:10:51,120 --> 00:10:53,280
+<font color="#FFFF51">Nie musicie mnie czarować.</font>
+
+176
+00:10:53,440 --> 00:10:58,040
+<font color="#FFFF51">Tutaj nie ma żadnych czarów</font>
+<font color="#FFFF51">ani sztuczek, nie ma trolli.</font>
+
+177
+00:10:58,200 --> 00:11:00,120
+<font color="#FFFF51">To jest czysta chemia.</font>
+
+178
+00:11:00,280 --> 00:11:02,160
+<font color="#FFFF51">Chodźcie zobaczyć sami.</font>
+
+179
+00:11:02,320 --> 00:11:04,760
+<font color="#FFFF51">Uczyliśmy się ze strażnikiem,</font>
+
+180
+00:11:04,920 --> 00:11:08,600
+<font color="#FFFF51">czym są atomy,</font>
+<font color="#FFFF51">cząsteczki, wiązania.</font>
+
+181
+00:11:08,760 --> 00:11:12,640
+<font color="#FFFF51">Takie cegły, z których</font>
+<font color="#FFFF51">zbudowany jest cały świat.</font>
+
+182
+00:11:12,800 --> 00:11:17,240
+<font color="#FFFF51">A to, co tutaj robimy,</font>
+<font color="#FFFF51">to reakcja chemiluminescencji.</font>
+
+183
+00:11:17,400 --> 00:11:19,640
+<font color="#FFFF51">Czyli tego zimnego światła.</font>
+
+184
+00:11:19,800 --> 00:11:21,600
+<font color="#FFFF51">Zimne świecenie.</font>
+
+185
+00:11:21,760 --> 00:11:27,280
+<font color="#FFFF51">Tak jak świecą meduzy, świetliki,</font>
+<font color="#FFFF51">niektóre grzyby, plankton.</font>
+
+186
+00:11:27,440 --> 00:11:30,000
+<font color="#FFFF51">Czas zrobić reakcję.</font>
+
+187
+00:11:30,160 --> 00:11:33,040
+<font color="#FFFF51">Popatrzcie,</font>
+<font color="#FFFF51">co tu się będzie działo.</font>
+
+188
+00:11:33,200 --> 00:11:35,080
+<font color="#FFFF51">Połączymy te dwa płyny.</font>
+
+189
+00:11:35,240 --> 00:11:40,480
+<font color="#FFFF51">One są wieloskładnikowe, nie będę</font>
+<font color="#FFFF51">dokładnie mówił, co zawierają.</font>
+
+190
+00:11:40,640 --> 00:11:42,960
+<font color="#FFFF51">Nalejemy najpierw jedną część.</font>
+
+191
+00:11:43,120 --> 00:11:45,440
+<font color="#FFFF51">Ten płyn daje nam energię.</font>
+
+192
+00:11:45,600 --> 00:11:47,680
+<font color="#FFFF51">Daje siłę naszej reakcji.</font>
+
+193
+00:11:47,840 --> 00:11:52,160
+<font color="#FFFF51">Ten sprawia, że będzie świeciła</font>
+<font color="#FFFF51">i miała piękny kolor.</font>
+
+194
+00:11:52,320 --> 00:11:55,880
+<font color="#FFFF51">Takie reakcje</font>
+<font color="#FFFF51">na początku nie są intensywne.</font>
+
+195
+00:11:56,040 --> 00:12:00,120
+<font color="#FFFF51">Czasem ktoś jest nieśmiały</font>
+<font color="#FFFF51">i z czasem się rozkręca.</font>
+
+196
+00:12:00,280 --> 00:12:03,000
+<font color="#FFFF51">My rozkręcimy tę reakcję</font>
+<font color="#FFFF51">ciepłą wodą.</font>
+
+197
+00:12:03,160 --> 00:12:07,320
+<font color="#FFFF51">Ciepła woda</font>
+<font color="#FFFF51">przyspieszy nam wszystko.</font>
+
+198
+00:12:07,480 --> 00:12:11,960
+<font color="#FFFF51">Powinna ułatwić</font>
+<font color="#FFFF51">dojrzenie tego pięknego efektu.</font>
+
+199
+00:12:12,120 --> 00:12:14,600
+<font color="#FFFF51">Zobaczcie, już działa.</font>
+
+200
+00:12:14,760 --> 00:12:17,320
+<font color="#FFFF51">Zaczyna świecić coraz bardziej.</font>
+
+201
+00:12:17,480 --> 00:12:19,280
+<font color="#FFFF51">Trochę tu jest jasno.</font>
+
+202
+00:12:19,440 --> 00:12:22,520
+<font color="#FFFF51">Zobaczcie</font>
+<font color="#FFFF51">w jakimś ciemnym miejscu.</font>
+
+203
+00:12:22,680 --> 00:12:25,840
+<font color="#FFFF51">Włożę to do skrzyni.</font>
+<font color="#FFFF51">Zerknijcie sami.</font>
+
+204
+00:12:26,000 --> 00:12:28,400
+<font color="#16F158">Faktycznie, daje światło.</font>
+
+205
+00:12:29,600 --> 00:12:32,160
+<font color="aqua">Ale świeci!</font>
+
+206
+00:12:32,320 --> 00:12:35,160
+<font color="#FFFF51">Mówiłem, musi chwilę</font>
+<font color="#FFFF51">się rozkręcić.</font>
+
+207
+00:12:35,320 --> 00:12:39,160
+<font color="#FFFF51">Tak świecą świetliki.</font>
+<font color="#FFFF51">To jest chemiluminescencja.</font>
+
+208
+00:12:39,320 --> 00:12:41,280
+<font color="#FFFF51">Zimne świecenie.</font>
+
+209
+00:12:41,440 --> 00:12:43,240
+<font color="#16F158">Ekstra.</font>
+
+210
+00:12:48,360 --> 00:12:50,720
+<font color="#16F158">Czuję się w pełni oświecona.</font>
+
+211
+00:13:16,200 --> 00:13:18,960
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+212
+00:13:19,120 --> 00:13:23,360
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+213
+00:13:27,560 --> 00:13:29,360
+
+

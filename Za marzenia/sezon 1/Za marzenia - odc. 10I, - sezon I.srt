@@ -1,0 +1,2728 @@
+1
+00:00:00,000 --> 00:00:01,800
+Kojarzę was.
+<font color="#FFFF51">To fajnie.</font>
+
+2
+00:00:01,960 --> 00:00:04,080
+Od najgorszej strony.
+
+3
+00:00:04,240 --> 00:00:07,560
+Spóźnienie wyklucza finalistę
+z konkursu.
+
+4
+00:00:07,720 --> 00:00:09,680
+Taki jest regulamin.
+
+5
+00:00:09,840 --> 00:00:11,920
+<font color="aqua">Można zrobić wyjątek.</font>
+Nie.
+
+6
+00:00:12,080 --> 00:00:14,480
+<font color="#16F158">Dlaczego do mnie zadzwoniłeś?</font>
+
+7
+00:00:14,640 --> 00:00:17,080
+Zgadnij.
+<font color="#16F158">No, nie wiem.</font>
+
+8
+00:00:21,640 --> 00:00:25,440
+<font color="#16F158">Co wyście tyle czasu</font>
+<font color="#16F158">robili w tym apartamencie?</font>
+
+9
+00:00:25,600 --> 00:00:27,400
+<font color="#FFFF51">Nic.</font>
+
+10
+00:00:30,840 --> 00:00:33,040
+PIOSENKA:
+
+11
+00:00:33,200 --> 00:00:36,760
+Moja miłość to siła,
+która kruszy lody na K2.
+
+12
+00:00:36,920 --> 00:00:42,960
+Jak elektrownia atomowa zasypiam
+nad ranem, bo ładuję świat.
+
+13
+00:00:43,120 --> 00:00:47,560
+Z moich marzeń
+można zbudować chiński mur.
+
+14
+00:00:47,720 --> 00:00:51,160
+Tymczasem wybrałam Central Europe.
+
+15
+00:00:51,320 --> 00:00:54,320
+Miasto Warszawa,
+mój mały wszechświat.
+
+16
+00:00:56,520 --> 00:00:59,760
+Ukochaj mnie, miasto,
+ukochaj mnie czule.
+
+17
+00:00:59,920 --> 00:01:02,800
+Daj długie noce, słońce w purpurze.
+
+18
+00:01:02,960 --> 00:01:05,160
+Za marzenia! Za marzenia!
+
+19
+00:01:05,320 --> 00:01:08,800
+Ukochaj mnie, miasto,
+ukochaj mnie czule!
+
+20
+00:01:08,960 --> 00:01:12,040
+Daj długie noce, słońce w purpurze.
+
+21
+00:01:12,200 --> 00:01:15,760
+Za marzenia! Za marzenia!
+
+22
+00:01:29,120 --> 00:01:31,280
+<font color="#FFFF51">Jak mogłeś na to pozwolić?</font>
+
+23
+00:01:31,440 --> 00:01:33,240
+<font color="aqua">Ja? A gdzie ty byłaś?</font>
+
+24
+00:01:33,400 --> 00:01:35,880
+<font color="#FFFF51">Czasami mam ochotę ci...</font>
+<font color="aqua">No co?</font>
+
+25
+00:01:36,040 --> 00:01:38,200
+<font color="#FFFF51">Może go porwali?</font>
+<font color="aqua">Porwali...</font>
+
+26
+00:01:38,360 --> 00:01:40,160
+<font color="#FFFF51">Rasowy jest przecież.</font>
+
+27
+00:01:40,320 --> 00:01:42,120
+<font color="#FFFF51">Niuniuś? Halo!</font>
+
+28
+00:01:45,960 --> 00:01:47,760
+<font color="#16F158">Co robicie?</font>
+
+29
+00:01:48,720 --> 00:01:50,520
+<font color="aqua">Niuniek zniknął.</font>
+
+30
+00:01:51,160 --> 00:01:52,960
+<font color="#FFFF51">Albo go zgubiliśmy.</font>
+
+31
+00:01:54,160 --> 00:01:55,960
+<font color="#16F158">Co żeście zrobili?</font>
+
+32
+00:02:03,560 --> 00:02:06,480
+<font color="aqua">Niuniek, idziemy biegać?</font>
+
+33
+00:02:06,640 --> 00:02:08,440
+<font color="aqua">Tak?</font>
+
+34
+00:02:08,600 --> 00:02:10,400
+<font color="aqua">Chodź, idziemy.</font>
+
+35
+00:02:10,560 --> 00:02:13,640
+<font color="#16F158">Bartek, coś się stało?</font>
+<font color="#16F158">Chcesz pogadać?</font>
+
+36
+00:02:13,800 --> 00:02:15,600
+<font color="aqua">Nie. A o czym?</font>
+
+37
+00:02:15,760 --> 00:02:17,560
+<font color="#16F158">Idziesz biegać.</font>
+
+38
+00:02:17,880 --> 00:02:21,200
+<font color="#8080FF">NIUNIEK WARCZY</font>
+<font color="#16F158">Widzisz? Coś jest nie tak.</font>
+
+39
+00:02:21,360 --> 00:02:25,240
+<font color="#16F158">Ostatnio biegałeś,</font>
+<font color="#16F158">jak wyrzucili cię ze studiów.</font>
+
+40
+00:02:25,400 --> 00:02:28,600
+<font color="aqua">No. Tym razem</font>
+<font color="aqua">wyrzucili mnie z roboty.</font>
+
+41
+00:02:28,760 --> 00:02:30,560
+<font color="#16F158">I tak się przejąłeś?</font>
+
+42
+00:02:30,720 --> 00:02:32,520
+<font color="aqua">No.</font>
+
+43
+00:02:32,680 --> 00:02:34,880
+<font color="#16F158">Fajne kalesraki.</font>
+<font color="aqua">Dzięki.</font>
+
+44
+00:02:35,040 --> 00:02:36,840
+<font color="#8080FF">TRZAŚNIĘCIE DRZWIAMI</font>
+
+45
+00:02:38,640 --> 00:02:40,440
+<font color="#16F158">Anka, nie wstajesz?</font>
+
+46
+00:02:40,600 --> 00:02:43,760
+<font color="#FFFF51">Nie mam dziś zdjęć.</font>
+<font color="#16F158">Super. To co? Kawa?</font>
+
+47
+00:02:43,920 --> 00:02:46,320
+<font color="#FFFF51">Nie, dzięki, padnięta jestem.</font>
+
+48
+00:02:47,440 --> 00:02:49,520
+<font color="#16F158">A nie jesteś ciekawa?</font>
+
+49
+00:02:50,360 --> 00:02:52,160
+<font color="#FFFF51">Czego?</font>
+
+50
+00:02:52,320 --> 00:02:54,480
+<font color="#16F158">Czy ja i Szymon...</font>
+
+51
+00:02:54,640 --> 00:02:57,520
+<font color="#FFFF51">Wiesz co? Szanuję twoją prywatność.</font>
+
+52
+00:02:57,680 --> 00:02:59,480
+<font color="#16F158">Od kiedy?</font>
+
+53
+00:02:59,640 --> 00:03:02,640
+<font color="#FFFF51">Jak będziesz gotowa,</font>
+<font color="#FFFF51">sama mi powiesz.</font>
+
+54
+00:03:04,000 --> 00:03:06,320
+<font color="#16F158">Chyba serio jesteś padnięta.</font>
+
+55
+00:03:15,160 --> 00:03:17,480
+<font color="#8080FF">W TLE - ROMANTYCZNA PIOSENKA</font>
+
+56
+00:03:59,640 --> 00:04:02,320
+<font color="aqua">Pokomplikowało się, Niuniek, co?</font>
+
+57
+00:04:08,160 --> 00:04:11,240
+<font color="aqua">Powiedz mi, chłopaku,</font>
+<font color="aqua">co ja mam robić.</font>
+
+58
+00:04:33,200 --> 00:04:35,240
+<font color="aqua">Hej.</font>
+<font color="#FFFF51">Hej.</font>
+
+59
+00:04:39,000 --> 00:04:40,880
+<font color="aqua">Anka...</font>
+
+60
+00:04:41,040 --> 00:04:44,200
+<font color="aqua">Jak nie chcesz,</font>
+<font color="aqua">nie musimy o tym gadać.</font>
+
+61
+00:04:44,360 --> 00:04:46,160
+<font color="#FFFF51">Chyba powinniśmy.</font>
+
+62
+00:04:47,680 --> 00:04:49,680
+<font color="#FFFF51">Trochę niefajnie wyszło.</font>
+
+63
+00:04:52,080 --> 00:04:53,880
+<font color="aqua">Mnie tam się podobało.</font>
+
+64
+00:04:55,720 --> 00:04:58,720
+<font color="#FFFF51">Chodzi mi o to,</font>
+<font color="#FFFF51">że okłamaliśmy Zośkę.</font>
+
+65
+00:05:02,320 --> 00:05:04,120
+<font color="aqua">No tak.</font>
+
+66
+00:05:04,280 --> 00:05:06,080
+<font color="aqua">Niefajnie.</font>
+
+67
+00:05:06,720 --> 00:05:10,280
+<font color="aqua">Myślisz, że to</font>
+<font color="aqua">coś zmieni między nami?</font>
+
+68
+00:05:10,440 --> 00:05:12,240
+<font color="#FFFF51">Myślę...</font>
+
+69
+00:05:12,840 --> 00:05:15,080
+<font color="#FFFF51">że przyjaźń to coś ważnego.</font>
+
+70
+00:05:16,760 --> 00:05:18,560
+<font color="aqua">Mhm.</font>
+
+71
+00:05:21,080 --> 00:05:23,240
+<font color="aqua">Czyli nie wracamy do tego.</font>
+
+72
+00:05:23,400 --> 00:05:25,200
+<font color="#FFFF51">Nie wracamy.</font>
+
+73
+00:05:25,360 --> 00:05:27,160
+<font color="#8080FF">DZWONI TELEFON</font>
+
+74
+00:05:28,640 --> 00:05:30,440
+<font color="aqua">Halo?</font>
+
+75
+00:05:31,960 --> 00:05:34,720
+<font color="aqua">Cześć, Natalia. Zmieniłaś numer?</font>
+
+76
+00:05:45,920 --> 00:05:47,720
+Bartek!
+
+77
+00:05:51,480 --> 00:05:53,280
+Cześć.
+<font color="aqua">Hej.</font>
+
+78
+00:05:53,440 --> 00:05:56,600
+Nie zdążyłam ci podziękować...
+<font color="aqua">Luz.</font>
+
+79
+00:05:56,760 --> 00:05:58,840
+<font color="aqua">Dał ci spokój?</font>
+Tak.
+
+80
+00:05:59,000 --> 00:06:01,080
+Zmieniłam numer telefonu.
+
+81
+00:06:01,240 --> 00:06:04,240
+<font color="aqua">Nie chciałaś tego zgłosić</font>
+<font color="aqua">na policję?</font>
+
+82
+00:06:04,400 --> 00:06:07,520
+Nie, musiałabym się z nim spotkać.
+
+83
+00:06:07,680 --> 00:06:09,480
+Dzięki.
+
+84
+00:06:12,640 --> 00:06:14,400
+<font color="aqua">Twoja decyzja.</font>
+
+85
+00:06:14,560 --> 00:06:16,360
+A tobie co się stało?
+
+86
+00:06:16,520 --> 00:06:18,320
+<font color="aqua">Gdzie?</font>
+
+87
+00:06:18,480 --> 00:06:21,400
+<font color="aqua">Spadłem ze schodów, nieważne.</font>
+
+88
+00:06:22,760 --> 00:06:24,760
+<font color="aqua">Co my tu będziemy robić?</font>
+
+89
+00:06:26,000 --> 00:06:27,800
+Wy do mnie?
+
+90
+00:06:27,960 --> 00:06:33,200
+Rozmawialiśmy przez telefon.
+Szuka pan Śnieżynki i św. Mikołaja.
+
+91
+00:06:33,360 --> 00:06:37,600
+Mój stary skład się rozchorował,
+grypa.
+
+92
+00:06:37,760 --> 00:06:42,160
+Ale jutro wracają,
+więc to jednorazowy strzał.
+
+93
+00:06:42,320 --> 00:06:44,880
+- Okej.
+- A jakoś się nazywacie?
+
+94
+00:06:45,040 --> 00:06:46,920
+Natalia Derda, miło mi.
+
+95
+00:06:47,080 --> 00:06:48,880
+<font color="aqua">Bartek Sokół.</font>
+
+96
+00:06:49,720 --> 00:06:52,800
+Ty, koleżanko,
+mi pasujesz, ale ty...
+
+97
+00:06:52,960 --> 00:06:56,360
+Nie wyglądasz na świętego.
+<font color="aqua">Wypadek miałem.</font>
+
+98
+00:06:56,520 --> 00:06:59,600
+Poszukuję pracowników
+bezwypadkowych.
+
+99
+00:06:59,760 --> 00:07:04,080
+To można zakryć brodą mikołaja.
+Nic nie będzie widać.
+
+100
+00:07:04,240 --> 00:07:07,880
+Bycie świętym
+to bardzo odpowiedzialna praca.
+
+101
+00:07:08,040 --> 00:07:11,920
+Dobra energia
+od tego sokolątka bije.
+
+102
+00:07:12,080 --> 00:07:14,800
+Żadnych kłopotów nie będzie.
+
+103
+00:07:18,120 --> 00:07:21,120
+Jak Ramona tak mówi...
+
+104
+00:07:22,280 --> 00:07:24,080
+Uwaga.
+
+105
+00:07:25,320 --> 00:07:28,640
+Wywróżyła mi z tarota,
+że będę dziadkiem.
+
+106
+00:07:28,800 --> 00:07:32,200
+No i jestem. Dacie wiarę?
+
+107
+00:07:32,360 --> 00:07:34,160
+<font color="aqua">Gratulacje.</font>
+Dziękuję.
+
+108
+00:07:34,320 --> 00:07:36,120
+Dobra.
+
+109
+00:07:36,280 --> 00:07:38,600
+Płacę 13 zeta za godzinę.
+
+110
+00:07:38,760 --> 00:07:42,840
+Wszystko, co spadnie do skarbonki,
+należy do mnie.
+
+111
+00:07:43,000 --> 00:07:45,080
+Uwaga...
+
+112
+00:07:45,760 --> 00:07:47,560
+Tak jest.
+
+113
+00:07:48,200 --> 00:07:50,480
+Ho, ho, ho!
+
+114
+00:07:54,320 --> 00:07:56,120
+I jak wam się podoba
+
+115
+00:07:56,280 --> 00:07:58,320
+nasze nowe biuro?
+
+116
+00:07:59,640 --> 00:08:02,200
+<font color="#16F158">Fajne, tylko co z resztą ekipy?</font>
+
+117
+00:08:02,360 --> 00:08:05,280
+Postawiłem na was, moje perły.
+
+118
+00:08:05,440 --> 00:08:10,240
+Mario i Dario poszli do HR-u
+w korpo. Żona Daria załatwiła.
+
+119
+00:08:10,400 --> 00:08:12,200
+Lepszy hajs.
+
+120
+00:08:12,360 --> 00:08:15,920
+Może jest trochę ciaśniej
+niż w poprzednim,
+
+121
+00:08:16,080 --> 00:08:18,480
+ale lepszy punkt i czynsz.
+
+122
+00:08:18,640 --> 00:08:21,520
+<font color="#16F158">Jestem tylko trzy dni w tygodniu.</font>
+
+123
+00:08:21,680 --> 00:08:26,040
+Wiem, wesprę Marzenę,
+jak klient dopisze.
+
+124
+00:08:26,200 --> 00:08:29,160
+<font color="#16F158">Skoro klient ma dopisać,</font>
+
+125
+00:08:29,320 --> 00:08:34,640
+<font color="#16F158">to może jakaś premia</font>
+<font color="#16F158">na nową drogę i w ogóle?</font>
+
+126
+00:08:34,800 --> 00:08:37,040
+<font color="#8080FF">ŚMIEJĄ SIĘ</font>
+
+127
+00:08:37,200 --> 00:08:39,600
+Lubię twoje poczucie humoru.
+
+128
+00:08:39,760 --> 00:08:41,800
+To jest...
+
+129
+00:08:41,960 --> 00:08:45,480
+nasze nowe hasło.
+
+130
+00:08:45,640 --> 00:08:51,040
+- Nowa praca, nowe wyzwania.
+- Indywidualne profilowanie zawodów.
+
+131
+00:08:51,200 --> 00:08:53,240
+Marzenka wymyśliła.
+
+132
+00:08:53,400 --> 00:08:55,200
+Razem wymyślaliśmy.
+
+133
+00:08:55,360 --> 00:08:58,920
+- Marzena, proszę cię.
+- Razem wymyślaliśmy.
+
+134
+00:09:03,120 --> 00:09:04,920
+<font color="#16F158">Chodź na szluga.</font>
+
+135
+00:09:05,080 --> 00:09:07,240
+Krzysztof się wyprowadził.
+
+136
+00:09:07,400 --> 00:09:10,880
+<font color="#16F158">Nie mówiłaś,</font>
+<font color="#16F158">że twoje małżeństwo się sypie.</font>
+
+137
+00:09:11,040 --> 00:09:14,440
+Nie było się czym chwalić.
+<font color="#16F158">Ale aż tak źle?</font>
+
+138
+00:09:14,600 --> 00:09:17,640
+Albo oglądał mecze,
+albo pykał w gry.
+
+139
+00:09:17,800 --> 00:09:20,280
+Nie mieliśmy o czym rozmawiać.
+
+140
+00:09:20,440 --> 00:09:22,760
+A potem nie było co zbierać.
+
+141
+00:09:23,920 --> 00:09:26,680
+<font color="#16F158">Marzenka, ale Anielak?</font>
+
+142
+00:09:26,840 --> 00:09:28,640
+To bardzo fajny facet.
+
+143
+00:09:28,800 --> 00:09:31,800
+Byliśmy kilka razy
+z dziećmi w kinie.
+
+144
+00:09:31,960 --> 00:09:33,760
+Dogadujemy się.
+
+145
+00:09:34,560 --> 00:09:39,040
+<font color="#16F158">A jego żona?</font>
+Jest w Tajlandii z nowym facetem.
+
+146
+00:09:39,200 --> 00:09:42,520
+Czasem dzwoni do chłopaków,
+ale Erwin...
+
+147
+00:09:42,680 --> 00:09:45,080
+Anielak sam wszystko ogarnia.
+
+148
+00:09:45,240 --> 00:09:48,800
+Wiesz, jaką robi boską...
+<font color="#16F158">Nie chcę wiedzieć.</font>
+
+149
+00:09:48,960 --> 00:09:50,760
+Lasagne!
+
+150
+00:09:52,000 --> 00:09:53,800
+<font color="#16F158">No dobra.</font>
+
+151
+00:09:53,960 --> 00:09:56,520
+<font color="#16F158">Czy wy...</font>
+
+152
+00:09:56,680 --> 00:09:58,480
+<font color="#16F158">ten...</font>
+
+153
+00:09:58,640 --> 00:10:01,200
+Jeszcze nie, ale nie wykluczam.
+
+154
+00:10:01,360 --> 00:10:03,400
+<font color="#16F158">Z Anielakiem?</font>
+
+155
+00:10:03,560 --> 00:10:05,360
+<font color="#16F158">Masakra.</font>
+
+156
+00:10:05,520 --> 00:10:07,320
+Nie masakra.
+
+157
+00:10:07,480 --> 00:10:09,880
+<font color="#16F158">Anielak!</font>
+Spoko jest, naprawdę.
+
+158
+00:10:10,040 --> 00:10:12,560
+Nie wyobrażaj sobie za dużo.
+
+159
+00:10:15,280 --> 00:10:17,080
+<font color="#8080FF">DZWONI DZWONKIEM</font>
+
+160
+00:10:17,240 --> 00:10:19,040
+<font color="aqua">Ho, ho, ho...</font>
+
+161
+00:10:33,520 --> 00:10:35,320
+<font color="aqua">Ho, ho, ho...</font>
+
+162
+00:10:36,160 --> 00:10:37,960
+<font color="aqua">Ho, ho, ho...</font>
+
+163
+00:10:39,080 --> 00:10:41,880
+Rozmieniłem całą dychę.
+Fajnie nie?
+
+164
+00:10:42,040 --> 00:10:44,680
+<font color="aqua">Wrzuć jeszcze raz, a cie znajdę.</font>
+
+165
+00:10:44,840 --> 00:10:46,640
+I co? Dasz mi rózgę?
+
+166
+00:10:46,800 --> 00:10:48,600
+<font color="aqua">Nie, chłopcze.</font>
+
+167
+00:10:48,760 --> 00:10:52,240
+<font color="aqua">Dam ci coś, co się zaczyna na "w",</font>
+
+168
+00:10:52,400 --> 00:10:54,360
+<font color="aqua">a kończy na "dol".</font>
+
+169
+00:10:55,360 --> 00:10:58,240
+Bartek, błagam,
+możemy się zamienić?
+
+170
+00:10:58,400 --> 00:11:02,120
+<font color="aqua">Tak? Na pewno chcesz</font>
+<font color="aqua">robić z siebie pajaca?</font>
+
+171
+00:11:02,280 --> 00:11:04,240
+<font color="aqua">Ho, ho, ho!</font>
+
+172
+00:11:05,840 --> 00:11:07,640
+<font color="#8080FF">UDAJE PIERDZENIE</font>
+
+173
+00:11:07,800 --> 00:11:12,520
+Lepsze to niż wciskanie ludziom
+ulotek. Nie chcą ich brać.
+
+174
+00:11:14,320 --> 00:11:17,000
+Byłam u Ramony i...
+
+175
+00:11:17,160 --> 00:11:19,000
+wróżyła mi.
+
+176
+00:11:20,160 --> 00:11:22,520
+<font color="aqua">Za ile?</font>
+Dwie dychy.
+
+177
+00:11:22,680 --> 00:11:26,000
+Ma superamulety,
+ale szkoda mi było kasy.
+
+178
+00:11:26,160 --> 00:11:27,960
+<font color="aqua">Wierzysz w to?</font>
+
+179
+00:11:28,120 --> 00:11:32,520
+Powiedziała, że z mojego życia
+zniknął cień. To Karol.
+
+180
+00:11:32,680 --> 00:11:34,680
+<font color="aqua">Naprawdę? Pokaż.</font>
+
+181
+00:11:36,520 --> 00:11:38,320
+<font color="aqua">Rzeczywiście.</font>
+
+182
+00:11:38,920 --> 00:11:40,920
+<font color="aqua">I jutro zaświeci słońce.</font>
+
+183
+00:11:41,080 --> 00:11:43,680
+<font color="aqua">Spotka cię coś złego i miłego.</font>
+
+184
+00:11:43,840 --> 00:11:46,200
+<font color="aqua">Na dwoje cyganka wróżyła.</font>
+
+185
+00:11:46,360 --> 00:11:51,840
+Nabijasz się, a ona mi wywróżyła,
+że czeka mnie nowa relacja.
+
+186
+00:12:53,280 --> 00:12:55,600
+Hej, sokolątko!
+
+187
+00:12:55,760 --> 00:12:58,600
+Chodź, postawię ci tarota.
+
+188
+00:12:58,760 --> 00:13:00,560
+<font color="aqua">Nie, dziękuję.</font>
+
+189
+00:13:00,720 --> 00:13:03,800
+Boisz się,
+że Cyganka prawdę ci powie?
+
+190
+00:13:03,960 --> 00:13:07,200
+<font color="aqua">Nie chcę wiedzieć,</font>
+<font color="aqua">ile jeszcze mam wtop.</font>
+
+191
+00:13:07,360 --> 00:13:10,360
+Jak zobaczę coś złego,
+to przemilczę.
+
+192
+00:13:10,520 --> 00:13:13,880
+<font color="aqua">Wywróżysz mi szóstkę w totka.</font>
+
+193
+00:13:14,040 --> 00:13:18,040
+Zobaczymy, co skrywa
+twoja przyszłość.
+
+194
+00:13:19,680 --> 00:13:21,480
+Pamiętasz mnie,
+
+195
+00:13:21,640 --> 00:13:23,440
+oszustko jedna?
+
+196
+00:13:23,600 --> 00:13:28,080
+Amulet z akwamarynu ciebie uleczy,
+łagodzi stres.
+
+197
+00:13:28,240 --> 00:13:30,040
+Srymu!
+
+198
+00:13:30,720 --> 00:13:32,520
+Oddawaj pieniądze.
+
+199
+00:13:32,680 --> 00:13:34,480
+<font color="aqua">Spokojnie.</font>
+
+200
+00:13:34,640 --> 00:13:39,880
+<font color="aqua">Co z grubsza poszło nie tak?</font>
+Przez tę naciągaczkę nie mam pracy.
+
+201
+00:13:40,040 --> 00:13:42,440
+Aż takiej mocy to ja nie mam.
+
+202
+00:13:42,600 --> 00:13:48,040
+Powiedziałaś mi, że wtorek,
+że wfontiały, cudowny układ gwiazd.
+
+203
+00:13:48,200 --> 00:13:53,840
+Poszłam do szefa i powiedziałam,
+że albo podwyżka, albo się zwalniam.
+
+204
+00:13:54,000 --> 00:13:57,400
+Na głupotę najlepszy wisior
+z chryzoprazu.
+
+205
+00:13:57,560 --> 00:13:59,360
+Jeszcze mnie obraża!
+
+206
+00:13:59,520 --> 00:14:05,160
+A gdybym ci powiedziała, idiotko,
+że we wtorek będziesz latać, to co?
+
+207
+00:14:05,320 --> 00:14:07,120
+Wyskoczyłabyś z okna?
+
+208
+00:14:09,680 --> 00:14:12,440
+To na szczęście.
+
+209
+00:14:13,640 --> 00:14:16,800
+Na przeproszenie Cyganka ci powróży.
+
+210
+00:14:16,960 --> 00:14:19,640
+Postawię ci cygańskiego tarota.
+
+211
+00:14:19,800 --> 00:14:25,480
+Ty, sokolątko, ciągle nieopierzony.
+Chociaż masz Sokół w nazwisku.
+
+212
+00:14:25,640 --> 00:14:27,640
+Rozwiń skrzydła, sokole.
+
+213
+00:14:28,640 --> 00:14:33,040
+Nie bój się
+zajrzeć przeznaczeniu w pysk.
+
+214
+00:14:33,200 --> 00:14:35,000
+Znaczy w oczy.
+
+215
+00:14:36,080 --> 00:14:37,880
+No...
+
+216
+00:14:39,840 --> 00:14:41,640
+Proszę.
+
+217
+00:14:51,400 --> 00:14:53,200
+Karta miłości.
+
+218
+00:14:53,360 --> 00:14:55,200
+<font color="aqua">Niech zgadnę.</font>
+
+219
+00:14:56,600 --> 00:14:58,400
+<font color="aqua">Spotkam dziewczynę,</font>
+
+220
+00:14:58,560 --> 00:15:01,880
+<font color="aqua">będzie miała nos, oczy,</font>
+
+221
+00:15:02,040 --> 00:15:03,840
+<font color="aqua">a nawet włosy.</font>
+
+222
+00:15:04,880 --> 00:15:07,840
+Ta karta oznacza miłość życia.
+
+223
+00:15:08,000 --> 00:15:13,200
+Niespodziewany rozkwit uczucia
+do kogoś, kogo już znasz.
+
+224
+00:15:13,360 --> 00:15:16,360
+<font color="aqua">Przepraszam,</font>
+<font color="aqua">nie wierzę w czary-mary.</font>
+
+225
+00:15:17,040 --> 00:15:20,720
+Karta prawdę ci powie.
+
+226
+00:15:20,880 --> 00:15:22,680
+Zapamiętaj to sobie.
+
+227
+00:15:26,760 --> 00:15:28,560
+<font color="#8080FF">DZWONEK DO DRZWI</font>
+
+228
+00:15:38,880 --> 00:15:41,080
+Pani Anna Wolańska?
+
+229
+00:15:41,240 --> 00:15:43,040
+<font color="#FFFF51">Tak.</font>
+
+230
+00:15:44,560 --> 00:15:46,360
+Autograf proszę.
+
+231
+00:15:48,280 --> 00:15:51,600
+<font color="#FFFF51">Dla mnie?</font>
+Zawsze trafiam pod dobry adres.
+
+232
+00:15:51,760 --> 00:15:55,000
+<font color="#FFFF51">Może mi pan zdradzić, od kogo to?</font>
+
+233
+00:15:55,160 --> 00:15:58,720
+To tajemnica,
+ale wszystko jest na bileciku.
+
+234
+00:16:02,120 --> 00:16:04,200
+Dzięki. Miłego.
+
+235
+00:16:04,360 --> 00:16:06,160
+<font color="#FFFF51">Do widzenia.</font>
+
+236
+00:16:12,040 --> 00:16:14,840
+<font color="#8080FF">DZWONI TELEFON</font>
+
+237
+00:16:16,840 --> 00:16:18,640
+<font color="#FFFF51">Masakra.</font>
+
+238
+00:16:18,800 --> 00:16:21,800
+Jezu, siostra,
+skąd wiesz, co u mnie?
+
+239
+00:16:21,960 --> 00:16:24,920
+<font color="#FFFF51">Też masz zły dzień?</font>
+
+240
+00:16:25,080 --> 00:16:29,560
+Jak mi pomożesz, będę miała
+najlepszy. Jesteś w pracy?
+
+241
+00:16:29,720 --> 00:16:31,520
+<font color="#FFFF51">Nie, w domu, wpadaj.</font>
+
+242
+00:16:31,680 --> 00:16:33,680
+Dobra, pa, pa!
+
+243
+00:16:55,280 --> 00:16:57,080
+<font color="#16F158">Co ty tu robisz?</font>
+
+244
+00:16:57,240 --> 00:17:02,040
+Byłem w starym biurze, przeczytałem
+karteczkę, no i jestem.
+
+245
+00:17:02,200 --> 00:17:06,240
+<font color="#16F158">Ale... co ty tu robisz tak ogólnie?</font>
+
+246
+00:17:06,400 --> 00:17:08,640
+Potrzebuję fachowej porady.
+
+247
+00:17:08,800 --> 00:17:13,080
+Chodzi o ustawienie ścieżki
+zawodowej, a nawet życiowej.
+
+248
+00:17:13,240 --> 00:17:17,880
+<font color="#16F158">Ale, jak wiesz, dziś przeprowadzka,</font>
+<font color="#16F158">biuro jest nieczynne.</font>
+
+249
+00:17:18,040 --> 00:17:23,000
+Ostatnio mam same klapy.
+Odmówisz potrzebującemu?
+
+250
+00:17:23,160 --> 00:17:25,600
+<font color="#16F158">W takim wypadku to nie.</font>
+
+251
+00:17:25,760 --> 00:17:28,640
+<font color="#16F158">Zawołam koleżankę, ona panu pomoże.</font>
+
+252
+00:17:28,800 --> 00:17:33,440
+Ale koleżanka nie odpowie mi
+na jedno zasadnicze pytanie.
+
+253
+00:17:33,600 --> 00:17:35,400
+<font color="#16F158">Słucham.</font>
+
+254
+00:17:35,560 --> 00:17:40,560
+Jak wychodziłem od was o świcie,
+nie zdążyłem zapytać, czy...
+
+255
+00:17:41,680 --> 00:17:43,480
+<font color="#16F158">No co cię gnębi?</font>
+
+256
+00:17:46,800 --> 00:17:49,800
+Właściwie teraz
+jestem trochę zajęty.
+
+257
+00:17:50,720 --> 00:17:53,720
+Może wpadniesz wieczorem na kolację?
+
+258
+00:17:53,880 --> 00:17:56,000
+Nie pożałujesz.
+
+259
+00:17:56,160 --> 00:17:58,720
+<font color="#16F158">Już wiem, czego się spodziewać.</font>
+
+260
+00:18:00,320 --> 00:18:04,120
+Sarmacka 10 przez 146.
+
+261
+00:18:04,280 --> 00:18:06,320
+19.00. Pasuje?
+
+262
+00:18:07,480 --> 00:18:10,200
+<font color="#16F158">Okej, ale tym razem bez śniadania.</font>
+
+263
+00:18:12,640 --> 00:18:14,440
+<font color="#16F158">146.</font>
+
+264
+00:18:16,120 --> 00:18:17,960
+Chodź na fajkę.
+
+265
+00:18:18,120 --> 00:18:19,920
+<font color="#16F158">Nie miałaś rzucić?</font>
+
+266
+00:18:20,080 --> 00:18:21,880
+A chcesz pogadać?
+
+267
+00:18:23,240 --> 00:18:25,840
+<font color="#16F158">A o czym?</font>
+No wiesz...
+
+268
+00:18:26,000 --> 00:18:27,960
+<font color="#FFFF51">Siemanko.</font>
+Cześć.
+
+269
+00:18:28,120 --> 00:18:30,520
+<font color="#FFFF51">Chcesz kawy? Coś do jedzenia?</font>
+
+270
+00:18:35,080 --> 00:18:37,320
+Mega jest. Czyj?
+
+271
+00:18:38,120 --> 00:18:39,920
+<font color="#FFFF51">Mój.</font>
+
+272
+00:18:40,080 --> 00:18:43,080
+Od kogo dostałaś taki piękny bukiet?
+
+273
+00:18:43,240 --> 00:18:45,960
+<font color="#FFFF51">Też chciałabym to wiedzieć.</font>
+
+274
+00:18:46,120 --> 00:18:47,920
+<font color="#FFFF51">Patrz.</font>
+
+275
+00:18:50,640 --> 00:18:52,960
+Zrobiłabyś mi make-up?
+
+276
+00:18:53,120 --> 00:18:55,640
+<font color="#FFFF51">Pewnie, weź kuferek.</font>
+
+277
+00:18:57,440 --> 00:19:00,840
+Oglądaliśmy z ojcem finał w necie.
+
+278
+00:19:01,000 --> 00:19:02,800
+Czemu cię nie było?
+
+279
+00:19:02,960 --> 00:19:04,840
+<font color="#FFFF51">Wszystko się poplątało.</font>
+
+280
+00:19:05,000 --> 00:19:09,160
+<font color="#FFFF51">Pewnie ojciec miał satysfakcję,</font>
+<font color="#FFFF51">że znowu zawaliłam.</font>
+
+281
+00:19:09,320 --> 00:19:11,120
+Bez przesady.
+
+282
+00:19:11,280 --> 00:19:15,440
+Zmartwił się, naprawdę,
+tym, że cię nie ma w studiu.
+
+283
+00:19:15,600 --> 00:19:18,920
+Dzwoniliśmy do ciebie,
+ale nie odebrałaś.
+
+284
+00:19:19,080 --> 00:19:22,480
+<font color="#FFFF51">Bartek miał problem,</font>
+<font color="#FFFF51">musiałam mu pomóc.</font>
+
+285
+00:19:22,640 --> 00:19:24,440
+Przez niego zawaliłaś?
+
+286
+00:19:24,600 --> 00:19:26,400
+<font color="#FFFF51">Tak jakby.</font>
+
+287
+00:19:26,560 --> 00:19:30,280
+I ty się zastanawiasz,
+od kogo masz te kwiaty?
+
+288
+00:19:30,440 --> 00:19:32,240
+Na bank od Bartka.
+
+289
+00:19:33,840 --> 00:19:36,840
+<font color="#FFFF51">Ty mi lepiej powiedz,</font>
+<font color="#FFFF51">co to za facet.</font>
+
+290
+00:19:37,760 --> 00:19:41,520
+Filip, niedawno doszedł
+do naszej klasy.
+
+291
+00:19:44,400 --> 00:19:46,280
+<font color="#FFFF51">Zaprosił cię na randkę?</font>
+
+292
+00:19:46,440 --> 00:19:48,840
+No tak jakby.
+
+293
+00:19:49,000 --> 00:19:53,480
+Zaprosił mnie na kawę,
+piszemy referat z Młodej Polski.
+
+294
+00:19:53,640 --> 00:19:57,000
+<font color="#FFFF51">Młodej Polski? Referat? Okej.</font>
+
+295
+00:19:58,440 --> 00:20:00,240
+Zobacz.
+
+296
+00:20:00,400 --> 00:20:02,360
+Tu jest jakby "B".
+
+297
+00:20:02,520 --> 00:20:04,320
+"B" jak Bartek.
+
+298
+00:20:04,480 --> 00:20:07,160
+Nawalił, więc wysłał ci kwiaty.
+
+299
+00:20:09,160 --> 00:20:10,960
+<font color="#8080FF">DZWONI TELEFON</font>
+
+300
+00:20:13,360 --> 00:20:15,640
+<font color="#16F158">Halo?</font>
+Cześć, tu Szczepan.
+
+301
+00:20:15,800 --> 00:20:18,120
+Dzwonię, pożyczyłem telefon.
+
+302
+00:20:18,280 --> 00:20:20,080
+Masz chwilę?
+
+303
+00:20:20,240 --> 00:20:22,040
+<font color="#16F158">Jasne. Co się stało?</font>
+
+304
+00:20:27,480 --> 00:20:29,280
+<font color="#FFFF51">No.</font>
+
+305
+00:20:30,040 --> 00:20:32,000
+Jezu, siostra.
+
+306
+00:20:32,160 --> 00:20:34,000
+Jak nie ja.
+
+307
+00:20:35,160 --> 00:20:38,040
+<font color="#FFFF51">Najpiękniejsza jesteś bez makijażu.</font>
+
+308
+00:20:38,200 --> 00:20:40,000
+Przestań.
+
+309
+00:20:40,160 --> 00:20:41,960
+Wiem, jak wyglądam.
+
+310
+00:20:42,120 --> 00:20:43,920
+<font color="#FFFF51">Dać ci coś do ubrania?</font>
+
+311
+00:20:44,080 --> 00:20:47,400
+Nie wejdę w nic twojego.
+Jestem za gruba.
+
+312
+00:20:47,560 --> 00:20:50,680
+<font color="#FFFF51">Chyba w uszach. Jesteś super.</font>
+Chyba ty.
+
+313
+00:20:55,080 --> 00:20:58,080
+<font color="#FFFF51">Patrz, jaki masz uśmiech,</font>
+<font color="#FFFF51">dziewczyno.</font>
+
+314
+00:20:58,240 --> 00:21:02,960
+<font color="#FFFF51">Ten twój Tomek-ciacho</font>
+<font color="#FFFF51">zwariuje na twoim punkcie.</font>
+
+315
+00:21:03,120 --> 00:21:06,080
+Filip-ciacho.
+<font color="#FFFF51">Sorry.</font>
+
+316
+00:21:06,240 --> 00:21:08,400
+On mi się naprawdę podoba.
+
+317
+00:21:08,560 --> 00:21:10,640
+<font color="#FFFF51">Chcesz koszulę?</font>
+
+318
+00:21:10,800 --> 00:21:12,600
+Mhm.
+
+319
+00:21:46,240 --> 00:21:49,880
+Błagam cię, zamieńmy się.
+<font color="aqua">Idzie ci doskonale.</font>
+
+320
+00:21:50,040 --> 00:21:54,400
+Nie wyciszyłeś dźwięku
+i dzwoni mi nad uchem.
+
+321
+00:21:54,560 --> 00:21:56,560
+Wyłącz i oddaj.
+
+322
+00:21:56,720 --> 00:22:00,480
+<font color="aqua">Muszę odsłuchać.</font>
+Nie ma gadania w robocie.
+
+323
+00:22:02,640 --> 00:22:04,440
+<font fontstyle="italic">Nowa wiadomość.</font>
+
+324
+00:22:04,600 --> 00:22:06,600
+<font color="#FFFF51" tts:fontstyle="italic">Cześć, Bartek.</font>
+
+325
+00:22:06,760 --> 00:22:08,800
+Słabo się staracie.
+
+326
+00:22:08,960 --> 00:22:11,480
+Staramy się, tylko...
+
+327
+00:22:11,640 --> 00:22:14,000
+Staramy, staramy.
+
+328
+00:22:14,160 --> 00:22:16,280
+<font color="aqua">Proszę bardzo.</font>
+
+329
+00:22:24,840 --> 00:22:27,480
+O taki show mi proszę odstawiać.
+
+330
+00:22:27,640 --> 00:22:29,760
+Wybuch miłości.
+
+331
+00:22:29,920 --> 00:22:33,360
+Zapamiętaj moją wróżbę.
+
+332
+00:22:33,520 --> 00:22:37,360
+Święta idą, miłość kwitnie.
+
+333
+00:22:37,520 --> 00:22:40,920
+Byłeś u wróżki?
+<font color="aqua">Jakoś tak wyszło.</font>
+
+334
+00:22:41,080 --> 00:22:43,160
+Dobrze wyglądam?
+<font color="#FFFF51">Na pewno.</font>
+
+335
+00:22:43,320 --> 00:22:46,880
+<font color="#8080FF">DZWONI TELEFON</font>
+<font color="#FFFF51">Wkręciłaś się w tego kolesia.</font>
+
+336
+00:22:47,040 --> 00:22:48,840
+To Bartek?
+<font color="#FFFF51">Nie.</font>
+
+337
+00:22:49,000 --> 00:22:52,080
+Sama zobaczysz,
+jaki Filip jest super.
+
+338
+00:22:52,240 --> 00:22:55,240
+<font color="#FFFF51">Nie wejdę tam po to,</font>
+<font color="#FFFF51">żeby go obczaić.</font>
+
+339
+00:22:55,400 --> 00:22:59,880
+Kupisz sobie kawę, siądziesz
+i przy okazji go oblukasz.
+
+340
+00:23:00,680 --> 00:23:02,480
+Cześć, Laura.
+
+341
+00:23:02,640 --> 00:23:04,440
+Cześć.
+
+342
+00:23:04,600 --> 00:23:07,560
+Filip, to Anka, moja siostra.
+
+343
+00:23:09,240 --> 00:23:12,240
+Przyda nam się pomoc przy referacie.
+
+344
+00:23:12,400 --> 00:23:16,040
+<font color="#FFFF51">Niewiele pamiętam z ogólniaka,</font>
+<font color="#FFFF51">tak że spadam.</font>
+
+345
+00:23:16,200 --> 00:23:18,000
+Tu jest świetna latte.
+
+346
+00:23:18,160 --> 00:23:20,240
+<font color="#FFFF51">Wiem, mieszkam niedaleko.</font>
+
+347
+00:23:20,400 --> 00:23:22,200
+<font color="#FFFF51">Powodzenia.</font>
+
+348
+00:23:25,920 --> 00:23:28,000
+<font color="#8080FF">DZWONI TELEFON</font>
+
+349
+00:23:28,160 --> 00:23:31,560
+<font color="#FFFF51">Cześć, Daniel.</font>
+Cześć. W końcu jakiś odzew.
+
+350
+00:23:31,720 --> 00:23:36,120
+Jest temat do obgadania.
+<font color="#FFFF51">Kolejny konkurs do zawalenia?</font>
+
+351
+00:23:36,280 --> 00:23:40,000
+Podoba mi się twój entuzjazm.
+Sprawa zawodowa.
+
+352
+00:23:40,160 --> 00:23:44,920
+Spotkajmy się za pół godziny.
+<font color="#FFFF51">Za godzinę. Gdzie?</font>
+
+353
+00:23:45,080 --> 00:23:49,320
+<font color="aqua">Ma pani jakiś amulet na marzenia,</font>
+<font color="aqua">żeby się spełniły?</font>
+
+354
+00:23:49,480 --> 00:23:51,480
+Mam amulety na wszystko.
+
+355
+00:23:51,640 --> 00:23:54,120
+O, tygrysie oko.
+
+356
+00:23:54,280 --> 00:23:56,080
+Mój ulubiony.
+
+357
+00:23:57,200 --> 00:23:59,600
+Jednak wierzysz w czary-mary.
+
+358
+00:23:59,760 --> 00:24:02,200
+<font color="aqua">To nie dla mnie.</font>
+
+359
+00:24:02,360 --> 00:24:05,600
+Nic nie mów.
+Stara Cyganka wszystko wie.
+
+360
+00:24:05,760 --> 00:24:08,320
+Dla miłości życia.
+<font color="aqua">Niech będzie.</font>
+
+361
+00:24:08,480 --> 00:24:10,280
+<font color="aqua">Za ile?</font>
+
+362
+00:24:10,440 --> 00:24:14,760
+Prezent. Przyniosłeś mi szczęście.
+Klient dopisuje.
+
+363
+00:24:14,920 --> 00:24:19,640
+- Wariata pan ze mnie robi?
+- Cztery kartony spakuję i znikam.
+
+364
+00:24:19,800 --> 00:24:21,880
+Miała pana tutaj nie być!
+
+365
+00:24:22,040 --> 00:24:26,200
+- Pani kierowniczko kochana...
+- Jaka kierowniczko!
+
+366
+00:24:26,360 --> 00:24:30,000
+- Tylko poskładam rzeczy!
+- To jakieś śmieci!
+
+367
+00:24:30,160 --> 00:24:35,680
+- Proszę nie dotykać moich rzeczy!
+- Pan tu jest nielegalnie!
+
+368
+00:24:35,840 --> 00:24:39,360
+Mam dosyć awantur,
+dzwonię na policję.
+
+369
+00:24:39,520 --> 00:24:42,360
+<font color="#16F158">To można na spokojnie załatwić.</font>
+
+370
+00:24:42,520 --> 00:24:46,920
+Będzie mnie pani uczyć,
+jak zarządzać działkami?
+
+371
+00:24:47,080 --> 00:24:50,640
+<font color="#16F158">O co chodzi?</font>
+Facet tu mieszkał, bardzo miły.
+
+372
+00:24:50,800 --> 00:24:52,600
+Umarł.
+
+373
+00:24:52,760 --> 00:24:56,000
+Pewnie pani kierowniczka
+ma na to kupca.
+
+374
+00:24:56,160 --> 00:24:59,800
+<font color="#16F158">Człowieka pani na bruk wyrzuci?</font>
+
+375
+00:24:59,960 --> 00:25:04,120
+<font color="#16F158">Przecież zimno jest!</font>
+<font color="#16F158">Jakieś ludzkie uczucia, no!</font>
+
+376
+00:25:04,280 --> 00:25:09,560
+Zadzwoniłem do ciebie,
+żebyś mi pomogła przechować rzeczy.
+
+377
+00:25:09,720 --> 00:25:11,520
+<font color="#16F158">Jasne, ogarniemy.</font>
+
+378
+00:25:11,680 --> 00:25:15,320
+<font color="#16F158">Wzywać taksówkę?</font>
+Transport już załatwiłem. O.
+
+379
+00:25:18,320 --> 00:25:20,120
+Hej.
+
+380
+00:25:22,840 --> 00:25:24,640
+<font color="#FFFF51">Siad.</font>
+
+381
+00:25:24,800 --> 00:25:26,600
+<font color="#8080FF">DZWONEK DO DRZWI</font>
+
+382
+00:25:27,680 --> 00:25:30,440
+<font color="#FFFF51">Powiedz, Zośka czy Bartek?</font>
+
+383
+00:25:34,160 --> 00:25:35,960
+<font color="#FFFF51">Ty już po?</font>
+
+384
+00:25:36,120 --> 00:25:37,920
+Musiałaś to zrobić?
+
+385
+00:25:38,080 --> 00:25:41,080
+<font color="#FFFF51">Co ja zrobiłam?</font>
+Musiałaś mi go odbić?
+
+386
+00:25:41,240 --> 00:25:43,680
+Filip ciągle gadał o tobie.
+
+387
+00:25:43,840 --> 00:25:47,480
+Pytał, czym się zajmujesz,
+czy masz chłopaka.
+
+388
+00:25:47,640 --> 00:25:49,520
+Wziął twój numer.
+
+389
+00:25:49,680 --> 00:25:51,680
+<font color="#FFFF51">Laura, przecież...</font>
+
+390
+00:25:51,840 --> 00:25:55,640
+Musiałaś pokazać, że jesteś lepsza?
+Ładniejsza?
+
+391
+00:25:55,800 --> 00:25:57,600
+Ja i tak to wiem.
+
+392
+00:25:59,200 --> 00:26:01,000
+<font color="#8080FF">TRZAŚNIECIE DRZWIAMI</font>
+
+393
+00:26:03,640 --> 00:26:05,440
+<font color="#16F158">Chyba odpuściła, nie?</font>
+
+394
+00:26:07,040 --> 00:26:10,000
+<font color="#16F158">Ładny mebel.</font>
+
+395
+00:26:10,160 --> 00:26:11,960
+Sam dam z nim radę.
+
+396
+00:26:12,120 --> 00:26:15,760
+<font color="#16F158">Panie Szczepanie,</font>
+<font color="#16F158">ma pan się gdzie zatrzymać?</font>
+
+397
+00:26:15,920 --> 00:26:19,320
+Kolega powiedział,
+że załatwił mi miejsce.
+
+398
+00:26:19,480 --> 00:26:21,960
+<font color="#16F158">Czyli jednak nie odpuściła.</font>
+
+399
+00:26:23,040 --> 00:26:27,240
+Ten bezdomny
+bezprawnie zajmuje własność
+
+400
+00:26:27,400 --> 00:26:29,800
+spółdzielni działkowców.
+
+401
+00:26:31,800 --> 00:26:34,040
+Moja ulubiona recydywistka.
+
+402
+00:26:34,200 --> 00:26:38,520
+<font color="#16F158">Mój ulubiony pan policjant.</font>
+A to się za chwilę okaże.
+
+403
+00:26:38,680 --> 00:26:42,480
+Teraz łamie pani prawo
+w nowym towarzystwie.
+
+404
+00:26:42,640 --> 00:26:46,880
+Właściciel domku pozwolił mi
+tu mieszkać przez zimę.
+
+405
+00:26:47,040 --> 00:26:48,840
+Ma pan na to dokument?
+
+406
+00:26:49,000 --> 00:26:53,000
+Prawo dopuszcza
+zawieranie umów w formie ustnej.
+
+407
+00:26:53,160 --> 00:26:56,960
+Bezdomny będzie mi robił
+wykład z prawa, tak?
+
+408
+00:26:57,120 --> 00:27:02,880
+Pan mnie powinien po rękach całować,
+że dałam panu tu mieszkać.
+
+409
+00:27:03,040 --> 00:27:05,840
+Nie chcemy kłopotów. Wynosimy się.
+
+410
+00:27:06,000 --> 00:27:08,880
+Pan dobrowolnie opuszcza
+to miejsce,
+
+411
+00:27:09,040 --> 00:27:10,960
+czyli nic tu po nas.
+
+412
+00:27:11,120 --> 00:27:12,840
+Dziękuję.
+
+413
+00:27:13,000 --> 00:27:16,920
+Przepraszam, ale ten fotel
+był u mnie w biurze.
+
+414
+00:27:20,120 --> 00:27:22,280
+Taki żul to jest złodziej.
+
+415
+00:27:22,440 --> 00:27:24,960
+SZYMON: Grzeczniej.
+<font color="#16F158">Zołza.</font>
+
+416
+00:27:25,120 --> 00:27:29,200
+Pozwala pan, żeby obrażali
+uczciwą kierowniczkę?
+
+417
+00:27:29,360 --> 00:27:32,440
+Mam zapalenie ucha,
+nic nie słyszałem.
+
+418
+00:27:32,600 --> 00:27:34,400
+Uspokójmy emocje.
+
+419
+00:27:34,560 --> 00:27:37,720
+Może pan udowodnić,
+że fotel jest pana?
+
+420
+00:27:37,880 --> 00:27:40,080
+Proszę.
+
+421
+00:27:43,200 --> 00:27:47,240
+"Dla mojego kochanego męża
+Szczepana, twoja Ala".
+
+422
+00:27:47,400 --> 00:27:50,720
+To było 23 czerwca 2006 roku.
+
+423
+00:27:50,880 --> 00:27:56,200
+Dostałem ten fotel
+na 35. urodziny od mojej żony.
+
+424
+00:27:56,360 --> 00:27:58,840
+Zajmowała się renowacją mebli.
+
+425
+00:27:59,000 --> 00:28:01,240
+<font color="#16F158">Kto tu teraz jest oszustem?</font>
+
+426
+00:28:02,240 --> 00:28:04,720
+Ten w moim biurze był podobny.
+
+427
+00:28:04,880 --> 00:28:07,160
+Ludzka rzecz się pomylić.
+
+428
+00:28:07,320 --> 00:28:09,120
+Dobrze.
+
+429
+00:28:09,280 --> 00:28:12,160
+Ja przymknę oko na tę pani pomyłkę.
+
+430
+00:28:12,320 --> 00:28:16,200
+W zamian za to da pani czas
+na wyprowadzkę panu.
+
+431
+00:28:16,360 --> 00:28:18,520
+My czasu nie potrzebujemy.
+
+432
+00:28:18,680 --> 00:28:21,800
+Niczego od pani nie potrzebujemy.
+
+433
+00:28:21,960 --> 00:28:24,280
+To nawet miło z pana strony.
+
+434
+00:28:24,440 --> 00:28:28,200
+Panią zaproszę do radiowozu,
+spiszemy dane.
+
+435
+00:28:29,760 --> 00:28:31,760
+Dziękujemy, przepraszamy.
+
+436
+00:28:31,920 --> 00:28:33,720
+Pozdrów ekipę.
+
+437
+00:28:35,000 --> 00:28:38,560
+- Idziemy?
+- Nie, bez kocura się nie ruszam.
+
+438
+00:28:38,720 --> 00:28:40,520
+<font color="#16F158">Kot.</font>
+
+439
+00:28:43,120 --> 00:28:45,000
+<font color="#16F158">Kiciuś.</font>
+
+440
+00:28:45,160 --> 00:28:47,360
+Kici, kici, kici.
+
+441
+00:28:47,520 --> 00:28:49,320
+Gdzie on polazł?
+
+442
+00:28:50,640 --> 00:28:53,040
+<font color="#16F158">O!</font>
+<font color="#8080FF">MIAUCZENIE</font>
+
+443
+00:28:53,200 --> 00:28:56,200
+<font color="#16F158">Panie Szczepanie,</font>
+<font color="#16F158">czym pan go karmił?</font>
+
+444
+00:28:56,360 --> 00:28:58,760
+Zeżarł całą populację wróbla.
+
+445
+00:28:58,920 --> 00:29:01,560
+Pani bierze kota, my klamoty.
+
+446
+00:29:23,320 --> 00:29:25,120
+Cześć.
+<font color="#FFFF51">Cześć.</font>
+
+447
+00:29:26,200 --> 00:29:28,280
+Może się czegoś napijemy?
+
+448
+00:29:28,440 --> 00:29:30,240
+<font color="#FFFF51">Pewnie.</font>
+
+449
+00:29:39,000 --> 00:29:42,640
+<font color="#FFFF51">Dobra. Mówiłeś,</font>
+<font color="#FFFF51">że masz dla mnie jakiś temat.</font>
+
+450
+00:29:42,800 --> 00:29:46,720
+Zawsze musisz być
+taka konkretna do bólu?
+
+451
+00:29:48,160 --> 00:29:51,560
+Może napijmy się za miłe spotkanie.
+
+452
+00:30:09,680 --> 00:30:13,080
+Święty mikołaju,
+mogę mieć z tobą zdjęcie?
+
+453
+00:30:13,240 --> 00:30:18,040
+Byłem grzeczny, przyrzekam.
+Nie ciągnąłem siostry za włosy.
+
+454
+00:30:18,200 --> 00:30:20,000
+<font color="aqua">Okej.</font>
+
+455
+00:30:40,480 --> 00:30:44,640
+Tu mieszka mój kolega.
+Dzięki za podwózkę.
+
+456
+00:30:44,800 --> 00:30:46,880
+I za przechowanie rzeczy.
+
+457
+00:30:47,040 --> 00:30:51,680
+<font color="#16F158">Do kiedy możesz u niego zostać?</font>
+Do oporu, ma wolny pokój.
+
+458
+00:30:51,840 --> 00:30:55,160
+Nie ma problemu.
+Dbajcie o fotel. Dzięki.
+
+459
+00:31:12,480 --> 00:31:15,720
+<font color="#16F158">Nigdy nie wspominał</font>
+<font color="#16F158">o żadnym koledze.</font>
+
+460
+00:31:17,560 --> 00:31:20,280
+Dokładnie o tym samym pomyślałem.
+
+461
+00:31:33,520 --> 00:31:35,800
+<font color="#16F158">I co? Kolega się rozmyślił?</font>
+
+462
+00:31:35,960 --> 00:31:38,520
+Wyszedł na chwilę, zaraz wróci.
+
+463
+00:31:40,520 --> 00:31:43,520
+<font color="#16F158">Nie ma żadnego kolegi, prawda?</font>
+
+464
+00:31:43,680 --> 00:31:45,960
+<font color="#16F158">Będzie pan spał u nas.</font>
+
+465
+00:31:46,120 --> 00:31:50,360
+Nie będę siedział wam na głowie.
+Znajdę noclegownię.
+
+466
+00:31:50,520 --> 00:31:52,320
+Nie ma opcji.
+
+467
+00:31:54,240 --> 00:31:57,400
+<font color="#16F158">Tego nie robi się kotu.</font>
+<font color="#16F158">Proszę wsiadać.</font>
+
+468
+00:32:00,400 --> 00:32:02,920
+Daj się ponieść magii świąt.
+
+469
+00:32:03,080 --> 00:32:06,240
+Panie mikołaju,
+możemy jedną małą fotę?
+
+470
+00:32:08,920 --> 00:32:10,800
+Zrobi nam pani zdjęcie?
+
+471
+00:32:10,960 --> 00:32:14,600
+Zdjęcie od Cyganki
+to magiczne zdjęcie.
+
+472
+00:32:14,760 --> 00:32:16,560
+Wystarczy tu nacisnąć.
+
+473
+00:32:16,720 --> 00:32:19,680
+Ale potem wam powróżę.
+
+474
+00:32:19,840 --> 00:32:21,640
+Dwadzieścia złotych
+
+475
+00:32:21,800 --> 00:32:23,680
+i Cyganka prawdę powie.
+
+476
+00:32:23,840 --> 00:32:25,920
+Daję 50, reszta dla pani.
+
+477
+00:32:26,080 --> 00:32:28,880
+Może koleżanka się zdecyduje.
+
+478
+00:32:32,400 --> 00:32:34,440
+Dzięki.
+
+479
+00:32:38,160 --> 00:32:41,000
+Karta prawdę powie.
+
+480
+00:32:41,160 --> 00:32:42,960
+Śmiało, kochaneńka.
+
+481
+00:32:45,120 --> 00:32:47,440
+Kochaneńka...
+
+482
+00:32:47,600 --> 00:32:50,760
+<font color="#FFFF51">Niech pani nie mówi,</font>
+<font color="#FFFF51">wolę nie wiedzieć.</font>
+
+483
+00:32:50,920 --> 00:32:52,720
+A szkoda.
+
+484
+00:32:52,880 --> 00:32:54,920
+Szkoda.
+
+485
+00:32:55,080 --> 00:32:57,640
+Dziękujemy pani, mimo wszystko.
+
+486
+00:32:57,800 --> 00:33:01,360
+Wyluzuj, nie wierzysz w horoskopy?
+<font color="#FFFF51">Przestań.</font>
+
+487
+00:33:01,520 --> 00:33:06,320
+Wyjaśnij mi jeszcze z tymi
+kwiatami, nic o nich nie mówisz.
+
+488
+00:33:06,480 --> 00:33:08,720
+Jakaś wtopa z mojej strony?
+
+489
+00:33:08,880 --> 00:33:10,960
+<font color="#FFFF51">To były kwiaty od ciebie?</font>
+
+490
+00:33:11,120 --> 00:33:12,920
+Podpisałem się.
+
+491
+00:33:20,480 --> 00:33:24,200
+Mamo, to nie jest prawdziwy Mikołaj!
+
+492
+00:33:24,360 --> 00:33:26,160
+<font color="#8080FF">PŁACZ</font>
+
+493
+00:33:44,840 --> 00:33:46,880
+Ale tutaj masz...
+
+494
+00:33:47,040 --> 00:33:48,840
+królestwo.
+
+495
+00:33:49,000 --> 00:33:52,000
+Przepraszam, pokrzyżowałem ci plany.
+
+496
+00:33:52,160 --> 00:33:56,200
+Nie, zawsze nakrywam dla dwóch osób.
+
+497
+00:33:56,360 --> 00:34:01,000
+Żeby być przygotowanym
+na niespodziewane sytuacje.
+
+498
+00:34:04,160 --> 00:34:06,800
+Przepraszam i dziękuję.
+
+499
+00:34:06,960 --> 00:34:11,040
+Mam jeszcze taką prośbę.
+Dawno się nie kąpałem.
+
+500
+00:34:11,720 --> 00:34:15,800
+Jasne, łazienka jest za rogiem,
+ręczniki w szafce.
+
+501
+00:34:21,320 --> 00:34:24,040
+<font color="#16F158">Czekaj, kotku, bo zniszczysz coś.</font>
+
+502
+00:34:24,840 --> 00:34:26,840
+Mamy szczęście
+
+503
+00:34:27,000 --> 00:34:29,080
+do nietypowych randek.
+
+504
+00:34:29,240 --> 00:34:31,640
+<font color="#16F158">To my byliśmy już na jakiejś?</font>
+
+505
+00:34:31,800 --> 00:34:33,600
+<font color="#16F158">Mogę go puścić?</font>
+
+506
+00:34:37,800 --> 00:34:40,120
+Ponawiam pytanie.
+
+507
+00:34:44,080 --> 00:34:46,200
+Czy my...
+
+508
+00:34:49,520 --> 00:34:51,560
+<font color="#16F158">Czy my...?</font>
+
+509
+00:34:51,720 --> 00:34:53,520
+<font color="#16F158">Nie.</font>
+
+510
+00:34:53,680 --> 00:34:55,480
+<font color="#16F158">Spałeś jak dziecko.</font>
+
+511
+00:34:58,720 --> 00:35:01,160
+<font color="#16F158">Nawet raz puściłeś bąka.</font>
+
+512
+00:35:03,080 --> 00:35:04,880
+Fajnie.
+
+513
+00:35:07,000 --> 00:35:09,320
+Wszystko przed nami, prawie.
+
+514
+00:35:09,480 --> 00:35:11,280
+<font color="#16F158">Tak.</font>
+
+515
+00:35:17,080 --> 00:35:20,080
+Przepraszam,
+jak tu się wodę odkręca?
+
+516
+00:35:22,520 --> 00:35:24,320
+Pokażę ci.
+
+517
+00:35:33,880 --> 00:35:36,440
+Mam kasę dla ciebie i dla mnie.
+
+518
+00:35:40,880 --> 00:35:42,680
+<font color="aqua">Super.</font>
+
+519
+00:35:43,480 --> 00:35:45,520
+<font color="aqua">Chcesz grzańca?</font>
+
+520
+00:35:46,360 --> 00:35:48,560
+A to co?
+
+521
+00:35:49,720 --> 00:35:51,520
+<font color="aqua">To?</font>
+
+522
+00:35:53,280 --> 00:35:55,280
+<font color="aqua">Jest twoje.</font>
+
+523
+00:35:56,000 --> 00:35:57,800
+Dzięki.
+
+524
+00:35:58,600 --> 00:36:00,400
+<font color="aqua">Zwykły badziew.</font>
+
+525
+00:36:00,560 --> 00:36:02,960
+<font color="aqua">Cyganka wciska kit.</font>
+
+526
+00:36:04,560 --> 00:36:06,800
+Moja wróżba się sprawdziła.
+
+527
+00:36:06,960 --> 00:36:08,920
+<font color="aqua">Jasne.</font>
+
+528
+00:36:10,640 --> 00:36:14,200
+Idziemy z Kamą potańczyć.
+Chcesz iść z nami?
+
+529
+00:36:14,360 --> 00:36:17,000
+<font color="aqua">Nie, odpadam. Bawcie się dobrze.</font>
+
+530
+00:36:20,440 --> 00:36:23,320
+Okej. Pamiętaj, żeby oddać kostium.
+
+531
+00:36:24,080 --> 00:36:26,040
+Na razie.
+<font color="aqua">Pa.</font>
+
+532
+00:36:53,360 --> 00:36:55,160
+<font color="aqua">Ostatni.</font>
+
+533
+00:36:59,160 --> 00:37:00,960
+Cześć.
+
+534
+00:37:01,120 --> 00:37:04,760
+<font color="aqua">Cała Warszawa się tu zjechała?</font>
+Ja tu pracuję.
+
+535
+00:37:04,920 --> 00:37:09,200
+<font color="aqua">Dla kogo?</font>
+Otwieramy z bratem interes.
+
+536
+00:37:09,360 --> 00:37:11,840
+Wegeburgery.
+
+537
+00:37:13,080 --> 00:37:15,080
+<font color="aqua">A jesteście tu na stałe?</font>
+
+538
+00:37:15,240 --> 00:37:18,640
+<font color="aqua">Robimy remont</font>
+<font color="aqua">i przenosimy się do knajpki.</font>
+
+539
+00:37:18,800 --> 00:37:20,880
+<font color="aqua">Szukacie kogoś do pomocy?</font>
+
+540
+00:37:21,040 --> 00:37:23,040
+A co? Potrafisz malować?
+
+541
+00:37:23,200 --> 00:37:26,520
+<font color="aqua">Malować, panele położę...</font>
+<font color="aqua">Wykończeniówka.</font>
+
+542
+00:37:26,680 --> 00:37:29,400
+Ekipa remontowa nam się posypała.
+
+543
+00:37:29,560 --> 00:37:31,360
+Może zadzwonię?
+<font color="aqua">Super.</font>
+
+544
+00:37:31,520 --> 00:37:33,320
+Super.
+
+545
+00:37:33,480 --> 00:37:35,280
+Wszystko okej?
+
+546
+00:37:35,960 --> 00:37:37,760
+<font color="aqua">Chała jak zawsze.</font>
+
+547
+00:37:40,080 --> 00:37:43,720
+Wiesz, jaką kartę
+wyciągnęła tamta blondynka?
+
+548
+00:37:43,880 --> 00:37:46,760
+<font color="aqua">Wolę nie wiedzieć.</font>
+Taką samą jak ty.
+
+549
+00:37:48,560 --> 00:37:52,600
+Bądź sokołem, a nie sokolątkiem!
+
+550
+00:37:58,440 --> 00:38:00,760
+<font color="#FFFF51">Hej.</font>
+
+551
+00:38:00,920 --> 00:38:02,720
+<font color="aqua">Hej.</font>
+
+552
+00:38:02,880 --> 00:38:04,840
+<font color="aqua">Niuniek, chodź tu.</font>
+
+553
+00:38:07,880 --> 00:38:09,680
+<font color="#FFFF51">Co tu masz?</font>
+
+554
+00:38:13,720 --> 00:38:18,360
+<font color="aqua">Robiłem za mikołaja,</font>
+<font color="aqua">gdy ty miałaś ubaw z nowym kolegą.</font>
+
+555
+00:38:19,280 --> 00:38:21,080
+<font color="#FFFF51">To byłeś ty?</font>
+
+556
+00:38:23,400 --> 00:38:25,200
+<font color="aqua">Nie rozumiem.</font>
+
+557
+00:38:25,360 --> 00:38:27,760
+<font color="aqua">Po ci mi się nagrałaś,</font>
+
+558
+00:38:27,920 --> 00:38:30,920
+<font color="aqua">skoro randkujesz</font>
+<font color="aqua">z panem producentem?</font>
+
+559
+00:38:31,280 --> 00:38:35,600
+<font color="#FFFF51">To nie była randka,</font>
+<font color="#FFFF51">zaproponował mi pracę w reklamie.</font>
+
+560
+00:38:37,960 --> 00:38:40,760
+<font color="#FFFF51">A ta wiadomość była błędem.</font>
+
+561
+00:38:40,920 --> 00:38:46,200
+<font color="#FFFF51">Myślałam, że dostałam od ciebie</font>
+<font color="#FFFF51">kwiaty, że ci zależy. Nieważne.</font>
+
+562
+00:38:46,360 --> 00:38:48,160
+<font color="#FFFF51">Niuniuś!</font>
+
+563
+00:38:51,040 --> 00:38:52,840
+<font color="#FFFF51">Niuniek?</font>
+
+564
+00:38:53,000 --> 00:38:54,800
+<font color="aqua">Niuniek!</font>
+
+565
+00:38:55,880 --> 00:38:57,680
+<font color="#FFFF51">Niuniuś!</font>
+
+566
+00:38:58,920 --> 00:39:00,720
+<font color="#FFFF51">Niuniek!</font>
+
+567
+00:39:00,880 --> 00:39:02,680
+<font color="#16F158">Niuniuś!</font>
+
+568
+00:39:06,080 --> 00:39:10,240
+<font color="#16F158">Jak mogliście mi nie powiedzieć,</font>
+<font color="#16F158">że jesteście parą?</font>
+
+569
+00:39:10,400 --> 00:39:12,560
+<font color="aqua">Niczego nie skumałaś?</font>
+
+570
+00:39:13,880 --> 00:39:16,360
+<font color="#16F158">Niuniek!</font>
+<font color="#FFFF51">Niuniek!</font>
+
+571
+00:39:16,520 --> 00:39:18,320
+<font color="aqua">Przepraszam!</font>
+
+572
+00:39:18,480 --> 00:39:21,920
+<font color="aqua">Nie widziałaś małego pieska?</font>
+Nie.
+
+573
+00:39:22,080 --> 00:39:26,240
+<font color="#16F158">A takiego jak trzymasz na rękach</font>
+<font color="#16F158">też nie widziałaś?</font>
+
+574
+00:39:26,400 --> 00:39:28,200
+Nie.
+
+575
+00:39:28,360 --> 00:39:31,160
+<font color="#16F158">Oddaj nam psa.</font>
+Jest mój.
+
+576
+00:39:31,320 --> 00:39:35,280
+<font color="aqua">Jak twój? Niuniek, do nogi.</font>
+
+577
+00:39:35,440 --> 00:39:38,520
+Nie reaguje.
+<font color="#16F158">Bo trzymasz go na rękach.</font>
+
+578
+00:39:38,680 --> 00:39:40,480
+<font color="#FFFF51">Niuniuś, spokojnie.</font>
+
+579
+00:39:40,640 --> 00:39:42,800
+To ona, ma na imię Rachel.
+
+580
+00:39:42,960 --> 00:39:44,760
+<font color="aqua">Kłamczucho...</font>
+
+581
+00:39:44,920 --> 00:39:47,080
+Ej, zacznę krzyczeć.
+
+582
+00:39:47,240 --> 00:39:50,600
+Powiem, że mnie napadliście.
+
+583
+00:39:50,760 --> 00:39:52,760
+<font color="aqua">Ja nie mogę, sorry.</font>
+
+584
+00:39:52,920 --> 00:39:56,000
+<font color="#16F158">Dobra, czas na panią psycholog.</font>
+
+585
+00:39:56,160 --> 00:39:59,240
+<font color="#16F158">Jak masz na imię, dziewczynko?</font>
+Spadaj.
+
+586
+00:40:01,080 --> 00:40:03,880
+<font color="#16F158">Niuniuś jest dla nas jak rodzina.</font>
+
+587
+00:40:04,040 --> 00:40:07,320
+<font color="#16F158">A jakby ciebie</font>
+<font color="#16F158">ktoś zabrał od rodziców?</font>
+
+588
+00:40:07,480 --> 00:40:10,800
+<font color="#FFFF51">Nie chcesz, żeby był smutny.</font>
+<font color="#16F158">Żeby płakał.</font>
+
+589
+00:40:12,640 --> 00:40:14,440
+<font color="#16F158">Dasz nam pieska?</font>
+
+590
+00:40:17,760 --> 00:40:19,560
+<font color="#16F158">Dziękujemy.</font>
+
+591
+00:40:19,720 --> 00:40:21,520
+<font color="#16F158">Misja zakończona.</font>
+
+592
+00:40:21,680 --> 00:40:25,320
+<font color="#16F158">Świetnie. Gubicie Niuńka,</font>
+<font color="#16F158">okłamujecie mnie.</font>
+
+593
+00:40:25,480 --> 00:40:27,720
+<font color="#16F158">Co z wami jest nie tak, co?</font>
+
+594
+00:40:27,880 --> 00:40:31,280
+<font color="#16F158">Wiecie co? Walcie się.</font>
+
+595
+00:40:35,840 --> 00:40:39,520
+<font color="#FFFF51">Zośka ma rację.</font>
+<font color="#FFFF51">To wszystko jest nie tak.</font>
+
+596
+00:40:50,600 --> 00:40:52,520
+<font color="#FFFF51" tts:fontstyle="italic">Cześć, Bartek.</font>
+
+597
+00:40:52,680 --> 00:40:56,320
+<font color="#FFFF51" tts:fontstyle="italic">Może jednak powinniśmy spróbować.</font>
+<font color="#FFFF51" tts:fontstyle="italic">Przemyśl.</font>
+
+598
+00:40:57,280 --> 00:40:59,080
+<font color="#FFFF51" tts:fontstyle="italic">Do wieczora.</font>
+
+599
+00:41:01,000 --> 00:41:03,560
+<font fontstyle="italic">Wiadomość skasowano.</font>
+
+600
+00:41:12,320 --> 00:41:18,200
+Powinniście spędzić trochę czasu
+razem. Bez możliwości ucieczki.
+
+601
+00:41:18,360 --> 00:41:22,200
+Masz talent.
+Chcę cię mieć w zespole.
+
+602
+00:41:22,360 --> 00:41:24,480
+Przepraszam.
+
+603
+00:41:24,640 --> 00:41:27,360
+Dzień dobry, panie Szczepanie.
+
+604
+00:41:27,520 --> 00:41:29,560
+Cześć, Piotrek.
+
+605
+00:41:29,720 --> 00:41:33,880
+<font color="#FFFF51">Brzmi zupełnie</font>
+<font color="#FFFF51">jak utwór mojego przyjaciela.</font>
+
+606
+00:41:34,040 --> 00:41:37,040
+<font color="#16F158">Anka, wyciągnijcie mnie stąd!</font>
+<font color="#8080FF">KRZYCZY</font>
+
+607
+00:41:37,720 --> 00:41:41,880
+<font color="#FFFF51">Powinniśmy od siebie odpocząć.</font>
+<font color="aqua">Mam się wyprowadzić?</font>
+
+608
+00:41:43,000 --> 00:41:44,800
+PIOSENKA:
+
+609
+00:41:44,960 --> 00:41:50,600
+Gdy to nie twój dzień,
+a noc też pod włos,
+
+610
+00:41:52,280 --> 00:41:55,720
+obuchem prosto w twarz
+
+611
+00:41:55,880 --> 00:41:59,560
+daje ci głupi los.
+
+612
+00:42:00,600 --> 00:42:03,760
+Próbujesz się wzbić,
+
+613
+00:42:03,920 --> 00:42:07,800
+lecz prosto w mur upycha wiatr.
+
+614
+00:42:07,960 --> 00:42:12,280
+Wciąż nie ma hajsu i nie ma co jeść.
+
+615
+00:42:12,440 --> 00:42:16,320
+Napijmy się, chodźmy spać.
+
+616
+00:42:17,440 --> 00:42:20,080
+To nic.
+
+617
+00:42:21,400 --> 00:42:23,640
+To nic.
+
+618
+00:42:24,680 --> 00:42:26,760
+Nie łam się, będzie lżej.
+
+619
+00:42:26,920 --> 00:42:30,720
+Marzenia zakopane
+kiedyś spełnią się.
+
+620
+00:42:32,160 --> 00:42:34,480
+Ja mam ciebie, ty masz mnie.
+
+621
+00:42:34,640 --> 00:42:38,120
+Marzenia, jak sekrety,
+kiedyś spełnią się.
+
+622
+00:42:39,560 --> 00:42:41,640
+Nie łam się, będzie lżej.
+
+623
+00:42:41,800 --> 00:42:44,800
+Marzenia zakopane
+kiedyś spełnią się.
+
+624
+00:42:47,760 --> 00:42:50,080
+Ja mam ciebie, ty masz mnie.
+
+625
+00:42:50,240 --> 00:42:53,640
+Marzenia, jak sekrety,
+kiedyś spełnią się.
+
+626
+00:42:53,800 --> 00:42:56,520
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+627
+00:42:56,680 --> 00:43:00,160
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+628
+00:43:00,320 --> 00:43:03,480
+
+

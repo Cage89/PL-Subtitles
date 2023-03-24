@@ -1,0 +1,1314 @@
+1
+00:00:00,560 --> 00:00:06,040
+<font color="aqua">Przyrodnik doskonale zna każdego</font>
+<font color="aqua">mieszkańca nory i dziupli w lesie.</font>
+
+2
+00:00:06,200 --> 00:00:11,160
+<font color="aqua">Wystarczy mu jedno spojrzenie,</font>
+<font color="aqua">aby rozpoznać wszystkie dzięcioły.</font>
+
+3
+00:00:11,320 --> 00:00:15,960
+<font color="aqua">Tropienie dzikich zwierząt</font>
+<font color="aqua">dostosowuje do rytmu przyrody.</font>
+
+4
+00:00:16,120 --> 00:00:20,360
+<font color="aqua">Maj i czerwiec to dla ptaków</font>
+<font color="aqua">okres najbardziej pracowity.</font>
+
+5
+00:00:20,520 --> 00:00:23,920
+<font color="aqua">W wiosennym lesie</font>
+<font color="aqua">ptaki wiją gniazda,</font>
+
+6
+00:00:24,080 --> 00:00:26,920
+<font color="aqua">karmią i wychowują pisklaki.</font>
+
+7
+00:00:27,080 --> 00:00:31,800
+<font color="aqua">Poznajcie Łukasza Bożyckiego,</font>
+<font color="aqua">czyli przyrodnika na tropie.</font>
+
+8
+00:01:15,280 --> 00:01:18,440
+<font color="#FFFF51">Dziś będę podążał</font>
+<font color="#FFFF51">tropem niezwykłego ptaka,</font>
+
+9
+00:01:18,600 --> 00:01:21,320
+<font color="#FFFF51">który zadomowił się</font>
+<font color="#FFFF51">w języku polskim.</font>
+
+10
+00:01:21,480 --> 00:01:24,360
+<font color="#FFFF51">Jego nazwa pojawia się</font>
+<font color="#FFFF51">w wielu gwarach,</font>
+
+11
+00:01:24,520 --> 00:01:26,440
+<font color="#FFFF51">i to w różnym kontekście.</font>
+
+12
+00:01:26,600 --> 00:01:30,840
+<font color="#FFFF51">W gwarze przestępców</font>
+<font color="#FFFF51">oznacza kryminalistę i oszusta,</font>
+
+13
+00:01:31,000 --> 00:01:34,760
+<font color="#FFFF51">ale także policjanta,</font>
+<font color="#FFFF51">dozorcę, strażnika więzienia,</font>
+
+14
+00:01:34,920 --> 00:01:36,720
+<font color="#FFFF51">a także naczelnika.</font>
+
+15
+00:01:36,880 --> 00:01:40,600
+<font color="#FFFF51">Najczęściej więźniowie</font>
+<font color="#FFFF51">mówią tak o strażniku,</font>
+
+16
+00:01:40,760 --> 00:01:43,240
+<font color="#FFFF51">który uderza pałką o kraty.</font>
+
+17
+00:01:43,400 --> 00:01:45,560
+<font color="#FFFF51">Nasz bohater pojawia się także,</font>
+
+18
+00:01:45,720 --> 00:01:49,200
+<font color="#FFFF51">kiedy opisujemy cieślę,</font>
+<font color="#FFFF51">który dłubie w drewnie,</font>
+
+19
+00:01:49,360 --> 00:01:53,560
+<font color="#FFFF51">albo radiotelegrafistę,</font>
+<font color="#FFFF51">który nadaje alfabetem Morse'a.</font>
+
+20
+00:01:53,720 --> 00:01:57,600
+<font color="#FFFF51">Jego nazwę odnajdziemy także</font>
+<font color="#FFFF51">w gwarze uczniowskiej.</font>
+
+21
+00:01:57,760 --> 00:02:00,440
+<font color="#FFFF51">Reprezentuje nauczyciela</font>
+<font color="#FFFF51">albo ucznia,</font>
+
+22
+00:02:00,600 --> 00:02:04,160
+<font color="#FFFF51">szczególnie tego,</font>
+<font color="#FFFF51">który wykuwa wiedzę na pamięć.</font>
+
+23
+00:02:13,520 --> 00:02:15,720
+<font color="#FFFF51">"Kto by wiedział o dzięciole,</font>
+
+24
+00:02:15,880 --> 00:02:19,400
+<font color="#FFFF51">gdyby nie to,</font>
+<font color="#FFFF51">że on dziobem w drzewo kole"</font>
+
+25
+00:02:19,560 --> 00:02:23,920
+<font color="#FFFF51">- głosi przysłowie, które opisuje</font>
+<font color="#FFFF51">także osoby mało skromne,</font>
+
+26
+00:02:24,080 --> 00:02:27,880
+<font color="#FFFF51">ciągle opowiadające o sobie,</font>
+<font color="#FFFF51">żeby je dostrzeżono.</font>
+
+27
+00:02:28,040 --> 00:02:30,640
+<font color="#FFFF51">"Dzięciołowi swój dziób nie wadzi"</font>
+
+28
+00:02:30,800 --> 00:02:35,480
+<font color="#FFFF51">- to przysłowie dotyczy osób,</font>
+<font color="#FFFF51">które nie dostrzegają w sobie wad.</font>
+
+29
+00:02:36,240 --> 00:02:39,920
+<font color="aqua">Dzięcioł duży</font>
+<font color="aqua">należy do grupy dzięciołów pstrych,</font>
+
+30
+00:02:40,080 --> 00:02:44,000
+<font color="aqua">co widać po jego</font>
+<font color="aqua">biało-czarnym ubarwieniu.</font>
+
+31
+00:02:44,160 --> 00:02:48,960
+<font color="aqua">Wyróżnia się na tle innych</font>
+<font color="aqua">dzięciołów czerwonym podogoniem,</font>
+
+32
+00:02:49,120 --> 00:02:52,280
+<font color="aqua">które ostro odcina się</font>
+<font color="aqua">od białego brzucha,</font>
+
+33
+00:02:52,440 --> 00:02:55,840
+<font color="aqua">oraz czarnym wąsem,</font>
+<font color="aqua">łączącym dziób z karkiem.</font>
+
+34
+00:02:56,000 --> 00:03:00,400
+<font color="aqua">Głowa dzięcioła dużego</font>
+<font color="aqua">pozwala rozróżnić płeć ptaka.</font>
+
+35
+00:03:00,560 --> 00:03:02,480
+<font color="aqua">Samica ma ciemny tył głowy,</font>
+
+36
+00:03:02,640 --> 00:03:05,680
+<font color="aqua">a samiec - czerwoną plamę</font>
+<font color="aqua">na potylicy.</font>
+
+37
+00:03:05,840 --> 00:03:09,320
+<font color="aqua">Sztywny ogon</font>
+<font color="aqua">i dwa palce skierowane do tyłu</font>
+
+38
+00:03:09,480 --> 00:03:14,040
+<font color="aqua">ułatwiają dzięciołom</font>
+<font color="aqua">poruszanie się po pionowych pniach.</font>
+
+39
+00:03:48,120 --> 00:03:52,920
+<font color="#FFFF51">Dzięcioł duży jest najliczniejszym</font>
+<font color="#FFFF51">gatunkiem dzięcioła w Polsce.</font>
+
+40
+00:03:53,080 --> 00:03:57,800
+<font color="#FFFF51">Najczęściej żyje w lesie iglastym,</font>
+<font color="#FFFF51">w zwartym kompleksie leśnym,</font>
+
+41
+00:03:57,960 --> 00:04:01,720
+<font color="#FFFF51">ale oczywiście także</font>
+<font color="#FFFF51">w innego rodzaju siedliskach,</font>
+
+42
+00:04:01,880 --> 00:04:05,440
+<font color="#FFFF51">bo nieustannie powiększa się</font>
+<font color="#FFFF51">jego populacja.</font>
+
+43
+00:04:05,600 --> 00:04:09,320
+<font color="#FFFF51">Badania prowadzone w Polsce</font>
+<font color="#FFFF51">od 2002 roku pokazały,</font>
+
+44
+00:04:09,480 --> 00:04:13,600
+<font color="#FFFF51">że corocznie ten wzrost</font>
+<font color="#FFFF51">jest na poziomie 2 procent,</font>
+
+45
+00:04:13,760 --> 00:04:16,760
+<font color="#FFFF51">a w skali Europy</font>
+<font color="#FFFF51">w ciągu ostatnich 40 lat</font>
+
+46
+00:04:16,920 --> 00:04:21,080
+<font color="#FFFF51">liczebność dzięcioła dużego</font>
+<font color="#FFFF51">wzrosła aż o 70 procent.</font>
+
+47
+00:05:11,840 --> 00:05:13,920
+<font color="#FFFF51">Działalność dzięcioła dużego</font>
+
+48
+00:05:14,080 --> 00:05:17,280
+<font color="#FFFF51">przynosi wiele korzyści</font>
+<font color="#FFFF51">całej przyrodzie.</font>
+
+49
+00:05:17,440 --> 00:05:20,960
+<font color="#FFFF51">Dziuple wykuwane w drzewach</font>
+<font color="#FFFF51">na różnej wysokości</font>
+
+50
+00:05:21,120 --> 00:05:25,040
+<font color="#FFFF51">przynoszą wiele korzyści</font>
+<font color="#FFFF51">różnym gatunkom zwierząt.</font>
+
+51
+00:05:25,200 --> 00:05:29,640
+<font color="#FFFF51">Chcąc je wymienić, musiałbym</font>
+<font color="#FFFF51">zacząć od owadów i pajęczaków,</font>
+
+52
+00:05:29,800 --> 00:05:32,400
+<font color="#FFFF51">a skończyć na ptakach i ssakach.</font>
+
+53
+00:05:32,560 --> 00:05:37,720
+<font color="#FFFF51">Dzięcioł duży odgrywa także</font>
+<font color="#FFFF51">ważną rolę w łańcuchu pokarmowym,</font>
+
+54
+00:05:37,880 --> 00:05:42,520
+<font color="#FFFF51">ponieważ trzyma w ryzach</font>
+<font color="#FFFF51">różne owady żywiące się drewnem.</font>
+
+55
+00:05:42,680 --> 00:05:45,360
+<font color="#FFFF51">W związku z tym</font>
+<font color="#FFFF51">drzewa rosną lepiej.</font>
+
+56
+00:05:45,520 --> 00:05:48,600
+<font color="#FFFF51">Dziś opowiem</font>
+<font color="#FFFF51">o powiązaniu dzięcioła dużego</font>
+
+57
+00:05:48,760 --> 00:05:50,840
+<font color="#FFFF51">z innymi mieszkańcami lasu.</font>
+
+58
+00:05:53,400 --> 00:05:57,640
+<font color="aqua">Dzięcioł czarny także prowadzi</font>
+<font color="aqua">nadrzewny tryb życia:</font>
+
+59
+00:05:57,800 --> 00:06:02,160
+<font color="aqua">wykuwa dziuple, broni swojego</font>
+<font color="aqua">terytorium przed intruzami</font>
+
+60
+00:06:02,320 --> 00:06:05,600
+<font color="aqua">oraz żywi się owadami</font>
+<font color="aqua">wydobywanymi z drewna.</font>
+
+61
+00:06:28,320 --> 00:06:33,200
+<font color="#FFFF51">Dzięcioł czarny jest największym</font>
+<font color="#FFFF51">naszym krajowym dzięciołem.</font>
+
+62
+00:06:33,360 --> 00:06:36,840
+<font color="#FFFF51">Dziuple, które wykuwa,</font>
+<font color="#FFFF51">także są największe.</font>
+
+63
+00:06:37,000 --> 00:06:41,520
+<font color="#FFFF51">Ich otwór wlotowy może mieć</font>
+<font color="#FFFF51">średnicę aż do 12 centymetrów.</font>
+
+64
+00:06:41,680 --> 00:06:44,400
+<font color="#FFFF51">Terytorium,</font>
+<font color="#FFFF51">które zajmuje jedna para,</font>
+
+65
+00:06:44,560 --> 00:06:48,320
+<font color="#FFFF51">także jest największe</font>
+<font color="#FFFF51">spośród wszystkich dzięciołów</font>
+
+66
+00:06:48,480 --> 00:06:51,440
+<font color="#FFFF51">i może mieć powierzchnię</font>
+<font color="#FFFF51">do 400 hektarów.</font>
+
+67
+00:06:51,600 --> 00:06:55,600
+<font color="#FFFF51">Gdyby było kwadratowe,</font>
+<font color="#FFFF51">bok miałoby 2 kilometry długości.</font>
+
+68
+00:07:04,600 --> 00:07:08,440
+<font color="#FFFF51">Terytorium dzięcioła czarnego</font>
+<font color="#FFFF51">musi być zróżnicowane,</font>
+
+69
+00:07:08,600 --> 00:07:10,640
+<font color="#FFFF51">żeby ptak tam zamieszkał.</font>
+
+70
+00:07:10,800 --> 00:07:16,280
+<font color="#FFFF51">Takie bagienko jest na wagę złota,</font>
+<font color="#FFFF51">bo jest tu dużo martwego drewna,</font>
+
+71
+00:07:16,440 --> 00:07:20,360
+<font color="#FFFF51">a martwe drewno to jest to,</font>
+<font color="#FFFF51">co kocha każdy dzięcioł.</font>
+
+72
+00:07:20,520 --> 00:07:24,920
+<font color="#FFFF51">Obszar występowania</font>
+<font color="#FFFF51">dzięcioła czarnego ma kilka stref.</font>
+
+73
+00:07:25,080 --> 00:07:28,800
+<font color="#FFFF51">Najważniejsza jest strefa</font>
+<font color="#FFFF51">odzywania i bębnienia.</font>
+
+74
+00:07:28,960 --> 00:07:31,840
+<font color="#FFFF51">Może mieć 200 hektarów powierzchni.</font>
+
+75
+00:07:32,000 --> 00:07:36,560
+<font color="#FFFF51">Inne strefy to strefy żerowania,</font>
+<font color="#FFFF51">nocowania, przelotów,</font>
+
+76
+00:07:36,720 --> 00:07:40,280
+<font color="#FFFF51">a także strefa,</font>
+<font color="#FFFF51">w której dzięcioł odpoczywa.</font>
+
+77
+00:07:59,880 --> 00:08:03,440
+<font color="aqua">Modraszka buduje gniazdo</font>
+<font color="aqua">w dziuplach naturalnych</font>
+
+78
+00:08:03,600 --> 00:08:05,880
+<font color="aqua">lub wykutych przez dzięcioły.</font>
+
+79
+00:08:06,040 --> 00:08:08,320
+<font color="aqua">Jest to przykład komensalizmu,</font>
+
+80
+00:08:08,480 --> 00:08:12,200
+<font color="aqua">czyli współżycia korzystnego</font>
+<font color="aqua">dla jednego gatunku</font>
+
+81
+00:08:12,360 --> 00:08:14,600
+<font color="aqua">i obojętnego dla drugiego.</font>
+
+82
+00:08:33,280 --> 00:08:37,080
+<font color="#FFFF51">Modraszka - powszechnie znana</font>
+<font color="#FFFF51">i lubiana sikora.</font>
+
+83
+00:08:37,240 --> 00:08:41,800
+<font color="#FFFF51">Dawniej mówiono na nią</font>
+<font color="#FFFF51">sikorka siniczka albo żydóweczka.</font>
+
+84
+00:08:41,960 --> 00:08:46,280
+<font color="#FFFF51">To pewnie ze względu</font>
+<font color="#FFFF51">na niebieską czapeczkę na głowie.</font>
+
+85
+00:08:46,440 --> 00:08:49,080
+<font color="#FFFF51">Wielu pewnie przypominała jarmułkę.</font>
+
+86
+00:08:49,240 --> 00:08:54,000
+<font color="#FFFF51">Żeby fotografować modraszkę,</font>
+<font color="#FFFF51">będę musiał się posłużyć namiotem.</font>
+
+87
+00:08:54,160 --> 00:08:55,960
+<font color="#FFFF51">Zaraz będę gotowy.</font>
+
+88
+00:09:07,960 --> 00:09:12,120
+<font color="#FFFF51">Namiot powoduje, że ptaki</font>
+<font color="#FFFF51">nie rozpoznają człowieka.</font>
+
+89
+00:09:12,280 --> 00:09:15,040
+<font color="#FFFF51">Mogą zajmować się swoimi sprawami,</font>
+
+90
+00:09:15,200 --> 00:09:19,000
+<font color="#FFFF51">a ja mogę swobodnie</font>
+<font color="#FFFF51">je fotografować i filmować.</font>
+
+91
+00:09:19,160 --> 00:09:24,080
+<font color="#FFFF51">Modraszka zasiedla najczęściej</font>
+<font color="#FFFF51">dziuple albo podobne miejsca,</font>
+
+92
+00:09:24,240 --> 00:09:27,480
+<font color="#FFFF51">czyli różne szczeliny</font>
+<font color="#FFFF51">albo budki lęgowe.</font>
+
+93
+00:09:27,640 --> 00:09:30,760
+<font color="#FFFF51">Modraszka jest bardzo</font>
+<font color="#FFFF51">walecznym gatunkiem</font>
+
+94
+00:09:30,920 --> 00:09:36,200
+<font color="#FFFF51">i jak podoba się jej jakaś budka,</font>
+<font color="#FFFF51">to walczy z innymi sikorami.</font>
+
+95
+00:09:36,360 --> 00:09:40,160
+<font color="#FFFF51">Jest nawet takie powiedzonko</font>
+<font color="#FFFF51">wśród ornitologów,</font>
+
+96
+00:09:40,320 --> 00:09:43,800
+<font color="#FFFF51">że gdyby modraszka</font>
+<font color="#FFFF51">była wielkości sójki...</font>
+
+97
+00:09:43,960 --> 00:09:46,080
+<font color="#FFFF51">oj, coś mi tu wleciało...</font>
+
+98
+00:09:46,280 --> 00:09:48,280
+<font color="#FFFF51">to polowałaby na ptaki.</font>
+
+99
+00:09:48,440 --> 00:09:52,600
+<font color="#FFFF51">A tymczasem modraszka</font>
+<font color="#FFFF51">waży jedynie dziesięć gramów.</font>
+
+100
+00:10:17,440 --> 00:10:20,640
+<font color="#FFFF51">Ten las jest zbyt młody</font>
+<font color="#FFFF51">i zbyt jednorodny.</font>
+
+101
+00:10:20,800 --> 00:10:25,120
+<font color="#FFFF51">Rosną w nim same sosny,</font>
+<font color="#FFFF51">więc jest mało naturalnych dziupli</font>
+
+102
+00:10:25,280 --> 00:10:27,760
+<font color="#FFFF51">i tych wykutych przez dzięcioły.</font>
+
+103
+00:10:27,920 --> 00:10:32,000
+<font color="#FFFF51">Modraszki potrzebują wsparcia.</font>
+<font color="#FFFF51">Zawieszę dla nich budkę.</font>
+
+104
+00:10:32,160 --> 00:10:35,640
+<font color="#FFFF51">Otwór wlotowy</font>
+<font color="#FFFF51">jest charakterystyczny,</font>
+
+105
+00:10:35,800 --> 00:10:38,760
+<font color="#FFFF51">bo ma średnicę 28 milimetrów,</font>
+
+106
+00:10:38,920 --> 00:10:41,960
+<font color="#FFFF51">co oznacza,</font>
+<font color="#FFFF51">że jest idealny dla modraszki,</font>
+
+107
+00:10:42,120 --> 00:10:46,800
+<font color="#FFFF51">ale zbyt wąski dla bogatki,</font>
+<font color="#FFFF51">która do środka się nie zmieści.</font>
+
+108
+00:10:46,960 --> 00:10:50,960
+<font color="#FFFF51">Więc modraszka ma wsparcie</font>
+<font color="#FFFF51">już na samym początku.</font>
+
+109
+00:10:51,120 --> 00:10:53,000
+<font color="#FFFF51">To drzewo będzie dobre.</font>
+
+110
+00:10:53,560 --> 00:10:56,400
+<font color="#FFFF51">Budka i sprzęt - na ziemię</font>
+
+111
+00:10:56,560 --> 00:10:58,360
+<font color="#FFFF51">i wspinam się na górę.</font>
+
+112
+00:11:45,920 --> 00:11:50,080
+<font color="#FFFF51">Doszedłem do trudnego momentu,</font>
+<font color="#FFFF51">w którym są gałęzie.</font>
+
+113
+00:11:50,240 --> 00:11:53,880
+<font color="#FFFF51">Żeby je przejść,</font>
+<font color="#FFFF51">muszę skorzystać z dwóch lin.</font>
+
+114
+00:11:54,040 --> 00:11:57,400
+<font color="#FFFF51">Ta jaskrawa</font>
+<font color="#FFFF51">to lina asekuracyjna, dodatkowa.</font>
+
+115
+00:11:57,560 --> 00:11:59,360
+<font color="#FFFF51">To jest lina główna.</font>
+
+116
+00:11:59,520 --> 00:12:03,920
+<font color="#FFFF51">Żeby przejść przez gałąź,</font>
+<font color="#FFFF51">mogę odkręcić zabezpieczenie,</font>
+
+117
+00:12:04,080 --> 00:12:06,400
+<font color="#FFFF51">odpiąć linę asekuracyjną,</font>
+
+118
+00:12:06,560 --> 00:12:10,440
+<font color="#FFFF51">cały czas jestem zabezpieczony</font>
+<font color="#FFFF51">na głównej linie,</font>
+
+119
+00:12:10,600 --> 00:12:12,400
+<font color="#FFFF51">przełożyć ją,</font>
+
+120
+00:12:12,960 --> 00:12:14,960
+<font color="#FFFF51">z powrotem się przypiąć,</font>
+
+121
+00:12:16,320 --> 00:12:18,320
+<font color="#FFFF51">zakręcić zabezpieczenie.</font>
+
+122
+00:12:18,480 --> 00:12:21,640
+<font color="#FFFF51">W ten sposób</font>
+<font color="#FFFF51">jestem przypięty do drzewa.</font>
+
+123
+00:12:21,800 --> 00:12:23,600
+<font color="#FFFF51">Odpinam linę główną...</font>
+
+124
+00:12:23,760 --> 00:12:26,440
+<font color="#FFFF51">O! Zrobiło się luźno,</font>
+
+125
+00:12:26,600 --> 00:12:28,400
+<font color="#FFFF51">przez chwilę groźnie.</font>
+
+126
+00:12:33,240 --> 00:12:36,040
+<font color="#FFFF51">I wszystko dobrze. Mogę iść dalej.</font>
+
+127
+00:12:41,680 --> 00:12:46,560
+<font color="#FFFF51">Ale piękny widok. Każda modraszka</font>
+<font color="#FFFF51">będzie kochała to miejsce.</font>
+
+128
+00:12:46,720 --> 00:12:48,520
+<font color="#FFFF51">Teraz wciągam budkę</font>
+
+129
+00:12:48,680 --> 00:12:50,840
+<font color="#FFFF51">i zaraz będzie po sprawie.</font>
+
+130
+00:13:10,920 --> 00:13:14,680
+<font color="#FFFF51">Zwróćcie uwagę</font>
+<font color="#FFFF51">na tę dodatkową deskę na budce.</font>
+
+131
+00:13:14,840 --> 00:13:19,080
+<font color="#FFFF51">Jest ona po to, żeby kuna,</font>
+<font color="#FFFF51">która usiądzie na daszku budki,</font>
+
+132
+00:13:19,240 --> 00:13:21,880
+<font color="#FFFF51">nie mogła włożyć do środka łapy.</font>
+
+133
+00:13:22,040 --> 00:13:25,760
+<font color="#FFFF51">Jest też po to,</font>
+<font color="#FFFF51">żeby zabezpieczyć młode pisklęta</font>
+
+134
+00:13:25,920 --> 00:13:29,040
+<font color="#FFFF51">przed rozkuwaniem budki</font>
+<font color="#FFFF51">przez dzięcioła.</font>
+
+135
+00:13:29,200 --> 00:13:32,840
+<font color="#FFFF51">Kolejna ważna rzecz</font>
+<font color="#FFFF51">to zamocowanie na dole,</font>
+
+136
+00:13:33,000 --> 00:13:37,560
+<font color="#FFFF51">żeby można było budkę z łatwością</font>
+<font color="#FFFF51">skontrolować i wyczyścić.</font>
+
+137
+00:13:37,720 --> 00:13:40,480
+<font color="#FFFF51">Budka jest gotowa,</font>
+<font color="#FFFF51">widok jest piękny.</font>
+
+138
+00:13:40,640 --> 00:13:42,520
+<font color="#FFFF51">Mogę schodzić na dół.</font>
+
+139
+00:13:45,080 --> 00:13:49,280
+<font color="aqua">Szpak korzysta z pustej dziupli</font>
+<font color="aqua">wykutej przez dzięcioły.</font>
+
+140
+00:13:49,440 --> 00:13:52,040
+<font color="aqua">Najpierw zasiedlane są te dziuple,</font>
+
+141
+00:13:52,200 --> 00:13:56,680
+<font color="aqua">które mają otwór wlotowy</font>
+<font color="aqua">o średnicy pięciu centymetrów.</font>
+
+142
+00:14:21,320 --> 00:14:23,760
+<font color="#FFFF51">Szpaka wszyscy doskonale znamy.</font>
+
+143
+00:14:23,920 --> 00:14:25,760
+<font color="#FFFF51">Jedni go uwielbiają za to,</font>
+
+144
+00:14:25,920 --> 00:14:30,440
+<font color="#FFFF51">że pięknie śpiewa i potrafi</font>
+<font color="#FFFF51">naśladować głosy innych ptaków.</font>
+
+145
+00:14:30,600 --> 00:14:35,280
+<font color="#FFFF51">Ale są i tacy, którzy szpaka</font>
+<font color="#FFFF51">nienawidzą i toczą z nim wojny.</font>
+
+146
+00:14:35,440 --> 00:14:39,440
+<font color="#FFFF51">Nie mogę się zgodzić</font>
+<font color="#FFFF51">z plantatorami czereśni i wiśni,</font>
+
+147
+00:14:39,600 --> 00:14:41,400
+<font color="#FFFF51">że szpak to szkodnik.</font>
+
+148
+00:14:41,560 --> 00:14:45,520
+<font color="#FFFF51">Możemy się od niego dużo nauczyć.</font>
+<font color="#FFFF51">Podam wam przykład.</font>
+
+149
+00:14:55,800 --> 00:14:59,920
+<font color="#FFFF51">Na takim skraju lasu</font>
+<font color="#FFFF51">żyły dwa samce szpaków.</font>
+
+150
+00:15:00,080 --> 00:15:04,400
+<font color="#FFFF51">Jeden z nich pięknie śpiewał</font>
+<font color="#FFFF51">i niesamowicie wyglądał.</font>
+
+151
+00:15:04,560 --> 00:15:06,560
+<font color="#FFFF51">Można to było poznać po tym,</font>
+
+152
+00:15:06,720 --> 00:15:10,600
+<font color="#FFFF51">że kilka samiczek szpaków</font>
+<font color="#FFFF51">kręciło się wokół niego.</font>
+
+153
+00:15:10,760 --> 00:15:12,920
+<font color="#FFFF51">Drugi szpak był zwyczajny.</font>
+
+154
+00:15:13,080 --> 00:15:16,640
+<font color="#FFFF51">Dobrze śpiewał i wyglądał,</font>
+<font color="#FFFF51">ale nic szczególnego.</font>
+
+155
+00:15:16,800 --> 00:15:19,640
+<font color="#FFFF51">Zainteresowała się nim</font>
+<font color="#FFFF51">jedna samiczka.</font>
+
+156
+00:15:19,800 --> 00:15:22,880
+<font color="#FFFF51">Tego pierwszego</font>
+<font color="#FFFF51">nazwę "superszpakiem".</font>
+
+157
+00:15:23,040 --> 00:15:24,840
+<font color="#FFFF51">Był on ptasim celebrytą,</font>
+
+158
+00:15:25,000 --> 00:15:29,520
+<font color="#FFFF51">ponieważ ostatecznie pięć samic</font>
+<font color="#FFFF51">założyło z nim rodzinę</font>
+
+159
+00:15:29,680 --> 00:15:33,440
+<font color="#FFFF51">i łącznie złożyły aż 25 jaj.</font>
+
+160
+00:15:36,000 --> 00:15:37,800
+<font color="#FFFF51">Przyszły deszczowe dni.</font>
+
+161
+00:15:37,960 --> 00:15:40,760
+<font color="#FFFF51">Superszpak,</font>
+<font color="#FFFF51">zamiast pomagać samicom,</font>
+
+162
+00:15:40,920 --> 00:15:44,680
+<font color="#FFFF51">musiał wszystkim udowodnić,</font>
+<font color="#FFFF51">że jest superszpakiem,</font>
+
+163
+00:15:44,840 --> 00:15:47,840
+<font color="#FFFF51">więc połowę czasu</font>
+<font color="#FFFF51">poświęcał na śpiewanie</font>
+
+164
+00:15:48,000 --> 00:15:49,960
+<font color="#FFFF51">i czyszczenie swoich piórek.</font>
+
+165
+00:15:50,120 --> 00:15:53,240
+<font color="#FFFF51">Nie pomagał samicom</font>
+<font color="#FFFF51">przy wysiadywaniu jaj,</font>
+
+166
+00:15:53,400 --> 00:15:56,120
+<font color="#FFFF51">więc połowa piskląt</font>
+<font color="#FFFF51">się nie wykluła,</font>
+
+167
+00:15:56,280 --> 00:16:00,120
+<font color="#FFFF51">a ta część, która się wykluła,</font>
+<font color="#FFFF51">musiała być karmiona.</font>
+
+168
+00:16:00,280 --> 00:16:02,880
+<font color="#FFFF51">Superszpak</font>
+<font color="#FFFF51">mógłby pomagać samicom,</font>
+
+169
+00:16:03,040 --> 00:16:04,840
+<font color="#FFFF51">ale tego nie robił,</font>
+
+170
+00:16:05,000 --> 00:16:08,240
+<font color="#FFFF51">bo musiał udowadniać wszystkim,</font>
+<font color="#FFFF51">że jest super.</font>
+
+171
+00:16:08,400 --> 00:16:13,280
+<font color="#FFFF51">Samice pozostały same sobie,</font>
+<font color="#FFFF51">większość piskląt nie przeżyła,</font>
+
+172
+00:16:13,440 --> 00:16:16,920
+<font color="#FFFF51">a samica, która związała się</font>
+<font color="#FFFF51">z superszpakiem,</font>
+
+173
+00:16:17,080 --> 00:16:22,160
+<font color="#FFFF51">nie mogła wychować potomstwa</font>
+<font color="#FFFF51">i przeżyły jedynie trzy pisklęta.</font>
+
+174
+00:16:22,360 --> 00:16:27,080
+<font color="#FFFF51">W przypadku zwyczajnego szpaka</font>
+<font color="#FFFF51">sytuacja wyglądała inaczej.</font>
+
+175
+00:16:27,240 --> 00:16:31,240
+<font color="#FFFF51">Nie musiał wszystkim udowadniać,</font>
+<font color="#FFFF51">jaki jest super.</font>
+
+176
+00:16:31,400 --> 00:16:36,720
+<font color="#FFFF51">Jak padał deszcz, pomagał samicy</font>
+<font color="#FFFF51">i wspólnie wysiadywali jajka.</font>
+
+177
+00:16:36,880 --> 00:16:41,640
+<font color="#FFFF51">Piątka piskląt wykluła się</font>
+<font color="#FFFF51">i później trzeba je było karmić.</font>
+
+178
+00:16:41,800 --> 00:16:44,280
+<font color="#FFFF51">Zwyczajny szpak pomagał samicy,</font>
+
+179
+00:16:44,440 --> 00:16:46,960
+<font color="#FFFF51">więc wszystkie pisklęta dorosły.</font>
+
+180
+00:16:47,120 --> 00:16:49,560
+<font color="#FFFF51">Jaki jest morał z tej opowieści?</font>
+
+181
+00:16:49,920 --> 00:16:53,040
+<font color="#FFFF51">Być może nie warto</font>
+<font color="#FFFF51">wiązać się z celebrytami,</font>
+
+182
+00:16:53,200 --> 00:16:57,920
+<font color="#FFFF51">tylko poszukać kogoś zwyczajnego</font>
+<font color="#FFFF51">i z nim spędzić resztę życia.</font>
+
+183
+00:16:58,800 --> 00:17:01,600
+<font color="aqua">Gągoł zasiedla największe dziuple.</font>
+
+184
+00:17:01,760 --> 00:17:05,400
+<font color="aqua">Ich głębokość może sięgać</font>
+<font color="aqua">do 220 centymetrów,</font>
+
+185
+00:17:05,560 --> 00:17:08,560
+<font color="aqua">choć zwykle</font>
+<font color="aqua">mają nie więcej niż metr.</font>
+
+186
+00:17:25,880 --> 00:17:28,960
+<font color="#FFFF51">Gągoła najłatwiej spotkać</font>
+<font color="#FFFF51">w Polsce zimą,</font>
+
+187
+00:17:29,120 --> 00:17:32,200
+<font color="#FFFF51">ponieważ 3 procent</font>
+<font color="#FFFF51">europejskich gągołów</font>
+
+188
+00:17:32,360 --> 00:17:36,120
+<font color="#FFFF51">ucieka przed niską</font>
+<font color="#FFFF51">temperaturą północy do Polski.</font>
+
+189
+00:17:36,280 --> 00:17:39,360
+<font color="#FFFF51">Latem sprawa</font>
+<font color="#FFFF51">nie jest już taka prosta.</font>
+
+190
+00:17:39,520 --> 00:17:41,320
+<font color="#FFFF51">Ornitolodzy szacują,</font>
+
+191
+00:17:41,480 --> 00:17:45,840
+<font color="#FFFF51">że w Polsce do lęgu przystępuje</font>
+<font color="#FFFF51">jedynie 3000 par gągołów.</font>
+
+192
+00:17:46,000 --> 00:17:49,880
+<font color="#FFFF51">Najłatwiej go spotkać</font>
+<font color="#FFFF51">na takich leśnych jeziorkach</font>
+
+193
+00:17:50,040 --> 00:17:53,840
+<font color="#FFFF51">oraz na dużych, rozległych</font>
+<font color="#FFFF51">polodowcowych jeziorach,</font>
+
+194
+00:17:54,000 --> 00:17:57,240
+<font color="#FFFF51">np. na Mazurach</font>
+<font color="#FFFF51">czy w Puszczy Augustowskiej.</font>
+
+195
+00:18:07,240 --> 00:18:12,120
+<font color="#FFFF51">Gągoły zakładają gniazdo</font>
+<font color="#FFFF51">w nietypowym miejscu jak na kaczki,</font>
+
+196
+00:18:12,280 --> 00:18:14,760
+<font color="#FFFF51">bo w dużej, głębokiej dziupli.</font>
+
+197
+00:18:14,920 --> 00:18:18,360
+<font color="#FFFF51">Najczęściej jest to dziupla</font>
+<font color="#FFFF51">dzięcioła czarnego,</font>
+
+198
+00:18:18,520 --> 00:18:20,560
+<font color="#FFFF51">która ma na tyle duży otwór,</font>
+
+199
+00:18:20,720 --> 00:18:24,000
+<font color="#FFFF51">że ta kaczka</font>
+<font color="#FFFF51">może zmieścić się do środka.</font>
+
+200
+00:18:24,160 --> 00:18:28,120
+<font color="#FFFF51">Gągoły najbardziej lubią dziuple</font>
+<font color="#FFFF51">wysoko na drzewie,</font>
+
+201
+00:18:28,280 --> 00:18:30,360
+<font color="#FFFF51">np. 20 metrów nad ziemią.</font>
+
+202
+00:18:30,520 --> 00:18:34,680
+<font color="#FFFF51">Samica składa jedno jajo dziennie,</font>
+<font color="#FFFF51">ale nie wysiaduje go.</font>
+
+203
+00:18:34,840 --> 00:18:37,440
+<font color="#FFFF51">Dopiero gdy będzie</font>
+<font color="#FFFF51">pełne zniesienie,</font>
+
+204
+00:18:37,600 --> 00:18:39,960
+<font color="#FFFF51">wysiaduje wszystkie jaja naraz.</font>
+
+205
+00:18:40,120 --> 00:18:44,200
+<font color="#FFFF51">Dzięki temu pisklęta wyklują się</font>
+<font color="#FFFF51">w tym samym czasie.</font>
+
+206
+00:18:44,360 --> 00:18:48,360
+<font color="#FFFF51">Samica buduje gniazdo,</font>
+<font color="#FFFF51">wyrywając sobie pióra z piersi.</font>
+
+207
+00:18:48,520 --> 00:18:52,760
+<font color="#FFFF51">Ale to nie jest oryginalne,</font>
+<font color="#FFFF51">bo tak robi większość kaczek.</font>
+
+208
+00:18:53,720 --> 00:18:55,520
+<font color="aqua">Dieta dzięcioła dużego</font>
+
+209
+00:18:55,680 --> 00:18:59,880
+<font color="aqua">jest najbardziej zróżnicowana</font>
+<font color="aqua">na tle polskich dzięciołów.</font>
+
+210
+00:19:00,040 --> 00:19:02,920
+<font color="aqua">Zimą chętnie żywi się</font>
+<font color="aqua">nasionami sosny,</font>
+
+211
+00:19:03,080 --> 00:19:06,200
+<font color="aqua">które wyłuskuje</font>
+<font color="aqua">z dojrzałych szyszek.</font>
+
+212
+00:20:08,000 --> 00:20:11,720
+<font color="#FFFF51">Podczas zimy,</font>
+<font color="#FFFF51">gdy kończą się dzięciołom owady,</font>
+
+213
+00:20:11,880 --> 00:20:13,960
+<font color="#FFFF51">korzystają z innej diety.</font>
+
+214
+00:20:14,120 --> 00:20:18,640
+<font color="#FFFF51">Dołączają do niej nasiona,</font>
+<font color="#FFFF51">które wykuwają z różnych szyszek.</font>
+
+215
+00:20:18,800 --> 00:20:23,360
+<font color="#FFFF51">Najczęściej z sosnowych,</font>
+<font color="#FFFF51">ale także z szyszek świerkowych.</font>
+
+216
+00:20:23,520 --> 00:20:25,360
+<font color="#FFFF51">Zadanie nie jest proste,</font>
+
+217
+00:20:25,520 --> 00:20:29,080
+<font color="#FFFF51">bo dostępu do nasion</font>
+<font color="#FFFF51">strzegą twarde łuski.</font>
+
+218
+00:20:29,240 --> 00:20:34,720
+<font color="#FFFF51">Dzięcioły sobie z tym poradziły</font>
+<font color="#FFFF51">- rozkuwają szyszki w kuźni.</font>
+
+219
+00:20:36,360 --> 00:20:40,560
+<font color="#FFFF51">Te wszystkie szyszki</font>
+<font color="#FFFF51">z uszkodzonymi łuskami okrywowymi</font>
+
+220
+00:20:40,720 --> 00:20:43,040
+<font color="#FFFF51">to sprawka dzięcioła dużego.</font>
+
+221
+00:20:43,200 --> 00:20:45,000
+<font color="#FFFF51">Łuski chronią nasiona.</font>
+
+222
+00:20:45,160 --> 00:20:48,080
+<font color="#FFFF51">Tu są odchylone</font>
+<font color="#FFFF51">i nasiona są wyjedzone.</font>
+
+223
+00:20:48,240 --> 00:20:51,880
+<font color="#FFFF51">A tu na drzewie</font>
+<font color="#FFFF51">jest kuźnia dzięcioła dużego.</font>
+
+224
+00:20:52,040 --> 00:20:55,840
+<font color="#FFFF51">Ta szyszka</font>
+<font color="#FFFF51">dlatego jest wciśnięta w szczelinę,</font>
+
+225
+00:20:56,000 --> 00:20:59,640
+<font color="#FFFF51">żeby dzięcioł mógł wykuwać</font>
+<font color="#FFFF51">i wyjadać nasiona.</font>
+
+226
+00:20:59,800 --> 00:21:02,960
+<font color="#FFFF51">Jak sprawdzić,</font>
+<font color="#FFFF51">czy kuźnia jest aktywna?</font>
+
+227
+00:21:03,120 --> 00:21:07,080
+<font color="#FFFF51">Wystarczy wyjąć szyszkę</font>
+<font color="#FFFF51">i zostawić pustą szczelinę.</font>
+
+228
+00:21:07,240 --> 00:21:09,960
+<font color="#FFFF51">Dzięcioł,</font>
+<font color="#FFFF51">przylatując z nową szyszką,</font>
+
+229
+00:21:10,120 --> 00:21:12,320
+<font color="#FFFF51">wyjmuje starą i wkłada nową.</font>
+
+230
+00:21:12,480 --> 00:21:16,640
+<font color="#FFFF51">Jak za kilka dni zobaczę,</font>
+<font color="#FFFF51">że w szczelinie jest szyszka,</font>
+
+231
+00:21:16,800 --> 00:21:19,400
+<font color="#FFFF51">to znaczy, że kuźnia jest aktywna.</font>
+
+232
+00:21:21,520 --> 00:21:23,320
+<font color="aqua">Hurtnica kartoniarka</font>
+
+233
+00:21:23,480 --> 00:21:27,840
+<font color="aqua">to podstawowy składnik diety</font>
+<font color="aqua">dzięcioła dużego i czarnego.</font>
+
+234
+00:21:28,000 --> 00:21:32,760
+<font color="aqua">Mrówki żyjące w martwym drewnie</font>
+<font color="aqua">wydobywane są przez dzięcioły</font>
+
+235
+00:21:32,920 --> 00:21:36,880
+<font color="aqua">za pomocą długiego języka</font>
+<font color="aqua">pokrytego lepką śliną.</font>
+
+236
+00:21:39,280 --> 00:21:42,240
+<font color="#FFFF51">Dieta dzięcioła dużego</font>
+<font color="#FFFF51">jest zróżnicowana</font>
+
+237
+00:21:42,400 --> 00:21:45,520
+<font color="#FFFF51">w zależności od środowiska,</font>
+<font color="#FFFF51">w którym żyje,</font>
+
+238
+00:21:45,680 --> 00:21:47,680
+<font color="#FFFF51">oraz od pory roku.</font>
+
+239
+00:21:47,840 --> 00:21:51,360
+<font color="#FFFF51">Najczęściej odżywia się owadami</font>
+<font color="#FFFF51">i ich larwami,</font>
+
+240
+00:21:51,520 --> 00:21:53,600
+<font color="#FFFF51">które wydłubuje z drewna.</font>
+
+241
+00:21:53,760 --> 00:21:56,920
+<font color="#FFFF51">Do diety dołącza także</font>
+<font color="#FFFF51">owoce i nasiona.</font>
+
+242
+00:21:57,080 --> 00:22:01,720
+<font color="#FFFF51">Niestety wyciąga także z gniazda</font>
+<font color="#FFFF51">pisklęta i je zjada.</font>
+
+243
+00:22:01,880 --> 00:22:05,000
+<font color="#FFFF51">A zimą możemy obserwować</font>
+<font color="#FFFF51">dzięcioła dużego,</font>
+
+244
+00:22:05,160 --> 00:22:09,280
+<font color="#FFFF51">jak się zajada słoniną</font>
+<font color="#FFFF51">z naszych domowych karmników.</font>
+
+245
+00:22:09,440 --> 00:22:13,240
+<font color="#FFFF51">Szczególnie dzięciołowi dużemu</font>
+<font color="#FFFF51">smakują mrówki,</font>
+
+246
+00:22:13,400 --> 00:22:18,240
+<font color="#FFFF51">które żyją w martwym drewnie,</font>
+<font color="#FFFF51">np. hurtnica kartoniarka.</font>
+
+247
+00:22:31,520 --> 00:22:35,240
+<font color="#FFFF51">Hurtnica kartoniarka</font>
+<font color="#FFFF51">występuje w całej Polsce.</font>
+
+248
+00:22:35,400 --> 00:22:37,200
+<font color="#FFFF51">Łatwo ją znaleźć.</font>
+
+249
+00:22:37,360 --> 00:22:41,640
+<font color="#FFFF51">Swoje gniazda zakłada najczęściej</font>
+<font color="#FFFF51">w dziuplastych drzewach,</font>
+
+250
+00:22:41,800 --> 00:22:45,720
+<font color="#FFFF51">drewnianych słupkach przydrożnych</font>
+<font color="#FFFF51">czy starych pniach.</font>
+
+251
+00:22:45,880 --> 00:22:47,720
+<font color="#FFFF51">Tu widać, że są trociny.</font>
+
+252
+00:22:47,880 --> 00:22:51,120
+<font color="#FFFF51">Zostały wyniesione przez mrówki</font>
+<font color="#FFFF51">na zewnątrz,</font>
+
+253
+00:22:51,280 --> 00:22:55,080
+<font color="#FFFF51">ponieważ drążą w martwym drewnie</font>
+<font color="#FFFF51">kanały i komory.</font>
+
+254
+00:22:55,240 --> 00:22:59,560
+<font color="#FFFF51">Komory podzielone są ścianami,</font>
+<font color="#FFFF51">które przypominają karton.</font>
+
+255
+00:22:59,720 --> 00:23:02,360
+<font color="#FFFF51">I stąd polska nazwa "kartoniarka".</font>
+
+256
+00:23:02,520 --> 00:23:08,240
+<font color="#FFFF51">Powstały z mieszaniny różnych</font>
+<font color="#FFFF51">wydzielin, śliny, ziemi i trocin.</font>
+
+257
+00:23:35,240 --> 00:23:37,480
+<font color="#FFFF51">Kartoniarki są fascynujące.</font>
+
+258
+00:23:37,640 --> 00:23:41,200
+<font color="#FFFF51">Te mrówki, które idą do góry,</font>
+<font color="#FFFF51">mają małe odwłoki,</font>
+
+259
+00:23:41,360 --> 00:23:45,560
+<font color="#FFFF51">bo dopiero w koronie drzewa</font>
+<font color="#FFFF51">będą zbierać spadź od mszyc.</font>
+
+260
+00:23:45,720 --> 00:23:47,520
+<font color="#FFFF51">Te, które wracają na dół,</font>
+
+261
+00:23:47,680 --> 00:23:50,720
+<font color="#FFFF51">mają duże,</font>
+<font color="#FFFF51">wypełnione nektarem odwłoki.</font>
+
+262
+00:23:50,880 --> 00:23:55,600
+<font color="#FFFF51">Niosą ten pokarm do gniazda</font>
+<font color="#FFFF51">gdzieś w korzeniach tego drzewa.</font>
+
+263
+00:23:55,760 --> 00:23:59,880
+<font color="#FFFF51">Ale dlaczego mszyce produkują</font>
+<font color="#FFFF51">słodki nektar dla mrówek?</font>
+
+264
+00:24:00,040 --> 00:24:01,840
+<font color="#FFFF51">W zamian za obronę.</font>
+
+265
+00:24:02,000 --> 00:24:03,800
+<font color="#FFFF51">Mrówki mogłyby zabić mszyce,</font>
+
+266
+00:24:03,960 --> 00:24:07,360
+<font color="#FFFF51">ale w zamian za słodką nagrodę</font>
+<font color="#FFFF51">tego nie robią.</font>
+
+267
+00:24:07,520 --> 00:24:12,080
+<font color="#FFFF51">Wręcz przeciwnie, chronią mszyce</font>
+<font color="#FFFF51">przed innymi drapieżnikami.</font>
+
+268
+00:24:12,240 --> 00:24:14,880
+<font color="#FFFF51">To przykład fascynującej symbiozy.</font>
+
+269
+00:24:20,560 --> 00:24:23,240
+<font color="aqua">Przyrodnik</font>
+<font color="aqua">na tropie dzięcioła dużego</font>
+
+270
+00:24:23,400 --> 00:24:24,760
+<font color="aqua">zajrzał do dziupli,</font>
+
+271
+00:24:24,920 --> 00:24:28,320
+<font color="aqua">które zasiedlane są</font>
+<font color="aqua">przez różnych mieszkańców.</font>
+
+272
+00:24:28,480 --> 00:24:30,880
+<font color="aqua">Odkrył tajemnice małych sikorek,</font>
+
+273
+00:24:31,040 --> 00:24:33,680
+<font color="aqua">opowiedział</font>
+<font color="aqua">miłosną historię szpaków</font>
+
+274
+00:24:33,840 --> 00:24:36,600
+<font color="aqua">i tropił kaczki</font>
+<font color="aqua">w leśnych dziuplach.</font>
+
+275
+00:24:36,760 --> 00:24:40,000
+<font color="aqua">Im więcej dzięciołów</font>
+<font color="aqua">będzie żyło w lasach,</font>
+
+276
+00:24:40,160 --> 00:24:44,960
+<font color="aqua">tym większą bioróżnorodnością</font>
+<font color="aqua">będziemy się wszyscy cieszyć.</font>
+
+277
+00:24:58,640 --> 00:25:01,360
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+278
+00:25:01,520 --> 00:25:05,000
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+279
+00:25:10,360 --> 00:25:12,360
+
+

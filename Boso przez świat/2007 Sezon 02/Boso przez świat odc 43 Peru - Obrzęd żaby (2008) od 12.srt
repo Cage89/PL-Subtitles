@@ -1,0 +1,1000 @@
+1
+00:01:00,760 --> 00:01:02,720
+<font backgroundcolor="#000000"> Dżungla jest piękna. </font>
+
+2
+00:01:02,880 --> 00:01:06,160
+<font backgroundcolor="#000000"> Kiedy się ją ogląda w telewizji. </font>
+
+3
+00:01:06,360 --> 00:01:11,560
+<font backgroundcolor="#000000"> Ale kiedy się tu mieszka </font>
+<font backgroundcolor="#000000"> na stałe, robi się ciężko. </font>
+
+4
+00:01:11,720 --> 00:01:17,000
+<font backgroundcolor="#000000"> W dżungli każdy twój dzień </font>
+<font backgroundcolor="#000000"> jest wypełniony pracą. </font>
+
+5
+00:01:17,160 --> 00:01:21,000
+<font backgroundcolor="#000000"> Połowa tej pracy </font>
+<font backgroundcolor="#000000"> to zdobywanie pożywienia. </font>
+
+6
+00:01:21,160 --> 00:01:24,920
+<font backgroundcolor="#000000"> A więc w pewnym sensie </font>
+<font backgroundcolor="#000000"> atakowanie przyrody. </font>
+
+7
+00:01:25,080 --> 00:01:29,200
+<font backgroundcolor="#000000"> Druga połowa to obrona </font>
+<font backgroundcolor="#000000"> przed atakami przyrody. </font>
+
+8
+00:01:29,360 --> 00:01:34,680
+<font backgroundcolor="#000000"> Ci panowie nie są </font>
+<font backgroundcolor="#000000"> rzemieślnikami, tylko myśliwymi. </font>
+
+9
+00:01:34,920 --> 00:01:40,200
+<font backgroundcolor="#000000"> Z myśliwym w Amazonii </font>
+<font backgroundcolor="#000000"> jest trochę tak jak z naszym rybakiem. </font>
+
+10
+00:01:40,360 --> 00:01:43,720
+<font backgroundcolor="#000000"> Rybak codziennie musi naprawiać sieci. </font>
+
+11
+00:01:43,880 --> 00:01:49,120
+<font backgroundcolor="#000000"> A myśliwy codziennie </font>
+<font backgroundcolor="#000000"> musi sobie coś naprawiać albo robić. </font>
+
+12
+00:01:49,280 --> 00:01:51,600
+<font backgroundcolor="#000000"> Ci panowie robią łuki. </font>
+
+13
+00:02:10,600 --> 00:02:12,480
+<font backgroundcolor="#000000"> Produkcja strzał... </font>
+
+14
+00:02:12,640 --> 00:02:17,800
+<font backgroundcolor="#000000"> Grot z tego samego materiału, </font>
+<font backgroundcolor="#000000"> z którego jest zrobiony łuk. </font>
+
+15
+00:02:17,960 --> 00:02:21,000
+<font backgroundcolor="#000000"> Twarda palma z igiełkami. </font>
+
+16
+00:02:22,200 --> 00:02:25,000
+<font backgroundcolor="#000000"> Daje się łatwo zaostrzyć. </font>
+
+17
+00:02:25,160 --> 00:02:27,360
+<font backgroundcolor="#000000"> Nie pęka. </font>
+
+18
+00:02:27,560 --> 00:02:29,720
+<font backgroundcolor="#000000"> To trzcina. </font>
+
+19
+00:02:29,880 --> 00:02:34,120
+<font backgroundcolor="#000000"> Jest pusta w środku, </font>
+<font backgroundcolor="#000000"> bo ma być lekka i ma latać. </font>
+
+20
+00:02:34,280 --> 00:02:37,640
+<font backgroundcolor="#000000"> Jeszcze trzeba zaczepić z tyłu piórka. </font>
+
+21
+00:02:37,800 --> 00:02:42,520
+<font backgroundcolor="#000000"> A jak? Końcówkę smaruje się </font>
+<font backgroundcolor="#000000"> czymś, co jest lepkie. </font>
+
+22
+00:02:42,680 --> 00:02:47,440
+<font backgroundcolor="#000000"> W tym przypadku </font>
+<font backgroundcolor="#000000"> to jest kulka z żywicy. </font>
+
+23
+00:02:48,560 --> 00:02:53,320
+<font backgroundcolor="#000000"> Maże się </font>
+<font backgroundcolor="#000000"> i ładnie pachnie, jak kadzidło. </font>
+
+24
+00:02:54,760 --> 00:02:56,840
+<font backgroundcolor="#000000"> Żywica. </font>
+
+25
+00:02:57,000 --> 00:03:02,000
+<font backgroundcolor="#000000"> Mógłby to też być kauczuk. </font>
+<font backgroundcolor="#000000"> Byle było maziste i kleiste. </font>
+
+26
+00:03:02,760 --> 00:03:05,200
+<font backgroundcolor="#000000"> Z tyłu są piórka. </font>
+
+27
+00:03:06,560 --> 00:03:08,720
+<font backgroundcolor="#000000"> Precyzyjna robota. </font>
+
+28
+00:03:36,600 --> 00:03:38,640
+<font backgroundcolor="#000000"> Listek palmowy. </font>
+
+29
+00:03:38,800 --> 00:03:41,720
+<font backgroundcolor="#000000"> Z niego wydziera się włókna. </font>
+
+30
+00:03:41,880 --> 00:03:44,520
+<font backgroundcolor="#000000"> Trzeba tylko wiedzieć jak. </font>
+
+31
+00:03:45,640 --> 00:03:49,560
+<font backgroundcolor="#000000"> I trzeba mieć </font>
+<font backgroundcolor="#000000"> rozwinięty duży palec u nogi. </font>
+
+32
+00:03:50,480 --> 00:03:53,960
+<font backgroundcolor="#000000"> Kiedy ma się włókna, trzeba je wyprać. </font>
+
+33
+00:03:54,120 --> 00:03:56,400
+<font backgroundcolor="#000000"> Potem suszyć na słońcu. </font>
+
+34
+00:03:56,560 --> 00:03:58,680
+<font backgroundcolor="#000000"> Uzyskują taką formę. </font>
+
+35
+00:03:58,840 --> 00:04:02,080
+<font backgroundcolor="#000000"> Potem trzeba mieć dłoń, udo i ślinę. </font>
+
+36
+00:04:02,240 --> 00:04:05,360
+<font backgroundcolor="#000000"> I zwijać je jak cygara. Na udzie. </font>
+
+37
+00:04:05,520 --> 00:04:07,920
+<font backgroundcolor="#000000"> Ale to jest zadanie kobiet. </font>
+
+38
+00:04:08,080 --> 00:04:11,920
+<font backgroundcolor="#000000"> Gdybym ja to zrobił, </font>
+<font backgroundcolor="#000000"> ten sznurek byłby słaby. </font>
+
+39
+00:04:12,080 --> 00:04:16,560
+<font backgroundcolor="#000000"> I do tego skażony </font>
+<font backgroundcolor="#000000"> męskim pierwiastkiem. </font>
+
+40
+00:04:16,720 --> 00:04:21,480
+<font backgroundcolor="#000000"> A więc źle zaczarowanym. </font>
+<font backgroundcolor="#000000"> Pani robi następny sznurek. </font>
+
+41
+00:04:21,640 --> 00:04:25,320
+<font backgroundcolor="#000000"> Z dwóch takich cienkich </font>
+<font backgroundcolor="#000000"> robi się grubszy. </font>
+
+42
+00:04:25,480 --> 00:04:27,640
+<font backgroundcolor="#000000"> To jest cięciwa do łuku. </font>
+
+43
+00:04:28,720 --> 00:04:32,000
+<font backgroundcolor="#000000"> Łysy łuk wykończony maczetą stoi tu. </font>
+
+44
+00:04:32,160 --> 00:04:35,560
+<font backgroundcolor="#000000"> Jest nawet odpowiednio wygięty. </font>
+
+45
+00:04:35,800 --> 00:04:38,000
+<font backgroundcolor="#000000"> Przez naturę... </font>
+
+46
+00:04:38,160 --> 00:04:43,200
+<font backgroundcolor="#000000"> Nie był gięty na kolanie, </font>
+<font backgroundcolor="#000000"> tylko został tak wyrzeźbiony. </font>
+
+47
+00:04:45,080 --> 00:04:48,800
+<font backgroundcolor="#000000"> Zobaczmy, jak się nakłada </font>
+<font backgroundcolor="#000000"> jedno na drugie. </font>
+
+48
+00:04:50,200 --> 00:04:52,920
+<font backgroundcolor="#000000"> Żeby się zacisnęło. </font>
+
+49
+00:04:54,200 --> 00:04:56,760
+<font backgroundcolor="#000000"> Taką pętelkę znamy z domu. </font>
+
+50
+00:05:03,480 --> 00:05:05,640
+<font backgroundcolor="#000000"> Proszę bardzo. </font>
+
+51
+00:05:06,400 --> 00:05:08,520
+<font backgroundcolor="#000000"> Co dalej? </font>
+
+52
+00:05:12,440 --> 00:05:17,040
+<font backgroundcolor="#000000"> Ucisza baby, </font>
+<font backgroundcolor="#000000"> żeby nie rozmawiały przy pracy. </font>
+
+53
+00:05:20,560 --> 00:05:23,560
+<font backgroundcolor="#000000"> Tamto każdy potrafi zrobić. </font>
+
+54
+00:05:23,720 --> 00:05:25,880
+<font backgroundcolor="#000000"> Teraz się zaczyna. </font>
+
+55
+00:05:26,040 --> 00:05:31,880
+<font backgroundcolor="#000000"> Łuk jest wygięty w przeciwną </font>
+<font backgroundcolor="#000000"> stronę niż był zgięty fabrycznie. </font>
+
+56
+00:05:35,960 --> 00:05:39,960
+<font backgroundcolor="#000000"> Myślałem, że będzie chałowy, </font>
+<font backgroundcolor="#000000"> jak on go rzeźbił. </font>
+
+57
+00:05:40,120 --> 00:05:42,440
+<font backgroundcolor="#000000"> Wydawał mi się graniasty. </font>
+
+58
+00:05:42,600 --> 00:05:44,800
+<font backgroundcolor="#000000"> Teraz jest bez zarzutu. </font>
+
+59
+00:05:46,200 --> 00:05:48,320
+<font backgroundcolor="#000000"> A ten? </font>
+
+60
+00:05:51,080 --> 00:05:53,480
+<font backgroundcolor="#000000"> Ten ładniejszy. </font>
+
+61
+00:05:59,160 --> 00:06:01,120
+<font backgroundcolor="#000000"> A strzały? </font>
+
+62
+00:06:01,280 --> 00:06:04,080
+<font backgroundcolor="#000000"> Strzał szukaj zawsze pod sufitem. </font>
+
+63
+00:06:04,240 --> 00:06:07,320
+<font backgroundcolor="#000000"> Wbija się je w sufit, w taki sposób. </font>
+
+64
+00:06:07,480 --> 00:06:11,560
+<font backgroundcolor="#000000"> Jakie mają piękne końcówki. </font>
+<font backgroundcolor="#000000"> Jestem pełen podziwu. </font>
+
+65
+00:06:11,720 --> 00:06:16,560
+<font backgroundcolor="#000000"> Widziałem już wiele </font>
+<font backgroundcolor="#000000"> typów strzał indiańskich z Amazonii. </font>
+
+66
+00:06:16,720 --> 00:06:22,480
+<font backgroundcolor="#000000"> Te są najbardziej wypracowane. </font>
+<font backgroundcolor="#000000"> Przez piórko zawiązane sznureczkiem. </font>
+
+67
+00:06:22,640 --> 00:06:26,200
+<font backgroundcolor="#000000"> Zatarte, żeby nie puściło. </font>
+<font backgroundcolor="#000000"> Piękna rzecz. </font>
+
+68
+00:06:30,880 --> 00:06:32,960
+<font backgroundcolor="#000000"> Możemy iść na polowanie. </font>
+
+69
+00:07:00,320 --> 00:07:05,040
+<font backgroundcolor="#000000"> Strzały na cięciwę </font>
+<font backgroundcolor="#000000"> zakłada się tak jak u nas. </font>
+
+70
+00:07:06,520 --> 00:07:10,200
+<font backgroundcolor="#000000"> Ale łuku </font>
+<font backgroundcolor="#000000"> nie trzyma się tak, tylko tak. </font>
+
+71
+00:07:10,360 --> 00:07:12,360
+<font backgroundcolor="#000000"> Nie wiem czemu. </font>
+
+72
+00:07:13,080 --> 00:07:18,240
+<font backgroundcolor="#000000"> Strzela się najczęściej </font>
+<font backgroundcolor="#000000"> do małp i ptaków, czyli do góry. </font>
+
+73
+00:07:28,280 --> 00:07:30,160
+<font backgroundcolor="#000000"> A po robocie... </font>
+
+74
+00:07:30,320 --> 00:07:33,880
+<font backgroundcolor="#000000"> Mężczyźni lubią usiąść przy fajeczce. </font>
+
+75
+00:07:34,760 --> 00:07:37,360
+<font backgroundcolor="#000000"> Tytoń pochodzi z Ameryki. </font>
+
+76
+00:07:37,760 --> 00:07:41,000
+<font backgroundcolor="#000000"> Chciałem powiedzieć, </font>
+<font backgroundcolor="#000000"> że z Południowej, </font>
+
+77
+00:07:41,160 --> 00:07:42,960
+<font backgroundcolor="#000000"> ale ze Środkowej też. </font>
+
+78
+00:07:43,120 --> 00:07:45,520
+<font backgroundcolor="#000000"> Rośnie dziko w dżungli. </font>
+
+79
+00:07:45,760 --> 00:07:47,760
+<font backgroundcolor="#000000"> To jest dziki tytoń. </font>
+
+80
+00:07:47,920 --> 00:07:50,920
+<font backgroundcolor="#000000"> Z listka trzeba wyrwać żyłkę. </font>
+
+81
+00:07:53,640 --> 00:07:57,080
+<font backgroundcolor="#000000"> Listek trzeba położyć na ruszcie. </font>
+
+82
+00:07:58,480 --> 00:08:02,400
+<font backgroundcolor="#000000"> Jest on zrobiony </font>
+<font backgroundcolor="#000000"> z gałązek i kawałka liany. </font>
+
+83
+00:08:02,560 --> 00:08:04,720
+<font backgroundcolor="#000000"> Ususzyć. </font>
+
+84
+00:08:05,640 --> 00:08:10,240
+<font backgroundcolor="#000000"> Po ususzeniu </font>
+<font backgroundcolor="#000000"> jeszcze ubić w moździerzu. </font>
+
+85
+00:08:10,720 --> 00:08:16,320
+<font backgroundcolor="#000000"> Jak ktoś ma dobry słuch, </font>
+<font backgroundcolor="#000000"> to słyszy, że za mną tłucze moździerz. </font>
+
+86
+00:08:16,480 --> 00:08:18,800
+<font backgroundcolor="#000000"> A następnie... </font>
+
+87
+00:08:19,520 --> 00:08:22,480
+<font backgroundcolor="#000000"> Do fajeczki? Nie. </font>
+
+88
+00:08:23,280 --> 00:08:25,720
+<font backgroundcolor="#000000"> Tutaj się nie pali tytoniu. </font>
+
+89
+00:08:25,880 --> 00:08:29,680
+<font backgroundcolor="#000000"> Tutaj tak jak na Pomorzu </font>
+<font backgroundcolor="#000000"> zażywa się tabakę. </font>
+
+90
+00:08:29,840 --> 00:08:33,040
+<font backgroundcolor="#000000"> Tylko troszkę inaczej niż u nas. </font>
+
+91
+00:09:45,400 --> 00:09:49,160
+<font backgroundcolor="#000000"> Tyle roboty, </font>
+<font backgroundcolor="#000000"> żeby zażyć chwili przyjemności. </font>
+
+92
+00:09:49,320 --> 00:09:52,040
+<font backgroundcolor="#000000"> I kolejna okazja dla mnie, </font>
+
+93
+00:09:52,200 --> 00:09:56,200
+<font backgroundcolor="#000000"> żeby wygłosić kolejną </font>
+<font backgroundcolor="#000000"> pogadankę antynikotynową. </font>
+
+94
+00:09:57,200 --> 00:10:00,360
+<font backgroundcolor="#000000"> On tego nie robi dla przyjemności. </font>
+
+95
+00:10:00,520 --> 00:10:04,720
+<font backgroundcolor="#000000"> To się robi po to, </font>
+<font backgroundcolor="#000000"> żeby zostać lepszym myśliwym. </font>
+
+96
+00:10:04,880 --> 00:10:08,160
+<font backgroundcolor="#000000"> Od razu widać, że to nie jest frajda. </font>
+
+97
+00:10:08,320 --> 00:10:12,040
+<font backgroundcolor="#000000"> To nie to samo </font>
+<font backgroundcolor="#000000"> co nasza tabaka na Pomorzu. </font>
+
+98
+00:10:12,200 --> 00:10:15,440
+<font backgroundcolor="#000000"> Nie to samo co lulki, co fajeczka. </font>
+
+99
+00:10:15,600 --> 00:10:19,360
+<font backgroundcolor="#000000"> Wystarczy spojrzeć na ten przyrząd. </font>
+
+100
+00:10:19,680 --> 00:10:22,760
+<font backgroundcolor="#000000"> Jeden drugiemu wdmuchuje do nosa. </font>
+
+101
+00:10:22,920 --> 00:10:26,800
+<font backgroundcolor="#000000"> To świadczy o tym, </font>
+<font backgroundcolor="#000000"> że to rodzaj obrzędowości. </font>
+
+102
+00:10:26,960 --> 00:10:29,280
+<font backgroundcolor="#000000"> To nie obrzęd religijny, </font>
+
+103
+00:10:29,440 --> 00:10:34,960
+<font backgroundcolor="#000000"> ale ten proces ma spowodować, </font>
+<font backgroundcolor="#000000"> że będę lepszym myśliwym. </font>
+
+104
+00:10:35,760 --> 00:10:38,000
+<font backgroundcolor="#000000"> Teraz moja obserwacja. </font>
+
+105
+00:10:38,160 --> 00:10:43,840
+<font backgroundcolor="#000000"> Nie przeczytałem tego w żadnej </font>
+<font backgroundcolor="#000000"> książce, nikt tego nie potwierdził. </font>
+
+106
+00:10:44,000 --> 00:10:48,960
+<font backgroundcolor="#000000"> Plemiona, które używają </font>
+<font backgroundcolor="#000000"> takiej tutki, żeby się odurzać... </font>
+
+107
+00:10:49,120 --> 00:10:53,240
+<font backgroundcolor="#000000"> Rurki mogą być długie lub krótkie. </font>
+
+108
+00:10:55,280 --> 00:10:59,000
+<font backgroundcolor="#000000"> Ale wszędzie, gdzie używa się rurek, </font>
+
+109
+00:10:59,160 --> 00:11:02,880
+<font backgroundcolor="#000000"> do polowań nie używa się dmuchawek. </font>
+
+110
+00:11:03,440 --> 00:11:05,440
+<font backgroundcolor="#000000"> Dlaczego? </font>
+
+111
+00:11:05,600 --> 00:11:09,120
+<font backgroundcolor="#000000"> To moja prywatna teoria i obserwacja. </font>
+
+112
+00:11:09,280 --> 00:11:14,800
+<font backgroundcolor="#000000"> Wydaje mi się, że oni nie chcą </font>
+<font backgroundcolor="#000000"> mieszać przedmiotu liturgicznego </font>
+
+113
+00:11:14,960 --> 00:11:20,560
+<font backgroundcolor="#000000"> z przedmiotem prozaicznym, </font>
+<font backgroundcolor="#000000"> czyli narzędziem do zabijania w lesie. </font>
+
+114
+00:11:20,720 --> 00:11:24,480
+<font backgroundcolor="#000000"> Dmuchawka jest lepsza </font>
+<font backgroundcolor="#000000"> do zabijana w dżungli. </font>
+
+115
+00:11:24,640 --> 00:11:29,800
+<font backgroundcolor="#000000"> Długa, bardziej celna. </font>
+<font backgroundcolor="#000000"> Mała strzałka łatwiej przebija liście. </font>
+
+116
+00:11:29,960 --> 00:11:33,760
+<font backgroundcolor="#000000"> Dlaczego więc plemiona, </font>
+<font backgroundcolor="#000000"> które używają tutek, </font>
+
+117
+00:11:33,920 --> 00:11:36,600
+<font backgroundcolor="#000000"> na polowaniach używają łuków? </font>
+
+118
+00:11:36,760 --> 00:11:38,960
+<font backgroundcolor="#000000"> Żeby nie mieszać bytów. </font>
+
+119
+00:11:39,120 --> 00:11:43,560
+<font backgroundcolor="#000000"> Nie pal. Jak będziesz palił, </font>
+<font backgroundcolor="#000000"> dostaniesz raka. </font>
+
+120
+00:12:04,560 --> 00:12:06,560
+<font backgroundcolor="#000000"> To uprząż na nogi. </font>
+
+121
+00:12:06,720 --> 00:12:09,680
+<font backgroundcolor="#000000"> Służy do chodzenia po drzewach. </font>
+
+122
+00:12:09,840 --> 00:12:12,800
+<font backgroundcolor="#000000"> Można to zrobić z różnych rzeczy. </font>
+
+123
+00:12:12,960 --> 00:12:15,120
+<font backgroundcolor="#000000"> Np. z palmowego listka. </font>
+
+124
+00:12:15,280 --> 00:12:18,760
+<font backgroundcolor="#000000"> Dobry myśliwy poza tym, </font>
+<font backgroundcolor="#000000"> że zażyje tabaki </font>
+
+125
+00:12:18,920 --> 00:12:23,680
+<font backgroundcolor="#000000"> czasami dokonuje na sobie </font>
+<font backgroundcolor="#000000"> obrzędów chemicznych. </font>
+
+126
+00:12:24,480 --> 00:12:26,880
+<font backgroundcolor="#000000"> Chce być najlepszy. </font>
+
+127
+00:12:27,600 --> 00:12:31,200
+<font backgroundcolor="#000000"> U tych plemion </font>
+<font backgroundcolor="#000000"> stosuje się obrzęd żaby. </font>
+
+128
+00:12:31,360 --> 00:12:34,280
+<font backgroundcolor="#000000"> Najpierw żabę trzeba złapać. </font>
+
+129
+00:12:34,600 --> 00:12:38,720
+<font backgroundcolor="#000000"> Tu żaby nie mieszkają </font>
+<font backgroundcolor="#000000"> jak u nas na łące. </font>
+
+130
+00:12:39,200 --> 00:12:42,640
+<font backgroundcolor="#000000"> W Amazonii żaby mieszkają na drzewach. </font>
+
+131
+00:12:42,800 --> 00:12:46,800
+<font backgroundcolor="#000000"> Trzeba wejść na wysokość 20 m </font>
+<font backgroundcolor="#000000"> i ściągnąć żabę. </font>
+
+132
+00:12:46,960 --> 00:12:51,520
+<font backgroundcolor="#000000"> Skąd wiadomo, że ona tam jest? </font>
+<font backgroundcolor="#000000"> Spacerowaliśmy tu nocą. </font>
+
+133
+00:12:51,680 --> 00:12:57,280
+<font backgroundcolor="#000000"> Słyszeliśmy, jak wołała drugą żabę, </font>
+<font backgroundcolor="#000000"> żeby zrobić trzecią żabę. </font>
+
+134
+00:13:36,840 --> 00:13:39,000
+<font backgroundcolor="#000000"> I oto ona. </font>
+
+135
+00:13:39,160 --> 00:13:42,920
+<font backgroundcolor="#000000"> Zielona jadowita żaba </font>
+<font backgroundcolor="#000000"> pośród zielonych liści. </font>
+
+136
+00:13:43,080 --> 00:13:47,680
+<font backgroundcolor="#000000"> Złapaliśmy ją w ciągu dnia, </font>
+<font backgroundcolor="#000000"> żeby się dało sfilmować. </font>
+
+137
+00:13:47,840 --> 00:13:53,480
+<font backgroundcolor="#000000"> Normalnie nie trzeba ścinać </font>
+<font backgroundcolor="#000000"> korony drzewa i zwalać żaby na ziemię. </font>
+
+138
+00:13:53,640 --> 00:13:58,160
+<font backgroundcolor="#000000"> Wchodzi się nocą na drzewo </font>
+<font backgroundcolor="#000000"> i udaje kumkanie godowe. </font>
+
+139
+00:13:58,320 --> 00:14:02,480
+<font backgroundcolor="#000000"> Jak się to robi dobrze, </font>
+<font backgroundcolor="#000000"> żaba się odzywa. </font>
+
+140
+00:14:04,760 --> 00:14:08,480
+<font backgroundcolor="#000000"><font backgroundcolor="#0000ff" tts:color="#ffffff"> UDAJE KUMKANIE </font></font>
+
+141
+00:14:16,080 --> 00:14:19,000
+<font backgroundcolor="#000000"> Nie wygląda na zainteresowaną. </font>
+
+142
+00:14:28,000 --> 00:14:30,120
+<font backgroundcolor="#000000"> Nie dotykać rękami. </font>
+
+143
+00:14:32,080 --> 00:14:35,600
+<font backgroundcolor="#000000"> Tak jak nie łapie się gorącego garnka. </font>
+
+144
+00:14:40,280 --> 00:14:42,600
+<font backgroundcolor="#000000"> Ta żaba też parzy. </font>
+
+145
+00:15:29,960 --> 00:15:32,120
+<font backgroundcolor="#000000"> Żaba rozkrzyżowana. </font>
+
+146
+00:15:32,280 --> 00:15:36,920
+<font backgroundcolor="#000000"> Mimo że spokojna w ciągu dnia, </font>
+<font backgroundcolor="#000000"> zaczyna się wściekać. </font>
+
+147
+00:15:37,080 --> 00:15:40,560
+<font backgroundcolor="#000000"> Jako mechanizm obronny ma biały pot. </font>
+
+148
+00:15:40,880 --> 00:15:45,320
+<font backgroundcolor="#000000"> To jest jad, </font>
+<font backgroundcolor="#000000"> który oni będą starali się pozyskać. </font>
+
+149
+00:15:45,480 --> 00:15:48,040
+<font backgroundcolor="#000000"> Będzie jeszcze drażniona. </font>
+
+150
+00:15:48,200 --> 00:15:52,680
+<font backgroundcolor="#000000"> Proszę, żeby obrońcy zwierząt </font>
+<font backgroundcolor="#000000"> tego nie oglądali. </font>
+
+151
+00:16:26,280 --> 00:16:28,440
+<font backgroundcolor="#000000"> Tak to wygląda. </font>
+
+152
+00:16:29,080 --> 00:16:31,200
+<font backgroundcolor="#000000"> Gluty. </font>
+
+153
+00:16:31,360 --> 00:16:33,600
+<font backgroundcolor="#000000"> Muszą trochę obeschnąć. </font>
+
+154
+00:16:33,760 --> 00:16:36,840
+<font backgroundcolor="#000000"> Będą przydatne przez kilka tygodni. </font>
+
+155
+00:16:37,000 --> 00:16:39,240
+<font backgroundcolor="#000000"> A żaba? Wróci do lasu. </font>
+
+156
+00:16:39,400 --> 00:16:43,640
+<font backgroundcolor="#000000"> Jeśli ktoś jest oburzony </font>
+<font backgroundcolor="#000000"> takim traktowaniem żaby, </font>
+
+157
+00:16:43,800 --> 00:16:49,280
+<font backgroundcolor="#000000"> niech pamięta, że my też pozyskujemy </font>
+<font backgroundcolor="#000000"> lekarstwa z różnych źródeł. </font>
+
+158
+00:16:49,440 --> 00:16:53,280
+<font backgroundcolor="#000000"> Używamy zwierząt </font>
+<font backgroundcolor="#000000"> do eksperymentów naukowych. </font>
+
+159
+00:16:53,440 --> 00:16:57,800
+<font backgroundcolor="#000000"> Tej żabie nic nie jest, </font>
+<font backgroundcolor="#000000"> poza tym że jest wściekła. </font>
+
+160
+00:16:57,960 --> 00:17:02,600
+<font backgroundcolor="#000000"> Pójdzie sobie do lasu. </font>
+<font backgroundcolor="#000000"> I będzie złapana jeszcze raz. </font>
+
+161
+00:17:02,760 --> 00:17:07,080
+<font backgroundcolor="#000000"> Te żaby łatwo złapać, </font>
+<font backgroundcolor="#000000"> dlatego że one nie uciekają. </font>
+
+162
+00:17:07,240 --> 00:17:10,520
+<font backgroundcolor="#000000"> Mają swój mechanizm obronny. </font>
+
+163
+00:17:10,720 --> 00:17:13,000
+<font backgroundcolor="#000000"> Nie uciekają. </font>
+
+164
+00:17:13,200 --> 00:17:15,680
+<font backgroundcolor="#000000"> Sama nigdzie nie pójdzie. </font>
+
+165
+00:17:15,840 --> 00:17:20,080
+<font backgroundcolor="#000000"> Trzeba ją wynieść do lasu </font>
+<font backgroundcolor="#000000"> i posadzić na drzewie. </font>
+
+166
+00:17:35,720 --> 00:17:39,720
+<font backgroundcolor="#000000"> Oto ślady po poprzednich </font>
+<font backgroundcolor="#000000"> szczepionkach z żaby. </font>
+
+167
+00:17:39,880 --> 00:17:43,280
+<font backgroundcolor="#000000"> Takie małe poparzenie </font>
+<font backgroundcolor="#000000"> gorącym patyczkiem. </font>
+
+168
+00:17:43,440 --> 00:17:45,680
+<font backgroundcolor="#000000"> Potem stąd zejdzie skóra. </font>
+
+169
+00:17:45,840 --> 00:17:48,840
+<font backgroundcolor="#000000"> W to obnażone miejsce załadują jad. </font>
+
+170
+00:17:58,280 --> 00:18:00,280
+<font backgroundcolor="#000000"> Przesuszona trucizna. </font>
+
+171
+00:18:00,440 --> 00:18:04,960
+<font backgroundcolor="#000000"> To, co zdjęliśmy z żaby dzisiaj, </font>
+<font backgroundcolor="#000000"> jeszcze się przyda. </font>
+
+172
+00:18:05,120 --> 00:18:07,200
+<font backgroundcolor="#000000"> Musi wyschnąć. </font>
+
+173
+00:18:07,360 --> 00:18:10,040
+<font backgroundcolor="#000000"> A to jest stara deszczułka. </font>
+
+174
+00:18:10,200 --> 00:18:14,240
+<font backgroundcolor="#000000"> Trzeba tu napluć, </font>
+<font backgroundcolor="#000000"> rozmazać i aplikować. </font>
+
+175
+00:19:32,560 --> 00:19:38,280
+<font backgroundcolor="#000000"> Ten chłopiec nie ma jeszcze śladów. </font>
+<font backgroundcolor="#000000"> To będzie jego pierwszy raz. </font>
+
+176
+00:19:38,440 --> 00:19:43,640
+<font backgroundcolor="#000000"> Oni tu wszyscy mają w różnych </font>
+<font backgroundcolor="#000000"> miejscach ciała kropki, blizny. </font>
+
+177
+00:19:43,800 --> 00:19:46,000
+<font backgroundcolor="#000000"> Jak my po szczepieniu. </font>
+
+178
+00:20:17,920 --> 00:20:20,960
+<font backgroundcolor="#000000"> Organizm zostaje zatruty środkiem </font>
+
+179
+00:20:21,120 --> 00:20:25,920
+<font backgroundcolor="#000000"> który działa gwałtownie </font>
+<font backgroundcolor="#000000"> i mocno, ale szybko się rozłoży. </font>
+
+180
+00:20:26,760 --> 00:20:32,960
+<font backgroundcolor="#000000"> Reakcja jest taka, że organizm </font>
+<font backgroundcolor="#000000"> pozbywa się zbędnych substancji. </font>
+
+181
+00:20:33,200 --> 00:20:37,480
+<font backgroundcolor="#000000"> Jeśli nie chce trawić, </font>
+<font backgroundcolor="#000000"> wyrzuca treść żołądka. </font>
+
+182
+00:20:37,640 --> 00:20:41,120
+<font backgroundcolor="#000000"> Żeby się skupić na ratowaniu życia. </font>
+
+183
+00:20:41,920 --> 00:20:48,200
+<font backgroundcolor="#000000"> Czasami puszcza się mocz oraz inne </font>
+<font backgroundcolor="#000000"> substancje, które w nas zalegają. </font>
+
+184
+00:20:48,720 --> 00:20:51,400
+<font backgroundcolor="#000000"> Człowiek dostaje maligny. </font>
+
+185
+00:20:51,600 --> 00:20:55,160
+<font backgroundcolor="#000000"> Organizm nie dałby </font>
+<font backgroundcolor="#000000"> sobie rady z trucizną, </font>
+
+186
+00:20:55,320 --> 00:20:57,960
+<font backgroundcolor="#000000"> nastąpiłby szok i śmierć. </font>
+
+187
+00:20:58,120 --> 00:21:02,680
+<font backgroundcolor="#000000"> Ale ona sama z siebie </font>
+<font backgroundcolor="#000000"> rozpada się w organizmie. </font>
+
+188
+00:21:02,840 --> 00:21:05,760
+<font backgroundcolor="#000000"> Efekt ustępuje. </font>
+
+189
+00:21:51,040 --> 00:21:53,480
+<font backgroundcolor="#000000"> To była dawka młodzieżowa. </font>
+
+190
+00:21:53,640 --> 00:21:56,120
+<font backgroundcolor="#000000"> Żeby przyzwyczaić młodzież. </font>
+
+191
+00:21:56,280 --> 00:22:01,320
+<font backgroundcolor="#000000"> Dawka dla dorosłych aplikowana </font>
+<font backgroundcolor="#000000"> jest wieczorem albo w nocy. </font>
+
+192
+00:22:01,480 --> 00:22:04,920
+<font backgroundcolor="#000000"> Jak mężczyzna </font>
+<font backgroundcolor="#000000"> przyjmie prawdziwą dawkę, </font>
+
+193
+00:22:05,080 --> 00:22:08,120
+<font backgroundcolor="#000000"> przewraca się po pięciu sekundach. </font>
+
+194
+00:22:09,200 --> 00:22:14,080
+<font backgroundcolor="#000000"> Żeby zatrzymać ten efekt, </font>
+<font backgroundcolor="#000000"> czasami wrzucają go do rzeki. </font>
+
+195
+00:22:14,240 --> 00:22:18,960
+<font backgroundcolor="#000000"> Wtedy ustępują złe efekty. </font>
+<font backgroundcolor="#000000"> Może to różnica temperatur? </font>
+
+196
+00:22:19,120 --> 00:22:23,760
+<font backgroundcolor="#000000"> Po co się to bierze? </font>
+<font backgroundcolor="#000000"> Żeby w każdym wzmóc drapieżnika. </font>
+
+197
+00:22:23,920 --> 00:22:27,880
+<font backgroundcolor="#000000"> Chodzi o to, </font>
+<font backgroundcolor="#000000"> żeby być jak najlepszym myśliwym. </font>
+
+198
+00:22:28,040 --> 00:22:31,160
+<font backgroundcolor="#000000"> Po to aplikują sobie takie tortury. </font>
+
+199
+00:22:31,320 --> 00:22:35,560
+<font backgroundcolor="#000000"> Jak myśliwy zamieni się </font>
+<font backgroundcolor="#000000"> wewnętrznie w drapieżnika </font>
+
+200
+00:22:35,720 --> 00:22:40,720
+<font backgroundcolor="#000000"> wtedy skuteczniej szuka zwierząt, </font>
+<font backgroundcolor="#000000"> ma lepszy słuch, wzrok. </font>
+
+201
+00:22:40,880 --> 00:22:46,320
+<font backgroundcolor="#000000"> A uwagę ma zawężoną do jednego celu: </font>
+<font backgroundcolor="#000000"> żeby dogonić i upolować. </font>
+
+202
+00:22:46,480 --> 00:22:49,360
+<font backgroundcolor="#000000"> Tyle wie na ten temat nauka. </font>
+
+203
+00:22:50,520 --> 00:22:55,240
+<font backgroundcolor="#000000"> W jadzie tej żaby </font>
+<font backgroundcolor="#000000"> jest jakaś substancja psychotropowa. </font>
+
+204
+00:22:55,400 --> 00:23:00,280
+<font backgroundcolor="#000000"> Poza tym, że organizm wyrzuca </font>
+<font backgroundcolor="#000000"> z siebie zbędne substancje </font>
+
+205
+00:23:00,440 --> 00:23:05,320
+<font backgroundcolor="#000000"> i doznajemy "oczyszczenia", </font>
+<font backgroundcolor="#000000"> coś jeszcze działa na mózg. </font>
+
+206
+00:23:05,480 --> 00:23:09,040
+<font backgroundcolor="#000000"> Dobre dla Indian, ale nie dla białych. </font>
+
+207
+00:23:09,200 --> 00:23:12,800
+<font backgroundcolor="#000000"> Biali przyjeżdżają tu, </font>
+<font backgroundcolor="#000000"> by zażyć ayahuasci. </font>
+
+208
+00:23:12,960 --> 00:23:16,080
+<font backgroundcolor="#000000"> Albo by zastosować obrzęd żaby. </font>
+
+209
+00:23:16,600 --> 00:23:18,560
+<font backgroundcolor="#000000"> Kto przyjeżdża? </font>
+
+210
+00:23:18,720 --> 00:23:21,200
+<font backgroundcolor="#000000"> Najczęściej ludzie sukcesu. </font>
+
+211
+00:23:21,360 --> 00:23:26,000
+<font backgroundcolor="#000000"> Biznesmeni, którzy chcą </font>
+<font backgroundcolor="#000000"> odnieść sukces w korporacji. </font>
+
+212
+00:23:26,160 --> 00:23:28,200
+<font backgroundcolor="#000000"> Na nich to działa. </font>
+
+213
+00:23:28,360 --> 00:23:31,040
+<font backgroundcolor="#000000"> Zawęża im się pole widzenia. </font>
+
+214
+00:23:31,200 --> 00:23:34,760
+<font backgroundcolor="#000000"> Wyostrza słuch, wzrok </font>
+<font backgroundcolor="#000000"> i wszystkie zmysłu. </font>
+
+215
+00:23:34,920 --> 00:23:37,080
+<font backgroundcolor="#000000"> Stają się drapieżnikami. </font>
+
+216
+00:23:37,240 --> 00:23:39,240
+<font backgroundcolor="#000000"> Wkraczają na rynek. </font>
+
+217
+00:23:39,400 --> 00:23:45,600
+<font backgroundcolor="#000000"> I przestaje ich wszystko interesować. </font>
+<font backgroundcolor="#000000"> Nie oglądają filmów, nie czytają. </font>
+
+218
+00:23:45,760 --> 00:23:50,200
+<font backgroundcolor="#000000"> Potrafią pokonywać </font>
+<font backgroundcolor="#000000"> w sposób amoralny różne bariery. </font>
+
+219
+00:23:50,360 --> 00:23:53,360
+<font backgroundcolor="#000000"> Są nastawieni wyłącznie na sukces. </font>
+
+220
+00:23:53,520 --> 00:23:55,960
+<font backgroundcolor="#000000"> Widziałem takie przemiany. </font>
+
+221
+00:23:56,120 --> 00:24:00,080
+<font backgroundcolor="#000000"> Na moich rękach </font>
+<font backgroundcolor="#000000"> się jedna taka zdarzyła. </font>
+
+222
+00:24:00,280 --> 00:24:03,880
+<font backgroundcolor="#000000"> Człowiek zafiksowany na karierze. </font>
+
+223
+00:24:10,560 --> 00:24:17,480
+<font backgroundcolor="#000000"> OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH </font>
+<font backgroundcolor="#000000"> TVP SA - OŚRODEK iTVP-HD </font>
+
+224
+00:24:17,640 --> 00:24:21,360
+<font backgroundcolor="#000000"> ZAPRASZAMY NA STRONĘ: </font>
+<font backgroundcolor="#000000"> www.tvp.pl/dostepnosc </font>
+
