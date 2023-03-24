@@ -1,0 +1,1492 @@
+1
+00:00:00,000 --> 00:00:19,480
+P
+
+2
+00:00:21,480 --> 00:00:21,880
+Y
+
+3
+00:00:23,480 --> 00:00:24,400
+E
+
+4
+00:00:26,000 --> 00:00:26,880
+E
+
+5
+00:00:29,120 --> 00:00:29,560
+B
+
+6
+00:00:30,460 --> 00:00:30,800
+A
+
+7
+00:00:31,000 --> 00:00:31,120
+P
+
+8
+00:00:31,700 --> 00:00:31,920
+P
+
+9
+00:00:32,360 --> 00:00:32,520
+E
+
+10
+00:00:40,520 --> 00:00:40,920
+A
+
+11
+00:00:41,520 --> 00:00:41,800
+P
+
+12
+00:00:42,000 --> 00:00:44,600
+P
+
+13
+00:00:48,320 --> 00:00:50,400
+A
+
+14
+00:00:52,600 --> 00:00:53,520
+P
+
+15
+00:00:55,720 --> 00:00:56,280
+E
+
+16
+00:00:59,600 --> 00:00:59,800
+Y
+
+17
+00:01:00,120 --> 00:01:00,560
+A
+
+18
+00:01:01,000 --> 00:01:01,200
+O
+
+19
+00:01:01,960 --> 00:01:02,560
+P
+
+20
+00:01:04,560 --> 00:01:04,800
+P
+
+21
+00:01:05,960 --> 00:01:08,000
+P
+
+22
+00:01:09,120 --> 00:01:09,400
+P
+
+23
+00:01:12,120 --> 00:01:12,200
+E
+
+24
+00:01:12,800 --> 00:01:13,000
+O
+
+25
+00:01:13,520 --> 00:01:13,600
+P
+
+26
+00:01:13,760 --> 00:01:13,920
+E
+
+27
+00:01:15,240 --> 00:01:15,240
+
+
+28
+00:01:15,360 --> 00:01:15,440
+P
+
+29
+00:01:19,600 --> 00:01:19,600
+
+
+30
+00:01:20,600 --> 00:01:20,760
+E
+
+31
+00:01:21,760 --> 00:01:21,760
+
+
+32
+00:01:21,760 --> 00:01:24,580
+E
+
+33
+00:01:25,760 --> 00:01:26,200
+E
+
+34
+00:01:27,440 --> 00:01:27,640
+E
+
+35
+00:01:30,480 --> 00:01:30,540
+E
+
+36
+00:01:31,760 --> 00:01:31,820
+E
+
+37
+00:01:32,320 --> 00:01:32,560
+E
+
+38
+00:01:32,800 --> 00:01:32,800
+
+
+39
+00:01:32,840 --> 00:01:32,960
+E
+
+40
+00:01:33,280 --> 00:01:33,560
+E
+
+41
+00:01:34,880 --> 00:01:35,160
+E
+
+42
+00:01:35,280 --> 00:01:35,360
+E
+
+43
+00:01:35,640 --> 00:01:35,720
+E
+
+44
+00:01:36,800 --> 00:01:36,880
+E
+
+45
+00:01:38,200 --> 00:01:38,280
+E
+
+46
+00:01:40,360 --> 00:01:40,600
+E
+
+47
+00:01:42,920 --> 00:01:43,080
+E
+
+48
+00:01:45,880 --> 00:01:46,360
+E
+
+49
+00:01:46,600 --> 00:01:46,960
+E
+
+50
+00:01:47,720 --> 00:01:48,840
+E
+
+51
+00:01:49,760 --> 00:01:49,960
+E
+
+52
+00:01:50,680 --> 00:01:51,680
+E
+
+53
+00:01:52,280 --> 00:01:52,760
+Rzesy
+
+54
+00:01:54,520 --> 00:01:57,800
+A oto i wnętrze Kościoła La Compania de Jesus,
+
+55
+00:01:57,800 --> 00:01:59,760
+czyli Towarzystwa Jezusowego.
+
+56
+00:01:59,760 --> 00:02:03,360
+Świątynie zaczęto budować w XVI wieku,
+
+57
+00:02:03,360 --> 00:02:06,240
+a budowa trwała aż 163 lata.
+
+58
+00:02:06,240 --> 00:02:11,480
+Nie dziwi to, gdy patrzy się na wspaniałość tutejszego baroku.
+
+59
+00:02:11,480 --> 00:02:16,080
+To wnętrze kiedyś było jeszcze wspanialsze.
+
+60
+00:02:16,080 --> 00:02:18,800
+Doprawdy trudno sobie to wyobrazić, ale tak było.
+
+61
+00:02:18,800 --> 00:02:21,320
+Otóż w wieku XVII, mniej więcej w połowie,
+
+62
+00:02:21,480 --> 00:02:24,280
+kiedy jezuitów rozwiązano,
+
+63
+00:02:24,280 --> 00:02:28,600
+część miejscowych preciosów wywieziono do Hiszpanii i sprzedało.
+
+64
+00:02:28,600 --> 00:02:32,040
+Te, które zostały, jak na przykład figura wirchen dolorosa,
+
+65
+00:02:32,040 --> 00:02:34,640
+czyli Matki Boskiej Bolesnej, jest tak przepyszna,
+
+66
+00:02:34,640 --> 00:02:37,800
+tak drogocenna, że przetrzymywana jest na co dzień
+
+67
+00:02:37,800 --> 00:02:41,680
+w skarbcu centralnym Ekwatorskiego Banku Narodowego.
+
+68
+00:02:51,520 --> 00:02:54,400
+Na Mercado San Roque, czyli Targu Świętego Rocha,
+
+69
+00:02:54,400 --> 00:02:56,280
+raczej nie zobaczycie żadnego turysty.
+
+70
+00:02:56,280 --> 00:03:00,400
+Tutaj zakupy robią miejscowi, a mają co kupować.
+
+71
+00:03:00,400 --> 00:03:02,720
+Trzeba przyznać, że rzeczy, które tu widzą,
+
+72
+00:03:02,720 --> 00:03:04,680
+świadczą, że są tu bardzo duże,
+
+73
+00:03:04,680 --> 00:03:05,880
+ale są tu bardzo duże,
+
+74
+00:03:05,880 --> 00:03:07,320
+że są tu bardzo duże,
+
+75
+00:03:07,320 --> 00:03:08,920
+a są tu bardzo duże,
+
+76
+00:03:08,920 --> 00:03:10,760
+że są tu bardzo duże,
+
+77
+00:03:10,760 --> 00:03:12,440
+ale są tu bardzo duże,
+
+78
+00:03:12,440 --> 00:03:13,880
+że są tu bardzo duże,
+
+79
+00:03:13,880 --> 00:03:15,520
+że są tu bardzo duże,
+
+80
+00:03:15,520 --> 00:03:17,240
+że są tu bardzo duże,
+
+81
+00:03:17,240 --> 00:03:18,760
+a są tu bardzo duże,
+
+82
+00:03:18,760 --> 00:03:20,440
+że są tu bardzo duże,
+
+83
+00:03:20,680 --> 00:03:24,240
+bo widzą, świadczą genialnie o ich kulinarnym guście.
+
+84
+00:03:24,240 --> 00:03:25,440
+No bo proszę spojrzeć,
+
+85
+00:03:25,440 --> 00:03:28,160
+czy nie chcieliby Państwo spożyć takiego kraba?
+
+86
+00:03:28,160 --> 00:03:31,520
+Oczywiście po ugotowaniu, bo te są żywe.
+
+87
+00:03:31,520 --> 00:03:32,840
+Chodźmy dalej.
+
+88
+00:03:32,840 --> 00:03:36,440
+Tutaj coś, co oczywiście wszyscy znają.
+
+89
+00:03:36,440 --> 00:03:39,520
+Krewetki, camarones, surowe krewetki.
+
+90
+00:03:39,520 --> 00:03:44,360
+O, to jest po prostu całe multum surowych krewetek.
+
+91
+00:03:44,360 --> 00:03:47,160
+One, najprawdopodobniej, nie zostaną usmażone.
+
+92
+00:03:47,320 --> 00:03:50,520
+One będą zjedzone na surowo.
+
+93
+00:03:50,520 --> 00:03:55,040
+One zostaną zamarynowane, będą połączone w cudowną
+
+94
+00:03:55,040 --> 00:03:58,760
+kompozycję razem z sokiem z limonek, z sokiem z pomarańczy,
+
+95
+00:03:58,760 --> 00:04:03,840
+odrobiną achij, czyli miejscowej ostrej papryki oraz kolędrą.
+
+96
+00:04:03,840 --> 00:04:05,640
+To danie nazywa się ceviche.
+
+97
+00:04:05,640 --> 00:04:08,000
+Jeszcze będę o nim wielokrotnie wspominał i myślę też,
+
+98
+00:04:08,000 --> 00:04:10,040
+że pokażę Państwu, jak to się robi.
+
+99
+00:04:10,040 --> 00:04:16,520
+A tutaj mamy znowu kraby, no i konczas, czyli miejscowe muszle,
+
+100
+00:04:16,520 --> 00:04:20,920
+które również bardzo często jadane są na surowo.
+
+101
+00:04:24,760 --> 00:04:27,480
+Tutejsze sklepy rybne może nie są tak piękne jak te,
+
+102
+00:04:27,760 --> 00:04:31,280
+na przykład w Normandii, ale za to ryby najświeższe
+
+103
+00:04:31,280 --> 00:04:32,280
+z możliwych.
+
+104
+00:04:32,280 --> 00:04:34,840
+Te wielkie tutaj to są korwiny.
+
+105
+00:04:35,080 --> 00:04:38,360
+Naprawdę najświeższe, bo jedzone bardzo często na surowo
+
+106
+00:04:38,560 --> 00:04:40,960
+w potrawie zwanej ceviche.
+
+107
+00:04:41,360 --> 00:04:43,440
+A to niezwykłe wielkie dorady.
+
+108
+00:04:43,440 --> 00:04:45,120
+Właśnie świeżutka ich dostawa.
+
+109
+00:04:45,120 --> 00:04:48,560
+Nie wiem co się z nimi stanie, ale na pewno filet z takiej ryby
+
+110
+00:04:48,560 --> 00:04:50,880
+chciałbym natychmiast spożyć.
+
+111
+00:05:00,240 --> 00:05:03,600
+Ta peskaderia to pierwszy sklep rybny samoobsługowy,
+
+112
+00:05:03,600 --> 00:05:04,920
+jaki w życiu widzę.
+
+113
+00:05:04,920 --> 00:05:09,480
+Na lodzie spoczywają tutaj wielkie ilości najświeższych
+
+114
+00:05:09,480 --> 00:05:10,800
+z możliwych ryb.
+
+115
+00:05:10,800 --> 00:05:14,200
+Klienci chodzą i sami w stertach tych ryb grzebią,
+
+116
+00:05:14,200 --> 00:05:15,800
+by wybrać odpowiednią sztukę.
+
+117
+00:05:15,800 --> 00:05:19,960
+Kiedy sobie wybudzą dłonie, myją je właśnie w tym miejscu,
+
+118
+00:05:19,960 --> 00:05:25,960
+a potem płacą za wszystko tutaj właśnie, gdzie ryby są ważone.
+
+119
+00:05:25,960 --> 00:05:29,720
+Tutaj mamy skrzynie pełne stockfishy, czyli bakalał.
+
+120
+00:05:29,720 --> 00:05:33,840
+To prawdziwy paradoks historii, bo tak naprawdę miejscowi nie
+
+121
+00:05:33,840 --> 00:05:37,640
+powinni jeść tego, choć uwielbiają solonego dorsza,
+
+122
+00:05:37,640 --> 00:05:41,640
+bo to właśnie dzięki solonemu dorszowi Hiszpanie mogli
+
+123
+00:05:42,080 --> 00:05:47,080
+przepłynąć morza i konkwistadorzy dzięki właśnie bakalału
+
+124
+00:05:47,080 --> 00:05:50,640
+wytrzebili wiele miejscowych plemion.
+
+125
+00:05:50,640 --> 00:05:54,080
+Sektor warzywny po prostu oszałamia.
+
+126
+00:05:54,080 --> 00:05:57,800
+W tym miejscu będziemy mogli lepiej przyjrzeć się tym
+
+127
+00:05:57,800 --> 00:05:59,440
+papryczkom, o których wcześniej mówiłem.
+
+128
+00:05:59,440 --> 00:06:02,000
+Oto jakie piekielnie ostre.
+
+129
+00:06:02,000 --> 00:06:05,440
+Przy nim większość meksykalnickich chili serranos
+
+130
+00:06:05,440 --> 00:06:06,640
+po prostu wysiada.
+
+131
+00:06:06,640 --> 00:06:09,960
+No i widok dla nas zwyczajny, pomidory, ale ważna jest
+
+132
+00:06:09,960 --> 00:06:14,080
+konstatacja, to właśnie Ameryce Południowej świat zawdzięcza
+
+133
+00:06:14,400 --> 00:06:18,480
+pomidory, a ich pojawienie się w Europie zmieniło na zawsze
+
+134
+00:06:18,880 --> 00:06:20,240
+naszą kuchnię.
+
+135
+00:06:27,040 --> 00:06:32,120
+Mieszcząca się w dawnym konwencie klasztornym Eladeria San Agustín
+
+136
+00:06:32,480 --> 00:06:35,720
+działanie przerwanie od roku 1858.
+
+137
+00:06:35,880 --> 00:06:39,840
+Nic serdziwnego, że kultywują tu tradycję dawnej ekwatorskiej
+
+138
+00:06:39,840 --> 00:06:43,040
+sztuki kulinarnej z czasów kolonialnych.
+
+139
+00:06:43,040 --> 00:06:47,760
+Do tej właśnie kategorii należy napój, który mam przed sobą.
+
+140
+00:06:47,760 --> 00:06:51,640
+Nazywa się rosero, a jest to niezwykle skomplikowana, bogata
+
+141
+00:06:51,880 --> 00:06:55,760
+mieszanka białej kukurydzy, soków owocowych między innymi z
+
+142
+00:06:55,760 --> 00:06:59,360
+anamasa oraz z pomarańczy i miejscowych, nigdzie indziej
+
+143
+00:06:59,360 --> 00:07:00,600
+nieznanych owoców.
+
+144
+00:07:00,680 --> 00:07:06,680
+Do tego dochodzą takie rzeczy jak lód, który przywozi się z
+
+145
+00:07:06,680 --> 00:07:07,840
+andyjskich lodzowców.
+
+146
+00:07:07,840 --> 00:07:11,400
+Jeszcze do niedawna przywożono go z Picinche wulkanu leżącego
+
+147
+00:07:11,680 --> 00:07:16,360
+nad Quito, ale że klimat i tutaj się ociepla, więc teraz trzeba
+
+148
+00:07:16,360 --> 00:07:19,040
+jeździć dalej, by przywozić lód.
+
+149
+00:07:19,440 --> 00:07:24,840
+Tutaj mamy jeszcze graciaz, wyciągi z leczniczych roślin,
+
+150
+00:07:25,080 --> 00:07:26,840
+mamy tutaj esencje kwiatowe.
+
+151
+00:07:27,080 --> 00:07:30,760
+To wszystko przecedza się przez starodawne sito zrobione z
+
+152
+00:07:30,760 --> 00:07:33,880
+końskiego włosia i właśnie w takiej postaci podaje.
+
+153
+00:07:34,120 --> 00:07:36,960
+Kiedyś podawano to wyłącznie na wielkie religijne
+
+154
+00:07:36,960 --> 00:07:41,080
+uroczystości, na przykład na Boże Ciało czy też pierwsze
+
+155
+00:07:41,080 --> 00:07:41,600
+komunie.
+
+156
+00:07:43,640 --> 00:07:47,960
+Kapitalne, niezwykle aromatyczne w smaku, ale mimo że lokal
+
+157
+00:07:47,960 --> 00:07:51,720
+nazywa się Aladeria, czyli lodziarnia, podają tutaj różne
+
+158
+00:07:51,880 --> 00:07:54,680
+typowe dla Ekwadoru rzeczy, niesłodkie do jedzenia.
+
+159
+00:07:54,920 --> 00:07:57,000
+Mam przed sobą wspomniane ceviche.
+
+160
+00:07:57,320 --> 00:08:00,280
+Ceviche w wersji z camarones, czyli z krewetkami.
+
+161
+00:08:00,960 --> 00:08:04,160
+Bardzo aromatyczny sos, to zielone, to kolendra.
+
+162
+00:08:04,680 --> 00:08:07,800
+Do tego tradycyjnie jada się kukurydzę w dwóch postaciach.
+
+163
+00:08:07,800 --> 00:08:12,120
+To jest po prostu popcorn, a to są smażone ziarna kukurydzy,
+
+164
+00:08:12,120 --> 00:08:16,560
+które pod wpływem temperatury jeszcze nie rozkwitły jak
+
+165
+00:08:16,680 --> 00:08:17,560
+właśnie popcorn.
+
+166
+00:08:17,560 --> 00:08:19,680
+I wszystko razem tutaj się dorzuca.
+
+167
+00:08:19,680 --> 00:08:23,960
+Do tego mogą dochodzić jeszcze chipsy zrobione z zielonych
+
+168
+00:08:24,480 --> 00:08:26,400
+bananów, zwanych platanów.
+
+169
+00:08:26,400 --> 00:08:29,360
+To wszystko właśnie tak się je.
+
+170
+00:08:29,560 --> 00:08:34,400
+Pachnie wspaniale i doprawdy nie wiem co jest bardziej
+
+171
+00:08:34,400 --> 00:08:35,040
+aromatyczne.
+
+172
+00:08:35,160 --> 00:08:37,440
+Ten napój czy też ceviche.
+
+173
+00:08:37,880 --> 00:08:38,440
+Kapitalne.
+
+174
+00:08:38,440 --> 00:08:41,920
+Merkado Central nie jest z pewnością tak malownicze jak
+
+175
+00:08:41,920 --> 00:08:45,560
+Park Świętego Rocha, za to jest tutaj bardzo charakterystyczny
+
+176
+00:08:45,560 --> 00:08:50,600
+kącik z jadłodajniami, gdzie miejscowi przychodzą rano i
+
+177
+00:08:50,600 --> 00:08:53,280
+zamawiają dania, którymi leczą kaca.
+
+178
+00:08:53,280 --> 00:08:56,600
+Są to dania bardzo sycące, najczęściej wywodzące się z
+
+179
+00:08:56,600 --> 00:08:58,120
+indiańskiej tradycji.
+
+180
+00:08:58,120 --> 00:09:00,960
+Jedno z nich mam przed sobą wspomniane, że to jest
+
+181
+00:09:00,960 --> 00:09:02,120
+kukurydzę z krewetkami.
+
+182
+00:09:02,120 --> 00:09:03,640
+To jest kukurydzę z krewetkami.
+
+183
+00:09:03,640 --> 00:09:05,240
+To jest kukurydzę z krewetkami.
+
+184
+00:09:05,960 --> 00:09:06,960
+To jest kukurydzę z krewetkami.
+
+185
+00:09:07,440 --> 00:09:09,040
+To jest kukurydzę z krewetkami.
+
+186
+00:09:09,040 --> 00:09:13,920
+Jeden z nich ma przed sobą jest to guatita, czyli wołowy
+
+187
+00:09:13,920 --> 00:09:19,800
+żeląbek duszony w gęstym sosie i podawany razem z ziemniakami.
+
+188
+00:09:19,800 --> 00:09:23,920
+Te ziemniaki są w sosie, osobno podawany jest ryż, kawałek
+
+189
+00:09:23,920 --> 00:09:26,320
+awokado i jajko na twardo.
+
+190
+00:09:26,800 --> 00:09:30,640
+Serce miasta to XVI wieczny Plaza Grande.
+
+191
+00:09:30,640 --> 00:09:34,880
+Przykład genialnej kolonialnej architektury.
+
+192
+00:09:35,440 --> 00:09:39,840
+Pałac Prezydencki, kiedyś siedziba hiszpańskiego gubernatora.
+
+193
+00:09:39,840 --> 00:09:44,160
+Tak jak w kolonialnych czasach na parterze pałacu działają
+
+194
+00:09:44,280 --> 00:09:46,960
+sklepiki sprzedające drobne rzemiosło.
+
+195
+00:09:47,280 --> 00:09:52,520
+Celem mojego spacerku jest hotel Maristique dawny, dziś hotel
+
+196
+00:09:52,840 --> 00:09:57,360
+Plaza Grande. To przykład wspaniałej, wykwintnej architektury
+
+197
+00:09:57,520 --> 00:10:00,760
+z lat 30. Zresztą sami zaraz Państwo zobaczycie wnętrze.
+
+198
+00:10:04,920 --> 00:10:08,480
+Tutejsza restauracja specjalizuje się w typowych
+
+199
+00:10:08,720 --> 00:10:13,160
+ekwadorskich daniach. Już za chwilę ogólnopolska premiera jednego
+
+200
+00:10:13,360 --> 00:10:17,520
+z nich. Będzie to zupa, która nazywa się Fanesca, a jadana
+
+201
+00:10:17,520 --> 00:10:19,240
+jest tutaj wielkanoc.
+
+202
+00:10:20,440 --> 00:10:21,840
+Oto Pan Fabian Huerta.
+
+203
+00:10:24,320 --> 00:10:27,200
+Jeden z najsłynniejszych szefów Ameryki Południowej, a oto
+
+204
+00:10:27,200 --> 00:10:30,040
+tylko niektóre składniki do Faneski, bo jest ich strasznie
+
+205
+00:10:30,040 --> 00:10:32,880
+dużo. Resztę zobaczymy w trakcie gotowania.
+
+206
+00:10:33,120 --> 00:10:38,240
+Zacznijmy od tej strony może. To są cioczos, czyli nasiona
+
+207
+00:10:38,240 --> 00:10:43,200
+łubinu. Tutaj cioclos, czyli ziarna tej właśnie genialnej
+
+208
+00:10:43,640 --> 00:10:48,320
+miejscowej kukurydzy. Tutaj mamy wstępnie ugotowaną
+
+209
+00:10:48,320 --> 00:10:53,120
+soczewicę, fasolkę również podgotowaną. W tej miseczce
+
+210
+00:10:53,120 --> 00:10:57,680
+spoczywa bakalał, czyli sztokwisz. To jest dynia, to i to.
+
+211
+00:10:57,960 --> 00:11:01,560
+To jest dynia posiekana, a to jest pirez dyni. Te dynie są
+
+212
+00:11:01,560 --> 00:11:05,160
+trochę inne niż u nas. Tu na stole spoczywa właśnie taki
+
+213
+00:11:05,720 --> 00:11:09,600
+egzemplarz. Miąż w tej dyni jest zielony w środku i niezwykle
+
+214
+00:11:09,880 --> 00:11:13,640
+aromatyczny. Przejdźmy do kolejnych składników. W tej miseczce
+
+215
+00:11:13,880 --> 00:11:19,560
+mamy ciecierzycę. To jest cebula biała oraz cebula zielona.
+
+216
+00:11:19,880 --> 00:11:24,520
+No i orzeszki ziemne. Tych składników jest w sumie 12, tak
+
+217
+00:11:24,520 --> 00:11:29,840
+jak dwunastu apostolów. Na rozgrzane masło w garnku wrzucamy
+
+218
+00:11:29,840 --> 00:11:31,880
+drobno posiekany czosnek.
+
+219
+00:11:41,600 --> 00:11:46,160
+Eseboja. Eseboja? I teraz do tego dokładamy cebulę białą i zieloną.
+
+220
+00:11:47,360 --> 00:11:51,400
+Doszł minuto, tu na minutę? Szym. I dusimy to około dwóch minut
+
+221
+00:11:51,400 --> 00:11:52,760
+bacząc, by się nie przypaliło.
+
+222
+00:11:53,880 --> 00:11:57,440
+Oregano? Oregano, dziękuję. Teraz do garnka wędruje nieco
+
+223
+00:11:57,440 --> 00:12:01,360
+suszonego oregano, które w dłoniach rozdrabniany był wolniły
+
+224
+00:12:01,360 --> 00:12:06,840
+aromat. I jeszcze jeden składnik. Perechyl? A, cilantro. I kolendra.
+
+225
+00:12:06,840 --> 00:12:08,240
+Drobno posiekana natka kolendra.
+
+226
+00:12:13,520 --> 00:12:18,240
+To jest? To jest bulion rybny.
+
+227
+00:12:22,920 --> 00:12:25,200
+Pierwszy płyn, który wędruje do garnka.
+
+228
+00:12:26,200 --> 00:12:32,320
+Zapallo? Zapallo, czyli pire z dyni. Ono nie jest zmiksowane idealnie
+
+229
+00:12:32,320 --> 00:12:37,880
+gładko, są w tym kawałki dyniowe. Kolejnym składnikiem będzie druga
+
+230
+00:12:37,880 --> 00:12:44,120
+dynia stara. Ten rodzaj dyni nazywa się sambo, tak jak jedna ze
+
+231
+00:12:44,120 --> 00:12:44,800
+stupwalki.
+
+232
+00:12:46,360 --> 00:12:47,600
+Sabor de pescado.
+
+233
+00:12:48,280 --> 00:12:49,720
+Fumier jest bardzo skoncentrowany.
+
+234
+00:12:50,240 --> 00:12:53,040
+Bardzo skoncentrowany bulion rybny. Pięknie pachnie.
+
+235
+00:12:54,040 --> 00:12:58,880
+Esto es mani del licuado. Mani licuado. To są orzeszki ziemne,
+
+236
+00:12:58,880 --> 00:13:02,200
+ale które zostały razem z wodą zmiksowane.
+
+237
+00:13:09,040 --> 00:13:12,920
+W garnku wylądują teraz pozostałe ziarna, czyli między innymi
+
+238
+00:13:13,040 --> 00:13:20,080
+ciecierzyca, soczewica, groszek, fasolka, kukurydza oraz nasiona
+
+239
+00:13:20,080 --> 00:13:24,000
+lubinu. Ziarna w wielu kuchniach pełnią funkcję rytualną.
+
+240
+00:13:24,000 --> 00:13:27,920
+Nie tylko w Ekwadorze. Na przykład jest słynne danie na
+
+241
+00:13:27,920 --> 00:13:32,240
+wyspie Chvar, w którym znajdują się wszystkie ziarna, które tamtejsza
+
+242
+00:13:32,240 --> 00:13:37,440
+ziemia rodzi. Ale Fanesca, ta zupa jest czysto ekwadorskim
+
+243
+00:13:37,440 --> 00:13:41,480
+wymysłem i naprawdę potrawą prawie że rytualną.
+
+244
+00:13:43,480 --> 00:13:48,040
+Najpierw soczewica, popem garbanzo, czyli ciecierzyca, chociaż
+
+245
+00:13:48,040 --> 00:13:52,200
+kolejność jest dowolna. Teraz biała fasolka. Teraz ziemniaki
+
+246
+00:13:52,200 --> 00:13:55,440
+w przód ugotowane, ale wcześniej dwa składniki, o których nie
+
+247
+00:13:55,440 --> 00:13:59,440
+mówiłem jeszcze. Mianowicie bób oraz zielony groszek.
+
+248
+00:13:59,440 --> 00:14:04,320
+Wszystkie te ziarna są obrane ze skórby. Czas teraz myślę
+
+249
+00:14:04,320 --> 00:14:06,320
+właśnie na czoklos.
+
+250
+00:14:11,440 --> 00:14:13,440
+Przepyszna jest ta kukurydza.
+
+251
+00:14:14,440 --> 00:14:16,440
+I teraz trzeba to wymieszać.
+
+252
+00:14:18,040 --> 00:14:23,280
+Dolejemy do tego nieco mleka, spróbujemy, ewentualnie posolimy
+
+253
+00:14:23,280 --> 00:14:28,080
+do smaku i potem całość musi się jeszcze gotować tylko 5 minut.
+
+254
+00:14:28,080 --> 00:14:31,840
+Ten wywar rybny był zrobiony oczywiście z tego bakalału,
+
+255
+00:14:31,840 --> 00:14:34,880
+który Państwo widzieli, ale w naszych warunkach możemy go
+
+256
+00:14:34,880 --> 00:14:39,600
+zrobić z dowolnej ryby. Byle była ona esencjonalna.
+
+257
+00:14:39,600 --> 00:14:42,160
+Może to być nawet wywar z ryby wędzonej.
+
+258
+00:14:44,080 --> 00:14:46,080
+Doprawdy trudno powiedzieć co jest piękniejsze.
+
+259
+00:14:46,080 --> 00:14:49,600
+Czy widok z kotolowego tarasu, czy też to, co mam przed sobą
+
+260
+00:14:49,600 --> 00:14:54,560
+na talerzu. A to jest faneska w wersji gotowej do podania.
+
+261
+00:14:54,560 --> 00:14:58,320
+Przeróżne dodatki. Empanadillas, czyli małe pierożki smażone
+
+262
+00:14:58,320 --> 00:15:00,760
+w głębokim tłuszczu z serowym nadzieniem.
+
+263
+00:15:00,760 --> 00:15:05,280
+Cusini empanada z pierogów większych. Cząski jajek ugotowanych
+
+264
+00:15:05,280 --> 00:15:08,480
+na twardo. Kawałki ostrej papryczki achi.
+
+265
+00:15:08,480 --> 00:15:11,440
+Kawałki ryby, na której ugotowany był bulion.
+
+266
+00:15:11,440 --> 00:15:16,480
+Oraz plastry zielonych bananów smażonych w oleju.
+
+267
+00:15:16,480 --> 00:15:20,640
+Najprawdziwsze, wykwintne, świąteczne danie ekwadorskie.
+
+268
+00:15:20,640 --> 00:15:28,640
+W roku 1526 do wybrzeży Ekwadoru przypłynęli hiszpańscy
+
+269
+00:15:28,640 --> 00:15:33,640
+konkwistadorzy. Po ich przybyciu inkowie podpalili Kito.
+
+270
+00:15:33,640 --> 00:15:39,040
+Na ruinach dawnego inkwalskiego miasta w roku 1534 Hiszpanie
+
+271
+00:15:39,520 --> 00:15:44,760
+założyli swoje. I to miasto, stare hiszpańskie miasto,
+
+272
+00:15:44,760 --> 00:15:48,480
+w niezmienionej formie przetrwało do dziś.
+
+273
+00:15:48,480 --> 00:15:55,920
+W roku 1978 historyczna część Kito została wpisana na światową
+
+274
+00:15:55,920 --> 00:15:59,320
+listę dziedzictwa kultury. Ciekawostką jest fakt,
+
+275
+00:15:59,320 --> 00:16:03,480
+że w tym samym momencie na tęże samą listę wpisano Kraków.
+
+276
+00:16:03,480 --> 00:16:07,360
+Zatem Kraków i Kito to jedne z pierwszych dwóch miast na świecie,
+
+277
+00:16:07,360 --> 00:16:12,360
+które figurują na liście UNESCO. Jeszcze kilkanaście lat temu
+
+278
+00:16:12,360 --> 00:16:16,280
+centrum robiło dość smutne wrażenie. Na ulicach kłębili się
+
+279
+00:16:16,280 --> 00:16:20,120
+handlarze byle czym, zabytki niszczały i było tu po prostu
+
+280
+00:16:20,120 --> 00:16:23,320
+bardzo niebezpiecznie. Jednak sytuacja zmieniła się
+
+281
+00:16:23,320 --> 00:16:27,520
+diametralnie. Zabytki odnowiono, handlarzy przegnano,
+
+282
+00:16:27,520 --> 00:16:31,000
+poprawiono bezpieczeństwo. Dziś po starym Kito można włączyć
+
+283
+00:16:31,000 --> 00:16:35,200
+się godzinami. Jedyna przeszkoda to wysokość, która sprawia,
+
+284
+00:16:35,440 --> 00:16:39,880
+że nawet najlżejszy spacerek to wysiłek iście piekielny.
+
+285
+00:16:42,040 --> 00:16:46,160
+Drodzy Państwo, a oto człowiek, któremu Kito zawdzięcza swoje
+
+286
+00:16:46,160 --> 00:16:52,040
+niezwykłe prosperity. Burmistr miasta, senior Paco Moncalo
+
+287
+00:16:52,040 --> 00:16:56,320
+Gallego. Buenos días. Buenos días. Senior alcalde,
+
+288
+00:16:56,320 --> 00:17:00,560
+que tal la cooperación entre Kito i Krakowia?
+
+289
+00:17:00,600 --> 00:17:05,760
+Bueno, Kito i Krakowia comparten el honor de haber sido las dos primeras
+
+290
+00:17:05,760 --> 00:17:09,200
+ciudades en el mundo. Minęło właśnie 30 lat od czasu, kiedy
+
+291
+00:17:09,200 --> 00:17:13,000
+Kraków i Kito równocześnie wpisane zostały na listę
+
+292
+00:17:13,000 --> 00:17:17,000
+światowego dziedzictwa kultury. W związku z tym oba miasta
+
+293
+00:17:17,000 --> 00:17:21,440
+podpisały umowę o współpracy. Prezydenci nawzajem się
+
+294
+00:17:21,440 --> 00:17:26,560
+wizytują i senior alcalde z tej współpracy jest niezwykle
+
+295
+00:17:26,560 --> 00:17:32,200
+zadowolony, a główne obchody rocznicy wpisania obu miast na listę
+
+296
+00:17:32,320 --> 00:17:34,520
+UNESCO odbędą się w sierpniu.
+
+297
+00:17:36,960 --> 00:17:40,720
+Prawdziwą południowoamerykańską, a więc ekwadorską świętością
+
+298
+00:17:40,720 --> 00:17:46,040
+jest Paria, czyli Dania, które są pieczone na różcie. Taki
+
+299
+00:17:46,040 --> 00:17:49,960
+typowy ekwadorski zestaw właśnie dla Państwa przygotuje tutaj na
+
+300
+00:17:49,960 --> 00:17:53,960
+plaza San Francisco, jednym z najpiękniejszych miejsc w Kito.
+
+301
+00:17:54,320 --> 00:17:58,440
+Co mamy tutaj? Przede wszystkim mięsiwa, chuletillas,
+
+302
+00:17:58,600 --> 00:18:03,800
+de cerdo, czyli kotleciki wieprzowe z kostką. To jest morcia,
+
+303
+00:18:03,800 --> 00:18:07,840
+czyli miejscowy, a z Hiszpanii wywodzący się rodzaj kiszki.
+
+304
+00:18:08,480 --> 00:18:14,080
+To jest chorizo, zwykła kiełbaska i to wszystko będzie pieczone
+
+305
+00:18:14,200 --> 00:18:17,160
+na różcie. Na razie to wygląda bardzo typowo również i dla
+
+306
+00:18:17,160 --> 00:18:21,160
+Hiszpanii, ale na przykład te składniki przesądzają o
+
+307
+00:18:21,240 --> 00:18:25,560
+ekwadorskości. To jest zielony banan, który po obraniu musi być
+
+308
+00:18:25,560 --> 00:18:30,320
+skropiony cytryną, by nie zczerniał, a to jest choclo,
+
+309
+00:18:30,520 --> 00:18:34,080
+czyli rodzaj miejscowej kukurydzy i to kładę najpierw,
+
+310
+00:18:34,080 --> 00:18:38,200
+bo to najdłużej się będzie piekło. Tutaj spadła mi mała ostra
+
+311
+00:18:38,200 --> 00:18:43,120
+papryczka, symbol miejscowej kuchni. Aji, to będzie podstawa
+
+312
+00:18:43,280 --> 00:18:47,320
+sosu. Na razie czekamy aż to zacznie się przynajmniej z jednej
+
+313
+00:18:47,360 --> 00:18:52,240
+strony rumienić, by móc dodawać mięso. Sos jest niezwykle prosty,
+
+314
+00:18:52,240 --> 00:18:55,560
+ale trzeba go zrobić z pewnym wyprzedzeniem. Mam tutaj już
+
+315
+00:18:55,720 --> 00:19:01,880
+część składników posiekanych. W tej miseczce cebulkę zieloną
+
+316
+00:19:02,400 --> 00:19:06,760
+oraz czosnek. Tutaj dwa rodzaje papryki wspomnianą wcześniej
+
+317
+00:19:06,760 --> 00:19:13,120
+aji oraz zwykłą słodką paprykę i teraz to wszystko należy
+
+318
+00:19:13,200 --> 00:19:18,360
+wymieszać. A będzie to mieszane razem z oliwą.
+
+319
+00:19:20,640 --> 00:19:29,280
+Mniej więcej tyle i do oliwy dodawał będę sok z zielonych
+
+320
+00:19:29,760 --> 00:19:30,680
+cytrynek.
+
+321
+00:19:32,440 --> 00:19:35,200
+Świeżutkie zielone cytrynki. Innych tutaj w ogóle nie ma.
+
+322
+00:19:35,520 --> 00:19:42,360
+Tylko lemonki. Trzeba bezpośrednio do miski trochę tego
+
+323
+00:19:42,360 --> 00:19:47,320
+wcisnąć. Wymieszać, posolić, odstawić. Składniki się
+
+324
+00:19:47,560 --> 00:19:53,200
+chwilkę będą macerować i całość nabierze odpowiedniego smaku.
+
+325
+00:19:57,560 --> 00:20:04,040
+Tak naprawdę najważniejszymi składnikami jest aji, czosnek i
+
+326
+00:20:04,160 --> 00:20:09,120
+cebula. Oczywiście musi tu być oliwa lub też olej. Cała reszta
+
+327
+00:20:09,240 --> 00:20:14,080
+zależy od naszego uznania. Ważne by przyprawić to jeszcze solą
+
+328
+00:20:14,080 --> 00:20:18,120
+o czym już mówiłem i co pokazywałem sokiem z limetek. To jest
+
+329
+00:20:18,120 --> 00:20:24,120
+właśnie rodzaj salsa de aji. Teraz to odkładamy i proponuję
+
+330
+00:20:24,640 --> 00:20:27,600
+skoro mamy taką ładną pokrywę przykryć to by ciepło
+
+331
+00:20:27,800 --> 00:20:33,600
+równomiernie otaczało banana i kukurydzę. A propos bananów
+
+332
+00:20:33,960 --> 00:20:39,280
+tak właśnie wygląda ten gatunek służący do pieczenia bądź też
+
+333
+00:20:39,280 --> 00:20:44,840
+gotowania. Teraz możemy dodawać mięso w takiej kolejności w
+
+334
+00:20:44,840 --> 00:20:48,640
+jakiej powinno się smażyć w zależności od czasu. Wbrew
+
+335
+00:20:48,640 --> 00:20:52,400
+pozorom najpierw położę chorizo oraz morsille bo one są
+
+336
+00:20:52,400 --> 00:20:57,760
+grube i dłużej im zajmie pieczenie się niż chuletillas
+
+337
+00:20:57,840 --> 00:21:03,200
+które są cieniutkie. Zatem teraz układam tutaj kiełbaski
+
+338
+00:21:04,400 --> 00:21:08,960
+właśnie tak i znowu zamykam pokrywę.
+
+339
+00:21:12,440 --> 00:21:15,520
+A propos miejsca w którym jesteśmy. Kościół i klasztor
+
+340
+00:21:15,520 --> 00:21:19,000
+franciszkanów to najstarsza świątynia katolicka w całej
+
+341
+00:21:19,200 --> 00:21:23,920
+Ameryce łacińskiej a ten sposób gotowania jest prawie równie
+
+342
+00:21:23,920 --> 00:21:27,480
+stary. Zajrzyjmy co się tu dzieje. Dymi się ale się nie pali
+
+343
+00:21:27,480 --> 00:21:33,160
+bardzo dobrze. Myślę że czas by położyć na ruszcie chuletillas
+
+344
+00:21:33,160 --> 00:21:38,520
+de cerdo. Bez żadnych przypraw. Będę to tylko solił ale na
+
+345
+00:21:38,520 --> 00:21:43,400
+samym końcu po upieczeniu. Przed chwilą podeszła tutaj do mnie
+
+346
+00:21:43,400 --> 00:21:47,480
+jedna niewysoka pani i powiedziała gringito de la terra fría
+
+347
+00:21:47,480 --> 00:21:51,240
+czyli mały gringo z zimnej ziemi. Czy masz pozwolenie od
+
+348
+00:21:51,240 --> 00:21:56,680
+burmistrza? Powiedziałem że mam i pokazałem jej co tutaj mam.
+
+349
+00:21:56,680 --> 00:22:01,240
+Była bardzo zadowolona. Kotlety należy nieco posolić już
+
+350
+00:22:01,240 --> 00:22:06,280
+wówczas gdy są obsmażone lekko z jednej strony. Cała reszta
+
+351
+00:22:06,280 --> 00:22:11,000
+dochodzi. Myślę że za 10 minut wszystko będzie w porządku.
+
+352
+00:22:13,000 --> 00:22:19,400
+Parilla gotowa. Można wszystko nakładać. Co najpierw.
+
+353
+00:22:20,120 --> 00:22:24,720
+Kotleciki. Jeden drugi. Strasznie dużo jedzenia ale tak
+
+354
+00:22:24,760 --> 00:22:29,720
+właśnie wygląda tutaj szaparia. Mnóstwo jedzenia. Tu mi się
+
+355
+00:22:29,720 --> 00:22:33,560
+coś zaklinowało. Wezmę drugi widelec. Będzie nim łatwiej
+
+356
+00:22:33,560 --> 00:22:34,560
+nakładać.
+
+357
+00:22:35,560 --> 00:22:40,560
+Esto es chorizo. Si. Esto es morcia.
+
+358
+00:22:41,560 --> 00:22:43,560
+Esto es choclo.
+
+359
+00:22:44,560 --> 00:22:46,560
+Esto es platano.
+
+360
+00:22:47,560 --> 00:22:53,040
+Esta crudo. Si si si. Tak jest. Banan jeszcze powinien się
+
+361
+00:22:53,360 --> 00:22:58,360
+piec. Jakieś 15 minut popełniłem błąd bo ten banan najdłużej
+
+362
+00:22:58,360 --> 00:23:03,360
+się piecze. Ale to już jest dobre. I jeszcze salsa de aji.
+
+363
+00:23:04,360 --> 00:23:06,360
+Bardzo proszę tutaj.
+
+364
+00:23:07,360 --> 00:23:09,360
+I wszystko można jeść.
+
+365
+00:23:10,360 --> 00:23:12,360
+Pregovence para todos. Por favor.
+
+366
+00:23:19,360 --> 00:23:22,360
+Zgłównęło szybko. Może znaczy że dobre.
+
+367
+00:23:23,360 --> 00:23:26,360
+Por favor. La dama. Nic nie zostało.
+
+368
+00:23:27,360 --> 00:23:29,360
+To znaczy że chyba było dobre.
+
+369
+00:23:30,360 --> 00:23:35,360
+Co wieczorami robią tenios. Wieczorami tenios się bawią.
+
+370
+00:23:35,360 --> 00:23:39,360
+Ale przecież nie tańczą przy zdjęciach andyńskich fujarek.
+
+371
+00:23:40,360 --> 00:23:44,360
+Nie. Oni chodzą do salsotek. Oto jedna z najsłynniejszych.
+
+372
+00:23:44,360 --> 00:23:50,360
+Sesserivo. Kiteńczycy tutaj piją mojitos i tańczą salce.
+
+373
+00:23:50,360 --> 00:23:53,680
+Tak bym chciał do końca swojego życia.
+
