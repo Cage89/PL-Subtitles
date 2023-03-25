@@ -1,0 +1,2746 @@
+1
+00:00:44,120 --> 00:00:45,920
+<font color="#FFFF51">Jedzenie w lodówce.</font>
+
+2
+00:00:46,080 --> 00:00:51,560
+<font color="#FFFF51">W szafce są ciastka,</font>
+<font color="#FFFF51">gdyby Nocul z Dziubakiem przyszli.</font>
+
+3
+00:00:51,720 --> 00:00:54,040
+<font color="#FFFF51">Kawa, herbata - wiesz gdzie?</font>
+
+4
+00:00:54,200 --> 00:00:59,560
+Na zwykłym serwisie czy pozłacanym?
+<font color="#FFFF51">Na złotym tylko dla biskupa.</font>
+
+5
+00:00:59,720 --> 00:01:04,840
+A na poszczerbionym?
+<font color="#FFFF51">Jak do Pluskwy kolega przyjdzie.</font>
+
+6
+00:01:05,000 --> 00:01:08,160
+<font color="#FFFF51">Dobra, wszystko w waszych rękach.</font>
+
+7
+00:01:08,320 --> 00:01:11,080
+Jedzenia wystarczy na miesiąc.
+
+8
+00:01:11,240 --> 00:01:14,760
+A na ile ty wyjeżdżasz?
+<font color="#FFFF51">Jutro wracam.</font>
+
+9
+00:01:14,920 --> 00:01:19,080
+<font color="#FFFF51">Ciasto i pasztet wzięłam.</font>
+<font color="#FFFF51">Z pustymi rękami nie jadę.</font>
+
+10
+00:01:19,240 --> 00:01:21,880
+<font color="#16F158">Natalio, odjazd 15.10.</font>
+
+11
+00:01:22,040 --> 00:01:24,600
+<font color="#16F158">Pośpiesz się.</font>
+<font color="#FFFF51">Oczywiście.</font>
+
+12
+00:01:28,840 --> 00:01:30,720
+<font color="#FFFF51">A! Telefon!</font>
+
+13
+00:01:32,800 --> 00:01:35,640
+<font color="#FFFF51">Oj, słaba bateria...</font>
+
+14
+00:01:41,080 --> 00:01:43,320
+<font color="#16F158">Natalio!</font>
+<font color="#FFFF51">Idę, idę!</font>
+
+15
+00:01:46,240 --> 00:01:50,960
+<font color="#FFFF51">Zapomniałam przysiąść po tym,</font>
+<font color="#FFFF51">jak się wróciłam po telefon.</font>
+
+16
+00:01:52,320 --> 00:01:55,200
+<font color="#FFFF51">Co tak patrzysz? To taki przesąd.</font>
+
+17
+00:01:55,360 --> 00:01:57,160
+<font color="#FFFF51">Dobra, już.</font>
+
+18
+00:02:00,280 --> 00:02:02,280
+<font color="#8080FF">GŁOŚNA MUZYKA</font>
+Czuję!
+
+19
+00:02:03,400 --> 00:02:05,960
+Czuję, chyba klepie.
+
+20
+00:02:06,120 --> 00:02:08,320
+- Spróbuj tabsów.
+- Których?
+
+21
+00:02:09,680 --> 00:02:12,040
+Otwieraj te.
+
+22
+00:02:14,000 --> 00:02:16,160
+<font color="#8080FF">ŚMIECHY</font>
+
+23
+00:02:16,320 --> 00:02:18,680
+- Co? Klepie?
+- Stary!
+
+24
+00:02:18,840 --> 00:02:21,800
+Jeszcze nie połknąłem, a już czuję.
+
+25
+00:02:24,880 --> 00:02:26,920
+Masz jeszcze buszka.
+
+26
+00:02:28,400 --> 00:02:31,200
+Dobra, dawaj. Już wystarczy.
+<font color="#8080FF">KASZLE</font>
+
+27
+00:02:32,520 --> 00:02:36,080
+- Cho, idziemy na miacho.
+- Lecimy!
+
+28
+00:02:36,240 --> 00:02:38,280
+Gdzie?!
+
+29
+00:02:38,440 --> 00:02:41,800
+Wariacie...
+<font color="#8080FF">ŚMIECHY</font>
+
+30
+00:02:41,960 --> 00:02:44,120
+Tam są drzwi.
+
+31
+00:02:49,840 --> 00:02:52,440
+<font color="#16F158">Jeszcze bilet w kasie kupiłaś.</font>
+
+32
+00:02:52,600 --> 00:02:58,520
+<font color="#FFFF51">Ksiądz widział numer? 13, 13, 13.</font>
+<font color="#16F158">Zwykła kombinacja cyfr.</font>
+
+33
+00:02:58,680 --> 00:03:01,280
+<font color="#FFFF51">Czarny kot nam przebiegł drogę.</font>
+
+34
+00:03:01,440 --> 00:03:03,240
+<font color="#16F158">To są zabobony.</font>
+
+35
+00:03:03,400 --> 00:03:07,520
+<font color="#16F158">Prawdziwy katolik</font>
+<font color="#16F158">nie zwraca uwagi na takie rzeczy.</font>
+
+36
+00:03:07,680 --> 00:03:10,480
+<font color="#FFFF51">Jestem katoliczką, ale swoje wiem.</font>
+
+37
+00:03:10,640 --> 00:03:12,960
+<font color="#FFFF51">Może ja jednak jutro pojadę.</font>
+
+38
+00:03:13,120 --> 00:03:17,000
+<font color="#16F158">Sporo wolnych miejsc jest.</font>
+<font color="#FFFF51">Bo to kurs objazdowy.</font>
+
+39
+00:03:17,160 --> 00:03:20,640
+<font color="#FFFF51">Będziemy się dwie godziny</font>
+<font color="#FFFF51">bocznymi drogami...</font>
+
+40
+00:03:20,800 --> 00:03:23,600
+Pani pozwoli, że się przedstawię...
+
+41
+00:03:23,760 --> 00:03:25,360
+<font color="#FFFF51">Panie, panie...!</font>
+
+42
+00:03:28,640 --> 00:03:32,200
+<font color="#16F158">Będziesz miała</font>
+<font color="#16F158">dużo miejsc do wyboru.</font>
+
+43
+00:03:32,360 --> 00:03:35,880
+<font color="#16F158">Wszystko będzie dobrze!</font>
+<font color="#16F158">Z Panem Bogiem.</font>
+
+44
+00:04:03,280 --> 00:04:05,200
+Dzień dobry.
+
+45
+00:04:05,360 --> 00:04:07,960
+- Dwa do Ostrowca.
+- Normalny?
+
+46
+00:04:08,120 --> 00:04:10,960
+- Business class.
+- 20 złotych.
+
+47
+00:04:14,120 --> 00:04:16,840
+Zaziębiłem się chyba.
+
+48
+00:04:17,000 --> 00:04:22,840
+Za godzinę będziemy na miejscu.
+Flaszka się znajdzie i dziewczynka.
+
+49
+00:04:23,840 --> 00:04:26,800
+Ej, Szajbus, ale żeś się umorusał.
+
+50
+00:04:26,960 --> 00:04:33,080
+Cholera! Tak to jest,
+jak się pociągiem na gapę jeździ.
+
+51
+00:04:35,960 --> 00:04:40,080
+Jaki chłopaczek rezolutny.
+I mamusia jaka ładna.
+
+52
+00:04:41,120 --> 00:04:43,200
+Ej, spokój.
+
+53
+00:04:51,800 --> 00:04:54,360
+<font color="#8080FF">MĘŻCZYZNA KASZLE</font>
+
+54
+00:04:54,520 --> 00:04:56,080
+<font color="#FFFF51">O matko!</font>
+
+55
+00:04:56,240 --> 00:04:59,480
+<font color="#FFFF51">W środku lata się pan zaziębił?</font>
+<font color="#FFFF51">No ładnie.</font>
+
+56
+00:05:00,440 --> 00:05:03,000
+<font color="#FFFF51">Ale niech pan czeka.</font>
+
+57
+00:05:03,160 --> 00:05:06,720
+<font color="#FFFF51">Proszę, niech się pan częstuje.</font>
+Dziękuję.
+
+58
+00:05:07,800 --> 00:05:09,840
+W nocy...
+
+59
+00:05:11,240 --> 00:05:14,880
+W nocy z kolegą na rybach byliśmy.
+Wzięło mnie.
+
+60
+00:05:15,040 --> 00:05:17,520
+<font color="#FFFF51">W nocy na rybach?</font>
+
+61
+00:05:17,680 --> 00:05:22,080
+BEŁKOTLIWIE:
+Rybki najlepiej biorą nocą, madame.
+
+62
+00:05:23,120 --> 00:05:25,200
+Miałem na myśli karpie...
+
+63
+00:05:26,600 --> 00:05:29,000
+Autobus jest porwany!
+
+64
+00:05:29,160 --> 00:05:32,240
+Jeden ruch
+i wszyscy wylatują w powietrze!
+
+65
+00:05:32,400 --> 00:05:35,280
+A ty nie zwalniaj,
+bo odbezpieczę granat.
+
+66
+00:05:35,440 --> 00:05:37,880
+Wszyscy zostają na miejscach!
+
+67
+00:05:38,040 --> 00:05:40,440
+Nie ruszać się!
+
+68
+00:05:40,600 --> 00:05:43,160
+E, pańcia! Żadnych takich! Dawaj!
+
+69
+00:05:49,840 --> 00:05:52,160
+- Dzień dobry.
+- Dzień dobry.
+
+70
+00:05:52,320 --> 00:05:55,480
+- Szefie, informacja...
+- Zaraz, zaraz.
+
+71
+00:05:55,640 --> 00:05:59,320
+Miałem ciężką noc.
+Dominik się czymś zatruł.
+
+72
+00:05:59,480 --> 00:06:01,680
+Zjadł coś nieświeżego?
+
+73
+00:06:01,840 --> 00:06:05,200
+Trzy litry lodów przed obiadem
+zrobiło swoje.
+
+74
+00:06:05,360 --> 00:06:07,400
+- Zrobisz mi kawy?
+- Jasne.
+
+75
+00:06:07,560 --> 00:06:12,360
+- To mi też zrób.
+- Natalia, nieodebrane. Zadzwonię.
+
+76
+00:06:12,520 --> 00:06:15,280
+- Chcę powiedzieć, że...
+- Poczekaj!
+
+77
+00:06:17,080 --> 00:06:18,880
+Nie odbiera. Mów!
+
+78
+00:06:19,040 --> 00:06:21,960
+Dwóch gości
+w nocy uciekło z więzienia.
+
+79
+00:06:22,120 --> 00:06:26,280
+- To w Krakowie się wydarzyło.
+- To po co mi to mówisz?
+
+80
+00:06:27,520 --> 00:06:33,720
+- Złożyłeś podanie o urlop, prawda?
+- Tak, cztery miesiące temu.
+
+81
+00:06:34,800 --> 00:06:39,640
+- Tu masz pozytywne rozpatrzenie.
+- Dziękuję bardzo.
+
+82
+00:06:41,600 --> 00:06:44,000
+W listopadzie?
+
+83
+00:06:44,160 --> 00:06:46,720
+Z żoną chcę nad Bałtyk jechać.
+
+84
+00:06:46,880 --> 00:06:50,920
+- Co tam będę robić w listopadzie?
+- Wdychać jod.
+
+85
+00:06:51,080 --> 00:06:55,600
+Po takich jesiennych sztormach
+tam jest go bardzo dużo.
+
+86
+00:06:55,760 --> 00:06:59,840
+Nic na to nie poradzę.
+Nie mam etatów. Ciesz się!
+
+87
+00:07:03,240 --> 00:07:07,040
+- Przystanek. Zatrzymać się muszę.
+- Nie zwalniaj!
+
+88
+00:07:12,120 --> 00:07:15,840
+Kontroler biletów stoi.
+Raport trafi do szefa.
+
+89
+00:07:16,000 --> 00:07:19,320
+- Będę miał przerąbane.
+- Już masz. Gazu!
+
+90
+00:07:28,120 --> 00:07:32,000
+I voila! Już nie będą zatrzymywać.
+
+91
+00:07:32,160 --> 00:07:34,640
+Za chwilę skręcasz w prawo.
+
+92
+00:07:36,080 --> 00:07:40,360
+Zabawimy się
+w opuszczonej jednostce wojskowej.
+
+93
+00:07:40,520 --> 00:07:42,760
+W lewo! Halo!
+
+94
+00:07:42,920 --> 00:07:45,880
+Panie porywaczu,
+gdzie nas wieziecie?
+
+95
+00:07:46,040 --> 00:07:48,680
+Zobaczysz! A póki co stul dziób.
+
+96
+00:08:04,480 --> 00:08:08,640
+Patrz. Przepisowo.
+Wszyscy jeżdżą przepisowo.
+
+97
+00:08:08,800 --> 00:08:11,400
+<font color="#8080FF">DZWONI TELEFON</font>
+Marek.
+
+98
+00:08:11,560 --> 00:08:14,120
+Telefon cały czas dzwoni. Tej pani.
+
+99
+00:08:15,240 --> 00:08:17,760
+"Inspektor". Kto to jest?
+
+100
+00:08:18,960 --> 00:08:22,680
+<font color="#FFFF51">Inspektor to inspektor.</font>
+Mów, kto dzwoni!
+
+101
+00:08:23,840 --> 00:08:27,560
+<font color="#FFFF51">Możejko.</font>
+Widzę. Czego to inspektor?
+
+102
+00:08:27,720 --> 00:08:30,040
+<font color="#FFFF51">BHP.</font>
+
+103
+00:08:30,200 --> 00:08:33,320
+A, BHP. Dobra, to sprawdźmy.
+
+104
+00:08:33,480 --> 00:08:39,320
+MOŻEJKO: Dzień dobry, pani Natalio.
+Przepraszam, że dopiero oddzwaniam.
+
+105
+00:08:39,480 --> 00:08:41,040
+Pan inspektor BHP?
+
+106
+00:08:42,960 --> 00:08:46,360
+- Kim pan jest?
+- Ja pytam, kim ty jesteś.
+
+107
+00:08:46,520 --> 00:08:49,160
+Inspektor Możejko, komenda policji.
+
+108
+00:08:50,400 --> 00:08:53,080
+Glina. W dodatku jakiś ważniak.
+
+109
+00:08:53,240 --> 00:08:58,320
+Git, przedstaw mu nasze żądania.
+Zadzwoń jeszcze raz.
+
+110
+00:09:00,920 --> 00:09:04,960
+Cześć, koleżko.
+Słuchaj, to jest porwanie.
+
+111
+00:09:05,120 --> 00:09:10,720
+Twoja kumpela została porwana
+wraz z innymi pasażerami.
+
+112
+00:09:10,880 --> 00:09:15,880
+Słuchaj,
+za ich życie chcemy pół miliona.
+
+113
+00:09:16,040 --> 00:09:19,520
+Pół miliona złotych
+w używanych banknotach.
+
+114
+00:09:19,680 --> 00:09:22,560
+Jeśli ich nie dostaniemy, to bum!
+
+115
+00:09:22,720 --> 00:09:26,760
+<font color="#8080FF">ŚMIEJE SIĘ</font>
+Wszyscy wylecą w powietrze.
+
+116
+00:09:26,920 --> 00:09:28,600
+Yo!
+
+117
+00:09:28,760 --> 00:09:31,360
+Jesteś crazy, ziom.
+<font color="#8080FF">ŚMIEJĄ SIĘ</font>
+
+118
+00:09:31,520 --> 00:09:36,520
+<font color="aqua">Pani Natalia została porwana?</font>
+Razem z innymi pasażerami.
+
+119
+00:09:36,680 --> 00:09:41,920
+<font color="aqua">Ksiądz wspominał, że ona wyjeżdża,</font>
+<font color="aqua">że ma chatę wolną. Plebanię.</font>
+
+120
+00:09:42,080 --> 00:09:46,800
+Może zgubiła telefon?
+Ktoś znalazł i zrobił głupi kawał?
+
+121
+00:09:46,960 --> 00:09:50,760
+- Ustal położenie jej telefonu.
+- Tak jest.
+
+122
+00:09:50,920 --> 00:09:53,240
+Dyspozytor PKS poinformował
+
+123
+00:09:53,400 --> 00:09:56,880
+o niezatrzymaniu się
+autobusu do Skarżyska.
+
+124
+00:09:57,040 --> 00:10:00,960
+Podejrzewają,
+że kierowca był nieco pod wpływem.
+
+125
+00:10:01,120 --> 00:10:02,920
+Proszą o zatrzymanie.
+
+126
+00:10:03,080 --> 00:10:06,160
+Boże! Połącz mnie z Wierzbickim.
+
+127
+00:10:06,320 --> 00:10:09,520
+<font color="aqua">Pani Natalia</font>
+<font color="aqua">wybierała się do Skarżyska.</font>
+
+128
+00:10:09,680 --> 00:10:11,640
+<font color="aqua">Może to ten sam kurs.</font>
+
+129
+00:10:11,800 --> 00:10:15,120
+Przepraszam.
+Numer rejestracyjny pojazdu.
+
+130
+00:10:15,280 --> 00:10:17,800
+<font color="aqua">Wierzbicki, szef do ciebie.</font>
+
+131
+00:10:18,920 --> 00:10:21,240
+Cześć. Jesteś na służbie?
+
+132
+00:10:22,640 --> 00:10:25,400
+Poszukujemy autobusu PKS.
+
+133
+00:10:25,560 --> 00:10:29,440
+Numer rejestracyjny:
+Tadeusz, Stefan, Adam...
+
+134
+00:10:29,600 --> 00:10:33,760
+<font color="aqua">Proszę księdza,</font>
+<font color="aqua">z szachów dzisiaj nic nie wyjdzie.</font>
+
+135
+00:10:33,920 --> 00:10:35,920
+<font color="aqua">Mamy sprawę...</font>
+Mietek!
+
+136
+00:10:36,080 --> 00:10:37,880
+Poczekaj chwilę.
+
+137
+00:10:38,040 --> 00:10:43,680
+Wierzbicki mówi, że taki autobus
+minął ich kilkanaście minut temu.
+
+138
+00:10:43,840 --> 00:10:45,920
+Miał napis "wycieczka".
+
+139
+00:10:46,080 --> 00:10:48,680
+<font color="aqua">Spokojnie, nic się nie stało.</font>
+
+140
+00:10:48,840 --> 00:10:51,560
+<font color="aqua">Wiemy, że został porwany autobus.</font>
+
+141
+00:10:51,720 --> 00:10:55,080
+<font color="aqua">Prawdopodobnie</font>
+<font color="aqua">pani Natalia jest w środku.</font>
+
+142
+00:10:55,240 --> 00:10:57,840
+<font color="#8080FF">SYGNAŁ RADIOWOZU</font>
+
+143
+00:11:02,360 --> 00:11:04,800
+Wyskakujemy z telefonów!
+
+144
+00:11:07,160 --> 00:11:09,400
+Telefony! Nie opieramy się.
+
+145
+00:11:09,560 --> 00:11:11,600
+Ten to mamy.
+
+146
+00:11:15,200 --> 00:11:20,080
+- No, no... Jeszcze ktoś? O, tak!
+- Dobrze, dobrze.
+
+147
+00:11:20,240 --> 00:11:22,480
+- Telefony dawajcie!
+- Nie mam.
+
+148
+00:11:22,640 --> 00:11:25,400
+Ja w domu na biurku zostawiłem.
+
+149
+00:11:25,560 --> 00:11:29,480
+XXI wiek mamy.
+Nikt nie chodzi bez komórki.
+
+150
+00:11:29,640 --> 00:11:32,200
+- Nie mają komórki!
+- Potrzymaj.
+
+151
+00:11:32,360 --> 00:11:34,520
+Ja ich przeszukam.
+
+152
+00:11:34,680 --> 00:11:36,480
+Podnoś się!
+
+153
+00:11:38,280 --> 00:11:41,680
+- O, co my tutaj mamy?
+- Zgadnij.
+
+154
+00:11:41,840 --> 00:11:43,640
+Skąd się to bierze?
+
+155
+00:11:43,800 --> 00:11:46,720
+- Co?
+- Przemoc.
+
+156
+00:11:47,520 --> 00:11:49,760
+<font color="#8080FF">WYSTRZAŁ, KRZYKI</font>
+
+157
+00:11:51,240 --> 00:11:53,280
+Spokój! Spokój!
+
+158
+00:11:53,440 --> 00:11:56,280
+<font color="#FFFF51">Jezu, zabili człowieka!</font>
+Spokój!
+
+159
+00:11:56,440 --> 00:11:58,440
+<font color="#8080FF">KRZYKI BÓLU MARKA</font>
+
+160
+00:11:58,600 --> 00:12:00,480
+MATKA: Nie bój się.
+
+161
+00:12:00,640 --> 00:12:03,160
+To ćwiczenie! Zabawka!
+
+162
+00:12:05,520 --> 00:12:07,640
+<font color="#8080FF">PŁACZ CHŁOPCA</font>
+Cii...
+
+163
+00:12:07,800 --> 00:12:10,360
+Siadaj! Odbijany.
+
+164
+00:12:10,520 --> 00:12:12,680
+<font color="#8080FF">ŚMIECH</font>
+
+165
+00:12:12,840 --> 00:12:17,800
+Nic się nie zmieniło.
+Jesteście porwani.
+
+166
+00:12:17,960 --> 00:12:20,200
+<font color="#8080FF">SYGNAŁ RADIOWOZU</font>
+
+167
+00:12:28,280 --> 00:12:31,480
+- 300-00 dla 1-8.
+RADIO: 1-8.
+
+168
+00:12:31,640 --> 00:12:34,560
+Zatrzymałem poszukiwany autobus.
+
+169
+00:12:34,720 --> 00:12:36,600
+Na drodze za Sadłowicami.
+
+170
+00:12:36,760 --> 00:12:39,920
+RADIO: Zachowaj ostrożność.
+- Tak jest.
+
+171
+00:12:40,080 --> 00:12:43,240
+SZAJBUS: Otwieraj! Otwieraj!
+
+172
+00:12:46,200 --> 00:12:48,920
+Nie zbliżać się, bo strzelę!
+
+173
+00:12:50,040 --> 00:12:52,160
+To dowód, że nie żartujemy.
+
+174
+00:12:52,320 --> 00:12:54,400
+Możecie go zabrać.
+
+175
+00:12:58,240 --> 00:13:01,880
+Autobus jest porwany.
+Czekacie na nasze żądania.
+
+176
+00:13:02,040 --> 00:13:04,200
+Zamykaj!
+
+177
+00:13:08,320 --> 00:13:12,440
+I zrobiła się afera.
+Wszystko przez tych frajerów.
+
+178
+00:13:12,600 --> 00:13:14,760
+Wyluzuj.
+
+179
+00:13:14,920 --> 00:13:17,880
+<font color="#16F158">Natalia miała złe przeczucia.</font>
+
+180
+00:13:18,040 --> 00:13:21,200
+Natalia zawsze ma jakieś przeczucia.
+
+181
+00:13:21,360 --> 00:13:23,760
+<font color="#16F158">Nie wszystko jest racjonalne.</font>
+
+182
+00:13:23,920 --> 00:13:28,320
+<font color="#16F158">Jako ksiądz powinienem to pamiętać.</font>
+<font color="#16F158">To jest moja wina.</font>
+
+183
+00:13:28,480 --> 00:13:30,360
+<font color="#8080FF">DZWONI TELEFON</font>
+
+184
+00:13:31,720 --> 00:13:34,040
+<font color="#16F158">Tak, panie Mietku?</font>
+
+185
+00:13:34,200 --> 00:13:35,800
+<font color="#16F158">Tak.</font>
+
+186
+00:13:35,960 --> 00:13:38,320
+<font color="#16F158">Jadę. Gdzie są kluczyki?</font>
+
+187
+00:13:38,480 --> 00:13:40,640
+<font color="#16F158">Już jadę, dobrze.</font>
+
+188
+00:13:40,800 --> 00:13:44,480
+- Co z nim?
+- Rana postrzałowa. Zabieramy go.
+
+189
+00:13:44,640 --> 00:13:49,520
+Ranny nazywa się Marek Kramarz.
+Wyrzucili go z autobusu.
+
+190
+00:13:49,680 --> 00:13:54,400
+Porywacz był uzbrojony.
+Mówił, że przekażą żądania.
+
+191
+00:13:54,560 --> 00:13:58,360
+Już powiedzieli,
+że chcą pół miliona w gotówce.
+
+192
+00:13:58,520 --> 00:14:01,840
+<font color="aqua">Może zmienili zdanie</font>
+<font color="aqua">albo pokłócili się?</font>
+
+193
+00:14:02,000 --> 00:14:05,880
+<font color="aqua">Kramarz? On był chyba skazany</font>
+<font color="aqua">za handel dopalaczami.</font>
+
+194
+00:14:06,040 --> 00:14:07,840
+<font color="aqua">Dostał półtora roku.</font>
+
+195
+00:14:08,000 --> 00:14:12,680
+Porywcze i w dodatku narkomani.
+Oni są nieprzewidywalni.
+
+196
+00:14:12,840 --> 00:14:16,280
+Zaczynają się wycinać nawzajem.
+
+197
+00:14:16,440 --> 00:14:20,440
+Powiedz Paruzelowi,
+żeby pojechał do szpitala,
+
+198
+00:14:20,600 --> 00:14:24,560
+zabrał odzież rannego
+i pocisk do analizy.
+
+199
+00:14:24,720 --> 00:14:26,520
+Tak jest.
+
+200
+00:14:26,680 --> 00:14:30,400
+- Zamknąłem drogę.
+- Tylko przepuść księdza.
+
+201
+00:14:30,560 --> 00:14:32,520
+Jasne. W razie czego jestem.
+
+202
+00:14:34,320 --> 00:14:36,120
+Spokojnie.
+
+203
+00:14:38,080 --> 00:14:40,320
+CICHO: Puśćmy tę kobiecinę.
+
+204
+00:14:41,920 --> 00:14:44,400
+Nie musimy trzymać wszystkich.
+
+205
+00:14:44,560 --> 00:14:47,120
+Tę?
+
+206
+00:14:47,280 --> 00:14:49,680
+Nie!
+
+207
+00:14:49,840 --> 00:14:53,920
+Ona ma inspektora w rodzinie
+czy kogoś takiego.
+
+208
+00:14:54,080 --> 00:14:57,640
+Trzymając ją tutaj,
+mamy psiarnię w garści.
+
+209
+00:14:57,800 --> 00:15:01,120
+Nie trzeba nawet dzwonić na 997.
+
+210
+00:15:01,280 --> 00:15:03,880
+<font color="#8080FF">ŚMIECH</font>
+Z żądaniami.
+
+211
+00:15:07,080 --> 00:15:08,880
+Daj mi jej telefon.
+
+212
+00:15:15,480 --> 00:15:17,280
+To pani?
+
+213
+00:15:23,600 --> 00:15:25,400
+Hops.
+
+214
+00:15:25,560 --> 00:15:27,920
+<font color="#8080FF">DZWONI TELEFON</font>
+
+215
+00:15:31,400 --> 00:15:34,200
+- Tak?
+- Słuchaj, piesku...
+
+216
+00:15:34,360 --> 00:15:38,000
+Wydzwoń mi kompetentnego
+przedstawiciela władzy.
+
+217
+00:15:38,160 --> 00:15:41,040
+Nie rozmawiamy
+z miejscowymi kundlami.
+
+218
+00:15:41,200 --> 00:15:44,640
+A jak chcesz zobaczyć swoją...
+
+219
+00:15:46,240 --> 00:15:53,040
+koleżankę i innych przy życiu,
+to radzę traktować nas poważnie.
+
+220
+00:15:54,200 --> 00:15:56,200
+Halo?
+
+221
+00:15:56,360 --> 00:15:58,160
+Rozłączył się.
+
+222
+00:15:58,320 --> 00:16:02,320
+Szajbus,
+mieliśmy tylko uciec z pudła.
+
+223
+00:16:02,480 --> 00:16:05,320
+A pakujemy się w megakłopoty.
+
+224
+00:16:05,480 --> 00:16:09,800
+- Co chcesz tym osiągnąć?
+- Chcę stąd prysnąć.
+
+225
+00:16:09,960 --> 00:16:12,200
+Ufaj, Cyryl, ufaj!
+
+226
+00:16:14,080 --> 00:16:18,240
+Zorganizujemy tutaj
+ruchome centrum dowodzenia.
+
+227
+00:16:18,400 --> 00:16:22,760
+Potrzebuję mapy.
+nasłuchu na telefony, komputera.
+
+228
+00:16:22,920 --> 00:16:26,000
+Zaraz będziemy mieli
+cały kraj na głowie.
+
+229
+00:16:26,160 --> 00:16:29,520
+Weź lornetkę i policz,
+ilu jest pasażerów.
+
+230
+00:16:29,680 --> 00:16:31,480
+Robi się, szefie.
+
+231
+00:16:31,640 --> 00:16:35,840
+<font color="#16F158">Co z Natalią?</font>
+Jest w środku, razem z innymi.
+
+232
+00:16:36,000 --> 00:16:37,880
+Mamy jednego rannego.
+
+233
+00:16:38,040 --> 00:16:41,120
+<font color="#16F158">Kto to taki?</font>
+<font color="aqua">Nazywa się Marek Kramarz.</font>
+
+234
+00:16:41,280 --> 00:16:43,840
+<font color="aqua">Notowany za handel dopalaczami.</font>
+
+235
+00:16:44,000 --> 00:16:46,560
+<font color="#16F158">Uczyłem go religii.</font>
+
+236
+00:16:46,720 --> 00:16:51,040
+<font color="#16F158">Jego ojciec jest wojskowym,</font>
+<font color="#16F158">więc przynosił na zajęcia race.</font>
+
+237
+00:16:51,200 --> 00:16:55,080
+Mogą mieć cały arsenał.
+Nie wiemy, co tam się dzieje.
+
+238
+00:16:55,240 --> 00:16:59,200
+Zdążyli się pokłócić,
+o ile Kramarz był jednym z nich.
+
+239
+00:16:59,360 --> 00:17:02,840
+<font color="#16F158">Czego żądają?</font>
+<font color="aqua">Na początku żądali pieniędzy.</font>
+
+240
+00:17:03,000 --> 00:17:07,560
+<font color="aqua">Teraz nie chcą z nami rozmawiać.</font>
+<font color="aqua">Czekamy na negocjatora.</font>
+
+241
+00:17:07,720 --> 00:17:10,280
+<font color="#16F158">To może ja mógłbym spróbować?</font>
+
+242
+00:17:12,240 --> 00:17:14,040
+<font color="#8080FF">DZWONI TELEFON</font>
+
+243
+00:17:17,240 --> 00:17:19,200
+Jakiś Mateusz dzwoni.
+
+244
+00:17:19,360 --> 00:17:21,040
+Zrzucam.
+
+245
+00:17:21,200 --> 00:17:24,400
+<font color="#FFFF51">On tam stoi. Niech pan nie zrzuca.</font>
+
+246
+00:17:28,280 --> 00:17:30,440
+Mam słuchać kazania?
+
+247
+00:17:30,600 --> 00:17:33,320
+<font color="#FFFF51">Niech pan mu powie,</font>
+<font color="#FFFF51">że jeszcze żyję.</font>
+
+248
+00:17:33,480 --> 00:17:34,960
+Dobra.
+
+249
+00:17:38,160 --> 00:17:39,960
+Szczęść Boże.
+
+250
+00:17:40,120 --> 00:17:42,680
+<font color="#16F158">Nazywam się Mateusz Żmigrodzki.</font>
+
+251
+00:17:42,840 --> 00:17:46,040
+<font color="#16F158">Jestem proboszczem</font>
+<font color="#16F158">sandomierskiej parafii.</font>
+
+252
+00:17:46,200 --> 00:17:50,920
+<font color="#16F158">Zostałem upoważniony przez policję</font>
+<font color="#16F158">do rozmowy z wami.</font>
+
+253
+00:17:51,080 --> 00:17:55,720
+<font color="#16F158">Jakie są wasze żądania?</font>
+Chcemy rozmawiać z wojewodą.
+
+254
+00:17:55,880 --> 00:17:58,560
+<font color="#16F158">Wszystko przekażę</font>
+<font color="#16F158">wyższej instancji.</font>
+
+255
+00:17:58,720 --> 00:18:02,120
+Dobra. Chcemy samolot.
+
+256
+00:18:02,280 --> 00:18:06,680
+Zdolny dolecieć bez międzylądowania
+na Dominikanę.
+
+257
+00:18:06,840 --> 00:18:12,000
+Macie trzy godziny. Podstawcie go
+na lotnisko w Rzeszowie.
+
+258
+00:18:12,160 --> 00:18:17,520
+Jeśli nie spełnicie naszego żądania,
+co dwie godziny będziemy wysyłać
+
+259
+00:18:17,680 --> 00:18:21,000
+któregoś z tych przemiłych ludzi
+do nieba.
+
+260
+00:18:23,000 --> 00:18:26,240
+<font color="#16F158">Kim jesteście?</font>
+<font color="#16F158">Możecie się przedstawić?</font>
+
+261
+00:18:27,400 --> 00:18:29,680
+<font color="#16F158">Halo? Halo?</font>
+
+262
+00:18:29,840 --> 00:18:33,960
+Ene, due, like, fake...
+
+263
+00:18:34,120 --> 00:18:38,040
+Torba, borba, deu, smake.
+
+264
+00:18:38,200 --> 00:18:41,080
+Deus, deus, kosmateus.
+
+265
+00:18:41,240 --> 00:18:43,680
+I morele...
+
+266
+00:18:43,840 --> 00:18:46,120
+Baks! Ty będziesz pierwszy.
+
+267
+00:18:46,280 --> 00:18:48,840
+Ja nie chcę umierać. Proszę.
+
+268
+00:18:49,000 --> 00:18:53,720
+Jeśli władze spełnią nasze żądania,
+wszystkich puścimy.
+
+269
+00:18:53,880 --> 00:18:56,840
+<font color="#FFFF51">A jeśli nie spełnią?</font>
+Wierzę, że spełnią.
+
+270
+00:18:57,000 --> 00:18:59,640
+<font color="#FFFF51">Dobrze, że jesteś wierzący.</font>
+
+271
+00:18:59,800 --> 00:19:03,760
+Tak naprawdę chodzi tylko
+o wycieczkę na Dominikanę.
+
+272
+00:19:03,920 --> 00:19:08,080
+- Możemy po drodze zgarnąć szwagra?
+- Nie!
+
+273
+00:19:08,240 --> 00:19:10,520
+Nie no, oni poszaleli...
+
+274
+00:19:10,680 --> 00:19:14,920
+<font color="aqua">Może są pod wpływem dopalaczy</font>
+<font color="aqua">albo innego świństwa.</font>
+
+275
+00:19:15,080 --> 00:19:18,240
+<font color="#16F158">Głos brzmiał stanowczo i rozsądnie.</font>
+
+276
+00:19:18,400 --> 00:19:22,400
+Ich żądania są nierealne.
+Nawet nie wiem, kim oni są.
+
+277
+00:19:22,560 --> 00:19:26,760
+<font color="#16F158">Według mnie</font>
+<font color="#16F158">kluczowa jest nagła zmiana żądań.</font>
+
+278
+00:19:26,920 --> 00:19:32,240
+<font color="#16F158">To oznacza, że akcja nie była</font>
+<font color="#16F158">przygotowana i przemyślana.</font>
+
+279
+00:19:32,400 --> 00:19:37,040
+<font color="aqua">Po co chcą lecieć na Dominikanę?</font>
+<font color="#16F158">Nie ma tam ekstradycji.</font>
+
+280
+00:19:37,200 --> 00:19:40,520
+Jest dziesięciu pasażerów,
+w tym dziecko.
+
+281
+00:19:40,680 --> 00:19:43,760
+<font color="#8080FF">DZWONI TELEFON</font>
+Tak, słucham.
+
+282
+00:19:45,680 --> 00:19:49,280
+Jasne, zrozumiałem.
+Zrozumiałem. Dziękuję.
+
+283
+00:19:49,440 --> 00:19:51,240
+Morus jest w drodze.
+
+284
+00:19:51,400 --> 00:19:55,280
+Ściągniemy antyterrorystów.
+<font color="aqua">Tak jest!</font>
+
+285
+00:19:56,480 --> 00:20:00,400
+- Kiedy polecimy na Dominikanę?
+- Uspokój się.
+
+286
+00:20:00,560 --> 00:20:04,120
+- Przepraszam za syna.
+- Zobaczysz palmy.
+
+287
+00:20:04,280 --> 00:20:06,600
+- Jestem głodny.
+- Stasiu!
+
+288
+00:20:06,760 --> 00:20:08,920
+Ja też od rana nie jadłem.
+
+289
+00:20:09,080 --> 00:20:13,280
+Długo nas będziecie trzymać?
+Potem nas rozwalicie.
+
+290
+00:20:15,720 --> 00:20:19,640
+Ej, ty! Co tam kombinujesz?
+Wychylaj się!
+
+291
+00:20:27,760 --> 00:20:33,120
+<font color="#FFFF51">Ja... Ja mam pasztet,</font>
+<font color="#FFFF51">ciasto i kompot.</font>
+
+292
+00:20:33,280 --> 00:20:36,160
+<font color="#FFFF51">Mogę się podzielić.</font>
+Głodni są.
+
+293
+00:20:36,320 --> 00:20:40,480
+Co ty, z innej gliny jesteś?
+Sam bym coś wszamał.
+
+294
+00:20:40,640 --> 00:20:42,520
+Mogę?
+<font color="#FFFF51">Proszę bardzo.</font>
+
+295
+00:20:42,680 --> 00:20:45,720
+<font color="#FFFF51">Proszę sobie oderwać.</font>
+
+296
+00:20:45,880 --> 00:20:49,720
+<font color="#FFFF51">Proszę.</font>
+<font color="#8080FF">POMRUKI ZACHWYTU</font>
+
+297
+00:20:49,880 --> 00:20:51,680
+<font color="#FFFF51">Chodź, kochany.</font>
+
+298
+00:20:51,840 --> 00:20:54,320
+PORYWACZ: Mogę jeszcze?
+<font color="#FFFF51">Proszę.</font>
+
+299
+00:20:54,480 --> 00:20:57,080
+<font color="#FFFF51">Taki fest kawałek sobie urwij.</font>
+
+300
+00:21:03,760 --> 00:21:07,120
+- Jaka sytuacja?
+- To nieznani porywacze.
+
+301
+00:21:07,280 --> 00:21:11,480
+Przejęli kontrolę
+nad autobusem międzymiastowym.
+
+302
+00:21:11,640 --> 00:21:15,560
+Tyle czasu minęło i nadal nieznani?
+
+303
+00:21:15,720 --> 00:21:19,920
+- Ile osób w środku?
+- Dziesięć plus jedno dziecko.
+
+304
+00:21:20,080 --> 00:21:24,320
+- Czego chcą porywacze?
+- Samolotu na Dominikanę.
+
+305
+00:21:24,480 --> 00:21:28,520
+Nie zgodzę się
+nawet na eskortę do Rzeszowa.
+
+306
+00:21:28,680 --> 00:21:33,000
+Są gotowi na wszystko.
+Już zranili jednego pasażera.
+
+307
+00:21:33,160 --> 00:21:35,760
+Jeśli nie spełnimy ich żądań,
+
+308
+00:21:35,920 --> 00:21:39,240
+co dwie godziny
+będą zabijali zakładnika.
+
+309
+00:21:39,400 --> 00:21:45,800
+- Czy ktoś rozmawiał z porywaczami?
+- Tak, ksiądz Mateusz Żmigrodzki.
+
+310
+00:21:45,960 --> 00:21:49,920
+Czekamy na negocjatora.
+Zgodnie z procedurą.
+
+311
+00:21:51,160 --> 00:21:54,800
+Przywiozłem kulę wyciągniętą
+z uda postrzelonego.
+
+312
+00:21:54,960 --> 00:21:58,200
+- Kaliber 9 milimetrów.
+- Dużo to nie wnosi.
+
+313
+00:21:58,360 --> 00:22:00,920
+- Co przyszło?
+- Faks z Krakowa.
+
+314
+00:22:01,080 --> 00:22:05,280
+Psy tropiące podjęły ślady
+za zbiegłymi z więzienia.
+
+315
+00:22:05,440 --> 00:22:08,080
+Zostawili drelichy
+w sklepie z odzieżą,
+
+316
+00:22:08,240 --> 00:22:10,440
+do którego włamali się w nocy.
+
+317
+00:22:10,600 --> 00:22:14,480
+Ślady urywają się
+na stacji kolejowej Kraków-Płaszów.
+
+318
+00:22:14,640 --> 00:22:17,120
+- Płaszów?
+- Tak jest napisane.
+
+319
+00:22:17,280 --> 00:22:22,320
+Zajmują się włamaniami do sklepów,
+a nie wiedzą, co my tu mamy.
+
+320
+00:22:23,600 --> 00:22:27,320
+Dziennikarze są.
+Ciekawe, skąd się zwiedzieli.
+
+321
+00:22:27,480 --> 00:22:31,560
+Może dyspozytor ich powiadomił,
+kanar, ratownik...
+
+322
+00:22:31,720 --> 00:22:35,280
+Dłużej nie możemy
+trzymać tego w tajemnicy.
+
+323
+00:22:35,440 --> 00:22:38,760
+Co wiadomo o porywaczach?
+Jaki jest plan?
+
+324
+00:22:38,920 --> 00:22:43,320
+- Proszę nam nie przeszkadzać.
+- Idziemy za taśmę.
+
+325
+00:22:43,480 --> 00:22:48,320
+O wszystkim będziecie powiadomieni
+na konferencji prasowej.
+
+326
+00:22:48,480 --> 00:22:51,680
+Zapewniam, że kontrolujemy sytuację.
+
+327
+00:22:51,840 --> 00:22:55,560
+Czekamy na przyjazd
+wybitnego specjalisty
+
+328
+00:22:55,720 --> 00:22:57,680
+w dziedzinie negocjacji.
+
+329
+00:22:57,840 --> 00:23:00,760
+- Co jest?!
+- Spoko, spoko, spoko.
+
+330
+00:23:00,920 --> 00:23:02,720
+Chcę pogadać.
+
+331
+00:23:03,800 --> 00:23:05,720
+Tylko pogadać.
+
+332
+00:23:09,520 --> 00:23:11,400
+Dobrze kombinujecie.
+
+333
+00:23:12,480 --> 00:23:15,960
+Mogę wam pomóc
+przypilnować tych frajerów.
+
+334
+00:23:17,040 --> 00:23:19,480
+Pukawkę też umiem obsługiwać.
+
+335
+00:23:24,840 --> 00:23:28,920
+Hiszpański znam.
+Pomogę wam dogadać się z lokalsami.
+
+336
+00:23:29,080 --> 00:23:33,760
+Może chcecie coś? Na odwagę?
+
+337
+00:23:33,920 --> 00:23:36,200
+To od tego tak dużo gadasz?
+
+338
+00:23:38,200 --> 00:23:39,880
+Szykuj się do wyjścia.
+
+339
+00:23:42,120 --> 00:23:43,760
+No co wy?
+
+340
+00:23:43,920 --> 00:23:46,480
+No!
+<font color="#8080FF">ŚMIEJE SIĘ</font>
+
+341
+00:23:46,640 --> 00:23:48,640
+Otwórz środkowe drzwi!
+
+342
+00:23:48,800 --> 00:23:51,080
+<font color="#8080FF">ODGŁOS OTWIERANYCH DRZWI</font>
+
+343
+00:23:52,520 --> 00:23:55,280
+<font color="#8080FF">WYSTRZAŁ, KRZYKI</font>
+
+344
+00:23:55,440 --> 00:23:58,800
+SZAJBUS: Zamknij!
+<font color="#8080FF">ODGŁOS ZAMYKANYCH DRZWI</font>
+
+345
+00:24:00,160 --> 00:24:03,520
+Pogięło cię?
+Ty naprawdę jesteś szajbus.
+
+346
+00:24:03,680 --> 00:24:06,680
+No!
+<font color="#8080FF">ŚMIECH</font>
+
+347
+00:24:12,080 --> 00:24:14,400
+Ja naprawdę nie żartuję.
+
+348
+00:24:14,560 --> 00:24:18,720
+Macie jeszcze dwie godziny,
+żeby zrobić jakiś ruch.
+
+349
+00:24:25,280 --> 00:24:29,760
+Podobno chce pan sprowadzić
+antyterrorystów z Warszawy.
+
+350
+00:24:29,920 --> 00:24:34,320
+W tej sytuacji to jest konieczne.
+Bandyci nie żartują.
+
+351
+00:24:34,480 --> 00:24:36,480
+Nie mamy własnych ludzi?
+
+352
+00:24:36,640 --> 00:24:39,960
+Ja stworzyłem
+grupę szybkiego reagowania.
+
+353
+00:24:40,120 --> 00:24:43,520
+To szansa,
+żeby sprawdzić ich skuteczność.
+
+354
+00:24:43,680 --> 00:24:48,000
+Rozumiem, ale w tej akcji
+mogą ucierpieć pasażerowie.
+
+355
+00:24:48,160 --> 00:24:52,080
+Antyterroryści nie przyjadą.
+Odwołałem pański rozkaz.
+
+356
+00:24:52,240 --> 00:24:54,040
+Załatwimy to sami.
+
+357
+00:24:56,040 --> 00:24:58,440
+Mam nadzieję, że się rozumiemy.
+
+358
+00:25:01,640 --> 00:25:04,720
+<font color="#16F158">Panie Oreście...</font>
+Tak?
+
+359
+00:25:04,880 --> 00:25:07,200
+<font color="#16F158">Został postrzelony w kolano.</font>
+
+360
+00:25:07,360 --> 00:25:11,160
+<font color="#16F158">Porywaczom nie zależy na tym,</font>
+<font color="#16F158">żeby kogoś zabić.</font>
+
+361
+00:25:11,320 --> 00:25:14,560
+<font color="#16F158">Oni chcą przyśpieszyć</font>
+<font color="#16F158">działania policji.</font>
+
+362
+00:25:14,720 --> 00:25:16,640
+A jak im się to nie uda?
+
+363
+00:25:16,800 --> 00:25:19,400
+Nie będą mieli nic do stracenia.
+
+364
+00:25:22,040 --> 00:25:26,080
+<font color="#FFFF51">Jezus Maria,</font>
+<font color="#FFFF51">co wy, nas powyrzynacie tutaj?</font>
+
+365
+00:25:26,240 --> 00:25:28,720
+Spokój! Chcemy tylko stąd uciec.
+
+366
+00:25:28,880 --> 00:25:33,400
+<font color="#FFFF51">Jak mam się uspokoić?</font>
+<font color="#FFFF51">To jakiś film amerykański, bandyci?</font>
+
+367
+00:25:35,120 --> 00:25:39,560
+"Bandyci"?
+Tak mów do swojej znajomej psiarni.
+
+368
+00:25:39,720 --> 00:25:44,520
+Ty będziesz następna,
+jak nie odstawią nas na lotnisko.
+
+369
+00:25:44,680 --> 00:25:46,480
+Szajbus, wyluzuj.
+
+370
+00:25:47,920 --> 00:25:49,720
+Dobra.
+
+371
+00:25:52,240 --> 00:25:54,440
+<font color="#8080FF">SYGNAŁ RADIOWOZU</font>
+
+372
+00:25:54,600 --> 00:25:57,800
+Zbadałem kurtkę Marka Kramarza.
+
+373
+00:25:57,960 --> 00:26:02,360
+Są na niej zabrudzenia naniesione
+w wyniku szamotaniny.
+
+374
+00:26:02,520 --> 00:26:04,400
+Typowy brud kolejowy.
+
+375
+00:26:04,560 --> 00:26:08,000
+Rdza, drobiny smaru, towotu.
+
+376
+00:26:08,160 --> 00:26:10,560
+"Brud kolejowy" mówisz?
+
+377
+00:26:10,720 --> 00:26:15,680
+Ci dwaj uciekli wczoraj
+z więzienia w Krakowie.
+
+378
+00:26:15,840 --> 00:26:19,920
+Ślad urywa się
+na stacji towarowej Kraków-Płaszów.
+
+379
+00:26:20,080 --> 00:26:23,480
+Ustaliłem, że o godzinie 2.18
+
+380
+00:26:23,640 --> 00:26:26,800
+pociąg z cysternami
+opuszcza to miejsce
+
+381
+00:26:26,960 --> 00:26:30,960
+i około godziny 9.00
+dojeżdża do Sandomierza.
+
+382
+00:26:31,120 --> 00:26:35,080
+Zabrali strażnikom więziennym
+dwa pistolety Walther.
+
+383
+00:26:35,240 --> 00:26:37,040
+Kaliber się zgadza.
+
+384
+00:26:37,200 --> 00:26:41,680
+- Myślisz, że to ci z autobusu?
+- Pewności nie ma, ale...
+
+385
+00:26:41,840 --> 00:26:45,040
+<font color="#8080FF">DZWONI TELEFON</font>
+Antoni Dziubak, słucham.
+
+386
+00:26:45,200 --> 00:26:47,000
+Tak.
+
+387
+00:26:47,160 --> 00:26:49,040
+Dziękuję, już jedziemy.
+
+388
+00:26:51,040 --> 00:26:53,440
+Kramarz już jest po operacji.
+
+389
+00:26:53,600 --> 00:26:55,640
+- Panie doktorze.
+- Tak?
+
+390
+00:26:55,800 --> 00:26:57,600
+Jak nasz ranny?
+
+391
+00:26:57,760 --> 00:27:00,360
+Mogą panowie wejść na krótko.
+
+392
+00:27:00,520 --> 00:27:04,680
+Stracił dużo krwi i jest pod wpływem
+środka odurzającego.
+
+393
+00:27:04,840 --> 00:27:07,320
+Podobnie jak ten drugi.
+
+394
+00:27:07,480 --> 00:27:10,360
+- Jakie to środki?
+- Nie mamy pojęcia.
+
+395
+00:27:10,520 --> 00:27:14,160
+W takich wypadkach
+zabiegi robimy bez znieczulenia.
+
+396
+00:27:14,320 --> 00:27:16,640
+Ale mnie pokroili na żywca.
+
+397
+00:27:17,800 --> 00:27:21,360
+<font color="#8080FF">STĘKA Z BÓLU</font>
+To jakieś średniowiecze.
+
+398
+00:27:21,520 --> 00:27:25,600
+- Wiesz, dlaczego tu jesteś?
+- Szczerze? Nie bardzo.
+
+399
+00:27:25,760 --> 00:27:29,480
+Film mi się urwał.
+Strzał tylko pamiętam.
+
+400
+00:27:29,640 --> 00:27:33,040
+Poznałbyś gości,
+którzy do ciebie strzelali?
+
+401
+00:27:34,480 --> 00:27:37,440
+To oni przecież. Tylko czapki mieli.
+
+402
+00:27:38,600 --> 00:27:41,880
+Ja sobie teraz wszystko przypominam.
+
+403
+00:27:42,040 --> 00:27:44,760
+Dla beki chcieliśmy porwać autobus.
+
+404
+00:27:44,920 --> 00:27:46,800
+I wtedy chyba...
+
+405
+00:27:46,960 --> 00:27:49,200
+ten zaczął strzelać.
+
+406
+00:27:51,480 --> 00:27:54,800
+Wszystko jasne.
+To oni przejęli porwanie.
+
+407
+00:27:54,960 --> 00:27:56,760
+Jedź do szefa.
+
+408
+00:27:56,920 --> 00:27:59,440
+Dziękujemy.
+
+409
+00:28:00,800 --> 00:28:02,600
+Mów.
+
+410
+00:28:02,760 --> 00:28:05,520
+To Szajbus, czyli Andrzej Kozłowski.
+
+411
+00:28:05,680 --> 00:28:09,840
+Członkowie jego grupy przestępczej
+są na Dominikanie.
+
+412
+00:28:10,000 --> 00:28:14,400
+<font color="aqua">To się zgadza. Liczy tam na metę.</font>
+Niebezpieczny typ.
+
+413
+00:28:14,560 --> 00:28:18,080
+Na koncie ma
+dwa udowodnione morderstwa.
+
+414
+00:28:18,240 --> 00:28:22,600
+W środowisku przestępczym
+uchodzi za płatnego zabójcę.
+
+415
+00:28:22,760 --> 00:28:24,560
+A ten drugi?
+
+416
+00:28:24,720 --> 00:28:28,720
+Cyryl Siwiuk.
+Złodziej i diler narkotykowy.
+
+417
+00:28:28,880 --> 00:28:33,120
+Działa w środowisku show-biznesu.
+Skazany na dwa lata.
+
+418
+00:28:33,280 --> 00:28:37,560
+Dostał niski wyrok,
+bo współpracował w śledztwie.
+
+419
+00:28:37,720 --> 00:28:39,880
+Szajbus ma dożywocie.
+
+420
+00:28:40,040 --> 00:28:42,680
+<font color="#16F158">Szajbus wykorzystał sytuację.</font>
+
+421
+00:28:42,840 --> 00:28:45,920
+<font color="#16F158">W autobusie</font>
+<font color="#16F158">znalazł się przez przypadek.</font>
+
+422
+00:28:46,080 --> 00:28:51,080
+<font color="#16F158">Sam nie ma nic do stracenia,</font>
+<font color="#16F158">więc zdecydował się na taki ruch.</font>
+
+423
+00:28:51,240 --> 00:28:53,440
+Z kolei Cyryl dużo ryzykuje.
+
+424
+00:28:53,600 --> 00:28:57,080
+Gdyby nie to porwanie,
+za dwa lata byłby wolny.
+
+425
+00:28:57,240 --> 00:29:01,600
+<font color="#16F158">Oni obaj są</font>
+<font color="#16F158">w zupełnie innej sytuacji.</font>
+
+426
+00:29:01,760 --> 00:29:04,920
+<font color="#16F158">Można spróbować</font>
+<font color="#16F158">wbić klin pomiędzy nich.</font>
+
+427
+00:29:05,080 --> 00:29:08,880
+<font color="aqua">To mogłoby się udać,</font>
+<font color="aqua">gdybyśmy mieli z nimi łączność.</font>
+
+428
+00:29:09,040 --> 00:29:11,920
+Możemy wstępnie spełnić ich warunki.
+
+429
+00:29:12,080 --> 00:29:18,040
+Wtedy moglibyśmy postawić nasze
+i tak uwolnić kobiety i dziecko.
+
+430
+00:29:18,200 --> 00:29:22,080
+Ksiądz porozmawiałby z nimi o tym?
+<font color="#16F158">Oczywiście.</font>
+
+431
+00:29:25,120 --> 00:29:28,160
+<font color="#8080FF">KASZEL KIEROWCY</font>
+
+432
+00:29:28,320 --> 00:29:31,040
+Jesteś pewien, w co się pakujemy?
+
+433
+00:29:31,200 --> 00:29:34,280
+W Santo Domingo mam dwóch kumpli.
+
+434
+00:29:38,840 --> 00:29:41,560
+Całkiem nieźle się tam urządzili.
+
+435
+00:29:41,720 --> 00:29:43,680
+<font color="#8080FF">GŁOŚNY KASZEL KIEROWCY</font>
+
+436
+00:29:43,840 --> 00:29:46,800
+Psy nie zareagowały
+na nasze żądania.
+
+437
+00:29:46,960 --> 00:29:49,000
+Chcą zyskać na czasie.
+
+438
+00:29:51,200 --> 00:29:53,880
+Co będzie, jak nam ten tu wykituje?
+
+439
+00:29:54,040 --> 00:29:55,840
+No, kaszle.
+
+440
+00:29:56,000 --> 00:29:57,920
+<font color="#8080FF">GŁOŚNY KASZEL</font>
+
+441
+00:29:58,080 --> 00:30:00,200
+No, kaszle!
+
+442
+00:30:02,800 --> 00:30:07,160
+No, kaszle. Kaszle i kaszle!
+
+443
+00:30:07,320 --> 00:30:10,480
+- Kaszle i kaszle.
+- To go puśćmy.
+
+444
+00:30:12,600 --> 00:30:15,320
+Niech kaszle.
+<font color="#8080FF">ŚMIECH SZAJBUSA</font>
+
+445
+00:30:16,840 --> 00:30:18,480
+<font color="aqua">Szefie.</font>
+
+446
+00:30:18,640 --> 00:30:21,560
+<font color="aqua">W nocy zapowiadają gęste mgły.</font>
+
+447
+00:30:21,720 --> 00:30:26,440
+Czyli samolot nie wyleci z Jasionki?
+<font color="aqua">Nie.</font>
+
+448
+00:30:26,600 --> 00:30:30,680
+To dobrze się składa.
+<font color="#16F158">Wykorzystam to w rozmowie z nimi.</font>
+
+449
+00:30:30,840 --> 00:30:34,320
+<font color="#16F158">Nakłonię ich do wypuszczenia</font>
+<font color="#16F158">kilku zakładników.</font>
+
+450
+00:30:34,480 --> 00:30:37,680
+Ksiądz znowu chce
+rozmawiać z porywaczami?
+
+451
+00:30:37,840 --> 00:30:40,400
+MOŻEJKO: To moja inicjatywa.
+
+452
+00:30:40,560 --> 00:30:43,960
+Każdy z porywaczy ma inną sytuację.
+
+453
+00:30:44,120 --> 00:30:45,840
+Konflikt ich osłabi.
+
+454
+00:30:46,000 --> 00:30:48,440
+Konflikt rośnie między nami.
+
+455
+00:30:48,600 --> 00:30:53,080
+Czekamy na negocjatora.
+Będzie tu za kilka chwil.
+
+456
+00:30:53,240 --> 00:30:57,400
+To może być za długo,
+a ksiądz jest doświadczony.
+
+457
+00:30:57,560 --> 00:31:00,000
+Myślę, że może nam pomóc.
+
+458
+00:31:00,160 --> 00:31:02,240
+Nam obojgu również.
+
+459
+00:31:05,480 --> 00:31:07,360
+No dobrze.
+
+460
+00:31:07,520 --> 00:31:09,320
+Niech ksiądz spróbuje.
+
+461
+00:31:10,520 --> 00:31:12,960
+<font color="#8080FF">DZWONI TELEFON</font>
+
+462
+00:31:13,120 --> 00:31:15,080
+Nie podsłuchiwać!
+
+463
+00:31:16,480 --> 00:31:19,680
+Co jest?
+<font color="#16F158">Prowadzimy rozmowy z władzami.</font>
+
+464
+00:31:19,840 --> 00:31:22,640
+<font color="#16F158">Ale takich rzeczy</font>
+<font color="#16F158">nie załatwia się od ręki.</font>
+
+465
+00:31:22,800 --> 00:31:27,440
+No to ja od ręki za godzinę
+odstrzelę jednego zakładnika.
+
+466
+00:31:27,600 --> 00:31:30,080
+<font color="#16F158">Musimy mieć więcej czasu!</font>
+
+467
+00:31:30,240 --> 00:31:34,200
+<font color="#16F158">W nocy będą mgły.</font>
+<font color="#16F158">Samolot będzie gotowy na rano.</font>
+
+468
+00:31:34,360 --> 00:31:36,840
+<font color="#16F158">Ale my też mamy pewne warunki.</font>
+
+469
+00:31:38,160 --> 00:31:41,240
+<font color="#16F158">Zwolnijcie kobiety i dziecko.</font>
+
+470
+00:31:45,000 --> 00:31:49,320
+Zgoda na jedną osobę.
+Chcę kogoś w zamian.
+
+471
+00:31:50,720 --> 00:31:53,120
+Musi mi się zgadzać w papierach.
+
+472
+00:31:53,280 --> 00:31:55,080
+Chcę ciebie.
+
+473
+00:31:59,320 --> 00:32:03,040
+Za godzinę chcę tu widzieć
+eskortę na lotnisko.
+
+474
+00:32:03,200 --> 00:32:08,120
+Mają dwa pistolety.
+To może być bardzo niebezpieczne.
+
+475
+00:32:08,280 --> 00:32:10,080
+Zgadzam się z inspektorem.
+
+476
+00:32:10,240 --> 00:32:15,040
+Jeżeli negocjatorowi się nie uda,
+za godzinę będzie po wszystkim.
+
+477
+00:32:15,200 --> 00:32:17,160
+Moi ludzie są już blisko.
+
+478
+00:32:18,800 --> 00:32:22,440
+<font color="#16F158">Gdybym miał sprzęt</font>
+<font color="#16F158">i łączność ze sztabem,</font>
+
+479
+00:32:22,600 --> 00:32:27,160
+<font color="#16F158">mógłbym ostrzec pasażerów</font>
+<font color="#16F158">w odpowiedniej chwili o ataku.</font>
+
+480
+00:32:27,320 --> 00:32:31,880
+<font color="aqua">Bardzo dobry pomysł.</font>
+<font color="aqua">Możemy podrzucić księdzu mikrofon.</font>
+
+481
+00:32:32,040 --> 00:32:36,040
+<font color="aqua">Będziemy mieć łączność z tym,</font>
+<font color="aqua">co się dzieje w środku.</font>
+
+482
+00:32:36,200 --> 00:32:39,760
+Porywacze sprawdzą księdza
+przed wejściem.
+
+483
+00:32:39,920 --> 00:32:42,160
+Gdzie zamontujemy mikrofon?
+
+484
+00:32:48,920 --> 00:32:52,520
+Myślę, że znajdę
+odpowiednio mały mikrofon.
+
+485
+00:32:52,680 --> 00:32:54,480
+Chwileczkę.
+
+486
+00:32:56,760 --> 00:32:59,400
+<font color="#8080FF">KIEROWCA KASZLE</font>
+
+487
+00:32:59,560 --> 00:33:01,360
+Wychodzisz.
+
+488
+00:33:01,520 --> 00:33:05,080
+KIEROWCA:
+Nie zostawię wozu z pasażerami.
+
+489
+00:33:05,240 --> 00:33:07,600
+To może pani?
+
+490
+00:33:09,560 --> 00:33:11,880
+Wykluczone!
+
+491
+00:33:12,040 --> 00:33:13,960
+Pani zostaje z nami.
+
+492
+00:33:14,120 --> 00:33:16,000
+Do końca.
+
+493
+00:33:17,480 --> 00:33:20,360
+<font color="#FFFF51">To wypuśćcie matkę z dzieckiem.</font>
+
+494
+00:33:20,520 --> 00:33:23,200
+<font color="#FFFF51">Po co dziecko ma na to patrzeć?</font>
+
+495
+00:33:23,360 --> 00:33:26,360
+Ale... to będą dwie osoby.
+
+496
+00:33:26,520 --> 00:33:28,760
+Nie bądź taki aptekarz.
+
+497
+00:33:28,920 --> 00:33:31,800
+Z dzieciakiem zaraz będą problemy.
+
+498
+00:33:34,840 --> 00:33:37,040
+Zgoda.
+
+499
+00:33:37,200 --> 00:33:40,480
+Niech będzie. Matka z dzieckiem.
+
+500
+00:33:40,640 --> 00:33:44,960
+- Chodź, Stasiu.
+- Ale nie teraz.
+
+501
+00:34:03,480 --> 00:34:05,960
+SZAJBUS: Dobra, otwieraj.
+
+502
+00:34:12,600 --> 00:34:14,400
+Zapraszam księdza.
+
+503
+00:34:19,160 --> 00:34:20,960
+Zamknij!
+
+504
+00:34:26,360 --> 00:34:28,480
+Co masz w kieszeniach?
+
+505
+00:34:34,040 --> 00:34:37,040
+Nie wybuchnie?
+<font color="#8080FF">ŚMIECH SZAJBUSA</font>
+
+506
+00:34:38,120 --> 00:34:39,920
+Siadaj.
+
+507
+00:34:45,440 --> 00:34:50,160
+<font color="#FFFF51">SZEPTEM: Co ja przeżyłam!</font>
+<font color="#16F158">Wszystko będzie dobrze.</font>
+
+508
+00:34:50,320 --> 00:34:53,000
+SZAJBUS: Ej!
+
+509
+00:35:05,600 --> 00:35:07,920
+Pani sobie wybierze miejsce.
+
+510
+00:35:09,440 --> 00:35:11,240
+Do przodu.
+
+511
+00:35:17,400 --> 00:35:19,360
+Chcę go mieć na oku.
+
+512
+00:35:24,400 --> 00:35:26,280
+<font color="#8080FF">KASZEL KIEROWCY</font>
+
+513
+00:35:26,440 --> 00:35:28,400
+<font color="#16F158">Ten człowiek jest chory.</font>
+
+514
+00:35:28,560 --> 00:35:31,040
+<font color="#16F158">Jego też powinniście wypuścić.</font>
+
+515
+00:35:31,200 --> 00:35:35,200
+Dopiero się pojawiłeś,
+a już się rządzisz?
+
+516
+00:35:37,200 --> 00:35:41,600
+<font color="#16F158">Nie chcecie wracać do więzienia,</font>
+<font color="#16F158">ale szkodzicie sobie.</font>
+
+517
+00:35:41,760 --> 00:35:44,320
+<font color="#8080FF">ŚMIECH MĘŻCZYZN</font>
+
+518
+00:35:45,520 --> 00:35:47,720
+Pytał cię ktoś o zdanie?
+
+519
+00:35:48,760 --> 00:35:51,440
+Pieski już wiedzą, kim jesteśmy.
+
+520
+00:35:54,040 --> 00:35:56,280
+Może oddam panu ten zegarek?
+
+521
+00:36:01,160 --> 00:36:02,960
+Miły gest.
+
+522
+00:36:03,120 --> 00:36:04,920
+Doceniam.
+
+523
+00:36:07,120 --> 00:36:09,800
+No, zostało 20 minut.
+
+524
+00:36:11,520 --> 00:36:17,080
+<font color="#16F158">Samolot będzie za dziesięć godzin</font>
+<font color="#16F158">ze względu na mgłę.</font>
+
+525
+00:36:17,240 --> 00:36:19,640
+<font color="#16F158">Do rana zabijecie wszystkich?</font>
+
+526
+00:36:21,240 --> 00:36:23,840
+Nie będziemy czekać
+w nieskończoność.
+
+527
+00:36:25,560 --> 00:36:31,760
+Przecież oni nic nie robią,
+żeby załatwić eskortę na lotnisko.
+
+528
+00:36:31,920 --> 00:36:34,080
+Moi ludzie!
+
+529
+00:36:34,240 --> 00:36:36,520
+Zaczynamy.
+
+530
+00:36:40,800 --> 00:36:42,880
+Ulokujcie się w krzakach.
+
+531
+00:36:43,040 --> 00:36:44,840
+Czekajcie na rozkazy.
+
+532
+00:36:45,000 --> 00:36:50,400
+Mamy kontakt z porywaczami.
+Za pośrednictwem telefonu pasażerki.
+
+533
+00:36:50,560 --> 00:36:53,040
+Rozumiem, ale mam własne metody.
+
+534
+00:36:53,200 --> 00:36:55,600
+- Jest pan gotowy?
+- Oczywiście.
+
+535
+00:36:55,760 --> 00:36:57,920
+- Jest pan gotowy?
+- No tak.
+
+536
+00:36:58,080 --> 00:36:59,880
+Zaczynamy.
+
+537
+00:37:00,040 --> 00:37:03,040
+To wszystko może się skończyć jatką.
+
+538
+00:37:03,200 --> 00:37:05,360
+Niech pan nie histeryzuje.
+
+539
+00:37:05,520 --> 00:37:10,840
+Eskortujmy ten autobus na lotnisko.
+To uśpi ich czujność.
+
+540
+00:37:11,000 --> 00:37:14,280
+Żaden samolot
+na Dominikanę nie poleci.
+
+541
+00:37:14,440 --> 00:37:16,240
+Na stanowiska.
+
+542
+00:37:16,400 --> 00:37:18,560
+PRZEZ RADIO: Raz-dwa.
+
+543
+00:37:18,720 --> 00:37:22,360
+PRZEZ MEGAFON:
+Nie działajcie pod wpływem emocji.
+
+544
+00:37:22,520 --> 00:37:25,960
+To nie rozwiąże waszych problemów.
+
+545
+00:37:26,120 --> 00:37:27,920
+Poddajcie się.
+
+546
+00:37:28,080 --> 00:37:32,760
+Inaczej będziemy musieli użyć
+środków przymusu.
+
+547
+00:37:32,920 --> 00:37:36,320
+Nie działajcie pod wpływem emocji!
+
+548
+00:37:37,600 --> 00:37:43,560
+Wszystkie wasze postulaty
+po poddaniu się zostaną rozpatrzone.
+
+549
+00:37:43,720 --> 00:37:46,280
+- Super.
+- Co za pajac!
+
+550
+00:37:46,440 --> 00:37:48,840
+MĘŻCZYZNA: Pić...
+
+551
+00:37:49,000 --> 00:37:51,080
+KIEROWCA: Mam butelkę wody.
+
+552
+00:37:57,080 --> 00:38:00,040
+<font color="#16F158">Do odsiadki zostały ci dwa lata.</font>
+
+553
+00:38:00,200 --> 00:38:05,280
+<font color="#16F158">Chcesz ryzykować dożywocie?</font>
+Chyba na plaży na Dominikanie!
+
+554
+00:38:05,440 --> 00:38:08,000
+<font color="#16F158">Mimo braku ekstradycji</font>
+
+555
+00:38:08,160 --> 00:38:12,960
+<font color="#16F158">za porwanie samolotu wylądujecie</font>
+<font color="#16F158">w dominikańskim więzieniu.</font>
+
+556
+00:38:13,120 --> 00:38:17,800
+<font color="#16F158">Tam warunki są gorsze niż w Polsce.</font>
+Skąd ksiądz to wie?
+
+557
+00:38:19,320 --> 00:38:25,080
+<font color="#16F158">Prawo międzynarodowe równo traktuje</font>
+<font color="#16F158">wszystkich porywaczy.</font>
+
+558
+00:38:25,240 --> 00:38:27,640
+<font color="#16F158">Zamkną was w więzieniu.</font>
+
+559
+00:38:30,120 --> 00:38:34,120
+<font color="#16F158">Tam są przepełnione cele, przemoc.</font>
+
+560
+00:38:34,280 --> 00:38:37,360
+<font color="#16F158">Jesteście biali.</font>
+<font color="#16F158">Nie będzie wam łatwo.</font>
+
+561
+00:38:37,520 --> 00:38:42,960
+<font color="#16F158">Ci ludzie nic ci nie zrobili.</font>
+<font color="#16F158">Dlaczego chcesz ich krzywdzić?</font>
+
+562
+00:38:43,120 --> 00:38:46,840
+NEGOCJATOR:
+To nie rozwiąże waszych problemów!
+
+563
+00:38:48,880 --> 00:38:51,520
+CYRYL: Ej, Szajbus!
+
+564
+00:38:52,720 --> 00:38:55,960
+Co będzie,
+jeśli nie dadzą nam samolotu?
+
+565
+00:38:56,120 --> 00:38:59,360
+Albo jak z powodu mgły
+dadzą go jutro rano?
+
+566
+00:38:59,520 --> 00:39:01,840
+SZAJBUS: Ale jesteś miękki.
+
+567
+00:39:02,000 --> 00:39:04,000
+<font color="aqua">Jeden zaczyna się łamać.</font>
+
+568
+00:39:04,160 --> 00:39:09,480
+Powiem, że zgadzam się na wszystko,
+tylko potrzebuję więcej czasu.
+
+569
+00:39:09,640 --> 00:39:12,600
+Szajbus się odpręży
+i może popełni błąd.
+
+570
+00:39:14,120 --> 00:39:16,120
+Czas minął.
+
+571
+00:39:16,280 --> 00:39:20,000
+Chyba trzeba kogoś rozwalić,
+żeby się ruszyli.
+
+572
+00:39:20,160 --> 00:39:22,040
+Przestań. To chore!
+
+573
+00:39:23,360 --> 00:39:25,640
+Halo?
+
+574
+00:39:25,800 --> 00:39:27,600
+Halo?
+
+575
+00:39:27,760 --> 00:39:31,240
+<font color="aqua">Co się stało?</font>
+Bateria im padła.
+
+576
+00:39:34,600 --> 00:39:36,320
+Rozładował się.
+
+577
+00:39:36,480 --> 00:39:40,480
+- Zaczekajmy jeszcze chwilę.
+- Na co?
+
+578
+00:39:40,640 --> 00:39:43,600
+Słyszałeś tego palanta z tubą?
+
+579
+00:39:43,760 --> 00:39:47,240
+Powiedział,
+że użyją środków bezpośrednich.
+
+580
+00:39:48,160 --> 00:39:50,520
+Może naprawdę potrzebują czasu.
+
+581
+00:39:50,680 --> 00:39:54,360
+- Głupi jesteś. Psy zawsze kłamią.
+- Robisz błąd.
+
+582
+00:39:54,520 --> 00:39:56,840
+<font color="#8080FF">WŚCIEKŁY KRZYK SZAJBUSA</font>
+
+583
+00:40:05,280 --> 00:40:07,280
+<font color="#FFFF51">Nie możecie tego zrobić!</font>
+
+584
+00:40:07,440 --> 00:40:09,880
+<font color="#FFFF51">Zostaw go!</font>
+Zamknij się!
+
+585
+00:40:10,040 --> 00:40:14,520
+Klękaj!
+<font color="#FFFF51">Przecież to morderca! Zabije go!</font>
+
+586
+00:40:14,680 --> 00:40:16,640
+- Daj pan tę tubę.
+- Ale...
+
+587
+00:40:16,800 --> 00:40:20,280
+- Co pan robi?
+- Pójdę tam. Tam poleje się krew.
+
+588
+00:40:20,440 --> 00:40:22,480
+Nie udzielam zgody.
+
+589
+00:40:23,840 --> 00:40:27,440
+- Na stanowiskach. Gotowi?
+PRZEZ RADIO: Tak.
+
+590
+00:40:29,320 --> 00:40:31,520
+<font color="#FFFF51">Nie! Nie!</font>
+
+591
+00:40:36,360 --> 00:40:38,000
+<font color="#8080FF">WYSTRZAŁ</font>
+
+592
+00:40:46,720 --> 00:40:48,400
+CYRYL: Drzwi!
+
+593
+00:40:49,760 --> 00:40:52,640
+- Nie strzelać!
+- Klękaj!
+
+594
+00:40:59,720 --> 00:41:01,440
+<font color="#16F158">Dajcie tu lekarza!</font>
+
+595
+00:41:09,480 --> 00:41:14,360
+W punkcie medycznym mamy herbatę.
+Rozwieziemy państwa do domów.
+
+596
+00:41:14,520 --> 00:41:18,920
+<font color="#16F158">Przepraszam cię, że nie uwierzyłem</font>
+<font color="#16F158">w twoje przeczucia.</font>
+
+597
+00:41:19,080 --> 00:41:23,400
+<font color="#FFFF51">Teraz przeczuwam,</font>
+<font color="#FFFF51">że się z plebanii długo nie ruszę.</font>
+
+598
+00:41:23,560 --> 00:41:25,360
+<font color="#FFFF51">Wszędzie są porwania.</font>
+
+599
+00:41:25,520 --> 00:41:28,240
+Proszę księdza, dziękuję za pomoc.
+
+600
+00:41:28,400 --> 00:41:30,080
+<font color="#FFFF51">Prawda?</font>
+Dziękuję.
+
+601
+00:41:30,240 --> 00:41:35,040
+<font color="aqua">Nie chcę myśleć, co się mogło stać.</font>
+<font color="#16F158">Mój szef nade mną czuwa.</font>
+
+602
+00:41:35,200 --> 00:41:37,000
+A mój spija śmietankę.
+
+603
+00:41:37,160 --> 00:41:39,960
+Dzięki naszemu profesjonalizmowi
+
+604
+00:41:40,120 --> 00:41:44,080
+udało się opanować sytuację
+i okiełznać bandytów.
+
+605
+00:41:44,240 --> 00:41:46,240
+Zrobiliśmy to własnymi siłami.
+
+606
+00:41:46,400 --> 00:41:50,200
+- Ksiądz był w autobusie?
+- Jeszcze nie skończyłem.
+
+607
+00:41:50,360 --> 00:41:52,840
+Jak zachowywali się porywacze?
+
+608
+00:41:55,200 --> 00:41:57,320
+<font color="#16F158">Trudno to określić.</font>
+
+609
+00:42:02,840 --> 00:42:06,400
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+610
+00:42:06,560 --> 00:42:10,200
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+611
+00:42:48,160 --> 00:42:49,960
+
+

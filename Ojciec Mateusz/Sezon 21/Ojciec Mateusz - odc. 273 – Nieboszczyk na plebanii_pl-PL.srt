@@ -1,0 +1,2568 @@
+1
+00:00:49,400 --> 00:00:51,800
+<font color="#8080FF">ODDYCHA NERWOWO</font>
+
+2
+00:01:02,800 --> 00:01:06,040
+<font color="#8080FF">SAMOCHÓD NIE CHCE ZAPALIĆ</font>
+
+3
+00:01:06,200 --> 00:01:08,040
+<font color="#FFFF51">Co to jest?</font>
+
+4
+00:01:10,640 --> 00:01:15,320
+<font color="#FFFF51">Auteczko, nie rób mi tego!</font>
+<font color="#8080FF">SAMOCHÓD NIE CHCE ZAPALIĆ</font>
+
+5
+00:01:35,600 --> 00:01:38,840
+Dokąd jedziemy?
+<font color="#FFFF51">Na razie przed siebie.</font>
+
+6
+00:01:39,000 --> 00:01:42,520
+<font color="#FFFF51">Potem zdecyduję.</font>
+
+7
+00:01:42,680 --> 00:01:44,760
+Natalia! Co to za hałas?
+
+8
+00:01:44,920 --> 00:01:47,640
+Robisz tak wcześnie śniadanie?
+
+9
+00:01:47,800 --> 00:01:50,680
+Natalia! Gdzie jesteś? Halo?!
+
+10
+00:01:54,040 --> 00:01:58,240
+Nogi?
+Chyba się jeszcze nie obudziłam.
+
+11
+00:02:00,760 --> 00:02:02,600
+Nogi z człowiekiem?
+
+12
+00:02:04,040 --> 00:02:08,200
+To nie najgorzej,
+mogły być same nogi.
+
+13
+00:02:08,360 --> 00:02:10,720
+Przepraszam?
+
+14
+00:02:10,880 --> 00:02:13,600
+Czy pan mnie słyszy?
+
+15
+00:02:13,760 --> 00:02:15,960
+Może pan poruszyć powieką?
+
+16
+00:02:16,800 --> 00:02:19,600
+Ręką albo czymkolwiek?
+
+17
+00:02:19,760 --> 00:02:23,080
+Chyba nic z tego. Mateusz!
+
+18
+00:02:23,240 --> 00:02:26,840
+W przedpokoju
+leży chyba nieżywe ciało!
+
+19
+00:02:27,000 --> 00:02:29,560
+<font color="#16F158">Co się stało?</font>
+Zobacz.
+
+20
+00:02:34,960 --> 00:02:37,520
+<font color="#16F158">Spokojnie, babciu. Uspokój się.</font>
+
+21
+00:02:37,680 --> 00:02:41,720
+<font color="#16F158">Uspokój się.</font>
+<font color="#16F158">Poczekaj tam. W kuchni usiądź.</font>
+
+22
+00:02:41,880 --> 00:02:46,480
+Sprawdź, czy on zupełnie nie żyje.
+<font color="#16F158">Dobrze, sprawdzę.</font>
+
+23
+00:02:46,640 --> 00:02:48,880
+<font color="#16F158">Uspokój się, usiądź.</font>
+
+24
+00:03:04,800 --> 00:03:07,600
+<font color="#8080FF">DZWONI TELEFON</font>
+<font color="aqua">Halo, witam księdza.</font>
+
+25
+00:03:07,760 --> 00:03:11,200
+<font color="#16F158">Witam. Nie bardzo wiem,</font>
+<font color="#16F158">jak to powiedzieć.</font>
+
+26
+00:03:11,360 --> 00:03:15,760
+<font color="#16F158">Zdaje się, że mamy nieboszczyka</font>
+<font color="#16F158">u nas na plebanii.</font>
+
+27
+00:03:15,920 --> 00:03:19,920
+<font color="aqua">Co? Jak to? Ktoś od was?</font>
+<font color="#16F158">Nie, to nikt z domowników.</font>
+
+28
+00:03:20,080 --> 00:03:21,880
+<font color="#16F158">To jakiś obcy mężczyzna.</font>
+
+29
+00:03:22,040 --> 00:03:25,720
+<font color="#16F158">Babcia znalazła go przed chwilą</font>
+<font color="#16F158">w przedpokoju.</font>
+
+30
+00:03:25,880 --> 00:03:29,800
+<font color="aqua">Tak, zaraz będziemy.</font>
+<font color="#16F158">Dobrze. To czekamy.</font>
+
+31
+00:03:29,960 --> 00:03:31,760
+<font color="aqua">Słuchajcie,</font>
+
+32
+00:03:31,920 --> 00:03:36,000
+<font color="aqua">na plebanii najprawdopodobniej</font>
+<font color="aqua">doszło do zabójstwa.</font>
+
+33
+00:03:36,160 --> 00:03:41,000
+<font color="aqua">Orest, na plebanii</font>
+<font color="aqua">prawdopodobnie doszło do zabójstwa.</font>
+
+34
+00:03:41,160 --> 00:03:44,400
+<font color="#16F158">Nie wiesz, gdzie jest Natalia?</font>
+Nie wiem.
+
+35
+00:03:44,560 --> 00:03:48,640
+Usłyszałam hałas i wstałam,
+ale jej nie było.
+
+36
+00:03:48,800 --> 00:03:52,520
+Czy ten człowiek naprawdę nie żyje?
+
+37
+00:03:52,680 --> 00:03:55,080
+<font color="#16F158">Obawiam się, że niestety tak.</font>
+
+38
+00:03:55,240 --> 00:03:58,400
+Idę do siebie. Muszę coś łyknąć.
+
+39
+00:04:02,440 --> 00:04:05,520
+<font color="#FFFF51">Dziękuję.</font>
+Bardzo proszę.
+
+40
+00:04:07,280 --> 00:04:09,480
+<font color="#FFFF51">Do widzenia.</font>
+Do widzenia.
+
+41
+00:04:19,120 --> 00:04:22,000
+<font color="#8080FF">DZWONI TELEFON</font>
+
+42
+00:04:24,080 --> 00:04:28,120
+<font color="#FFFF51">O nie, ja do więzienia nie pójdę!</font>
+
+43
+00:04:33,480 --> 00:04:37,440
+Co tu się stało?
+<font color="#16F158">Nie mam pojęcia, inspektorze.</font>
+
+44
+00:04:37,600 --> 00:04:40,720
+<font color="#16F158">Babcia się zamknęła w pokoju,</font>
+<font color="#16F158">boi się wyjść.</font>
+
+45
+00:04:40,880 --> 00:04:44,520
+<font color="aqua">Gdzie pani Natalia?</font>
+<font color="#16F158">Nie wiem, nie widzieliśmy jej.</font>
+
+46
+00:04:44,680 --> 00:04:46,480
+<font color="#16F158">Dzwoniłem, ale nie odbiera.</font>
+
+47
+00:04:46,640 --> 00:04:49,200
+Ksiądz wie, kim on jest?
+<font color="#16F158">Nie znam go.</font>
+
+48
+00:04:49,360 --> 00:04:51,120
+Doktorze, co mamy?
+
+49
+00:04:51,280 --> 00:04:54,720
+Uderzenie
+tępokrawędzistym narzędziem.
+
+50
+00:04:54,880 --> 00:04:58,560
+Śmierć pewnie nastąpiła
+w wyniku krwiaka mózgu.
+
+51
+00:04:58,720 --> 00:05:01,480
+Dokładną przyczynę podam po sekcji.
+
+52
+00:05:01,640 --> 00:05:05,400
+- Czy znaleziono przy nim dokumenty?
+- Nie.
+
+53
+00:05:07,760 --> 00:05:11,280
+To jest kurtka pani Natalii?
+<font color="#16F158">Tak.</font>
+
+54
+00:05:11,440 --> 00:05:14,960
+Znaczy że ona wyszła bez niej
+w taką pogodę?
+
+55
+00:05:15,120 --> 00:05:17,200
+Ma inną?
+<font color="#16F158">Nie ma.</font>
+
+56
+00:05:17,360 --> 00:05:20,920
+Chodźcie, panowie. Możemy na chwilę?
+<font color="#16F158">Tak.</font>
+
+57
+00:05:26,040 --> 00:05:28,880
+Ksiądz niczego nie słyszał?
+<font color="#16F158">Nie.</font>
+
+58
+00:05:29,040 --> 00:05:32,520
+<font color="#16F158">Dopiero krzyki babci</font>
+<font color="#16F158">zwróciły moją uwagę.</font>
+
+59
+00:05:32,680 --> 00:05:36,840
+Dobrze, czyli nie wiemy,
+gdzie poszła pani Natalia.
+
+60
+00:05:37,000 --> 00:05:38,800
+Nie wiemy, kim jest ofiara.
+
+61
+00:05:38,960 --> 00:05:41,600
+<font color="aqua">Może złodziej</font>
+<font color="aqua">zaskoczył panią Natalię?</font>
+
+62
+00:05:41,760 --> 00:05:44,320
+<font color="#16F158">Rabanu by narobiła.</font>
+<font color="#16F158">Zna pan Natalię.</font>
+
+63
+00:05:44,480 --> 00:05:46,160
+<font color="#16F158">Narobiłaby krzyku.</font>
+
+64
+00:05:46,320 --> 00:05:50,200
+W dramatycznej sytuacji
+ludzie działają impulsywnie.
+
+65
+00:05:50,360 --> 00:05:55,200
+Może pani Natalia wpadła w panikę.
+<font color="#16F158">Co pan sugeruje?</font>
+
+66
+00:05:55,360 --> 00:06:00,160
+Nie patrzcie na mnie tak,
+jakbym chciał, żeby była sprawcą.
+
+67
+00:06:00,320 --> 00:06:05,920
+Na plebanii jest nieżywy mężczyzna
+i nie ma pani Natalii.
+
+68
+00:06:06,080 --> 00:06:09,000
+<font color="aqua">Musimy ją odnaleźć.</font>
+<font color="aqua">Może to wyjaśni.</font>
+
+69
+00:06:09,160 --> 00:06:14,440
+<font color="#16F158">Nie może być nigdzie daleko.</font>
+<font color="#16F158">Jej auto stoi pod plebanią.</font>
+
+70
+00:06:16,160 --> 00:06:18,120
+<font color="#16F158">Nie odpowiada cały czas.</font>
+
+71
+00:06:18,280 --> 00:06:20,520
+<font color="#16F158">Albo ma wyłączony telefon.</font>
+
+72
+00:06:20,680 --> 00:06:25,080
+Biorąc pod uwagę zażyłość
+z panią Natalią,
+
+73
+00:06:25,240 --> 00:06:28,440
+niech się ksiądz
+nie angażuje w tę sprawę.
+
+74
+00:06:28,600 --> 00:06:32,920
+<font color="aqua">Przecież chodzi o panią Natalię,</font>
+<font color="aqua">a nie o jakąś podejrzaną!</font>
+
+75
+00:06:34,000 --> 00:06:37,360
+W każdym razie
+nie chcę o tym wiedzieć.
+
+76
+00:06:37,520 --> 00:06:39,360
+<font color="aqua">Dobra.</font>
+
+77
+00:07:01,200 --> 00:07:04,280
+KOBIETA: Słuchaj, muszę kończyć.
+
+78
+00:07:04,440 --> 00:07:06,760
+Mam gościa. Oddzwonię. Hej.
+
+79
+00:07:08,080 --> 00:07:11,320
+<font color="#FFFF51">Dzień dobry.</font>
+Witam w naszym pensjonacie.
+
+80
+00:07:11,480 --> 00:07:15,400
+Ma pani rezerwację?
+<font color="#FFFF51">Nie wiedziałam, przepraszam.</font>
+
+81
+00:07:16,600 --> 00:07:19,840
+Przepraszam,
+ja tak odruchowo zapytałam.
+
+82
+00:07:20,000 --> 00:07:23,120
+Jesteśmy po sezonie,
+mamy wolne pokoje.
+
+83
+00:07:23,280 --> 00:07:28,600
+To proszę wypełnić kartę meldunkową.
+
+84
+00:07:28,760 --> 00:07:32,040
+Pani przyjechała na długo?
+
+85
+00:07:34,040 --> 00:07:36,120
+<font color="#FFFF51">Nie wiem jeszcze.</font>
+
+86
+00:07:36,280 --> 00:07:38,720
+<font color="#FFFF51">Kilka dni. Trzy, cztery może.</font>
+
+87
+00:07:38,880 --> 00:07:43,120
+Może zrobię pani herbaty najpierw?
+Zostawmy tę kartę.
+
+88
+00:07:43,280 --> 00:07:47,960
+Dobrze. Pokój numer 105.
+Ja przyniosę do pokoju.
+
+89
+00:07:48,120 --> 00:07:50,760
+Tam są schody.
+Na pierwszym piętrze.
+
+90
+00:07:50,920 --> 00:07:54,400
+Pani ma tylko taki bagaż?
+<font color="#FFFF51">Tak, tylko ten.</font>
+
+91
+00:07:55,400 --> 00:07:57,440
+<font color="#FFFF51">Dziękuję.</font>
+
+92
+00:07:57,600 --> 00:07:59,440
+Pani jest z daleka?
+
+93
+00:08:01,200 --> 00:08:03,000
+<font color="#FFFF51">Tak, z daleka.</font>
+
+94
+00:08:31,560 --> 00:08:33,880
+<font color="#16F158">Mogę?</font>
+Tak, chodź, chodź.
+
+95
+00:08:35,200 --> 00:08:37,280
+Powiedz mi...
+
+96
+00:08:37,440 --> 00:08:42,080
+Czy to możliwe,
+żeby Natalia zlikwidowała człowieka?
+
+97
+00:08:43,280 --> 00:08:45,360
+<font color="#16F158">Nie, ja w to nie wierzę.</font>
+
+98
+00:08:46,720 --> 00:08:48,600
+<font color="#16F158">Teraz musimy ją odnaleźć.</font>
+
+99
+00:08:48,760 --> 00:08:51,320
+<font color="#16F158">Proszę cię o pomoc. To jej notes.</font>
+
+100
+00:08:51,480 --> 00:08:54,560
+<font color="#16F158">Tu są numery</font>
+<font color="#16F158">do jej przyjaciół, do rodziny.</font>
+
+101
+00:08:54,720 --> 00:08:59,800
+<font color="#16F158">Jakbyś mogła podzwonić, popytać,</font>
+<font color="#16F158">czy się nie zatrzymała u nich.</font>
+
+102
+00:08:59,960 --> 00:09:03,360
+<font color="#16F158">A ja pojeżdżę po okolicy,</font>
+<font color="#16F158">poszukam jej.</font>
+
+103
+00:09:04,320 --> 00:09:06,880
+<font color="#16F158">Możesz sama w domu zostać?</font>
+Mogę.
+
+104
+00:09:07,840 --> 00:09:12,160
+Chyba. Do przedpokoju nie wejdę.
+<font color="#16F158">To nie wchodź.</font>
+
+105
+00:09:15,480 --> 00:09:18,440
+<font color="#16F158">Mam prośbę.</font>
+<font color="#16F158">Nie mów nikomu, co się stało.</font>
+
+106
+00:09:18,600 --> 00:09:20,840
+Pary nie puszczę.
+
+107
+00:09:22,040 --> 00:09:24,040
+Co ja mogłabym mówić?
+
+108
+00:09:24,200 --> 00:09:29,040
+Że... szukamy Natalii,
+bo może zabiła człowieka?
+
+109
+00:09:29,200 --> 00:09:33,720
+Przez gardło by mi to nie przeszło.
+<font color="#16F158">Już, nie martw się.</font>
+
+110
+00:09:33,880 --> 00:09:35,760
+Łatwo powiedzieć.
+
+111
+00:09:36,800 --> 00:09:38,600
+<font color="#16F158">Dziękuję.</font>
+
+112
+00:09:46,440 --> 00:09:48,960
+<font color="#8080FF">SILNIK NIE CHCE ODPALIĆ</font>
+
+113
+00:09:55,600 --> 00:09:57,520
+<font color="#8080FF">DZWONI TELEFON</font>
+
+114
+00:10:01,400 --> 00:10:04,880
+<font color="#16F158">Dzień dobry, pani Ewo.</font>
+Nie wiem, czy dobry.
+
+115
+00:10:05,040 --> 00:10:08,320
+Co tam się mogło stać?
+<font color="#16F158">Nie mam pojęcia.</font>
+
+116
+00:10:08,480 --> 00:10:11,520
+Natalia się nie odezwała?
+<font color="#16F158">Właśnie nie.</font>
+
+117
+00:10:11,680 --> 00:10:14,520
+Ja też myślę,
+że ona tego nie zrobiła.
+
+118
+00:10:14,680 --> 00:10:17,840
+Gdyby zrobiła, toby nie uciekła.
+
+119
+00:10:18,000 --> 00:10:21,720
+Ale Możejko ma
+zupełnie inne przypuszczenia.
+
+120
+00:10:21,880 --> 00:10:24,360
+Lepiej, żeby Natalia się znalazła.
+
+121
+00:10:24,520 --> 00:10:28,520
+<font color="#16F158">Chciałem jej poszukać,</font>
+<font color="#16F158">ale samochód nie chce odpalić.</font>
+
+122
+00:10:28,680 --> 00:10:32,480
+<font color="#16F158">Pluskwa mi nie pomoże,</font>
+<font color="#16F158">bo pojechał do rodziny.</font>
+
+123
+00:10:32,640 --> 00:10:34,600
+Ja mogę pomóc.
+
+124
+00:10:34,760 --> 00:10:37,600
+Niech ksiądz zaczeka,
+ja oddzwonię.
+
+125
+00:10:37,760 --> 00:10:41,280
+Tak, tak, zaraz oddzwonię.
+<font color="#16F158">Dobrze, dzięki.</font>
+
+126
+00:10:43,000 --> 00:10:45,160
+Zabezpieczyliśmy te przedmioty.
+
+127
+00:10:45,320 --> 00:10:48,800
+Wszystkie mogły posłużyć
+jako narzędzie zbrodni.
+
+128
+00:10:48,960 --> 00:10:53,440
+Teraz musimy sprawdzić,
+czy ofiara użyła ich do obrony.
+
+129
+00:10:53,600 --> 00:10:57,880
+Mogą o tym świadczyć
+ślady biologiczne albo włókna.
+
+130
+00:10:58,040 --> 00:11:02,640
+Musimy się dowiedzieć,
+kim jest ofiara. Czekam na wyniki.
+
+131
+00:11:02,800 --> 00:11:04,640
+- Szefie.
+- Zaraz. Paruzel.
+
+132
+00:11:04,800 --> 00:11:08,680
+Sprawdź odciski palców denata.
+
+133
+00:11:08,840 --> 00:11:11,720
+Jeżeli to włamywacz,
+to może go mamy.
+
+134
+00:11:11,880 --> 00:11:16,000
+Gibalski, Marczak
+- pojedziecie szukać pani Natalii.
+
+135
+00:11:16,160 --> 00:11:17,880
+- Tak jest.
+- Dzięki.
+
+136
+00:11:18,040 --> 00:11:21,800
+Szefie. Szef myśli o tym,
+że to Natalia mogła...
+
+137
+00:11:21,960 --> 00:11:24,920
+Teraz będę mówił do wszystkich.
+
+138
+00:11:25,080 --> 00:11:27,440
+Znamy i lubimy panią Natalię,
+
+139
+00:11:27,600 --> 00:11:30,760
+ale musimy przyjrzeć się faktom.
+
+140
+00:11:30,920 --> 00:11:34,240
+To jest nasza profesja,
+czasem niewdzięczna.
+
+141
+00:11:34,400 --> 00:11:37,200
+Nie mamy dowodów, ale mamy poszlakę.
+
+142
+00:11:37,360 --> 00:11:40,760
+Mamy i nie mamy.
+Mogła zostać porwana.
+
+143
+00:11:40,920 --> 00:11:44,600
+Dlatego proszę wszystkich
+o bezstronność.
+
+144
+00:11:44,760 --> 00:11:50,000
+Dzwonił mieszkaniec Sosnowej.
+W willi obok doszło do włamania.
+
+145
+00:11:50,160 --> 00:11:53,200
+Wybite okno, otwarte drzwi tarasowe.
+
+146
+00:11:53,360 --> 00:11:56,360
+Ewa, ty zajmiesz się tą sprawą.
+
+147
+00:11:56,520 --> 00:11:58,680
+Dobrze. A do pomocy może ktoś?
+
+148
+00:11:58,840 --> 00:12:01,200
+- Gdzie jest Dziubak?
+- Jestem.
+
+149
+00:12:01,360 --> 00:12:05,240
+- Jadę na plebanię?
+- Nie, pojedziesz na Sosnową.
+
+150
+00:12:05,400 --> 00:12:08,920
+- Zabójstwo?
+- Włamanie. Przepraszam.
+
+151
+00:12:09,080 --> 00:12:10,920
+Też pięknie.
+
+152
+00:12:20,320 --> 00:12:22,360
+Dzień dobry.
+<font color="#16F158">Dzień dobry.</font>
+
+153
+00:12:22,520 --> 00:12:26,920
+Ewa powiedziała mi, co się stało.
+Mogę pomóc.
+
+154
+00:12:27,080 --> 00:12:29,400
+<font color="#16F158">Dziękuję bardzo.</font>
+Proszę.
+
+155
+00:12:45,320 --> 00:12:47,640
+- Dzień dobry.
+- Dzień dobry.
+
+156
+00:12:47,800 --> 00:12:49,960
+- Pan Leszek Kądziela?
+- Tak.
+
+157
+00:12:50,120 --> 00:12:53,280
+Aspirant Kobylicka.
+Pan do nas dzwonił.
+
+158
+00:12:53,440 --> 00:12:56,400
+Dobrze, że jesteście. Niepokoję się.
+
+159
+00:12:56,560 --> 00:13:01,600
+Tu mieszka taka uprzejma sąsiadka,
+pani Jaskóła.
+
+160
+00:13:01,760 --> 00:13:03,880
+Ja mieszkam po sąsiedzku.
+
+161
+00:13:04,040 --> 00:13:09,280
+Zobaczyłem ze swojego balkonu,
+że okno z tyłu domu jest stłuczone.
+
+162
+00:13:09,440 --> 00:13:13,800
+- Wchodził pan do środku?
+- Wiem, że nie należy tego robić.
+
+163
+00:13:13,960 --> 00:13:15,760
+Dziękujemy za zgłoszenie.
+
+164
+00:13:34,880 --> 00:13:36,680
+Halo?
+
+165
+00:13:39,920 --> 00:13:41,720
+Halo, jest ktoś tutaj?
+
+166
+00:13:42,880 --> 00:13:45,120
+Halo?!
+
+167
+00:13:45,280 --> 00:13:48,720
+No dobrze.
+Rozejrzyj się po mieszkaniu.
+
+168
+00:13:48,880 --> 00:13:52,480
+- Uważaj, żeby nie zatrzeć śladów.
+- Jasne.
+
+169
+00:13:54,240 --> 00:13:56,080
+I z tą bronią uważaj.
+
+170
+00:13:57,040 --> 00:13:58,840
+Bądź spokojna.
+
+171
+00:13:59,000 --> 00:14:00,920
+Trzymam nerwy na wodzy.
+
+172
+00:14:04,240 --> 00:14:06,360
+Ewa! Chodź tu!
+
+173
+00:14:12,040 --> 00:14:14,520
+Ewa, ta pani chyba nie żyje.
+
+174
+00:14:22,400 --> 00:14:26,040
+Jak ksiądz myśli:
+co stało się na plebanii?
+
+175
+00:14:26,200 --> 00:14:28,000
+Włamanie?
+<font color="#16F158">Nie wiem.</font>
+
+176
+00:14:28,160 --> 00:14:32,040
+<font color="#16F158">Policja uważa,</font>
+<font color="#16F158">że Natalia zaskoczyła włamywacza,</font>
+
+177
+00:14:32,200 --> 00:14:35,240
+<font color="#16F158">uderzyła go czymś</font>
+<font color="#16F158">i przerażona uciekła.</font>
+
+178
+00:14:35,400 --> 00:14:37,160
+A ksiądz?
+
+179
+00:14:37,320 --> 00:14:42,400
+<font color="#16F158">Nie wiem, co się stało,</font>
+<font color="#16F158">ale ta wersja mnie nie przekonuje.</font>
+
+180
+00:14:42,560 --> 00:14:46,520
+Włamywacz miałby po co
+przychodzić na plebanię?
+
+181
+00:14:46,680 --> 00:14:49,640
+<font color="#16F158">W zasadzie nie.</font>
+<font color="#16F158">Mamy stary krucyfiks.</font>
+
+182
+00:14:49,800 --> 00:14:52,480
+<font color="#16F158">Ale on nie ma wielkiej wartości.</font>
+
+183
+00:14:52,640 --> 00:14:56,520
+<font color="#16F158">Parę dni temu parafianka</font>
+<font color="#16F158">poprosiła mnie o pomoc</font>
+
+184
+00:14:56,680 --> 00:15:01,880
+<font color="#16F158">w wycenie kilku kosztowności,</font>
+<font color="#16F158">bo ja znam różnych kolekcjonerów.</font>
+
+185
+00:15:02,040 --> 00:15:05,920
+<font color="#16F158">Ale żeby ktoś mógł o tym wiedzieć?</font>
+<font color="#16F158">Nie wydaje mi się.</font>
+
+186
+00:15:06,080 --> 00:15:11,480
+Ciekawe, jak ksiądz po tylu sprawach
+nadal utrzymuje wiarę w ludzi.
+
+187
+00:15:11,640 --> 00:15:14,480
+<font color="#16F158">Zakładam,</font>
+<font color="#16F158">że nikt nie rodzi się zły.</font>
+
+188
+00:15:14,640 --> 00:15:17,960
+<font color="#16F158">Nawet jeżeli zdarzy się pobłądzić,</font>
+
+189
+00:15:18,120 --> 00:15:21,560
+<font color="#16F158">to każdy powinien mieć szansę</font>
+<font color="#16F158">na przemianę.</font>
+
+190
+00:15:21,720 --> 00:15:26,080
+A jeśli nadal zawodzą?
+<font color="#16F158">Przecież u pana jest podobnie.</font>
+
+191
+00:15:26,240 --> 00:15:28,200
+<font color="#16F158">Jak przywożą panu pacjenta,</font>
+
+192
+00:15:28,360 --> 00:15:33,040
+<font color="#16F158">pan się nie zastanawia,</font>
+<font color="#16F158">czy to bandyta, czy dobry człowiek.</font>
+
+193
+00:15:33,200 --> 00:15:36,440
+<font color="#16F158">Tylko leczy go pan</font>
+<font color="#16F158">z całym zaangażowaniem.</font>
+
+194
+00:15:36,600 --> 00:15:39,880
+<font color="#16F158">U mnie jest podobnie.</font>
+<font color="#8080FF">DZWONI TELEFON</font>
+
+195
+00:15:41,960 --> 00:15:45,000
+<font color="#16F158">Halo? Wiesz coś?</font>
+BABCIA: Nie.
+
+196
+00:15:45,160 --> 00:15:50,560
+Jedna z koleżanek Natalii od razu
+spytała, czy Natalia kogoś zabiła.
+
+197
+00:15:50,720 --> 00:15:53,480
+Rozniosło się.
+<font color="#16F158">Uspokój się, babciu.</font>
+
+198
+00:15:53,640 --> 00:15:57,720
+Zaraz wpadnie Basia Noculowa,
+żebym sama nie była.
+
+199
+00:15:57,880 --> 00:16:01,600
+Synku, znajdź Natalię, proszę.
+
+200
+00:16:01,760 --> 00:16:05,000
+Cokolwiek zrobiła.
+Siedzę tu i płaczę.
+
+201
+00:16:05,160 --> 00:16:08,280
+<font color="#16F158">Przywiozę ją. Na pewno ją znajdę.</font>
+
+202
+00:16:18,040 --> 00:16:20,400
+- Dzień dobry.
+- Dzień dobry.
+
+203
+00:16:20,560 --> 00:16:23,240
+- Widział pan tę panią?
+- Nie.
+
+204
+00:16:23,400 --> 00:16:26,920
+- Może któryś z kolegów?
+- Heniu, chodź tu!
+
+205
+00:16:27,080 --> 00:16:29,240
+Znasz tę panią?
+
+206
+00:16:29,400 --> 00:16:33,000
+Raczej bym zapamiętał.
+To przecież pani Natalia.
+
+207
+00:16:33,160 --> 00:16:36,560
+Moja żona uwielbia
+jej kącik kulinarny.
+
+208
+00:16:36,720 --> 00:16:39,960
+O, jest Zenon. Może on ją widział.
+
+209
+00:16:41,240 --> 00:16:45,360
+- Możemy pana na chwilę poprosić?
+- Oczywiście.
+
+210
+00:16:50,880 --> 00:16:52,680
+Widział pan tę panią?
+
+211
+00:16:52,840 --> 00:16:54,640
+Nie.
+
+212
+00:16:54,800 --> 00:16:58,680
+Znaczy... Zaraz...
+Można jeszcze raz to zdjęcie?
+
+213
+00:16:58,840 --> 00:17:02,320
+Raniutko wiozłem
+jedną taką klientkę.
+
+214
+00:17:02,480 --> 00:17:05,520
+Nie całkiem przypomina
+tę na zdjęciu.
+
+215
+00:17:05,680 --> 00:17:07,520
+Jak to nie całkiem?
+
+216
+00:17:07,680 --> 00:17:09,560
+Ale trochę tak.
+
+217
+00:17:10,920 --> 00:17:16,240
+Ta, co wiozłem, to miała na głowie
+taką śmieszną czapkę uszatkę.
+
+218
+00:17:16,400 --> 00:17:20,280
+I takie starawe, śmieszne też palto.
+
+219
+00:17:21,640 --> 00:17:24,720
+No ale powiem,
+że twarz jakby podobna.
+
+220
+00:17:24,880 --> 00:17:27,040
+A dokąd pan ją wiózł?
+
+221
+00:17:28,360 --> 00:17:30,160
+Chwila.
+
+222
+00:17:41,160 --> 00:17:43,480
+O, to gdzieś tu.
+
+223
+00:17:45,360 --> 00:17:47,600
+- Tutaj wysiadła.
+- Tu?
+
+224
+00:17:59,760 --> 00:18:01,560
+<font color="#8080FF">DZWONI</font>
+
+225
+00:18:03,600 --> 00:18:05,720
+Smakowało?
+<font color="#FFFF51">Tak, dziękuję.</font>
+
+226
+00:18:05,880 --> 00:18:09,320
+<font color="#FFFF51">Umyłam filiżankę.</font>
+Dziękuję, nie trzeba było.
+
+227
+00:18:09,480 --> 00:18:12,280
+Dla aromatu
+daję skórki pomarańczowej.
+
+228
+00:18:12,440 --> 00:18:16,880
+<font color="#FFFF51">Orientuje się pani,</font>
+<font color="#FFFF51">gdzie ja bym tu mogła coś zjeść?</font>
+
+229
+00:18:17,040 --> 00:18:19,800
+Ja niestety nie prowadzę kuchni,
+
+230
+00:18:19,960 --> 00:18:23,880
+ale dwa domy dalej
+Sokołowska robi takie dobre...
+
+231
+00:18:24,040 --> 00:18:26,200
+<font color="#8080FF">DZWONI TELEFON</font>
+Przepraszam.
+
+232
+00:18:26,360 --> 00:18:29,440
+Pensjonat "Pod Świerkiem". Słucham.
+
+233
+00:18:29,600 --> 00:18:31,400
+No co ty gadasz?
+
+234
+00:18:32,360 --> 00:18:34,920
+Na sandomierskiej plebani?
+
+235
+00:18:35,080 --> 00:18:36,920
+O Boże, się porobiło!
+
+236
+00:18:37,080 --> 00:18:40,680
+Ja nie mogę teraz.
+Gościa mam. Oddzwonię.
+
+237
+00:18:40,840 --> 00:18:42,640
+Słyszała pani?
+
+238
+00:18:42,800 --> 00:18:47,160
+Na sandomierskiej plebani
+martwego człowieka znaleźli.
+
+239
+00:18:47,320 --> 00:18:52,840
+Gospodyni jest podejrzana
+o zabójstwo. Uciekła. Szukają jej.
+
+240
+00:18:53,000 --> 00:18:56,960
+Kartę meldunkową
+pani wypełni po obiedzie, tak?
+
+241
+00:18:58,160 --> 00:19:01,400
+<font color="#FFFF51">Tak. Tak.</font>
+No, no.
+
+242
+00:19:04,200 --> 00:19:06,000
+<font color="#16F158">Dzień dobry.</font>
+
+243
+00:19:06,160 --> 00:19:08,880
+<font color="#16F158">Nie było dzisiaj Natalii?</font>
+Właśnie nie.
+
+244
+00:19:09,040 --> 00:19:10,720
+Jest chora?
+<font color="#16F158">Nie.</font>
+
+245
+00:19:10,880 --> 00:19:16,400
+Jeżeli ktokolwiek z państwa
+zobaczyłby panią Natalię,
+
+246
+00:19:16,560 --> 00:19:20,160
+to serdeczna prośba
+o kontakt na plebanię.
+
+247
+00:19:20,320 --> 00:19:23,600
+Oczywiście, dzwonię od razu.
+<font color="#16F158">Dzięki.</font>
+
+248
+00:19:23,760 --> 00:19:26,480
+Proszę księdza, chwileczkę.
+
+249
+00:19:26,640 --> 00:19:28,480
+Może ksiądz to weźmie?
+
+250
+00:19:29,360 --> 00:19:33,360
+Zamówiła towar,
+zapłaciła z góry jak zawsze.
+
+251
+00:19:33,520 --> 00:19:37,320
+- Jak na wojnę.
+- U mnie też są zakupy dla Natalii.
+
+252
+00:19:37,480 --> 00:19:41,880
+Sera dziesięć kilo,
+sto sztuk jaj, miodu pięć litrów.
+
+253
+00:19:42,040 --> 00:19:47,080
+<font color="#16F158">To dla naszych potrzebujących.</font>
+<font color="#16F158">Do stołówki dla bezdomnych.</font>
+
+254
+00:19:47,240 --> 00:19:50,160
+Pani Natalia
+co tydzień robi sprawunki.
+
+255
+00:19:50,320 --> 00:19:54,720
+<font color="#16F158">I do domu dziecka.</font>
+<font color="#16F158">Trzeba to dzisiaj dostarczyć.</font>
+
+256
+00:19:54,880 --> 00:19:57,200
+Dobra, ja to zabiorę. Potem.
+
+257
+00:19:59,280 --> 00:20:02,560
+<font color="#FFFF51">Wszystko to moja wina.</font>
+<font color="#FFFF51">Zabiłam człowieka.</font>
+
+258
+00:20:02,720 --> 00:20:05,440
+<font color="#FFFF51">Przecież mi nawet ksiądz</font>
+<font color="#FFFF51">nie pomoże.</font>
+
+259
+00:20:47,920 --> 00:20:49,800
+<font color="#8080FF">SYGNAŁ SMS-A</font>
+
+260
+00:20:52,400 --> 00:20:55,800
+<font color="#16F158">Może ktoś ją zmusił,</font>
+<font color="#16F158">żeby to napisała?</font>
+
+261
+00:21:00,760 --> 00:21:03,080
+<font color="#16F158">Nie odbiera.</font>
+
+262
+00:21:03,240 --> 00:21:06,120
+<font color="#16F158">Musimy ją jak najszybciej odnaleźć.</font>
+
+263
+00:21:10,080 --> 00:21:12,600
+KOBYLICKA: Dzień dobry, szefie.
+
+264
+00:21:12,760 --> 00:21:14,800
+Cześć, cześć.
+
+265
+00:21:16,400 --> 00:21:18,240
+Co wiemy o ofierze?
+
+266
+00:21:18,400 --> 00:21:20,320
+Joanna Jaskóła, wdowa.
+
+267
+00:21:20,480 --> 00:21:22,960
+Technolog żywności.
+
+268
+00:21:23,120 --> 00:21:25,720
+Od 25 lat mieszkała w Stanach.
+
+269
+00:21:25,880 --> 00:21:29,200
+Po śmierci męża
+wróciła do Sandomierza.
+
+270
+00:21:29,360 --> 00:21:31,760
+Dwa lata temu kupiła tę willę.
+
+271
+00:21:31,920 --> 00:21:33,720
+Jak zmarła?
+
+272
+00:21:33,880 --> 00:21:36,400
+Włamywacze ją związali
+i zakneblowali.
+
+273
+00:21:36,560 --> 00:21:41,920
+Lekarz stwierdził, że się udusiła,
+prawdopodobnie przez zachłyśnięcie.
+
+274
+00:21:42,080 --> 00:21:44,320
+- Miała rodzinę?
+- Ustalamy to.
+
+275
+00:21:45,200 --> 00:21:47,000
+To jest dziwne.
+
+276
+00:21:47,160 --> 00:21:50,360
+Jeden dzień
+i dwie ofiary śmiertelne.
+
+277
+00:21:51,880 --> 00:21:56,560
+Szefie... Myślisz, że te sprawy
+mogą mieć jakiś związek?
+
+278
+00:21:56,720 --> 00:21:58,520
+Mogą, mogą.
+
+279
+00:21:58,680 --> 00:22:03,960
+Tu mamy włamanie, na plebanii
+Natalia mogła zaskoczyć włamywacza.
+
+280
+00:22:04,120 --> 00:22:05,920
+Może to ta sama grupa.
+
+281
+00:22:06,080 --> 00:22:09,040
+- Czy na ulicy jest monitoring?
+- Nie.
+
+282
+00:22:09,200 --> 00:22:12,880
+Jak tu skończycie,
+czekam na was na komendzie.
+
+283
+00:22:13,040 --> 00:22:15,520
+- Tak jest.
+- Na razie.
+
+284
+00:22:54,480 --> 00:22:57,400
+RECEPCJONISTKA: Obiad?
+<font color="#FFFF51">Ojej...</font>
+
+285
+00:22:58,400 --> 00:23:01,760
+<font color="#FFFF51">Portfela zapomniałam!</font>
+<font color="#FFFF51">Gdzie ja mam głowę?</font>
+
+286
+00:23:01,920 --> 00:23:04,400
+Taki dzień, też zakręcona jestem.
+
+287
+00:23:11,040 --> 00:23:13,520
+GIBALSKI: Zdjęcia zapomniałem.
+
+288
+00:23:30,560 --> 00:23:34,240
+- Przepraszam. Możemy zająć chwilkę?
+- Proszę.
+
+289
+00:23:34,400 --> 00:23:38,600
+Nie widziała pani tej kobiety?
+Może pytała o pokój?
+
+290
+00:23:38,760 --> 00:23:41,320
+Może widziała ją pani na ulicy?
+
+291
+00:23:41,480 --> 00:23:43,720
+- Boże...
+- Co się stało?
+
+292
+00:23:43,880 --> 00:23:47,760
+A to jest ta gospodyni
+z Sandomierza?
+
+293
+00:23:47,920 --> 00:23:49,600
+Widziała ją pani?
+
+294
+00:23:49,760 --> 00:23:53,520
+Czy ja ją widziałam?
+Ja jej tutaj wynajęłam pokój.
+
+295
+00:23:53,680 --> 00:23:55,520
+Mam u siebie morderczynię?!
+
+296
+00:23:55,680 --> 00:23:58,720
+Nie wiemy,
+czy ta pani cokolwiek zrobiła.
+
+297
+00:23:58,880 --> 00:24:02,880
+- W którym jest pokoju?
+- No ona jest tam, w 105.
+
+298
+00:24:03,040 --> 00:24:07,040
+- Na pierwszym piętrze.
+- Ma pani zapasowy klucz?
+
+299
+00:24:09,240 --> 00:24:11,040
+SZEPTEM: Maniek...
+
+300
+00:24:22,440 --> 00:24:24,440
+<font color="#8080FF">PUKA</font>
+
+301
+00:24:27,520 --> 00:24:30,440
+Dobra.
+Sytuacja jest taka: wchodzimy.
+
+302
+00:24:30,600 --> 00:24:35,360
+Tylko pamiętaj - to pani Natalka,
+nie chcemy jej przestraszyć.
+
+303
+00:24:40,160 --> 00:24:41,960
+Pani Natalko?
+
+304
+00:24:43,120 --> 00:24:45,120
+Pani Natalko?
+
+305
+00:25:09,880 --> 00:25:11,840
+A niech mnie.
+
+306
+00:25:29,200 --> 00:25:31,640
+MĘŻCZYZNA: Ktoś panią goni?
+<font color="#FFFF51">Nie.</font>
+
+307
+00:25:31,800 --> 00:25:36,480
+<font color="#FFFF51">Kotlety na gazie zostawiłam.</font>
+A, to proszę wsiadać.
+
+308
+00:25:40,200 --> 00:25:42,360
+<font color="#FFFF51">Dziękuję, dziękuję.</font>
+
+309
+00:25:50,840 --> 00:25:55,680
+WOJTEK: Gdyby ksiądz mnie jutro
+potrzebował, do 16.00 mogę pomóc.
+
+310
+00:25:55,840 --> 00:25:59,640
+<font color="#16F158">Bardzo dziękuję. Do widzenia.</font>
+Do widzenia.
+
+311
+00:26:04,480 --> 00:26:06,320
+<font color="#8080FF">DZWONI TELEFON</font>
+
+312
+00:26:08,160 --> 00:26:09,960
+<font color="#16F158">Halo?</font>
+
+313
+00:26:10,120 --> 00:26:15,840
+<font color="aqua">Gibalski i Marczak natrafili</font>
+<font color="aqua">na trop pani Natalii w pensjonacie.</font>
+
+314
+00:26:16,000 --> 00:26:17,800
+<font color="aqua">Ale im uciekła.</font>
+
+315
+00:26:17,960 --> 00:26:22,360
+<font color="#16F158">Gdzie jest ten pensjonat?</font>
+<font color="aqua">Tam jej na bank już nie ma.</font>
+
+316
+00:26:22,520 --> 00:26:27,120
+<font color="aqua">W Sandomierzu doszło dziś</font>
+<font color="aqua">do włamania, właścicielka nie żyje.</font>
+
+317
+00:26:27,280 --> 00:26:30,640
+<font color="aqua">Może na plebanię też się włamali.</font>
+<font color="#16F158">Może.</font>
+
+318
+00:26:30,800 --> 00:26:32,600
+<font color="#16F158">Wysłała SMS-a.</font>
+
+319
+00:26:32,760 --> 00:26:36,520
+<font color="#16F158">Napisała, że to przez nią</font>
+<font color="#16F158">i że prosi o wybaczenie.</font>
+
+320
+00:26:36,680 --> 00:26:39,600
+<font color="aqua">Mam nadzieję,</font>
+<font color="aqua">że ta sprawa się wyjaśni.</font>
+
+321
+00:26:39,760 --> 00:26:41,840
+<font color="aqua">Pozdrawiam.</font>
+<font color="#16F158">Najlepszego.</font>
+
+322
+00:26:47,360 --> 00:26:53,320
+W kartotece nie ma linii papilarnych
+nieboszczyka z plebanii.
+
+323
+00:26:53,480 --> 00:26:58,280
+To, że nie był notowany,
+nie znaczy, że nie był napastnikiem.
+
+324
+00:26:58,440 --> 00:27:00,240
+Mógł należeć do bandy,
+
+325
+00:27:00,400 --> 00:27:03,720
+która brała udział
+w napadzie na Sosnowej.
+
+326
+00:27:03,880 --> 00:27:07,400
+Może chcieli w jedną noc
+zgarnąć jak najwięcej.
+
+327
+00:27:07,560 --> 00:27:08,720
+Dokładnie.
+
+328
+00:27:08,880 --> 00:27:10,680
+<font color="aqua">Pani Natalia mogłaby pomóc.</font>
+
+329
+00:27:10,840 --> 00:27:12,920
+- Ksiądz jej szuka?
+- Tak.
+
+330
+00:27:13,080 --> 00:27:15,720
+Ja też lubię panią Natalię,
+
+331
+00:27:15,880 --> 00:27:21,320
+ale jej zeznania by nam pomogły
+doprowadzić na trop przestępców.
+
+332
+00:27:21,480 --> 00:27:24,160
+Wiemy, co zniknęło
+z domu Jaskółowej?
+
+333
+00:27:24,320 --> 00:27:30,280
+W przybliżeniu. Na pewno biżuteria.
+Zostały opróżnione szkatułki.
+
+334
+00:27:30,440 --> 00:27:33,840
+I obrazy,
+bo po nich są ślady na ścianach.
+
+335
+00:27:34,000 --> 00:27:37,720
+Musimy ustalić,
+kim był nieboszczyk z plebanii.
+
+336
+00:27:37,880 --> 00:27:41,080
+<font color="aqua">Tak jest.</font>
+Nawet nie mamy narzędzia zbrodni.
+
+337
+00:27:41,240 --> 00:27:44,120
+Tłuczek, prasa
+- wszystko jest czyste.
+
+338
+00:27:44,280 --> 00:27:48,240
+<font color="#8080FF">DZWONI TELEFON</font>
+Przepraszam. Tak, Wojtek?
+
+339
+00:27:48,400 --> 00:27:51,640
+Mam nadzieję, że ksiądz ją znajdzie.
+
+340
+00:27:51,800 --> 00:27:56,000
+No dobrze, dziękuję ci.
+Widzimy się w domu.
+
+341
+00:27:56,160 --> 00:27:58,960
+Wojtek pomaga księdzu.
+
+342
+00:28:00,720 --> 00:28:04,720
+Poszukiwania zostały
+do jutra wstrzymane.
+
+343
+00:28:13,560 --> 00:28:17,840
+Dzwonię do niej, ale cały czas
+ma wyłączony telefon.
+
+344
+00:28:18,000 --> 00:28:22,800
+<font color="#16F158">Boi się.</font>
+<font color="#16F158">Trudno przewidzieć kolejny ruch.</font>
+
+345
+00:28:22,960 --> 00:28:26,560
+Nie wiem, co ona zarobiła,
+ale niech już wróci.
+
+346
+00:28:26,720 --> 00:28:30,440
+- Może babci kropelki podam?
+- Dziękuję, dziecko.
+
+347
+00:28:30,600 --> 00:28:34,000
+To miłe, ale wolałabym
+kieliszek koniaku.
+
+348
+00:28:34,160 --> 00:28:36,920
+Kropelkę to i ja się napiję.
+
+349
+00:28:37,080 --> 00:28:39,560
+Wszystkim nam dobrze zrobi.
+
+350
+00:28:39,720 --> 00:28:45,440
+Najbardziej Natalii.
+Jest zimno. Gdzie ona spędzi noc?
+
+351
+00:28:45,600 --> 00:28:48,680
+Da sobie radę. Kto, jak nie Natalia?
+
+352
+00:28:48,840 --> 00:28:54,280
+Ale to jakiś okropny czas jest.
+Jeszcze to włamanie u Jaskółowej.
+
+353
+00:28:54,440 --> 00:28:57,320
+<font color="#16F158">Gdzie? U kogo?</font>
+Na Sosnowej.
+
+354
+00:28:57,480 --> 00:29:01,080
+U Joanny Jaskółowej.
+Mietek mi powiedział.
+
+355
+00:29:03,800 --> 00:29:05,960
+<font color="#16F158">Przepraszam.</font>
+
+356
+00:29:13,160 --> 00:29:15,080
+<font color="#16F158">Halo?</font>
+
+357
+00:29:15,240 --> 00:29:20,640
+<font color="#16F158">Panie Mietku, dowiedziałem się,</font>
+<font color="#16F158">że to włamanie było u Jaskółowej.</font>
+
+358
+00:29:20,800 --> 00:29:23,600
+<font color="#16F158">Czy to ona zginęła?</font>
+<font color="aqua">Tak, niestety.</font>
+
+359
+00:29:25,840 --> 00:29:29,840
+<font color="#16F158">Ja mam u siebie jej biżuterię.</font>
+<font color="aqua">Dlaczego?</font>
+
+360
+00:29:30,000 --> 00:29:35,720
+<font color="#16F158">Nie ufała miejscowym jubilerom.</font>
+<font color="#16F158">Prosiła mnie o pomoc w wycenie.</font>
+
+361
+00:29:35,880 --> 00:29:38,320
+<font color="#16F158">Tu są wszystkie kosztowności.</font>
+
+362
+00:29:38,480 --> 00:29:42,280
+<font color="#16F158">W środku jest kartka</font>
+<font color="#16F158">z opisem rzeczoznawcy.</font>
+
+363
+00:29:42,440 --> 00:29:44,400
+<font color="aqua">Wygląda na bardzo cenną.</font>
+
+364
+00:29:44,560 --> 00:29:50,400
+<font color="aqua">Może złodzieje dostali cynk,</font>
+<font color="aqua">że u Jaskółowej są kosztowności.</font>
+
+365
+00:29:50,560 --> 00:29:55,120
+<font color="aqua">Ona pod przymusem zdradza im,</font>
+<font color="aqua">że biżuteria jest u księdza.</font>
+
+366
+00:29:55,280 --> 00:29:58,800
+<font color="aqua">Oni idą na plebanię,</font>
+<font color="aqua">zaskakuje ich pani Natalia.</font>
+
+367
+00:29:58,960 --> 00:30:01,800
+<font color="aqua">Jednego uderza...</font>
+<font color="#16F158">Coś mi tu nie pasuje.</font>
+
+368
+00:30:01,960 --> 00:30:05,240
+<font color="#8080FF">SYGNAŁ SMS-A</font>
+<font color="aqua">Ale pani Natalia się przyznała.</font>
+
+369
+00:30:05,400 --> 00:30:07,200
+<font color="#16F158">Natalia.</font>
+
+370
+00:30:07,360 --> 00:30:11,440
+<font color="#16F158">"Nigdy nie chciałam nic złego,</font>
+<font color="#16F158">proszę mi wierzyć".</font>
+
+371
+00:30:17,360 --> 00:30:19,200
+<font color="#16F158">Wyłączyła telefon.</font>
+
+372
+00:30:19,360 --> 00:30:22,160
+<font color="aqua">Proszę się nie martwić,</font>
+<font color="aqua">ona uniknie kary.</font>
+
+373
+00:30:22,320 --> 00:30:26,440
+<font color="aqua">Ten czyn podpada</font>
+<font color="aqua">pod obronę konieczną.</font>
+
+374
+00:30:27,480 --> 00:30:32,560
+<font color="aqua">Jadę z tym na komendę. Księdza</font>
+<font color="aqua">musimy wezwać na przesłuchanie.</font>
+
+375
+00:30:32,720 --> 00:30:36,200
+<font color="#16F158">Jutro powinienem</font>
+<font color="#16F158">zacząć jej szukać znowu.</font>
+
+376
+00:30:36,360 --> 00:30:40,000
+<font color="aqua">Właścicielka pensjonatu</font>
+<font color="aqua">i taksówkarz zeznali,</font>
+
+377
+00:30:40,160 --> 00:30:44,520
+<font color="aqua">że pani Natalia</font>
+<font color="aqua">miała czapkę uszatkę i stare palto.</font>
+
+378
+00:30:44,680 --> 00:30:48,000
+<font color="#16F158">To palto zauważyłem.</font>
+<font color="#16F158">Palto babci wzięła.</font>
+
+379
+00:30:48,160 --> 00:30:50,720
+<font color="#16F158">A czapka musi być Emilki.</font>
+
+380
+00:30:51,960 --> 00:30:56,440
+<font color="#16F158">Bardzo dziękuję, że pani</font>
+<font color="#16F158">zechciała posiedzieć z babcią.</font>
+
+381
+00:30:56,600 --> 00:30:58,640
+Przecież to normalne.
+
+382
+00:30:58,800 --> 00:31:01,520
+Oby wszystko się dobrze skończyło.
+
+383
+00:31:01,680 --> 00:31:05,920
+Babcia poszła się zdrzemnąć.
+Ja dziś oka nie zmrużę.
+
+384
+00:31:06,080 --> 00:31:09,800
+<font color="#16F158">Może nie będzie tak źle.</font>
+<font color="#16F158">Odprowadzę was.</font>
+
+385
+00:31:17,480 --> 00:31:20,120
+Proszę o chwilę uwagi.
+
+386
+00:31:23,000 --> 00:31:27,840
+Mamy dwie ważne sprawy:
+zabójstwo na plebanii
+
+387
+00:31:28,000 --> 00:31:31,960
+i włamanie ze skutkiem śmiertelnym
+na Sosnowej.
+
+388
+00:31:32,120 --> 00:31:37,440
+Czy w mieszkaniu Jaskółowej
+znaleźliście jakikolwiek ważny ślad?
+
+389
+00:31:37,600 --> 00:31:41,600
+Niestety nie.
+Włamania dokonali profesjonaliści.
+
+390
+00:31:41,760 --> 00:31:43,560
+Pracowali w rękawiczkach.
+
+391
+00:31:43,720 --> 00:31:47,720
+- Rozmawialiście z mieszkańcami?
+- Nic nie wiedzą.
+
+392
+00:31:47,880 --> 00:31:50,920
+Dzień dobry.
+Chciałam zgłosić zaginięcie.
+
+393
+00:31:51,080 --> 00:31:55,320
+- Ewa.
+- Ewa Kobylicka. Proszę usiąść.
+
+394
+00:31:58,480 --> 00:32:01,320
+Może pani powiedzieć, co się stało?
+
+395
+00:32:01,480 --> 00:32:04,200
+Wyjechałam służbowo, ale wróciłam,
+
+396
+00:32:04,360 --> 00:32:07,000
+bo nie mogę
+się skontaktować z mężem.
+
+397
+00:32:07,160 --> 00:32:11,400
+Nie ma go w pracy, w domu.
+Boję się, że coś się stało.
+
+398
+00:32:11,560 --> 00:32:15,040
+- Imię i nazwisko męża?
+- Bartek Michalski.
+
+399
+00:32:15,200 --> 00:32:17,280
+- A pani?
+- Magda Michalska.
+
+400
+00:32:17,440 --> 00:32:22,000
+Mój mąż nie jest typem balangowicza.
+Nie znika bez słowa.
+
+401
+00:32:22,160 --> 00:32:25,520
+Czy ma pani może
+jakąś fotografię męża?
+
+402
+00:32:25,680 --> 00:32:27,480
+Tak.
+
+403
+00:32:37,120 --> 00:32:38,920
+Przepraszam na chwilę.
+
+404
+00:32:41,160 --> 00:32:43,280
+- Panowie.
+- Tak?
+
+405
+00:32:43,440 --> 00:32:45,840
+SZEPTEM: Jest grubsza sprawa.
+
+406
+00:32:46,000 --> 00:32:47,960
+<font color="aqua">Przecież to on.</font>
+
+407
+00:32:48,120 --> 00:32:50,440
+<font color="aqua">Nasz nieboszczyk z plebanii.</font>
+
+408
+00:32:50,600 --> 00:32:52,640
+<font color="#8080FF">MOŻEJKO WZDYCHA</font>
+
+409
+00:32:52,800 --> 00:32:56,080
+Ewa, ściągnij tutaj psychologa.
+
+410
+00:32:56,240 --> 00:32:58,040
+Ja z nią porozmawiam.
+
+411
+00:32:58,200 --> 00:33:02,480
+Boże, jak ja nie lubię
+przekazywać takich wiadomości.
+
+412
+00:33:02,640 --> 00:33:05,760
+Inspektor Możejko.
+Zapraszam do siebie.
+
+413
+00:33:05,920 --> 00:33:08,120
+Dzień dobry.
+
+414
+00:33:11,120 --> 00:33:14,080
+Ewa Kobylicka,
+komenda w Sandomierzu.
+
+415
+00:33:14,240 --> 00:33:16,800
+Potrzebujemy pomocy psychologa.
+
+416
+00:33:41,320 --> 00:33:45,640
+<font color="#16F158">Panie Wojtku, jest pan gotowy</font>
+<font color="#16F158">na kolejną przejażdżkę?</font>
+
+417
+00:33:45,800 --> 00:33:48,240
+<font color="#16F158">Chyba wiem, gdzie jest Natalia.</font>
+
+418
+00:33:48,400 --> 00:33:51,160
+<font color="#16F158">Dobrze, dziękuję bardzo. Czekam.</font>
+
+419
+00:33:51,320 --> 00:33:54,760
+Synku, przywieziesz ją?
+<font color="#16F158">Przywiozę, babciu.</font>
+
+420
+00:33:54,920 --> 00:33:57,280
+<font color="#16F158">Jak tylko ją znajdę, dam znać.</font>
+
+421
+00:33:57,440 --> 00:34:00,520
+Tylko jej nie mów,
+że się o nią martwiłam.
+
+422
+00:34:00,680 --> 00:34:02,600
+<font color="#16F158">Dobrze.</font>
+Sama jej powiem.
+
+423
+00:34:07,160 --> 00:34:09,600
+<font color="#FFFF51">"Drogi Mateuszu"...</font>
+
+424
+00:34:09,760 --> 00:34:12,160
+<font color="#8080FF">PUKANIE</font>
+
+425
+00:34:12,320 --> 00:34:17,760
+Zacerowałam, ile się dało,
+ale to palto, bez obrazy, liche.
+
+426
+00:34:17,920 --> 00:34:21,240
+Myślałam,
+że na plebanii się pani powodzi.
+
+427
+00:34:21,400 --> 00:34:25,280
+Nic pani nie zjadła.
+<font color="#FFFF51">Proszę się o mnie nie martwić.</font>
+
+428
+00:34:25,440 --> 00:34:30,840
+Jak mam się nie martwić? Wygląda
+pani jak chodzące nieszczęście.
+
+429
+00:34:31,000 --> 00:34:34,000
+Jakby co, to będę w kuchni.
+<font color="#FFFF51">Dziękuję.</font>
+
+430
+00:34:35,680 --> 00:34:39,840
+<font color="#FFFF51">"Drogi Mateuszu"...</font>
+
+431
+00:34:42,920 --> 00:34:46,880
+<font color="#FFFF51">Dziękuję za dobre serce,</font>
+<font color="#FFFF51">ale ja potrzebuję spo...</font>
+
+432
+00:34:47,040 --> 00:34:49,080
+<font color="#16F158">Witaj, Natalio.</font>
+
+433
+00:34:49,240 --> 00:34:51,800
+<font color="#FFFF51">Jak mnie ksiądz tutaj znalazł?</font>
+
+434
+00:34:51,960 --> 00:34:57,200
+<font color="#16F158">Opowiadałaś kiedyś o przemiłej</font>
+<font color="#16F158">gospodyni z Koprzywnicy.</font>
+
+435
+00:34:59,040 --> 00:35:03,520
+<font color="#FFFF51">To koniec. Jestem przestępczynią.</font>
+
+436
+00:35:03,680 --> 00:35:07,240
+<font color="#FFFF51">Przez głupotę zabiłam człowieka.</font>
+<font color="#16F158">Natalio...</font>
+
+437
+00:35:07,400 --> 00:35:09,160
+<font color="#16F158">Uspokój się.</font>
+
+438
+00:35:09,320 --> 00:35:13,920
+<font color="#16F158">Uspokój się i powiedz mi,</font>
+<font color="#16F158">co się tamtego poranka wydarzyło.</font>
+
+439
+00:35:14,080 --> 00:35:16,440
+<font color="#16F158">Czy to o to chodziło?</font>
+
+440
+00:35:16,600 --> 00:35:18,400
+<font color="#FFFF51">Skąd ksiądz to ma?</font>
+
+441
+00:35:18,560 --> 00:35:23,800
+<font color="#FFFF51">Przecież on mi w łazience wpadł...</font>
+<font color="#16F158">Nie wpadł.</font>
+
+442
+00:35:23,960 --> 00:35:28,080
+<font color="#16F158">Znalazłem go obok muszli,</font>
+<font color="#16F158">na podłodze.</font>
+
+443
+00:35:28,240 --> 00:35:30,480
+<font color="#FFFF51">Jakie to szczęście!</font>
+
+444
+00:35:32,280 --> 00:35:36,400
+<font color="#FFFF51">Czyli ten człowiek umarł na marne.</font>
+
+445
+00:35:36,560 --> 00:35:39,080
+<font color="#16F158">O czym ty mówisz?</font>
+
+446
+00:35:39,240 --> 00:35:43,960
+<font color="#FFFF51">Powiem wszystko, powiem.</font>
+<font color="#FFFF51">To mi przyniesie ulgę.</font>
+
+447
+00:35:44,120 --> 00:35:47,360
+<font color="#FFFF51">Nie mogłam się oprzeć,</font>
+<font color="#FFFF51">zajrzałam do woreczka.</font>
+
+448
+00:35:47,520 --> 00:35:50,280
+<font color="#FFFF51">A tam na wycenie było napisane,</font>
+
+449
+00:35:50,440 --> 00:35:54,120
+<font color="#FFFF51">że ten pierścionek</font>
+<font color="#FFFF51">jest wart 20 tysięcy.</font>
+
+450
+00:35:54,280 --> 00:35:56,080
+<font color="#FFFF51">Nie mogłam się oprzeć.</font>
+
+451
+00:35:56,240 --> 00:36:00,160
+<font color="#FFFF51">Nigdy nie miałam na palcu</font>
+<font color="#FFFF51">czegoś tak drogiego.</font>
+
+452
+00:36:00,320 --> 00:36:04,240
+<font color="#16F158">Poszłaś do łazienki go przymierzyć</font>
+<font color="#16F158">i go zgubiłaś?</font>
+
+453
+00:36:04,400 --> 00:36:06,160
+<font color="#FFFF51">Przeraziłam się.</font>
+
+454
+00:36:06,320 --> 00:36:09,840
+<font color="#FFFF51">Wzięłam palto babci,</font>
+<font color="#FFFF51">czapkę Emilki i uciekłam.</font>
+
+455
+00:36:11,400 --> 00:36:15,400
+<font color="#16F158">A co ma z tym wspólnego</font>
+<font color="#16F158">ten zmarły człowiek?</font>
+
+456
+00:36:16,560 --> 00:36:19,000
+<font color="#FFFF51">Pani z pensjonatu powiedziała,</font>
+
+457
+00:36:19,160 --> 00:36:22,680
+<font color="#FFFF51">że na plebanii</font>
+<font color="#FFFF51">znaleziono martwego człowieka.</font>
+
+458
+00:36:22,840 --> 00:36:26,600
+<font color="#FFFF51">Pomyślałam, że właściciel</font>
+<font color="#FFFF51">kosztowności zobaczył,</font>
+
+459
+00:36:26,760 --> 00:36:29,320
+<font color="#FFFF51">że nie ma pierścionka z brylantem,</font>
+
+460
+00:36:29,480 --> 00:36:31,920
+<font color="#FFFF51">i dostał zawału.</font>
+
+461
+00:36:32,080 --> 00:36:34,680
+<font color="#16F158">Nikogo nie zabiłaś, Natalio.</font>
+<font color="#FFFF51">Aha!</font>
+
+462
+00:36:34,840 --> 00:36:38,520
+<font color="#16F158">Uspokój się. Zbieraj się.</font>
+
+463
+00:36:38,680 --> 00:36:42,040
+<font color="#16F158">Jedziemy do domu. Chodź, pomogę ci.</font>
+
+464
+00:36:47,480 --> 00:36:51,200
+Wziąłem na wszelki wypadek
+krople uspokajające,
+
+465
+00:36:51,360 --> 00:36:53,280
+ale nie są potrzebne.
+
+466
+00:36:53,440 --> 00:36:58,920
+W tym stanie zgłosi się na policję?
+<font color="#16F158">Nie, na pewno nie.</font>
+
+467
+00:36:59,080 --> 00:37:02,720
+Odkąd spotykam się z Ewą,
+
+468
+00:37:02,880 --> 00:37:06,640
+zauważyłem u siebie
+spore postępy dedukcyjne.
+
+469
+00:37:06,800 --> 00:37:10,720
+Ta sprawa akurat
+absolutnie mnie przerasta.
+
+470
+00:37:10,880 --> 00:37:14,280
+Jeśli nie pani Natalia, to kto?
+
+471
+00:37:15,440 --> 00:37:18,280
+<font color="#16F158">Wie pan, ja mam pewną hipotezę.</font>
+
+472
+00:37:18,440 --> 00:37:23,320
+<font color="#16F158">Ale żeby mieć pewność, potrzebuję</font>
+<font color="#16F158">jeszcze dwóch informacji.</font>
+
+473
+00:37:23,480 --> 00:37:26,680
+<font color="#16F158">Dlatego proszę mnie zawieźć</font>
+<font color="#16F158">na komendę,</font>
+
+474
+00:37:26,840 --> 00:37:28,800
+<font color="#16F158">a Natalię - na plebanię.</font>
+
+475
+00:37:28,960 --> 00:37:32,840
+Jasne.
+Bo ja też miałbym prośbę...
+
+476
+00:37:33,000 --> 00:37:34,800
+<font color="#16F158">Tak?</font>
+
+477
+00:37:34,960 --> 00:37:38,480
+Czy mogę pochwalić się
+swoim pacjentom,
+
+478
+00:37:38,640 --> 00:37:42,040
+że pomagałem księdzu
+rozwiązać tę sprawę?
+
+479
+00:37:42,200 --> 00:37:44,800
+<font color="#8080FF">ŚMIEJE SIĘ</font>
+
+480
+00:37:44,960 --> 00:37:48,400
+<font color="#16F158">Oczywiście, że tak.</font>
+
+481
+00:37:48,560 --> 00:37:51,440
+Ale ja nie rozumiem...
+
+482
+00:37:51,600 --> 00:37:55,040
+Ksiądz znalazł Natalię, tak?
+
+483
+00:37:55,200 --> 00:37:59,360
+A my nie możemy jej przesłuchać?
+Porozmawiać z nią?
+
+484
+00:37:59,520 --> 00:38:01,320
+<font color="#16F158">Możecie, jak najbardziej,</font>
+
+485
+00:38:01,480 --> 00:38:06,040
+<font color="#16F158">tylko najpierw chciałbym</font>
+<font color="#16F158">przedstawić swoją wersję wydarzeń.</font>
+
+486
+00:38:06,200 --> 00:38:08,880
+No dobrze, słuchamy.
+
+487
+00:38:09,040 --> 00:38:14,560
+<font color="#16F158">Natalia nie uciekła z plebanii</font>
+<font color="#16F158">po odparciu ataku włamywacza.</font>
+
+488
+00:38:14,720 --> 00:38:17,560
+<font color="#16F158">Powodem jej zniknięcia było to.</font>
+
+489
+00:38:20,160 --> 00:38:24,920
+Pierścionek?
+<font color="#16F158">Jest wart około 20 tysięcy złotych.</font>
+
+490
+00:38:25,080 --> 00:38:27,960
+<font color="#16F158">Natalia przymierzała go w łazience.</font>
+
+491
+00:38:28,120 --> 00:38:33,200
+<font color="#16F158">Przeraziła się, że wpadł do sedesu,</font>
+<font color="#16F158">kiedy jej wypadł z rąk.</font>
+
+492
+00:38:33,360 --> 00:38:37,600
+<font color="#16F158">Bojąc się konsekwencji, dała nogę.</font>
+
+493
+00:38:37,760 --> 00:38:41,200
+<font color="#16F158">Pierścionek był własnością</font>
+<font color="#16F158">pani Jaskółowej.</font>
+
+494
+00:38:41,360 --> 00:38:44,280
+<font color="#16F158">Prosiła mnie o pomoc</font>
+<font color="#16F158">w wycenie biżuterii.</font>
+
+495
+00:38:44,440 --> 00:38:47,920
+<font color="#16F158">Skontaktowałem się z rzeczoznawcą.</font>
+
+496
+00:38:48,080 --> 00:38:51,720
+<font color="#16F158">Miałem go przedwczoraj</font>
+<font color="#16F158">oddać właścicielce.</font>
+
+497
+00:38:51,880 --> 00:38:56,320
+<font color="#16F158">Ale to całe zamieszanie</font>
+<font color="#16F158">z nieboszczykiem na plebanii...</font>
+
+498
+00:38:56,480 --> 00:39:01,760
+<font color="#16F158">Wypadło mi z głowy.</font>
+<font color="aqua">Mamy tę biżuterię w depozycie.</font>
+
+499
+00:39:01,920 --> 00:39:04,240
+<font color="#16F158">Natomiast, kontynuując,</font>
+
+500
+00:39:04,400 --> 00:39:09,840
+<font color="#16F158">myślę, że przypadkowy przechodzień</font>
+<font color="#16F158">zauważył włamywaczy na Sosnowej.</font>
+
+501
+00:39:10,000 --> 00:39:12,520
+<font color="#16F158">Oni przestraszyli się,</font>
+<font color="#16F158">skatowali go.</font>
+
+502
+00:39:12,680 --> 00:39:14,440
+<font color="#16F158">On stracił przytomność.</font>
+
+503
+00:39:14,600 --> 00:39:18,600
+<font color="#16F158">Oni sądzili, że nie żyje,</font>
+<font color="#16F158">i go zostawili.</font>
+
+504
+00:39:18,760 --> 00:39:22,600
+<font color="#16F158">Ocknął się i przyszedł na plebanię.</font>
+<font color="#16F158">Miał blisko.</font>
+
+505
+00:39:22,760 --> 00:39:25,520
+<font color="#16F158">Wszedł przez otwarte drzwi i umarł.</font>
+
+506
+00:39:27,560 --> 00:39:31,080
+Dlaczego Natalia go nie widziała?
+<font color="#16F158">Minęli się.</font>
+
+507
+00:39:31,240 --> 00:39:35,480
+<font color="#16F158">Natalia wybiegła,</font>
+<font color="#16F158">nie zamykając drzwi.</font>
+
+508
+00:39:35,640 --> 00:39:38,160
+No tak. Hipoteza jest logiczna.
+
+509
+00:39:38,320 --> 00:39:41,960
+Tym bardziej,
+że nieboszczyk nie był włamywaczem.
+
+510
+00:39:42,120 --> 00:39:45,440
+To młody przedsiębiorca
+- Bartek Michalski.
+
+511
+00:39:45,600 --> 00:39:47,400
+Biegał przed pracą.
+
+512
+00:39:47,560 --> 00:39:51,800
+Znalazł się w niewłaściwym miejscu
+o niewłaściwej porze.
+
+513
+00:39:51,960 --> 00:39:54,760
+<font color="#16F158">To informacja, której mi brakowało.</font>
+
+514
+00:39:54,920 --> 00:39:57,760
+Trudno zweryfikować wersję księdza,
+
+515
+00:39:57,920 --> 00:40:02,880
+bo nie wiemy, co się wydarzyło
+ani na Sosnowej, ani na plebanii.
+
+516
+00:40:03,040 --> 00:40:07,720
+Na ulicy nie ma monitoringu.
+<font color="#16F158">Może dopisze nam szczęście.</font>
+
+517
+00:40:16,600 --> 00:40:18,760
+Jest, proszę bardzo!
+
+518
+00:40:20,200 --> 00:40:22,080
+Tutaj!
+
+519
+00:40:22,240 --> 00:40:26,240
+- Jesteś pewny?
+- Znam ten typ. Agatka ma taki sam.
+
+520
+00:40:26,400 --> 00:40:28,600
+To szukamy właściciela.
+
+521
+00:40:28,760 --> 00:40:30,600
+Jak ksiądz na to wpadł?
+
+522
+00:40:30,760 --> 00:40:36,160
+Parafianin mu powiedział,
+że to taki nowoczesny anioł stróż.
+
+523
+00:40:36,320 --> 00:40:40,240
+Właściciel auta
+miał elektronicznego anioła stróża.
+
+524
+00:40:40,400 --> 00:40:42,560
+Kamera z trybem parkingowym.
+
+525
+00:40:42,720 --> 00:40:46,120
+Kamera rejestruje ruch
+przed samochodem,
+
+526
+00:40:46,280 --> 00:40:49,160
+nawet jeżeli silnik jest wyłączony.
+
+527
+00:40:49,320 --> 00:40:52,760
+Zobaczcie, co mi przynieśliście.
+
+528
+00:41:12,120 --> 00:41:15,840
+Cofnij do tego momentu,
+jak zdejmują kominiarki.
+
+529
+00:41:25,080 --> 00:41:28,600
+Znam tego gościa. To jest "Bimber".
+
+530
+00:41:28,760 --> 00:41:32,720
+- Rok temu wyszedł z mamra.
+- To szybko tam wróci.
+
+531
+00:41:32,880 --> 00:41:35,640
+Mietek, porozmawiaj z informatorem.
+
+532
+00:41:35,800 --> 00:41:39,440
+<font color="aqua">Szczęście nam dopisało.</font>
+Ktoś szczęściu pomógł.
+
+533
+00:41:39,600 --> 00:41:41,400
+<font color="#8080FF">GIBALSKI CHRZĄKA</font>
+
+534
+00:41:43,400 --> 00:41:47,680
+Szybciej, panowie!
+Zmieniamy teren na kilka miesięcy.
+
+535
+00:41:47,840 --> 00:41:51,640
+Paser się chowa,
+nie odbiera telefonów.
+
+536
+00:41:51,800 --> 00:41:53,760
+Coś mi tu śmierdzi.
+
+537
+00:41:53,920 --> 00:41:57,960
+- Dokąd zawijamy fanty?
+- Mam gościa na Wybrzeżu.
+
+538
+00:41:58,120 --> 00:42:00,520
+Obiecał, że weźmie.
+
+539
+00:42:00,680 --> 00:42:03,040
+<font color="#8080FF">ŁOSKOT</font>
+
+540
+00:42:03,200 --> 00:42:07,600
+<font color="aqua">Policja! Nie ruszać się!</font>
+Policja! Łapy do tyłu, już!
+
+541
+00:42:07,760 --> 00:42:10,520
+Grzecznie mi tu!
+
+542
+00:42:10,680 --> 00:42:13,480
+- Szlag!
+- Nie szlag, tylko dożywocie.
+
+543
+00:42:13,640 --> 00:42:18,480
+Dobrze, że zrobiłaś z nim porządek.
+Dawno miałam to wyrzucić.
+
+544
+00:42:18,640 --> 00:42:23,600
+<font color="#FFFF51">Daj spokój.</font>
+Moja droga. Pamiętaj o jednym.
+
+545
+00:42:23,760 --> 00:42:28,800
+Jesteśmy rodziną. To znaczy,
+że się wspieramy i kochamy.
+
+546
+00:42:28,960 --> 00:42:32,520
+Mateusz wziąłby kredyt,
+ja bym wzięła kredyt
+
+547
+00:42:32,680 --> 00:42:35,960
+i spłacilibyśmy
+ten cholerny pierścionek.
+
+548
+00:42:36,120 --> 00:42:38,600
+<font color="#8080FF">NATALIA SZLOCHA</font>
+Nie chlip.
+
+549
+00:42:38,760 --> 00:42:44,720
+Dobrze, że nie skasowałaś ferrari.
+Bo byśmy trawę tylko jedli.
+
+550
+00:42:44,880 --> 00:42:47,400
+Dzień dobry! Dzień dobry!
+
+551
+00:42:49,520 --> 00:42:52,680
+Nie wiem, jak to powiedzieć,
+
+552
+00:42:52,840 --> 00:42:57,160
+bo łatwiej przychodzi mi
+być szorstkim, ale powiem.
+
+553
+00:42:57,320 --> 00:42:59,120
+Jako przyjaciel...
+
+554
+00:43:02,880 --> 00:43:06,320
+WZRUSZONY: Dziękuję,
+że pani jest z nami.
+
+555
+00:43:06,480 --> 00:43:09,320
+<font color="#FFFF51">WZRUSZONA: Dziękuję, dziękuję.</font>
+
+556
+00:43:09,480 --> 00:43:13,640
+Koniec świata!
+<font color="#8080FF">NATALIA PŁACZE</font>
+
+557
+00:43:26,000 --> 00:43:29,040
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+558
+00:43:29,200 --> 00:43:33,040
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+559
+00:43:55,280 --> 00:43:57,200
+
+
