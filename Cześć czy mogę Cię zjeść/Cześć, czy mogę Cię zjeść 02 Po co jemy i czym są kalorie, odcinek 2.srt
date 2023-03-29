@@ -59,7 +59,7 @@ Cześć! Możesz nas zjeść!
 15
 00:01:16,688 --> 00:01:23,888
 My jesteśmy fast foodami, niezdrowymi, tłuszczochami. Mamy cukier i kalorie,
-zaraz się nie zbliźcie z podnie.
+zaraz się nie zmieści spodnie.
 
 16
 00:01:23,888 --> 00:01:27,888
@@ -70,7 +70,7 @@ Cześć! Możesz nas zjeść!
 Możesz nas zjeść!
 
 18
-00:01:36,272 --> 00:01:45,272
+00:01:36,750 --> 00:01:45,272
 Ja nie mogę tego pojąć. Chcesz mi powiedzieć, że każdy z nas ma pewną liczbę
 kalorii? I to jest paliwo dla ludzi, żeby mogli żyć?
 
@@ -122,7 +122,7 @@ Dobrze powiedziane pomidorze. Ja na ten przykład posiadam kawałek pomidora,
 29
 00:02:50,272 --> 00:03:01,272
 Nie chcę tutaj prawda za bardzo mówić o sobie górnolotnie, ale czuję, że
-posiadam więcej tych kalorii niż sama sałata lub geyserka.
+posiadam więcej tych kalorii niż sama sałata lub kaiserka.
 
 30
 00:03:01,272 --> 00:03:08,272
@@ -372,7 +372,7 @@ boli nas i nie mamy ochoty na zabawę, tylko chce nam się spać.
 
 91
 00:07:02,976 --> 00:07:05,736
-Ej, niepomyślałem o tym.
+O jej, niepomyślałem o tym.
 
 92
 00:07:05,736 --> 00:07:09,496
@@ -404,11 +404,11 @@ A to zdecydowanie za mało.
 
 99
 00:07:35,456 --> 00:07:42,976
-Ej, Pani Aldonu, biegnę do sklepu, żeby kupić te wszystkie produkty.
+O jej, Pani Aldonu, biegnę do sklepu, żeby kupić te wszystkie produkty.
 
 100
 00:07:42,976 --> 00:07:45,936
-Ryż, mięso, banany, owrocze.
+Ryż, mięso, banany, owoce.
 
 101
 00:07:45,936 --> 00:07:50,616
@@ -432,7 +432,7 @@ To są kalorie.
 
 106
 00:08:03,576 --> 00:08:06,896
-I chociaż nie widać ich kołym okiem, bo są tak malutkie,
+I chociaż nie widać ich gołym okiem, bo są tak malutkie,
 
 107
 00:08:06,896 --> 00:08:09,056
@@ -443,203 +443,183 @@ to nie da się bez nich żyć.
 Pomidor!
 
 109
-00:08:12,176 --> 00:08:14,176
+00:08:12,151 --> 00:08:14,151
 Hej! Wy nie możecie tak krzyczeć!
 
 110
-00:08:14,176 --> 00:08:16,176
-A ty już jesteś przeciwna!
-
-111
-00:08:16,176 --> 00:08:17,176
-Pabidon! Pabidon!
-
-112
 00:08:17,176 --> 00:08:22,176
 Wy nie możecie tak krzyczeć, bo wszyscy się dowiedzą, że nasza lodówka jest
 magiczna!
 
-113
+111
 00:08:22,176 --> 00:08:25,176
 Bo my już chcemy wiedzieć, Panie Aldono, s'il vous plaît.
 
-114
+112
 00:08:25,176 --> 00:08:26,176
 Pabidon!
 
-115
+113
 00:08:26,176 --> 00:08:27,176
 Kto wygrał?
 
-116
+114
 00:08:27,176 --> 00:08:29,176
 Ale co wygrał? O co chodzi?
 
-117
+115
 00:08:29,176 --> 00:08:33,176
 No, my chcemy wiedzieć, kto ma najwięcej kalorii.
 
-118
+116
 00:08:33,176 --> 00:08:38,176
 I czy mamy się tych kalorii bać, że one są takie małe albo duże?
 
-119
+117
 00:08:38,176 --> 00:08:43,176
-To znaczy, że jeśli mam dużo kaloria, to dobrze, tak? Czy źle?
+jeśli mam dużo kaloria, to dobrze, tak? Czy źle?
 
-120
+118
 00:08:43,176 --> 00:08:47,176
 No bo w całej naszej lodówce zaczarowane już o tym głośno.
 
-121
+119
 00:08:47,176 --> 00:08:49,176
 Ale dlaczego bać się kalorii?
 
-122
+120
 00:08:49,176 --> 00:08:50,176
 Pomidor!
 
-123
+121
 00:08:50,176 --> 00:08:53,176
 No bo my się ich boimy, Panie Aldono.
 
-124
-00:08:53,176 --> 00:08:57,176
+122
+00:08:53,821 --> 00:08:57,176
 Eee, ona chyba zwariowała, ty!
 
-125
+123
 00:08:57,176 --> 00:08:58,176
 Pomidor!
 
-126
+124
 00:08:58,176 --> 00:09:02,176
 Może sama jest głodna i potrzebuje tych, no, kalorii.
 
-127
+125
 00:09:03,176 --> 00:09:07,176
 Czy wszystko z Panią w porządku, Panie Aldono?
 
-128
+126
 00:09:07,176 --> 00:09:10,176
 Oczywiście, że tak. Oczywiście, że tak.
 
-129
+127
 00:09:10,176 --> 00:09:12,176
 A wy nie bójcie się kalorii.
 
-130
+128
 00:09:12,176 --> 00:09:18,176
 Chociaż na pewno na widok jakiegoś tam ciastka albo czekolady
 
-131
+129
 00:09:18,176 --> 00:09:22,176
 słyszeliście, ojej, ile to ma kalorii.
 
-132
+130
 00:09:23,176 --> 00:09:27,176
 No bo są produkty, które są bardziej kaloryczne i mniej kaloryczne.
 
-133
-00:09:27,176 --> 00:09:31,176
+131
+00:09:27,176 --> 00:09:31,432
 Na przykład taki ogórek. On ma tylko sześć kalorii.
 
-134
-00:09:31,176 --> 00:09:35,176
+132
+00:09:31,798 --> 00:09:35,176
 No ale pizza to już tysiąc dwieście.
 
-135
+133
 00:09:35,872 --> 00:09:39,872
 A ile ja mam kalorii, jeśli mogę zapytać?
 
-136
+134
 00:09:39,872 --> 00:09:40,872
 Ty?
 
-137
+135
 00:09:40,872 --> 00:09:42,872
 Sto czternaście.
 
-138
+136
 00:09:43,872 --> 00:09:45,872
 To bardzo dobrze.
 
-139
+137
 00:09:45,872 --> 00:09:47,872
 Jestem dumny, dziękuję.
 
-140
+138
 00:09:47,872 --> 00:09:48,872
 A ja? A ja?
 
-141
+139
 00:09:48,872 --> 00:09:51,872
 A tobie już mówiłam, trzysta.
 
-142
+140
 00:09:51,872 --> 00:09:53,872
 Chciałem być pewnym.
 
-143
+141
 00:09:53,872 --> 00:09:55,872
 Mam więcej niż banan.
 
-144
+142
 00:09:55,872 --> 00:09:59,872
-Chucha wygrałem, wygrałem ci stakalofia.
+hurra wygrałem, wygrałem ci stakalofia.
 
-145
+143
 00:09:59,872 --> 00:10:00,872
 Pomidor?
 
-146
+144
 00:10:00,872 --> 00:10:04,872
 A to tylko dwadzieścia sześć pomidorku.
 
-147
+145
 00:10:04,872 --> 00:10:05,872
 Pomidor!
 
-148
+146
 00:10:06,872 --> 00:10:08,872
 Tak pomidorku, tak mało.
 
-149
+147
 00:10:09,872 --> 00:10:11,872
 No już, nie bójcie się o kalorii.
 
-150
+148
 00:10:11,872 --> 00:10:15,872
 Ważne, żeby zachować umiar po naszych ubraniach.
 
-151
+149
 00:10:15,872 --> 00:10:20,872
 Najlepiej widać, czy jemy za dużo, czy za mało kalorii.
 
-152
+150
 00:10:21,872 --> 00:10:23,872
 Ma się rozumieć Pani Aldono?
 
-153
+151
 00:10:23,872 --> 00:10:25,872
 Oczywiście.
 
-154
-00:10:27,872 --> 00:10:31,872
+152
+00:10:28,303 --> 00:10:31,872
 Co ja z nimi mam z tymi urwisami?
 
-155
-00:10:34,872 --> 00:10:36,872
+153
+00:10:35,883 --> 00:10:36,872
 Pomidor!
-
-156
-00:10:38,918 --> 00:10:40,918
-epicka
-
-157
-00:11:08,918 --> 00:11:12,078
-napisy stworzone przez społeczność Amara.org
-
-158
-00:11:14,426 --> 00:11:19,027
-www.youtube.com
 
