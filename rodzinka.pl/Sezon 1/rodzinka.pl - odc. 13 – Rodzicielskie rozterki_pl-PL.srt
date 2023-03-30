@@ -1,0 +1,1457 @@
+1
+00:00:13,320 --> 00:00:15,320
+To jestem ja?
+
+2
+00:00:15,480 --> 00:00:17,280
+<font color="#FFFF51">To jest Kuba.</font>
+
+3
+00:00:17,440 --> 00:00:20,960
+<font color="#FFFF51">Maluszek, dopiero co się urodził?</font>
+Pokażcie.
+
+4
+00:00:23,160 --> 00:00:25,040
+Jestem siny?
+
+5
+00:00:25,200 --> 00:00:27,720
+<font color="#FFFF51">Wiesz, jak to przeraziło tatę?</font>
+
+6
+00:00:27,880 --> 00:00:30,960
+<font color="#16F158">Nie przesadzaj.</font>
+<font color="#16F158">Byłem trochę zmęczony.</font>
+
+7
+00:00:31,120 --> 00:00:33,040
+<font color="#FFFF51">Byłeś biały jak ściana.</font>
+
+8
+00:00:33,200 --> 00:00:36,520
+<font color="#16F158">Wszystko przez lekarza</font>
+<font color="#16F158">i ten test Apgara.</font>
+
+9
+00:00:36,680 --> 00:00:38,480
+Jaki test?
+
+10
+00:00:38,640 --> 00:00:43,640
+<font color="#FFFF51">To jest taki test, który</font>
+<font color="#FFFF51">przeprowadzają po urodzeniu dziecka.</font>
+
+11
+00:00:43,800 --> 00:00:47,720
+<font color="#FFFF51">Sprawdzają wagę, wzrost,</font>
+<font color="#FFFF51">kolor skóry, ciśnienie.</font>
+
+12
+00:00:47,880 --> 00:00:51,440
+Ledwie się człowiek urodził
+i już test?
+
+13
+00:00:51,600 --> 00:00:55,200
+<font color="#FFFF51">Dostałeś osiem punktów</font>
+<font color="#FFFF51">i to przeraziło ojca.</font>
+
+14
+00:00:55,360 --> 00:00:57,440
+- To źle?
+- Taka czwórka.
+
+15
+00:00:57,600 --> 00:00:59,760
+Czwórka ekstra stopień.
+
+16
+00:00:59,920 --> 00:01:04,920
+<font color="#FFFF51">Poszło ci trochę lepiej niż</font>
+<font color="#FFFF51">ostatnio na półrocze z polskiego.</font>
+
+17
+00:01:05,080 --> 00:01:09,840
+Tata też jest przerażony,
+jak widzi wyniki naszych testów.
+
+18
+00:01:10,000 --> 00:01:11,800
+Też jest czasem siny.
+
+19
+00:01:15,840 --> 00:01:22,440
+<font color="#8080FF">PIOSENKA</font>
+Więcej, jeśli się da!
+Błagam o więcej każdego dnia!
+
+20
+00:01:23,360 --> 00:01:30,240
+I chociaż nie śpię już okrągły rok
+i zawsze za nimi o krok!
+
+21
+00:01:30,880 --> 00:01:37,560
+Więcej, jeśli się da!
+Miłości więcej każdego dnia!
+
+22
+00:01:51,640 --> 00:01:53,440
+<font color="#16F158">Kuba.</font>
+
+23
+00:01:53,600 --> 00:01:56,080
+<font color="#8080FF">KUBA PRZESTAJE STUKAĆ</font>
+<font color="#16F158">Dzięki.</font>
+
+24
+00:02:07,520 --> 00:02:09,800
+<font color="#16F158">Kuba!</font>
+Co?
+
+25
+00:02:09,960 --> 00:02:12,800
+<font color="#16F158">Nogi. Nie stukaj,</font>
+<font color="#16F158">bo przeszkadzasz.</font>
+
+26
+00:02:12,960 --> 00:02:16,200
+<font color="#FFFF51">Przecież oglądamy.</font>
+<font color="#16F158">Ale mnie przeszkadza.</font>
+
+27
+00:02:16,360 --> 00:02:20,320
+<font color="#FFFF51">Nie zwracaj uwagi.</font>
+<font color="#16F158">Jak, skoro mi przeszkadza?</font>
+
+28
+00:02:20,480 --> 00:02:22,760
+<font color="#FFFF51">Przesadzasz, kotku.</font>
+
+29
+00:02:23,880 --> 00:02:27,040
+<font color="#16F158">Kacper, weź to ciszej.</font>
+Nic nie słychać.
+
+30
+00:02:27,200 --> 00:02:29,200
+Dacie pooglądać czy nie?
+
+31
+00:02:36,960 --> 00:02:41,000
+<font color="#8080FF">ODGŁOS PYKANIA</font>
+
+32
+00:02:42,640 --> 00:02:44,440
+<font color="#16F158">Tomek.</font>
+
+33
+00:02:44,600 --> 00:02:46,400
+<font color="#16F158">Tomek.</font>
+
+34
+00:02:47,680 --> 00:02:49,480
+<font color="#16F158">Tomek!</font>
+<font color="#FFFF51">Ludwik.</font>
+
+35
+00:02:49,640 --> 00:02:51,440
+<font color="#16F158">Przecież...</font>
+
+36
+00:02:53,320 --> 00:02:58,080
+<font color="#8080FF">KACPER GŁOŚNO POCIĄGA NOSEM</font>
+
+37
+00:02:59,160 --> 00:03:02,280
+<font color="#16F158">Czy nie możemy</font>
+<font color="#16F158">obejrzeć tego w spokoju?</font>
+
+38
+00:03:02,440 --> 00:03:06,200
+<font color="#FFFF51">Katar ma.</font>
+<font color="#16F158">Niech wydmucha,a nie wciąga i zjada.</font>
+
+39
+00:03:06,360 --> 00:03:08,160
+<font color="#FFFF51">Daj spokój.</font>
+
+40
+00:03:08,320 --> 00:03:11,720
+<font color="#16F158">Puszczą raz</font>
+<font color="#16F158">coś ciekawego w telewizji,</font>
+
+41
+00:03:11,880 --> 00:03:15,640
+<font color="#16F158">to jeden ćmokta,</font>
+<font color="#16F158">drugi charka, a trzeci stuka.</font>
+
+42
+00:03:15,800 --> 00:03:18,480
+<font color="#8080FF">WSZYSCY GO UCISZAJĄ</font>
+
+43
+00:03:22,920 --> 00:03:25,840
+- Daj.
+- Przełączymy na fajniejszy film?
+
+44
+00:03:35,360 --> 00:03:37,160
+<font color="#FFFF51">Co jest?</font>
+
+45
+00:03:37,920 --> 00:03:40,280
+Mogę sobie zrobić przerwę?
+
+46
+00:03:40,440 --> 00:03:42,360
+<font color="#FFFF51">Ile ci jeszcze zostało?</font>
+
+47
+00:03:42,520 --> 00:03:46,760
+Muszę odmienić przez tryby i czasy
+czasownik "mleć".
+
+48
+00:03:46,920 --> 00:03:51,760
+<font color="#FFFF51">To dawaj. To ci zajmie pięć minut.</font>
+<font color="#FFFF51">Przerwę zrobisz później.</font>
+
+49
+00:03:51,920 --> 00:03:53,720
+Czas przeszły.
+
+50
+00:03:53,880 --> 00:03:55,680
+<font color="#FFFF51">No.</font>
+
+51
+00:03:55,840 --> 00:03:57,920
+<font color="#FFFF51">Pierwszą osobę ci pomogę.</font>
+
+52
+00:03:58,080 --> 00:04:00,320
+<font color="#FFFF51">Ja mełłem. Pisz.</font>
+
+53
+00:04:00,480 --> 00:04:02,280
+Dwa "ł"?
+
+54
+00:04:02,440 --> 00:04:05,400
+<font color="#FFFF51">Ja mełłem, ty mełłeś. Ona?</font>
+
+55
+00:04:07,160 --> 00:04:09,800
+Mełła?
+<font color="#FFFF51">Bardzo dobrze.</font>
+
+56
+00:04:12,840 --> 00:04:15,320
+<font color="#FFFF51">Teraz liczba mnoga.</font>
+
+57
+00:04:16,000 --> 00:04:17,800
+<font color="#FFFF51">My?</font>
+
+58
+00:04:19,760 --> 00:04:23,560
+My mełlibyśmy?
+<font color="#FFFF51">Nie. My mełliśmy.</font>
+
+59
+00:04:23,720 --> 00:04:26,520
+My mełliśmy. Dwa "ł"?
+
+60
+00:04:28,080 --> 00:04:30,200
+<font color="#FFFF51">Jedno "l" i jedno "ł".</font>
+
+61
+00:04:30,360 --> 00:04:32,160
+<font color="#FFFF51">Mełliśmy.</font>
+
+62
+00:04:32,320 --> 00:04:35,160
+Mówiłaś, że dwa "ł".
+A teraz jedno?
+
+63
+00:04:35,320 --> 00:04:38,000
+Teraz już nikt nie mięłli.
+
+64
+00:04:38,160 --> 00:04:42,680
+<font color="#FFFF51">Nie "nie mięłli" tylko nie mieli.</font>
+<font color="#FFFF51">Tryb przypuszczający.</font>
+
+65
+00:04:42,840 --> 00:04:45,680
+Ja chyba mełłbym.
+Jedno "ł"?
+
+66
+00:04:45,840 --> 00:04:48,200
+<font color="#FFFF51">Ja mełłbym. Dwa "ł".</font>
+
+67
+00:04:49,320 --> 00:04:51,440
+<font color="#FFFF51">Ty mełłbyś.</font>
+
+68
+00:04:51,600 --> 00:04:53,800
+Czyli...
+
+69
+00:04:53,960 --> 00:04:55,760
+Ja mełłbym,
+
+70
+00:04:56,840 --> 00:04:58,960
+ty mełłbyś,
+
+71
+00:04:59,120 --> 00:05:00,920
+mełłabyś...
+
+72
+00:05:01,800 --> 00:05:05,200
+<font color="#FFFF51">On mełłby, ona mełłaby.</font>
+
+73
+00:05:05,360 --> 00:05:10,120
+Teraz mogę sobie zrobić przerwę?
+<font color="#FFFF51">Jeszcze nie skończyliśmy.</font>
+
+74
+00:05:10,280 --> 00:05:12,080
+<font color="#FFFF51">Liczba mnoga.</font>
+
+75
+00:05:13,320 --> 00:05:16,680
+My mięlibyśmy?
+
+76
+00:05:18,120 --> 00:05:20,160
+<font color="#FFFF51">My mełlibyśmy.</font>
+
+77
+00:05:20,320 --> 00:05:22,480
+<font color="#FFFF51">Jedno "l" i jedno "ł".</font>
+
+78
+00:05:22,640 --> 00:05:24,440
+<font color="#FFFF51">To nie jest trudne.</font>
+
+79
+00:05:24,600 --> 00:05:28,760
+<font color="#FFFF51">W liczbie pojedynczej dwa "ł",</font>
+<font color="#FFFF51">w liczbie "l" i "ł".</font>
+
+80
+00:05:28,920 --> 00:05:32,600
+<font color="#FFFF51">Z wyjątkiem trzeciej osoby</font>
+<font color="#FFFF51">rodzaju żeńskiego.</font>
+
+81
+00:05:32,760 --> 00:05:36,360
+Już mi się wszystko pomieszało.
+<font color="#FFFF51">To się skup.</font>
+
+82
+00:05:37,680 --> 00:05:42,200
+Próbuję, ale tak tłumaczysz,
+że mi się wszystko miesza.
+
+83
+00:05:42,360 --> 00:05:44,480
+Myśmy chyba mięłli.
+
+84
+00:05:45,760 --> 00:05:48,480
+<font color="#FFFF51">My mełlibyśmy, oni mełliby.</font>
+
+85
+00:05:48,640 --> 00:05:50,680
+Ale jedno "ł"?
+<font color="#FFFF51">Dwa!</font>
+
+86
+00:05:54,000 --> 00:05:56,960
+Chcesz sobie zrobić przerwę?
+<font color="#FFFF51">Tak.</font>
+
+87
+00:06:15,960 --> 00:06:18,800
+<font color="#8080FF">TOMEK OGLĄDA MECZ</font>
+
+88
+00:06:22,000 --> 00:06:25,600
+<font color="#FFFF51">Nie uwierzysz, już jest czwartek.</font>
+<font color="#16F158">Już!</font>
+
+89
+00:06:25,760 --> 00:06:27,560
+<font color="#16F158">Czwartek?</font>
+
+90
+00:06:27,720 --> 00:06:31,120
+<font color="#16F158">Jak ten czas szybko leci!</font>
+<font color="#16F158">Kto by pomyślał?</font>
+
+91
+00:06:31,280 --> 00:06:34,480
+<font color="#FFFF51">Czas biegnie nieubłaganie.</font>
+
+92
+00:06:35,120 --> 00:06:39,640
+<font color="#FFFF51">Ja nie bardzo lubię czwartki. A ty?</font>
+<font color="#16F158">Sobota to nie jest.</font>
+
+93
+00:06:39,800 --> 00:06:43,800
+<font color="#16F158">Ale i nie poniedziałek.</font>
+<font color="#16F158">Do weekendu coraz bliżej.</font>
+
+94
+00:06:43,960 --> 00:06:49,120
+<font color="#16F158">A człowiek, który czegoś zapomniał,</font>
+<font color="#16F158">może coś zrobić.</font>
+
+95
+00:06:49,280 --> 00:06:54,200
+<font color="#16F158">Tymczasem nieraz jest tak,</font>
+<font color="#16F158">że już czuć, że należy zadziałać.</font>
+
+96
+00:06:57,320 --> 00:06:59,320
+<font color="#FFFF51">Oczywiście.</font>
+
+97
+00:06:59,480 --> 00:07:01,280
+<font color="#FFFF51">Można sobie pomyśleć:</font>
+
+98
+00:07:01,440 --> 00:07:05,600
+<font color="#FFFF51">"Mam jeszcze czas.</font>
+<font color="#FFFF51">Mogę zrobić to w piątek. Zdążę".</font>
+
+99
+00:07:05,760 --> 00:07:09,680
+<font color="#FFFF51">Ale są rzeczy,</font>
+<font color="#FFFF51">które trzeba wykonać natychmiast.</font>
+
+100
+00:07:09,840 --> 00:07:14,600
+<font color="#FFFF51">Wtedy ma się poczucie</font>
+<font color="#FFFF51">prawdziwie spełnionego obowiązku.</font>
+
+101
+00:07:14,760 --> 00:07:17,760
+<font color="#16F158">Bardzo dobrze spełnionego obowiązku.</font>
+
+102
+00:07:19,920 --> 00:07:21,720
+Zrozumiałem.
+
+103
+00:07:48,760 --> 00:07:54,120
+<font color="#FFFF51">Nawet nie trzeba było krzyczeć.</font>
+<font color="#16F158">To się nazywa zespołowa robota.</font>
+
+104
+00:08:05,720 --> 00:08:07,520
+<font color="#FFFF51">Kotku?</font>
+
+105
+00:08:10,040 --> 00:08:12,320
+<font color="#FFFF51">Ludwik?</font>
+<font color="#16F158">Co?</font>
+
+106
+00:08:13,880 --> 00:08:15,680
+<font color="#FFFF51">Śpisz?</font>
+
+107
+00:08:15,840 --> 00:08:17,640
+<font color="#16F158">Co się stało?</font>
+
+108
+00:08:22,120 --> 00:08:24,240
+<font color="#FFFF51">Martwię się.</font>
+<font color="#16F158">Co?</font>
+
+109
+00:08:28,000 --> 00:08:30,240
+<font color="#FFFF51">Nic, po prostu się martwię.</font>
+
+110
+00:08:30,400 --> 00:08:32,920
+<font color="#16F158">Zamknij oczy,</font>
+<font color="#16F158">to ci przejdzie.</font>
+
+111
+00:08:35,360 --> 00:08:37,160
+<font color="#FFFF51">Umyłeś pojemniki?</font>
+
+112
+00:08:37,320 --> 00:08:39,200
+<font color="#16F158">Co umyłem?</font>
+
+113
+00:08:40,400 --> 00:08:44,480
+<font color="#FFFF51">Czy umyłeś pojemniki chłopców</font>
+<font color="#FFFF51">na drugie śniadanie?</font>
+
+114
+00:08:45,040 --> 00:08:47,120
+<font color="#16F158">Martwisz się pojemnikami?</font>
+
+115
+00:08:47,280 --> 00:08:49,800
+<font color="#FFFF51">Ty się martwisz prostatą.</font>
+
+116
+00:08:49,960 --> 00:08:53,200
+<font color="#16F158">Chyba jest różnica?</font>
+<font color="#FFFF51">Ja nie mam prostaty.</font>
+
+117
+00:08:53,360 --> 00:08:55,160
+<font color="#FFFF51">Umyłeś pojemniki?</font>
+
+118
+00:08:55,320 --> 00:08:58,960
+<font color="#16F158">Nie wiem,</font>
+<font color="#16F158">chyba nastawiłem zmywarkę.</font>
+
+119
+00:09:01,080 --> 00:09:03,440
+<font color="#FFFF51">Mógłbyś pójść i sprawdzić?</font>
+
+120
+00:09:03,600 --> 00:09:05,440
+<font color="#16F158">Kochanie, ja już śpię.</font>
+
+121
+00:09:05,600 --> 00:09:07,400
+<font color="#FFFF51">Bardzo proszę.</font>
+
+122
+00:09:07,560 --> 00:09:12,560
+<font color="#16F158">Nie będę wstawał w środku nocy</font>
+<font color="#16F158">oglądać plastikowe pudełeczka.</font>
+
+123
+00:09:16,360 --> 00:09:18,520
+<font color="#16F158">Kochanie, śpij już.</font>
+
+124
+00:09:19,920 --> 00:09:21,920
+<font color="#16F158">Daj już spokój.</font>
+
+125
+00:09:23,240 --> 00:09:25,240
+<font color="#FFFF51">Ale ty jesteś, wiesz?</font>
+
+126
+00:09:25,400 --> 00:09:28,480
+<font color="#16F158">Jestem zmęczony i chcę spać.</font>
+<font color="#16F158">Dobranoc.</font>
+
+127
+00:09:28,640 --> 00:09:32,480
+<font color="#FFFF51">Od razu widać,</font>
+<font color="#FFFF51">że nie robisz kanapek do szkoły.</font>
+
+128
+00:09:32,640 --> 00:09:35,600
+<font color="#16F158">Weźmiesz inne.</font>
+<font color="#FFFF51">Nie ma innych!</font>
+
+129
+00:09:35,760 --> 00:09:41,040
+<font color="#16F158">Są inne. Cały dom jest wypełniony</font>
+<font color="#16F158">cholernymi pojemniczkami.</font>
+
+130
+00:09:41,200 --> 00:09:44,480
+<font color="#FFFF51">Nie przesadzaj.</font>
+<font color="#16F158">Już, spokój.</font>
+
+131
+00:09:49,320 --> 00:09:53,720
+<font color="#FFFF51">Z ciebie jest egoista.</font>
+<font color="#FFFF51">Ja się martwię, a ty śpisz.</font>
+
+132
+00:09:54,680 --> 00:09:59,360
+<font color="#16F158">Nie możesz zasnąć, zacznij liczyć</font>
+<font color="#16F158">plastikowe pojemniczki.</font>
+
+133
+00:10:02,520 --> 00:10:07,360
+<font color="#FFFF51">Żeby nie było na mnie,</font>
+<font color="#FFFF51">jak się dzieciaki spóźnią do szkoły.</font>
+
+134
+00:10:07,520 --> 00:10:10,920
+<font color="#16F158">Nie spóźnią się.</font>
+<font color="#16F158">Mamy kolekcję pojemników.</font>
+
+135
+00:10:11,080 --> 00:10:15,320
+<font color="#16F158">Zielone, żółte, niebieskie.</font>
+<font color="#16F158">Możemy otworzyć sklep.</font>
+
+136
+00:10:15,480 --> 00:10:18,400
+<font color="#FFFF51">Moglibyśmy, gdybyś je umył!</font>
+
+137
+00:10:18,560 --> 00:10:22,640
+<font color="#FFFF51">A tak będę musiała wstać</font>
+<font color="#FFFF51">dziesięć minut wcześniej.</font>
+
+138
+00:10:22,800 --> 00:10:25,880
+<font color="#16F158">Mycie trzech pojemników</font>
+<font color="#16F158">tyle nie trwa.</font>
+
+139
+00:10:26,040 --> 00:10:28,360
+<font color="#FFFF51">Właśnie, zajmuje pięć minut.</font>
+
+140
+00:10:28,520 --> 00:10:32,440
+<font color="#FFFF51">Mógłbyś wstać i umyć.</font>
+<font color="#FFFF51">Nie musiałabym się zrywać.</font>
+
+141
+00:10:32,600 --> 00:10:34,400
+<font color="#FFFF51">Błagam cię, kotku!</font>
+
+142
+00:10:40,200 --> 00:10:44,240
+<font color="#FFFF51">To jest sprawiedliwy</font>
+<font color="#FFFF51">podział obowiązków.</font>
+
+143
+00:10:44,400 --> 00:10:47,160
+<font color="#FFFF51">Od jutra sam sobie robisz pranie!</font>
+
+144
+00:10:50,800 --> 00:10:54,960
+<font color="#16F158">Wstanę rano, zrobię</font>
+<font color="#16F158">gówniarzom kanapki. Zadowolona?</font>
+
+145
+00:10:55,120 --> 00:10:56,920
+<font color="#FFFF51">Kocham cię, kochanie.</font>
+
+146
+00:10:57,080 --> 00:10:58,880
+<font color="#FFFF51">Dobranoc.</font>
+
+147
+00:11:04,760 --> 00:11:08,920
+<font color="#16F158">Jeżeli ja mam wstać rano</font>
+<font color="#16F158">i robić kanapki do szkoły,</font>
+
+148
+00:11:09,080 --> 00:11:13,840
+<font color="#16F158">to ty powinnaś teraz wymyć</font>
+<font color="#16F158">pojemniki, bo są bardzo brudne.</font>
+
+149
+00:11:15,320 --> 00:11:17,360
+<font color="#16F158">Kotku, halo.</font>
+
+150
+00:11:17,520 --> 00:11:20,080
+<font color="#8080FF">GŁOŚNE CHRAPANIE</font>
+
+151
+00:11:22,720 --> 00:11:24,800
+<font color="#16F158">Wszystko na mojej głowie.</font>
+
+152
+00:11:36,280 --> 00:11:38,400
+<font color="#FFFF51">Czytałeś to?</font>
+<font color="#16F158">Co?</font>
+
+153
+00:11:39,880 --> 00:11:44,720
+<font color="#FFFF51">Czternastolatek przepłynął Atlantyk</font>
+<font color="#FFFF51">w trzydzieści dni. Sam.</font>
+
+154
+00:11:48,160 --> 00:11:50,400
+Jak przepłynął?
+<font color="#FFFF51">Łodzią.</font>
+
+155
+00:11:50,560 --> 00:11:52,840
+Atlantyk jest duży?
+
+156
+00:11:53,000 --> 00:11:57,080
+<font color="#16F158">Ze cztery tysiące kilometrów ma.</font>
+I przepłynął sam?
+
+157
+00:11:57,240 --> 00:12:00,120
+Ale jego ojciec płynął za nim.
+
+158
+00:12:01,400 --> 00:12:05,480
+<font color="#FFFF51">Ale w łodzi był sam.</font>
+Ale ojciec płynął tuż za nim.
+
+159
+00:12:05,640 --> 00:12:07,440
+Kompletna ściema.
+
+160
+00:12:07,600 --> 00:12:11,920
+<font color="#FFFF51">Może, ale wy sami nie umiecie</font>
+<font color="#FFFF51">nawet do szkoły trafić.</font>
+
+161
+00:12:12,080 --> 00:12:14,760
+<font color="#16F158">Ojciec musiał być z niego dumny.</font>
+
+162
+00:12:14,920 --> 00:12:18,320
+A Atlantyk ile razy
+jest z domu do szkoły?
+
+163
+00:12:18,480 --> 00:12:21,480
+<font color="#16F158">Stąd do szkoły</font>
+<font color="#16F158">jest dwieście metrów.</font>
+
+164
+00:12:21,640 --> 00:12:24,880
+<font color="#16F158">Kilometr ma...</font>
+Dwadzieścia tysięcy razy.
+
+165
+00:12:25,040 --> 00:12:31,400
+Jakby poszedł tyle razy sam do
+szkoły, to jakby przepłynął Atlantyk.
+
+166
+00:12:31,560 --> 00:12:33,360
+<font color="#16F158">To nie to samo.</font>
+
+167
+00:12:33,520 --> 00:12:39,040
+Mówiłeś, że dwadzieścia tysięcy razy,
+to cztery tysiące kilometrów.
+
+168
+00:12:39,200 --> 00:12:42,960
+<font color="#FFFF51">Ale przepłynąć Atlantyk</font>
+<font color="#FFFF51">jest o wiele trudniej.</font>
+
+169
+00:12:43,720 --> 00:12:46,520
+Trudniej jest przepłynąć Atlantyk,
+
+170
+00:12:46,680 --> 00:12:50,600
+niż pójść dwadzieścia tysięcy razy
+sam do szkoły?
+
+171
+00:12:50,760 --> 00:12:53,440
+To zależy, czy odrobiłeś lekcje.
+
+172
+00:12:53,600 --> 00:12:55,520
+<font color="#16F158">Chodziło mi o to, że...</font>
+
+173
+00:12:55,680 --> 00:12:59,840
+<font color="#16F158">żeby przepłynąć Atlantyk</font>
+<font color="#16F158">trzeba wykazać się odwagą.</font>
+
+174
+00:13:00,000 --> 00:13:04,520
+Ale to tylko trzydzieści dni.
+Rok szkolny jest dłuższy.
+
+175
+00:13:04,680 --> 00:13:10,600
+Byłbym dumny, że moje dziecko poszło
+dwadzieścia tysięcy razy do szkoły,
+
+176
+00:13:10,760 --> 00:13:14,000
+a nie przepłynęło Atlantyk samemu.
+
+177
+00:13:45,320 --> 00:13:47,120
+<font color="#16F158">Jak oni to robią?</font>
+
+178
+00:14:01,760 --> 00:14:03,560
+<font color="#FFFF51">Tomek!</font>
+
+179
+00:14:05,880 --> 00:14:09,480
+<font color="#FFFF51">Włóż to do pralki, dobrze?</font>
+To nie jest moje.
+
+180
+00:14:09,640 --> 00:14:12,560
+<font color="#FFFF51">Moje też nie.</font>
+<font color="#FFFF51">Zrób, o co cię proszę.</font>
+
+181
+00:14:12,720 --> 00:14:15,720
+<font color="#FFFF51">I posprzątaj komiksy</font>
+<font color="#FFFF51">w swoim pokoju.</font>
+
+182
+00:14:15,880 --> 00:14:18,800
+Mamo, widziałaś
+moją czerwoną bluzę?
+
+183
+00:14:18,960 --> 00:14:22,200
+Poszukaj tutaj,
+a potem wrzuć do pralki.
+
+184
+00:14:22,360 --> 00:14:24,760
+- Ale to nie moje.
+- Moje też nie.
+
+185
+00:14:24,920 --> 00:14:29,160
+<font color="#FFFF51">Kuba, zabierz to do pralni</font>
+<font color="#FFFF51">i włóż do pralki. Dobrze?</font>
+
+186
+00:14:29,320 --> 00:14:31,560
+<font color="#FFFF51">A ty posprzątaj swój pokój.</font>
+
+187
+00:14:31,720 --> 00:14:35,640
+<font color="#FFFF51">Tomek, poskładaj jeszcze</font>
+<font color="#FFFF51">to DVD i gry w salonie.</font>
+
+188
+00:14:35,800 --> 00:14:38,640
+<font color="#FFFF51">Wszystko porozwalane.</font>
+
+189
+00:14:38,800 --> 00:14:40,600
+<font color="#16F158">Co się stało?</font>
+To mama.
+
+190
+00:14:40,760 --> 00:14:45,400
+- Ma atak psychozy sprzątalniczej.
+- Ostry nawrót.
+
+191
+00:14:47,440 --> 00:14:49,240
+<font color="#16F158">Kochanie?</font>
+
+192
+00:14:49,480 --> 00:14:54,240
+<font color="#FFFF51">Mógłbyś pomóc mi poskładać</font>
+<font color="#FFFF51">te klocki, bo ja szału dostaję.</font>
+
+193
+00:14:54,400 --> 00:14:57,920
+<font color="#16F158">Czy w tym domu można</font>
+<font color="#16F158">coś zrobić bez krzyku?</font>
+
+194
+00:14:58,080 --> 00:15:01,920
+<font color="#FFFF51">Kotku, ona tutaj będzie</font>
+<font color="#FFFF51">za dziesięć minut.</font>
+
+195
+00:15:02,080 --> 00:15:03,880
+<font color="#16F158">Kto będzie?</font>
+
+196
+00:15:04,040 --> 00:15:06,400
+<font color="#FFFF51">No pani od sprzątania!</font>
+
+197
+00:15:06,560 --> 00:15:10,080
+<font color="#FFFF51">Nie chcę, żebyśmy wyszli</font>
+<font color="#FFFF51">na bandę brudasów.</font>
+
+198
+00:15:10,240 --> 00:15:12,040
+<font color="#FFFF51">Nie rozumiesz tego?</font>
+
+199
+00:15:12,200 --> 00:15:15,160
+<font color="#FFFF51">Nie stój tak,</font>
+<font color="#FFFF51">tylko pomóż mi, no!</font>
+
+200
+00:15:30,920 --> 00:15:32,720
+<font color="#8080FF">DZWONI BUDZIK</font>
+
+201
+00:15:56,960 --> 00:16:01,320
+<font color="#FFFF51">Znowu oglądałeś serial do nocy?</font>
+<font color="#FFFF51">Zrobić ci kawę?</font>
+
+202
+00:16:01,480 --> 00:16:03,280
+<font color="#16F158">Tak.</font>
+
+203
+00:16:03,440 --> 00:16:07,600
+<font color="#FFFF51">Co ty w tym widzisz?</font>
+<font color="#FFFF51">Główny bohater jest naciągany.</font>
+
+204
+00:16:07,760 --> 00:16:11,160
+<font color="#FFFF51">O 9.05 jest torturowany</font>
+<font color="#FFFF51">przez terrorystów,</font>
+
+205
+00:16:11,320 --> 00:16:14,480
+<font color="#FFFF51">a pięć minut później</font>
+<font color="#FFFF51">ratuje prezydenta,</font>
+
+206
+00:16:14,640 --> 00:16:19,720
+<font color="#FFFF51">a pół godziny później jego córkę</font>
+<font color="#FFFF51">porywają handlarze narkotyków.</font>
+
+207
+00:16:19,880 --> 00:16:22,000
+<font color="#FFFF51">Zrobić ci grzankę?</font>
+<font color="#16F158">Proszę.</font>
+
+208
+00:16:25,040 --> 00:16:28,200
+<font color="#FFFF51">To nawet Superman</font>
+<font color="#FFFF51">nie dałby sobie rady.</font>
+
+209
+00:16:28,360 --> 00:16:32,120
+<font color="#FFFF51">Co tam, kochanie?</font>
+Mamo, zamek się zepsuł.
+
+210
+00:16:32,280 --> 00:16:35,520
+<font color="#FFFF51">Zamek się zepsuł.</font>
+<font color="#FFFF51">Mamusia naprawi.</font>
+
+211
+00:16:35,680 --> 00:16:37,480
+<font color="#FFFF51">I już gotowe.</font>
+
+212
+00:16:37,640 --> 00:16:40,360
+Dzięki, mamuś.
+Jestem głodny.
+
+213
+00:16:40,520 --> 00:16:43,680
+<font color="#FFFF51">Siadaj, kochanie.</font>
+<font color="#FFFF51">Mama zrobi naleśniki.</font>
+
+214
+00:16:43,840 --> 00:16:49,280
+<font color="#FFFF51">A w międzyczasie odkrywa, kto jest</font>
+<font color="#FFFF51">zdrajcą w rządowej organizacji,</font>
+
+215
+00:16:49,440 --> 00:16:54,600
+<font color="#FFFF51">rozkochuje w sobie recepcjonistkę,</font>
+<font color="#FFFF51">która okazuje się szpiegiem.</font>
+
+216
+00:16:54,760 --> 00:16:58,000
+<font color="#FFFF51">Nie uważasz, że to jest lipa?</font>
+
+217
+00:16:58,840 --> 00:17:01,080
+<font color="#16F158">Co takiego?</font>
+<font color="#FFFF51">Ten twój serial.</font>
+
+218
+00:17:01,240 --> 00:17:03,040
+<font color="#16F158">Może trochę.</font>
+<font color="#FFFF51">Trochę?</font>
+
+219
+00:17:03,200 --> 00:17:06,960
+<font color="#FFFF51">I on to wszystko robi sam?</font>
+<font color="#FFFF51">Nikt mu nie pomaga?</font>
+
+220
+00:17:07,120 --> 00:17:08,920
+<font color="#FFFF51">Taka Zosia Samosia?</font>
+
+221
+00:17:09,080 --> 00:17:11,240
+<font color="#FFFF51">Mówiłam - nie w domu.</font>
+Mamo!
+
+222
+00:17:11,400 --> 00:17:14,200
+<font color="#FFFF51">Nie jeździmy po domu na desce.</font>
+
+223
+00:17:16,840 --> 00:17:20,600
+<font color="#FFFF51">I wszyscy podejrzewają,</font>
+<font color="#FFFF51">że to on jest zdrajcą,</font>
+
+224
+00:17:20,760 --> 00:17:25,080
+<font color="#FFFF51">więc musi walczyć</font>
+<font color="#FFFF51">nie tylko o córkę i recepcjonistkę,</font>
+
+225
+00:17:25,240 --> 00:17:31,040
+<font color="#FFFF51">ale musi wybić bandę oprychów i</font>
+<font color="#FFFF51">dowiedzieć się,kto go chciał wrobić.</font>
+
+226
+00:17:31,200 --> 00:17:33,920
+- To moja koszulka!
+- Nie, moja.
+
+227
+00:17:34,440 --> 00:17:37,720
+Mamo, Kuba założył moją koszulkę!
+
+228
+00:17:37,880 --> 00:17:42,400
+<font color="#FFFF51">Zdejmij koszulkę brata</font>
+<font color="#FFFF51">i załóż tę. Proszę.</font>
+
+229
+00:17:42,560 --> 00:17:45,640
+<font color="#FFFF51">A ty pij sok,</font>
+<font color="#FFFF51">bo zaraz będą naleśniki.</font>
+
+230
+00:17:47,000 --> 00:17:52,160
+<font color="#FFFF51">Walczy i walczy, a w tym twoim</font>
+<font color="#FFFF51">serialu jeszcze nie ma południa.</font>
+
+231
+00:17:52,320 --> 00:17:55,320
+<font color="#FFFF51">I jeszcze ma rozbroić bombę atomową.</font>
+
+232
+00:17:55,480 --> 00:17:59,240
+<font color="#FFFF51">A tam oczywiście korki,</font>
+<font color="#FFFF51">telefony nie działają.</font>
+
+233
+00:17:59,400 --> 00:18:01,480
+<font color="#FFFF51">Ale on zdąża!</font>
+
+234
+00:18:01,640 --> 00:18:05,960
+Mamo, pralka się zepsuła.
+<font color="#FFFF51">Pewnie za dużo naładowałeś.</font>
+
+235
+00:18:06,120 --> 00:18:11,360
+<font color="#FFFF51">Naciśnij taki czerwony guziczek,</font>
+<font color="#FFFF51">poczekaj aż się blokada zwolni,</font>
+
+236
+00:18:11,520 --> 00:18:15,200
+<font color="#FFFF51">wyjmij parę rzeczy</font>
+<font color="#FFFF51">i jeszcze raz zaprogramuj.</font>
+
+237
+00:18:15,360 --> 00:18:19,040
+<font color="#FFFF51">Tacy agenci,</font>
+<font color="#FFFF51">którzy udają superbohaterów,</font>
+
+238
+00:18:20,120 --> 00:18:24,120
+<font color="#FFFF51">to jest bujda,</font>
+<font color="#FFFF51">nie da się robić stu rzeczy naraz.</font>
+
+239
+00:18:26,160 --> 00:18:27,960
+<font color="#FFFF51">Proszę.</font>
+
+240
+00:18:45,080 --> 00:18:47,120
+<font color="#16F158">Co jest, synu?</font>
+
+241
+00:18:49,600 --> 00:18:51,680
+Nudzi mi się.
+<font color="#16F158">A lekcje?</font>
+
+242
+00:18:53,440 --> 00:18:55,240
+Odrobiłem.
+
+243
+00:18:55,400 --> 00:18:57,560
+<font color="#16F158">Może zagramy w koszykówkę?</font>
+
+244
+00:18:58,760 --> 00:19:01,280
+Tato, z tobą w kosza?
+
+245
+00:19:01,440 --> 00:19:03,240
+<font color="#16F158">Może jakaś inna gra?</font>
+
+246
+00:19:05,400 --> 00:19:08,400
+<font color="#16F158">Idź do kina!</font>
+Nie grają nic ciekawego.
+
+247
+00:19:08,560 --> 00:19:10,360
+<font color="#16F158">A w studyjnych?</font>
+
+248
+00:19:10,520 --> 00:19:12,680
+Jakich?
+<font color="#16F158">Studyjnych, ciołku.</font>
+
+249
+00:19:12,840 --> 00:19:16,080
+<font color="#16F158">Tam dają ambitny repertuar</font>
+<font color="#16F158">albo klasykę.</font>
+
+250
+00:19:16,240 --> 00:19:20,480
+<font color="#16F158">W "Iluzjonie" świetny western grają.</font>
+Wypożyczę sobie.
+
+251
+00:19:20,640 --> 00:19:24,400
+<font color="#16F158">W kinie to nie to samo.</font>
+<font color="#16F158">Masz ekran, atmosferę.</font>
+
+252
+00:19:26,560 --> 00:19:28,480
+<font color="#16F158">Spodoba ci się.</font>
+
+253
+00:19:28,640 --> 00:19:30,440
+<font color="#16F158">O Jezu...</font>
+
+254
+00:19:30,600 --> 00:19:34,560
+<font color="#16F158">Jak ja mówię, że coś jest fajne,</font>
+<font color="#16F158">ty nie wierzysz.</font>
+
+255
+00:19:34,720 --> 00:19:36,920
+No.
+<font color="#16F158">Skąd taki brak zaufania?</font>
+
+256
+00:19:37,080 --> 00:19:42,880
+Spróbuj, wątróbka będzie ci smakować.
+Zastrzyk to jak ugryzienie komara.
+
+257
+00:19:43,040 --> 00:19:47,200
+O dentyście: Nie zauważysz,
+jak będzie po wszystkim.
+
+258
+00:19:47,360 --> 00:19:50,560
+<font color="#16F158">To o wątróbce</font>
+<font color="#16F158">na pewno mama powiedziała.</font>
+
+259
+00:19:55,640 --> 00:19:57,440
+<font color="#16F158">Powąchaj.</font>
+
+260
+00:19:57,600 --> 00:19:59,440
+<font color="#FFFF51">Jajka, przecież widzę.</font>
+
+261
+00:20:19,360 --> 00:20:21,280
+<font color="#8080FF">HUK W KUCHENCE, DZWONEK</font>
+
+262
+00:20:26,560 --> 00:20:29,720
+Tak myślałem,
+dwa do pięciu dla mnie.
+
+263
+00:20:39,080 --> 00:20:42,840
+<font color="#FFFF51">Kotku, co ty na to,</font>
+<font color="#FFFF51">żebyśmy się za to zabrali.</font>
+
+264
+00:20:43,000 --> 00:20:45,000
+<font color="#16F158">Kotku,</font>
+
+265
+00:20:47,200 --> 00:20:49,360
+<font color="#16F158">wystarczy mi jedno słowo.</font>
+
+266
+00:20:49,520 --> 00:20:53,360
+<font color="#FFFF51">Wiesz co?</font>
+<font color="#FFFF51">Poczekaj, bo ja myślę o tym...</font>
+
+267
+00:20:53,720 --> 00:20:56,400
+<font color="#FFFF51">żebyśmy mieli dziecko.</font>
+
+268
+00:20:56,560 --> 00:21:01,320
+<font color="#16F158">Myślałem, że się szykuje upojna noc,</font>
+<font color="#16F158">ale bez konsekwencji.</font>
+
+269
+00:21:01,480 --> 00:21:03,560
+<font color="#FFFF51">Zobacz.</font>
+
+270
+00:21:03,720 --> 00:21:05,520
+<font color="#16F158">Co to?</font>
+
+271
+00:21:05,680 --> 00:21:08,560
+<font color="#FFFF51">Pierwsza czapeczka Kubusia.</font>
+
+272
+00:21:09,480 --> 00:21:13,320
+<font color="#FFFF51">Nie chciałbyś</font>
+<font color="#FFFF51">jeszcze jednego takiego maluszka?</font>
+
+273
+00:21:13,480 --> 00:21:18,600
+<font color="#16F158">Marzę o nieprzefontych nocach.</font>
+<font color="#FFFF51">Myślałam, że je lubisz.</font>
+
+274
+00:21:18,760 --> 00:21:21,000
+<font color="#16F158">Ale nie z powodu noworodka.</font>
+
+275
+00:21:21,160 --> 00:21:24,160
+<font color="#FFFF51">Tak często</font>
+<font color="#FFFF51">do chłopców nie wstawałeś.</font>
+
+276
+00:21:24,320 --> 00:21:25,400
+<font color="#16F158">Ale wstawałem.</font>
+
+277
+00:21:25,560 --> 00:21:27,960
+<font color="#16F158">Naprawdę chcesz mieć dziecko?</font>
+
+278
+00:21:31,520 --> 00:21:34,120
+<font color="#FFFF51">Żarty żartami...</font>
+<font color="#16F158">Nabierasz mnie.</font>
+
+279
+00:21:34,280 --> 00:21:38,280
+<font color="#FFFF51">Ludwik, w moim wieku</font>
+<font color="#FFFF51">to już jest ostatni dzwonek.</font>
+
+280
+00:21:38,440 --> 00:21:40,560
+<font color="#FFFF51">Teraz albo nigdy.</font>
+
+281
+00:21:41,280 --> 00:21:43,200
+<font color="#16F158">Proszę cię, no.</font>
+
+282
+00:21:45,640 --> 00:21:48,200
+<font color="#FFFF51">Masz rację,</font>
+<font color="#FFFF51">zapomnijmy o tym.</font>
+
+283
+00:21:51,720 --> 00:21:55,480
+<font color="#16F158">Moim zdaniem,</font>
+<font color="#16F158">porywamy się z motyką na słońce.</font>
+
+284
+00:21:55,640 --> 00:21:58,560
+<font color="#FFFF51">Już powiedziałam,</font>
+<font color="#FFFF51">zapomnijmy o tym.</font>
+
+285
+00:22:02,120 --> 00:22:05,560
+<font color="#16F158">Skoro ci na tym zależy.</font>
+<font color="#FFFF51">Serio?</font>
+
+286
+00:22:07,240 --> 00:22:11,320
+<font color="#16F158">Może rzeczywiście</font>
+<font color="#16F158">to będzie nasza ostatnia szansa.</font>
+
+287
+00:22:11,480 --> 00:22:13,280
+<font color="#FFFF51">Naprawdę? Kotku!</font>
+
+288
+00:22:13,440 --> 00:22:18,360
+<font color="#16F158">Co prawda, myślałem, że niańczenie</font>
+<font color="#16F158">bobasów mamy już za sobą,</font>
+
+289
+00:22:18,520 --> 00:22:23,600
+<font color="#16F158">ale chłopcy są już bardziej</font>
+<font color="#16F158">samodzielni, my mamy więcej czasu.</font>
+
+290
+00:22:23,760 --> 00:22:27,680
+<font color="#16F158">Będziemy musieli</font>
+<font color="#16F158">wygospodarować dodatkowy pokój.</font>
+
+291
+00:22:27,840 --> 00:22:31,680
+<font color="#16F158">Ty będziesz musiała</font>
+<font color="#16F158">na chwilę przerwać karierę.</font>
+
+292
+00:22:31,840 --> 00:22:36,680
+<font color="#16F158">Będziemy musieli wziąć kredyt</font>
+<font color="#16F158">i nie wiem, może zmienić dom.</font>
+
+293
+00:22:36,840 --> 00:22:39,920
+<font color="#16F158">Będziemy musieli wziąć kredyt.</font>
+
+294
+00:22:40,760 --> 00:22:43,120
+<font color="#16F158">Co ma być, to będzie, nie?</font>
+
+295
+00:22:43,280 --> 00:22:46,360
+<font color="#FFFF51">Myślisz,że jestem nieodpowiedzialna?</font>
+
+296
+00:22:46,520 --> 00:22:49,880
+<font color="#16F158">Pomysł jest troszeczkę szalony,</font>
+<font color="#16F158">przyznaję,</font>
+
+297
+00:22:50,040 --> 00:22:54,960
+<font color="#16F158">ale jeśli chcesz mieć ze mną</font>
+<font color="#16F158">dziecko, mogę się tylko cieszyć.</font>
+
+298
+00:22:57,400 --> 00:23:02,320
+<font color="#FFFF51">Może rzeczywiście to nie jest</font>
+<font color="#FFFF51">najlepszy pomysł. Masz rację.</font>
+
+299
+00:23:02,960 --> 00:23:06,880
+<font color="#FFFF51">Szkoda tylko,</font>
+<font color="#FFFF51">że nie będziemy mieli dziewczynki.</font>
+
+300
+00:23:07,040 --> 00:23:09,520
+<font color="#16F158">To nie jest dobry argument.</font>
+
+301
+00:23:10,920 --> 00:23:14,000
+<font color="#FFFF51">Mamy trójkę chłopców wfontiałych.</font>
+
+302
+00:23:14,920 --> 00:23:18,000
+<font color="#FFFF51">Nie ma co narzekać.</font>
+<font color="#16F158">Tak będzie lepiej.</font>
+
+303
+00:23:19,880 --> 00:23:23,560
+<font color="#FFFF51">Cieszę się,że o tym porozmawialiśmy.</font>
+<font color="#16F158">Ja też.</font>
+
+304
+00:23:23,720 --> 00:23:28,880
+<font color="#FFFF51">Tak pomyślałam, może cię zapiszę</font>
+<font color="#FFFF51">na poniedziałek na wazektomię.</font>
+
+305
+00:23:29,040 --> 00:23:30,840
+<font color="#16F158">Na co?</font>
+
+306
+00:23:31,000 --> 00:23:34,320
+<font color="#FFFF51">Tam ci podwiążą szybciutko</font>
+<font color="#FFFF51">i po kłopocie.</font>
+
+307
+00:23:34,480 --> 00:23:37,240
+<font color="#FFFF51">Nie będę rezygnować z pracy.</font>
+
+308
+00:23:37,400 --> 00:23:40,920
+<font color="#FFFF51">Będziemy mogli</font>
+<font color="#FFFF51">się kochać bez konsekwencji.</font>
+
+309
+00:23:44,680 --> 00:23:47,800
+<font color="#FFFF51">Kocham cię, śpij dobrze.</font>
+<font color="#FFFF51">Dobranoc.</font>
+
+310
+00:23:59,040 --> 00:24:00,840
+<font color="#8080FF">PIOSENKA:</font>
+
+311
+00:24:01,000 --> 00:24:05,360
+Gdy dzień dziś cały na "nie",
+a życie goni, jak chce,
+
+312
+00:24:05,520 --> 00:24:10,680
+Spójrz na nich
+i wszystko ma sens.
+
+313
+00:24:11,400 --> 00:24:19,760
+To miejsce pokochasz jak nic,
+znad Wisły rodzinka jak ty.
+
+314
+00:24:21,160 --> 00:24:25,480
+Niech każdy zobaczy to dziś.
+
+315
+00:24:29,320 --> 00:24:35,840
+Pokochasz tak ich boski świat.
+
+316
+00:24:36,000 --> 00:24:43,720
+Więcej, jeśli się da.
+Błagam o więcej każdego dnia.
+
+317
+00:24:43,880 --> 00:24:49,720
+OPRACOWANIE NAPISÓW DLA NIESŁYSZĄCYCH
+TVP SA - OŚRODEK iTVP-HD
+
+318
+00:24:49,880 --> 00:24:53,600
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+319
+00:24:53,760 --> 00:24:56,000
+
+
