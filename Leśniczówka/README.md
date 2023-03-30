@@ -55,39 +55,39 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|52|uploaded|Scraped|
 |-|53|uploaded|Scraped|
 |-|54|uploaded|Scraped|
-|-|55|Not uploaded/missing|Scraped|
+|-|55|Not uploaded/missing|-|
 |-|56|uploaded|Scraped|
 |-|57|uploaded|Scraped|
 |-|58|uploaded|Scraped|
 |-|59|uploaded|Scraped|
-|-|60|Not uploaded/missing|Scraped|
+|-|60|Not uploaded/missing|-|
 |-|61|uploaded|Scraped|
-|-|62|Not uploaded/missing|Scraped|
+|-|62|Not uploaded/missing|-|
 |-|63|uploaded|Scraped|
 |-|64|uploaded|Scraped|
 |-|65|uploaded|Scraped|
 |-|66|uploaded|Scraped|
-|-|67|Not uploaded/missing|Scraped|
+|-|67|Not uploaded/missing|-|
 |-|68|uploaded|Scraped|
 |-|69|uploaded|Scraped|
-|-|70|Not uploaded/missing|Scraped|
-|-|71|Not uploaded/missing|Scraped|
+|-|70|Not uploaded/missing|-|
+|-|71|Not uploaded/missing|-|
 |-|72|uploaded|Scraped|
 |-|73|uploaded|Scraped|
-|-|74|Not uploaded/missing|Scraped|
+|-|74|Not uploaded/missing|-|
 |-|75|uploaded|Scraped|
 |-|76|uploaded|Scraped|
 |-|77|uploaded|Scraped|
-|-|78|Not uploaded/missing|Scraped|
-|-|79|Not uploaded/missing|Scraped|
-|-|80|Not uploaded/missing|Scraped|
+|-|78|Not uploaded/missing|-|
+|-|79|Not uploaded/missing|-|
+|-|80|Not uploaded/missing|-|
 |-|81|uploaded|Scraped|
 |-|82|uploaded|Scraped|
 |-|83|uploaded|Scraped|
 |-|84|uploaded|Scraped|
-|-|85|Not uploaded/missing|Scraped|
+|-|85|Not uploaded/missing|-|
 |-|86|uploaded|Scraped|
-|-|87|Not uploaded/missing|Scraped|
+|-|87|Not uploaded/missing|-|
 |-|88|uploaded|Scraped|
 |-|89|uploaded|Scraped|
 |-|90|uploaded|Scraped|
@@ -96,7 +96,7 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|93|uploaded|Scraped|
 |-|94|uploaded|Scraped|
 |-|95|uploaded|Scraped|
-|-|96|Not uploaded/missing|Scraped|
+|-|96|Not uploaded/missing|-|
 |-|97|uploaded|Scraped|
 |-|98|uploaded|Scraped|
 |-|99|uploaded|Scraped|
@@ -174,11 +174,11 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|171|uploaded|Scraped|
 |-|172|uploaded|Scraped|
 |-|173|uploaded|Scraped|
-|-|174|Not uploaded/missing|Scraped|
+|-|174|Not uploaded/missing|-|
 |-|175|uploaded|Scraped|
 |-|176|uploaded|Scraped|
 |-|177|uploaded|Scraped|
-|-|178|Not uploaded/missing|Scraped|
+|-|178|Not uploaded/missing|-|
 |-|179|uploaded|Scraped|
 |-|180|uploaded|Scraped|
 |-|181|uploaded|Scraped|
@@ -311,11 +311,11 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|308|uploaded|Scraped|
 |-|309|uploaded|Scraped|
 |-|310|uploaded|Scraped|
-|-|311|Not uploaded/missing|Scraped|
+|-|311|Not uploaded/missing|-|
 |-|312|uploaded|Scraped|
 |-|313|uploaded|Scraped|
 |-|314|uploaded|Scraped|
-|-|315|Not uploaded/missing|Scraped|
+|-|315|Not uploaded/missing|-|
 |-|316|uploaded|Scraped|
 |-|317|uploaded|Scraped|
 |-|318|uploaded|Scraped|
@@ -358,11 +358,11 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|355|uploaded|Scraped|
 |-|356|uploaded|Scraped|
 |-|357|uploaded|Scraped|
-|-|358|Not uploaded/missing|Scraped|
+|-|358|Not uploaded/missing|-|
 |-|359|uploaded|Scraped|
 |-|360|uploaded|Scraped|
 |-|361|uploaded|Scraped|
-|-|362|Not uploaded/missing|Scraped|
+|-|362|Not uploaded/missing|-|
 |-|363|uploaded|Scraped|
 |-|364|uploaded|Scraped|
 |-|365|uploaded|Scraped|
@@ -402,7 +402,7 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|399|uploaded|Scraped|
 |-|400|uploaded|Scraped|
 |-|401|uploaded|Scraped|
-|-|402|Not uploaded/missing|Scraped|
+|-|402|Not uploaded/missing|-|
 |-|403|uploaded|Scraped|
 |-|404|uploaded|Scraped|
 |-|405|uploaded|Scraped|
@@ -438,7 +438,7 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|435|uploaded|Scraped|
 |-|436|uploaded|Scraped|
 |-|437|uploaded|Scraped|
-|-|438|Not uploaded/missing|Scraped|
+|-|438|Not uploaded/missing|-|
 |-|439|uploaded|Scraped|
 |-|440|uploaded|Scraped|
 |-|441|uploaded|Scraped|
@@ -520,7 +520,7 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|517|uploaded|Scraped|
 |-|518|uploaded|Scraped|
 |-|519|uploaded|Scraped|
-|-|520|Not uploaded/missing|Scraped|
+|-|520|Not uploaded/missing|-|
 |-|521|uploaded|Scraped|
 |-|522|uploaded|Scraped|
 |-|523|uploaded|Scraped|
@@ -594,7 +594,7 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|591|uploaded|Scraped|
 |-|592|uploaded|Scraped|
 |-|593|uploaded|Scraped|
-|-|594|Not uploaded/missing|Scraped|
+|-|594|Not uploaded/missing|-|
 |-|595|uploaded|Scraped|
 |-|596|uploaded|Scraped|
 |-|597|uploaded|Scraped|
@@ -608,22 +608,22 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |-|605|uploaded|Scraped|
 |-|606|uploaded|Scraped|
 |-|607|uploaded|Scraped|
-|-|608|Not uploaded/missing|Scraped|
-|-|609|Not uploaded/missing|Scraped|
+|-|608|Not uploaded/missing|-|
+|-|609|Not uploaded/missing|-|
 |-|610|uploaded|Scraped|
-|-|611|Not uploaded/missing|Scraped|
-|-|612|Not uploaded/missing|Scraped|
-|-|613|Not uploaded/missing|Scraped|
-|-|614|Not uploaded/missing|Scraped|
+|-|611|Not uploaded/missing|-|
+|-|612|Not uploaded/missing|-|
+|-|613|Not uploaded/missing|-|
+|-|614|Not uploaded/missing|-|
 |-|615|uploaded|Scraped|
-|-|616|Not uploaded/missing|Scraped|
-|-|617|Not uploaded/missing|Scraped|
-|-|618|Not uploaded/missing|Scraped|
+|-|616|Not uploaded/missing|-|
+|-|617|Not uploaded/missing|-|
+|-|618|Not uploaded/missing|-|
 |-|619|uploaded|Scraped|
-|-|620|Not uploaded/missing|Scraped|
+|-|620|Not uploaded/missing|-|
 |-|621|uploaded|Scraped|
 |-|622|uploaded|Scraped|
-|-|623|Not uploaded/missing|Scraped|
+|-|623|Not uploaded/missing|-|
 |-|624|uploaded|Scraped|
 |-|625|uploaded|Scraped|
 |-|626|uploaded|Scraped|
