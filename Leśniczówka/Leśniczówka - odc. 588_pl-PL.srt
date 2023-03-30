@@ -1,0 +1,1394 @@
+1
+00:00:00,320 --> 00:00:02,800
+<font color="#16F158">Zostaniesz naszym świadkiem?</font>
+
+2
+00:00:02,960 --> 00:00:05,360
+Oczywiście. Że nie.
+
+3
+00:00:05,520 --> 00:00:08,000
+Nie chcę mieć z tobą nic wspólnego.
+
+4
+00:00:08,160 --> 00:00:13,120
+Komendant chce mu postawić zarzuty.
+<font color="#16F158">Proszę, Nowacki, wypuść go.</font>
+
+5
+00:00:13,280 --> 00:00:15,160
+Panie Konradzie!
+
+6
+00:00:15,320 --> 00:00:18,080
+Panie Konradzie, co się stało?
+
+7
+00:00:18,240 --> 00:00:21,600
+Wracaj do domu i połóż się spać.
+
+8
+00:00:21,760 --> 00:00:26,040
+Własna matka nigdy dla mnie
+tyle nie zrobiła. Kocham cię.
+
+9
+00:00:36,440 --> 00:00:43,400
+PIOSENKA:
+Świat pozamykał nagle tyle drzwi
+
+10
+00:00:45,200 --> 00:00:50,160
+i w niepamięć poszło tyle dni,
+
+11
+00:00:50,320 --> 00:00:53,360
+złych dróg,
+
+12
+00:00:53,520 --> 00:00:58,960
+błędnych dróg.
+
+13
+00:01:01,840 --> 00:01:08,840
+Jest w zaklinaniu jutra jakiś sens.
+
+14
+00:01:09,000 --> 00:01:12,440
+Jeśli czegoś pragnę, czegoś chcę,
+
+15
+00:01:12,600 --> 00:01:15,200
+wszystko mi da dobry Bóg.
+
+16
+00:01:24,000 --> 00:01:27,720
+Czyli jednak
+jakiś kryzys w związku, tak?
+
+17
+00:01:27,880 --> 00:01:30,000
+<font color="aqua">Wie pani, jak to jest.</font>
+
+18
+00:01:30,160 --> 00:01:33,320
+Przepraszam,
+że tak bezpośrednio pytam.
+
+19
+00:01:33,480 --> 00:01:38,080
+Pan zawsze mi doradzał,
+jak miałam problemy w związkach.
+
+20
+00:01:38,240 --> 00:01:40,280
+<font color="aqua">Nie szkodzi.</font>
+
+21
+00:01:41,520 --> 00:01:43,800
+A Kasia przyjdzie do pana?
+
+22
+00:01:43,960 --> 00:01:46,960
+Nie chciałabym
+pana zostawiać samego.
+
+23
+00:01:47,120 --> 00:01:50,840
+<font color="aqua">Przyjdzie czy nie przyjdzie,</font>
+<font color="aqua">późno już.</font>
+
+24
+00:01:51,000 --> 00:01:53,360
+<font color="aqua">Niech pani idzie do domu.</font>
+
+25
+00:01:54,640 --> 00:01:57,640
+<font color="aqua">W pracy pani potrzebuję,</font>
+<font color="aqua">nie tutaj.</font>
+
+26
+00:01:57,800 --> 00:01:59,640
+<font color="aqua">Proszę się nie martwić.</font>
+
+27
+00:01:59,800 --> 00:02:03,000
+<font color="aqua">To zwierzę nie było chore</font>
+<font color="aqua">ani agresywne.</font>
+
+28
+00:02:03,160 --> 00:02:07,080
+<font color="aqua">Przecież nie będzie go pani szukać.</font>
+No nie.
+
+29
+00:02:07,240 --> 00:02:10,560
+<font color="aqua">Po prostu pech,</font>
+<font color="aqua">że wpadliśmy na siebie.</font>
+
+30
+00:02:10,720 --> 00:02:12,760
+<font color="aqua">Była z małymi.</font>
+
+31
+00:02:12,920 --> 00:02:15,320
+<font color="aqua">Broniła ich i tyle.</font>
+No tak.
+
+32
+00:02:16,120 --> 00:02:18,960
+<font color="aqua">Niech pani idzie.</font>
+<font color="#8080FF">SKRZYPIENIE DRZWI</font>
+
+33
+00:02:20,680 --> 00:02:23,600
+Tak, to ja rzeczywiście już pójdę.
+
+34
+00:02:24,200 --> 00:02:26,880
+Do widzenia.
+<font color="aqua">Dziękuję.</font>
+
+35
+00:02:41,560 --> 00:02:44,240
+Jajka będą za pięć minut.
+
+36
+00:02:44,400 --> 00:02:46,320
+Mhm.
+
+37
+00:02:46,480 --> 00:02:51,280
+A ty przez te pięć minut
+będziesz siedział z tą gazetą?
+
+38
+00:02:51,440 --> 00:02:54,240
+- Przeszkadza ci to?
+- Trochę.
+
+39
+00:02:54,400 --> 00:02:57,560
+- W czym?
+- W rozmowie, Artur.
+
+40
+00:02:57,720 --> 00:02:59,840
+O czym chcesz rozmawiać?
+
+41
+00:03:00,000 --> 00:03:02,920
+Ty widziałeś to ogłoszenie?
+
+42
+00:03:03,080 --> 00:03:08,240
+"Profesjonalny coach relacji
+damsko-męskich Anna Adamczyk.
+
+43
+00:03:08,400 --> 00:03:12,880
+Straciłeś nadzieję
+na znalezienie idealnego partnera?"
+
+44
+00:03:13,040 --> 00:03:15,840
+- Jest numer i adres.
+- I co z tego?
+
+45
+00:03:16,000 --> 00:03:18,240
+Może pomogłaby naszej Beatce.
+
+46
+00:03:18,400 --> 00:03:21,400
+Beatka nie chce dać sobie pomóc.
+
+47
+00:03:21,560 --> 00:03:24,000
+Możemy to chociaż przegadać?
+
+48
+00:03:24,160 --> 00:03:28,800
+A możemy zjeść jajka na miękko,
+a nie na twardo?
+
+49
+00:03:28,960 --> 00:03:31,760
+No pewnie. To idź i przypilnuj.
+
+50
+00:03:41,400 --> 00:03:45,240
+<font color="aqua">Jak ją zauważyłem,</font>
+<font color="aqua">to była już metr ode mnie.</font>
+
+51
+00:03:47,320 --> 00:03:49,680
+<font color="aqua">Przewróciłem się...</font>
+
+52
+00:03:51,760 --> 00:03:55,120
+<font color="aqua">usłyszałem aż taki huk w głowie...</font>
+
+53
+00:03:57,760 --> 00:04:00,600
+<font color="aqua">Uszedłem kilka kroków i...</font>
+
+54
+00:04:00,760 --> 00:04:03,160
+<font color="aqua">nie wiem, chyba zemdlałem.</font>
+
+55
+00:04:03,320 --> 00:04:06,800
+<font color="#FFFF51">Gdyby nie Beatka, mogłeś zamarznąć.</font>
+
+56
+00:04:06,960 --> 00:04:10,720
+<font color="aqua">Nie myśl tak.</font>
+<font color="aqua">W końcu ktoś by mnie znalazł.</font>
+
+57
+00:04:10,880 --> 00:04:13,960
+<font color="aqua">Albo do kogoś bym się dodzwonił.</font>
+
+58
+00:04:14,120 --> 00:04:16,440
+<font color="#FFFF51">Gdyby ci się coś stało...</font>
+
+59
+00:04:16,600 --> 00:04:18,680
+<font color="aqua">Ale się nie stało.</font>
+
+60
+00:04:20,000 --> 00:04:24,200
+<font color="#FFFF51">Ja wiem, że ostatnio</font>
+<font color="#FFFF51">między nami było kiepsko,</font>
+
+61
+00:04:24,360 --> 00:04:27,360
+<font color="#FFFF51">ale chciałabym, żebyś wiedział...</font>
+
+62
+00:04:28,520 --> 00:04:31,160
+<font color="#FFFF51">Że ja bardzo...</font>
+<font color="aqua">Kasia...</font>
+
+63
+00:04:31,320 --> 00:04:34,200
+<font color="#FFFF51">Musimy szczerze porozmawiać.</font>
+<font color="aqua">Wiem.</font>
+
+64
+00:04:34,840 --> 00:04:37,320
+<font color="aqua">Bardzo, bardzo chętnie.</font>
+
+65
+00:04:37,480 --> 00:04:40,680
+<font color="aqua">Ale chyba muszę odpocząć.</font>
+<font color="#FFFF51">Dobrze.</font>
+
+66
+00:04:40,840 --> 00:04:43,320
+<font color="aqua">Przepraszam.</font>
+<font color="#FFFF51">Jasne.</font>
+
+67
+00:05:06,280 --> 00:05:10,760
+Naprawdę nie masz pięciu minut,
+żeby ze mną porozmawiać?
+
+68
+00:05:10,920 --> 00:05:14,800
+Nie, muszę skończyć obchód.
+Konrad na mnie liczy.
+
+69
+00:05:14,960 --> 00:05:19,280
+- Z Arturem mi się nie układa.
+- Dlatego jestem sama.
+
+70
+00:05:19,440 --> 00:05:23,600
+- To jest twoja rada dla mnie?
+- Mów, co się dzieje.
+
+71
+00:05:23,760 --> 00:05:27,520
+Ja się skupiłam na pracy,
+on na zbijaniu bąków
+
+72
+00:05:27,680 --> 00:05:29,920
+i coś między nami wygasło.
+
+73
+00:05:30,080 --> 00:05:34,480
+Dziwny czas.
+Kasia z Konradem też mają problemy.
+
+74
+00:05:34,640 --> 00:05:38,760
+Muszę dokończyć obchód.
+Mam mnóstwo papierkowej...
+
+75
+00:05:39,640 --> 00:05:43,320
+Nie. Edytka, znam cię.
+Widzę, że coś knujesz.
+
+76
+00:05:43,480 --> 00:05:48,480
+Oni się ciągle kłócą.
+Może oni nie są sobie przeznaczeni.
+
+77
+00:05:48,640 --> 00:05:53,200
+- Może to jest miłość.
+- Nawet o tym nie myśl. Basta.
+
+78
+00:05:53,360 --> 00:05:55,880
+- Ale gdybyś...
+- Nie.
+
+79
+00:05:56,040 --> 00:05:58,920
+No dobra. O czym myśmy rozmawiały?
+
+80
+00:05:59,080 --> 00:06:02,880
+- To ty mi powiedz.
+- Chodzi o to, że Artur...
+
+81
+00:06:03,040 --> 00:06:08,120
+Sprawa działki zamknięta
+i sprawa odszkodowania też, tak?
+
+82
+00:06:08,280 --> 00:06:11,400
+Wszystkie twoje sprawy są zamknięte.
+
+83
+00:06:11,560 --> 00:06:14,000
+Ja mam jeszcze jedną rzecz,
+
+84
+00:06:14,160 --> 00:06:17,240
+ale nie wiem,
+jak się do tego zabrać.
+
+85
+00:06:18,120 --> 00:06:21,760
+Mówisz o panu Kimie i Robercie?
+
+86
+00:06:23,240 --> 00:06:28,840
+Z powrotem zatrudniłeś Roberta,
+chcesz dalej pracować z Kimem.
+
+87
+00:06:29,000 --> 00:06:31,440
+Ja ci tu chyba nie pomogę.
+
+88
+00:06:31,600 --> 00:06:33,840
+Robert dał mu sporo kasy,
+
+89
+00:06:34,000 --> 00:06:37,040
+ale próbował to załatwić
+na cwaniaka.
+
+90
+00:06:37,200 --> 00:06:42,200
+Ani nie powiedział za co,
+ani nie powiedział "przepraszam".
+
+91
+00:06:42,360 --> 00:06:44,400
+Potrzymaj Marcela.
+
+92
+00:06:52,200 --> 00:06:55,960
+Tyle jeszcze dzisiaj
+będziesz miał na koncie.
+
+93
+00:06:56,680 --> 00:07:00,280
+Odszkodowanie i działka.
+Niezła sumka, co?
+
+94
+00:07:00,440 --> 00:07:04,440
+Widzisz, synku?
+Zobacz, jaka piękna sumka.
+
+95
+00:07:06,240 --> 00:07:08,760
+Gdzie to położyć?
+
+96
+00:07:08,920 --> 00:07:12,400
+- Byle nie na mojej kawie.
+- Dzień dobry.
+
+97
+00:07:12,560 --> 00:07:17,160
+Z wszystkich znanych mi Kimów
+mój ulubiony pan Kim!
+
+98
+00:07:17,320 --> 00:07:20,800
+- Co za przemiła niespodzianka!
+- Nie, nie!
+
+99
+00:07:22,120 --> 00:07:24,200
+Uciekł.
+
+100
+00:07:29,120 --> 00:07:33,920
+W tym twoim lesie jest taki bałagan
+jak w mojej miłości.
+
+101
+00:07:34,080 --> 00:07:38,120
+Kiedyś czułam, że się kochaliśmy,
+że było uczucie.
+
+102
+00:07:38,280 --> 00:07:40,560
+I chciałabyś to naprawić.
+
+103
+00:07:40,720 --> 00:07:43,920
+Próbujemy,
+ale sztucznie to wychodzi.
+
+104
+00:07:44,080 --> 00:07:47,320
+Ja bym chciała,
+żeby było jak dawniej.
+
+105
+00:07:47,480 --> 00:07:49,800
+Nie, tak to już nie będzie.
+
+106
+00:07:49,960 --> 00:07:53,480
+Każdy związek
+przechodzi przez różne etapy.
+
+107
+00:07:53,640 --> 00:07:56,680
+- Teraz macie dół.
+- Tylko co dalej?
+
+108
+00:07:56,840 --> 00:07:59,400
+Jezu, żebyśmy się nie rozstali.
+
+109
+00:07:59,560 --> 00:08:03,640
+Pomyśl, co sprawia,
+że dogadujecie się najlepiej.
+
+110
+00:08:03,800 --> 00:08:09,120
+Jak już to wymyślisz, staraj się
+prowokować tego typu sytuacje.
+
+111
+00:08:09,280 --> 00:08:13,720
+Dla niektórych to mogą być podróże,
+dla innych sport.
+
+112
+00:08:13,880 --> 00:08:16,440
+Ja właśnie o tym myślałam.
+
+113
+00:08:16,600 --> 00:08:20,920
+My się najlepiej dogadujemy,
+jak mamy wspólny cel.
+
+114
+00:08:21,080 --> 00:08:26,320
+- I to niekoniecznie dotyczy nas.
+- Świetnie. Na tym się skup.
+
+115
+00:08:26,480 --> 00:08:28,640
+- Jesteś pewna?
+- Mhm.
+
+116
+00:08:28,800 --> 00:08:31,040
+Okej. Super.
+
+117
+00:08:31,200 --> 00:08:33,240
+Okej.
+
+118
+00:08:37,240 --> 00:08:39,840
+Co dokładnie powiedział?
+
+119
+00:08:40,000 --> 00:08:43,400
+Przecież już ci mówiłem,
+że nie mówił nic.
+
+120
+00:08:43,560 --> 00:08:47,200
+- Cholera.
+- No właśnie, cholera.
+
+121
+00:08:47,360 --> 00:08:53,000
+A może ty byś się z nim spotkał,
+wytłumaczył, załagodził jakoś?
+
+122
+00:08:53,160 --> 00:08:57,480
+- Od tygodnia o tym myślę.
+- To czemu tego nie zrobiłeś?
+
+123
+00:08:57,640 --> 00:09:01,640
+- Nie wiem, co mu powiedzieć.
+- Że Robert nie jest zły.
+
+124
+00:09:01,800 --> 00:09:06,040
+Tylko przez przypadek
+ukradł ci technologię.
+
+125
+00:09:06,200 --> 00:09:07,880
+I w sumie nie wiem,
+
+126
+00:09:08,040 --> 00:09:11,440
+czemu go przyjąłem
+z powrotem do pracy,
+
+127
+00:09:11,600 --> 00:09:13,560
+ale przyjąłem.
+
+128
+00:09:13,720 --> 00:09:18,280
+- Tak mam powiedzieć?
+- Tak. Zawsze warto spróbować.
+
+129
+00:09:19,880 --> 00:09:22,880
+Ty, on wciąż stoi pod budynkiem.
+
+130
+00:09:23,040 --> 00:09:25,800
+- Może zejdę do niego?
+- Nie ma mowy.
+
+131
+00:09:25,960 --> 00:09:29,680
+- Wszystko zaognisz.
+- Mój urok osobisty...
+
+132
+00:09:29,840 --> 00:09:33,520
+Masz gadane,
+ale tym gadaniem wszystko niszczysz.
+
+133
+00:09:33,680 --> 00:09:36,560
+- Nie wychodź tam.
+- Dobra, już.
+
+134
+00:09:42,840 --> 00:09:46,440
+Jestem pewna,
+że Beatka chce naszej pomocy.
+
+135
+00:09:46,600 --> 00:09:48,520
+Artur, ty mnie słuchasz?
+
+136
+00:09:48,680 --> 00:09:51,720
+- Beatka chce naszej pomocy?
+- Tak.
+
+137
+00:09:51,880 --> 00:09:54,200
+Przed chwilą rozmawiałyśmy.
+
+138
+00:09:54,360 --> 00:09:58,880
+- Nagle zmieniła zdanie?
+- Trochę ją podpuściłam.
+
+139
+00:09:59,040 --> 00:10:02,760
+Powiedziała ci:
+"Pomóżcie mi znaleźć faceta"?
+
+140
+00:10:02,920 --> 00:10:05,440
+Dała mi tak do zrozumienia.
+
+141
+00:10:05,600 --> 00:10:10,080
+Jej duma i upór nie pozwalają jej
+się do tego przyznać.
+
+142
+00:10:10,240 --> 00:10:12,000
+Trzeba ją sprowokować.
+
+143
+00:10:16,200 --> 00:10:19,520
+Chcesz ją sprowokować statystykami?
+
+144
+00:10:19,680 --> 00:10:21,720
+Nie, raczej wkurzyć.
+
+145
+00:10:22,560 --> 00:10:28,000
+Nie. Ja myślę, że ona powinna
+szczerze pogadać sama ze sobą.
+
+146
+00:10:28,160 --> 00:10:31,320
+- Ktoś ją musi przycisnąć do muru.
+- Kto?
+
+147
+00:10:31,480 --> 00:10:35,280
+Dziennikarka,
+która napisała ten artykuł.
+
+148
+00:10:39,120 --> 00:10:41,880
+- Dobrze. Cześć.
+- Słuchaj!
+
+149
+00:10:42,040 --> 00:10:44,920
+Wiem, że źle zrobiłem.
+
+150
+00:10:45,080 --> 00:10:49,160
+Ale dostałeś w końcu
+ode mnie kasę. Tak czy nie?
+
+151
+00:10:49,320 --> 00:10:51,800
+Prawdy może nie, ale kasę tak.
+
+152
+00:10:51,960 --> 00:10:56,240
+Możemy wrócić do biura
+i spokojnie porozmawiać?
+
+153
+00:10:56,400 --> 00:10:58,400
+Proszę.
+
+154
+00:11:01,280 --> 00:11:03,480
+Błagać nie będę.
+
+155
+00:11:09,320 --> 00:11:11,320
+Co ty robisz?
+
+156
+00:11:11,960 --> 00:11:14,880
+To są jakieś jaja. Co ty robisz?
+
+157
+00:11:19,440 --> 00:11:22,240
+Kochanie, a może kupimy dom?
+
+158
+00:11:23,040 --> 00:11:25,560
+- Nie musimy.
+- Ale możemy.
+
+159
+00:11:25,720 --> 00:11:28,880
+Zobacz,
+ja mam tyle forsy na koncie...
+
+160
+00:11:29,040 --> 00:11:32,520
+Musimy coś z tym zrobić,
+jakoś to wydać.
+
+161
+00:11:32,680 --> 00:11:35,080
+Może jakaś wycieczka?
+
+162
+00:11:35,240 --> 00:11:37,720
+- Z małym? Co ty?
+- No tak.
+
+163
+00:11:37,880 --> 00:11:39,800
+No to co tylko chcesz.
+
+164
+00:11:41,400 --> 00:11:45,760
+Jest taka jedna rzecz,
+którą bym chciała kupić.
+
+165
+00:11:45,920 --> 00:11:48,080
+Czas.
+
+166
+00:11:48,640 --> 00:11:51,640
+Skoro jesteśmy własnymi szefami,
+
+167
+00:11:51,800 --> 00:11:55,800
+może moglibyśmy sobie wydłużyć
+urlop rodzicielski?
+
+168
+00:11:55,960 --> 00:11:59,720
+Jesteś gotowy,
+żeby wrócić do starego trybu?
+
+169
+00:11:59,880 --> 00:12:02,640
+- Tak. Jestem gotowy.
+- A ja nie.
+
+170
+00:12:02,800 --> 00:12:05,120
+Wczoraj chodziłam po ścianach,
+
+171
+00:12:05,280 --> 00:12:08,360
+bo pojechałeś sam z Marcelem
+do pediatry.
+
+172
+00:12:08,520 --> 00:12:12,040
+Robert nie poradzi sobie sam
+z nowym projektem.
+
+173
+00:12:12,200 --> 00:12:16,760
+- Musimy zaczynać nowy projekt?
+- Musimy wykorzystać moment.
+
+174
+00:12:16,920 --> 00:12:21,880
+Firma ma sukces, jesteśmy na fali,
+trzeba iść do przodu.
+
+175
+00:12:22,040 --> 00:12:25,600
+Odeszliśmy w newralgicznym momencie.
+
+176
+00:12:25,760 --> 00:12:27,640
+Robert sobie poradzi.
+
+177
+00:12:27,800 --> 00:12:33,840
+Nawet nie wiem, jak rozwiązać sprawę
+między panem Kimem a Robertem.
+
+178
+00:12:34,000 --> 00:12:37,360
+Jak mieliby zacząć nowy projekt?
+
+179
+00:12:37,520 --> 00:12:39,600
+<font color="#8080FF">WIBRACJE TELEFONU</font>
+
+180
+00:12:41,280 --> 00:12:43,120
+Tak, słucham.
+
+181
+00:12:43,280 --> 00:12:46,480
+ROBERT: Potrzebuję pomocy.
+Przyjedź tu.
+
+182
+00:12:46,640 --> 00:12:48,520
+- Gdzie?
+- Na komendę.
+
+183
+00:12:54,280 --> 00:12:57,160
+- Beatka.
+- Artur.
+
+184
+00:12:57,320 --> 00:12:59,440
+Jak życie?
+
+185
+00:13:00,680 --> 00:13:03,600
+Przyszedłeś z czymś konkretnym?
+
+186
+00:13:04,400 --> 00:13:07,360
+W sumie pogadać chciałem.
+
+187
+00:13:07,520 --> 00:13:09,760
+O Edytce.
+
+188
+00:13:09,920 --> 00:13:11,560
+Nie układa się wam?
+
+189
+00:13:11,720 --> 00:13:14,000
+- Wiesz, jak jest.
+- Niby skąd?
+
+190
+00:13:14,160 --> 00:13:17,080
+Od Edytki. Na pewno ci opowiada.
+
+191
+00:13:17,240 --> 00:13:21,440
+Musicie skupić się na tym,
+co sprawia wam radość,
+
+192
+00:13:21,600 --> 00:13:23,720
+i wszystko będzie dobrze.
+
+193
+00:13:24,400 --> 00:13:28,760
+Tak czy siak, będziemy razem,
+szczęśliwi czy nie.
+
+194
+00:13:28,920 --> 00:13:33,240
+- Co za głupoty opowiadasz?
+- Nikt nie chce być sam.
+
+195
+00:13:33,400 --> 00:13:36,920
+Lepiej być razem nieszczęśliwym
+niż samotnym.
+
+196
+00:13:37,080 --> 00:13:38,880
+Bzdura.
+
+197
+00:13:39,040 --> 00:13:41,400
+Nie, to prawda.
+
+198
+00:13:41,560 --> 00:13:44,800
+I to podparta niezbitymi dowodami.
+
+199
+00:13:48,160 --> 00:13:52,200
+Nikt nie chce być sam.
+Jesteś wymarłym gatunkiem.
+
+200
+00:13:52,360 --> 00:13:54,840
+Wiele kobiet myśli tak jak ja,
+
+201
+00:13:55,000 --> 00:13:58,040
+tylko boją się o tym głośno mówić.
+
+202
+00:13:58,200 --> 00:14:01,400
+Tak? A jakoś o tym
+w portalu nie piszą.
+
+203
+00:14:01,560 --> 00:14:04,720
+Ja bym się przeszedł
+do tej Małgosi
+
+204
+00:14:04,880 --> 00:14:06,920
+i zapytał, o co chodzi.
+
+205
+00:14:07,080 --> 00:14:09,720
+Już ja się przejdę.
+
+206
+00:14:17,440 --> 00:14:19,440
+<font color="aqua">Co powiedział lekarz?</font>
+
+207
+00:14:19,600 --> 00:14:23,280
+<font color="#FFFF51">Możesz się od razu wypisać</font>
+<font color="#FFFF51">i wracać do domu.</font>
+
+208
+00:14:23,440 --> 00:14:26,800
+<font color="#FFFF51">Musisz się stawiać</font>
+<font color="#FFFF51">na kontrole, ale...</font>
+
+209
+00:14:26,960 --> 00:14:30,480
+<font color="aqua">Kasia... Bo ja słaby wciąż jestem.</font>
+
+210
+00:14:30,640 --> 00:14:36,440
+<font color="aqua">Trzeba się będzie mną opiekować,</font>
+<font color="aqua">coś ugotować, podać leki... wiesz.</font>
+
+211
+00:14:36,600 --> 00:14:40,120
+<font color="#FFFF51">Ale ja będę oczywiście.</font>
+<font color="aqua">Będziesz?</font>
+
+212
+00:14:40,800 --> 00:14:45,600
+<font color="aqua">Ciągle wyjeżdżasz,</font>
+<font color="aqua">ciągle cię nie ma, masz Karolinę...</font>
+
+213
+00:14:45,760 --> 00:14:49,160
+<font color="aqua">Może lepiej,</font>
+<font color="aqua">żebym został w szpitalu, co?</font>
+
+214
+00:14:49,320 --> 00:14:52,120
+<font color="#FFFF51">Bo nie możesz na mnie liczyć?</font>
+
+215
+00:14:52,280 --> 00:14:54,400
+<font color="aqua">A mogę?</font>
+
+216
+00:14:54,560 --> 00:14:57,600
+<font color="#FFFF51">Bez gadania. Wracasz do domu.</font>
+
+217
+00:14:57,760 --> 00:15:00,720
+<font color="#FFFF51">Ja się będę tobą opiekować.</font>
+
+218
+00:15:07,000 --> 00:15:09,800
+Ciocia poszła z listami,
+ale ja mogę...
+
+219
+00:15:09,960 --> 00:15:12,760
+Nie zgadzam się z tym, co napisałaś.
+
+220
+00:15:12,920 --> 00:15:15,640
+Niby z czym się nie zgadzasz?
+
+221
+00:15:15,800 --> 00:15:19,960
+Wiele kobiet nie jest w związkach
+i są szczęśliwe.
+
+222
+00:15:20,120 --> 00:15:24,400
+Ty mnie nie cytuj, tylko powiedz,
+co ci się nie podobało.
+
+223
+00:15:24,560 --> 00:15:28,760
+- Czuję, że się nie rozumiemy.
+- Zaraz. Od początku.
+
+224
+00:15:29,600 --> 00:15:34,080
+Napisałaś, że 99 procent kobiet
+chce być w związkach.
+
+225
+00:15:34,240 --> 00:15:36,240
+Szczęśliwych związkach.
+
+226
+00:15:36,400 --> 00:15:38,280
+Aha.
+
+227
+00:15:38,440 --> 00:15:42,520
+- Czyli ty też jesteś sceptyczna?
+- No jasne!
+
+228
+00:15:42,680 --> 00:15:46,240
+Czy ty przeczytałaś
+ten artykuł do końca?
+
+229
+00:15:47,520 --> 00:15:49,840
+Nie, do końca nie.
+
+230
+00:15:51,440 --> 00:15:53,560
+<font color="#8080FF">ŚMIECH MAŁGOSI</font>
+
+231
+00:15:53,720 --> 00:15:57,080
+Czy my musimy z nim być dalej
+w kontakcie?
+
+232
+00:15:57,240 --> 00:15:59,360
+On jest lekko szurnięty.
+
+233
+00:15:59,520 --> 00:16:01,360
+To cię bawi?
+
+234
+00:16:01,520 --> 00:16:06,640
+Musiałem wyjaśnić sprawę z policją
+i to było nawet zabawne.
+
+235
+00:16:06,800 --> 00:16:10,600
+Powiedziałem ci,
+że załatwię sprawę z Kimem.
+
+236
+00:16:10,760 --> 00:16:13,400
+Jak? Zresztą nieważne jak. Po co?
+
+237
+00:16:13,560 --> 00:16:16,720
+- Musimy z nim dalej pracować?
+- Musimy.
+
+238
+00:16:17,400 --> 00:16:19,600
+Co ty kombinujesz?
+
+239
+00:16:19,760 --> 00:16:21,880
+Kupuję czas.
+
+240
+00:16:26,000 --> 00:16:28,840
+Myślałam, że nas jest więcej.
+
+241
+00:16:29,000 --> 00:16:33,720
+- Kobiet, które chcą być same.
+- No bo jest.
+
+242
+00:16:33,880 --> 00:16:36,560
+Tylko boimy się o tym mówić.
+
+243
+00:16:36,720 --> 00:16:39,360
+Część z tych 99 procent
+
+244
+00:16:39,520 --> 00:16:43,440
+okłamuje samą siebie
+przez presję społeczeństwa.
+
+245
+00:16:43,600 --> 00:16:46,600
+- Możliwe.
+- Wiesz, co mogłoby pomóc?
+
+246
+00:16:46,760 --> 00:16:50,000
+Przedstawienie
+punktu widzenia kobiety,
+
+247
+00:16:50,160 --> 00:16:53,720
+która zdecydowała się
+na życie w pojedynkę.
+
+248
+00:16:53,880 --> 00:16:57,000
+Super. Siedź, a ja idę po dyktafon.
+
+249
+00:16:57,160 --> 00:16:59,560
+Ze mną chcesz zrobić wywiad?
+
+250
+00:16:59,720 --> 00:17:02,600
+Sama ze sobą
+nie przeprowadzę wywiadu.
+
+251
+00:17:03,680 --> 00:17:08,160
+No jeśli to ma pomóc komuś
+odkryć prawdę o sobie...
+
+252
+00:17:35,640 --> 00:17:39,760
+<font color="aqua">Kasia?</font>
+<font color="#FFFF51">Nie chciałam cię obudzić.</font>
+
+253
+00:17:39,920 --> 00:17:42,000
+<font color="#FFFF51">Przyniosłam śniadanie.</font>
+
+254
+00:17:42,760 --> 00:17:44,760
+<font color="aqua">Wow. Dziękuję.</font>
+
+255
+00:17:44,920 --> 00:17:47,600
+<font color="#FFFF51">Mam nadzieję,</font>
+<font color="#FFFF51">że będzie ci smakowało.</font>
+
+256
+00:17:47,760 --> 00:17:49,680
+<font color="aqua">Na pewno. Wygląda pięknie.</font>
+
+257
+00:17:49,840 --> 00:17:54,000
+<font color="#FFFF51">Pójdę po wodę,</font>
+<font color="#FFFF51">żebyś nie popijał sokiem lekarstw.</font>
+
+258
+00:17:54,160 --> 00:17:56,800
+<font color="aqua">Dziękuję.</font>
+<font color="#FFFF51">Poradzisz sobie?</font>
+
+259
+00:17:58,840 --> 00:18:01,000
+<font color="#FFFF51">Smacznego.</font>
+
+260
+00:18:09,640 --> 00:18:12,120
+Już.
+
+261
+00:18:15,400 --> 00:18:17,120
+Co zdecydowało o tym,
+
+262
+00:18:17,280 --> 00:18:21,440
+że podjęłaś decyzję
+o spędzeniu życia w pojedynkę?
+
+263
+00:18:21,600 --> 00:18:25,520
+Zwykle zakłada się,
+że jak kobieta jest sama,
+
+264
+00:18:25,680 --> 00:18:28,080
+to znaczy, że jest samotna.
+
+265
+00:18:28,240 --> 00:18:31,400
+- Ale to nie to samo.
+- Absolutnie nie.
+
+266
+00:18:31,560 --> 00:18:36,360
+Kobieta sama to człowiek,
+który nie nudzi się sam ze sobą.
+
+267
+00:18:36,520 --> 00:18:41,240
+Dlatego podjęłaś decyzję
+o spędzeniu życia w pojedynkę.
+
+268
+00:18:41,400 --> 00:18:45,960
+To raczej było konsekwencją
+moich poprzednich wyborów.
+
+269
+00:18:46,120 --> 00:18:49,720
+Nie udało mi się znaleźć
+idealnego partnera
+
+270
+00:18:49,880 --> 00:18:52,640
+i uznałam, że taki nie istnieje.
+
+271
+00:18:55,400 --> 00:18:59,800
+A gdybyś spotkała
+tego jednego jedynego?
+
+272
+00:18:59,960 --> 00:19:01,960
+Ale nie spotkałam.
+
+273
+00:19:02,120 --> 00:19:05,160
+Wszyscy moi faceci
+to były podłe świnie.
+
+274
+00:19:07,600 --> 00:19:10,160
+- Co ty robisz?
+- Beata.
+
+275
+00:19:11,200 --> 00:19:13,920
+Ja chcę być sama, ale ty?
+
+276
+00:19:14,520 --> 00:19:17,280
+- Nie. Nie chcesz.
+- Nie?
+
+277
+00:19:17,440 --> 00:19:20,960
+Jesteś rozżalona,
+zmęczona szukaniem.
+
+278
+00:19:21,120 --> 00:19:23,120
+Poddałaś się.
+
+279
+00:19:24,360 --> 00:19:26,480
+O w mordę.
+
+280
+00:19:28,440 --> 00:19:30,920
+<font color="#8080FF">DZWONI TELEFON</font>
+
+281
+00:19:37,360 --> 00:19:41,000
+<font color="#FFFF51">Halo.</font>
+Dzwonię do ciebie cały dzień.
+
+282
+00:19:41,160 --> 00:19:42,920
+<font color="#FFFF51">Przepraszam, ale...</font>
+
+283
+00:19:43,080 --> 00:19:46,040
+Mamy mało czasu,
+a dużo do zrobienia.
+
+284
+00:19:46,200 --> 00:19:49,760
+<font color="#FFFF51">Nie mogę się teraz zająć</font>
+<font color="#FFFF51">wnioskiem Karoliny.</font>
+
+285
+00:19:49,920 --> 00:19:52,320
+<font color="#FFFF51">Po prostu... Nie mogę.</font>
+
+286
+00:19:52,480 --> 00:19:56,880
+Słucham?
+<font color="#FFFF51">Muszę się teraz skupić na rodzinie.</font>
+
+287
+00:19:57,040 --> 00:20:00,320
+Rezygnujesz?
+Nie chcesz pomóc Karolinie?
+
+288
+00:20:00,480 --> 00:20:03,360
+<font color="#FFFF51">Po prostu... Po prostu nie mogę.</font>
+
+289
+00:20:06,560 --> 00:20:08,960
+<font color="#FFFF51">Pa.</font>
+
+290
+00:20:23,120 --> 00:20:25,200
+<font color="#8080FF">WIBRACJE TELEFONU</font>
+
+291
+00:20:45,880 --> 00:20:48,120
+<font color="#8080FF">ODGŁOS OTWIERANYCH DRZWI</font>
+
+292
+00:20:54,240 --> 00:20:58,320
+Jest pan. Nie wiedziałem,
+czy mogę już iść do domu.
+
+293
+00:20:58,480 --> 00:21:00,440
+Idź, idź.
+
+294
+00:21:00,600 --> 00:21:04,080
+- Co się stało?
+- Telefon mi gdzieś przepadł.
+
+295
+00:21:04,240 --> 00:21:06,400
+Gdzie pan był?
+
+296
+00:21:06,560 --> 00:21:09,400
+A co cię to interesuje? Dobranoc.
+
+297
+00:21:22,240 --> 00:21:25,840
+Zostaniesz u nas na noc?
+Mamy mnóstwo miejsca w domu.
+
+298
+00:21:26,000 --> 00:21:30,280
+Przecież nie możemy udawać,
+że Mariana w ogóle nie ma.
+
+299
+00:21:30,440 --> 00:21:35,080
+<font color="#FFFF51">Cześć, Czarek. Mógłbyś</font>
+<font color="#FFFF51">przyjechać jutro do Leśniczówki?</font>
+
+300
+00:21:35,240 --> 00:21:37,280
+Co tu robi gazeta?
+
+301
+00:21:37,440 --> 00:21:40,560
+Chcecie przekonać Beatkę do swatki?
+
+302
+00:21:44,200 --> 00:21:48,960
+PIOSENKA: Ten dom
+
+303
+00:21:49,120 --> 00:21:52,600
+pod ochroną dobrych drzew
+
+304
+00:21:56,440 --> 00:22:00,480
+i słów, co nadają się na wiersz,
+
+305
+00:22:00,640 --> 00:22:03,880
+ze snów cały jest.
+
+306
+00:22:04,040 --> 00:22:06,960
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+307
+00:22:07,120 --> 00:22:10,840
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+308
+00:22:12,960 --> 00:22:14,960
+
+
