@@ -1,0 +1,786 @@
+1
+00:00:00,000 --> 00:00:01,978
+Cześć!
+
+2
+00:00:01,978 --> 00:00:19,978
+Cześć, mam nadzieję, że jesteście gotowi na kolejną naukową przygodę i że jak
+zwykle pani nauka będzie nam towarzyszyć.
+
+3
+00:00:19,978 --> 00:00:24,978
+Oczywiście, będę uważnie śledzić wasze odkrycia i w razie czego służyć pomocą.
+
+4
+00:00:25,978 --> 00:00:28,978
+To świetnie, bo dzisiejsze pytania nie są proste.
+
+5
+00:00:28,978 --> 00:00:34,978
+Dlaczego księżec zmienia kształt? Po co wyją wilki? I jak działa internet?
+
+6
+00:00:34,978 --> 00:00:37,978
+Bardzo ciekawe pytanie. Zaczynajmy.
+
+7
+00:00:38,978 --> 00:00:39,978
+Dlaczego?
+
+8
+00:00:39,978 --> 00:00:42,978
+Czy wie pani, czemu księżec zmienia kształt?
+
+9
+00:00:44,978 --> 00:00:46,978
+No nie, powiesz mi.
+
+10
+00:00:46,978 --> 00:00:51,978
+W kosmosie tak bywa, że wszystko się zmienia, to zależy od położenia wobec
+ziemi.
+
+11
+00:00:51,978 --> 00:00:53,978
+Ciężkie pytanie takie.
+
+12
+00:00:53,978 --> 00:00:55,978
+Dlatego, że wchodzi w cień.
+
+13
+00:00:55,978 --> 00:00:58,978
+To jest chyba kwestia tego, że ziemia krąży wokół słońca.
+
+14
+00:00:58,978 --> 00:01:00,978
+Bo pewnie czasem jest głodna, czasem najedzony.
+
+15
+00:01:01,978 --> 00:01:09,978
+Widzę Mikołaju, że rozbawiła cię, nie wiedza dorosłych, ale gdyby ciebie ktoś z
+Nienacka spytał, też pewnie miałbyś kłopot z odpowiedzią.
+
+16
+00:01:09,978 --> 00:01:19,978
+Pewnie tak, ale jedno wiem. Księżyc wcale kształtu nie zmienia i tylko nam się
+wydaje, że raz jest okrągły, a raz w kształcie rogalika.
+
+17
+00:01:19,978 --> 00:01:26,978
+To prawda, a dlaczego tak się dzieje, zbadają Zuzia i Zosia, nasze młode
+asystentki w Centrum Nauki Kopernik.
+
+18
+00:01:28,096 --> 00:01:29,596
+Czy wiecie, co to jest?
+
+19
+00:01:29,596 --> 00:01:31,596
+Tak, to jest globus.
+
+20
+00:01:31,596 --> 00:01:33,596
+A globus jest modelem?
+
+21
+00:01:33,596 --> 00:01:35,096
+Kuli ziemskiej.
+
+22
+00:01:35,096 --> 00:01:38,596
+Właśnie, bo Ziemia nie jest płaska, tak jak myślano w dawnych wiekach.
+
+23
+00:01:38,596 --> 00:01:42,596
+Ziemia jest kulą. A jak myślicie, jaki kształt ma księżyc?
+
+24
+00:01:42,596 --> 00:01:44,096
+Kuli?
+
+25
+00:01:44,096 --> 00:01:49,596
+Tak, księżyc też jest kulą, która w dodatku krąży wokół Ziemi.
+
+26
+00:01:49,596 --> 00:01:54,596
+Księżyc nie odlatuje w kosmos, bo trzymają go siły przyciągania ziemskiego.
+
+27
+00:01:54,596 --> 00:01:56,596
+Co się stanie, jeśli podskoczysz?
+
+28
+00:01:56,596 --> 00:01:59,096
+Nie spadnie, bo mnie przyciąga kula ziemska.
+
+29
+00:01:59,096 --> 00:02:01,096
+No właśnie, przyciąga jak magnes.
+
+30
+00:02:01,096 --> 00:02:04,096
+Dlatego spadamy, jak podskakujemy.
+
+31
+00:02:04,096 --> 00:02:06,096
+A dlaczego księżyc nie spada?
+
+32
+00:02:06,096 --> 00:02:10,096
+Dlatego, bo jest pewna chyba grawitacja.
+
+33
+00:02:10,096 --> 00:02:13,096
+Grawitacja, właśnie przyciąga księżyc.
+
+34
+00:02:13,096 --> 00:02:20,096
+Na szczęście działa na niego jeszcze inna siła, którą nazywamy siłą odśrodkową.
+
+35
+00:02:20,096 --> 00:02:23,096
+Zobaczcie, mam piłkę na sznurku.
+
+36
+00:02:23,096 --> 00:02:24,596
+Jeśli nią zakręcę...
+
+37
+00:02:27,168 --> 00:02:31,168
+To ona utrzymuje się w górze, a linka jest cały czas napięta.
+
+38
+00:02:31,168 --> 00:02:35,168
+Możecie poczuć jak ta piłka ciągnie wręcz, żeby się wyrwać.
+
+39
+00:02:35,168 --> 00:02:37,168
+Czujesz jak ciągnie? Tak.
+
+40
+00:02:37,168 --> 00:02:40,168
+Tak właśnie działa siła odśrodkowa.
+
+41
+00:02:40,168 --> 00:02:45,168
+Siła grawitacji przyciąga ciężyc, a siła odśrodkowa odpycha.
+
+42
+00:02:45,168 --> 00:02:49,168
+Dzięki temu ani nie spada on na Ziemię, ani nie odlatuje w kosmos,
+
+43
+00:02:49,168 --> 00:02:52,168
+tylko jak gdyby na uwięzi krąży po orbicie.
+
+44
+00:02:52,168 --> 00:02:55,168
+I teraz uwaga, ciekawostka.
+
+45
+00:02:55,168 --> 00:03:00,168
+Księżyc podczas wędrówki wokół Ziemi zawsze zwrócony jest do niej tą samą
+stroną.
+
+46
+00:03:00,168 --> 00:03:04,168
+Drugą stronę Księżyca można zobaczyć tylko z kosmosu.
+
+47
+00:03:05,168 --> 00:03:09,168
+W jaki sposób widać Księżyc na niebie? Jakie on przyjmuje kształty?
+
+48
+00:03:09,168 --> 00:03:15,168
+Rogalika, kuli, czasem pół miska.
+
+49
+00:03:15,168 --> 00:03:18,168
+A czy są takie momenty, że w ogóle go nie widać? Tak.
+
+50
+00:03:18,168 --> 00:03:23,168
+Księżyc sam z siebie nie świeci, a jedynie odbija światło słoneczne.
+
+51
+00:03:23,168 --> 00:03:26,168
+My możemy dostrzec tylko tę oświetloną część.
+
+52
+00:03:26,168 --> 00:03:30,168
+Dodatkowo Księżyc przemieszcza się po orbicie wokół Ziemi.
+
+53
+00:03:30,168 --> 00:03:34,168
+Czasami widzimy większą oświetloną część, czasami mniejszą.
+
+54
+00:03:34,168 --> 00:03:38,168
+Dlatego Księżyc przybiera różne kształty na niebie.
+
+55
+00:03:38,168 --> 00:03:42,168
+Przeprowadzimy doświadczenie, które Wam to najlepiej pokaże.
+
+56
+00:03:42,168 --> 00:03:48,168
+Wy obejście sobie, że Wy jesteście Ziemią i będziecie obserwować Księżyc.
+
+57
+00:03:48,168 --> 00:03:56,168
+Tam świeci nasze słońce, a ja będę krążył wokół Was i kula będzie Księżycem.
+
+58
+00:03:58,160 --> 00:03:59,560
+Co teraz widzicie?
+
+59
+00:03:59,560 --> 00:04:02,160
+Rogalik na Księżycu.
+
+60
+00:04:02,160 --> 00:04:08,760
+To dlatego, że teraz widać tylko wąski fragment oświetlonej przez Słońce części
+Księżyca.
+
+61
+00:04:08,760 --> 00:04:13,160
+Ale jak pamiętacie, Księżyc przesuwa się po orbicie wokół Ziemi.
+
+62
+00:04:13,160 --> 00:04:19,160
+Po kilku dniach będziemy już widzieć większą część oświetloną, którą nazwiemy
+pierwszą kwadrą.
+
+63
+00:04:19,160 --> 00:04:25,760
+Kształtem przypomina literę D i dzięki temu możemy pamiętać, że teraz Księżyc
+się dopełnia.
+
+64
+00:04:25,760 --> 00:04:30,160
+Z każdym kolejnym dniem będziemy widzieć większą część Księżyca.
+
+65
+00:04:30,160 --> 00:04:32,160
+Co teraz widać?
+
+66
+00:04:32,160 --> 00:04:34,160
+Jest jeszcze więcej Księżyca.
+
+67
+00:04:34,160 --> 00:04:37,760
+Tak, a potem nastąpi pełniak.
+
+68
+00:04:37,760 --> 00:04:39,760
+Czy wiecie co to jest pełniak Księżyca?
+
+69
+00:04:39,760 --> 00:04:45,760
+Tak, pełniak Księżyca to całkowicie cały Księżyc.
+
+70
+00:04:46,760 --> 00:04:49,760
+Teraz ponownie widać Księżyc Garbaty.
+
+71
+00:04:52,954 --> 00:04:54,954
+Co teraz widzicie?
+
+72
+00:04:54,954 --> 00:04:59,954
+Połówka księżyca jest taka ciemna, a połówka jest jasna.
+
+73
+00:04:59,954 --> 00:05:02,954
+Jest to trzecia kwadra, nieco przypomina literkę C,
+
+74
+00:05:02,954 --> 00:05:07,954
+co można sobie zapamiętać jako księżyc ciemnieje, robi się cienki.
+
+75
+00:05:07,954 --> 00:05:09,954
+Jak myślicie, co za chwilę ujrzymy?
+
+76
+00:05:09,954 --> 00:05:12,954
+Taki malutki, malusieńki rogalik.
+
+77
+00:05:12,954 --> 00:05:14,954
+Przekonajmy się.
+
+78
+00:05:14,954 --> 00:05:19,954
+Tak, widać już tylko wąski fragment oświetlonej części księżyca,
+
+79
+00:05:19,954 --> 00:05:25,954
+a po kilku dniach w ogóle nie będzie można dostrzec księżyca na niebie.
+
+80
+00:05:25,954 --> 00:05:27,954
+Tę fazę nazywamy nowiem.
+
+81
+00:05:27,954 --> 00:05:34,954
+Księżyc jest zwrócony do Ziemi wyłącznie swoją ciemną, nieoświetloną stroną.
+
+82
+00:05:34,954 --> 00:05:39,954
+Tak więc kształt księżyca na niebie zależy od jego położenia względem Ziemi i
+Słońca.
+
+83
+00:05:39,954 --> 00:05:42,954
+Zawsze widzimy tylko jego oświetloną część.
+
+84
+00:05:42,954 --> 00:05:44,954
+Reszta ginie w mroku.
+
+85
+00:05:44,954 --> 00:05:47,954
+Poszczególne etapy nazywamy fazami księżyca.
+
+86
+00:05:47,954 --> 00:05:53,954
+Powtarzają się one co 27 dni, bo tyle właśnie trwa pełny obieg wokół Ziemi.
+
+87
+00:05:56,954 --> 00:05:57,954
+Po co?
+
+88
+00:05:58,954 --> 00:06:01,954
+Ale super wygląda księżyc przez lornetkę.
+
+89
+00:06:04,496 --> 00:06:07,496
+Chyba nie tylko ja lubię pełni księżyca.
+
+90
+00:06:07,496 --> 00:06:11,496
+Mikołaju, to są bajki. Wilki wcale nie wyją do księżyca.
+
+91
+00:06:11,496 --> 00:06:15,496
+One wyją do siebie. W ten sposób się porozumiewają.
+
+92
+00:06:15,496 --> 00:06:18,496
+Ale czemu muszą to robić w nocy i straszyć ludzi?
+
+93
+00:06:18,496 --> 00:06:22,496
+Może najpierw wyjaśnijmy po co one właściwie wyją.
+
+94
+00:06:24,128 --> 00:06:26,128
+Człowiek mówi, a wilk wyje.
+
+95
+00:06:26,128 --> 00:06:29,128
+Ostrzegają inne osobniki przed wróceniem na ich terytorium.
+
+96
+00:06:29,128 --> 00:06:32,128
+Wyjąc, namawiają się do ataku.
+
+97
+00:06:32,128 --> 00:06:35,128
+Zaznaczają swoje terytorym i się nawołują.
+
+98
+00:06:35,128 --> 00:06:38,128
+Odpowiedzi są całkiem dobre, ale o pełne wyjaśnienie
+
+99
+00:06:38,128 --> 00:06:42,128
+poprosiliśmy doktora Kruszewicza, dyrektora warszawskiego ZOO,
+
+100
+00:06:42,128 --> 00:06:45,128
+który doskonale orientuje się w wilczych zwyczajach.
+
+101
+00:06:45,128 --> 00:06:47,128
+Wilki wyją dlatego, że nie umieją szczekać.
+
+102
+00:06:47,128 --> 00:06:49,128
+Zresztą jedyny głos, który jest donośny
+
+103
+00:06:49,128 --> 00:06:52,128
+i może służyć do komunikowania się na odległość.
+
+104
+00:06:52,128 --> 00:06:54,128
+Przyczyn tego bycia może być kilka.
+
+105
+00:06:54,128 --> 00:06:57,128
+Jeśli są młode przy gnieździe, czasem nawołują rodziców,
+
+106
+00:06:57,128 --> 00:06:59,128
+żeby ktoś przyszedł i je nakarmił, bo są głodne.
+
+107
+00:06:59,128 --> 00:07:02,128
+Potem, kiedy są już podrośnięte, to taka grupa rodzina wyje
+
+108
+00:07:02,128 --> 00:07:04,128
+po to, żeby zaznaczyć swoje terytorium,
+
+109
+00:07:04,128 --> 00:07:06,128
+żeby wszystkie inne wilki w okolicy wiedziały,
+
+110
+00:07:06,128 --> 00:07:08,128
+że ta grupa rodzina jest silna, jest tam wiele głosów.
+
+111
+00:07:08,128 --> 00:07:10,128
+Natomiast zimą, kiedy stado musi się zebrać,
+
+112
+00:07:10,128 --> 00:07:12,128
+żeby zapolować na grubego zwierza,
+
+113
+00:07:12,128 --> 00:07:15,128
+wtedy wyją po to, żeby się skrzyknąć razem na polowanie.
+
+114
+00:07:15,128 --> 00:07:17,128
+Stada wilków nazywamy watahami.
+
+115
+00:07:17,128 --> 00:07:20,128
+Najliczniejsze mają do 20 osobników,
+
+116
+00:07:20,128 --> 00:07:23,128
+ale zazwyczaj są mniejsze i składają się z pary rodzicielskiej,
+
+117
+00:07:23,128 --> 00:07:26,128
+młodych wilczków i ich starszego rodzeństwa.
+
+118
+00:07:26,128 --> 00:07:29,128
+Wilki wyją zarówno w pojedynkę, jak i w grupie.
+
+119
+00:07:29,128 --> 00:07:32,128
+Churalne wycie jest rodzajem koncertów,
+
+120
+00:07:32,128 --> 00:07:34,128
+w którym każdy wilk wykonuje swoją partię.
+
+121
+00:07:34,128 --> 00:07:37,128
+Wycie najczęściej słychać w nocy.
+
+122
+00:07:37,128 --> 00:07:41,128
+Niektórzy twierdzą, że ulubioną porą wilków jest pełnia księżyca.
+
+123
+00:07:41,128 --> 00:07:44,128
+I że wycie do księżyca nie wróży nic dobrego.
+
+124
+00:07:44,128 --> 00:07:46,128
+Nie wyją tylko do księżyca,
+
+125
+00:07:46,128 --> 00:07:48,128
+aczkolwiek w księżycowe nocy poluje się najlepiej.
+
+126
+00:07:48,128 --> 00:07:51,128
+Najczęściej wilcze wycie można usłyszeć właśnie zimą,
+
+127
+00:07:51,128 --> 00:07:54,128
+dlatego że wtedy wilki poluły na grubego zwierza.
+
+128
+00:07:54,128 --> 00:07:57,128
+Latem każdy sam jest w stanie zadbać o swoje potrzeby.
+
+129
+00:07:57,128 --> 00:08:01,128
+Natomiast zimą tych wilków musi być kilka, żeby sobie rodzajem pomóc.
+
+130
+00:08:01,128 --> 00:08:04,128
+I zimą oczywiście, kiedy śnieg i pełnia księżyca nocą,
+
+131
+00:08:04,128 --> 00:08:06,128
+ten głos niesie się najdalej.
+
+132
+00:08:06,128 --> 00:08:09,128
+Każdy wilk wyje trochę inaczej,
+
+133
+00:08:09,128 --> 00:08:12,128
+ale nasze ludzkie ucho jest głuche na tę niuanse
+
+134
+00:08:12,128 --> 00:08:14,128
+i nie odróżnia tych poszczególnych głosów.
+
+135
+00:08:14,128 --> 00:08:16,128
+Wystarczy czasem poprowokować wilki.
+
+136
+00:08:16,128 --> 00:08:18,128
+Sam to robiłem w Fuszy Białowieskiej.
+
+137
+00:08:18,128 --> 00:08:20,128
+Wystarczy spróbować pobyć tak jak one
+
+138
+00:08:20,128 --> 00:08:22,128
+i czasem się to udaje.
+
+139
+00:08:22,128 --> 00:08:24,128
+Przynajmniej odpowiedzą, żeby sprawdzić kto zaczął.
+
+140
+00:08:24,128 --> 00:08:26,128
+Ale na pewno wiedzą, że to nie jest prawdziwy wilk.
+
+141
+00:08:26,400 --> 00:08:29,600
+A czy prawdziwego wilka można spotkać na swojej drodze?
+
+142
+00:08:30,200 --> 00:08:34,400
+Jest taka szansa, gdyż w polskich lasach mieszka ich około 800.
+
+143
+00:08:34,700 --> 00:08:38,700
+Nie wierzcie jednak w bajki o wilkach jako o strasznych bestiach,
+
+144
+00:08:38,900 --> 00:08:42,900
+czyhających za drzewami, by się na człowieka rzucić i go schrupać.
+
+145
+00:08:43,400 --> 00:08:47,400
+Jeżeli uda nam się, będąc w lesie, spotkać wilka,
+
+146
+00:08:48,000 --> 00:08:50,400
+to bardzo się z tego cieszmy. Nie ma się czego obawiać.
+
+147
+00:08:50,500 --> 00:08:52,900
+Wilk człowieka bardzo się boi, że człowieka nie podejdzie.
+
+148
+00:08:52,900 --> 00:08:56,900
+Chyba, że jesteśmy czerwonym kapturkiem, a wtedy to już jest zupełnie inna
+historia.
+
+149
+00:09:01,900 --> 00:09:06,900
+Z Internetu na całym świecie korzystają miliony ludzi, ale niewielu z nich wie,
+jaką działa.
+
+150
+00:09:15,900 --> 00:09:20,900
+Myślę, że to dzięki temu, że komputery na całym świecie połączone są
+niewidzialnymi nićmi
+
+151
+00:09:21,900 --> 00:09:24,900
+i to tworzy taką wielką, skomplikowaną, pajęczą sieć.
+
+152
+00:09:39,900 --> 00:09:44,900
+Kiedyś, kiedy Internet powstawał, to parę osób zebrało sobie komputery w jednym
+miejscu
+
+153
+00:09:45,900 --> 00:09:48,900
+i pomyślano, jak by tu zrobić, żeby te komputery mogły ze sobą być połączone
+
+154
+00:09:49,900 --> 00:09:51,900
+i żeby mogły się ze sobą kontaktować.
+
+155
+00:09:52,900 --> 00:09:58,900
+Wymyślono, że połączą je kablami tak, żeby one mogły nawzajem ze sobą się
+widzieć.
+
+156
+00:09:59,900 --> 00:10:06,900
+Teraz wyobraź sobie, że te kilka komputerów zaczynały dodawać do siebie kolejne,
+kolejne, kolejne.
+
+157
+00:10:07,900 --> 00:10:11,900
+I tak powstała cała sieć na świecie, gdzie wszystkie komputery są ze sobą
+połączone.
+
+158
+00:10:18,900 --> 00:10:22,900
+Możesz wymieniać informacje, korzystać ze wszystkiego, co znajduje się w tej
+sieci.
+
+159
+00:10:23,900 --> 00:10:28,900
+Internet jest tak skonstruowany, że nawet gdy jakieś urządzenie zawjedzie,
+reszta sieci działa dalej.
+
+160
+00:10:29,900 --> 00:10:35,900
+Nie zawsze informacja podróżuje najkrótszą trasą, ale zawsze błyskawicznie
+odnajduje drogę łączącą komputery,
+
+161
+00:10:36,900 --> 00:10:38,900
+nawet jeśli są na dwóch krańcach świata.
+
+162
+00:10:39,900 --> 00:10:44,900
+Wystarczy, że wpiszesz właśnie na swoim komputerze na przykład wiadomość,
+klikniesz NT
+
+163
+00:10:44,900 --> 00:10:47,900
+i ona już wędruje przez cały świat właśnie wykorzystując sieć Internet,
+
+164
+00:10:48,900 --> 00:10:51,900
+żeby twój uwieśnik na przykład w Australii mógł odczytać tą wiadomość niemal od
+razu.
+
+165
+00:10:52,900 --> 00:10:55,900
+A jak ta wiadomość tam dociera? Przecież to tyle kilometrów.
+
+166
+00:10:56,900 --> 00:11:00,900
+Dociera, ponieważ wszystkie te komputery są połączone specjalnymi kablami.
+
+167
+00:11:01,900 --> 00:11:05,900
+Te kable największe nazywamy światłowodami i one pozwalają na to,
+
+168
+00:11:06,900 --> 00:11:10,900
+żeby tych wiadomości nawet miliony jednocześnie wymieniały się między
+komputerami.
+
+169
+00:11:10,900 --> 00:11:13,900
+I później te duże kable cachają do mniejszych,
+
+170
+00:11:14,900 --> 00:11:16,900
+aż wreszcie na tym ostatnim końcu jest twój kabelek,
+
+171
+00:11:17,900 --> 00:11:22,900
+który masz podłączony komputer w domu i ta wiadomość, która została wysłana z
+daleka trafia do Ciebie.
+
+172
+00:11:23,900 --> 00:11:26,900
+Ale są też jeszcze możliwości takie, że nie musi się używać kabla.
+
+173
+00:11:27,900 --> 00:11:31,900
+Tak zwany Internet bezprzewodowy umożliwia korzystanie z sieci w dowolnym
+miejscu.
+
+174
+00:11:32,900 --> 00:11:38,900
+Wystarczy do laptopa włożyć taką małą wtyczkę albo uruchomić w telefonie
+komórkowym odpowiednią funkcję.
+
+175
+00:11:39,900 --> 00:11:42,900
+Jak to się dzieje, że w telefonach też jest Internet?
+
+176
+00:11:43,900 --> 00:11:48,900
+Internet w telefonie działa na takich samych zasadach jak radio, bo używa też
+par radiowych.
+
+177
+00:11:49,900 --> 00:11:56,900
+Słuchasz radia jadąc samochodem, a tutaj możesz zaglądać do komórki i zobaczyć
+Internet właśnie dzięki temu.
+
+178
+00:11:57,900 --> 00:12:01,900
+Możesz tak samo jak w domowym komputerze oglądać strony, tak samo jak SMS-a,
+
+179
+00:12:01,900 --> 00:12:04,900
+możesz również wysłać wiadomość, email.
+
+180
+00:12:05,900 --> 00:12:10,900
+Dokładnie w kilka sekund po jej wysłaniu z telefonu komórkowego ktoś będzie mógł
+ją na swoim komputerze
+
+181
+00:12:11,900 --> 00:12:14,900
+czy też na telefonie komórkowym odebrać na drugim końcu świata.
+
+182
+00:12:15,900 --> 00:12:20,900
+Internet ciągle rozwija się, stwarza nowe możliwości zdobywania wiedzy i
+nawiązywania kontaktów.
+
+183
+00:12:21,900 --> 00:12:26,900
+Ale pamiętajcie, Internet jest dostępny dla wszystkich, więc także dla oszustów.
+
+184
+00:12:27,900 --> 00:12:29,900
+Bądźcie ostrożni.
+
+185
+00:12:30,896 --> 00:12:37,096
+Dlaczego, po co, po co i jak tak właśnie działa cały ten świat?
+
+186
+00:12:37,096 --> 00:12:39,996
+Ja chcę zrozumieć go i mieć swój wkład.
+
+187
+00:12:39,996 --> 00:12:42,996
+Dlaczego bije serce, dlaczego słońce świeci?
+
+188
+00:12:42,996 --> 00:12:45,996
+Pytają się od zawsze ciekawe świata dzieci.
+
+189
+00:12:45,996 --> 00:12:48,996
+Dlaczego, po co, po co i jak?
+

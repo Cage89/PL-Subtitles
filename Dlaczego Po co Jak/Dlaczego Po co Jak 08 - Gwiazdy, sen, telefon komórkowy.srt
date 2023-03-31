@@ -1,0 +1,792 @@
+1
+00:00:00,000 --> 00:00:02,000
+Cześć!
+
+2
+00:00:02,416 --> 00:00:12,416
+Dlaczego bije serce, dlaczego słońce świeci, pytają się od zawsze ciekawe świata
+dzieci? Dlaczego, po co, po co i jak?
+
+3
+00:00:12,416 --> 00:00:19,416
+Witajcie! W programie Dlaczego, po co, jak szukam odpowiedzi na pytania, które
+was nurtują. Bardzo pomaga mi w tym pani nauka.
+
+4
+00:00:19,416 --> 00:00:27,416
+Staram się jak mogę, ale dziecięce pytania bywają bardzo trudne. Nic dziwnego,
+że czasem dorośli nie znają na nie odpowiedzi.
+
+5
+00:00:27,416 --> 00:00:33,416
+A jeśli i wy macie takie pytania, na które nikt nie potrafi wam odpowiedzieć,
+napiszcie do nas, postaramy się pomóc.
+
+6
+00:00:33,416 --> 00:00:41,416
+A dziś wyjaśnimy dlaczego gwiazdy świecą, po co człowiek śpi i jak działa
+telefon komórkowy. Zaczynamy!
+
+7
+00:00:41,416 --> 00:00:51,416
+Dlaczego? Dzień dobry! Dlaczego gwiazdy świecą? Dlaczego gwiazdy świecą? Bo jest
+ciemno i widać je wszystkie na niebie.
+
+8
+00:00:51,416 --> 00:00:55,416
+Gwiazdy? Tak. Żeby było jaśnie w nocy.
+
+9
+00:00:55,416 --> 00:01:00,416
+Świecą? A świecą one, ale dlaczego one świecą? Nie powiem ci.
+
+10
+00:01:00,416 --> 00:01:05,416
+No, słucham, muszę do ich świecić gwiazdki sobie na niebie, żeby nam było was
+alej.
+
+11
+00:01:05,416 --> 00:01:13,416
+No cóż, po tych odpowiedziach Szymek, niczym słynny uczony, mógłby powiedzieć co
+najwyżej, wiem, że nic nie wiem.
+
+12
+00:01:13,416 --> 00:01:17,416
+Czyżbyś ty, Maćku, umiał lepiej odpowiedzieć na to pytanie?
+
+13
+00:01:18,416 --> 00:01:28,416
+No wiem na przykład, że gwiazdy są bardzo, ale to bardzo gorące. To wielkie
+ogniste kule, ale przez to, że są daleko, widzimy je tylko jako małe świecące
+punkci.
+
+14
+00:01:28,416 --> 00:01:33,416
+Masz rację, ale natura gwiazd jest bardziej skomplikowana.
+
+15
+00:01:33,416 --> 00:01:39,416
+Wiem o tym, dlatego moje asystenci w laboratorium Dlaczego Po co Jak dokładniej
+przyjrzą się gwiazdom.
+
+16
+00:01:40,112 --> 00:01:42,112
+Kiedy świecą gwiazdy?
+
+17
+00:01:42,112 --> 00:01:43,112
+No co?
+
+18
+00:01:43,112 --> 00:01:45,112
+A w dzień nie widzimy ich, tak?
+
+19
+00:01:45,112 --> 00:01:50,112
+Mamy lampki choinkowe, które udają gwiazdy.
+
+20
+00:01:50,112 --> 00:01:53,112
+W tej chwili mamy noc i gwiazdy jasno świecą.
+
+21
+00:01:53,112 --> 00:01:57,112
+Zobaczmy, co się stanie, kiedy zejdzie słońce.
+
+22
+00:01:57,112 --> 00:01:59,112
+Uwaga, w tej chwili wschodzi słońce.
+
+23
+00:02:00,640 --> 00:02:03,640
+Czy te lampki widać nadal bardzo dobrze?
+
+24
+00:02:03,640 --> 00:02:04,640
+Nie zbyt.
+
+25
+00:02:04,640 --> 00:02:08,640
+W ciągu dnia gwiazdy też świecą, tak jak nasze lampki.
+
+26
+00:02:08,640 --> 00:02:15,640
+Ale wtedy, kiedy świeci słońce, to światło jest na tyle mocne, że przysłania nam
+światło gwiazd.
+
+27
+00:02:15,640 --> 00:02:21,640
+Tak, tak. Gwiazdy z nastaniem dnia nigdzie nie znikają. Są i świecą bez przerwy.
+
+28
+00:02:21,640 --> 00:02:25,640
+Tylko my ich nie widzimy, bo przyćmiewa je blask słońca.
+
+29
+00:02:26,704 --> 00:02:28,704
+Czy wiecie, co to jest słońce?
+
+30
+00:02:28,704 --> 00:02:31,704
+Ogromna kula gazu, czyli gwiazda.
+
+31
+00:02:31,704 --> 00:02:37,704
+Właśnie, słońce jest gwiazdą. Jest jedną z wielu gwiazd, które są we
+Wszechświecie.
+
+32
+00:02:37,704 --> 00:02:44,704
+Przeprowadzimy teraz doświadczenie, które pokaże nam, dlaczego gwiazdy świecą.
+
+33
+00:02:44,704 --> 00:02:46,704
+Czy ten gwóźdź w tej chwili świeci?
+
+34
+00:02:46,704 --> 00:02:47,704
+Nie.
+
+35
+00:02:50,704 --> 00:02:52,704
+Zapalam taki specjalny palnik.
+
+36
+00:02:54,240 --> 00:03:04,240
+Teraz ten płomien jest bardzo, bardzo gorący i będziemy się przyglądać, co się
+będzie działo z gwoździą.
+
+37
+00:03:06,240 --> 00:03:09,240
+Oczy już widzicie, co się dzieje na czubeczku gwoździa?
+
+38
+00:03:09,240 --> 00:03:12,240
+Tak, jest dość czaruny, zaczyna się nagrzewać.
+
+39
+00:03:13,424 --> 00:03:17,904
+Spójrzcie, że na czubeczku, tam, gdzie gwóźdź jest najbardziej wąski,
+
+40
+00:03:17,904 --> 00:03:19,904
+on jest najjaśniejszy.
+
+41
+00:03:19,904 --> 00:03:21,904
+Tam jest najgorętszy.
+
+42
+00:03:21,904 --> 00:03:23,904
+Jaki kolor teraz ma gwóźdź?
+
+43
+00:03:23,904 --> 00:03:25,904
+Pomarańczowy.
+
+44
+00:03:25,904 --> 00:03:28,384
+Czy gwiazdy świecą w różnych kolorach?
+
+45
+00:03:28,384 --> 00:03:30,384
+Tak.
+
+46
+00:03:30,384 --> 00:03:32,384
+Jakie mogą być kolory?
+
+47
+00:03:32,384 --> 00:03:36,784
+Czerwony, żółty lub biały i niebieski.
+
+48
+00:03:36,784 --> 00:03:41,664
+Masz rację. Gwiazdy są kolorowe, a ich kolor zależy od temperatury.
+
+49
+00:03:41,744 --> 00:03:43,744
+Najchłodniejsze świecą na czerwono.
+
+50
+00:03:43,744 --> 00:03:47,264
+Nieco gorętsze są żółte, a najgorętsze błękitne.
+
+51
+00:03:47,264 --> 00:03:50,464
+Nasze słońce jest żółte, czyli średnio gorące.
+
+52
+00:03:50,464 --> 00:03:55,904
+Ale średnio gorące to znaczy, że na powierzchni ma temperaturę bagatela 6000
+stopni.
+
+53
+00:03:57,008 --> 00:04:03,008
+Powiedzcie mi, czy wszystkie punkciki na niebie, które widzimy nocą, są
+gwiazdami?
+
+54
+00:04:03,008 --> 00:04:05,008
+Nie.
+
+55
+00:04:05,008 --> 00:04:07,008
+A co możemy jeszcze zobaczyć na niebie?
+
+56
+00:04:07,008 --> 00:04:11,008
+Planety z naszego układu, z planetarnego.
+
+57
+00:04:11,008 --> 00:04:14,008
+Czy one są też takie bardzo gorące?
+
+58
+00:04:14,008 --> 00:04:15,008
+Nie.
+
+59
+00:04:15,008 --> 00:04:21,008
+Planety świecą na nas, dlatego że odbija się od nich światło słońca.
+
+60
+00:04:21,008 --> 00:04:25,008
+I za chwilę zobaczymy, jak to się dzieje.
+
+61
+00:04:25,008 --> 00:04:30,008
+Popatrzcie, mamy tutaj przygotowane takie styropianowe kule.
+
+62
+00:04:30,008 --> 00:04:32,008
+One będą naszymi planetami.
+
+63
+00:04:32,008 --> 00:04:36,008
+Proszę bardzo, jedna planeta dla ciebie, druga planeta dla ciebie.
+
+64
+00:04:36,008 --> 00:04:39,008
+A tutaj mamy słońce.
+
+65
+00:04:39,008 --> 00:04:42,008
+Podstawimy planety pod słońce.
+
+66
+00:04:42,008 --> 00:04:44,008
+I co się dzieje?
+
+67
+00:04:46,096 --> 00:04:50,096
+Jakie zaczynają być? Świecące.
+
+68
+00:04:50,096 --> 00:04:52,096
+Takie bardzo jasne świecące.
+
+69
+00:04:52,096 --> 00:04:57,096
+Tak, niektóre z jasnych punkcików na niebie to nie gwiazdy, tylko planety.
+
+70
+00:04:57,096 --> 00:05:02,096
+One nie świecą same z siebie, lecz jak lusterko odbijają światło, które na nie
+pada.
+
+71
+00:05:02,096 --> 00:05:08,096
+Tak samo jest z księżycem, sam nie świeci, ale widzimy go, bo jest częściowo lub
+w całości oświetlony.
+
+72
+00:05:08,096 --> 00:05:12,096
+Spójrzcie, tutaj jest taki pilot do telewizora.
+
+73
+00:05:12,096 --> 00:05:17,096
+Naciśnij jakikolwiek przyciski i patrz, czy świecą się światełka.
+
+74
+00:05:18,192 --> 00:05:21,192
+Alek, też możesz spróbować? Czy świeci się coś?
+
+75
+00:05:23,192 --> 00:05:24,192
+Nie zbyt.
+
+76
+00:05:24,192 --> 00:05:26,192
+Nic się nie świeci.
+
+77
+00:05:26,192 --> 00:05:36,192
+Mamy tutaj takie urządzenie, które sprawi, że zobaczymy, czy te światełka
+rzeczywiście nie świecą.
+
+78
+00:05:36,192 --> 00:05:42,192
+Teraz ty, Alek, patrz na aparat i powiedz,
+
+79
+00:05:43,328 --> 00:05:47,328
+czy te diody teraz świecą. Mela, naciśnij jakiś przycisk.
+
+80
+00:05:48,328 --> 00:05:49,328
+Tak.
+
+81
+00:05:49,328 --> 00:05:53,328
+Czyli możemy za pomocą zwykłego aparatu cyfrowego
+
+82
+00:05:53,328 --> 00:05:57,328
+zobaczyć coś, czego gołym okiem nie da się zobaczyć.
+
+83
+00:05:57,328 --> 00:06:01,328
+Astronomowie używają specjalnych teleskopów,
+
+84
+00:06:01,328 --> 00:06:05,328
+które też obserwują światło, którego nie widać gołym okiem
+
+85
+00:06:05,328 --> 00:06:09,328
+i dzięki temu poznają różne właściwości gwiazd.
+
+86
+00:06:09,328 --> 00:06:13,328
+Przez urządzenia, których używają astronomowie, można zobaczyć,
+
+87
+00:06:13,328 --> 00:06:16,328
+że kosmos jest bajecznie kolorowy.
+
+88
+00:06:16,328 --> 00:06:19,328
+A wszystko dzięki milionom najprzeróżniejszych gwiazd,
+
+89
+00:06:19,328 --> 00:06:23,328
+które dlaczego świecą? Bo są bardzo, bardzo gorące.
+
+90
+00:06:24,328 --> 00:06:28,328
+Ze świecącymi gwiazdami wiąże się też nasze kolejne pytanie.
+
+91
+00:06:29,328 --> 00:06:30,328
+Po co?
+
+92
+00:06:30,328 --> 00:06:35,328
+W górze tyle gwiazd, w dole tyle miast.
+
+93
+00:06:35,328 --> 00:06:41,328
+Gwiazdy miastom dają znać, że dzieci muszą spać.
+
+94
+00:06:42,240 --> 00:06:44,600
+Tak brzmią słowa słynnej kołysanki
+
+95
+00:06:44,864 --> 00:06:48,244
+Ale dzieci często pytają, po co trzeba spać?
+
+96
+00:06:48,324 --> 00:06:53,164
+Pamiętam, że jak byłem w waszym wieku, też wieczorami nie bardzo chciałem kłaść
+się do łóżka
+
+97
+00:06:53,164 --> 00:06:59,944
+Ale teraz już pewnie wiesz Maćku, że sen jest potrzebny człowiekowi do życia,
+jak powietrze i woda
+
+98
+00:06:59,944 --> 00:07:04,944
+Teraz już wiem, ale kiedyś wydawało mi się, że tylko dzieciom każe się iść spać
+
+99
+00:07:04,944 --> 00:07:07,944
+A dorośli jak nie chcą, to spać nie muszą
+
+100
+00:07:07,944 --> 00:07:10,944
+A czy wy wiecie, po co człowiek śpi?
+
+101
+00:07:11,024 --> 00:07:15,024
+Jak człowiek śpi, to wtedy rośnie
+
+102
+00:07:15,024 --> 00:07:21,024
+Magazynuje zbierane informacje w ciągu dnia
+
+103
+00:07:21,024 --> 00:07:24,024
+Żeby na następny dzień musiał mieć dużo siły
+
+104
+00:07:24,024 --> 00:07:31,024
+Dlatego śpi, że jak odpoczywa, to całe jedzenie się strawia i rośnie
+
+105
+00:07:31,024 --> 00:07:34,024
+Tak, podczas snu dzieci naprawdę rosną
+
+106
+00:07:34,104 --> 00:07:39,104
+A dzieje się tak dlatego, że hormon wzrostu, czyli substancja, dzięki której
+człowiek rośnie
+
+107
+00:07:39,104 --> 00:07:42,104
+Najsilniej wytwarzana jest właśnie w czasie snu
+
+108
+00:07:42,104 --> 00:07:46,104
+Sen to także czas, podczas którego mięśnie wypoczywają i nabierają sił
+
+109
+00:07:46,104 --> 00:07:50,104
+A mózg porządkuje wszystko, czego w ciągu dnia nauczyliśmy się
+
+110
+00:07:50,104 --> 00:07:55,104
+To co ważne odkłada do różnych szuflatek pamięci, co niepotrzebne wyrzuca
+
+111
+00:07:55,104 --> 00:07:58,104
+I to właśnie te porządki w mózgu wywołują sny
+
+112
+00:07:58,104 --> 00:08:02,104
+Czasem miłe, czasem straszne, czasem bardzo dziwne
+
+113
+00:08:02,184 --> 00:08:05,184
+Maciek pozwolił kamerze podpatrzeć jak śpi
+
+114
+00:08:05,184 --> 00:08:07,184
+Widzicie jak się wierci?
+
+115
+00:08:07,184 --> 00:08:10,184
+Okazuje się, że w ciągu jednej nocy są różne fazy snu
+
+116
+00:08:10,184 --> 00:08:12,184
+I wszystkie są bardzo ważne
+
+117
+00:08:12,184 --> 00:08:14,184
+Czasem śpimy lekko, czasem mocno
+
+118
+00:08:14,184 --> 00:08:17,184
+Raz leżymy bezwładnie, a raz wiercimy się
+
+119
+00:08:17,184 --> 00:08:21,184
+No i mamy wiele snów, choć w większości rano nie pamiętamy
+
+120
+00:08:21,184 --> 00:08:23,184
+Najwięcej snu potrzebują noworodki
+
+121
+00:08:23,184 --> 00:08:25,184
+Śpią niemal bez przerwy
+
+122
+00:08:25,184 --> 00:08:27,184
+Z wiekiem potrzebujemy coraz mniej snu
+
+123
+00:08:27,264 --> 00:08:32,264
+Ale przedszkolaki, zwłaszcza te młodsze, powinny spać nie tylko w nocy, ale i w
+ciągu dnia
+
+124
+00:08:32,264 --> 00:08:36,264
+Wiem co powiecie, nie każdy lubi leżakowanie w przedszkolu
+
+125
+00:08:36,264 --> 00:08:40,264
+Jednak uwierzcie mi, popołudniowy odpoczynek naprawdę jest wam bardzo potrzebny
+
+126
+00:08:40,264 --> 00:08:45,264
+Jeśli nawet nie zaśniecie, to powinniście poleżeć w ciszy i spokoju
+
+127
+00:08:45,264 --> 00:08:50,264
+Wasz organizm nabierze sił i po południu znowu będziecie pełni humoru i energii
+
+128
+00:08:50,264 --> 00:08:55,264
+Może trudno w to uwierzyć, ale marudzenie i grymaszenie często bierze się
+właśnie z niewyspania
+
+129
+00:08:55,344 --> 00:08:59,344
+Oczywiście każdy człowiek jest inny, jeden potrzebuje więcej, snu inny mniej
+
+130
+00:08:59,344 --> 00:09:02,344
+Jeśli nie chce się wam spać, nie należy się zmuszać
+
+131
+00:09:02,344 --> 00:09:08,344
+Ale pamiętajcie, jeśli się nie wyśpicie, to nie będziecie mieć ani ochoty, ani
+siły na sport, grę czy zabawę
+
+132
+00:09:09,824 --> 00:09:15,824
+A śpi, bo właśnie, księżyc siewa i za chwilę zaśnie.
+
+133
+00:09:15,824 --> 00:09:22,824
+A gdy rano przyjdzie świt, księżycowi będzie wstyd, że on zasnął, a nie ty.
+
+134
+00:09:22,824 --> 00:09:25,824
+Po co człowiek śpi? Tak to już natura wymyśliła.
+
+135
+00:09:25,824 --> 00:09:29,824
+W nocy jakby ładujemy baterie, by w dzień mieć siłę do działania.
+
+136
+00:09:29,824 --> 00:09:34,824
+A czy wiecie, że sen zwiększa też naszą odporność, czyli sprawia, że rzadziej
+chorujemy?
+
+137
+00:09:34,824 --> 00:09:37,824
+A gdy czasem jakieś choróbstwo was dopadnie, to co trzeba?
+
+138
+00:09:37,824 --> 00:09:43,824
+Oczywiście leżeć w łóżku i jak najwięcej spać, bo sen wzmacnia organizm i pomaga
+mu walczyć z zarazkami.
+
+139
+00:09:43,824 --> 00:09:48,824
+Już na pewno wiecie po co człowiek śpi, bo sen to zdrowie.
+
+140
+00:09:50,240 --> 00:09:53,240
+Jak?
+
+141
+00:09:53,392 --> 00:09:58,792
+Wasi rodzice często posługują się takim telefonem, a czy wy wiecie, jaką się
+nazywa?
+
+142
+00:09:58,792 --> 00:10:03,792
+Maćku, chyba sobie żartujesz. Przecież każde dziecko wie, że to komórka.
+
+143
+00:10:03,792 --> 00:10:08,792
+Ale nie każde dziecko wie, dlaczego ten telefon się tak nazywa i jak działa.
+
+144
+00:10:08,792 --> 00:10:15,792
+Telefon komórkowy ma dzisiaj prawie każdy. Istnieją nawet specjalne modele dla
+dzieci.
+
+145
+00:10:15,792 --> 00:10:21,792
+Dzięki telefonom komórkowym możemy być w kontakcie z innymi, znajdując się w
+dowolnym miejscu.
+
+146
+00:10:22,192 --> 00:10:28,192
+Sieć komórkowa składa się z anten, które nadają i odbierają sygnały w swoim
+otoczeniu.
+
+147
+00:10:28,192 --> 00:10:34,192
+Obszar obsługiwany przez taką antenę nazwano komórką i stąd nazwa telefonu.
+
+148
+00:10:34,192 --> 00:10:41,192
+Anten jest bardzo dużo, dzięki temu telefon zawsze znajduje się w zasięgu
+przynajmniej jednej z nich.
+
+149
+00:10:43,192 --> 00:10:46,192
+Telefony komórkowe stale kontaktują się z najbliższymi antenami.
+
+150
+00:10:46,592 --> 00:10:51,592
+Każdy telefon, w momencie kiedy włączamy go do sieci, wysyła sygnał.
+
+151
+00:10:51,592 --> 00:10:55,592
+Tu możemy porównać do takiego hello, przedstawienia się.
+
+152
+00:10:55,592 --> 00:11:01,592
+Właśnie jestem w tym miejscu i jeżeli ktoś będzie chciał ze mną porozmawiać, to
+właśnie jestem tutaj.
+
+153
+00:11:02,592 --> 00:11:07,592
+Gdy telefon jest w sieci, możemy z niego rozmawiać, a głos jest wysyłany poprzez
+fale radiowe.
+
+154
+00:11:09,592 --> 00:11:14,592
+Telefon komórkowy komunikuje się z najbliższą anteną, która jest połączona z
+centralą.
+
+155
+00:11:14,992 --> 00:11:17,992
+Centrala szuka anteny, w której znajduje się osoba, do której dzwonimy.
+
+156
+00:11:17,992 --> 00:11:22,992
+Nasz głos ponownie drogą radiową dociera do telefonu naszego rozmówcy.
+
+157
+00:11:23,992 --> 00:11:32,992
+Wszystkim sterują komputery, a praca anten i centrali nadzorowana jest w
+specjalnych pomieszczeniach przypominających Centrum Kontroli Lotów Kosmicznych
+NASA.
+
+158
+00:11:32,992 --> 00:11:38,992
+Nic dziwnego, na terenie Polski wszyscy operatorzy posiadają około 40 tysięcy
+anten.
+
+159
+00:11:38,992 --> 00:11:45,392
+Dzięki takim miejscom jak to, wszystkie one świetnie działają, a my możemy
+rozmawiać przez nasze telefony komórkowe.
+
+160
+00:11:47,840 --> 00:11:50,300
+SMSy zrobiły prawdziwą furorę,
+
+161
+00:11:50,300 --> 00:11:54,500
+zwłaszcza wśród młodzieży, która stwierdziła, po co dzwonić, skoro można
+napisać.
+
+162
+00:11:54,860 --> 00:11:58,120
+No ale jak to się dzieje, że coś, co ja napiszę,
+
+163
+00:11:58,120 --> 00:12:02,340
+za chwilę ktoś inny odbierze w swoim telefonie komórkowym?
+
+164
+00:12:04,832 --> 00:12:08,832
+Wysyłanie wiadomości odbywa się w ten sposób, że w momencie kiedy kończymy pisać
+wiadomość,
+
+165
+00:12:08,832 --> 00:12:14,832
+naciskamy klawisz we śli, w tym momencie ta wiadomość jest przesyłana
+najbliższej anteny,
+
+166
+00:12:14,832 --> 00:12:19,832
+a później przesyłana jest do takiego urządzenia, które można porównać z urzędem
+pocztowym.
+
+167
+00:12:19,832 --> 00:12:24,832
+W telefonie komórkowej nazywamy to centrum SMS-ce, tamta wiadomość ląduje
+
+168
+00:12:24,832 --> 00:12:32,832
+i jest przekazywana do adresata, czyli do telefonu, którego tak naprawdę
+chcieliśmy tą wiadomość wysłać.
+
+169
+00:12:32,832 --> 00:12:36,832
+Maksymalnie wiadomość SMS może mieć 160 znaków.
+
+170
+00:12:36,832 --> 00:12:40,832
+To świetny sposób na komunikowanie się, gdy akurat nie jesteśmy w stanie
+rozmawiać.
+
+171
+00:12:40,832 --> 00:12:44,832
+SMS-a można wysłać z każdego nawet najstarszego telefonu komórkowego.
+
+172
+00:12:44,832 --> 00:12:47,832
+Te nowsze potrafią znacznie więcej.
+
+173
+00:12:49,832 --> 00:12:54,832
+Dzień dobry. Co robią telefony oprócz dzwonienia?
+
+174
+00:12:54,832 --> 00:13:01,832
+Robią dużo różnych rzeczy. Z telefonów obecnie można korzystać nie tylko
+rozmawiając, ale także widząc się nawzajem.
+
+175
+00:13:02,832 --> 00:13:07,832
+Widzisz? To mogłoby być na przykład twoja mama. Mógłbyś widzieć mamę we mnie już
+nawet bardzo daleko.
+
+176
+00:13:07,832 --> 00:13:10,832
+Tam ktoś cię widził. Powiedz hej.
+
+177
+00:13:10,832 --> 00:13:11,832
+Cześć.
+
+178
+00:13:12,832 --> 00:13:17,832
+Dzisiaj telefon komórkowy służy już nie tylko do dzwonienia.
+
+179
+00:13:17,832 --> 00:13:24,832
+Przy jego pomocy możemy przeglądać Internet, robić zdjęcia, odtwarzać muzykę, a
+nawet oglądać telewizję.
+
+180
+00:13:24,832 --> 00:13:29,832
+Telefon może być w dodatku konsolą do gier albo nawigacją satelitarną,
+
+181
+00:13:29,832 --> 00:13:32,832
+ale to już temat na zupełnie inną opowieść.
+
+182
+00:13:34,672 --> 00:13:40,872
+Dlaczego, po co, po co i jak tak właśnie działa cały ten świat?
+
+183
+00:13:40,872 --> 00:13:43,772
+Ja chcę zrozumieć go i mieć swój wkład.
+
+184
+00:13:43,772 --> 00:13:46,872
+Dlaczego bije serce? Dlaczego słońce świeci?
+
+185
+00:13:46,872 --> 00:13:49,872
+Pytają się od zawsze ciekawe świata dzieci.
+
+186
+00:13:49,872 --> 00:13:52,872
+Dlaczego, po co, po co i jak?
+

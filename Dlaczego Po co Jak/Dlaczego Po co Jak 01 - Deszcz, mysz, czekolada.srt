@@ -1,0 +1,783 @@
+1
+00:00:00,000 --> 00:00:02,000
+Dlaczego bije serce? Dlaczego słońce świeci?
+
+2
+00:00:02,000 --> 00:00:04,000
+Pytają się od zawsze ciekawe świata dzieci
+
+3
+00:00:04,000 --> 00:00:06,000
+Dlaczego, po co, po co i jak?
+
+4
+00:00:13,552 --> 00:00:15,152
+Witajcie w Dlaczego? Po co? Jak?
+
+5
+00:00:15,152 --> 00:00:20,592
+W tym programie przekonacie się, że czasem na łatwe pytania całkiem trudno
+odpowiedzieć, prawda Pani nauko?
+
+6
+00:00:20,592 --> 00:00:27,472
+Prawda, ale pamiętajcie, warto pytać, bo nie ma niemądrych pytań, bywają tylko
+niepełne odpowiedzi.
+
+7
+00:00:27,472 --> 00:00:35,712
+Dlatego my dzisiaj zapytamy, dlaczego pada deszcz, po co komputerowi mysz, a na
+koniec słodka tajemnica, jak się robi czekoladę.
+
+8
+00:00:35,712 --> 00:00:40,112
+Okazuje się, że na takie pytania nie potrafią odpowiedzieć nawet dorośli.
+
+9
+00:00:40,112 --> 00:00:48,352
+Dlaczego? Dzień dobry. Chciałbym Panu zadać pytanie. Dlaczego pada deszcz?
+
+10
+00:00:50,048 --> 00:00:52,048
+uuuu
+
+11
+00:00:52,048 --> 00:00:54,048
+nie wypadł?
+
+12
+00:00:54,048 --> 00:00:56,048
+deszcz z chmur spada
+
+13
+00:00:56,048 --> 00:00:58,048
+chyba
+
+14
+00:00:58,048 --> 00:01:00,048
+dlaczego pada deszcz?
+
+15
+00:01:00,048 --> 00:01:02,048
+o rany, to trudne pytanie
+
+16
+00:01:04,048 --> 00:01:06,048
+poproszę o pomoc
+
+17
+00:01:06,048 --> 00:01:08,048
+a ja też nie wiem wykładu
+
+18
+00:01:08,048 --> 00:01:10,048
+rozumiem
+
+19
+00:01:10,048 --> 00:01:11,728
+ty może mi coś podpowiesz
+
+20
+00:01:11,728 --> 00:01:16,728
+Widzicie? Nawet dorośli mają problemy z odpowiedzią na to podstawowe przecież
+pytanie.
+
+21
+00:01:16,728 --> 00:01:22,728
+Wszyscy wiemy, że gdy pada, świat jest szary, można przemoczyć ubranie i trzeba
+siedzieć w domu.
+
+22
+00:01:22,728 --> 00:01:27,728
+Gra w piłkę, gdy zniewaleje się woda, wcale nie jest przyjemna.
+
+23
+00:01:27,728 --> 00:01:30,728
+Czy więc deszcz pada nam na złość?
+
+24
+00:01:30,728 --> 00:01:35,728
+Ależ nie. Wiecie przecież, że deszcz jest bardzo pożyteczny.
+
+25
+00:01:35,728 --> 00:01:39,728
+Potrzebują go ludzie, zwierzęta i rośliny.
+
+26
+00:01:39,728 --> 00:01:45,728
+Wystarczy spojrzeć na pustynię. Tam nie ma deszczu i jest nie do wytrzymania.
+
+27
+00:01:45,728 --> 00:01:50,728
+No dobrze, ale jak tu się dzieje, że ten deszcz pada? Wszyscy wiemy, że pada z
+chmur.
+
+28
+00:01:50,728 --> 00:01:55,728
+Oczywiście. A czy wiecie z czego zrobione są chmury?
+
+29
+00:01:57,568 --> 00:01:58,068
+Hmm.
+
+30
+00:01:58,576 --> 00:02:00,576
+Sam nie wiem.
+
+31
+00:02:00,576 --> 00:02:06,576
+Z wody parującej, z jezior i morza.
+
+32
+00:02:06,576 --> 00:02:10,576
+Brawo, masz rację. A jak taka chmura wygląda z bliska?
+
+33
+00:02:10,576 --> 00:02:14,576
+Jest taka pierzasta na przykład.
+
+34
+00:02:14,576 --> 00:02:19,576
+Ale nie da na niej się usiąść, bo można spać.
+
+35
+00:02:19,576 --> 00:02:24,576
+Myślę, że w taki ciepły dzień w 30 stopni to będzie puszysto i ciepło.
+
+36
+00:02:24,576 --> 00:02:27,576
+Trzeba polecieć samolotem.
+
+37
+00:02:27,576 --> 00:02:31,576
+No i trzeba mieć dużo benzyny.
+
+38
+00:02:31,576 --> 00:02:35,576
+Bo chmury są bardzo, bardzo wysoko.
+
+39
+00:02:35,576 --> 00:02:37,576
+No to najwyższy czas na doświadczenie.
+
+40
+00:02:37,576 --> 00:02:41,576
+A przeprowadzą je moi asystenci w laboratorium Dlaczego? Po co? Jak?
+
+41
+00:02:41,576 --> 00:02:44,576
+Witam, Mele, Tosie i Aleksa.
+
+42
+00:02:44,576 --> 00:02:46,576
+Zobaczcie, jak ja jestem ubrana.
+
+43
+00:02:46,576 --> 00:02:53,576
+Mam fartuch, mam okulary ochronne, bo za chwilę zrobimy takie trochę
+niebezpieczne doświadczenie.
+
+44
+00:02:53,576 --> 00:02:58,576
+Wytworzyć chmurę to wcale nie jest taka łatwa sprawa, ale my spróbujemy.
+
+45
+00:02:58,576 --> 00:03:02,576
+Uwaga, czy jesteście gotowi, żeby wytworzyć chmurę?
+
+46
+00:03:02,576 --> 00:03:04,576
+Tak!
+
+47
+00:03:05,408 --> 00:03:09,424
+Uaaa!
+
+48
+00:03:09,424 --> 00:03:15,424
+Teraz możecie podejść, dotknąć tą chmurę, która się pojawia, możecie też
+dmuchnąć.
+
+49
+00:03:16,424 --> 00:03:17,424
+Zimne.
+
+50
+00:03:18,424 --> 00:03:23,424
+Prawdziwe chmury też są zimne, bo tam wysoko nad ziemią jest lodowato.
+
+51
+00:03:24,424 --> 00:03:28,424
+Wszystkie chmury zrobione są z kropelek wody, ale nie z każdej spadnie deszcz.
+
+52
+00:03:29,424 --> 00:03:31,424
+Wiadomo, że białe delikatne obłoczki są niegroźne.
+
+53
+00:03:32,424 --> 00:03:34,424
+Kropelki wody są w nich drobniutkie jak mgiełka.
+
+54
+00:03:34,424 --> 00:03:40,424
+Ulewe zapowiadają chmury gęste i szare, zrobione z większych kropel, które rosną
+i rosną.
+
+55
+00:03:41,424 --> 00:03:46,424
+W pewnym momencie stają się tak ciężkie, że zaczynają spadać, przechwytując po
+drodze drobniejsze koleżanki.
+
+56
+00:03:47,424 --> 00:03:51,424
+Kropel jest coraz więcej i więcej, spadając na ziemię tworzą deszcz.
+
+57
+00:03:53,424 --> 00:03:56,424
+Spróbujemy się razem dowiedzieć, skąd się bierze deszcz.
+
+58
+00:03:56,424 --> 00:04:00,424
+Ale zanim to zrobimy, mam takie do Was pytanie trudne.
+
+59
+00:04:00,424 --> 00:04:02,424
+Co jest w tej szklance?
+
+60
+00:04:02,424 --> 00:04:03,424
+Lód.
+
+61
+00:04:03,424 --> 00:04:04,424
+A w tej?
+
+62
+00:04:04,424 --> 00:04:05,424
+Woda.
+
+63
+00:04:05,424 --> 00:04:08,424
+A w tej? Pytanie dla Aleksa, trudne.
+
+64
+00:04:08,424 --> 00:04:09,424
+Gaz.
+
+65
+00:04:09,424 --> 00:04:12,424
+Gaz. I co to jest za gaz, ktoś wie?
+
+66
+00:04:12,424 --> 00:04:18,424
+Powietrze. A w tym powietrzu jest ukryta para wodna.
+
+67
+00:04:18,424 --> 00:04:26,424
+Lód, woda i para wodna to są trzy postacie wody.
+
+68
+00:04:26,424 --> 00:04:32,424
+Co trzeba zrobić, żeby z takiej wody dostać parę wodną, taką, która jest w
+powietrzu?
+
+69
+00:04:32,424 --> 00:04:36,424
+Wiecie, dziewczyny, Aleksa, Ty masz jakiś pomysł, co trzeba zrobić?
+
+70
+00:04:36,424 --> 00:04:40,424
+Tak, trzeba wodę podgrzać do temperatury prawie 100 stopni Celsjusza.
+
+71
+00:04:40,424 --> 00:04:42,424
+Trzeba wodę podgrzać i my zaraz to zrobimy.
+
+72
+00:04:42,424 --> 00:04:50,424
+Ja tutaj włączam specjalne urządzenie, które będzie podgrzewać wodę.
+
+73
+00:04:50,424 --> 00:04:54,424
+To szklane naczynie nazywa się Kolba.
+
+74
+00:04:54,424 --> 00:04:57,424
+To jest urządzenie, które podgrzewa wodę.
+
+75
+00:04:57,424 --> 00:05:04,424
+A tu mamy taki zestaw, który pozwoli nam sprowadzić na ziemię deszcz.
+
+76
+00:05:04,424 --> 00:05:10,424
+Żeby ten zestaw był kompletny, ja muszę tutaj jeszcze położyć coś zimnego.
+
+77
+00:05:10,424 --> 00:05:12,424
+Zimnym czymś, co może być?
+
+78
+00:05:12,424 --> 00:05:14,424
+Lód!
+
+79
+00:05:15,184 --> 00:05:20,184
+O, patrzcie. Widzicie parę, jak leci z rurki? Widać parę?
+
+80
+00:05:20,184 --> 00:05:26,184
+To teraz tutaj, o. I patrzcie, co się pojawia na płytce metalowej.
+
+81
+00:05:26,184 --> 00:05:27,184
+Bąble.
+
+82
+00:05:27,184 --> 00:05:29,184
+A co to są te bąble?
+
+83
+00:05:29,184 --> 00:05:30,184
+Woda.
+
+84
+00:05:30,184 --> 00:05:37,184
+Woda. Patrzcie, to są kropelki, to nie są bąble, to są kropelki wody, które nam
+ściekają.
+
+85
+00:05:37,184 --> 00:05:41,184
+Możecie podstawić rękę pod te kropelki i spróbować je złapać.
+
+86
+00:05:41,184 --> 00:05:50,184
+Czyli mamy gorącą parę wodną, która dotyka, która tutaj się styka z zimną
+metalową płytką
+
+87
+00:05:50,184 --> 00:05:57,184
+i pod wpływem tej niskiej temperatury z pary wodnej powstaje woda w postaci
+takiej cieczy.
+
+88
+00:05:57,184 --> 00:06:01,184
+W taki sam sposób powstaje w przyrodzie deszcz.
+
+89
+00:06:11,184 --> 00:06:15,184
+Co wysoko zrobi się jej zimno i znowu zamieni się w drobną kropelkę.
+
+90
+00:06:15,184 --> 00:06:20,184
+Z wielu takich kropelek powstaną chmury, z których gdzieś daleko spadnie deszcz.
+
+91
+00:06:20,184 --> 00:06:23,184
+To taki darmowy system transportu wody w przyrodzie.
+
+92
+00:06:23,184 --> 00:06:27,184
+Prawda, że nieźle to sobie natura wymyśliła?
+
+93
+00:06:27,184 --> 00:06:28,184
+Po co?
+
+94
+00:06:28,184 --> 00:06:33,184
+Są różne myszy. Myszy białe, myszy szare, gumki myszki, no i są myszy
+komputerowe.
+
+95
+00:06:33,184 --> 00:06:39,184
+Na pewno wszyscy uwielbiacie grać na komputerze i jestem pewien, że używacie do
+tego myszy.
+
+96
+00:06:40,272 --> 00:06:44,272
+Ale, właściwie, po co komputerowi mysz?
+
+97
+00:06:44,272 --> 00:06:50,272
+Nazwa mysz pochodzi od pierwszych urządzeń tego typu podobnych do prawdziwych
+myszy.
+
+98
+00:06:50,272 --> 00:06:54,272
+Kabel znajdujący się z tyłu urządzenia przypomina prawdziwy mys i ogon.
+
+99
+00:06:54,272 --> 00:06:58,272
+Pierwsze myszy komputerowe wymyślono prawie 30 lat temu.
+
+100
+00:06:58,272 --> 00:07:06,272
+Wyobraźcie sobie, że wówczas specjaliści uznali je za mało przydatne urządzenia,
+których ludzie nie będą chcieli używać.
+
+101
+00:07:06,272 --> 00:07:12,272
+Mysz komputerowa to urządzenie wskazujące, dzięki któremu użytkownik może
+łatwiej obsługiwać komputer.
+
+102
+00:07:12,272 --> 00:07:14,272
+To takie przedłużenie ludzkiej ręki.
+
+103
+00:07:14,272 --> 00:07:18,272
+Za pomocą myszki możemy poruszać się po ekranie komputera.
+
+104
+00:07:18,272 --> 00:07:24,272
+Urządzenie posiada dwa przyciski i specjalną rolkę do przewijania ekranu w górę
+i w dół.
+
+105
+00:07:24,272 --> 00:07:29,272
+Wciskanie przycisków nazywamy klikaniem od dźwięku, który towarzyszy tej
+czynności.
+
+106
+00:07:29,272 --> 00:07:37,272
+Gdy klikamy lewym przyciskiem myszy, możemy zaznaczyć odpowiednią ikonę na
+ekranie monitora lub poruszać się po internecie.
+
+107
+00:07:39,024 --> 00:07:45,024
+Prawy przycisk uruchamia menu, dzięki któremu możemy przejść do innych
+czynności.
+
+108
+00:07:46,024 --> 00:07:50,024
+Myszka świetnie sprawdza się w komputerowych grach edukacyjnych.
+
+109
+00:07:50,024 --> 00:07:54,024
+Klikanie, zaznaczanie, przenoszenie, wskazywanie.
+
+110
+00:07:54,024 --> 00:07:59,024
+Możemy zrobić wszystko, w ten sposób bardzo łatwo oswoić myszkę komputerową.
+
+111
+00:08:06,192 --> 00:08:11,792
+O wiedzę, jakiego koloru jest śnieg, gdy spada na czerwony, blaszany dach.
+
+112
+00:08:12,492 --> 00:08:13,492
+Racja!
+
+113
+00:08:20,592 --> 00:08:21,992
+Dobra, i puszcz.
+
+114
+00:08:22,592 --> 00:08:24,892
+A już myślałem, że będziemy pływać.
+
+115
+00:08:26,292 --> 00:08:27,492
+Tak, średek!
+
+116
+00:08:29,584 --> 00:08:34,084
+Zwróciliście uwagę, że myszki wcale nie muszą mieć nudnego kształtu?
+
+117
+00:08:34,084 --> 00:08:38,584
+Przy odrobinie fantazji, mysz komputerowa może być też fajną zabawką.
+
+118
+00:08:39,888 --> 00:08:42,888
+A jak skonstruowana jest mysz komputerowa?
+
+119
+00:08:42,888 --> 00:08:47,888
+Pierwsze były myszy kulkowe i w porównaniu z dzisiejszymi były mało dokładne.
+
+120
+00:08:47,888 --> 00:08:50,888
+Ruch kulki był odbierany przez system dwóch rolek.
+
+121
+00:08:50,888 --> 00:08:55,888
+Rolki obracając się wytwarzały sygnały elektryczne odbierane przez komputery.
+
+122
+00:08:55,888 --> 00:09:00,888
+Dziś najpopularniejsze są myszy diodowe, czyli optyczne.
+
+123
+00:09:00,888 --> 00:09:03,888
+W podstawie takiej myszki zainstalowana jest dioda LED,
+
+124
+00:09:03,888 --> 00:09:07,888
+dzięki której mysz może dokładnie obserwować, w którą stronę się porusza.
+
+125
+00:09:07,888 --> 00:09:12,888
+Myszki optyczne działają na prawie każdej powierzchni i nawet nie potrzebują
+podkładek.
+
+126
+00:09:14,464 --> 00:09:18,464
+Nie wszystkie myszki są połączone z komputerem kablem.
+
+127
+00:09:18,464 --> 00:09:22,464
+Jest to myszka bezprzewodowa, pozbawiona kabelka.
+
+128
+00:09:22,464 --> 00:09:25,464
+W związku z tym nie jesteśmy uwiązani do komputera.
+
+129
+00:09:25,464 --> 00:09:29,464
+Możemy chodzić po pokoju i nadal sterować komputerem.
+
+130
+00:09:35,464 --> 00:09:41,464
+Nasza myszka jest niezwykła i potrafi poruszać się nawet w powietrzu bez
+podkładki.
+
+131
+00:09:42,906 --> 00:09:46,906
+Myszka potrafi czytać ruchy, które wykonujemy w powietrzu.
+
+132
+00:09:46,906 --> 00:09:49,906
+Na przykład potrafi odczytać taki ruch
+
+133
+00:09:49,906 --> 00:09:53,906
+i za pomocą tego tworzyć nam wybrany program.
+
+134
+00:09:53,906 --> 00:09:56,906
+Możemy też robić coś takiego
+
+135
+00:09:56,906 --> 00:10:01,906
+i za pomocą tych ruchów sterować sobie odtwarzaniem muzyki.
+
+136
+00:10:01,906 --> 00:10:05,906
+Wszystkie te ruchy odtwarzane są przez myszkę
+
+137
+00:10:05,906 --> 00:10:09,906
+bez udziału klasycznego biurka, kanapy albo kolana.
+
+138
+00:10:09,906 --> 00:10:11,906
+Po co komputerowi mysz?
+
+139
+00:10:11,906 --> 00:10:14,906
+Dzięki niej łatwo możemy nim sterować.
+
+140
+00:10:23,098 --> 00:10:31,378
+Zobaczcie, to jest owoc kakarowca i kto by pomyślał, że z takiego owocu powstaje
+pyszna czekolada.
+
+141
+00:10:31,378 --> 00:10:37,898
+No ale nie tak od razu, Maćku. Żeby zrobić takie łakocie trzeba się napracować.
+
+142
+00:10:37,904 --> 00:10:40,904
+A więc sprawdźmy jak się robi czekoladę.
+
+143
+00:10:40,904 --> 00:10:43,904
+Recepturę czekolady znano już 4 tysiące lat temu.
+
+144
+00:10:43,904 --> 00:10:47,904
+Początkowo pito ją podczas uroczystości religijnych.
+
+145
+00:10:47,904 --> 00:10:51,904
+W następnych wiekach ten drogocenny napój można było kupić tylko w aptece,
+
+146
+00:10:51,904 --> 00:10:55,904
+ponieważ traktowano go jak lekarstwo i pili go bardzo bogaci ludzie.
+
+147
+00:10:55,904 --> 00:10:59,904
+Obecny kształt czekolady wymyślono 200 lat temu.
+
+148
+00:10:59,904 --> 00:11:05,904
+W takim owocu kakaowca znajduje się od 30 do 60 takich małych ziarenek,
+
+149
+00:11:05,904 --> 00:11:07,904
+które się praży.
+
+150
+00:11:07,904 --> 00:11:13,904
+Potem powstaje z nich miazga kakaowa, czyli takie ubite ziarenka.
+
+151
+00:11:13,904 --> 00:11:16,904
+No i dopiero z nich powstaje kakao.
+
+152
+00:11:16,904 --> 00:11:19,904
+Takie same jakie pijecie z mlekiem na śniadanie.
+
+153
+00:11:19,904 --> 00:11:24,904
+Innym bardzo ważnym składnikiem czekolady jest masło kakaowe.
+
+154
+00:11:27,472 --> 00:11:36,472
+Zobaczcie, gorzką czekoladę otrzymujemy z miazgi, z kakao i z masła kakaowego.
+
+155
+00:11:36,472 --> 00:11:40,472
+Ale taka czekolada jest bardzo gorzka właśnie dlatego, że kakao jest bardzo
+gorzkie.
+
+156
+00:11:40,472 --> 00:11:43,472
+Żeby osłodzić ją dodajemy trochę cukru.
+
+157
+00:11:43,472 --> 00:11:48,472
+A jeżeli dodamy jeszcze trochę mleka w postaci proszku otrzymamy mleczną
+czekoladę.
+
+158
+00:11:48,472 --> 00:11:51,472
+Jedną tabliczkę czekolady robi się około dwóch dni.
+
+159
+00:11:51,472 --> 00:11:57,472
+Składniki czekolady takie jak masło kakaowe czy miazgę kakaowca wyciska się za
+pomocą specjalnych pras.
+
+160
+00:11:57,472 --> 00:12:00,472
+I nie jest to łatwe.
+
+161
+00:12:00,472 --> 00:12:03,472
+A więc zróbmy wreszcie tę czekoladę.
+
+162
+00:12:03,472 --> 00:12:07,472
+Musimy pomieszać te wszystkie składniki, ale w odpowiedni sposób.
+
+163
+00:12:07,472 --> 00:12:12,472
+Najpierw dodamy trochę miazgi kakaowej, która będzie rozpuszczona.
+
+164
+00:12:12,472 --> 00:12:17,472
+I wtedy łatwiej zmieszać się z kuchem kakaowym, czyli z tym proszkiem.
+
+165
+00:12:18,472 --> 00:12:21,472
+Żeby było bardziej słodko dodamy trochę cukru.
+
+166
+00:12:21,472 --> 00:12:26,472
+Po podgrzaniu to wszystko będzie płynne, będziemy to walcować, żeby było bardzo
+drobne.
+
+167
+00:12:26,472 --> 00:12:31,472
+W trakcie mieszania będziemy dodawać płynne masło kakaowe.
+
+168
+00:12:31,472 --> 00:12:36,472
+Po zmieszaniu tych składników powstanie gorzka czekolada.
+
+169
+00:12:36,472 --> 00:12:40,472
+A jeżeli chcemy otrzymać mleczną czekoladę, musimy dodać trochę mleka.
+
+170
+00:12:40,472 --> 00:12:45,472
+Wszystkie te składniki świetnie się ze sobą mieszają, kiedy są płynne.
+
+171
+00:12:45,472 --> 00:12:51,472
+No i teraz zobaczcie, jeśli użyjemy tylko cukru, mleka i masła kakaowego,
+
+172
+00:12:51,472 --> 00:12:57,472
+biała czekolada, czekolada ciemna, czyli tylko miazga kakaowa, kakao,
+ewentualnie cukier.
+
+173
+00:12:57,472 --> 00:13:02,472
+No i po dodaniu mleka mamy pyszną mleczną czekoladę o jasno brązowym kolorze.
+
+174
+00:13:04,378 --> 00:13:09,378
+No dobrze, ale czekolada, którą się tak delektujemy, zwykle jest w tabliczkach,
+a nie w płynie.
+
+175
+00:13:09,378 --> 00:13:14,378
+No więc jak się robi tabliczkę czekolady? Opowie nam o tym maestro czekolady
+Janusz Profus.
+
+176
+00:13:14,378 --> 00:13:20,378
+Mamy specjalne formy do czekolady różnego typu, różnego kształtu.
+
+177
+00:13:20,378 --> 00:13:26,378
+Napełniamy taką formę, następnie taką płynną czekoladę możemy udekorować różnymi
+dodatkami.
+
+178
+00:13:26,378 --> 00:13:31,378
+Mogą być to orzechy laskowe, żurawina i stacje, migdały.
+
+179
+00:13:31,378 --> 00:13:39,378
+Następnie idzie do tunelu chłodniczego lub do lodówek na temperaturę około 15
+stopni na 10 do 15 minut.
+
+180
+00:13:39,378 --> 00:13:45,378
+Za chwileczkę tabliczki wypadają i będą już potem tylko pakowane.
+
+181
+00:13:45,378 --> 00:13:50,378
+Jak się robi czekoladę? No właśnie tak, mleczna z orzechami.
+
+182
+00:13:56,378 --> 00:14:00,378
+Dzięki za uwagę.
+
+183
+00:14:02,522 --> 00:14:09,242
+Dlaczego, po co, po co i jak tak właśnie działa cały ten świat?
+
+184
+00:14:09,242 --> 00:14:12,242
+Ja chcę zrozumieć go i mieć swój wkład.
+
+185
+00:14:12,242 --> 00:14:15,242
+Dlaczego bije serce, dlaczego słońce świeci?
+
+186
+00:14:15,242 --> 00:14:18,242
+Pytają się od zawsze ciekawe świata dzieci.
+
+187
+00:14:18,242 --> 00:14:21,242
+Dlaczego, po co, po co i jak...
+

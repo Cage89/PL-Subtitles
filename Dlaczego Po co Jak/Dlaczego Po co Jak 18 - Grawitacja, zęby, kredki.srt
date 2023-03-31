@@ -1,0 +1,777 @@
+1
+00:00:00,000 --> 00:00:06,000
+Dlaczego bije serce? Dlaczego słońce świeci?
+
+2
+00:00:06,000 --> 00:00:09,000
+Pytają się od zawsze ciekawe świata dzieci.
+
+3
+00:00:09,000 --> 00:00:12,000
+Dlaczego, po co, po co i jak?
+
+4
+00:00:13,104 --> 00:00:21,504
+Witam wszystkich, którzy nas oglądają i oczywiście panią naukę, bez której
+trudno byłoby nam odgrywać te wszystkie tajemnice natury i techniki.
+
+5
+00:00:21,504 --> 00:00:27,504
+Ach, bardzo lubię poszukiwać z wami odpowiedzi na te z pozoru proste, a jednak
+bardzo trudne pytania.
+
+6
+00:00:27,504 --> 00:00:38,504
+Dziś spróbujemy się dowiedzieć, dlaczego nie można na stałe oderwać się od
+ziemi, albo rzucić piłki tak, by zawisła w powietrzu?
+
+7
+00:00:38,504 --> 00:00:42,504
+Bo wszystko, Maćku, spada na ziemię.
+
+8
+00:00:42,904 --> 00:00:44,904
+To oczywiste, ale dlaczego tak się dzieje?
+
+9
+00:00:44,904 --> 00:00:48,904
+Wyjaśnijmy to oczywiście, ale co jeszcze dziś spadamy?
+
+10
+00:00:48,904 --> 00:00:52,904
+Po co rosną mleczne zęby i jak się robi kredki?
+
+11
+00:00:52,904 --> 00:00:54,904
+Zaczynajmy więc!
+
+12
+00:00:54,904 --> 00:00:55,904
+Dlaczego?
+
+13
+00:00:55,904 --> 00:01:03,904
+Słyszałem, że pewien bardzo znany fizyk, Isaac Newton, dokonał wielkiego
+odkrycia naukowego, leżąc pod jabłonią.
+
+14
+00:01:03,904 --> 00:01:04,904
+Au!
+
+15
+00:01:05,304 --> 00:01:08,304
+Tak, Maćku, mówi się nawet jabłko Newtona.
+
+16
+00:01:08,304 --> 00:01:15,304
+Bo ten spadający z drzewa owoc uzmysłowił wielkiemu uczonemu, że istnieje jakaś
+siła, która sprawia, że wszystko spada na ziemię.
+
+17
+00:01:16,128 --> 00:01:18,128
+Wiem, grawidacja!
+
+18
+00:01:18,128 --> 00:01:20,128
+Au!
+
+19
+00:01:20,128 --> 00:01:22,128
+Mam nadzieję, że moje asystenci
+
+20
+00:01:22,128 --> 00:01:24,128
+dokładnie tę dziwną siłę zbadają
+
+21
+00:01:24,128 --> 00:01:26,128
+w Centrum Nauki Kopernik.
+
+22
+00:01:26,704 --> 00:01:34,704
+Marta, Natalka i Eryk już są gotowi do pracy. W badaniach naukowych pomoże im
+dziś Pan Jacek.
+
+23
+00:01:34,704 --> 00:01:40,704
+Zaczynamy konkurs skoków. Myślę, że to jest najlepszy wstęp do dzisiejszego
+programu.
+
+24
+00:01:40,704 --> 00:01:46,704
+Zaczyna Eryk. Zapraszam na skocznię. Czekamy na zielone. Hop!
+
+25
+00:01:46,704 --> 00:01:51,704
+28 cm. Teraz Natalia. Zielone światło. Hop!
+
+26
+00:01:51,704 --> 00:01:56,704
+27 cm. Teraz Marta. Zielone światło. Hop!
+
+27
+00:01:56,704 --> 00:02:02,704
+20 cm. Kto wygrał? Eryk. Brawo. Ja byłam druga.
+
+28
+00:02:02,704 --> 00:02:11,704
+Podczas konkursu skoków przyszło mi do głowy takie pytanie. Dlaczego wszystko,
+co podrzucimy, zawsze musi spaść na ziemię?
+
+29
+00:02:11,704 --> 00:02:17,704
+Jak myślicie? Bo jest grawitacja. Czyli przyciąganie ziemskie.
+
+30
+00:02:17,704 --> 00:02:24,704
+Tutaj przygotowałem model kuli ziemskiej, czyli planety, na której żyjemy i
+mieszkamy.
+
+31
+00:02:24,704 --> 00:02:30,704
+A tutaj macie takie przedmioty. Teraz spróbujcie przybliżyć te przedmioty do
+kuli ziemskiej.
+
+32
+00:02:30,704 --> 00:02:35,704
+I co czujecie? Że się przyciągają. Czujecie przyciąganie?
+
+33
+00:02:35,704 --> 00:02:40,704
+Eryk, spróbuj. Czy wiecie, gdzie na tym globusie znajduje się Polska?
+
+34
+00:02:42,224 --> 00:02:44,224
+Tutaj, tak, w tym miejscu.
+
+35
+00:02:44,224 --> 00:02:48,224
+Dobrze, to niech jedna osoba przyczepi tam nasz przedmiot.
+
+36
+00:02:49,224 --> 00:02:53,224
+O, bardzo dobrze. Mamy teraz silną grawitację w Polsce, tak?
+
+37
+00:02:53,224 --> 00:02:56,224
+Ziemia przyciąga wszystko, co znajduje się w jej pobliżu.
+
+38
+00:02:56,224 --> 00:03:00,224
+Czy według was tylko ziemia przyciąga rzeczy?
+
+39
+00:03:02,224 --> 00:03:03,224
+Magnesy.
+
+40
+00:03:03,224 --> 00:03:04,224
+Magnesy, tak?
+
+41
+00:03:04,224 --> 00:03:07,224
+Tutaj mamy przygotowane magnesy na sznurkach.
+
+42
+00:03:10,490 --> 00:03:16,490
+Do drugiej dłoni weźmiemy magnes i zaciśniemy, okej?
+
+43
+00:03:16,490 --> 00:03:21,490
+I teraz spróbujcie zbliżyć te magnesy na sznurkach do swoich dłoni, tak z góry
+właśnie.
+
+44
+00:03:21,490 --> 00:03:24,490
+I czujecie przeciąganie?
+
+45
+00:03:24,490 --> 00:03:26,490
+To teraz spróbujcie dłońmi lewo-prawo ruszać.
+
+46
+00:03:28,736 --> 00:03:31,736
+To jest akurat przyciąganie magnetyczne.
+
+47
+00:03:31,736 --> 00:03:36,736
+Ono jest podobne do grawitacyjnego, w tym sensie, że działa na odległość.
+
+48
+00:03:36,736 --> 00:03:42,736
+Chciałem wam powiedzieć, że tylko niektóre substancje przyciągają się
+magnetycznie.
+
+49
+00:03:42,736 --> 00:03:45,736
+A w przypadku grawitacji wszystko się przyciąga.
+
+50
+00:03:45,736 --> 00:03:50,736
+Czyli każdy obiekt we Wszechświecie przyciąga inny obiekt we Wszechświecie.
+
+51
+00:03:50,736 --> 00:03:52,736
+Wierzycie mi to? Tak?
+
+52
+00:03:52,736 --> 00:03:57,736
+No to proszę, Eryk, weź te dwie kulki pomarańczowe i powiedz mi, czy one się
+przyciągają.
+
+53
+00:03:57,736 --> 00:04:00,736
+Nie, bo są plastikowe.
+
+54
+00:04:00,736 --> 00:04:03,736
+Ale ja powiedziałem, że wszystkie obiektywy w Wszechświecie się przyciągają.
+
+55
+00:04:03,736 --> 00:04:09,736
+Te kulki też się przyciągają, tylko przyciągają się tak słabo, że po prostu tego
+nie czujemy.
+
+56
+00:04:09,736 --> 00:04:17,736
+Przyciąganie grawitacyjne jest tym silniejsze, im kulki są cięższe, im mają
+większą masę.
+
+57
+00:04:17,736 --> 00:04:21,736
+Jakie znacie duże kulki, takie kule o dużej masie?
+
+58
+00:04:21,736 --> 00:04:24,736
+Taka, ta. Kula ziemska, tak?
+
+59
+00:04:25,736 --> 00:04:30,736
+Globus jest malutki, ale prawdziwa kula ziemska jest rzeczywiście ogromna.
+
+60
+00:04:30,736 --> 00:04:34,736
+Grawitacja jest tak duża, że już potrafimy to poczuć.
+
+61
+00:04:34,736 --> 00:04:40,736
+Na przykład, kiedy podskakujemy, zawsze wracamy, bo przyciąga nas kula ziemska.
+
+62
+00:04:40,736 --> 00:04:46,736
+A czy znamy jeszcze jakieś takie dwie duże kule, które również mają bardzo dużą
+grawitację?
+
+63
+00:04:46,736 --> 00:04:49,736
+Słońce. Słońce to jedna kula, księżyc to druga kula.
+
+64
+00:04:49,736 --> 00:04:53,736
+Co jest cięższe? Co ma większą masę? Słońce czy księżyc?
+
+65
+00:04:53,736 --> 00:04:54,736
+Słońce.
+
+66
+00:04:54,736 --> 00:05:01,736
+I teraz mam bardzo trudne pytanie, czy wobec tego na Słońcu grawitacja jest
+silniejsza niż na Ziemi?
+
+67
+00:05:01,736 --> 00:05:04,736
+Czy Słońca? Jak myślicie?
+
+68
+00:05:04,736 --> 00:05:06,736
+Silniejsza.
+
+69
+00:05:06,736 --> 00:05:10,736
+Na Słońcu nie podskoczylibyśmy nawet na milimetr.
+
+70
+00:05:10,736 --> 00:05:13,736
+Tam grawitacja jest 28 razy silniejsza niż na Ziemi.
+
+71
+00:05:13,736 --> 00:05:17,736
+Dlatego, że Słońce ma bardzo dużą masę, znacznie większą masę.
+
+72
+00:05:17,736 --> 00:05:19,736
+A na księżycu jest najmniejsza.
+
+73
+00:05:19,736 --> 00:05:21,736
+Na księżycu z kolei grawitacja jest?
+
+74
+00:05:21,736 --> 00:05:22,736
+Najmniejsza.
+
+75
+00:05:22,736 --> 00:05:25,736
+Mniejsza, bo księżyc po prostu ma mniejszą masę niż Ziemia.
+
+76
+00:05:25,736 --> 00:05:30,736
+Czy wobec tego na księżycu byśmy podskoczyli wyżej czy niżej?
+
+77
+00:05:30,736 --> 00:05:31,736
+Wyżej.
+
+78
+00:05:31,736 --> 00:05:34,736
+Wyżej. Bardzo byste dzieci. A chcielibyście spróbować?
+
+79
+00:05:34,736 --> 00:05:35,736
+Tak.
+
+80
+00:05:35,736 --> 00:05:37,736
+Dobrze, w takim razie zapraszam do naszego eksponatu.
+
+81
+00:05:37,736 --> 00:05:39,736
+Idziemy na księżyc.
+
+82
+00:05:40,736 --> 00:05:45,736
+Tak, to urządzenie w Centrum Nauki Kopernik pozwala poczuć się jak na księżycu.
+
+83
+00:05:45,736 --> 00:05:48,736
+Tam przyciąganie grawitacyjne jest 6 razy mniejsze niż na Ziemi,
+
+84
+00:05:48,736 --> 00:05:52,736
+przez co czujemy się bardzo lekko i podskoczyć możemy naprawdę wysoko.
+
+85
+00:05:52,736 --> 00:05:58,736
+Skacze się lekko i przyjemnie, ale chodzenie, gdy jest się tak lekkim, wcale nie
+jest proste.
+
+86
+00:05:58,736 --> 00:06:02,736
+Przekonali się o tym astronauti, którzy naprawdę wylądowali na księżycu.
+
+87
+00:06:02,736 --> 00:06:08,736
+Zamiast chodzić wciąż podskakiwali, a utrzymanie równowagi sprawiało im wiele
+problemów.
+
+88
+00:06:08,736 --> 00:06:12,736
+Tak, Maciek miał rację, mówiąc, że grawitacja to bardzo dziwna siła.
+
+89
+00:06:14,944 --> 00:06:15,944
+Po co?
+
+90
+00:06:15,944 --> 00:06:22,944
+Pani nauko, gdy byłem dzieckiem, rodzice często powtarzali mi, żebym mył
+dokładnie zęby po każdym posiłku.
+
+91
+00:06:22,944 --> 00:06:26,944
+I naprawdę szczotkowałem je sumiennie. A one i tak wypadły.
+
+92
+00:06:26,944 --> 00:06:34,944
+Maćku, ale twoja praca nie poszła na marne. Dzięki temu, że dbałeś o mleczaki,
+teraz masz zdrowe i mocne zęby stałe.
+
+93
+00:06:34,944 --> 00:06:39,944
+Ale właściwie po co rosną mleczne zęby? Nie mogłyby od razu wyrosnąć stałe?
+
+94
+00:06:39,944 --> 00:06:41,808
+Nie mogłyby.
+
+95
+00:06:41,808 --> 00:06:49,808
+Przecież buzia dziecka jest znacznie mniejsza niż dorosłego. Nie pomieściłaby 32
+dużych zębów, bo tyle ich właśnie mają dorośli.
+
+96
+00:06:49,808 --> 00:06:56,808
+Zresztą, mleczne zęby w dzieciństwie mają nie tylko ludzie, ale i zwierzęta
+zwane ssakami, między innymi psy i koty.
+
+97
+00:06:56,808 --> 00:07:01,808
+I nie tak, że najpierw rosną mleczaki, a potem wypadają i robią miejsce dla
+zębów stałych.
+
+98
+00:07:01,808 --> 00:07:07,808
+Pierwsze mleczne zątki u dzieci pojawiają się, gdy mają pół roku, a potem rosną
+następne i następne.
+
+99
+00:07:07,808 --> 00:07:12,808
+W sumie mlecznych zębów rośnie 20. Są śliczne, białutkie, ale słabe.
+
+100
+00:07:12,808 --> 00:07:16,808
+Mają cieńszą osłonę ze szkliwa i dlatego łatwiej się psują.
+
+101
+00:07:16,808 --> 00:07:19,808
+Ale po co właściwie potrzebne są mleczne zęby?
+
+102
+00:07:19,808 --> 00:07:24,808
+Na przykład do jedzenia kanapek, aby je ugryźć.
+
+103
+00:07:24,808 --> 00:07:33,808
+Zanim się stałe pojawią, minie kilka lat i w tym czasie mleczne zęby muszą
+służyć, aby gryźć pokarm.
+
+104
+00:07:34,808 --> 00:07:39,808
+Masz rację, ale po co dbać o mleczne zęby, jeśli one i tak wypadną?
+
+105
+00:07:47,808 --> 00:07:53,808
+Tak, okazuje się, że od tego na ile zdrowe i silne są mleczne zęby, zależy
+zdrowie zębów stałych,
+
+106
+00:07:53,808 --> 00:07:57,808
+które pod spodem zaczynają powstawać mniej więcej w szóstym roku życia.
+
+107
+00:07:57,808 --> 00:08:01,808
+Najpierw z boku, gdzie mleczaków nie było, wyrzynają się tak zwane szóstki.
+
+108
+00:08:01,808 --> 00:08:06,808
+Potem z przodu zaczynają wypadać mleczaki, a na ich miejscu wyrastają zęby
+stałe.
+
+109
+00:08:06,808 --> 00:08:09,808
+A co zrobiliście z zębami, które wypadły?
+
+110
+00:08:09,808 --> 00:08:13,808
+Kładłem pod poduszkę i czekałem na nóżkę za nóżkę.
+
+111
+00:08:13,808 --> 00:08:18,808
+Potem na drugi dzień zawsze nie miałam zęba, a miałam jakąś niespodziankę.
+
+112
+00:08:18,808 --> 00:08:21,808
+To ja włożyłam je do takiego specjalnego pudełka.
+
+113
+00:08:21,808 --> 00:08:23,808
+I co?
+
+114
+00:08:23,808 --> 00:08:26,808
+No i nic, tam sobie leżę.
+
+115
+00:08:26,808 --> 00:08:29,808
+Czasem w usunięciu mlecznego zęba musi pomóc dentysta.
+
+116
+00:08:29,808 --> 00:08:33,808
+Wizyty w gabinecie dentystycznym nie należy się bać, to naprawdę nic nie boli.
+
+117
+00:08:33,808 --> 00:08:37,808
+Ale ważne, aby na kontrolę przychodzić regularnie co trzy miesiące,
+
+118
+00:08:37,808 --> 00:08:39,808
+a nie dopiero wtedy, gdy ząb jest chory.
+
+119
+00:08:39,808 --> 00:08:43,808
+Pacjentka jest bardzo ciekawa wszystkiego, co dzieje się w jej buzi.
+
+120
+00:08:43,808 --> 00:08:48,808
+I dlatego pokażemy Zuzi jej zęby w kamerze wewnątrzustnej.
+
+121
+00:08:48,808 --> 00:08:53,808
+I Zuzia za chwilę zobaczy swoje zęby na ekranie.
+
+122
+00:08:53,808 --> 00:08:57,808
+Tutaj mamy piękne, różowe wypełnienia.
+
+123
+00:08:59,328 --> 00:09:04,328
+Oczywiście, jak będą już stałe zęby w buzi, nie będziemy robić takich kolorowych
+wypełnień.
+
+124
+00:09:04,328 --> 00:09:09,328
+Jak Zuzia będzie miała lat 18, na pewno nie będzie chciała mieć takich różowych
+wypełnień.
+
+125
+00:09:09,328 --> 00:09:10,328
+Będę chciała mieć.
+
+126
+00:09:10,328 --> 00:09:13,328
+Zuzia zawsze lubiła kolorowe wypełnienia.
+
+127
+00:09:13,328 --> 00:09:18,328
+Dlatego pokażemy Wam, jak takie wypełnienia się zakłada.
+
+128
+00:09:18,328 --> 00:09:22,328
+Nasz pacjent ma dużo zębów.
+
+129
+00:09:22,328 --> 00:09:24,328
+Ale jeden jest zepsuty.
+
+130
+00:09:24,328 --> 00:09:25,328
+Właśnie.
+
+131
+00:09:25,328 --> 00:09:27,328
+Dlaczego ten ząb jest zepsuty?
+
+132
+00:09:27,328 --> 00:09:29,328
+Zuziu, jak myślisz?
+
+133
+00:09:29,328 --> 00:09:32,328
+Dlatego, bo codziennie jadł, a on jest słodyczny.
+
+134
+00:09:32,328 --> 00:09:35,328
+I nie zamywał zębów chyba.
+
+135
+00:09:35,328 --> 00:09:40,328
+Spróbujemy wyleczyć mu ten ząb nieszczęsny, czarny i brzydki.
+
+136
+00:09:42,650 --> 00:09:46,650
+Mamy do wyboru takie kolory, proszę bardzo.
+
+137
+00:09:46,650 --> 00:09:50,650
+Ojejku, nie myślę, że by pasowało jasne zielone.
+
+138
+00:09:50,650 --> 00:09:55,650
+Mamy tutaj wypełnienie, które przypomina nam plastyliny.
+
+139
+00:09:55,650 --> 00:09:59,650
+Jest miękkie, może zrobimy mu jeszcze ociemno zielone.
+
+140
+00:09:59,650 --> 00:10:00,650
+Dokładnie.
+
+141
+00:10:00,650 --> 00:10:05,650
+Wypełnienie będziemy utwardzać za pomocą specjalnej lampy.
+
+142
+00:10:07,738 --> 00:10:11,738
+I poświeć, nie dotykając słychałów.
+
+143
+00:10:11,738 --> 00:10:13,738
+Pacjent był bardzo dzielny.
+
+144
+00:10:13,738 --> 00:10:16,738
+Tak, bardzo był dzielny i nie płakał.
+
+145
+00:10:16,738 --> 00:10:18,738
+Zazwyczaj dzieci też nie płaczą.
+
+146
+00:10:18,738 --> 00:10:20,738
+Dentista jest bardzo miły.
+
+147
+00:10:20,738 --> 00:10:22,738
+Niech to nie źle.
+
+148
+00:10:22,738 --> 00:10:24,738
+Bardzo się cieszę.
+
+149
+00:10:24,738 --> 00:10:26,738
+Zuziu, ponieważ byłaś dzielna jak zawsze,
+
+150
+00:10:26,738 --> 00:10:28,738
+dostaniesz od nas medal.
+
+151
+00:10:28,738 --> 00:10:31,738
+Może mi Pani tutaj przyknąć na środek?
+
+152
+00:10:31,738 --> 00:10:33,738
+Pokażesz rodzeńskim domu, tak?
+
+153
+00:10:33,738 --> 00:10:35,738
+I powiesz, że wizyty u dentysty nie są straszne.
+
+154
+00:10:37,738 --> 00:10:37,760
+Dzień dobry.
+
+155
+00:10:38,736 --> 00:10:50,256
+Każdy wie jak zbudowana jest kredka, z zewnątrz drewno, w środku kolorowy wkład,
+ciekawe jak produkuje się kredki.
+
+156
+00:10:50,256 --> 00:11:00,896
+To nie jest proste pytanie, gdyż kredki mogą być bardzo różne, najbardziej znane
+to kredki ołówkowe, czyli po prostu ołówki z kolorowym wkładem i kredki
+świecowe.
+
+157
+00:11:00,896 --> 00:11:07,296
+Ja mam dla was propozycję zupełnie niezwykłą, stworzymy kredki, które są
+jednocześnie i świecowe i ołówkowe
+
+158
+00:11:07,296 --> 00:11:13,776
+i nie zrobimy tego w jakiejś wielkiej, nowoczesnej fabryce, lecz w małym
+zakładzie położonym wśród mazurskich lasów.
+
+159
+00:11:13,776 --> 00:11:23,216
+Ola i Szymek oprowadzą nas po naprawdę magicznym miejscu. Tu z drewna
+wyczarowuje się mnóstwo przedmiotów, między innymi niezwykłe kredki.
+
+160
+00:11:23,216 --> 00:11:32,496
+Nic dziwnego, że nazywa się je leśnymi. Powstają z gałązek drzewa rosnącego w
+lesie, grabu. W tych gałązkach trzeba przede wszystkim wywiercić dziurki.
+
+161
+00:11:34,208 --> 00:11:38,208
+Można też w specjalnej maszynie wyciąć równiutkie patyczki z drzewa brzozowego.
+
+162
+00:11:38,208 --> 00:11:42,208
+Lekko je pokolorować i zatemperować.
+
+163
+00:11:42,208 --> 00:11:45,208
+Czyli mamy już drewnianą obudowę.
+
+164
+00:11:45,208 --> 00:11:48,208
+Oto i wkład. Powstały z kredek świecowych.
+
+165
+00:11:48,208 --> 00:11:51,208
+Kredki świecowe, jak sama nazwa wskazuje,
+
+166
+00:11:51,208 --> 00:11:54,208
+zrobione są z tego samego materiału, co świecę, czyli z wosku.
+
+167
+00:11:54,208 --> 00:11:57,208
+Dlatego też często nazywane są kredkami woskowymi.
+
+168
+00:11:57,208 --> 00:12:00,208
+Oczywiście już same wkłady można wykorzystać do rysowania,
+
+169
+00:12:00,208 --> 00:12:03,208
+ale my przecież postanowiliśmy zrobić połączenie kredki świecowej z ołówkową.
+
+170
+00:12:03,208 --> 00:12:06,208
+Takie cudo trudno kupić w sklepie,
+
+171
+00:12:06,208 --> 00:12:09,208
+ale z pomocą rodziców możecie sami wyprodukować je w domu.
+
+172
+00:12:09,208 --> 00:12:12,208
+Kredki można ozdobić na wiele sposobów.
+
+173
+00:12:12,208 --> 00:12:15,208
+Te na przykład są oklejane widokówkami z różnych miast
+
+174
+00:12:15,208 --> 00:12:18,208
+i będą tam sprzedawane jako pamiątki.
+
+175
+00:12:18,208 --> 00:12:21,208
+Jeśli kiedykolwiek je zobaczycie w sklepie,
+
+176
+00:12:21,208 --> 00:12:24,208
+możecie pochwalić się, że wiecie, jak są robione.
+
+177
+00:12:26,362 --> 00:12:31,362
+Teraz Ola i Szymek sprawdzą, jak się tymi niezwykłymi kredkami rysuje.
+
+178
+00:12:31,362 --> 00:12:33,362
+Chyba nieźle.
+
+179
+00:12:34,362 --> 00:12:38,362
+Zwykłe kredki ołówkowe powstają w bardzo podobny sposób.
+
+180
+00:12:38,362 --> 00:12:43,362
+Tylko to, co tu robiło się ręcznie, w fabryce wykonują automaty.
+
+181
+00:12:45,120 --> 00:12:51,120
+Dlaczego, po co, po co i jak, tak, właśnie działa cały ten świat?
+
+182
+00:12:51,120 --> 00:12:54,120
+Ja chcę zrozumieć go i mieć swój wkład.
+
+183
+00:12:54,120 --> 00:12:57,120
+Dlaczego bije serce, dlaczego słońce świeci?
+
+184
+00:12:57,120 --> 00:13:00,120
+Pytają się od zawsze ciekawe świata dzieci.
+
+185
+00:13:00,120 --> 00:13:03,120
+Dlaczego, po co, po co i jak?
+
