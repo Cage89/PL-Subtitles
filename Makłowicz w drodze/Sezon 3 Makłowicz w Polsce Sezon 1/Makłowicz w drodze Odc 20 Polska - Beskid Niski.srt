@@ -1,634 +1,1300 @@
 1
-00:00:00,000 --> 00:00:05,000
-BESKID NIŚKIE
+00:00:00,000 --> 00:00:03,000
+Napisy stworzone przez społeczność Amara.org
 
 2
-00:00:06,000 --> 00:00:14,000
-Beskid Niski drodzy Państwo, czyli bez wątpienia najbardziej dzikie, jedne z
+00:00:22,864 --> 00:00:36,864
+Beskid Niski drodzy państwo, czyli bez wątpienia najbardziej dzikie, jedne z
 najpiękniejszych gór w Polsce.
 
 3
-00:00:14,000 --> 00:00:22,000
-Jestem zaraz koło Przełęczy Dukielskiej, czyli niegdyśniejszej bramy do
-Królestwa Węgier, dziś granicy polsko-słowackiej.
+00:00:36,864 --> 00:00:44,864
+Jestem zaraz koło Przełęczy Dukielskiej, czyli niegdysiejszej bramy do Królestwa
+Węgier, dziś granicy polsko-słowackiej.
 
 4
-00:00:22,000 --> 00:00:29,000
+00:00:44,864 --> 00:00:51,864
 Będziemy cały czas poruszać się w terenie pofałdowanym, choć na koniec z Beskidu
 Niskiego wyjdziemy.
 
 5
-00:00:29,000 --> 00:00:39,000
+00:00:51,864 --> 00:00:58,864
 Będziemy poruszać się po dwóch administracyjnych bytach, w województwie
-podkarpackim i małopolskim, chociaż po jednej krainie historycznej.
+podkarpackim i małopolskim.
 
 6
-00:00:39,000 --> 00:00:43,000
-Mianowicie Małopolsce albo też Galicji, jak kto woli.
+00:00:58,864 --> 00:01:05,864
+Chociaż po jednej krainie historycznej, mianowicie Małopolsce albo też Galicji,
+jak kto woli.
 
 7
-00:00:43,000 --> 00:00:45,000
-Zatem drodzy Państwo, do dzieła.
+00:01:05,864 --> 00:01:07,864
+Zatem, drodzy państwo, do dzieła.
 
 8
-00:00:46,000 --> 00:00:56,000
-Jeszcze kilka lat temu wędrowiec przemierzający tutejsze ostępy w kwestii
-pożywienia mógł liczyć przeważnie na siebie.
+00:01:11,208 --> 00:01:14,008
+Jeszcze kilka lat temu wędrowiec przemierzający
 
 9
-00:00:56,000 --> 00:01:00,000
-To znaczy na to, co zabrał ze sobą do plecaka.
+00:01:14,088 --> 00:01:18,008
+tutejsze ostępy w kwestii pożywienia mógł liczyć
 
 10
-00:01:00,000 --> 00:01:09,000
-Szczęśliwie ta sytuacja już odeszła w przeszłość, no bo jestem w małej wiosce,
-to Daliowa i mamy gospodarstwo agroturystyczne Dzikie Wino.
+00:01:18,248 --> 00:01:19,528
+przeważnie na siebie.
 
 11
-00:01:10,000 --> 00:01:15,000
-Gospodarstwo trzeba to przyznać założone przez ludzi przybyłych tu z Warszawy.
+00:01:19,608 --> 00:01:23,088
+To znaczy na to co zabrał ze sobą do plecaka.
 
 12
-00:01:15,000 --> 00:01:19,000
-Przez panią Annę Kochman i pana Marka Kubina.
+00:01:23,408 --> 00:01:27,408
+Szczęśliwie ta sytuacja już odeszła w przeszłość, no bo
 
 13
-00:01:19,000 --> 00:01:23,000
-Ale w kuchni gotują lokalne siły.
+00:01:27,488 --> 00:01:30,928
+jestem w małej wiosce, to Daliowa i mamy gospodarstwo
 
 14
-00:01:23,000 --> 00:01:26,000
-Panie dowodzone przez dwie bogusie.
+00:01:31,168 --> 00:01:32,888
+agroturystyczne Dzikie Wino.
 
 15
-00:01:26,000 --> 00:01:30,000
-No i gotują potrawy miejscowe, potrawy tradycyjne.
+00:01:33,168 --> 00:01:37,408
+Gospodarstwo trzeba to przyznać założone przez ludzi przybyłych
 
 16
-00:01:30,000 --> 00:01:41,000
-Takie dania, jakie w restauracjach, nawet lokalnych, bardzo często niestety
-zostały wyparte przez schabowego barż i pierogi ruskie.
+00:01:37,408 --> 00:01:42,048
+tu z Warszawy, przez panią Annę Kochman i pana Marka Kubina,
 
 17
-00:01:41,000 --> 00:01:44,000
-No więc przyjrzyjmy się tym danią.
+00:01:42,128 --> 00:01:46,048
+ale w kuchni gotują lokalne siły.
 
 18
-00:01:44,000 --> 00:01:45,000
-Miejscowe gołąbki.
+00:01:46,288 --> 00:01:51,288
+Panie dowodzone przez dwie bogusie, no i gotują potrawy
 
 19
-00:01:45,000 --> 00:01:52,000
-Gołąbki, które tutaj zawsze podawane są z gęstym sosem na bazie suszonych
-grzybów.
+00:01:51,368 --> 00:01:53,408
+miejscowe, potrawy tradycyjne.
 
 20
-00:01:52,000 --> 00:01:57,000
-W środku ryż i grzyby, ale jest też wersja ziemniaczana.
+00:01:53,648 --> 00:01:57,768
+Takie dania, jakie w restauracjach, nawet lokalnych,
 
 21
-00:01:57,000 --> 00:02:01,000
-Na liście kapusty kładzie się surowe ziemniaki.
+00:01:57,848 --> 00:02:02,368
+bardzo często niestety zostały wyparte przez schabowego
 
 22
-00:02:01,000 --> 00:02:06,000
-Surowe, starte ziemniaki. Takie, które są bazą do klusek kudłatych.
+00:02:02,528 --> 00:02:04,288
+barszcz i pierogi ruskie.
 
 23
-00:02:06,000 --> 00:02:12,000
-Klusek zwanych też w innych częściach Polski klustkami szarymi albo też
-żelaznymi.
+00:02:04,648 --> 00:02:06,768
+No więc przyjrzyjmy się tym daniom.
 
 24
-00:02:12,000 --> 00:02:15,000
-A w pobliskiej Słowacji to po prostu strapaczka.
+00:02:07,248 --> 00:02:08,408
+Miejscowe gołąbki.
 
 25
-00:02:15,000 --> 00:02:18,000
-Do tego nieco skwarek, trochę cebuli.
+00:02:08,568 --> 00:02:13,008
+Gołąbki, które tutaj zawsze podawane są z gęstym sosem
 
 26
-00:02:18,000 --> 00:02:24,000
-Coś co jest pierogiem z ciasta drożdżowego.
+00:02:13,088 --> 00:02:15,328
+na bazie suszonych grzybów.
 
 27
-00:02:24,000 --> 00:02:31,000
-Do tego w środku nadzienie soczewicy z koziego sera i z odrobiny gotowanych
-ziemniaków.
+00:02:15,608 --> 00:02:20,408
+W środku ryż i grzyby, ale jest też wersja ziemniaczana.
 
 28
-00:02:31,000 --> 00:02:34,000
-To są czewiczki.
+00:02:20,608 --> 00:02:24,248
+Na liście kapusty kładzie się surowe ziemniaki.
 
 29
-00:02:34,000 --> 00:02:39,000
-No i clue programu, bo pieczyste, koźlina drodzy państwo.
+00:02:24,448 --> 00:02:25,968
+Surowe, starte ziemniaki.
 
 30
-00:02:39,000 --> 00:02:44,000
-Tak jest. Duszone z warzywami i winem mięso z kozy.
+00:02:26,008 --> 00:02:29,608
+Takie, które są bazą do klusek kudłatych.
 
 31
-00:02:44,000 --> 00:02:48,000
-I gdzie to jest? No w środku nie ma niczego.
+00:02:29,848 --> 00:02:32,968
+Klusek zwanych też w innych częściach Polski kluskami
 
 32
-00:02:48,000 --> 00:02:53,000
-Zagubiona w ostojach Beskidunijskiego wioska.
+00:02:33,008 --> 00:02:35,208
+szarymi albo też żelaznymi.
 
 33
-00:02:55,000 --> 00:03:00,000
-Koźlina w Polsce. To się już naprawdę dzieje.
+00:02:35,488 --> 00:02:38,768
+A w pobliskiej Słowacji to po prostu strapaczka.
 
 34
-00:03:10,000 --> 00:03:15,000
-Mówiłem o dzikości Beskidunijskiego, ale przecież chyba nie oczekujecie ode
-mnie,
+00:02:38,808 --> 00:02:41,368
+Do tego nieco skwarek, trochę cebuli.
 
 35
-00:03:15,000 --> 00:03:22,000
-że będę wam pokazywał niedźwiedzie, gawry, borsucze jamy i stanowiska lęgowe
-Lelka Kozodoja.
+00:02:42,248 --> 00:02:47,168
+Coś, co jest pierogiem z ciasta drożdżowego.
 
 36
-00:03:22,000 --> 00:03:27,000
-Ja muszę do ludzi, bo ludzie to kuchnia i kultura, a więc ludzie.
+00:02:47,528 --> 00:02:52,928
+W środku nadzienie z soczewicy, z koziego sera i z odrobiny
 
 37
-00:03:27,000 --> 00:03:37,000
-I to ludzie napojeni niezwykle zdrowo. Jestem bowiem w Wysowej, a w zasadzie w
-Wysowej Zdroju w wiosce Uzdrowisku.
+00:02:53,168 --> 00:02:54,448
+gotowanych ziemniaków.
 
 38
-00:03:37,000 --> 00:03:40,000
-Jednej z pereł Beskidunijskiego.
+00:02:54,488 --> 00:02:56,328
+To są czewiczki.
 
 39
-00:03:40,000 --> 00:03:55,000
-Oryginalny budynek pijalni wzniesiony po I wojnie światowej został postawiony
-wedle projektu bardzo znanego młodopolskiego
+00:02:56,888 --> 00:03:01,608
+No i clue programu, bo pieczyste, koźlina drodzy państwo.
 
 40
-00:03:55,000 --> 00:04:05,000
-jeszcze architekta Karola Stryjeńskiego. Niestety spłonął w roku 1963. Na
-szczęście bardzo wiernie go odbudowano.
+00:03:01,808 --> 00:03:02,408
+Tak jest.
 
 41
-00:04:05,000 --> 00:04:16,000
+00:03:02,728 --> 00:03:06,848
+Duszone z warzywami i winem mięso z kozy.
+
+42
+00:03:07,168 --> 00:03:08,048
+I gdzie to jest?
+
+43
+00:03:08,408 --> 00:03:10,408
+No w środku niemar niczego.
+
+44
+00:03:10,688 --> 00:03:15,368
+Zagubiona w ostojach Beskidu niskiego wioska.
+
+45
+00:03:19,152 --> 00:03:21,152
+Koźlina w Polsce
+
+46
+00:03:21,152 --> 00:03:23,152
+To się już naprawdę dzieje
+
+47
+00:03:33,562 --> 00:03:37,082
+Mówiłem o dzikości Beskidu Niskiego, ale przecież chyba nie
+
+48
+00:03:37,162 --> 00:03:40,442
+oczekujecie ode mnie, że będę wam pokazywał niedźwiedzie,
+
+49
+00:03:40,522 --> 00:03:45,642
+gawry, borsucze jamy i stanowiska lęgowe Leelka Kozodoja.
+
+50
+00:03:45,962 --> 00:03:50,362
+Ja muszę do ludzi, bo ludzie to kuchnia i kultura, a więc ludzie
+
+51
+00:03:50,642 --> 00:03:53,882
+i to ludzie napojeni niezwykle zdrowo.
+
+52
+00:03:54,082 --> 00:03:57,762
+Jestem bowiem w Wysowej, a w zasadzie Wysowej Zdroju,
+
+53
+00:03:57,762 --> 00:04:02,842
+w wiosce u Zdrowisku, jednej z pereł Beskidu Niskiego.
+
+54
+00:04:09,594 --> 00:04:21,594
+Oryginalny budynek pijalni wzniesiony po I wojnie światowej został postawiony
+wedle projektu bardzo znanego młodopolskiego jeszcze architekta Karola
+Stryjeńskiego.
+
+55
+00:04:21,594 --> 00:04:28,594
+Niestety spłonął w roku 1963, na szczęście bardzo wiernie go odbudowano.
+
+56
+00:04:28,594 --> 00:04:38,594
 Architektura rzecz ważna, ale tutaj najważniejsze są te majestatyczne krany,
 bowiem to z nich bije tutejsza cudowna woda.
 
-42
-00:04:16,000 --> 00:04:27,000
+57
+00:04:38,594 --> 00:04:49,594
 Omówmy pokrótce jej rodzaje. Mianowicie Henryk działa fantastycznie w przypadku
 cukrzycy. Józef II bardzo podobne zastosowanie.
 
-43
-00:04:27,000 --> 00:04:40,000
+58
+00:04:49,594 --> 00:05:02,594
 Franciszek działa na problemy gastryczne, a również kapitalnie zwalcza aldehyd
 octowy, czyli substancję, która wytwarza się w organizmie, gdy nadużyjemy
 alkoholu.
 
-44
-00:04:40,000 --> 00:04:51,000
-Mówiąc krótko, zwalcza to kaca. Anna górne drogi oddechowe i wreszcie Józef I
-nie zastąpiony w leczeniu podagry.
-
-45
-00:04:51,000 --> 00:05:08,000
-Nawet nie wiem dokładnie na jakie schorzenie akurat cierpię, więc na wszelki
-wypadek spróbuję Franciszka. Gdy kupujecie wody miejscowe w sklepie, nie w
-Wysowej, nie ma w nich takiej zawartości żelaza.
-
-46
-00:05:08,000 --> 00:05:16,000
-Żelazo się wytrąca, powoduje osad. Zatem do handlu to idzie po ujęciu temu
-żelaza. Natomiast tutaj...
-
-47
-00:05:19,000 --> 00:05:28,000
-Wspaniale żelaziste w ustach. Widzicie Państwo jak się zmieniam? O i skaczę dużo
-wyżej. Jestem po prostu momentalnie zdrowszy.
-
-48
-00:05:28,000 --> 00:05:51,000
-Wody nie tylko leczą, ale również wzmagają apetyt. Na szczęście remedium na to
-mają w starym domu zdrojowym. Dzisiaj on już de facto zdrojowych funkcji nie
-pełni. To po prostu kawiarnia i restauracja.
-
-49
-00:05:52,000 --> 00:05:59,000
-Jeszcze raz chcę podkreślić wagę tego znaku w Waszych wędrówkach po Polsce.
-Patrzcie uważnie kto się tym pieczętuje.
-
-50
-00:06:01,000 --> 00:06:12,000
-Bez kidnisk najwyraźniej przyciąga z całej Polski ludzi świadomych kulinarnie.
-Tym razem spotkaliśmy przybyszów z Krakowa. To Barbara, Katarzyna, Andrzej i
-Franek Miernikowie.
-
-51
-00:06:12,000 --> 00:06:21,000
-Kto kiedyś zamieszkiwał te ziemie? To jest najważniejsze z kulinarnego punktu
-widzenia pytanie. Ano Łemkowie, Polacy i Żydzi.
-
-52
-00:06:21,000 --> 00:06:38,000
-Akurat w tym miejscu Państwo Miernikowie poza tutejszymi klasykami, które nie są
-przypisane do żadnej z tych trzech kultur takimi jak rydzę. Tutaj mamy rydzę pod
-postacią kiszoną oraz rydzę pod postacią marynowaną z miodem.
-
-53
-00:06:38,000 --> 00:06:57,000
-Nawiązują bardzo wyraźnie do niegdyśszej żydowskiej spuścizny, no bo mamy
-arcyaszkenazyjskie klasyki. To są mianowicie gęsie pipki, czyli gęsie żołądki
-duszone razem z wolnymi korzeniami winem i cebulą.
-
-54
-00:06:57,000 --> 00:07:16,000
-Do nich hałka. Tutaj kreplach, czyli pierożki, które są nadziewane wcześniej
-uduszonymi pipkami właśnie razem z włoską kapustą. Oczywiście ten farsz jest
-zmielony. A to gołąbki, ale gołąbki pod postacią żydowskich choliszek.
-
-55
-00:07:16,000 --> 00:07:31,000
-Choliszki, tak się te żydowskie gołąbki nazywają. W środku farsz, który w
-naszych gołąbkach nie występuje zbyt często. Jest tutaj pęcak oraz czarna
-soczewica. Wszystko w sosie pomidorowym.
-
-56
-00:07:31,000 --> 00:07:51,000
-No i drodzy Państwo pascha. Pascha, czyli rodzaj sernika, który idealnie łączy
-spuściznę żydowską ze spuścizną grecko katolicką i polską. Bo przecież pascha we
-wszystkich domach z tych wszystkich trzech kultur niegdyś się pojawiała.
-
-57
-00:07:51,000 --> 00:08:07,000
-Jeśli o mnie chodzi, to jestem najbardziej ciekaw pierożków. Nie dlatego, że
-jestem straszny pies na mączne rzeczy, ale że takich gęsiną kreplach
-nadziewanych i kapustą nie jadłem od wieków całych.
-
-58
-00:08:07,000 --> 00:08:31,000
-Cudo, ale chciałbym, byście Państwo na jeszcze jedną rzecz zwrócili uwagę. Na
-coś, o czym mówię, o co apeluję. Mianowicie, żeby mali wytwórcy sprzedawali
-swoje własne przetwory.
-
 59
-00:08:31,000 --> 00:08:47,000
-Tutaj tak się dzieje. Spójrzcie na tę komódkę i mamy tutaj listę. Różne rodzaje
-rydzów, ale też na przykład pesto z czosnku niedźwiedziego, konfitury owocowe,
-adzika, syrop z czarnego bzu.
+00:05:02,594 --> 00:05:13,594
+Mówiąc krótko, zwalcza to kaca. Anna górne drogi oddechowe i wreszcie Józef I,
+niezastąpiony w leczeniu podagry.
 
 60
-00:08:47,000 --> 00:08:59,000
-Wszystko, co tutaj jest powstało z rzeczy, które ta ziemia zrodziła. A teraz
-wracam do stołu i zajmuję się dogłębnie tym, co na talerzu.
+00:05:13,594 --> 00:05:22,594
+Nawet nie wiem dokładnie na jakie schorzenie akurat cierpię, więc na wszelki
+wypadek spróbuję Franciszka.
 
 61
-00:09:01,000 --> 00:09:21,000
-To również jest jeden z fragmentów centrum Wysowej, no bo mamy pijalnię, stary
-dom zdrojowy i zdrojowy park. W tym miejscu należy oddać hołd kuchni niegdyś
-najliczniejszej grupy etnicznej w Beskidzie Niskim, czyli łemką.
+00:05:22,594 --> 00:05:30,594
+Gdy kupujecie wody miejscowe w sklepie, nie w Wysowej, nie ma w nich takiej
+zawartości żelaza.
 
 62
-00:09:21,000 --> 00:09:49,000
-Potrawa o nazwie kisełycja, czyli miejscowy rodzaj kapuśniaku. Rzecz bardzo
-skromna i bardzo prosta, ale przecież taka ta kuchnia kiedyś była. Zresztą
-niezależnie od tego, czy gotowali tutaj łemkowie, Polacy, czy też Żydzi,
-korzystali głównie z lokalnych produktów i to wszystko było czymś, co Włosi
-określają mianem la cucina povera, czyli kuchnia biedna.
+00:05:30,594 --> 00:05:38,594
+Żelazo się wytrąca, powoduje osad, zatem do handlu to idzie po ujęciu temu
+żelaza, natomiast tutaj...
 
 63
-00:09:49,000 --> 00:10:08,000
-Podstawowy składnik. Kiedyś to był wywar na wołowych kościach, ale jeszcze
-lepiej jeśli będzie to wywar na gęsinie. Niekoniecznie mięso. Wystarczy taki
-gęsi kadłubek rosołowy i z jarzynami gotujemy coś takiego. Esencjonalny wywar.
+00:05:38,594 --> 00:05:43,594
+Wspaniale żelaziste w ustach. Widzicie Państwo jak się zmieniam?
 
 64
-00:10:08,000 --> 00:10:27,000
-Drugi rodzaj wywaru jest tutaj. To są mianowicie namoczone grzyby. Prawdziwki
-albo podgrzybki suszone. Moczone i następnie dolewamy tego nie za dużo, gdyż to
-nie ma mieć drodzy Państwo smaku zupy grzybowej.
+00:05:43,594 --> 00:05:48,594
+O, i skaczę dużo wyżej, jestem po prostu momentalnie zdrowszy.
 
 65
-00:10:27,000 --> 00:10:39,000
-I co teraz? I teraz to musimy doprowadzić do stanu wrzenia, a tutaj na sitko
-musimy wyjąć sobie trochę suszonych grzybów i je lekko przesiekać.
+00:05:57,178 --> 00:06:01,178
+Wody nie tylko leczą, ale również wzmagają apetyt.
 
 66
-00:10:39,000 --> 00:10:59,000
-Istotnym, a z punktu widzenia nazwy najistotniejszym, trzecim rodzajem płynu,
-który wchodzi w skład tej zupy jest mianowicie kwas spod kapusty. Kapusty
-kiszonej. Kwas kisełycja. Nie kapustka. No nic się nie może zmarnować, więc
-kapustę kiszoną odciskano, duszono, a tymże kwas kisełycja,
+00:06:01,178 --> 00:06:06,178
+Na szczęście remedium na to mają w starym domu zdrojowym.
 
 67
-00:10:59,000 --> 00:11:13,000
-nie kapustka. No nic się nie może zmarnować, więc kapustę kiszoną odciskano,
-duszono, a tenże kwas, tenże sok wykorzystywano do zaprawiania właśnie zupy.
+00:06:06,178 --> 00:06:10,178
+Dzisiaj on już de facto zdrojowych funkcji nie pełni.
 
 68
-00:11:13,000 --> 00:11:30,000
-Ale teraz w tym płynie muszę coś ugotować, a jak mamy dużo kwasu to rzeczy nie
-miękną. Zatem kwasu jeszcze nie wlewamy, a do tego wywaru przypominam gęsina i
-grzyby suszone. Dodaję trochę kaszy.
+00:06:10,178 --> 00:06:14,178
+To po prostu kawiarnia i restauracja.
 
 69
-00:11:30,000 --> 00:11:50,000
-Kasza gryczana, ale gryczana niepalona. Kasza gryczana palona tutaj by to
-wszystko smakowo zdominowała. Byłaby zbyt wulgarna do tej subtelnej, aż prostej
-zupy, więc kilka łyżek kaszy gryczanej niepalonej i czekamy,
+00:06:14,178 --> 00:06:17,178
+Jeszcze raz chcę podkreślić wagę tego znaku w waszych
 
 70
-00:11:50,000 --> 00:12:02,000
-aż to się zagotuje, kasza zmięknie i dodajemy jeszcze te lekko przesiekane,
-suszone grzyby. One są miękkie, ale jeszcze trochę smaku zawsze oddacą.
+00:06:17,178 --> 00:06:19,178
+wędrówkach po Polsce.
 
 71
-00:12:02,000 --> 00:12:26,000
-W przód kontrola kaszy stanu jej twardości, a raczej miękkości. Miękka, wyborna.
-Zatem kontrola kwasu. Jak wiadomo kwas może być bardzo kwaśny, mniej kwaśny,
-albo prawie całkiem niekwaśny, choć również kwasem go zwą.
+00:06:19,178 --> 00:06:22,178
+Patrzcie uważnie kto się tym pieczętuje.
 
 72
-00:12:27,000 --> 00:12:46,000
-Więc muszę wiedzieć jaki ten jest, jest bardzo kwaśny. To nawet zamiast wody
-Franciszek można by spożywać rano, więc wlewamy go mniej więcej dotąd. On nie
-może dominować.
+00:06:23,178 --> 00:06:26,178
+Beskid Niski najwyraźniej przyciąga z całej Polski ludzi
 
 73
-00:12:46,000 --> 00:12:58,000
-Te wszystkie rzeczy muszą ze sobą współgrać. Taka właśnie jest kuchnia. Musimy
-wyczuwać grzyby, musimy wyczuwać gęsinę, a ten kwas ma to wszystko jedynie
-połączyć.
+00:06:26,178 --> 00:06:28,178
+świadomych kulinarnie.
 
 74
-00:12:58,000 --> 00:13:10,000
-No dobra, to się zagotowuje. W międzyczasie nieco miejscowego zielska, czyli
-koperku. No i czekamy na wrzenie.
+00:06:28,178 --> 00:06:30,178
+Tym razem spotkaliśmy przybyszów z Krakowa.
 
 75
-00:13:10,000 --> 00:13:27,000
-Teraz składnik niekonieczny, ale wysoce pożądany. Coś co nam dzisiaj wydaje się
-absolutnym delikatesem, ale kiedyś to było jedno z podstawowych pożywień ludzi
-biednych.
+00:06:30,178 --> 00:06:34,178
+To Barbara, Katarzyna, Andrzej i Franek Miernikowie.
 
 76
-00:13:27,000 --> 00:13:44,000
-Kiszone rydze mianowicie. No jakby urodzaj na rydze to się szło do lasu,
-zbierało ich ile w lezie, a potem by móc je przechować kisiło, więc często na
-przednówku, jak niemal nic innego już do jedzenia nie było, ludzie tutaj kiszone
-rydze jedli.
+00:06:34,178 --> 00:06:36,178
+Kto kiedyś zamieszkiwał te ziemie?
 
 77
-00:13:44,000 --> 00:14:03,000
-Teraz to nam się wydaje rzeczą niezwykle drogocenną, ale kiedyś tak jak ostrygi,
-no po prostu było stąd i się to jadło. Te rydze kroimy w paseczki i na samym
-końcu dodajemy do zupy, by tylko złapały nieco temperatury.
+00:06:36,178 --> 00:06:40,178
+To jest najważniejsze z kulinarnego punktu widzenia pytanie.
 
 78
-00:14:04,000 --> 00:14:22,000
-Zupa gotowa, pozostało mi tylko nalać ją do talerza, umieścić na wierzchu
-kleksik kwaśnej śmietany. Spójrzcie Państwo, ma ładny kolor, lekko pomarańczowy.
-To rydze nadały jej nie tylko barwy, ale i smaku.
+00:06:40,178 --> 00:06:43,178
+Ano Łemkowie, Polacy i Żydzi.
 
 79
-00:14:22,000 --> 00:14:44,000
-No suszone grzyby również swoje zrobiły. Kleksik śmietany jest obowiązkowy. No i
-jeszcze mała gałązeczka koperku. Tutaj wokół mamy kilku kibiców. Jeśli ktoś chce
-spróbować, to serdecznie zapraszam. Mamy cztery łyżki. To jest jadalne. Bardzo
-proszę.
+00:06:43,178 --> 00:06:47,178
+Akurat w tym miejscu państwo Miernikowie poza
 
 80
-00:14:44,000 --> 00:14:50,000
-Raz, dwa, trzy. Z jednego talerza cztery łyżki. Myślę, że nie.
+00:06:48,178 --> 00:06:52,178
+tutejszymi klasykami, które nie są przypisane do żadnej z tych
 
 81
-00:14:55,000 --> 00:15:10,000
-Kapuśniak tylko bez kapusty na bazie soku, wywar z grzybów, kiszone rydze,
-koperek, smak gęsi, ale można to zrobić na smaku z kości wołowych, a można też
-zrobić na smaku jarzynowym, jak ktoś w ogóle mięsa nie je.
+00:06:52,178 --> 00:06:55,178
+trzech kultur, takimi jak rydzę.
 
 82
-00:15:10,000 --> 00:15:15,000
-To się nazywa kisełycja łemkowski kapuśniak. Proszę bardzo, jeszcze jedna łyżka
-jest.
+00:06:55,178 --> 00:07:00,178
+Tutaj mamy rydzę pod postacią kiszoną oraz rydzę pod postacią
 
 83
-00:15:16,000 --> 00:15:24,000
-No jak? Dobre, dobre. Dobra, nie? Kwaskowate, bo to rodzaj kapuśniaku. Super
-pyszne. Dobce łyżka.
+00:07:00,178 --> 00:07:02,178
+marynowaną z miodem.
 
 84
-00:15:24,000 --> 00:15:39,000
-Za mną w Kotlinie jasło. Nie mogliśmy w trakcie naszej wędrówki tego grodu
-pominąć, a to z powodu dwóch arcyważnych płynów. Pierwszy spożywczy. Wino
-mianowicie.
+00:07:02,178 --> 00:07:06,178
+Nawiązują bardzo wyraźnie do niegdyśniejszej żydowskiej
 
 85
-00:15:39,000 --> 00:15:51,000
-To na tej ziemi jeszcze w latach osiemdziesiątych zakładano pierwsze w Polsce
-winnice po długotrwałej przerwie. To tutaj nastąpiło odrodzenie polskiego
-winiarstwa.
+00:07:06,178 --> 00:07:07,178
+spuścizny.
 
 86
-00:15:51,000 --> 00:16:01,000
-Jak wino jest dla jasła ważne, świadczy to, co wokół mnie. To jest winnica, ale
-winnica miejska, czyli należąca do wszystkich jaślan.
+00:07:07,178 --> 00:07:11,178
+No bo mamy arcyaszkenazyjskie klasyki.
 
 87
-00:16:09,000 --> 00:16:26,000
-Drugi związany z jasłem płyn to ropa naftowa. Tak, to właśnie tutaj działała
-pierwsza w świecie rafineria ropy naftowej. Tutaj przy rynku miał swoją aptekę
-Ignacy Łukasiewicz, czyli człowiek, który wymyślił lampę naftową.
+00:07:11,178 --> 00:07:16,178
+To są mianowicie gęsie pipki, czyli gęsie żołądki duszone
 
 88
-00:16:26,000 --> 00:16:39,000
-Ten rynek dzisiaj wygląda wszakże zupełnie inaczej niż przed wojną. Mało kto o
-tym wie, ale jasło zostało w czasie II wojny światowej zniszczone w
-dziewięćdziesięciu siedmiu procentach.
+00:07:16,178 --> 00:07:20,178
+razem z wolnymi korzeniami, winem i cebulą.
 
 89
-00:16:39,000 --> 00:16:47,000
-To znacznie więcej niż Warszawa, Gdańsk czy Wrocław. To znacznie więcej niż
-jakiekolwiek inne polskie miasto.
+00:07:20,178 --> 00:07:22,178
+Do nich hałka.
 
 90
-00:16:48,000 --> 00:17:05,000
-W okolicach jasła działa już 16 winnic, nie licząc tej miejskiej. To jest liczba
-niebagatelna i tworzy specjalny enoturystyczny szlak. Rzecz jasna wszystkich
-państwu nie pokażę. Jedną jak najbardziej. Zatem przed wami sztukówka.
+00:07:22,178 --> 00:07:26,178
+Tutaj kreplach, czyli pierożki, które są nadziewane
 
 91
-00:17:09,000 --> 00:17:16,000
-Niezuła areal. Ile masz hektarów? Prawie 2 hektary. Hektar 60 hektarów. A jak
-planujesz mieć 60 jak rozumiem?
+00:07:26,178 --> 00:07:29,178
+wcześniej uduszonymi pipkami właśnie,
 
 92
-00:17:16,000 --> 00:17:27,000
-Może nie 60, ale 6. No i tego się trzymajmy. Leszek Szczęk nasz gospodarz. Co
-mamy w kieliszku, bo widzę tylko, że różowe. W kieliszku mamy wino dziewięcznie
-nazwie Maryna.
+00:07:29,178 --> 00:07:31,178
+razem z włoską kapustą.
 
 93
-00:17:27,000 --> 00:17:36,000
-Różowe, a dodatku półsłodkie, pół wytrawne przepraszam. Maryna na cześć
-narzeczonej Janusika. Nie miałem okazji jej poznać niestety, ale czemu nie?
+00:07:31,178 --> 00:07:33,178
+Oczywiście ten farsz jest zmielony.
 
 94
-00:17:36,000 --> 00:17:48,000
-Ale na cześć kogo? Na cześć instrumentu muzycznego. To jest instrument wielkości
-kontrabasą mniej więcej. Pochodzący z regionu Szomotulskiego. Ludowy jak
-rozumiem. No jak najbardziej ludowy.
+00:07:33,178 --> 00:07:37,178
+A to gołąbki, ale gołąbki pod postacią żydowskich
 
 95
-00:17:48,000 --> 00:18:00,000
-W nosie czuję wyraźnie tak poziomki, truskawki. Zresztą truskawki to są
-udomodzone poziomki dzikie. A fusta?
+00:07:37,178 --> 00:07:39,178
+choliszek, choliszki.
 
 96
-00:18:01,000 --> 00:18:15,000
-O Jezu. Kapitalne. Powiadasz pół wytrawne. Tymczasem tutaj jest potężna
-kwasowość. Rzeczywiście trochę ją łagodzi ten cukier ryżnkowy, ale to cudownie
-ściąga kubki smakowe, pobudza ślinianki.
+00:07:39,178 --> 00:07:42,178
+Tak się te żydowskie gołąbki nazywają.
 
 97
-00:18:15,000 --> 00:18:44,000
-Moim skromnym zdaniem kwasowość jest podstawą wina. W roziakach na przykład z
-Prowansji często tego kwasu nie ma. To są landryny. Schilcher takie wino ze
-styriz odmiany Blauer Wildbacher ma tak potężną kwasowość, że jeden papież,
-Włoch zresztą, kiedy mu podano, kiedy się k tego wina powiedział, jeśli to jest
-wino to poproszę o ocet, a jeśli to jest ocet to poproszę o wino. Ja uwielbiam.
-To na apelitów byłoby doskonałe, ale też do makaronów.
+00:07:42,178 --> 00:07:46,178
+W środku farsz, który w naszych gołąbkach
 
 98
-00:18:45,000 --> 00:18:49,000
-Coś jeszcze proszę. Już coś jeszcze weźmiemy.
+00:07:46,178 --> 00:07:48,178
+nie występuje zbyt często.
 
 99
-00:18:49,000 --> 00:19:03,000
-Widzę na etykietzie napisane Fidel, to znaczy to wino kubańskie. Jest to wino
-pochodzące z trochę innego regionu, mianowicie z Podkarpacia, natomiast nazwa
-jest zapożyczana od instrumentu również starego ludowego z regionu płockiego.
-Fidel Płocka.
+00:07:48,178 --> 00:07:52,178
+Jest tutaj pęcak oraz czarna soczewica.
 
 100
-00:19:03,000 --> 00:19:13,000
-Pierwszy raz słyszę o tym instrumencie. O winie z Podkarpacia już coś słyszałem.
-Nawet mam wrażenie, że piłem. Nie no, przecież to jest dolina Loary.
+00:07:52,178 --> 00:07:54,178
+Wszystko w sosie pomidorowym.
 
 101
-00:19:13,000 --> 00:19:24,000
-Sauvignon Blanc, zmięte liście czarnych porzeczek, trochę pokrzywy. Ono jest
-klasyfikowane wedle zawartości cukru jako półsłodkie.
+00:07:54,178 --> 00:07:56,178
+No i drodzy Państwo pascha.
 
 102
-00:19:24,000 --> 00:19:27,000
-Jako półsłodkie, jeszcze bardziej.
+00:07:56,178 --> 00:08:00,178
+Pascha, czyli rodzaj sernika, który idealnie
 
 103
-00:19:27,000 --> 00:19:34,000
-No jest trochę słodyczy, ale potężna również kwasowość. Do serów sobie to
-wyobrażam, nawet do pleśniowych serów.
+00:08:00,178 --> 00:08:03,178
+łączy spuściznę żydowską
 
 104
-00:19:34,000 --> 00:19:41,000
-Wspaniałe wino. Chłopie, rozwijaj się nadal. Rozwijam się, będę się rozwijał. No
-to ja trzymam za to klik.
+00:08:03,178 --> 00:08:06,178
+ze spuścizną grecko-katolicką i polską.
 
 105
-00:19:41,000 --> 00:19:43,000
-Zdrowie. Dobrzego.
+00:08:06,178 --> 00:08:10,178
+Bo przecież pascha we wszystkich domach
 
 106
-00:19:57,000 --> 00:20:05,000
-Achtung!
+00:08:10,178 --> 00:08:14,178
+z tych wszystkich trzech kultur niegdyś się pojawiała.
 
 107
-00:20:05,000 --> 00:20:07,000
-Achtung!
+00:08:14,178 --> 00:08:18,178
+Jeśli o mnie chodzi, to jestem najbardziej ciekaw
 
 108
-00:20:07,000 --> 00:20:09,000
-Zdrowieńce paru!
+00:08:18,178 --> 00:08:22,178
+pierożków. Nie dlatego, że jestem straszny pies
 
 109
-00:20:09,000 --> 00:20:11,000
-Achtung!
+00:08:22,178 --> 00:08:26,178
+na mączne rzeczy, ale że takich gęsiną kreplach
 
 110
-00:20:12,000 --> 00:20:27,000
-2 maja 1915 roku o godzinie 6 rano 1100 dział artylerii austro-węgierskiej i
-niemieckiej huraganowym i jakże celnym ogniem pokryło pozycje rosyjskie.
+00:08:26,178 --> 00:08:30,178
+nadziewanych i kapustą nie jadłem od wieków całych.
 
 111
-00:20:27,000 --> 00:20:35,000
-Rozpoczęła się bitwa gorlicka, jedna z największych i najważniejszych bitew I
-wojny światowej.
+00:08:35,834 --> 00:08:37,834
+Cudow!
 
 112
-00:20:35,000 --> 00:20:53,000
-W roku 1915 Rosjanie zajęli już niemal całą Galicję i po nieudanych próbach
-zbliżenia się pod Kraków i zajęcia tej twierdzy postanowili przedrzeć się przez
-karpackie przełęcze i wedrzeć się na teren Niziny Węgierskiej.
+00:08:37,872 --> 00:08:43,872
+Ale chciałbym, byście Państwo na jeszcze jedną rzecz zwrócili uwagę.
 
 113
-00:20:53,000 --> 00:21:07,000
-Jednakże śmiały plan, który głównie opracował głównodowodzący wojsk austro-
-węgierskich, Feldmarszałek Konrad von Hezendorf skumulował ogromne siły właśnie
-tutaj koło Gorlick.
+00:08:43,872 --> 00:08:47,872
+Na coś, o czym mówię, o co apeluję.
 
 114
-00:21:07,000 --> 00:21:24,000
-I rozpoczęła się gorlicka Odyseja. Co roku w rocznicę bitwy, której efektem było
-całkowite wyparcie Rosjan z Galicji i spowodowanie, że armia rosyjska utraciła
-już możliwości działań zaczepnych.
+00:08:47,872 --> 00:08:53,872
+Mianowicie, żeby mali wytwórcy sprzedawali swoje własne przetwory.
 
 115
-00:21:24,000 --> 00:21:42,000
-Otóż w rocznicę tej bitwy organizowane są inscenizacje, rekonstrukcje. Zjeżdżają
-się rekonstruktorzy z całej dawnej monarchii, ale wśród nich prym wiodą nasi z
-grupy rekonstrukcyjnej Gorlicy 1915.
+00:08:53,872 --> 00:08:58,872
+Tutaj tak się dzieje. Spójrzcie na tę komódkę i mamy tutaj listę.
 
 116
-00:21:42,000 --> 00:21:56,000
-Więc śledźcie Państwo kiedy ta rekonstrukcja będzie miała miejsce. Chodzi o
-weekend majowy jak najbliżej 2 maja. I przybywajcie tutaj, bo dzisiaj jest
-ogromna atrakcja turystyczna.
+00:08:58,872 --> 00:09:04,872
+Różne rodzaje rydzów, ale też na przykład pesto z czosnku niedźwiedziego,
 
 117
-00:21:56,000 --> 00:21:57,000
-Fire!
+00:09:04,872 --> 00:09:09,872
+konfitury owocowe, adzika, syrop z czarnego bzu.
 
 118
-00:22:01,000 --> 00:22:15,000
-Wioska z Borowice tuż obok Ciężkowic i Lokale. Restauracja o nazwie z piżarnia.
-Postanowiłem ją Państwu pokazać, gdyż doskonale ilustruje pewien ogólnopolski
-pozytywny proces.
+00:09:09,872 --> 00:09:16,872
+Wszystko, co tutaj jest, powstało z rzeczy, które ta ziemia zrodziła.
 
 119
-00:22:16,000 --> 00:22:32,000
-Miejscowość nie jest kuracyjna, zatem klientela głównie lokalna, a więc potrawy
-tradycyjne takie jak barszcz, pierogi czy też żurek albo uchodzące za tradycyjne
-jak schabowy czy też placki po węgiersku.
+00:09:16,872 --> 00:09:21,872
+A teraz wracam do stołu i zajmuję się dogłębnie tym, co na talerzu.
 
 120
-00:22:32,000 --> 00:22:46,000
-Ale przecież i w tych kategoriach może być źle albo dobrze. Tu jest dobrze i w
-dodatku widzimy w tym wszystkim dużo inwencji. No bo pierogi, które już jadłem
-kiedyś i nie naprawdę urzekły.
+00:09:28,730 --> 00:09:31,450
+To również jest jeden z fragmentów centrum Wysowej,
 
 121
-00:22:46,000 --> 00:23:02,000
-Zobaczcie Państwo. Farsz z fasoli. To się naprawdę rzadko zdarza. Tutaj rzecz
-coraz modniejsza. Mianowicie pierogi z kaczką ugotowane, posiekane mięso z
-kaczki. Barszcz z łóżkami, ale barszcz domowy. Domowy zakwas.
+00:09:31,690 --> 00:09:35,290
+no bo mamy pijalnię, stary dom zdrojowy i zdrojowy park.
 
 122
-00:23:02,000 --> 00:23:22,000
-Świetny, orzeźwiający. I również w karcie wino, tak? Z pobliskiej winmicy,
-lokalne wino. Drodzy Państwo, to jest właśnie przykład na to, że kultura
-kulinarna w tym kraju się podnosi, a jak podnosi się kultura kulinarna, to
-podnosi się kultura kulinarna.
+00:09:35,570 --> 00:09:40,490
+W tym miejscu należy oddać hołd kuchni niegdyś najliczniejszej
+
+123
+00:09:40,490 --> 00:09:44,010
+grupy etnicznej w Beskidzie Niskim, czyli łemką.
+
+124
+00:09:44,490 --> 00:09:50,570
+Potrawa o nazwie kisełycja, czyli miejscowy rodzaj kapuśniaku.
+
+125
+00:09:50,810 --> 00:09:54,530
+Rzecz bardzo skromna i bardzo prosta, ale przecież taka ta
+
+126
+00:09:54,530 --> 00:09:55,930
+kuchnia kiedyś była.
+
+127
+00:09:56,210 --> 00:10:00,130
+Zresztą niezależnie od tego, czy gotowali tutaj łemkowie,
+
+128
+00:10:00,290 --> 00:10:04,650
+Polacy, czy też Żydzi, korzystali głównie z lokalnych
+
+129
+00:10:04,650 --> 00:10:09,210
+produktów i to wszystko było czymś, co Włosi określają mianem
+
+130
+00:10:09,210 --> 00:10:12,410
+La Cucina Povera, czyli kuchnia biedna.
+
+131
+00:10:12,770 --> 00:10:13,970
+Podstawowy składnik.
+
+132
+00:10:14,290 --> 00:10:19,370
+Kiedyś to był wywar na wołowych kościach, ale jeszcze lepiej,
+
+133
+00:10:19,370 --> 00:10:22,330
+jeśli będzie to wywar na gęśinie.
+
+134
+00:10:22,690 --> 00:10:23,770
+Niekoniecznie mięso.
+
+135
+00:10:23,770 --> 00:10:29,170
+Wystarczy taki gęsi kadłubek rosołowy i z jarzynami gotujemy
+
+136
+00:10:29,170 --> 00:10:29,890
+coś takiego.
+
+137
+00:10:30,130 --> 00:10:31,290
+Esencjonalny wywar.
+
+138
+00:10:31,690 --> 00:10:34,850
+Drugi rodzaj wywaru jest tutaj.
+
+139
+00:10:35,570 --> 00:10:38,370
+To są mianowicie namoczone grzyby.
+
+140
+00:10:38,730 --> 00:10:41,610
+Prawdziwki albo podgrzybki suszone.
+
+141
+00:10:42,170 --> 00:10:46,970
+Moczone i następnie dolewamy tego nie za dużo, gdyż to nie
+
+142
+00:10:46,970 --> 00:10:50,010
+ma mieć drodzy Państwo smaku zupy grzybowej.
+
+143
+00:10:50,450 --> 00:10:51,130
+I co teraz?
+
+144
+00:10:51,170 --> 00:10:56,330
+I teraz to musimy doprowadzić do stanu wrzenia, a tutaj na
+
+145
+00:10:56,330 --> 00:11:00,730
+sitko musimy wyjąć sobie trochę suszonych grzybów i je
+
+146
+00:11:01,090 --> 00:11:02,490
+lekko przesiekać.
+
+147
+00:11:04,032 --> 00:11:08,032
+Napisy stworzone przez społeczność.
+
+148
+00:11:09,082 --> 00:11:13,122
+Istotnym, a z punktu widzenia nazwy najistotniejszym, trzecim
+
+149
+00:11:13,122 --> 00:11:17,882
+rodzajem płynu, który wchodzi w skład tej zupy jest mianowicie
+
+150
+00:11:18,002 --> 00:11:22,442
+kwas spod kapusty. Kapusty kiszone, kwas, kisełycja.
+
+151
+00:11:23,482 --> 00:11:24,562
+Nie kapusta.
+
+152
+00:11:25,042 --> 00:11:29,402
+No nic się nie może zmarnować, więc kapustę kiszoną odciskano,
+
+153
+00:11:29,402 --> 00:11:34,722
+duszono, a tenże kwas, tenże sok wykorzystywano do
+
+154
+00:11:34,722 --> 00:11:39,402
+zaprawiania właśnie zupy, ale teraz w tym płynie muszę coś
+
+155
+00:11:39,562 --> 00:11:43,722
+ugotować, a jak mamy dużo kwasu to rzeczy nie miękną.
+
+156
+00:11:43,962 --> 00:11:48,682
+Zatem kwasu jeszcze nie wlewamy, a do tego wywaru przypominam
+
+157
+00:11:48,962 --> 00:11:53,922
+gęsina i grzyby suszone. Dodaję trochę kaszy.
+
+158
+00:11:54,322 --> 00:11:57,522
+Kasza gryczana, ale gryczana niepalona.
+
+159
+00:11:57,962 --> 00:12:01,562
+Kasza gryczana palona, tutaj by to wszystko smakowo
+
+160
+00:12:01,722 --> 00:12:06,202
+zdominowała. Byłaby zbyt wulgarna do tej subtelnej,
+
+161
+00:12:06,202 --> 00:12:10,482
+aż prostej zupy, więc kilka łyżek kaszy gryczanej,
+
+162
+00:12:10,802 --> 00:12:17,122
+niepalonej i czekamy aż to się zagotuje, kasza zmięknie i dodajemy
+
+163
+00:12:17,322 --> 00:12:22,082
+jeszcze te lekko przesiekane, suszone grzyby. One są miękkie,
+
+164
+00:12:22,322 --> 00:12:24,442
+ale jeszcze trochę smaku zawsze oddacą.
+
+165
+00:12:29,466 --> 00:12:35,466
+W przód kontrola kaszy stanu jej twardości, a raczej miękkości.
+
+166
+00:12:39,424 --> 00:12:42,624
+Miękka, wyborna, zatem kontrola kwasu.
+
+167
+00:12:42,624 --> 00:12:46,924
+Jak wiadomo kwas może być bardzo kwaśny, mniej kwaśny albo
+
+168
+00:12:46,924 --> 00:12:50,024
+prawie całkiem niekwaśny, choć również kwasem go zwą.
+
+169
+00:12:50,324 --> 00:12:55,924
+Więc muszę wiedzieć jaki ten jest, jest bardzo kwaśny.
+
+170
+00:12:57,924 --> 00:13:03,524
+To nawet zamiast wody Franciszek można by spożywać rano,
+
+171
+00:13:04,424 --> 00:13:07,224
+więc wlewamy go mniej więcej dotąd.
+
+172
+00:13:08,024 --> 00:13:09,524
+On nie może dominować.
+
+173
+00:13:09,724 --> 00:13:13,024
+Te wszystkie rzeczy muszą ze sobą współgrać.
+
+174
+00:13:13,024 --> 00:13:14,224
+Taka właśnie jest kuchnia.
+
+175
+00:13:14,524 --> 00:13:19,824
+Musimy wyczuwać grzyby, musimy wyczuwać gęsinę, a ten kwas ma
+
+176
+00:13:19,824 --> 00:13:21,524
+to wszystko jedynie połączyć.
+
+177
+00:13:21,524 --> 00:13:23,524
+No dobra, to się zagotowuje.
+
+178
+00:13:23,524 --> 00:13:29,024
+W międzyczasie nieco miejscowego zielska, czyli koperku.
+
+179
+00:13:30,024 --> 00:13:32,924
+No i czekamy na wrzenie.
+
+180
+00:13:37,224 --> 00:13:37,466
+No i czekamy na wrzenie.
+
+181
+00:13:38,386 --> 00:13:41,746
+Teraz składnik niekonieczny, ale wysoce pożądany.
+
+182
+00:13:41,786 --> 00:13:45,706
+Coś, co nam dzisiaj wydaje się absolutnym delikatezem,
+
+183
+00:13:45,946 --> 00:13:49,706
+ale kiedyś to było jedno z podstawowych pożywień ludzi
+
+184
+00:13:49,706 --> 00:13:52,146
+biednych. Kiszone rydze mianowicie.
+
+185
+00:13:52,506 --> 00:13:57,546
+Jakby urodzaj na rydze to się szło do lasu, zbierało ich ile
+
+186
+00:13:57,546 --> 00:14:01,066
+w lezie, a potem by móc je przechować kisiło, więc często
+
+187
+00:14:01,066 --> 00:14:04,146
+na przednówku, jak niemal nic innego już do jedzenia nie
+
+188
+00:14:04,186 --> 00:14:07,226
+było. Ludzie tutaj kiszone rydze jedli.
+
+189
+00:14:07,746 --> 00:14:13,306
+Teraz to nam się wydaje rzeczą niezwykle drogocenną, ale
+
+190
+00:14:13,946 --> 00:14:18,106
+kiedyś tak jak ostrygi, no po prostu było stąd i się to jadło.
+
+191
+00:14:18,546 --> 00:14:23,746
+Te rydze kroimy w paseczki i na samym końcu dodajemy do zupy,
+
+192
+00:14:23,746 --> 00:14:25,826
+by tylko złapały nieco temperatury.
+
+193
+00:14:26,946 --> 00:14:33,626
+Zupa gotowa, pozostało mi tylko nalać ją do talerza, umieścić
+
+194
+00:14:33,626 --> 00:14:36,266
+na wierzchu kleksik kwaśnej śmietany.
+
+195
+00:14:36,826 --> 00:14:40,186
+Spójrzcie Państwo, ma ładny kolor, lekko pomarańczowy.
+
+196
+00:14:40,546 --> 00:14:44,826
+To rydze nadały jej nie tylko barwy, ale i smaku.
+
+197
+00:14:44,826 --> 00:14:47,066
+No suszone grzyby również swoje zrobiły.
+
+198
+00:14:47,666 --> 00:14:50,706
+Kleksik śmietany jest obowiązkowy.
+
+199
+00:14:51,986 --> 00:14:55,746
+No i jeszcze mała gałązeczka koperku.
+
+200
+00:14:56,386 --> 00:14:59,306
+Tutaj wokół mamy kilku kibiców.
+
+201
+00:15:00,266 --> 00:15:02,706
+Jeśli ktoś chce spróbować to serdecznie zapraszam.
+
+202
+00:15:02,906 --> 00:15:05,346
+Mamy cztery łyżki, to jest jadalne.
+
+203
+00:15:06,066 --> 00:15:08,346
+Bardzo proszę, bardzo proszę.
+
+204
+00:15:08,986 --> 00:15:11,266
+Raz, dwa, trzy, z jednego talerza.
+
+205
+00:15:11,386 --> 00:15:12,386
+Cztery łyżki.
+
+206
+00:15:12,866 --> 00:15:14,506
+Myślę, że nie, myślę, że nie.
+
+207
+00:15:18,448 --> 00:15:23,448
+Kapuśniak tylko bez kapusty na bazie soku, wywar z grzybów,
+
+208
+00:15:23,448 --> 00:15:28,448
+kiszone rydze, koperek, smak gęsi, ale można to zrobić
+
+209
+00:15:28,448 --> 00:15:31,448
+na smaku z kości wołowych, a można też zrobić na smaku
+
+210
+00:15:31,448 --> 00:15:33,448
+jarzynowym, jak ktoś w ogóle mięsa nie je.
+
+211
+00:15:33,448 --> 00:15:36,448
+To się nazywa kisełycja łemkowski kapuśniak.
+
+212
+00:15:36,448 --> 00:15:37,448
+Proszę bardzo.
+
+213
+00:15:37,448 --> 00:15:38,448
+Jeszcze jedna łyżka jest.
+
+214
+00:15:39,448 --> 00:15:40,448
+No jak?
+
+215
+00:15:40,448 --> 00:15:41,448
+Dobre, dobre.
+
+216
+00:15:41,448 --> 00:15:42,448
+Dobre, nie?
+
+217
+00:15:42,448 --> 00:15:43,448
+Kwaskowaty.
+
+218
+00:15:43,448 --> 00:15:45,448
+No, no kwaskowaty, bo to rodzaj kapuśniaku.
+
+219
+00:15:45,448 --> 00:15:46,448
+Super pyszny.
+
+220
+00:15:46,448 --> 00:15:47,448
+Proszę bardzo.
+
+221
+00:15:47,448 --> 00:15:48,448
+Kwaskowaty.
+
+222
+00:15:49,920 --> 00:15:58,920
+Za mną w kotlinie jasło. Nie mogliśmy w trakcie naszej wędrówki tego grodu
+pominąć, a to z powodu dwóch arcyważnych płynów.
+
+223
+00:15:58,920 --> 00:16:10,920
+Pierwszy spożywczy. Wino mianowicie. To na tej ziemi jeszcze w latach
+osiemdziesiątych zakładano pierwsze w Polsce winnice po długotrwałej przerwie.
+
+224
+00:16:10,920 --> 00:16:23,920
+To tutaj nastąpiło odrodzenie polskiego winiarstwa. Jak wino jest dla jasła
+ważne, świadczy to, co wokół mnie. To jest winnica, ale winnica miejska, czyli
+należąca do wszystkich jaślan.
+
+225
+00:16:31,418 --> 00:16:35,418
+Drugi związany z Jaspłem płyn to ropa naftowa.
+
+226
+00:16:35,418 --> 00:16:40,418
+Tak, to właśnie tutaj działała pierwsza w świecie rafineria ropy naftowej.
+
+227
+00:16:40,418 --> 00:16:45,418
+Tutaj przy rynku miał swoją aptekę Ignacy Łukasiewicz,
+
+228
+00:16:45,418 --> 00:16:49,418
+czyli człowiek, który wymyślił lampę naftową.
+
+229
+00:16:49,418 --> 00:16:53,418
+Ten rynek dzisiaj wygląda wszakże zupełnie inaczej niż przed wojną.
+
+230
+00:16:53,418 --> 00:16:58,418
+Mało kto o tym wie, ale Jaskło zostało w czasie II wojny światowej
+
+231
+00:16:58,418 --> 00:17:01,418
+zniszczone w dziewięćdziesięciu siedmiu procentach.
+
+232
+00:17:01,418 --> 00:17:05,418
+To znacznie więcej niż Warszawa, Gdańsk czy Wrocław.
+
+233
+00:17:05,418 --> 00:17:10,418
+To znacznie więcej niż jakiekolwiek inne polskie miasto.
+
+234
+00:17:10,418 --> 00:17:15,418
+W okolicach Jasła działa już 16 winnic, nie licząc tej miejskiej.
+
+235
+00:17:15,418 --> 00:17:20,418
+To jest liczba niebagatelna i tworzy specjalny enoturystyczny szlak.
+
+236
+00:17:20,418 --> 00:17:23,418
+Rzecz jasna wszystkich państwu nie pokażę.
+
+237
+00:17:23,418 --> 00:17:25,418
+Jedną jak najbardziej.
+
+238
+00:17:25,418 --> 00:17:27,418
+Zatem przed Wami sztukówka.
+
+239
+00:17:31,482 --> 00:17:37,482
+Niezła areal. Ile masz hektarów? Prawie dwa hektary, hektar sześćdziesiąt rów.
+
+240
+00:17:37,482 --> 00:17:41,482
+Ale planujesz mieć sześćdziesiąt, jak rozumiem. Może nie sześćdziesiąt, ale
+sześć.
+
+241
+00:17:41,482 --> 00:17:45,482
+No i tego się trzymajmy. Leszek Szczęk, nasz gospodarz.
+
+242
+00:17:45,482 --> 00:17:48,482
+Co mamy w kieliszku, bo widzę tylko, że różowe.
+
+243
+00:17:48,482 --> 00:17:52,482
+W kieliszku mamy wino dźwięcznie nazwie Maryna, różowe, a dodatku półsłodkie,
+
+244
+00:17:52,482 --> 00:17:56,482
+pół wytrawne, przepraszam. Maryna na cześć narzeczonej Janusika.
+
+245
+00:17:56,482 --> 00:17:59,482
+Nie miałem okazji jej poznać niestety, ale czemu nie?
+
+246
+00:17:59,482 --> 00:18:02,482
+Ale na cześć kogo tak naprawdę? Na cześć instrumentu muzycznego.
+
+247
+00:18:02,482 --> 00:18:06,482
+I czego? To jest instrument wielkości kontrabasą mniej więcej,
+
+248
+00:18:06,482 --> 00:18:10,482
+pochodzący z regionu Szomotulskiego. Ludowy jak rozumiem.
+
+249
+00:18:10,482 --> 00:18:14,482
+No jak najbardziej ludowy, tak. W nosie czuję wyraźnie tak
+
+250
+00:18:14,482 --> 00:18:17,482
+poziomki, truskawki, zresztą truskawki to są
+
+251
+00:18:17,482 --> 00:18:20,482
+udomowione poziomki dzikie. A fusta?
+
+252
+00:18:22,880 --> 00:18:23,640
+Ah...
+
+253
+00:18:23,920 --> 00:18:30,360
+O Jezu, kapitalne. Powiadasz półwytrawne. Tymczasem tutaj jest potężna
+kwasowość.
+
+254
+00:18:30,360 --> 00:18:36,360
+Rzeczywiście trochę ją łagodzi ten cukier ryżkowy, ale to cudownie ściąga kubki
+smakowe,
+
+255
+00:18:36,360 --> 00:18:41,960
+pobudza ślinianki. Moim skromnym zdaniem kwasowość jest podstawą wina.
+
+256
+00:18:41,960 --> 00:18:47,000
+No w roziakach, na przykład z Prowansji, często tego kwasu nie ma. To są
+landryny.
+
+257
+00:18:47,000 --> 00:18:53,000
+Schilcher, takie wino ze styriz odmiany Blauer Wildbacher, ma tak potężną
+kwasowość,
+
+258
+00:18:53,080 --> 00:18:57,080
+że jeden papież, włok zresztą, kiedy mu podano, kiedyś jak tego wina powiedział,
+
+259
+00:18:57,080 --> 00:19:02,080
+jeśli to jest wino, to poproszę o ocet, a jeśli to jest ocet, to poproszę o
+wino.
+
+260
+00:19:02,080 --> 00:19:08,080
+Ja uwielbiam. To na aperitif byłoby doskonałe, ale też do makaronów.
+
+261
+00:19:08,080 --> 00:19:12,080
+Coś jeszcze proszę. Coś jeszcze proszę. Już coś jeszcze weźmiemy.
+
+262
+00:19:12,080 --> 00:19:16,080
+Proszę bardzo. Widzę, na etykietzie jest napisane fidel, to znaczy do wino
+kubańskie.
+
+263
+00:19:16,080 --> 00:19:19,080
+Jest to wino pochodzące z troszkę innego regionu, mają nowicie z Podkarpacia,
+
+264
+00:19:19,160 --> 00:19:23,160
+natomiast nazwa jest zapożyczana od instrumentu również starego ludowego
+
+265
+00:19:23,160 --> 00:19:26,160
+z regionu Płockiego, fidel Płocka.
+
+266
+00:19:26,160 --> 00:19:30,160
+Pierwszy raz słyszę o tym instrumencie. O winie z Podkarpacia już coś słyszałem.
+
+267
+00:19:30,160 --> 00:19:34,160
+Nawet mam wrażenie, że piłem.
+
+268
+00:19:34,160 --> 00:19:39,160
+Nie no, przecież to jest dolina Loary. Sowią Bląg, zmięte liście czarnych
+porzeczek,
+
+269
+00:19:39,160 --> 00:19:46,160
+trochę pokrzywy. Ono jest klasyfikowane wedle zawartości cukru jako?
+
+270
+00:19:46,160 --> 00:19:48,160
+Jako półsłodkie, jeszcze bardziej.
+
+271
+00:19:48,160 --> 00:19:50,240
+Dzięki za uwagę.
+
+272
+00:19:50,528 --> 00:19:53,528
+No jest trochę słodyczy, ale potężna również kwasowość.
+
+273
+00:19:53,528 --> 00:19:57,528
+Do serów sobie to wyobrażam, nawet do pleśniowych serów.
+
+274
+00:19:57,528 --> 00:20:00,528
+Wspaniałe wino. Chłopie, rozwijaj się nadal.
+
+275
+00:20:00,528 --> 00:20:02,528
+Rozwijam się, będę się rozwijał.
+
+276
+00:20:02,528 --> 00:20:04,528
+No to ja trzymam za to kliki.
+
+277
+00:20:04,528 --> 00:20:05,528
+Zdrowie.
+
+278
+00:20:05,528 --> 00:20:06,528
+Dobrzego.
+
+279
+00:20:20,528 --> 00:20:22,528
+Dzięki za oglądanie.
+
+280
+00:20:28,058 --> 00:20:29,058
+ACHTĄK!
+
+281
+00:20:29,058 --> 00:20:30,058
+RZĄDZEM KEPARĄ!
+
+282
+00:20:30,058 --> 00:20:31,058
+ACHTĄK!
+
+283
+00:20:31,058 --> 00:20:32,058
+KOSAKEM!
+
+284
+00:20:32,058 --> 00:20:33,058
+BAJĄWY TAK!
+
+285
+00:20:34,896 --> 00:20:42,896
+2 maja 1915 roku o godzinie szóstej rano 1100 dział artylerii
+
+286
+00:20:42,896 --> 00:20:46,896
+Austro-Węgierskiej i Niemieckiej huraganowym i jakże
+
+287
+00:20:46,896 --> 00:20:51,896
+celnym ogniem pokryło pozycje rosyjskie. Rozpoczęła się
+
+288
+00:20:51,896 --> 00:20:55,896
+Bitwa Gorlicka, jedna z największych i najważniejszych
+
+289
+00:20:55,896 --> 00:21:01,896
+bitew I wojny światowej. W roku 1915 Rosjanie zajęli
+
+290
+00:21:01,896 --> 00:21:05,896
+już niemal całą Galicję i po nieudanych próbach zbliżenia
+
+291
+00:21:05,896 --> 00:21:09,896
+się pod Kraków i zajęcia tej twierdzy postanowili
+
+292
+00:21:09,896 --> 00:21:14,896
+przedrzeć się przez karpackie przełęcze i wedrzeć się na
+
+293
+00:21:14,896 --> 00:21:19,896
+teren Niziny Węgierskiej. Jednakże śmiały plan, który głównie
+
+294
+00:21:19,896 --> 00:21:23,896
+opracował główno dowodzący wojsk austro-węgierskich
+
+295
+00:21:23,896 --> 00:21:27,896
+Feldmarszałek Konrad von Hezendorf skumulował ogromne
+
+296
+00:21:27,896 --> 00:21:31,896
+obciły właśnie tutaj koło Gorlick i rozpoczęła się
+
+297
+00:21:31,896 --> 00:21:36,896
+Gorlicka Odyseja. Co roku w rocznicę bitwy, której efektem
+
+298
+00:21:36,896 --> 00:21:41,896
+było całkowite wyparcie Rosjan z Galicji i spowodowanie,
+
+299
+00:21:41,896 --> 00:21:45,896
+że armia rosyjska utraciła już możliwości działań
+
+300
+00:21:45,896 --> 00:21:50,896
+zaczepnych, otóż w rocznicę tej bitwy organizowane są
+
+301
+00:21:50,896 --> 00:21:55,896
+inscenizacje, rekonstrukcje. Zjeżdżają się rekonstruktorzy
+
+302
+00:21:55,896 --> 00:21:59,896
+z całej dawnej monarki, ale wśród nich prym wiodą nasi
+
+303
+00:21:59,896 --> 00:22:05,896
+z grupy rekonstrukcyjnej Gorlicy 1915, więc śledźcie
+
+304
+00:22:05,896 --> 00:22:08,896
+Państwo kiedy ta rekonstrukcja będzie miała miejsce.
+
+305
+00:22:08,896 --> 00:22:14,896
+Chodzi o weekend majowy jak najbliżej 2 maja i przybywajcie
+
+306
+00:22:14,896 --> 00:22:18,896
+tutaj, bo dzisiaj jest ogromna atrakcja turystyczna.
+
+307
+00:22:23,120 --> 00:22:29,120
+Wioska z Borowice tuż obok Ciężkowic i lokal, restauracja o nazwie
+
+308
+00:22:29,120 --> 00:22:33,120
+spiżarnia. Postanowiłem ją Państwu pokazać, gdyż doskonale
+
+309
+00:22:33,120 --> 00:22:37,120
+ilustruje pewien ogólnopolski, pozytywny proces.
+
+310
+00:22:40,192 --> 00:23:09,192
+Miejscowość nie jest kuracyjna, zatem klientela głównie lokalna, a więc potrawy
+tradycyjne, takie jak barszcz, pierogi, czy też żurek, albo uchodzące za
+tradycyjne, jak schabowy, czy też placki po węgiersku, ale przecież i w tych
+kategoriach może być źle, albo dobrze, tu jest dobrze i w dodatku widzimy w tym
+wszystkim dużo inwencji, no bo pierogi, które już jadłem kiedyś i mnie naprawdę
+urzekły.
+
+311
+00:23:09,192 --> 00:23:24,912
+Zobaczcie Państwo, farsz z fasoli. To się naprawdę rzadko zdarza. Tutaj rzecz
+coraz modniejsza, mianowicie pierogi z kaczką ugotowane, posiekane mięso z
+kaczki. Barszcz z łóżkami, ale barszcz domowy, domowy zakwas.
+
+312
+00:23:26,912 --> 00:23:34,912
+Świetny, orzeźwiający i również w karcie wino, tak, z pobliskiej, z pobliskiej
+winmicy, lokalne wino.
+
+313
+00:23:34,912 --> 00:23:40,912
+Drodzy Państwo, to jest właśnie przykład na to, że kultura kulinarna w tym kraju
+się podnosi,
+
+314
+00:23:40,912 --> 00:23:46,912
+a jak podnosi się kultura kulinarna, to podnosi się poziom kultury w ogóle.
+
+315
+00:23:46,912 --> 00:23:49,912
+Mam nadzieję, że również tej politycznej.
+
+316
+00:23:56,912 --> 00:23:59,912
+Napisy stworzone przez społeczność Amara.org
 
