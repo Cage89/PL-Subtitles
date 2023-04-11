@@ -1,0 +1,983 @@
+1
+00:00:20,000 --> 00:00:25,560
+PIOSENKA: Mała wieś ukryta w lesie,
+ptaków śpiew się w niebo niesie.
+
+2
+00:00:25,720 --> 00:00:29,400
+Bocianowo.
+Kogut pieje, gdaczą kury.
+
+3
+00:00:29,560 --> 00:00:33,840
+Jastrząb Kirkor krzyczy z chmury.
+Bocianowo.
+
+4
+00:00:34,000 --> 00:00:39,440
+Boćków klekot przypomina,
+że znów bajka się zaczyna.
+
+5
+00:00:39,600 --> 00:00:44,120
+Już bociany pod chmurami
+niosą worki z przygodami.
+
+6
+00:00:44,280 --> 00:00:48,440
+A ty, jeśli masz ochotę,
+z nimi leć bajkowym lotem.
+
+7
+00:00:48,600 --> 00:00:52,720
+Już są tutaj, a gdy fruną,
+każdy oczy w niebo wznosi.
+
+8
+00:00:52,880 --> 00:00:55,800
+Bo wiadomo, że to bocian
+
+9
+00:00:55,960 --> 00:01:01,160
+szczęście zawsze nam przynosi.
+
+10
+00:01:14,120 --> 00:01:16,080
+<font color="#8080FF">ŚMIEJĄ SIĘ</font>
+
+11
+00:01:16,240 --> 00:01:19,800
+<font color="#FFFF51">Mogę zobaczyć?</font>
+<font color="#8080FF">MATYLDA MRUCZY PRZECZĄCO</font>
+
+12
+00:01:19,960 --> 00:01:21,760
+<font color="#FFFF51">Ostatni raz.</font>
+
+13
+00:01:21,920 --> 00:01:24,160
+<font color="#16F158">Chcesz, by wystygło?</font>
+
+14
+00:01:30,080 --> 00:01:32,800
+<font color="#FFFF51">Musimy strzec go jak oka w głowie.</font>
+
+15
+00:01:32,960 --> 00:01:35,240
+<font color="#16F158">Jak będziemy razem pilnować,</font>
+
+16
+00:01:35,400 --> 00:01:38,360
+<font color="#16F158">to nim się wykluje,</font>
+<font color="#16F158">padniemy z głodu.</font>
+
+17
+00:01:38,520 --> 00:01:43,160
+<font color="#FFFF51">Przyniosę tłuste dżdżownice.</font>
+<font color="#FFFF51">W ostateczności złowię dużą rybę.</font>
+
+18
+00:01:43,320 --> 00:01:48,160
+<font color="#16F158">Dzióbeńku, przecież nigdy</font>
+<font color="#16F158">nie złowiłeś żadnej ryby.</font>
+
+19
+00:01:48,320 --> 00:01:51,360
+<font color="#FFFF51">To prawda, ale dzisiaj złowię.</font>
+
+20
+00:01:51,520 --> 00:01:53,320
+<font color="#8080FF">KLEKOTANIE</font>
+
+21
+00:02:07,040 --> 00:02:09,840
+<font color="#FFFF51">Jeszcze raz. I lecę.</font>
+
+22
+00:02:12,880 --> 00:02:15,080
+<font color="#8080FF">RECHOTANIE</font>
+
+23
+00:02:24,960 --> 00:02:26,760
+<font color="#8080FF">OKRZYK PRZERAŻENIA</font>
+
+24
+00:02:39,880 --> 00:02:43,600
+<font color="aqua">Okres wylęgu młodych! Kirk!</font>
+
+25
+00:02:43,760 --> 00:02:48,160
+<font color="aqua">Ministerialny zakaz polowań? Kirk!</font>
+
+26
+00:03:01,080 --> 00:03:03,800
+<font color="aqua">Stać! Nie ruszać się!</font>
+
+27
+00:03:05,600 --> 00:03:08,960
+<font color="aqua">Stać! Stać! Stać! Kirk!</font>
+
+28
+00:03:09,120 --> 00:03:11,560
+<font color="aqua">Nie pozwolę na samowolę!</font>
+
+29
+00:03:11,720 --> 00:03:14,360
+Czak, czak, czak!
+
+30
+00:03:18,240 --> 00:03:21,640
+Czak, czak, czak!
+
+31
+00:03:26,440 --> 00:03:29,000
+Czak, czak, czak!
+
+32
+00:03:30,160 --> 00:03:33,400
+Czak, czak, czak, czak, czarak!
+
+33
+00:03:33,560 --> 00:03:36,440
+<font color="aqua">Oddaj czapkę!</font>
+Nie oddam! Czak, czak!
+
+34
+00:03:37,560 --> 00:03:41,440
+Czak, czak!
+Zostałam rozpoznana! Czak, czarak!
+
+35
+00:03:44,800 --> 00:03:48,800
+<font color="aqua">Jak cię złapię, kirk,</font>
+<font color="aqua">to pożałujesz!</font>
+
+36
+00:03:48,960 --> 00:03:53,440
+Ratunku! Czak! Czak, czarak!
+
+37
+00:03:53,600 --> 00:03:55,400
+<font color="aqua">Łapać złodzieja!</font>
+
+38
+00:03:55,560 --> 00:03:58,880
+<font color="#FFFF51">Co się dzieje?</font>
+<font color="#FFFF51">Wypłoszycie wszystkie ryby.</font>
+
+39
+00:03:59,040 --> 00:04:00,840
+Czakarak!
+
+40
+00:04:01,000 --> 00:04:02,800
+Czak, czak!
+
+41
+00:04:04,360 --> 00:04:06,320
+<font color="#8080FF">PLUSK</font>
+
+42
+00:04:06,480 --> 00:04:08,280
+<font color="aqua">Zabrała mi czapkę!</font>
+
+43
+00:04:08,440 --> 00:04:10,520
+<font color="aqua">Ale, kirk, pożałuje tego</font>
+
+44
+00:04:10,680 --> 00:04:15,280
+<font color="aqua">albo nie nazywam się major Kirkor!</font>
+
+45
+00:04:18,240 --> 00:04:20,080
+<font color="aqua">Taki to ma szczęście.</font>
+
+46
+00:04:20,240 --> 00:04:23,280
+<font color="#FFFF51">Będę ojcem!</font>
+<font color="aqua">Kirk!</font>
+
+47
+00:04:23,440 --> 00:04:27,040
+<font color="#8080FF">ŚMIECH KIRKORA</font>
+
+48
+00:04:33,400 --> 00:04:35,200
+Czak, czak, czak!
+
+49
+00:04:35,360 --> 00:04:37,360
+Nikt nie zrozumie sroki.
+
+50
+00:04:37,520 --> 00:04:40,920
+Biedna sroka coś wypatrzy,
+coś podniesie,
+
+51
+00:04:41,080 --> 00:04:43,400
+a już wrzask, czak, czarak!
+
+52
+00:04:43,560 --> 00:04:46,960
+Sroka złodziejka,
+sroka kradnie. Czak!
+
+53
+00:04:47,120 --> 00:04:51,920
+Czak! Już taka jestem,
+że jak zobaczę coś ładnego,
+
+54
+00:04:52,080 --> 00:04:54,520
+to nie mogę się powstrzymać.
+
+55
+00:04:54,680 --> 00:04:57,480
+Czak, czak, czak, czak!
+
+56
+00:05:07,880 --> 00:05:11,760
+<font color="#16F158">Wiesz, dzióbeńku,</font>
+<font color="#16F158">musimy chronić je przed słońcem,</font>
+
+57
+00:05:11,920 --> 00:05:15,600
+<font color="#16F158">osłaniać przed deszczem</font>
+<font color="#16F158">i ogrzewać, kiedy zimno.</font>
+
+58
+00:05:15,760 --> 00:05:20,520
+<font color="#FFFF51">Damy radę. Ale przy dzieciach</font>
+<font color="#FFFF51">nie mów do mnie "dzióbeńku".</font>
+
+59
+00:05:20,680 --> 00:05:23,920
+<font color="#16F158">Będę o tym pamiętała, dzióbeń...</font>
+
+60
+00:05:24,080 --> 00:05:25,880
+<font color="#16F158">ku...</font>
+
+61
+00:05:27,320 --> 00:05:29,120
+<font color="#8080FF">KUKANIE</font>
+
+62
+00:05:29,280 --> 00:05:32,280
+<font color="#FFFF51">Raz, dwa, trzy,</font>
+
+63
+00:05:32,440 --> 00:05:36,160
+<font color="#FFFF51">cztery, pięć, sześć, siedem...</font>
+
+64
+00:05:36,320 --> 00:05:39,800
+<font color="#FFFF51">Musimy rozbudować gniazdo.</font>
+
+65
+00:05:39,960 --> 00:05:41,760
+<font color="#16F158">Nie ma mowy.</font>
+
+66
+00:05:41,920 --> 00:05:46,320
+<font color="#16F158">Bociany nie miewają tyle dzieci.</font>
+<font color="#FFFF51">Kukułka się nie myli.</font>
+
+67
+00:05:46,480 --> 00:05:49,320
+<font color="#16F158">Pilnuj jajek. Teraz twoja kolej.</font>
+
+68
+00:05:51,560 --> 00:05:53,360
+<font color="#8080FF">KLEKOTANIE</font>
+
+69
+00:06:11,840 --> 00:06:14,680
+<font color="#8080FF">GDAKANIE</font>
+
+70
+00:06:32,160 --> 00:06:33,960
+<font color="#8080FF">KOGUT PIEJE GŁOŚNO</font>
+
+71
+00:06:42,000 --> 00:06:43,800
+Kto to widział?!
+
+72
+00:06:43,960 --> 00:06:48,520
+Żaden ko-ko-kogut
+nigdy nie wysiadywał jajek! Nigdy!
+
+73
+00:06:52,360 --> 00:06:54,320
+<font color="#8080FF">KUKANIE</font>
+
+74
+00:07:10,000 --> 00:07:11,800
+Hu, hu...
+
+75
+00:07:11,960 --> 00:07:16,120
+Kto mnie budzi o tak wczesnej porze?
+
+76
+00:07:19,240 --> 00:07:22,000
+<font color="#8080FF">DYSZY</font>
+
+77
+00:07:22,160 --> 00:07:24,840
+Nigdzie porządnego gniazda!
+
+78
+00:07:25,000 --> 00:07:28,760
+A ja dłużej nie mogę czekać!
+
+79
+00:07:37,920 --> 00:07:40,000
+<font color="#8080FF">OKRZYK PRZESTRACHU</font>
+
+80
+00:07:42,160 --> 00:07:43,960
+<font color="#8080FF">STUKANIE</font>
+
+81
+00:07:44,120 --> 00:07:47,720
+Znam cię dobrze.
+Nie będę chował cudzych dzieci.
+
+82
+00:07:47,880 --> 00:07:50,280
+- Nie lubisz dzieci?!
+- Lubię.
+
+83
+00:07:50,440 --> 00:07:54,600
+Dlatego nie podrzucam ich
+do cudzego gniazda.
+
+84
+00:07:54,760 --> 00:07:57,040
+Co to za hałas?!
+
+85
+00:07:59,040 --> 00:08:00,920
+Co ty wyprawiasz?!
+
+86
+00:08:06,200 --> 00:08:08,000
+Pomocy!
+
+87
+00:08:14,280 --> 00:08:16,920
+<font color="#8080FF">KUKANIE, OKRZYK PRZESTRACHU</font>
+
+88
+00:08:19,640 --> 00:08:23,040
+Dzięcioł! Tam! Nieszczęście!
+
+89
+00:08:23,200 --> 00:08:27,240
+Dziób, drzewo, tragedia!
+<font color="#FFFF51">To straszne!</font>
+
+90
+00:08:27,400 --> 00:08:32,560
+Jesteś silny!
+Małe ptaki same nie dadzą rady!
+
+91
+00:08:32,720 --> 00:08:35,160
+<font color="#FFFF51">Sam nie wiem.</font>
+
+92
+00:08:35,320 --> 00:08:37,560
+<font color="#FFFF51">Dlaczego Matylda nie wraca?</font>
+
+93
+00:08:43,040 --> 00:08:45,680
+<font color="#FFFF51">Nie zostawię jaj bez opieki.</font>
+
+94
+00:08:45,840 --> 00:08:49,520
+Pomóż dzięciołowi.
+Popilnuję gniazda.
+
+95
+00:08:50,840 --> 00:08:52,640
+<font color="#8080FF">GŁOŚNE GDAKANIE</font>
+
+96
+00:09:06,800 --> 00:09:09,360
+<font color="#8080FF">GDAKANIE</font>
+
+97
+00:09:15,600 --> 00:09:20,400
+Znowu, ko, ko, ko,
+zabrali wszystkie jajka!
+
+98
+00:09:20,560 --> 00:09:22,840
+<font color="#8080FF">GDAKANIE</font>
+
+99
+00:09:28,800 --> 00:09:30,600
+Ko, ko, ko, ko!
+
+100
+00:09:30,760 --> 00:09:32,560
+<font color="#8080FF">PIEJE</font>
+
+101
+00:09:33,720 --> 00:09:36,040
+<font color="#8080FF">STĘKAJĄ Z WYSIŁKU</font>
+
+102
+00:09:51,920 --> 00:09:54,600
+<font color="#8080FF">GŁOŚNY OKRZYK</font>
+
+103
+00:10:01,200 --> 00:10:03,520
+<font color="#8080FF">ŚMIECHY</font>
+
+104
+00:10:03,680 --> 00:10:05,480
+<font color="#16F158">Wojtek!</font>
+
+105
+00:10:05,640 --> 00:10:07,960
+<font color="#16F158">Ty tutaj?!</font>
+
+106
+00:10:09,360 --> 00:10:13,600
+<font color="#FFFF51">Nieźle nam poszło.</font>
+<font color="#16F158">Nasze jajka bez opieki?!</font>
+
+107
+00:10:18,800 --> 00:10:20,600
+Bri, bri, bri.
+
+108
+00:10:20,760 --> 00:10:24,360
+Gniazdko niezbyt przytulne
+dla małej kukułki,
+
+109
+00:10:24,520 --> 00:10:27,000
+ale dłużej szukać nie mogę.
+
+110
+00:10:27,160 --> 00:10:30,240
+To albo to.
+
+111
+00:10:30,400 --> 00:10:33,640
+Oba niezbyt przypominają
+kukułcze jajka,
+
+112
+00:10:33,800 --> 00:10:37,320
+ale może, bri, bri, bri,
+nie poznają się.
+
+113
+00:11:02,280 --> 00:11:04,160
+Prawie takie same.
+
+114
+00:11:04,320 --> 00:11:06,800
+<font color="#8080FF">KLEKOTANIE, OKRZYK PRZERAŻENIA</font>
+
+115
+00:11:18,440 --> 00:11:21,800
+<font color="#FFFF51">Ach, ta kukułka.</font>
+<font color="#FFFF51">Obiecała, że przypilnuje.</font>
+
+116
+00:11:21,960 --> 00:11:26,120
+<font color="#16F158">Kukułka jajek nie kradnie,</font>
+<font color="#16F158">najwyżej podrzuca swoje.</font>
+
+117
+00:11:26,280 --> 00:11:29,000
+<font color="#FFFF51">U nas wszystko w porządku.</font>
+
+118
+00:11:29,160 --> 00:11:30,960
+<font color="#16F158">O!</font>
+
+119
+00:11:32,920 --> 00:11:36,880
+<font color="#FFFF51">Dlaczego jedno nasze jajko</font>
+<font color="#FFFF51">tak bardzo zmalało?</font>
+
+120
+00:11:38,920 --> 00:11:40,720
+Czak!
+
+121
+00:11:44,120 --> 00:11:45,920
+Czak, czak!
+
+122
+00:11:57,320 --> 00:12:01,800
+<font color="#16F158">Ja to czułam! Ja wiedziałam,</font>
+<font color="#16F158">że stanie się coś złego!</font>
+
+123
+00:12:01,960 --> 00:12:04,760
+<font color="#FFFF51">Jak ona mogła mi to zrobić?</font>
+
+124
+00:12:04,920 --> 00:12:06,720
+<font color="#16F158">Oj!</font>
+
+125
+00:12:09,360 --> 00:12:11,160
+<font color="#16F158">Co ty robisz?</font>
+
+126
+00:12:11,320 --> 00:12:16,080
+<font color="#16F158">Nie pozwolę zrobić krzywdy jajku,</font>
+<font color="#16F158">nawet jeżeli jest kukułcze.</font>
+
+127
+00:12:16,240 --> 00:12:20,920
+<font color="#FFFF51">Trzeba przeszukać teren.</font>
+<font color="#FFFF51">Nasze jajko musi być w pobliżu.</font>
+
+128
+00:12:21,080 --> 00:12:23,880
+<font color="#16F158">Już nigdzie się stąd nie ruszę.</font>
+
+129
+00:12:33,080 --> 00:12:36,800
+<font color="#FFFF51">Przecież to nie igła w stogu siana.</font>
+
+130
+00:12:36,960 --> 00:12:38,840
+<font color="#FFFF51">Kukułka nie ma gniazda.</font>
+
+131
+00:12:39,000 --> 00:12:41,400
+<font color="#FFFF51">Jeżeli zostawiła swoje jajko,</font>
+
+132
+00:12:41,560 --> 00:12:44,640
+<font color="#FFFF51">to nasze mogła podrzucić</font>
+<font color="#FFFF51">komuś innemu.</font>
+
+133
+00:12:54,080 --> 00:12:55,880
+<font color="#8080FF">STUKA</font>
+
+134
+00:12:56,040 --> 00:13:00,440
+<font color="#FFFF51">Przepraszam, że przerywam drzemkę,</font>
+<font color="#FFFF51">ale pytam wszędzie.</font>
+
+135
+00:13:00,600 --> 00:13:04,760
+<font color="#FFFF51">Czy przypadkiem kukułka</font>
+<font color="#FFFF51">nie podrzuciła ci mojego jajka?</font>
+
+136
+00:13:04,920 --> 00:13:06,720
+Mam swoje.
+
+137
+00:13:10,160 --> 00:13:12,920
+Raz, dwa, trzy... Humbugu...
+
+138
+00:13:13,080 --> 00:13:16,720
+Nie potrafię się skupić
+o tak wczesnej porze.
+
+139
+00:13:16,880 --> 00:13:19,880
+<font color="#FFFF51">Pięć.</font>
+Jak to? Wczoraj miałam siedem.
+
+140
+00:13:27,520 --> 00:13:29,640
+Kto mi ukradł dwa jajka?
+
+141
+00:13:47,880 --> 00:13:51,120
+Raz, dwa, trzy...
+<font color="#FFFF51">Cztery.</font>
+
+142
+00:13:51,280 --> 00:13:53,360
+Przecież wiem, że cztery!
+
+143
+00:13:53,520 --> 00:13:57,120
+Pięć, sześć... sześć...
+
+144
+00:13:57,280 --> 00:14:00,520
+- Siedem.
+- Siedem, osiem, dziewięć!
+
+145
+00:14:00,680 --> 00:14:02,560
+Dziewięć!
+<font color="#FFFF51">Dziewięć jaj.</font>
+
+146
+00:14:12,480 --> 00:14:15,880
+Było dziesięć jaj, a jest dziewięć!
+
+147
+00:14:16,040 --> 00:14:21,360
+Nikt stąd nie wyjdzie,
+dopóki nie znajdę brakującego jaja!
+
+148
+00:14:28,640 --> 00:14:33,080
+Czak, czak. Trafiło mi się
+jak ślepej kurze ziarno.
+
+149
+00:14:33,240 --> 00:14:38,760
+Ale dlaczego bociany muszą znosić
+takie duże jaja? Czak, czak...
+
+150
+00:14:38,920 --> 00:14:40,720
+<font color="#8080FF">WZDYCHA</font>
+
+151
+00:14:42,440 --> 00:14:45,280
+<font color="#8080FF">DYSZY ZE ZMĘCZENIA</font>
+
+152
+00:14:45,440 --> 00:14:47,240
+Czak!
+
+153
+00:14:47,400 --> 00:14:50,120
+Czak, czak, czak, czarak!
+
+154
+00:14:50,280 --> 00:14:53,600
+Czak, czak, czak!
+
+155
+00:14:53,760 --> 00:14:55,720
+<font color="#8080FF">WZDYCHA</font>
+
+156
+00:14:55,880 --> 00:14:57,680
+Czak!
+
+157
+00:14:59,640 --> 00:15:02,600
+<font color="#8080FF">STUKANIE</font>
+Może pomóc?
+
+158
+00:15:02,760 --> 00:15:05,280
+Dam sobie radę. To moje.
+
+159
+00:15:13,040 --> 00:15:19,000
+Jak sroki znoszą takie wielkie jaja,
+to nic dobrego nas nie czeka.
+
+160
+00:15:22,240 --> 00:15:24,040
+<font color="#8080FF">DYSZY</font>
+
+161
+00:15:29,680 --> 00:15:31,480
+Czakarak!
+
+162
+00:15:31,640 --> 00:15:33,440
+Wszystko na nic!
+
+163
+00:15:33,600 --> 00:15:37,600
+Nie dam rady wciągnąć go do gniazda!
+
+164
+00:15:51,560 --> 00:15:53,720
+Czak, czak...
+
+165
+00:15:53,880 --> 00:15:59,160
+Z takiego jaja będzie sroka,
+jakiej świat nie widział.
+
+166
+00:16:02,120 --> 00:16:04,680
+Nigdy już nie będę sama.
+
+167
+00:16:05,760 --> 00:16:08,040
+<font color="#8080FF">KLEKOTANIE</font>
+
+168
+00:16:12,080 --> 00:16:16,960
+<font color="#FFFF51">Nic z tego nie rozumiem.</font>
+<font color="#FFFF51">Wszędzie kłopoty z jajami.</font>
+
+169
+00:16:17,120 --> 00:16:21,120
+<font color="#FFFF51">Kogut w każdym widzi rabusia.</font>
+<font color="#16F158">Nikt nic nie wie?</font>
+
+170
+00:16:21,280 --> 00:16:24,840
+<font color="#FFFF51">Wszystkim brakuje jaj.</font>
+<font color="#FFFF51">I tak mamy szczęście.</font>
+
+171
+00:16:25,000 --> 00:16:28,000
+<font color="#FFFF51">U nas przynajmniej</font>
+<font color="#FFFF51">liczba się zgadza.</font>
+
+172
+00:16:39,640 --> 00:16:43,440
+<font color="aqua">Kirrrk!</font>
+
+173
+00:16:43,600 --> 00:16:45,400
+Ratunku!
+
+174
+00:16:50,560 --> 00:16:52,360
+<font color="aqua">O!</font>
+
+175
+00:16:52,520 --> 00:16:54,320
+<font color="aqua">Duże.</font>
+
+176
+00:16:54,480 --> 00:16:59,080
+<font color="aqua">Na pewno smaczne.</font>
+<font color="aqua">Szkoda, że wcześniej się najadłem.</font>
+
+177
+00:17:02,720 --> 00:17:04,520
+Czak! Czak!
+
+178
+00:17:04,680 --> 00:17:06,920
+Czak! Czakarak! Czak!
+
+179
+00:17:07,080 --> 00:17:09,400
+<font color="#16F158">Co za awantury?</font>
+<font color="#FFFF51">Pilnuj jajek.</font>
+
+180
+00:17:09,560 --> 00:17:11,360
+Czak! Czakarak!
+
+181
+00:17:11,520 --> 00:17:16,160
+Kirkor ukradł jajo.
+Major Kirkor ukradł wasze jajo.
+
+182
+00:17:16,320 --> 00:17:19,120
+<font color="#FFFF51">Co?</font>
+<font color="#16F158">Nasze dziecko?</font>
+
+183
+00:17:19,280 --> 00:17:21,360
+<font color="#FFFF51">Dlaczego mamy ci wierzyć?</font>
+
+184
+00:17:21,520 --> 00:17:24,600
+<font color="#FFFF51">Wszyscy wiedzą, że sroka kradnie.</font>
+<font color="#16F158">Mhm.</font>
+
+185
+00:17:31,400 --> 00:17:34,200
+<font color="aqua">Bezwzględny zakaz polowań.</font>
+
+186
+00:17:34,360 --> 00:17:36,160
+<font color="aqua">Kirk!</font>
+
+187
+00:17:36,320 --> 00:17:39,960
+<font color="aqua">O! Major Kirkor będzie pościł?</font>
+
+188
+00:17:40,120 --> 00:17:41,920
+<font color="aqua">Kirk!</font>
+
+189
+00:17:42,080 --> 00:17:45,560
+<font color="aqua">Na miękko? Na twardo?</font>
+
+190
+00:17:45,720 --> 00:17:48,520
+<font color="aqua">Na półmiękko?</font>
+
+191
+00:17:48,680 --> 00:17:51,480
+<font color="aqua">A może jajeczniczkę?</font>
+
+192
+00:17:51,640 --> 00:17:56,600
+<font color="aqua">Zresztą skąd mogę dziś wiedzieć,</font>
+<font color="aqua">na co będę miał jutro apetyt?</font>
+
+193
+00:18:01,560 --> 00:18:03,400
+<font color="#FFFF51">Oddaj moje jajko.</font>
+
+194
+00:18:03,560 --> 00:18:06,040
+<font color="aqua">Znamy się. Ja ciebie szanuję.</font>
+
+195
+00:18:06,200 --> 00:18:11,160
+<font color="aqua">Nie poluję w twoim gnieździe,</font>
+<font color="aqua">to i ty nie panosz się w moim.</font>
+
+196
+00:18:11,320 --> 00:18:13,120
+Czak, czak, czak!
+
+197
+00:18:13,280 --> 00:18:16,920
+Kirkor kradnie, czak, czak!
+Kirkor kradnie!
+
+198
+00:18:17,080 --> 00:18:19,720
+<font color="aqua">Cicho! Chyba nie wierzysz sroce?</font>
+
+199
+00:18:19,880 --> 00:18:22,680
+<font color="aqua">Wszyscy wiedzą, że to ona kradnie.</font>
+
+200
+00:18:22,840 --> 00:18:26,920
+Sroka nie kradnie!
+Sroka nie kradnie! To jastrząb!
+
+201
+00:18:27,080 --> 00:18:29,960
+<font color="#FFFF51">Jeśli zabrałeś jajko,</font>
+<font color="#FFFF51">oddaj natychmiast.</font>
+
+202
+00:18:30,120 --> 00:18:32,960
+Zabrał, zabrał!
+<font color="aqua">Gdzieżbym śmiał?</font>
+
+203
+00:18:33,120 --> 00:18:37,400
+<font color="aqua">W moim skromnym koszyku</font>
+<font color="aqua">sama drobnica.</font>
+
+204
+00:18:38,960 --> 00:18:41,920
+<font color="aqua">Jak dostałem od ministra</font>
+<font color="aqua">zakaz łowów,</font>
+
+205
+00:18:42,080 --> 00:18:47,040
+<font color="aqua">to, kirk, trochę sobie</font>
+<font color="aqua">nazbierałem na zapas.</font>
+
+206
+00:18:54,120 --> 00:18:55,920
+<font color="#FFFF51">Jak śmiałeś?</font>
+
+207
+00:18:56,080 --> 00:18:59,640
+<font color="aqua">Przecież to sroki!</font>
+
+208
+00:18:59,800 --> 00:19:02,480
+<font color="#8080FF">SROKA SIĘ ŚMIEJE</font>
+
+209
+00:19:03,840 --> 00:19:08,080
+Czak, czarak! Jaka sroka
+zniesie takie wielkie jajo?
+
+210
+00:19:08,240 --> 00:19:12,960
+<font color="#8080FF">ŚMIEJE SIĘ</font>
+Czak! Czak!
+
+211
+00:19:13,120 --> 00:19:15,360
+Czak, czak, czak!
+
+212
+00:19:15,520 --> 00:19:18,920
+<font color="#FFFF51">Albo sam oddasz</font>
+<font color="#FFFF51">wszystkie zrabowane jajka,</font>
+
+213
+00:19:19,080 --> 00:19:20,880
+<font color="#FFFF51">albo będzie wojna.</font>
+
+214
+00:19:27,920 --> 00:19:32,080
+Smutny los matki,
+co nie ma własnego gniazda.
+
+215
+00:19:32,240 --> 00:19:37,680
+Nigdy nie wie, czy ktoś przygarnie
+podrzuconą przez nią sierotkę.
+
+216
+00:19:58,640 --> 00:20:00,680
+<font color="#8080FF">PUKA</font>
+
+217
+00:20:07,440 --> 00:20:10,120
+<font color="#8080FF">PISKI PISKLĄT</font>
+
+218
+00:20:36,200 --> 00:20:38,000
+<font color="#8080FF">KUKANIE</font>
+
+219
+00:20:52,840 --> 00:20:55,560
+<font color="#FFFF51">Nas jest więcej!</font>
+
+220
+00:21:00,600 --> 00:21:02,400
+<font color="#8080FF">PISKI</font>
+
+221
+00:21:15,720 --> 00:21:17,960
+<font color="#8080FF">GDAKANIE</font>
+
+222
+00:21:37,840 --> 00:21:40,280
+<font color="#8080FF">ĆWIERKANIE</font>
+
+223
+00:21:42,000 --> 00:21:45,240
+<font color="#8080FF">POGODNA MELODIA</font>
+
+224
+00:22:35,880 --> 00:22:40,040
+NAPISY DLA NIESŁYSZĄCYCH - TVP SA
+
+225
+00:22:40,200 --> 00:22:45,240
+ZAPRASZAMY NA STRONĘ:
+www.tvp.pl/dostepnosc
+
+226
+00:22:45,400 --> 00:22:47,200
+
+
