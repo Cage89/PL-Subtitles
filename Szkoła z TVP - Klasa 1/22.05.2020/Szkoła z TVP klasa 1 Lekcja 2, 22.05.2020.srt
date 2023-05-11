@@ -1,0 +1,1219 @@
+1
+00:00:00,000 --> 00:00:03,000
+Napisy stworzone przez społeczność Amara.org
+
+2
+00:00:05,914 --> 00:00:12,914
+Witajcie po przerwie, kochani. Dzisiaj podróżujemy po różnych zakątkach świata.
+
+3
+00:00:12,914 --> 00:00:17,914
+A żeby podróżować, to czasem trzeba użyć środka transportu, jakim jest np.
+pociąg.
+
+4
+00:00:17,914 --> 00:00:23,914
+Zatem poćwiczmy teraz odczytywanie rozkładów oraz odczytywanie godzin z zegara.
+
+5
+00:00:23,914 --> 00:00:27,914
+Przed nami pierwsze wyzwanie matematyczne.
+
+6
+00:00:27,914 --> 00:00:31,914
+Przeczytaj rozkład jazdy pociągów w godzinach przedpołudniowych.
+
+7
+00:00:31,914 --> 00:00:34,914
+Czy pamiętacie, która to jest godzina południe?
+
+8
+00:00:35,664 --> 00:00:38,664
+Południe to godzina 12.
+
+9
+00:00:38,664 --> 00:00:44,664
+Zatem mamy tutaj rozkład jazdy, który obowiązuje na stacji Warszawa Centralna.
+
+10
+00:00:44,664 --> 00:00:49,664
+Godziny przedpołudniowe to zatem wszystkie, które mamy tutaj wymienione.
+
+11
+00:00:49,664 --> 00:00:52,664
+I teraz zobaczmy. Mamy tutaj różne pociągi.
+
+12
+00:00:52,664 --> 00:00:58,664
+Do Wrocławia, do Krakowa, do Poznania, Katowic i do Gdańska.
+
+13
+00:00:58,664 --> 00:01:01,664
+Przeczytajmy pierwszy punkt.
+
+14
+00:01:01,664 --> 00:01:04,664
+Podaj najwcześniejszą godzinę odjazdu.
+
+15
+00:01:05,312 --> 00:01:07,312
+Pociągu do Gdańska.
+
+16
+00:01:07,312 --> 00:01:09,312
+Pociągi do Gdańska
+
+17
+00:01:09,312 --> 00:01:11,312
+mamy w ostatnim wierszu
+
+18
+00:01:11,312 --> 00:01:13,312
+na samym dole.
+
+19
+00:01:13,312 --> 00:01:15,312
+Najwcześniejsza godzina odjazdu
+
+20
+00:01:15,312 --> 00:01:17,312
+pociągu do Gdańska to
+
+21
+00:01:19,312 --> 00:01:21,312
+5.30.
+
+22
+00:01:21,312 --> 00:01:23,312
+Przeczytajmy kolejny punkt.
+
+23
+00:01:23,312 --> 00:01:25,312
+Podaj najwcześniejszą godzinę
+
+24
+00:01:25,312 --> 00:01:27,312
+odjazdu pociągu
+
+25
+00:01:27,312 --> 00:01:29,312
+do Katowic tym razem.
+
+26
+00:01:29,312 --> 00:01:31,312
+Katowice
+
+27
+00:01:31,312 --> 00:01:33,312
+to wiersz wyżej w naszym rozkładzie.
+
+28
+00:01:33,312 --> 00:01:35,264
+Która godzina?
+
+29
+00:01:35,264 --> 00:01:39,264
+Jest tutaj najwcześniejsza, to 4.30.
+
+30
+00:01:39,264 --> 00:01:41,264
+Kolejny punkt.
+
+31
+00:01:41,264 --> 00:01:45,264
+Pociąg do Poznania jedzie dwie godziny.
+
+32
+00:01:45,264 --> 00:01:50,264
+Jeżeli wsiądziesz do pociągu, który odjeżdża najwcześniej,
+
+33
+00:01:50,264 --> 00:01:53,264
+o której godzinie będziesz na miejscu?
+
+34
+00:01:53,264 --> 00:01:58,264
+Sprawdźmy, który pociąg odjeżdża do Poznania najwcześniej.
+
+35
+00:01:58,264 --> 00:02:02,264
+Pociągi do Poznania mamy w środkowym wierszu.
+
+36
+00:02:02,544 --> 00:02:07,544
+Najwcześniej odjeżdża pociąg o godzinie czwartej.
+
+37
+00:02:07,544 --> 00:02:13,544
+Jeśli pociąg jedzie dwie godziny, to o której będziemy na miejscu?
+
+38
+00:02:13,544 --> 00:02:19,544
+Wyruszamy o czwartej, mija pierwsza godzina podróży, potem druga godzina
+podróży,
+
+39
+00:02:19,544 --> 00:02:23,544
+czyli czwarta, piąta, szósta.
+
+40
+00:02:23,544 --> 00:02:27,544
+Powinniśmy być na miejscu o godzinie szóstej, zero, zero.
+
+41
+00:02:27,544 --> 00:02:30,544
+Kolejny punkt.
+
+42
+00:02:30,544 --> 00:02:32,032
+Pociąg do Krakowa.
+
+43
+00:02:32,032 --> 00:02:34,032
+Jedzie dwie godziny.
+
+44
+00:02:34,032 --> 00:02:37,032
+Na miejscu będzie o godzinie dwunastej.
+
+45
+00:02:37,032 --> 00:02:41,032
+O której godzinie wyjeżdża z Warszawy?
+
+46
+00:02:41,032 --> 00:02:47,032
+Teraz popatrzmy na rozkład jazdy pociągów, które odjeżdżają do Krakowa.
+
+47
+00:02:47,032 --> 00:02:50,032
+To jest druga kolumna od góry.
+
+48
+00:02:50,032 --> 00:02:58,032
+I teraz, który pociąg trzeba wsiąść, aby dojechać do Krakowa na godzinę
+dwunastą,
+
+49
+00:02:58,032 --> 00:03:01,032
+wiedząc, że pociąg ten jedzie dwie godziny.
+
+50
+00:03:01,664 --> 00:03:12,664
+Spróbujmy sobie zatem odjąć od dwunastu, czyli od godziny dwunastej dwie
+godziny, czyli cofnijmy się w czasie o dwie godziny.
+
+51
+00:03:12,664 --> 00:03:23,664
+O której powinniśmy wsiąść? O godzinie dziesiątej, zatem wsiedlibyśmy w
+przedostatni pociąg przed południem.
+
+52
+00:03:23,664 --> 00:03:28,664
+I ostatni punkt w tym zadaniu. O co możesz jeszcze zapytać?
+
+53
+00:03:28,664 --> 00:03:30,664
+Z tym pytaniem zostawiam Was.
+
+54
+00:03:31,424 --> 00:03:35,424
+Teraz przejdziemy do kolejnego wyzwania matematycznego.
+
+55
+00:03:35,424 --> 00:03:40,424
+Tym razem jest to dzień z kalendarza międzygwiezdnych podróżników.
+
+56
+00:03:40,424 --> 00:03:42,424
+Zobaczcie, jak on wygląda.
+
+57
+00:03:42,424 --> 00:03:44,424
+To jest poniedziałek.
+
+58
+00:03:44,424 --> 00:03:46,424
+Zakupy.
+
+59
+00:03:46,424 --> 00:03:51,424
+Od 12 do 14.
+
+60
+00:03:51,424 --> 00:03:58,424
+Sklep jest czynny od godziny 11 do godziny 19.
+
+61
+00:03:58,656 --> 00:04:26,656
+Zwróćcie uwagę na to, tak dla przypomnienia, że godzina 14 albo 19, zaznaczona
+na tych zegarach, zobaczcie, krótka wskazówka wskazuje na godzinę drugą w
+przypadku 14, a w przypadku godziny 19 na siódemkę, pamiętacie jak
+odczytywaliśmy godziny z zegara, zawsze do tej liczby, która jest na tarczy
+zegara musimy dodać 12.
+
+62
+00:04:26,704 --> 00:04:32,704
+Okej, autobus do hotelu odjeżdża o godzinie, zobaczmy której,
+
+63
+00:04:32,704 --> 00:04:40,704
+trzeciej, choć pewnie chodzi o godziny popołudniowe, czyli dodajmy do trójki 12,
+o godzinie 15.
+
+64
+00:04:40,704 --> 00:04:44,704
+Przejazd autobusem trwa 2 godziny.
+
+65
+00:04:44,704 --> 00:04:48,704
+No dobrze, spróbujmy teraz odpowiedzieć na pytania.
+
+66
+00:04:48,704 --> 00:04:49,704
+Pytanie pierwsze.
+
+67
+00:04:49,704 --> 00:04:53,704
+Ile godzin trwały zakupy?
+
+68
+00:04:54,048 --> 00:04:59,048
+Popatrzmy więc, informacja o zakupach była na samej górze.
+
+69
+00:04:59,048 --> 00:05:03,048
+Zakupy trwały od dwunastej do czternastej.
+
+70
+00:05:03,048 --> 00:05:06,048
+Ile to godzin?
+
+71
+00:05:06,048 --> 00:05:08,048
+To dwie godziny.
+
+72
+00:05:08,048 --> 00:05:11,048
+Teraz odpowiedzmy na kolejne pytanie.
+
+73
+00:05:11,048 --> 00:05:15,048
+Ile godzin czynny jest sklep?
+
+74
+00:05:15,048 --> 00:05:20,048
+Sklep jest czynny od jedenastej do dziewiętnastej.
+
+75
+00:05:20,048 --> 00:05:23,048
+Znaleźliśmy wspólnie. Od jedenastej.
+
+76
+00:05:23,072 --> 00:05:32,372
+Dwunasta, trzynasta, czternasta, piętnasta, szesnasta, siedemnasta, osiemnasta i
+dziewiętnasta.
+
+77
+00:05:32,372 --> 00:05:34,272
+Ile to godzin?
+
+78
+00:05:34,272 --> 00:05:37,872
+Osiem godzin. Sklep jest czynny osiem godzin.
+
+79
+00:05:37,872 --> 00:05:40,572
+No i ostatnie pytanie.
+
+80
+00:05:40,572 --> 00:05:45,572
+O której godzinie autobus dojedzie do hotelu?
+
+81
+00:05:45,572 --> 00:05:51,072
+Autobus odjeżdża o godzinie piętnastej, czy też trzeciej.
+
+82
+00:05:51,328 --> 00:05:58,328
+A przejazd trwa dwie godziny. O której więc będzie na miejscu w hotelu?
+
+83
+00:05:58,328 --> 00:06:04,328
+Trzecia, dodajmy kolejną godzinę, to czwarta i jeszcze jedną, piąta.
+
+84
+00:06:04,328 --> 00:06:10,328
+Zatem autobus dojedzie do hotelu o piątej lub o siedemnastej.
+
+85
+00:06:10,328 --> 00:06:15,328
+No to teraz przejdźmy do kolejnego wyzwania.
+
+86
+00:06:15,328 --> 00:06:18,328
+Szkolna wycieczka do Torunia.
+
+87
+00:06:19,248 --> 00:06:22,608
+Autokar wycieczkowy ma 40 miejsc.
+
+88
+00:06:23,048 --> 00:06:25,908
+Czy zostaną wolne miejsca w autokarze?
+
+89
+00:06:26,168 --> 00:06:28,368
+Zobaczmy na informacje.
+
+90
+00:06:28,608 --> 00:06:34,188
+Uczestnicy wycieczki to klasa pierwsza A, gdzie jest 20 uczniów
+
+91
+00:06:34,408 --> 00:06:38,848
+i klasa pierwsza B, gdzie jest o 10 uczniów mniej,
+
+92
+00:06:39,288 --> 00:06:42,248
+a także opiekunowie, to jest 5 osób.
+
+93
+00:06:42,648 --> 00:06:44,188
+Policzmy to razem.
+
+94
+00:06:44,608 --> 00:06:47,788
+Klasa pierwsza A to 20 uczniów.
+
+95
+00:06:48,016 --> 00:06:51,016
+Zapiszemy więc 20.
+
+96
+00:06:52,016 --> 00:06:56,016
+Kolejna klasa ma o 10 uczniów mniej.
+
+97
+00:06:56,016 --> 00:07:00,016
+Ile to jest 20 odjąć 10?
+
+98
+00:07:00,016 --> 00:07:03,016
+To oczywiście 10.
+
+99
+00:07:03,016 --> 00:07:13,016
+Zatem do grona uczestników dodamy uczniów klasy pierwszej B, czyli 10 osób
+
+100
+00:07:13,016 --> 00:07:17,016
+i jeszcze 5 osób, które są opiekunami.
+
+101
+00:07:17,136 --> 00:07:20,136
+Zatem dodamy jeszcze 5.
+
+102
+00:07:21,136 --> 00:07:24,136
+Policzmy, ilu to razem uczestników.
+
+103
+00:07:25,136 --> 00:07:31,136
+20 dodać 10 to 30.
+
+104
+00:07:32,136 --> 00:07:35,136
+Przepiszę jeszcze dodać 5.
+
+105
+00:07:36,136 --> 00:07:41,136
+30 dodać 5 to 35.
+
+106
+00:07:41,136 --> 00:07:43,136
+Zatem tyle osób,
+
+107
+00:07:43,184 --> 00:07:51,824
+brało udział w wycieczce. Jeśli autokar ma 40 miejsc, to czy wystarczy miejsc
+dla wszystkich?
+
+108
+00:07:51,824 --> 00:07:58,104
+Na pewno tak. Ile wolnych miejsc zostanie? Jakim działaniem możemy to policzyć?
+
+109
+00:07:58,104 --> 00:08:06,784
+Wszystkich miejsc w autokarze jest 40, a uczestników mamy 35 osób.
+
+110
+00:08:06,784 --> 00:08:12,504
+Zatem 40 odjąć 35 to 5.
+
+111
+00:08:12,528 --> 00:08:15,528
+Wróćmy do treści zadania.
+
+112
+00:08:15,528 --> 00:08:18,528
+Czy zostaną wolne miejsca w autokarze?
+
+113
+00:08:18,528 --> 00:08:22,528
+Tak, w autokarze zostanie 5 wolnych miejsc.
+
+114
+00:08:22,528 --> 00:08:26,528
+Zobaczmy dalej. Plan wycieczki.
+
+115
+00:08:26,528 --> 00:08:30,528
+Tutaj mamy rozpisane w godzinach,
+
+116
+00:08:30,528 --> 00:08:33,528
+co będzie się działo podczas tej wycieczki.
+
+117
+00:08:33,528 --> 00:08:37,528
+Najpierw będzie podróż trwająca jedną godzinę.
+
+118
+00:08:37,528 --> 00:08:40,528
+Kolejnym punktem wycieczki będzie planetarium.
+
+119
+00:08:40,528 --> 00:08:41,528
+Tam.
+
+120
+00:08:41,712 --> 00:08:44,712
+Uczniowie i opiekunowie spędzą dwie godziny.
+
+121
+00:08:44,712 --> 00:08:47,712
+Następnie żywe Muzeum Piernika.
+
+122
+00:08:47,712 --> 00:08:49,712
+Kolejne dwie godziny.
+
+123
+00:08:49,712 --> 00:08:52,712
+Później w planie jest obiad.
+
+124
+00:08:52,712 --> 00:08:54,712
+Jedna godzina.
+
+125
+00:08:54,712 --> 00:08:56,712
+Spacer po starym mieście.
+
+126
+00:08:56,712 --> 00:08:57,712
+Jedna godzina.
+
+127
+00:08:57,712 --> 00:09:00,712
+I powrót, który zajmie godzinę.
+
+128
+00:09:00,712 --> 00:09:03,712
+Zatem spróbujmy uzupełnić teraz plan wycieczki.
+
+129
+00:09:03,712 --> 00:09:07,712
+Jeśli wycieczka rozpoczyna się o godzinie 8.00,
+
+130
+00:09:07,712 --> 00:09:10,640
+a podróż trwa godzinę,
+
+131
+00:09:10,640 --> 00:09:15,140
+do której godziny uczniowie i ich opiekunowie będą w podróży?
+
+132
+00:09:15,140 --> 00:09:20,140
+Od godziny 8.00 do godziny 9.00 zapiszę to.
+
+133
+00:09:24,922 --> 00:09:36,922
+Od 8.00 do 9.00 tyle będzie trwała podróż. Tak? Godzinę.
+
+134
+00:09:36,922 --> 00:09:39,922
+Popatrzmy dalej. Planetarium.
+
+135
+00:09:39,922 --> 00:09:43,922
+Zwiedzanie planetarium to kolejne dwie godziny.
+
+136
+00:09:43,922 --> 00:09:53,922
+Zatem od godziny 9.00 kolejne dwie godziny jeśli miną to już będziemy mieli
+
+137
+00:09:53,922 --> 00:09:54,512
+godziny.
+
+138
+00:09:54,512 --> 00:09:57,512
+godzinę 11.00
+
+139
+00:09:59,512 --> 00:10:05,512
+Po zwiedzaniu planetarium, czyli mamy już godzinę 11.00
+
+140
+00:10:06,512 --> 00:10:11,512
+w planie wycieczki mamy dalej żywe muzeum Piernika
+
+141
+00:10:11,512 --> 00:10:16,512
+i na to zadanie wycieczka chce poświęcić dwie godziny
+
+142
+00:10:16,512 --> 00:10:20,512
+zatem 11.00 dodać kolejne dwie godziny
+
+143
+00:10:20,512 --> 00:10:22,512
+będzie już godzina
+
+144
+00:10:22,880 --> 00:10:25,880
+13.00
+
+145
+00:10:26,880 --> 00:10:30,880
+Popatrzmy jaki jest kolejny punkt wycieczki
+
+146
+00:10:31,880 --> 00:10:35,880
+Dalej w planie jest obiad, który trwa jedną godzinę
+
+147
+00:10:35,880 --> 00:10:41,880
+Zatem obiad będzie trwał od 13.00 do 14.00
+
+148
+00:10:45,880 --> 00:10:47,880
+A następnie
+
+149
+00:10:47,880 --> 00:10:51,680
+Od godziny 14.00
+
+150
+00:10:51,680 --> 00:10:57,680
+Nasza wycieczka będzie spacerować po Starym Mieście przez jedną godzinę.
+
+151
+00:10:57,680 --> 00:11:03,680
+Zatem spacer będzie trwał od 14.00 do 15.00.
+
+152
+00:11:05,680 --> 00:11:10,680
+I ostatnim punktem wycieczki jest powrót.
+
+153
+00:11:10,680 --> 00:11:19,680
+Powrót, który trwa również jedną godzinę, zatem będzie trwał od 15.00 do 16.00.
+
+154
+00:11:20,160 --> 00:11:26,660
+O tej godzinie wszyscy wrócą już do swojego miejsca zamieszkania.
+
+155
+00:11:26,660 --> 00:11:30,660
+Przed nami ostatnie wyzwania matematyczne. Przeczytajmy wspólnie.
+
+156
+00:11:33,660 --> 00:11:37,660
+Zosia, Marta i Jola to trzy siostry.
+
+157
+00:11:37,660 --> 00:11:41,160
+Każda z nich spędzała wakacje w innym miejscu.
+
+158
+00:11:41,160 --> 00:11:48,660
+Zosia wyjechała na Mazury, gdzie średnia temperatura powietrza wynosiła 25
+stopni Celsjusza.
+
+159
+00:11:48,880 --> 00:11:56,880
+Marta pojechała do Grecji, gdzie temperatura była o 7 stopni Celsjusza wyższa
+niż na Mazurach.
+
+160
+00:11:56,880 --> 00:12:06,880
+Jola spędzała wakacje w Norwegii, gdzie temperatura była o 6 stopni Celsjusza
+niższa niż na Mazurach.
+
+161
+00:12:06,880 --> 00:12:11,880
+Oblicz, jaka była średnia temperatura w Grecji, a jaka w Norwegii.
+
+162
+00:12:11,880 --> 00:12:17,488
+Zatem wróćmy do pierwszej części zadania.
+
+163
+00:12:17,488 --> 00:12:25,168
+Zosia wyjechała na wakacje na Mazury, gdzie średnia temperatura powietrza
+wynosiła 25 stopni Celsjusza.
+
+164
+00:12:25,168 --> 00:12:31,168
+Jej siostra Marta pojechała do Grecji. Tam było o 7 stopni więcej.
+
+165
+00:12:31,168 --> 00:12:34,168
+Jakie działanie napiszemy za chwilę na tablicy?
+
+166
+00:12:36,608 --> 00:12:39,008
+25.
+
+167
+00:12:39,008 --> 00:12:42,008
+Możemy dodać stopni Celsjusza.
+
+168
+00:12:45,008 --> 00:12:46,928
+Dodać 7.
+
+169
+00:12:46,928 --> 00:12:48,428
+Stopni Celsjusza.
+
+170
+00:12:48,428 --> 00:12:51,428
+Przekonajmy się, jaka temperatura była w Grecji.
+
+171
+00:12:51,428 --> 00:12:55,428
+Najpierw naszym sposobem od siódemki zabieram piątkę,
+
+172
+00:12:55,428 --> 00:13:01,428
+żeby tutaj mieć 30 stopni Celsjusza.
+
+173
+00:13:02,428 --> 00:13:08,428
+Zabrałam 7,5, zatem muszę dodać jeszcze 2 stopnie Celsjusza.
+
+174
+00:13:08,428 --> 00:13:14,928
+W Grecji temperatura wynosiła więc 32 stopni Celsjusza.
+
+175
+00:13:16,512 --> 00:13:19,512
+stopnie Celsjusza.
+
+176
+00:13:19,512 --> 00:13:22,512
+W ostatnim wyzwaniu matematycznym
+
+177
+00:13:22,512 --> 00:13:24,512
+pojawiły się nazwy państw,
+
+178
+00:13:24,512 --> 00:13:27,512
+które mieszczą się na kontynencie Europa,
+
+179
+00:13:27,512 --> 00:13:30,512
+czyli na tym samym, na którym mieści się Polska,
+
+180
+00:13:30,512 --> 00:13:32,512
+czyli nasz kraj.
+
+181
+00:13:32,512 --> 00:13:35,512
+Popatrzmy, z jakimi krajami
+
+182
+00:13:35,512 --> 00:13:38,512
+sąsiaduje właśnie nasze państwo.
+
+183
+00:13:38,512 --> 00:13:41,512
+Te kraje to Rosja,
+
+184
+00:13:41,512 --> 00:13:44,512
+Litwa, Białoruś,
+
+185
+00:13:44,512 --> 00:13:45,512
+Ukraina.
+
+186
+00:13:45,616 --> 00:13:49,616
+Słowacja, Czechy i Niemcy.
+
+187
+00:13:49,616 --> 00:13:54,616
+Zwróćcie uwagę, że nazwy krajów zapisujemy wielką literą.
+
+188
+00:13:54,616 --> 00:13:56,616
+Są to tak zwane nazwy własne.
+
+189
+00:13:56,616 --> 00:14:00,616
+Tak samo wielką literą zapisujemy określenia narodowości,
+
+190
+00:14:00,616 --> 00:14:02,616
+na przykład Polak lub Polka.
+
+191
+00:14:02,616 --> 00:14:05,616
+Spróbujmy teraz sprawdzić,
+
+192
+00:14:05,616 --> 00:14:10,616
+jak nazywają się osoby mieszkające w poszczególnych krajach europejskich
+
+193
+00:14:10,616 --> 00:14:13,616
+i przyporządkować ich narodowości,
+
+194
+00:14:13,712 --> 00:14:16,712
+do odpowiednich miejsc na mapie.
+
+195
+00:14:16,712 --> 00:14:23,712
+Tom jest Anglikiem, mieszka w Wielkiej Brytanii.
+
+196
+00:14:23,712 --> 00:14:30,712
+Hans jest Niemcem, mieszka w Niemczech.
+
+197
+00:14:30,712 --> 00:14:38,712
+Tamara jest Rosjanką, mieszka w Rosji.
+
+198
+00:14:38,712 --> 00:14:42,496
+Pierre jest Francuzem,
+
+199
+00:14:42,496 --> 00:14:44,496
+mieszka we Francji.
+
+200
+00:14:46,796 --> 00:14:49,796
+Sonia jest Białorusinką,
+
+201
+00:14:50,296 --> 00:14:52,796
+mieszka na Białorusi.
+
+202
+00:14:53,996 --> 00:14:56,296
+Jana jest Czeszką,
+
+203
+00:14:57,196 --> 00:14:59,196
+mieszka w Czechach.
+
+204
+00:15:00,272 --> 00:15:06,272
+Petr jest Słowakiem. Mieszka na Słowacji.
+
+205
+00:15:06,272 --> 00:15:10,272
+A teraz czas na muzykę z panem maestro.
+
+206
+00:15:16,570 --> 00:15:21,570
+Uff, dzień dobry, w zasadzie no to dzień dobry.
+
+207
+00:15:21,570 --> 00:15:25,570
+Kochani, dzisiaj rozmawiamy o egzotycznych zwierzętach,
+
+208
+00:15:25,570 --> 00:15:29,570
+ale ja bym chciał zacząć od czegoś innego.
+
+209
+00:15:29,570 --> 00:15:35,570
+Zobaczcie, żeby w czymś być dobrym, a jesteście w takim wieku,
+
+210
+00:15:35,570 --> 00:15:41,570
+że absolutnie możecie być we wszystkim dobrze, a nawet najlepsi.
+
+211
+00:15:41,570 --> 00:15:45,570
+Czy to w grze na instrumentach muzycznych, czy w odbijaniu piłki.
+
+212
+00:15:45,570 --> 00:15:49,570
+No ale właśnie, żeby być w czymś dobrym, trzeba po prostu ćwiczyć.
+
+213
+00:15:49,570 --> 00:15:51,570
+Dużo ćwiczyć.
+
+214
+00:15:51,570 --> 00:15:57,570
+Kiedy byłem w waszym wieku, miałem dwa takie dorosłe marzenia.
+
+215
+00:15:57,570 --> 00:16:02,570
+Pierwsze, to chciałem być muzykiem, chciałem być piosenkarzem.
+
+216
+00:16:02,570 --> 00:16:06,570
+A drugie, to oczywiście, pewnie jak znaczna część z was,
+
+217
+00:16:06,570 --> 00:16:08,570
+chciałem grać w piłkę.
+
+218
+00:16:08,570 --> 00:16:13,570
+No, jedno tak nie do końca wyszło, aczkolwiek do dzisiaj
+
+219
+00:16:13,570 --> 00:16:16,570
+umiem bardzo dużo razy odbić taką piłką.
+
+220
+00:16:17,504 --> 00:16:22,504
+A drugie, cóż, stało się moją życiową pasją, ale do czego jeszcze chcę wrócić?
+
+221
+00:16:22,504 --> 00:16:24,504
+Pamiętajcie o dwóch rzeczach.
+
+222
+00:16:24,504 --> 00:16:30,504
+Po pierwsze, żeby w czymś być dobrym, musimy dużo ćwiczyć. Naprawdę dużo
+ćwiczyć.
+
+223
+00:16:30,504 --> 00:16:37,504
+A druga rzecz, nie możemy się poddawać. Taka umiejętność przeżywania porażki
+jest czymś bardzo ważnym.
+
+224
+00:16:37,504 --> 00:16:42,504
+Zobaczcie, coś gramy, ćwiczymy, to nie wychodzi, ktoś nam mówi, no, nic nie
+szkodzi.
+
+225
+00:16:42,504 --> 00:16:47,504
+To stało się dzisiaj, jutro jest jutro. Jutro jest nowy dzień i nowe ćwiczenie.
+
+226
+00:16:47,504 --> 00:16:53,504
+Nikt nie lubi ćwiczyć, bo to jest żmudne i trudne. No i tak jest czasami nawet
+nudne to ćwiczenie.
+
+227
+00:16:53,664 --> 00:16:56,064
+Ale bez tego nic nie wychodzi.
+
+228
+00:16:56,064 --> 00:17:01,064
+Pamiętajcie, nie poddajemy się i regularnie ćwiczymy.
+
+229
+00:17:01,064 --> 00:17:03,064
+Wracamy jednak do naszych egzotycznych zwierząt.
+
+230
+00:17:03,064 --> 00:17:07,064
+Wy już pewnie wiecie, jak one wyglądają, jak te też mają odgłosy.
+
+231
+00:17:07,064 --> 00:17:11,064
+Tych zwierząt jest mnóstwo, ale król jest tylko jeden.
+
+232
+00:17:11,064 --> 00:17:17,064
+To oczywiście lew, a każdy lew to przecież kot.
+
+233
+00:17:17,064 --> 00:17:20,064
+Jest taka piosenka, którą wszyscy, myślę, znamy.
+
+234
+00:17:20,064 --> 00:17:22,464
+Dzisiaj nauczymy się jej nie śpiewać,
+
+235
+00:17:22,464 --> 00:17:28,464
+a grać. Oczywiście mam na myśli blaskotek. Zobaczcie. Przejdziemy do klawiatury.
+
+236
+00:17:30,464 --> 00:17:37,464
+Tu mamy rząd czarnych i białych klawiszy. One są tak ładnie poustawione po dwa i
+po trzy, po dwa i po trzy.
+
+237
+00:17:37,464 --> 00:17:45,464
+I zobaczcie, jak już wspominałem kiedyś, ten biały klawisz po lewej stronie tych
+dwóch czarnych, on nazywa się C.
+
+238
+00:17:45,464 --> 00:17:52,784
+To jest takie C środkowe. Kolejne nazwy tych dźwięków to są D, E, G.
+
+239
+00:17:52,784 --> 00:18:00,584
+F i G. I zobaczcie, wystarczy nam tylko pięć dźwięków, żeby w las kotka zagrać.
+
+240
+00:18:00,784 --> 00:18:04,104
+Ja te dźwięki wcześniej napisałem tu na tablicy.
+
+241
+00:18:04,304 --> 00:18:07,584
+Możemy sobie na nie spojrzeć i zobaczcie, one brzmiałoby tak.
+
+242
+00:18:07,784 --> 00:18:21,552
+G, E, E, F, D, D, C, E, G, G, E, E, F, D, D, C, E, C i druga część, C, E, E,
+
+243
+00:18:21,552 --> 00:18:29,952
+F, D, D, C, E, G, C, G, E, E, F, D, D, C, E, C.
+
+244
+00:18:30,152 --> 00:18:33,512
+Zwróćcie uwagę, jak wiele z tych fragmentów się powtarza.
+
+245
+00:18:33,712 --> 00:18:41,792
+Ta część jest dokładnie taka sama jak ta część, a tutaj te fragmenty są wszędzie
+takie same.
+
+246
+00:18:41,992 --> 00:18:48,632
+Jeżeli dźwięki rozpiszemy w taki ciekawy sposób, bardzo często widzimy
+zależności i podobieństwa między nimi.
+
+247
+00:18:48,832 --> 00:18:51,432
+Muzyka ma zazwyczaj ciekawą architekturę.
+
+248
+00:18:51,536 --> 00:18:54,016
+To się wszystko tak ładnie z sobą łączy, no ale zagrajmy to.
+
+249
+00:18:54,216 --> 00:18:56,656
+Zobaczcie, mamy te dźwięki tutaj podpisane na klawiaturze.
+
+250
+00:18:56,856 --> 00:18:59,016
+Zaczynamy zatem od G i mamy tak.
+
+251
+00:18:59,216 --> 00:19:20,896
+G E I C E G G E F D D C E C I część druga C E E F D D C E G G E E F D E
+
+252
+00:19:20,912 --> 00:19:26,192
+D C E C. Oczywiście może być wesoły kotek.
+
+253
+00:19:31,112 --> 00:19:35,512
+Jaki bardzo smutny, przerażający kot.
+
+254
+00:19:48,224 --> 00:19:53,224
+No właśnie, mamy tutaj literki, i tak też zapisaliśmy tego kotka.
+
+255
+00:19:53,424 --> 00:19:57,144
+Ale jak już zaczniemy przy literkach, to coś wam pokażę.
+
+256
+00:19:57,344 --> 00:20:01,744
+Kiedyś nauczyła mnie tego jedna z koleżanek,
+
+257
+00:20:01,944 --> 00:20:04,104
+nauczycielek,
+
+258
+00:20:04,304 --> 00:20:06,704
+takimi literkami,
+
+259
+00:20:07,664 --> 00:20:12,944
+literkami można narysować troszeczkę inne zwierzę, które też występuje
+
+260
+00:20:13,144 --> 00:20:13,784
+w Afryce.
+
+261
+00:20:13,968 --> 00:20:42,718
+Zobaczcie, wystarczy z tej strony narysować takie duże R, z drugiej strony małe
+E, u gór literkę M, a pod spodem dwie literki W, łączymy je w środku, rysujemy O
+i mamy tak, to jest guziec, dokładnie tak, to guziec, są różne odmiany tego
+guźca, ja też wam pokażę jak je zrobić, zobaczcie, możemy zrobić tu kreseczkę,
+tu literkę M, z tyłu małą literkę E, dwie literki W, drugą kreseczkę tutaj,
+
+262
+00:20:42,720 --> 00:20:53,880
+i tu łączymy to, jak widzicie to nic trudnego, a tu narysujemy o takie ładne,
+sympatyczne ząbki, znowu O i to guziec numer dwa.
+
+263
+00:20:53,880 --> 00:21:07,240
+No i na koniec narysujemy jeszcze jednego, taka guźca, tylko troszeczkę
+większego, zobaczcie, znowu literka M, mała literka E, literka W i jeszcze jedna
+W, łączymy to.
+
+264
+00:21:07,240 --> 00:21:12,560
+Tu literkę O, taką lekko spłaszczoną, no i tu rysujemy takie troszeczkę większe
+ząbki.
+
+265
+00:21:13,152 --> 00:21:16,432
+Ja czasem też boję się wsadzić tu rękę.
+
+266
+00:21:17,312 --> 00:21:18,832
+To jest również Guziec.
+
+267
+00:21:19,032 --> 00:21:21,832
+On występuje w Sawannie.
+
+268
+00:21:22,032 --> 00:21:26,112
+Jest taka piosenka, a zresztą przepiękna piosenka
+
+269
+00:21:26,312 --> 00:21:31,952
+z filmu o królu Lwie, gdzie występuje w tej piosence i Guziec,
+
+270
+00:21:32,152 --> 00:21:34,952
+no i Lew i jeszcze Lwica.
+
+271
+00:21:35,152 --> 00:21:40,952
+Pewnie znacie tą piosenkę, bo polski tytuł tego utworu to Miłość Rośnie Wokół
+Nas
+
+272
+00:21:40,952 --> 00:21:41,472
+i właśnie.
+
+273
+00:21:41,680 --> 00:21:49,560
+Tą piosenką zakończymy nasze dzisiejsze spotkanie o egzotycznych zwierzętach.
+
+274
+00:21:49,760 --> 00:21:50,760
+Posłuchajmy.
+
+275
+00:22:02,362 --> 00:22:08,362
+Czuję co się święci, opętał ich zły duch
+
+276
+00:22:08,362 --> 00:22:15,362
+Dam głowę, że w tym naszym trio zostanie tylko dwóch
+
+277
+00:22:15,362 --> 00:22:21,362
+Ta noc z karesą sprzyja, miłosny tknęła czar
+
+278
+00:22:21,362 --> 00:22:31,040
+W tej sytuacji romantycznej, co będzie strach się bać
+
+279
+00:22:31,040 --> 00:22:37,040
+Miłość rośnie wokół nas
+
+280
+00:22:37,040 --> 00:22:42,040
+W spokojną, jasną noc
+
+281
+00:22:42,040 --> 00:22:48,040
+Nareszcie świat zaczyna w zgodzie żyć
+
+282
+00:22:48,040 --> 00:22:53,040
+Magiczną czując moc
+
+283
+00:22:54,592 --> 00:23:00,492
+Jak mam jej wyznać miłość? Jak wytłumaczyć mam?
+
+284
+00:23:00,492 --> 00:23:06,492
+Kim jestem? Co się stało? Nie wiem, co robić, nie wiem, sam
+
+285
+00:23:06,492 --> 00:23:12,492
+Jest tak zamknięty w sobie, lecz nie uwierzę, że
+
+286
+00:23:12,492 --> 00:23:20,492
+Nie będzie królem, skoro ma królewski ton i gest
+
+287
+00:23:20,492 --> 00:23:25,248
+Miłość rośnie wokół nas
+
+288
+00:23:25,248 --> 00:23:41,248
+nas w spokojną jasną noc nareszcie świat zaczyna w zgodzie żyć magiczną czując
+moc
+
+289
+00:23:43,248 --> 00:23:53,248
+miłość rośnie wokół nas jej zapach jest tuż tuż
+
+290
+00:23:53,952 --> 00:24:03,952
+kochać to, pokonać troski swe, przetrwać pośród burz
+
+291
+00:24:04,952 --> 00:24:10,952
+jeżeli on zakocha się
+
+292
+00:24:11,952 --> 00:24:18,952
+nasze sielskie dni odchodzą w dal
+
+293
+00:24:19,952 --> 00:24:22,952
+i nie ma rady
+
+294
+00:24:23,024 --> 00:24:31,744
+Już po nim czas na łzy
+
+295
+00:24:35,866 --> 00:24:41,866
+Było mi szalenie miło i do zobaczenia następnym razem.
+
+296
+00:24:45,866 --> 00:24:49,866
+Dziękuję wam za udział w dzisiejszej podróży i do zobaczenia na kolejnych
+lekcjach.
+

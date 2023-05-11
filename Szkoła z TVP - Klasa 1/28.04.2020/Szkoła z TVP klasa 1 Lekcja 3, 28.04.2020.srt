@@ -1,0 +1,1232 @@
+1
+00:00:00,000 --> 00:00:03,000
+Napisy stworzone przez społeczność Amara.org
+
+2
+00:00:06,618 --> 00:00:13,118
+Witajcie, po przerwie przypomnę, że dzisiaj rozmawiamy o wynalazkach, a jednym z
+nich jest termometr.
+
+3
+00:00:13,118 --> 00:00:16,118
+Mam tutaj kilka rodzajów termometrów.
+
+4
+00:00:16,118 --> 00:00:19,618
+Dzisiaj głównie stosuje się termometry elektroniczne.
+
+5
+00:00:19,618 --> 00:00:25,618
+Mam tutaj też taki ciekawy termometr, który nazywany jest termometrem
+Galileusza.
+
+6
+00:00:25,618 --> 00:00:28,118
+Temperaturę z niego można odczytać.
+
+7
+00:00:28,288 --> 00:00:34,688
+Patrząc na banieczki z kolorowymi płynami, w zależności od temperatury, one
+unoszą się lub opadają.
+
+8
+00:00:34,688 --> 00:00:42,928
+Popularne w Waszych domach są pewnie termometry z alkoholem albo termometry
+rtęciowe, coraz rzadziej już używane,
+
+9
+00:00:42,928 --> 00:00:48,128
+ze względu na to, że rtęć jest toksyczna i gdyby zbił się taki termometr,
+
+10
+00:00:48,128 --> 00:00:52,928
+to niestety moglibyście być narażeni na wdychanie takich niezbyt bezpiecznych
+oparów.
+
+11
+00:00:52,928 --> 00:00:56,928
+Spróbujemy teraz zmierzyć temperaturę wody w misce.
+
+12
+00:00:57,008 --> 00:01:00,008
+Zwykłym termometrem cyfrowym.
+
+13
+00:01:01,008 --> 00:01:09,008
+Temperatura już rośnie, mamy ponad 20 parę stopni, już jest 31, o 39,8.
+
+14
+00:01:09,008 --> 00:01:13,008
+Ok, sprawdzimy teraz jak zadziała nasz drugi termometr.
+
+15
+00:01:13,008 --> 00:01:15,008
+Wygląda nieco inaczej.
+
+16
+00:01:19,130 --> 00:01:23,130
+Tutaj temperatura jest mierzona bardzo, bardzo szybko.
+
+17
+00:01:23,130 --> 00:01:30,130
+No to teraz czas na próbę odczytania temperatury na takich termometrach,
+
+18
+00:01:30,130 --> 00:01:33,130
+które często macie za swoimi oknami.
+
+19
+00:01:33,130 --> 00:01:38,130
+Popatrzcie na ekran. Temperaturę mierzymy w stopniach Celsjusza.
+
+20
+00:01:38,130 --> 00:01:42,130
+I na pierwszym termometrze zobaczcie jaką mamy temperaturę.
+
+21
+00:01:42,130 --> 00:01:45,130
+Tutaj po prawej stronie jest taka podziałka,
+
+22
+00:01:45,130 --> 00:01:48,144
+na której widzimy, że każdy szczebelek
+
+23
+00:01:48,144 --> 00:01:49,984
+To jest jeden stopień.
+
+24
+00:01:49,984 --> 00:01:53,264
+Policzmy teraz, o ile szczebelków urosła temperatura.
+
+25
+00:01:53,264 --> 00:01:58,664
+Zero, jeden, dwa, trzy, cztery i pięć.
+
+26
+00:01:58,664 --> 00:02:01,264
+Mamy tutaj pięć stopni Celsjusza.
+
+27
+00:02:01,264 --> 00:02:07,904
+A na drugim termometrze, zobaczcie, poziom temperatury równy jest z dwudziestym
+szczebelkiem.
+
+28
+00:02:07,904 --> 00:02:10,824
+Dlatego mamy dwadzieścia stopni na drugim.
+
+29
+00:02:10,824 --> 00:02:12,744
+I na trzecim.
+
+30
+00:02:12,744 --> 00:02:16,744
+Tutaj szczebelek nie jest podpisany, ale możemy sprawdzić.
+
+31
+00:02:16,816 --> 00:02:23,816
+Dziesięć jest w tym miejscu, potem jedenaście, dwanaście, trzynaście,
+czternaście
+
+32
+00:02:23,816 --> 00:02:27,816
+i kolejna większa kreska, piętnaście stopni.
+
+33
+00:02:28,816 --> 00:02:34,816
+Spróbujcie teraz odczytać razem ze mną temperaturę na termometrach poniżej.
+
+34
+00:02:34,816 --> 00:02:40,816
+Słupek sięga tutaj szczebelka dziesiątego, czyli jest 10 stopni.
+
+35
+00:02:40,816 --> 00:02:42,816
+Na drugim termometrze
+
+36
+00:02:44,314 --> 00:02:56,314
+Tu było 5. Pamiętacie? Większy szczebelek to jest 5. Ale jest o 1 wyżej. Ile to
+stopni? 6 stopni Celsjusza.
+
+37
+00:02:56,314 --> 00:03:05,314
+Zobaczmy na następny termometr. Tutaj było 10. Kolejny większy szczebelek to
+dodajemy kolejne 5 stopni.
+
+38
+00:03:05,314 --> 00:03:11,168
+Zatem tu jest 15. Jedziemy jeszcze w górę. 16, 17.
+
+39
+00:03:11,168 --> 00:03:14,768
+Na następnym termometrze jest 17 stopni.
+
+40
+00:03:14,768 --> 00:03:17,968
+Zobaczmy na kolejny, czwarty termometr.
+
+41
+00:03:17,968 --> 00:03:22,368
+Słupek naszej temperatury sięga równo szczebelka 20.
+
+42
+00:03:22,368 --> 00:03:26,268
+Zatem jest tu 20 stopni.
+
+43
+00:03:26,268 --> 00:03:29,368
+Kolejny termometr.
+
+44
+00:03:29,368 --> 00:03:34,468
+Zobaczcie, powyżej 10 stopni, ale trochę mniej niż 15.
+
+45
+00:03:34,468 --> 00:03:39,456
+Policzmy zatem 11, 12, 13.
+
+46
+00:03:39,456 --> 00:03:43,296
+Na tym termometrze mamy 13 stopni.
+
+47
+00:03:43,296 --> 00:03:48,336
+W takim razie może spróbujemy teraz rozwiązać zadanie matematyczne
+
+48
+00:03:48,336 --> 00:03:50,896
+z użyciem termometrów właśnie.
+
+49
+00:03:50,896 --> 00:03:52,576
+Przejdźmy do zadania.
+
+50
+00:03:52,576 --> 00:03:58,416
+Zaznacz na termometrze podaną temperaturę lub zapisz tę, którą wskazuje
+termometr.
+
+51
+00:03:58,416 --> 00:04:04,256
+Porównaj, który termometr wskazuje wyższą lub niższą temperaturę.
+
+52
+00:04:04,256 --> 00:04:09,216
+Wstaw odpowiedni znak, pamiętacie, większości albo mniejszości.
+
+53
+00:04:09,328 --> 00:04:11,568
+Na pierwszym termometrze
+
+54
+00:04:11,568 --> 00:04:18,408
+słupek rtęci albo alkoholu sięgną 10 stopni, zatem zapisujemy 10.
+
+55
+00:04:18,408 --> 00:04:21,128
+Ten znak tutaj oznacza stopnie
+
+56
+00:04:21,128 --> 00:04:24,688
+i literka C to skrót od Celsjusza.
+
+57
+00:04:24,688 --> 00:04:28,368
+Drugi termometr to 18 stopni.
+
+58
+00:04:28,368 --> 00:04:32,448
+I teraz porównujemy, która temperatura jest większa,
+
+59
+00:04:32,448 --> 00:04:35,248
+czyli który słupek jest wyżej.
+
+60
+00:04:35,248 --> 00:04:38,128
+18 stopni czy 10?
+
+61
+00:04:38,176 --> 00:04:45,376
+Nie bez powodu, więc nasz krokodyl otworzy paszczę na 18, ponieważ jest to
+wyższa temperatura.
+
+62
+00:04:45,376 --> 00:04:49,776
+Przejdźmy teraz do kolejnego przykładu, który spróbujemy zrobić samodzielnie.
+
+63
+00:04:49,776 --> 00:04:55,776
+Na pierwszym termometrze słupek rtęci sięga ponad 10 stopni.
+
+64
+00:04:55,776 --> 00:04:57,376
+Policzmy szczebelki.
+
+65
+00:04:57,376 --> 00:05:00,976
+11, 12, 13.
+
+66
+00:05:00,976 --> 00:05:06,176
+W takim razie na pierwszym termometrze jest 13 stopni Celsjusza.
+
+67
+00:05:06,256 --> 00:05:14,756
+Drugi termometr natomiast ma mieć cztery stopnie, jak wysoko narysowalibyście
+słupę krtęci.
+
+68
+00:05:14,756 --> 00:05:22,256
+Zobaczmy, tutaj mamy 0 stopni, więc musimy przejść po kolei po coraz wyższych
+szczebelkach.
+
+69
+00:05:22,256 --> 00:05:26,756
+Jeden, dwa, trzy i cztery.
+
+70
+00:05:26,756 --> 00:05:31,756
+Gdzieś mniej więcej dodąd byśmy to narysowali, w takim razie porównajmy sobie
+teraz.
+
+71
+00:05:31,756 --> 00:05:34,928
+Trzynaście stopni oraz...
+
+72
+00:05:34,928 --> 00:05:39,728
+Cztery stopnie. W którą stronę tym razem odwróci się nasz krokodyl?
+
+73
+00:05:40,728 --> 00:05:46,928
+Oczywiście w kierunku trzynastki, czyli nasz znak powinien wyglądać w ten
+sposób.
+
+74
+00:05:46,928 --> 00:05:49,328
+Spróbujmy zrobić jeszcze jeden przykład.
+
+75
+00:05:49,328 --> 00:05:52,328
+Mam nadzieję, że już teraz będzie Wam coraz łatwiej szło.
+
+76
+00:05:53,128 --> 00:05:54,728
+Popatrzmy na tablicę.
+
+77
+00:05:57,728 --> 00:06:02,928
+Tutaj nasz supek dosięgnął piętnastego szczebelka.
+
+78
+00:06:03,248 --> 00:06:08,248
+W takim razie na lewym termometrze mamy piętnaście stopni Celsjusza.
+
+79
+00:06:08,248 --> 00:06:13,248
+Na prawym zaś musimy zaznaczyć siedem.
+
+80
+00:06:13,248 --> 00:06:19,248
+Popatrzcie, mamy zero, liczymy sobie siedem szczebelków, bo mamy siedem stopni.
+
+81
+00:06:19,248 --> 00:06:26,248
+Jeden, dwa, trzy, cztery, pięć, sześć i siedem.
+
+82
+00:06:26,248 --> 00:06:29,056
+Dziś mniej więcej do tego miejsca.
+
+83
+00:06:29,056 --> 00:06:32,056
+Dojechałaby nasza rtęć albo alkohol.
+
+84
+00:06:32,056 --> 00:06:37,056
+Na lewym termometrze mieliśmy 15 stopni Celsjusza,
+
+85
+00:06:39,056 --> 00:06:42,056
+a na prawym 7 stopni Celsjusza.
+
+86
+00:06:43,056 --> 00:06:46,056
+Która temperatura jest wyższa?
+
+87
+00:06:46,056 --> 00:06:51,056
+Czyli w którą stronę skieruje się nasz krokodyl z otwartą paszczą?
+
+88
+00:06:51,056 --> 00:06:58,056
+Znak większości skierujemy w stronę piętnastki, ponieważ jest to wyższa
+temperatura.
+
+89
+00:06:58,864 --> 00:07:05,864
+Teraz czas na kolejne zadanie. W dzień termometry wskazywały następującą
+temperaturę.
+
+90
+00:07:05,864 --> 00:07:15,864
+O godzinie siódmej słupek rtęci sięgał dziesiątego szczebelka, zatem było 10
+stopni Celsjusza.
+
+91
+00:07:15,864 --> 00:07:27,864
+O godzinie dwunastej zaś mieliśmy 20 stopni Celsjusza, natomiast o godzinie
+osiemnastej mieliśmy 15 stopni.
+
+92
+00:07:28,304 --> 00:07:37,904
+Pytanie pierwsze. O ile stopni wzrosła temperatura między godziną siódmą, a
+dwunastą?
+
+93
+00:07:37,904 --> 00:07:44,904
+O godzinie siódmej mieliśmy 10 stopni, natomiast o godzinie dwunastej 20.
+
+94
+00:07:44,904 --> 00:07:54,104
+Innymi słowy, ile dodamy do dziesięciu, żeby osiągnąć 20 stopni?
+
+95
+00:07:54,104 --> 00:07:58,104
+Spróbuję to zapisać na tablicy.
+
+96
+00:07:58,104 --> 00:07:59,866
+Dzięki za uwagę.
+
+97
+00:07:59,866 --> 00:08:03,866
+Rano było 10 stopni.
+
+98
+00:08:05,866 --> 00:08:10,866
+Natomiast w dalszej części dnia temperatura wzrosła.
+
+99
+00:08:10,866 --> 00:08:13,866
+Natomiast o ile to za chwilę sobie powiemy?
+
+100
+00:08:13,866 --> 00:08:19,866
+Tak, że później wynosiła 20 stopni Celsjusza.
+
+101
+00:08:19,866 --> 00:08:24,866
+Jak sądzicie, ile trzeba dodać do 10, żeby wyszło 20?
+
+102
+00:08:24,866 --> 00:08:28,866
+Myślę, że słusznie domyślacie się, że chodzi o...
+
+103
+00:08:29,248 --> 00:08:36,048
+Dziesięć, czyli temperatura wzrosła o 10 stopni Celsjusza.
+
+104
+00:08:36,048 --> 00:08:39,548
+Spróbujmy odpowiedzieć na drugie pytanie.
+
+105
+00:08:39,548 --> 00:08:46,848
+O ile stopni zmalała temperatura między godziną 12 a 18?
+
+106
+00:08:46,848 --> 00:08:50,348
+Zazwyczaj wieczorem jest trochę chłodniej,
+
+107
+00:08:50,348 --> 00:08:55,248
+a więc jeśli o godzinie 12 było 20 stopni Celsjusza,
+
+108
+00:08:55,248 --> 00:08:58,512
+to o ile zmalała, czyli ile odejmiemy?
+
+109
+00:08:58,512 --> 00:09:06,512
+O ile zmalała temperatura tak, że wieczorem o godzinie osiemnastej było już
+tylko piętnaście stopni?
+
+110
+00:09:10,512 --> 00:09:17,512
+Czy domyślacie się już, ile należy odjąć od dwudziestu, żeby zostało piętnaście
+stopni?
+
+111
+00:09:19,512 --> 00:09:27,512
+Innymi słowy, jaka jest różnica między dwudziestoma a piętnastoma stopniami?
+
+112
+00:09:28,352 --> 00:09:33,352
+Ta różnica wynosi pięć stopni Celsjusza.
+
+113
+00:09:36,352 --> 00:09:39,352
+Ok, spróbujemy odpowiedzieć teraz na kolejne pytanie.
+
+114
+00:09:39,352 --> 00:09:46,352
+Jaka była różnica temperatury między godziną siódmą a osiemnastą?
+
+115
+00:09:46,352 --> 00:09:49,352
+Czyli jaka była różnica temperatury rano i wieczorem?
+
+116
+00:09:49,352 --> 00:09:55,352
+Przypomnijmy sobie, rano było 10 stopni, natomiast wieczorem 15.
+
+117
+00:09:55,352 --> 00:09:57,352
+Różnica?
+
+118
+00:09:57,680 --> 00:10:01,440
+Powinna wam się kojarzyć z odejmowaniem.
+
+119
+00:10:01,440 --> 00:10:05,160
+Dlatego teraz odejmiemy sobie od tej większej temperatury,
+
+120
+00:10:05,160 --> 00:10:09,320
+wyższej odejmiemy mniejszą, niższą.
+
+121
+00:10:09,320 --> 00:10:12,720
+Czyli 15 stopni Celsjusza,
+
+122
+00:10:14,240 --> 00:10:15,840
+bo tyle było wieczorem,
+
+123
+00:10:16,840 --> 00:10:19,840
+odjąć 10 stopni Celsjusza,
+
+124
+00:10:19,840 --> 00:10:22,600
+bo taka temperatura była rano.
+
+125
+00:10:22,600 --> 00:10:27,600
+15 odjąć 10 to...
+
+126
+00:10:27,808 --> 00:10:31,808
+5 stopni Celsjusza.
+
+127
+00:10:33,808 --> 00:10:36,808
+Przejdźmy teraz do następnego wyzwania matematycznego
+
+128
+00:10:36,808 --> 00:10:40,808
+związanego z termometrami i temperaturą.
+
+129
+00:10:42,808 --> 00:10:47,808
+Przeczytaj temperaturę powietrza dla poszczególnych miast.
+
+130
+00:10:47,808 --> 00:10:49,808
+I odpowiedz na pytania.
+
+131
+00:10:49,808 --> 00:10:55,808
+Zobaczcie kochani, pewnie zdarza wam się oglądać z rodzicami prognozę pogody.
+
+132
+00:10:56,080 --> 00:11:02,080
+To jest mapa Polski, czyli mapa naszego kraju, na której zaznaczone są większe
+miasta
+
+133
+00:11:02,080 --> 00:11:06,080
+oraz temperatura, jaka w tych miastach obecnie jest.
+
+134
+00:11:06,080 --> 00:11:09,080
+Pytanie pierwsze brzmi następująco.
+
+135
+00:11:09,080 --> 00:11:12,080
+Jaka temperatura jest w Warszawie?
+
+136
+00:11:12,080 --> 00:11:17,080
+Czy uda wam się znaleźć Warszawę na mapie?
+
+137
+00:11:17,080 --> 00:11:23,008
+Zobaczcie, tutaj jest stolica naszego kraju, Warszawa, a nad nią?
+
+138
+00:11:23,008 --> 00:11:34,008
+18 stopni Celsjusza, czyli w Warszawie jest 18 stopni. Pytanie drugie, w którym
+mieście temperatura jest najniższa?
+
+139
+00:11:34,008 --> 00:11:40,008
+Popatrzmy więc teraz na całą mapę i na temperatury, jakie tutaj mamy zaznaczone.
+
+140
+00:11:40,008 --> 00:11:49,008
+W Szczecinie na przykład jest 20 stopni Celsjusza, w Gdańsku 25, w Suwałkach 22,
+
+141
+00:11:49,008 --> 00:11:51,008
+w Warszawie 18 stopni.
+
+142
+00:11:51,056 --> 00:11:56,616
+w Poznaniu 16 stopni Celsjusza, oto jak do tej pory chyba najniższa temperatura,
+
+143
+00:11:56,616 --> 00:12:05,056
+w Lublinie 15 stopni, we Wrocławiu także 15 stopni i w Krakowie 12 stopni.
+
+144
+00:12:05,056 --> 00:12:08,856
+Czy już widzicie, która temperatura jest najniższa?
+
+145
+00:12:08,856 --> 00:12:14,256
+Wygląda na to, że na południu Polski tym razem jest najzimniej.
+
+146
+00:12:14,256 --> 00:12:17,256
+W Krakowie jest najniższa temperatura.
+
+147
+00:12:17,256 --> 00:12:19,756
+Przejdźmy do następnego pytania.
+
+148
+00:12:19,808 --> 00:12:24,308
+W którym mieście temperatura jest najwyższa?
+
+149
+00:12:24,308 --> 00:12:27,808
+Zobaczmy więc teraz gdzie jest najcieplej.
+
+150
+00:12:27,808 --> 00:12:34,308
+Myślę, że widać już, że najwyższa temperatura na mapie zaznaczona jest w
+Gdańsku.
+
+151
+00:12:34,308 --> 00:12:38,308
+To jest 25 stopni Celsjusza.
+
+152
+00:12:38,308 --> 00:12:43,808
+Pytanie następne. W których miastach temperatura jest taka sama?
+
+153
+00:12:43,808 --> 00:12:49,308
+Czy zauważyliście, że na mapie obok dwóch miast widnieje taka sama temperatura?
+
+154
+00:12:49,312 --> 00:12:55,312
+To 15 stopni we Wrocławiu oraz w Lublinie.
+
+155
+00:12:55,312 --> 00:12:58,312
+I ostatnie pytanie do tej mapy.
+
+156
+00:12:58,312 --> 00:13:00,312
+O co możesz jeszcze zapytać?
+
+157
+00:13:00,312 --> 00:13:03,312
+Ciekawa jestem jakie byłyby wasze pytania.
+
+158
+00:13:03,312 --> 00:13:09,312
+O co jeszcze moglibyście zapytać patrząc na taką mapę pogody i na temperatury?
+
+159
+00:13:09,312 --> 00:13:12,312
+Ja mam teraz dla was jeszcze krótki quiz.
+
+160
+00:13:12,312 --> 00:13:15,312
+Przejdźmy do kolejnego zadania.
+
+161
+00:13:15,312 --> 00:13:18,312
+Chciałabym, żebyście spróbowali odpowiedzieć
+
+162
+00:13:18,312 --> 00:13:18,384
+na te pytania.
+
+163
+00:13:18,384 --> 00:13:24,384
+Czy zdania, które wam teraz przeczytam, są prawdziwe czy fałszywe?
+
+164
+00:13:25,384 --> 00:13:33,384
+Popatrzcie uważnie na mapę zanim zaczniemy i przyjrzyjcie się temperaturą obok
+poszczególnych miast.
+
+165
+00:13:34,384 --> 00:13:41,384
+Zdanie pierwsze. W Szczecinie jest o 5 stopni Celsjusza mniej niż w Warszawie.
+
+166
+00:13:42,384 --> 00:13:47,384
+Porównajmy sobie teraz temperaturę w Szczecinie do temperatury w Warszawie.
+
+167
+00:13:47,504 --> 00:13:54,004
+W Szczecinie mamy 13 stopni Celsjusza, natomiast w Warszawie 18.
+
+168
+00:13:54,004 --> 00:13:58,504
+Sprawdźmy teraz, czy ta różnica faktycznie wynosi 5 stopni.
+
+169
+00:13:58,504 --> 00:14:02,504
+Jeśli w Warszawie jest 18 stopni Celsjusza,
+
+170
+00:14:04,504 --> 00:14:10,504
+natomiast w Szczecinie 13, to sprawdźmy jaka jest różnica
+
+171
+00:14:10,504 --> 00:14:17,004
+między tymi temperaturami, czyli odejmijmy od 18 stopni 13.
+
+172
+00:14:17,504 --> 00:14:17,552
+Sprawdźmy teraz, czy ta różnica faktycznie wynosi 5 stopni.
+
+173
+00:14:17,552 --> 00:14:30,272
+Okazuje się, że faktycznie 18 odjąć 13 to 5, zatem różnica temperatur między
+tymi dwoma miastami wynosi 5 stopni Celsjusza.
+
+174
+00:14:30,272 --> 00:14:33,272
+Posłuchajcie kolejnego zdania.
+
+175
+00:14:33,272 --> 00:14:39,512
+W Gdańsku jest o 4 stopnie więcej niż w Szczecinie.
+
+176
+00:14:39,512 --> 00:14:46,208
+W Gdańsku mamy 17 stopni Celsjusza, natomiast w Szczecinie 13.
+
+177
+00:14:46,208 --> 00:14:52,208
+Sprawdźmy, czy różnica temperatur między tymi dwoma miastami wynosi 4 stopnie.
+
+178
+00:14:52,208 --> 00:15:04,208
+17 stopni Celsjusza. Odjąć 13, bo tyle jest w Szczecinie, równa się 4 stopnie
+Celsjusza.
+
+179
+00:15:04,208 --> 00:15:10,208
+Czyli to zdanie jest prawdziwe. Posłuchajcie następnego.
+
+180
+00:15:10,208 --> 00:15:16,208
+W Poznaniu jest o 6 stopni Celsjusza więcej niż w Szczecinie.
+
+181
+00:15:16,400 --> 00:15:22,400
+A ile stopni jest w Poznaniu? Popatrzcie. Poznań jest na zachodzie.
+
+182
+00:15:22,400 --> 00:15:30,400
+W Poznaniu jest 19 stopni Celsjusza. Porównajmy to z temperaturą w Szczecinie.
+
+183
+00:15:30,400 --> 00:15:38,400
+Sprawdźmy, jaka jest różnica. 19 stopni Celsjusza. Odjąć 13 stopni Celsjusza.
+
+184
+00:15:38,400 --> 00:15:45,400
+Równa się 6 stopni Celsjusza.
+
+185
+00:15:45,914 --> 00:15:49,914
+Zdanie również jest prawdziwe.
+
+186
+00:15:49,914 --> 00:15:51,914
+Posłuchajcie następnego.
+
+187
+00:15:51,914 --> 00:15:58,914
+W Łodzi jest o 3 stopnie Celsjusza mniej niż w Warszawie.
+
+188
+00:15:58,914 --> 00:16:02,914
+Sprawdźmy temperaturę w Łodzi.
+
+189
+00:16:02,914 --> 00:16:08,914
+W Łodzi mamy 15 stopni Celsjusza, natomiast w Warszawie 18.
+
+190
+00:16:08,914 --> 00:16:11,914
+Spróbujmy tym razem policzyć to w pamięci.
+
+191
+00:16:12,448 --> 00:16:16,448
+Żeby szybko obliczyć różnicę między dwoma temperaturami,
+
+192
+00:16:16,448 --> 00:16:19,448
+bez pisania tego na kartce czy na tablicy,
+
+193
+00:16:19,448 --> 00:16:24,448
+możemy sobie wyobrazić, że zaczynamy nasze liczenie od 15 stopni Celsjusza.
+
+194
+00:16:24,448 --> 00:16:28,448
+Spróbujmy dodać do tego 3 i zobaczmy, czy wyjdzie nam 18.
+
+195
+00:16:28,448 --> 00:16:32,448
+A więc razem mamy 15 stopni w Łodzi.
+
+196
+00:16:32,448 --> 00:16:37,448
+16, 17, 18.
+
+197
+00:16:37,448 --> 00:16:41,448
+Faktycznie wyszła różnica 3 stopni Celsjusza.
+
+198
+00:16:41,616 --> 00:16:44,116
+Sprawdźmy następne zdanie.
+
+199
+00:16:44,616 --> 00:16:50,116
+W białym stoku jest o 7 stopni Celsjusza mniej niż w Łodzi.
+
+200
+00:16:50,616 --> 00:16:56,116
+Biały stok, tutaj widnieje temperatura 8 stopni Celsjusza.
+
+201
+00:16:56,616 --> 00:17:00,116
+W Łodzi zaś jest 15 stopni.
+
+202
+00:17:00,616 --> 00:17:08,116
+Spróbujmy razem sprawdzić, czy różnica między 8 stopniami a 15 wynosi 7.
+
+203
+00:17:08,608 --> 00:17:12,108
+A więc zaczynamy od 8 stopni w białym stoku.
+
+204
+00:17:13,108 --> 00:17:21,608
+9, 10, 11, 12, 13, 14, 15.
+
+205
+00:17:21,608 --> 00:17:24,608
+Mi wyszło 7 stopni.
+
+206
+00:17:24,608 --> 00:17:28,608
+I ostatnie zdanie. Sprawdźmy, czy jest również prawdziwe.
+
+207
+00:17:28,608 --> 00:17:32,108
+We Wrocławiu jest o 5 stopni więcej niż w Krakowie.
+
+208
+00:17:32,108 --> 00:17:36,108
+Zobaczmy. Wrocław jest na południowym zachodzie.
+
+209
+00:17:36,640 --> 00:17:42,240
+Trzynaście stopni mamy we Wrocławiu, natomiast w Krakowie jest dziewięć stopni.
+
+210
+00:17:42,240 --> 00:17:50,440
+Sprawdźmy sobie znowu tym samym sposobem, czy różnica między temperaturą we
+Wrocławiu a w Krakowie faktycznie wynosi pięć stopni Celsjusza.
+
+211
+00:17:50,440 --> 00:17:59,040
+A więc zaczynamy dziewięć stopni, dziesięć, jedenaście, dwanaście, trzynaście.
+
+212
+00:17:59,040 --> 00:18:02,960
+Ups, to ostatnie zdanie, nie jest prawdziwe.
+
+213
+00:18:02,960 --> 00:18:09,160
+Ponieważ różnica między tymi temperaturami wynosi 4, a nie 5 stopni Celsjusza.
+
+214
+00:18:09,160 --> 00:18:15,360
+Kochani, byliście bardzo dzielni, wytrwaliście razem ze mną przy obliczaniu
+temperatur.
+
+215
+00:18:15,360 --> 00:18:20,960
+Mam nadzieję, że teraz już termometr i odczytywanie temperatury nie będą dla Was
+problemem.
+
+216
+00:18:20,960 --> 00:18:27,960
+Liczę na to, że spróbujecie wymyślić własnego robota i będziecie mieli pomysły
+na własne wynalazki.
+
+217
+00:18:27,960 --> 00:18:30,960
+A teraz zapraszam Was na chwilę tańca z Panem Wiercipiętą.
+
+218
+00:18:31,184 --> 00:18:34,184
+Ja się już z Wami żegnam na dzisiaj. Do zobaczenia.
+
+219
+00:18:37,184 --> 00:18:41,184
+Cześć dzieciaki. Pamiętacie mnie? Jestem Wiercipięta.
+
+220
+00:18:42,184 --> 00:18:47,184
+Rekordzista w obrotach i jedyny wykonawca tańca brzucha wisząc głową w dół nad
+szepaku.
+
+221
+00:18:48,184 --> 00:18:51,184
+Wynalazki to fascynujący temat.
+
+222
+00:18:52,184 --> 00:19:00,184
+Samochody, komputery, żarówka, patyczki do lodów, dmuchane jednorożce do
+pływania po jeziorze.
+
+223
+00:19:00,656 --> 00:19:19,656
+Ale moimi ulubionymi wynalazkami są roboty, a jak wiecie, roboty się zacinają i
+np. jeśli taki robot chce umyć zęby, to przez te właśnie urywane ruchy
+rozklapuje całą pastę po łazience.
+
+224
+00:19:20,656 --> 00:19:25,656
+A my właśnie ten ruch będziemy wykorzystywać do dzisiejszego tańca, właśnie do
+tańca robota.
+
+225
+00:19:25,656 --> 00:19:28,656
+Od razu się ustawiamy przed telewizorem.
+
+226
+00:19:28,704 --> 00:19:30,704
+Upewnijcie się, że macie trochę miejsca.
+
+227
+00:19:30,704 --> 00:19:32,704
+Nogi rozstawiamy szeroko.
+
+228
+00:19:32,704 --> 00:19:35,704
+W pierwszej figurze robot będzie migał lampkami.
+
+229
+00:19:35,704 --> 00:19:37,704
+Zaczynamy.
+
+230
+00:19:37,704 --> 00:19:40,704
+Raz, dwa, trzy, cztery.
+
+231
+00:19:40,704 --> 00:19:42,704
+W drugą stronę.
+
+232
+00:19:42,704 --> 00:19:45,704
+Raz, dwa, trzy, cztery.
+
+233
+00:19:45,704 --> 00:19:47,704
+Widzieliście?
+
+234
+00:19:47,704 --> 00:19:50,704
+Pamiętajcie o tym zacinającym się ruchu.
+
+235
+00:19:50,704 --> 00:19:54,704
+Żeby to nie było zwykłe przesuwanie rękami wysoko nad głową,
+
+236
+00:19:54,704 --> 00:19:57,704
+tylko taki efekt.
+
+237
+00:19:58,384 --> 00:19:59,984
+migających lampek.
+
+238
+00:19:59,984 --> 00:20:00,984
+OK.
+
+239
+00:20:00,984 --> 00:20:02,984
+Dalej w ten sam sposób.
+
+240
+00:20:02,984 --> 00:20:04,984
+Głowa przesuwa się do boku.
+
+241
+00:20:04,984 --> 00:20:08,384
+Raz, dwa, trzy, cztery.
+
+242
+00:20:08,384 --> 00:20:09,584
+A w drugą stronę.
+
+243
+00:20:09,584 --> 00:20:12,784
+Raz, dwa, trzy, cztery.
+
+244
+00:20:12,784 --> 00:20:13,984
+Hop, wraca na środek.
+
+245
+00:20:13,984 --> 00:20:14,784
+Idealnie.
+
+246
+00:20:14,784 --> 00:20:16,584
+Dalej łokieć do góry.
+
+247
+00:20:16,584 --> 00:20:20,184
+Raz, dwa, trzy, cztery.
+
+248
+00:20:20,184 --> 00:20:23,384
+Kiedy dłoń jest w dole, a łokieć w górze,
+
+249
+00:20:23,384 --> 00:20:25,584
+uderzamy w dłoń i robimy kręciałka.
+
+250
+00:20:25,584 --> 00:20:26,584
+Pu!
+
+251
+00:20:27,088 --> 00:20:30,088
+Uważajcie tylko, żeby nie dostać w bańkę.
+
+252
+00:20:32,088 --> 00:20:39,088
+Dobra, łokieć opada, ramiona do góry i robot idzie w tamtą stronę do czterech.
+
+253
+00:20:39,088 --> 00:20:47,088
+Raz, dwa, trzy, cztery. Wraca tyłem. Raz, dwa, trzy, cztery.
+
+254
+00:20:47,088 --> 00:20:50,088
+I odwracamy się z powrotem do mnie. Dobra.
+
+255
+00:20:50,576 --> 00:20:55,576
+Myślę, że możemy spróbować jeszcze raz od początku, jeszcze bez muzyki, ale
+trochę szybciej.
+
+256
+00:20:55,576 --> 00:21:01,576
+Później nauczymy się kolejnej części. Od początku. I raz, dwa, trzy, cztery.
+
+257
+00:21:01,576 --> 00:21:10,576
+W drugą. Raz, dwa, trzy. Głowa. Raz, dwa, trzy, cztery. Raz, dwa, łokieć do
+góry.
+
+258
+00:21:10,576 --> 00:21:18,576
+Raz, dwa, trzy. Kręciołek. Hop, kręcę i na końcu ręka sobie dynda jakby
+naprawdę.
+
+259
+00:21:18,960 --> 00:21:26,860
+Była to ręka robota. W dół, ramiona, robot idzie do czterech, idę, idę, idę,
+idę, wracam.
+
+260
+00:21:26,860 --> 00:21:32,760
+Raz, dwa, trzy, cztery, przodem do telewizora i uczymy się kolejnej części.
+
+261
+00:21:32,760 --> 00:21:47,960
+Ręce bardzo mocne i śmigają sobie do góry. Góra, potem dół, dalej, dosię, odsię,
+dosię, połkosię, połkosię,
+
+262
+00:21:48,336 --> 00:21:52,336
+głowa, brzuch, w nosie.
+
+263
+00:21:52,336 --> 00:21:55,336
+Ok, ostatnia część, ukłon robota.
+
+264
+00:21:55,336 --> 00:21:58,336
+Ręka do brzucha w czterech ruchach.
+
+265
+00:21:58,336 --> 00:22:01,336
+Raz, dwa, trzy, cztery.
+
+266
+00:22:01,336 --> 00:22:02,336
+Robot się kłania.
+
+267
+00:22:02,336 --> 00:22:05,336
+Raz, dwa, trzy, cztery.
+
+268
+00:22:05,336 --> 00:22:09,336
+Awaria, zepsute ręce.
+
+269
+00:22:09,336 --> 00:22:14,336
+O nie, awaria, zepsute nogi.
+
+270
+00:22:14,336 --> 00:22:17,336
+Awaria, awaria, robot się zepsuł.
+
+271
+00:22:17,648 --> 00:22:22,648
+Co na to poradzimy? Oczywiście każdy robot może użyć samo-naprawy.
+
+272
+00:22:24,648 --> 00:22:28,648
+Dobra, proszę Państwa, próbujemy z muzyką. Wszystko od początku.
+
+273
+00:22:32,648 --> 00:22:36,648
+Starajcie się teraz zachować nieruchome ciało. Nie ruszamy się.
+
+274
+00:22:37,648 --> 00:22:39,648
+Możemy sobie wpisać tajny kod na tańczenie.
+
+275
+00:22:42,648 --> 00:22:43,648
+Potwierdzamy nosem.
+
+276
+00:22:43,744 --> 00:22:59,744
+Uwaga! Zaczynamy! Raz, dwa, trzy, czte! Raz, dwa, głowa! W drugą! Raz, dwa,
+łokieć! Raz, dwa, trzy, czte!
+
+277
+00:22:59,936 --> 00:23:27,936
+W dół, ramiona, robot idzie, raz, dwa, trzy, do tyłu, raz, dwa, trzy, a
+powtórzmy sobie to jeszcze raz, raz, dwa, trzy, wracam, raz, dwa, trzy, góra,
+dół, góra, dół, dosię, odsię, dosię, połkoszcie, połkoszcie, głowa, brzuch, w
+nosie, ukłon robota.
+
+278
+00:23:30,192 --> 00:23:59,192
+Zepsute ręce, zepsute nogi, naprawiamy jedną nogę, uwaga, sprawdzam czy działa,
+raz, dwa, trzy, cztery, pięć, sześć, naprawiam drugą, sprawdzam czy działa, raz,
+dwa, trzy, cztery, naprawiam rękę, sprawdzam czy działa drugą.
+
+279
+00:24:00,192 --> 00:24:00,202
+Zepsute ręce, zepsute nogi, naprawiamy jedną nogę, uwaga, sprawdzam czy działa,
+raz, dwa, trzy, cztery, naprawiamy rękę, sprawdzam czy działa, raz, dwa, trzy,
+cztery, naprawiamy rękę, sprawdzam czy działa, raz, dwa, trzy, cztery,
+naprawiamy rękę, uwaga, sprawdzam czy działa, raz, dwa, trzy, cztery, naprawiamy
+rękę, uwaga, sprawdzam czy działa, raz, dwa, trzy, cztery, naprawiamy rękę,
+uwaga, sprawdzam czy działa, raz, dwa, trzy, cztery, naprawiamy rękę, uwaga,
+sprawdzam czy działa, raz, dwa, trzy, cztery, naprawiamy rękę, uwaga, sprawdzam
+czy działa, raz, dwa, trzy, cztery, naprawiamy rękę, uwaga, sprawdzam czy
+działa, raz, dwa, trzy, cztery
+
+280
+00:24:00,208 --> 00:24:03,208
+Napisy stworzone przez społeczność Amara.org
+
+281
+00:24:18,208 --> 00:24:22,208
+I możemy zacząć jeszcze raz.
+
+282
+00:24:22,208 --> 00:24:24,208
+Raz, dwa, trzy, czte.
+
+283
+00:24:24,208 --> 00:24:26,208
+Raz, dwa, ło, dwa.
+
+284
+00:24:26,208 --> 00:24:28,208
+Raz, dwa, trzy, czte.
+
+285
+00:24:28,208 --> 00:24:30,208
+Raz, dwa, ło, pięć.
+
+286
+00:24:30,208 --> 00:24:32,208
+Raz, dwa, trzy, czte.
+
+287
+00:24:32,208 --> 00:24:34,208
+Świetnie.
+
+288
+00:24:34,208 --> 00:24:36,208
+Z dół ramiona robot idzie.
+
+289
+00:24:36,208 --> 00:24:39,208
+Raz, dwa, trzy, cztery.
+
+290
+00:24:39,208 --> 00:24:40,208
+Wraca.
+
+291
+00:24:40,208 --> 00:24:43,208
+Raz, dwa, trzy, cztery.
+
+292
+00:24:43,208 --> 00:24:46,208
+Teraz góra, dół, góra, dół.
+
+293
+00:24:46,208 --> 00:24:48,112
+Dosię, odsię, dosię.
+
+294
+00:24:48,112 --> 00:24:52,392
+Po ukosie, po ukosie, głowa, brzuch i w nosie i bardzo dziękuję.
+
