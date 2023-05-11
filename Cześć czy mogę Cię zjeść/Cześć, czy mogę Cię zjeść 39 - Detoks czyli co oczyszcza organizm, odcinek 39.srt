@@ -103,526 +103,537 @@ Możesz nas zjeść
 Ale już wszystko w porządku z panem Ambrożem?
 
 27
-00:01:59,538 --> 00:02:15,538
+00:01:59,538 --> 00:02:09,538
 Tak, tak, tak, już tak dzwoniłam tam dzisiaj i powiedzieli, że dzisiaj go
-wypuszczają, także powinien tutaj już niedługo u nas być i bardzo was proszę,
-musimy być dla niego bardzo, ale to bardzo, bardzo, bardzo wyrozumialni.
+wypuszczają, także powinien tutaj już niedługo u nas być.
 
 28
-00:02:15,538 --> 00:02:23,538
-Ciekawy co mu się stało, może złamał nogę albo jakąś inną swoją gałąź, ludzie
-czasami łamią sobie różne rzeczy.
+00:02:09,538 --> 00:02:15,538
+I bardzo was proszę, musimy być dla niego bardzo, ale to bardzo, bardzo, bardzo
+wyrozumialni.
 
 29
-00:02:23,538 --> 00:02:30,538
-Tak, ja na przykład słyszałam, że jeden człowiek przez taką inną tu miało
-złomane serce, normalnie.
+00:02:15,538 --> 00:02:20,538
+Ciekawy co mu się stało. Może złamał nogę albo jakąś inną swoją gałąź.
 
 30
-00:02:30,538 --> 00:02:36,538
-Jejku jak wy jeszcze mało wiecie o tym świecie, moje głuptaski.
+00:02:20,538 --> 00:02:23,538
+Ludzie czasami łamią sobie różne rzeczy.
 
 31
+00:02:23,538 --> 00:02:29,538
+Tak, ja na przykład słyszałam, że jeden człowiek przez taką inną tu miało
+złomane serce.
+
+32
+00:02:29,538 --> 00:02:30,538
+Normalnie.
+
+33
+00:02:30,538 --> 00:02:36,538
+Jejku, jak wy jeszcze mało wiecie o tym świecie, moje głuptaski.
+
+34
 00:02:36,538 --> 00:02:38,538
 Ale naprawdę.
 
-32
+35
 00:02:39,632 --> 00:02:42,016
 Napisy stworzone przez społeczność Amara.org
 
-33
+36
 00:02:42,016 --> 00:02:44,016
 O, idzie!
 
-34
+37
 00:02:44,016 --> 00:02:46,016
 Ej, tej, swanegapa!
 
-35
+38
 00:02:46,016 --> 00:02:48,016
 No wiecie co?
 
-36
+39
 00:02:48,016 --> 00:02:50,016
 Możecie dzisiaj
 
-37
+40
 00:02:50,016 --> 00:02:52,016
 zakończyć te uszczypliwości,
 
-38
+41
 00:02:52,016 --> 00:02:54,016
 a naprawdę,
 
-39
+42
 00:02:54,016 --> 00:02:56,016
 słuchajcie, nie najlepiej
 
-40
+43
 00:02:56,016 --> 00:02:58,016
 się dzisiaj czuję.
 
-41
+44
 00:02:58,016 --> 00:03:00,016
 Ale to z sympatii, panie Ambroży!
 
-42
+45
 00:03:00,016 --> 00:03:02,016
 Prawda, cukiniu?
 
-43
+46
 00:03:02,016 --> 00:03:04,016
 No, no, oczywiście!
 
-44
+47
 00:03:04,016 --> 00:03:06,016
 Martwiliśmy się o pana!
 
-45
+48
 00:03:06,016 --> 00:03:08,016
 Przecież to pan nas
 
-46
+49
 00:03:08,016 --> 00:03:10,016
 podlewa, jak pani Aldona
 
-47
+50
 00:03:10,016 --> 00:03:12,016
 zapomni. No, przecież my pana
 
-48
+51
 00:03:12,016 --> 00:03:14,016
 bardzo lubimy!
 
-49
+52
 00:03:14,016 --> 00:03:16,016
 Pani Ambroży!
 
-50
+53
 00:03:16,016 --> 00:03:18,016
 To bardzo miłe!
 
-51
+54
 00:03:18,016 --> 00:03:20,016
 Każde miłe słowo
 
-52
+55
 00:03:20,016 --> 00:03:22,016
 się dzisiaj przyda. Taki dzień!
 
-53
+56
 00:03:22,016 --> 00:03:24,016
 Naprawdę coś, nie za dobrze
 
-54
+57
 00:03:24,016 --> 00:03:26,016
 się czuję. Dobra, idę do pani Aldony.
 
-55
+58
 00:03:26,016 --> 00:03:28,016
 Może mi pomoże w moim problemie?
 
-56
+59
 00:03:28,016 --> 00:03:30,016
 Na pewno!
 
-57
+60
 00:03:32,016 --> 00:03:34,016
 A ja myślę,
 
-58
+61
 00:03:34,016 --> 00:03:36,016
 że pan Ambroży to sam sobie
 
-59
+62
 00:03:36,016 --> 00:03:38,016
 jest winien, że tak się
 
-60
+63
 00:03:38,016 --> 00:03:40,016
 czuję.
 
-61
+64
 00:03:40,016 --> 00:03:42,016
 A skąd ta hipoteza?
 
-62
+65
 00:03:42,016 --> 00:03:44,016
 Droga najznakomicza,
 
-63
+66
 00:03:44,016 --> 00:03:46,016
 najmądrzejsza
 
-64
+67
 00:03:46,016 --> 00:03:48,016
 dynią.
 
-65
+68
 00:03:48,016 --> 00:03:50,016
 Czuć po jego zachowaniu,
 
-66
+69
 00:03:50,016 --> 00:03:52,016
 że to on coś nabroił
 
-67
+70
 00:03:52,016 --> 00:03:54,016
 i coś czuje, że
 
-68
+71
 00:03:54,016 --> 00:03:56,016
 chodziło tu o niewłaściwą
 
-69
+72
 00:03:56,016 --> 00:03:58,016
 dietę.
 
-70
+73
 00:04:03,386 --> 00:04:09,386
 No, panie Ambroży panie Ambroży No przecież No przecież
 
-71
+74
 00:04:09,386 --> 00:04:12,386
 tak nie można przecież przecież my tu wszyscy się o
 
-72
+75
 00:04:12,386 --> 00:04:16,386
 pana martwimy przecież tutaj czekamy no siedzimy tu jak na
 
-73
+76
 00:04:16,386 --> 00:04:20,386
 szpilkach o ja przepraszam ale ja nie siedzę tutaj na żadnych
 
-74
+77
 00:04:21,386 --> 00:04:26,386
 szpilkach, ja też, ale to prawda, martwiliśmy się o pana
 
-75
+78
 00:04:26,386 --> 00:04:29,386
 coś się stało panie Ambroży,
 
-76
+79
 00:04:29,386 --> 00:04:34,386
 Słuchajcie słuchajcie długo by trzeba było opowiadać,
 
-77
+80
 00:04:34,386 --> 00:04:40,386
 posłuchamy, coś się panu złamało, a żebyś wiedziała
 
-78
+81
 00:04:40,386 --> 00:04:44,386
 żebyś wiedziała złamało mnie to było tak Słuchajcie
 
-79
+82
 00:04:44,386 --> 00:04:47,386
 oglądam sobie telewizja dalej akurat ten wiecie interesujący
 
-80
+83
 00:04:47,386 --> 00:04:50,386
 seria No i dalej akurat dwa odcinki No to myślę sobie
 
-81
+84
 00:04:50,386 --> 00:04:53,386
 zamówię sobie pizzę No a że nie wiedziałem jaki rozmiar No
 
-82
+85
 00:04:53,386 --> 00:04:55,386
 to zamówię pizzę w razie czego,
 
-83
+86
 00:04:56,386 --> 00:05:00,386
 No w razie czego No w razie czego No czego w razie czego
 
-84
+87
 00:05:00,386 --> 00:05:03,386
-w razie czego jakby jej zabrakło gdyby mi się chciało jeszcze
+w razie czego jakby jej zabrakło gdyby mi się chciało
 
-85
-00:05:03,386 --> 00:05:03,386
+88
+00:05:03,386 --> 00:05:04,386
+jeszcze jest,
 
-
-86
-00:05:08,386 --> 00:05:12,386
+89
+00:05:07,386 --> 00:05:12,386
 No nie brzmi to dobrze, oj nie brzmi to jak dobry początek tej
 
-87
+90
 00:05:12,386 --> 00:05:16,386
 historii No nie no to mogę nie opowiadać nie no nie no,
 
-88
+91
 00:05:18,386 --> 00:05:22,386
 No proszę no wszyscy słuchamy dobra to było tak,
 
-89
+92
 00:05:22,386 --> 00:05:27,386
 Tak wielka w życiu takiej noczy nie wiedziałem no xxl
 
-90
+93
 00:05:27,386 --> 00:05:31,386
 normalnie monster potwór wśród pić No taka duża i taka ciepła
 
-91
+94
 00:05:31,386 --> 00:05:34,386
 No to zacząłem jeść i tak jem jem jem oglądam jem jem jem
 
-92
-00:05:34,386 --> 00:05:37,386
-oglądam jem jem jem oglądam i popijam sobie napojem gazowany
-
-93
-00:05:37,386 --> 00:05:40,386
-takie z cukrem nie i wiecie co,
-
-94
-00:05:43,386 --> 00:05:44,386
-Okazało się, że ją zjadłem,
-
 95
-00:05:47,386 --> 00:05:48,386
-No,
+00:05:34,386 --> 00:05:36,386
+oglądam jem jem jem oglądam i popijam sobie napojem
 
 96
-00:05:48,386 --> 00:05:52,386
-Pani Ambroży, że tyle pan może pomieścić nie no właśnie
+00:05:36,386 --> 00:05:39,386
+gazowany takim z cukrem nie i wiecie co,
 
 97
-00:05:52,386 --> 00:05:56,386
-nie okazało się, że nie bo nagle raptem jak piorun z jasnego
+00:05:41,386 --> 00:05:43,386
+Okazało się, że ją zjadłem,
 
 98
-00:05:56,386 --> 00:05:56,386
-
+00:05:45,386 --> 00:05:46,386
+No,
 
 99
-00:05:59,386 --> 00:06:00,386
-To mnie tak zapolało,
+00:05:46,386 --> 00:05:47,386
+No to co,
 
 100
-00:06:03,386 --> 00:06:07,386
-Złamało i zabolało, ból pana złamał,
+00:05:49,386 --> 00:05:50,386
+Okazało się, że ją zjadłem,
 
 101
-00:06:09,386 --> 00:06:12,386
-Tak tak panie Aldonu straszny ból i co dalej,
+00:05:52,386 --> 00:05:56,386
+Pan to ma żołądek Panie Ambroży, że tyle pan może
 
 102
-00:06:12,386 --> 00:06:15,386
-Zadzwonię po karetkę wzięli mnie do szpitala dali mi to
+00:05:56,386 --> 00:06:00,386
+pomieścić nie no właśnie nie okazało się, że nie bo nagle
 
 103
-00:06:15,386 --> 00:06:19,386
-dali tamto No jako tako się czuję jestem tutaj ale powiem
+00:06:00,386 --> 00:06:02,386
+raptem jak piorun z jasnego nie mało,
 
 104
-00:06:19,386 --> 00:06:25,386
-wam, nie jest najlepiej, No oczywiście, że nie no bo ma pan
+00:06:05,386 --> 00:06:06,386
+To mnie tak zapolało,
 
 105
-00:06:25,386 --> 00:06:29,386
-w sobie bardzo dużo toksyn, trzeba panu zrobić detoks,
+00:06:09,386 --> 00:06:10,386
+Złamało i zabolało,
 
 106
-00:06:30,386 --> 00:06:34,386
-To na pewno będzie bolało tak, nie to nie ból,
+00:06:10,386 --> 00:06:13,386
+Złamało i zabolało, ból pana złamał,
 
 107
-00:06:35,386 --> 00:06:39,386
-Nie ból nie ból nie ból nie ból nie ból nie ból nie ból nie
+00:06:15,386 --> 00:06:20,386
+Tak tak panie Aldonu straszny ból i co dalej i co dalej co
 
 108
-00:06:39,386 --> 00:06:43,386
-Ból na pewno będzie bolało tak, nie to nie będzie pana
+00:06:20,386 --> 00:06:23,386
+dalej co dalej zadzwonię po karetkę wzięli mnie do szpitala
 
 109
-00:06:43,386 --> 00:06:48,386
-bolało no to nie będzie bolało no wręcz przeciwnie pomoże
+00:06:23,386 --> 00:06:27,386
+dali mi to odali tamto No jako tako się czuję jestem tutaj
 
 110
-00:06:48,386 --> 00:06:53,386
-to panu wrócić do jako takiej równowagi No to pani Aldonu
+00:06:27,386 --> 00:06:32,386
+ale powiem wam nie jest najlepiej No oczywiście, że nie
 
 111
+00:06:32,386 --> 00:06:37,386
+no bo ma pan w sobie bardzo dużo toksyn trzeba panu
+
+112
+00:06:37,386 --> 00:06:43,386
+Ojej to na pewno będzie bolało tak nie to nie będzie pana
+
+113
+00:06:43,386 --> 00:06:48,386
+bolało No to nie będzie bolało No wręcz przeciwnie pomoże
+
+114
+00:06:48,386 --> 00:06:53,386
+to panu wrócić do jako takiej równowagi No to panie Aldonu
+
+115
 00:06:53,386 --> 00:06:58,386
 to co trzeba będzie zrobić czasami warto zrobić detoks i
 
-112
+116
 00:06:58,386 --> 00:07:02,386
 uwaga to co teraz powiem pomoże nie tylko panu ale
 
-113
-00:07:02,386 --> 00:07:07,386
-również i dzieciom i ich rodzicom a teraz powiem wam jak
+117
+00:07:02,386 --> 00:07:06,386
+również i dzieciom i ich rodzicom a teraz powiem wam jak to
 
-114
-00:07:07,386 --> 00:07:08,386
-chcecie posłuchać,
+118
+00:07:06,386 --> 00:07:10,386
+jak to zrobić chcecie posłuchać tak tak wszyscy chcemy
 
-115
+119
 00:07:10,386 --> 00:07:16,386
-Numer jeden woda woda najlepiej oczyszcza nasz organizm woda
+numer jeden woda woda najlepiej oczyszcza nasz organizm woda
 
-116
+120
 00:07:16,386 --> 00:07:20,386
 nie tylko oczyszcza nasze nerki ale również sprawia, że nasz
 
-117
-00:07:20,386 --> 00:07:26,386
-organizm doskonale funkcjonuje, nasza skóra jest napięta i
-
-118
-00:07:26,386 --> 00:07:29,386
-najważniejsze, główka pracuje,
-
-119
-00:07:31,386 --> 00:07:36,386
-Numer dwa cytryna, cytryna to moja najlepsza koleżanka
-
-120
-00:07:36,386 --> 00:07:40,386
-No cóż nie każdy lubi smak wody dlatego warto wrzucić do
-
 121
-00:07:40,386 --> 00:07:45,386
-wody kilka plasterków cytryny co prawda ona jest kwaśna i
+00:07:20,386 --> 00:07:26,386
+organizm doskonale funkcjonuje nasza skóra jest napięta i
 
 122
-00:07:45,386 --> 00:07:50,386
-zmienia smak wody ale taką miksturę uwielbia nasza wątroba
+00:07:26,386 --> 00:07:29,386
+najważniejsze główka pracuje
 
 123
-00:07:50,386 --> 00:07:54,386
-a dobrze wiedzieć, że to właśnie w wątrobie mieszczą się
+00:07:30,386 --> 00:07:36,386
+numer dwa cytryna o cytryna to moja najlepsza koleżanka no cóż
 
 124
-00:07:54,386 --> 00:07:59,386
-różne toksyny dlatego dla niej to jest eliksir życia więc
+00:07:36,386 --> 00:07:40,386
+nie każdy lubi smak wody dlatego warto wrzucić do wody kilka
 
 125
-00:07:59,386 --> 00:08:04,386
-woda z cytryną jest przezdrowa i przepyszna ja zapisuję
+00:07:40,386 --> 00:07:45,386
+plasterków cytryny co prawda ona jest kwaśna i zmienia smak
 
 126
-00:08:04,386 --> 00:08:09,386
-wszystko w myślach woda cytryna cytryna woda co jeszcze
+00:07:45,386 --> 00:07:50,386
+wody ale taką miksturę uwielbia nasza wątroba a dobrze
 
 127
-00:08:09,386 --> 00:08:11,386
-no żurawina
+00:07:50,386 --> 00:07:54,386
+wiedzieć, że to właśnie w wątrobie mieszczą się różne toksyny
 
 128
-00:08:12,386 --> 00:08:17,386
-No właśnie dobrze lodówko żurawina żurawina
+00:07:55,386 --> 00:08:00,386
+dlatego dla niej to jest eliksir życia więc woda z cytryną
 
 129
-00:08:17,386 --> 00:08:22,386
-chociaż sama w sobie jest bardzo kwaśna to taką suszoną
+00:08:00,386 --> 00:08:04,386
+jest przezdrowa i przepyszna ja zapisuję wszystko w myślach
 
 130
-00:08:22,386 --> 00:08:26,386
-żurawinę proszę się poczęstować dobrze podjadać się podczas
+00:08:04,386 --> 00:08:10,386
+woda cytryna cytryna woda co jeszcze no żurawina
 
 131
-00:08:26,386 --> 00:08:30,386
-na przykład nauki do różnych egzaminów to jest świetna
+00:08:12,386 --> 00:08:18,386
+no właśnie dobrze lodówko żurawina żurawina chociaż sama w
 
 132
-00:08:30,386 --> 00:08:35,386
-przekąska żurawina jest przyjaciółką naszych nerek nie tylko
+00:08:18,386 --> 00:08:23,386
+sobie jest bardzo kwaśna to taką suszoną żurawinę proszę się
 
 133
-00:08:35,386 --> 00:08:40,386
-pomaga oczyszczać nerki z toksyn ale również doskonale
+00:08:23,386 --> 00:08:28,386
+poczęstować dobrze podjadać się podczas na przykład nauki do
 
 134
-00:08:40,386 --> 00:08:44,386
-radzi sobie z bakteriami które chciałyby tam zamieszkać
+00:08:28,386 --> 00:08:33,386
+różnych egzaminów to jest świetna przekąska żurawina jest
 
 135
-00:08:44,386 --> 00:08:49,386
-A słuchajcie żurawina to pożywienie dla żurawi prawda takich
+00:08:33,386 --> 00:08:37,386
+przyjaciółką naszych nerek nie tylko pomaga oczyszczać nerki
 
 136
-00:08:49,386 --> 00:08:53,386
-ptaków weź nie kompromituj się bo kompromitujesz też nas
+00:08:37,386 --> 00:08:43,386
+z toksyn ale również doskonale radzi sobie z bakteriami które
 
 137
-00:08:53,386 --> 00:08:56,386
-No co jejku tylko pytam
+00:08:43,386 --> 00:08:47,386
+chciałyby tam zamieszkać a a słuchajcie żurawina to pożywienie
 
 138
-00:08:57,386 --> 00:09:03,386
-Buraki buraki są pyszne są zdrowe są słodkie buraki
+00:08:47,386 --> 00:08:52,386
+dla żurawi prawda takich ptaków weź nie kompromituj się
 
 139
-00:09:03,386 --> 00:09:07,386
-chociaż są takie niepozorne i czerwone to pomagają właśnie
+00:08:52,386 --> 00:08:58,386
+bo kompromituje też nas no co jejku tylko pytam buraki buraki
 
 140
-00:09:07,386 --> 00:09:12,386
-oczyszczać nasz organizm z różnych toksyn buraki zawierają taką
+00:08:58,386 --> 00:09:04,386
+są pyszne są zdrowe są słodkie buraki chociaż są takie
 
 141
-00:09:12,386 --> 00:09:18,386
-tajemniczą substancję i to właśnie ona jak miotełka pomaga
+00:09:04,386 --> 00:09:08,386
+niepozorne i czerwone to pomagają właśnie oczyszczać nasz organizm
 
 142
-00:09:18,386 --> 00:09:22,386
-wyczyszczać nasze żyły ze wszystkich złogów i toksycznych
+00:09:08,386 --> 00:09:13,386
+z różnych toksyn buraki zawierają taką tajemniczą substancję
 
 143
-00:09:22,386 --> 00:09:27,386
-substancji dlatego warto buraki zaprosić na nasz talerz a
+00:09:13,386 --> 00:09:18,386
+beta inna i to właśnie ona jak miotełka pomaga wyczyszczać
 
 144
-00:09:27,386 --> 00:09:33,386
-przynajmniej pić sok buraczany pani Aldono ja bardzo lubię
+00:09:18,386 --> 00:09:22,386
+nasze żyły ze wszystkich złogów i toksycznych substancji
 
 145
-00:09:33,386 --> 00:09:40,386
-buraki a najbardziej to lubię zupę z buraków barsz ja też lubię
+00:09:22,386 --> 00:09:27,386
+dlatego warto buraki zaprosić na nasz talerz a przynajmniej
 
 146
-00:09:40,386 --> 00:09:46,386
-i jest jeszcze tak kasza jaglana to moja kuzynka bardzo dobra jest
+00:09:27,386 --> 00:09:33,386
+pić sok buraczany pani Aldono ja bardzo lubię buraki a
 
 147
-00:09:46,386 --> 00:09:51,386
-kasza jaglana dokładnie ja też lubię kaszę jaglaną ja też
+00:09:33,386 --> 00:09:40,386
+najbardziej to lubię zupę z buraków barsz ja też lubię i jest
 
 148
-00:09:51,386 --> 00:09:56,386
-no i jeszcze tak seler kapusta a także natka pietruszki te
+00:09:40,386 --> 00:09:45,386
+jeszcze tak kasza jaglana to moja kuzynka bardzo dobra jest
 
 149
-00:09:56,386 --> 00:10:00,386
-wszystkie produkty pomogą nam wspaniale oczyszczyć nasz organizm
+00:09:45,386 --> 00:09:49,386
+kasza jaglana dokładnie ja też lubię kaszę jaglaną ja też
 
 150
-00:10:00,386 --> 00:10:05,386
-pani Aldono to ja już idę do pani Jadzi z warzywniaka żeby kupić
+00:09:49,386 --> 00:09:54,386
+no i jeszcze tak seler kapusta a także natka pietruszki te
 
 151
-00:10:05,386 --> 00:10:11,386
-te wszystkie oczyszczające nas produkty ja i obiecuję wam wszystkim
+00:09:54,386 --> 00:09:58,386
+wszystkie produkty pomogą nam wspaniale oczyścić nasz organizm
 
 152
-00:10:11,386 --> 00:10:16,386
-będę już bardziej rozważny do widzenia i dziękuję pani Aldono
+00:09:58,386 --> 00:10:02,386
+pani Aldono to ja już idę do pani Jadzi z warzywniaka żeby
 
 153
-00:10:16,386 --> 00:10:18,386
-dziękuję
+00:10:02,386 --> 00:10:07,386
+kupić te wszystkie oczyszczające nas produkty ja i
 
 154
+00:10:07,386 --> 00:10:12,386
+obiecuję wam wszystkim będę już bardziej rozważny do widzenia
+
+155
+00:10:12,386 --> 00:10:14,386
+i dziękuję pani Aldono dziękuję
+
+156
 00:10:19,584 --> 00:10:21,984
 No cóż, miejmy nadzieję.
 
-155
-00:10:25,798 --> 00:10:29,958
-もっと さべる过了
+157
+00:10:25,798 --> 00:10:28,878
+EPISODE 26
 
-156
+158
+00:10:55,798 --> 00:10:58,798
+Napisy stworzone przez społeczność Amara.org
+
+159
 00:11:01,562 --> 00:11:06,227
 www.youtube.com
 

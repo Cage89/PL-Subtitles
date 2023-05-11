@@ -3,8 +3,8 @@
 Napisy stworzone przez społeczność Amara.org
 
 2
-00:00:09,146 --> 00:00:12,146
-Napisy stworzone przez społeczność Amara.org
+00:00:09,146 --> 00:00:26,826
+до свидания
 
 3
 00:00:33,402 --> 00:00:41,202
@@ -516,10 +516,14 @@ No ja bym to chciał.
 Ha ha ha!
 
 127
-00:10:01,350 --> 00:10:05,570
-muzyka
+00:10:01,350 --> 00:10:04,930
+Do zobaczenia!
 
 128
+00:10:31,350 --> 00:10:34,350
+Napisy stworzone przez społeczność Amara.org
+
+129
 00:10:37,338 --> 00:10:42,338
 www.youtube.com
 

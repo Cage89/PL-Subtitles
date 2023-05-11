@@ -232,12 +232,12 @@ Dzień dobry, przepraszam?
 Słucham?
 
 55
-00:04:36,352 --> 00:04:37,352
+00:04:36,352 --> 00:04:38,352
 Po co człowieka być bojatą?
 
 56
-00:04:37,352 --> 00:04:39,352
-Bo da że mógł lepiej widzieć.
+00:04:38,352 --> 00:04:39,352
+Podarzał mógł lepiej widzieć.
 
 57
 00:04:39,352 --> 00:04:41,352
@@ -546,339 +546,343 @@ Otóż żarówka wykorzystuje fakt, który być może znacie, że wiele przedmio
 jeśli są podgrzane do odpowiednio wysokiej temperatury, zaczyna świecić.
 
 130
-00:09:01,040 --> 00:09:03,040
+00:09:01,040 --> 00:09:02,040
 Widzicie o takim czymś?
 
 131
+00:09:02,040 --> 00:09:03,040
+Nie.
+
+132
 00:09:03,040 --> 00:09:05,040
 No to zrobimy taki eksperyment.
 
-132
+133
 00:09:05,040 --> 00:09:07,040
 Tutaj mam...
 
-133
+134
 00:09:07,552 --> 00:09:12,952
 Taką szpilkę, tak metalowa szpilka i podgrzejemy ją w tym palniku.
 
-134
+135
 00:09:21,242 --> 00:09:23,242
 Świeci się?
 
-135
+136
 00:09:23,242 --> 00:09:25,242
 No, świeci.
 
-136
+137
 00:09:25,242 --> 00:09:29,242
 Ta szpilka, jak była rozgrzana do bardzo wysokiej temperatury, zaczęła świecić.
 
-137
+138
 00:09:29,242 --> 00:09:33,242
 Wyłączyliśmy płomień, szpilka od razu przestała świecić.
 
-138
+139
 00:09:33,242 --> 00:09:37,242
 No i okazuje się, że żarówka działa na tej samej zasadzie.
 
-139
+140
 00:09:37,242 --> 00:09:41,242
 To znaczy, w żarówce mamy taki drucik.
 
-140
+141
 00:09:41,242 --> 00:09:44,242
 I teraz ten drucik, jak odpowiednio mocno podgrzejemy, to on zaczyna świecić.
 
-141
+142
 00:09:44,242 --> 00:09:47,242
 Ale powiedzcie mi, czy tam jest jakiś płomyk, który podgrzewa ten drucik?
 
-142
+143
 00:09:47,242 --> 00:09:48,242
 Nie, nie.
 
-143
+144
 00:09:48,242 --> 00:09:51,242
 No to skąd ten drucik bierze tę temperaturę?
 
-144
+145
 00:09:51,242 --> 00:09:52,242
 Bo jest prąd.
 
-145
+146
 00:09:52,242 --> 00:09:53,242
 Bo jest prąd, bardzo dobrze.
 
-146
+147
 00:09:53,242 --> 00:10:00,242
 Przygotowałem taki bardzo prosty eksperyment, w którym będziemy przez cienki
 drucik przepuszczać coraz większy prąd.
 
-147
+148
 00:10:01,712 --> 00:10:06,712
 Może Oliwia. Powolutku zwiększamy prąd płynący przez ten drucik.
 
-148
+149
 00:10:06,712 --> 00:10:08,712
 Zobaczcie, że nic się nie dzieje na razie.
 
-149
+150
 00:10:08,712 --> 00:10:11,712
 Robi się. Czerwony się zrobi.
 
-150
+151
 00:10:11,712 --> 00:10:15,712
 Robi się czerwony, prawda? Czyli prądem podgrzaliśmy ten drucik.
 
-151
+152
 00:10:15,712 --> 00:10:16,712
 Wow.
 
-152
+153
 00:10:16,712 --> 00:10:17,712
 Zobaczcie, zobaczcie.
 
-153
+154
 00:10:17,712 --> 00:10:18,712
 Tak jak lampka.
 
-154
+155
 00:10:18,712 --> 00:10:21,712
 Jeszcze zwiększymy. Uwaga.
 
-155
+156
 00:10:23,472 --> 00:10:24,472
 Świeci.
 
-156
+157
 00:10:24,472 --> 00:10:25,472
 O, widzicie?
 
-157
+158
 00:10:25,472 --> 00:10:26,472
 I się przegniło.
 
-158
+159
 00:10:26,472 --> 00:10:27,472
 I się przepaliło.
 
-159
+160
 00:10:27,472 --> 00:10:30,472
 No to teraz może Marysia zapal nam tą żarówkę.
 
-160
+161
 00:10:30,472 --> 00:10:31,472
 Powolutku.
 
-161
+162
 00:10:31,472 --> 00:10:34,472
 Zobaczcie jak to przypomina ten drucik, który tutaj mieliśmy.
 
-162
-00:10:34,472 --> 00:10:35,472
-No śmiało mocno.
-
 163
+00:10:34,472 --> 00:10:35,472
+No śmiało, mocno.
+
+164
 00:10:35,472 --> 00:10:36,472
 Zobaczcie jak mocno świeci.
 
-164
+165
 00:10:36,472 --> 00:10:39,472
 Mocniej niż ten drucik, który wcześniej użyty przez nas.
 
-165
+166
 00:10:39,472 --> 00:10:41,472
 No i teraz jak myślicie?
 
-166
+167
 00:10:41,472 --> 00:10:43,472
 Przepali nam się ten drucik w tej chwili?
 
-167
+168
 00:10:43,472 --> 00:10:44,472
 Nie, nie.
 
-168
+169
 00:10:44,472 --> 00:10:46,472
 Musimy bardzo długo czekać.
 
-169
+170
 00:10:46,472 --> 00:10:49,472
 No i właściwie czemu ten się tak szybko przepala, a to się nie przepala?
 
-170
+171
 00:10:49,472 --> 00:10:51,472
 Bo ten jest grubszy, tak.
 
-171
+172
 00:10:51,472 --> 00:10:53,472
 On nie jest tak naprawdę grubszy.
 
-172
+173
 00:10:53,472 --> 00:10:56,472
 Jakbyście przyjrzeli się dokładnie, to on jest jeszcze cieńszy nawet niż ten,
 
-173
+174
 00:10:56,472 --> 00:10:59,472
 tylko że on jest zwinięty w taką sprężynkę i ta sprężynka jest gruba.
 
-174
+175
 00:10:59,472 --> 00:11:01,472
 Tutaj mamy powietrze.
 
-175
+176
 00:11:01,472 --> 00:11:02,472
 W powietrzu jest tlen.
 
-176
+177
 00:11:02,472 --> 00:11:05,472
 I ten tlen powoduje, że drucik nam się spala.
 
-177
+178
 00:11:05,472 --> 00:11:10,472
 A w tej bańce szklanej, szczelnie zamkniętej, nie ma tlenu.
 
-178
+179
 00:11:10,472 --> 00:11:13,472
 To znaczy, że dłużej się spala.
 
-179
+180
 00:11:13,472 --> 00:11:14,472
 Dokładnie.
 
-180
+181
 00:11:14,472 --> 00:11:19,472
 To właśnie po to jest ta szklana bańka, żeby powietrze nie mogło się tam dostać.
 
-181
+182
 00:11:20,472 --> 00:11:24,472
 Żarówka to jest taka bardzo mocna grzałka, a przy okazji to świeci.
 
-182
+183
 00:11:24,472 --> 00:11:28,472
 Ale są takie źródła światła, które świecą i nie są w ogóle gorące.
 
-183
+184
 00:11:28,472 --> 00:11:30,472
 Na przykład taka świetlówka.
 
-184
+185
 00:11:30,472 --> 00:11:31,472
 Zapalmy.
 
-185
+186
 00:11:31,472 --> 00:11:34,472
 Jak dotkniecie, to to nie jest gorące.
 
-186
+187
 00:11:34,472 --> 00:11:37,472
 Oczywiście to w końcu się podgrzeje do pewnej temperatury,
 
-187
+188
 00:11:37,472 --> 00:11:39,472
 ale nigdy nie będzie tak gorące jak to.
 
-188
+189
 00:11:39,472 --> 00:11:41,472
 Tutaj nie ma takiego drucika.
 
-189
+190
 00:11:41,744 --> 00:11:43,504
 który się rozgrzewa do wysokiej temperatury.
 
-190
+191
 00:11:43,504 --> 00:11:45,064
 Tutaj jest zamknięty gaz,
 
-191
+192
 00:11:45,064 --> 00:11:47,064
 to znaczy właściwie mieszanina gazów.
 
-192
+193
 00:11:47,064 --> 00:11:51,584
 I kiedy przyłożymy do tej mieszaniny gazów napięcie elektryczne,
 
-193
+194
 00:11:51,584 --> 00:11:53,584
 potem gaz zaczyna świecić.
 
-194
+195
 00:11:53,584 --> 00:11:58,064
 Innym źródłem światła, które również świeci, ale nie grzeje się, są diody.
 
-195
+196
 00:11:58,064 --> 00:12:00,544
 Może słyszeliście o diodach tzw. LED.
 
-196
+197
 00:12:00,544 --> 00:12:04,304
 No to zobaczcie, możecie położyć rękę, nic groźnego się nie dzieje.
 
-197
+198
 00:12:04,304 --> 00:12:08,304
 Który z tych źródeł światła, według was, jest ekologiczny?
 
-198
+199
 00:12:08,304 --> 00:12:10,304
 To.
 
-199
+200
 00:12:10,304 --> 00:12:11,136
 To.
 
-200
+201
 00:12:11,136 --> 00:12:20,136
 A te? Też. A te? Nie. No właśnie, bo to urządzenie, zwane potocznie żarówką, tak
 naprawdę jest grzejnikiem.
 
-201
+202
 00:12:20,136 --> 00:12:30,136
 Zużywa bardzo dużo prądu na to, żeby grzać, a nie na to, żeby świecić. A te
 źródła światła po prostu świecą, a te w ogóle się nie grzeją.
 
-202
+203
 00:12:30,136 --> 00:12:37,136
 Często mówimy, że są to żarówki energooszczędne. To znaczy, że do świecenia
 zużywają niewiele prądu.
 
-203
+204
 00:12:37,408 --> 00:12:45,908
 W Centrum Nauki Kopernik można na własnych mięśniach sprawdzić, o ile mniej
 energii potrzeba do zaświecenia diody LED, niż tradycyjnej żarówki.
 
-204
+205
 00:12:45,908 --> 00:12:49,408
 Namawiam wszystkich, by używali żarówek energooszczędnych.
 
-205
+206
 00:12:49,408 --> 00:12:51,408
 A po co mamy oszczędzać energię?
 
-206
+207
 00:12:51,408 --> 00:12:56,408
 O tym opowiemy w jednym z następnych programów Dlaczego? Po co? Jak?
 
-207
+208
 00:12:56,672 --> 00:13:00,672
 Dlaczego? Po co? Po co i jak?
 
-208
+209
 00:13:00,672 --> 00:13:03,672
 Tak właśnie działa cały ten świat
 
-209
+210
 00:13:03,672 --> 00:13:06,672
 Ja chcę zrozumieć go i mieć swój wkład
 
-210
+211
 00:13:06,672 --> 00:13:09,672
 Dlaczego bije serce? Dlaczego słońce świeci?
 
-211
+212
 00:13:09,672 --> 00:13:12,672
 Pytają się od zawsze ciekawe świata dzieci
 
-212
+213
 00:13:12,672 --> 00:13:15,672
 Dlaczego? Po co? Po co i jak?
 

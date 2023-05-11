@@ -178,15 +178,15 @@ Twierdzą, że są źle traktowani.
 
 44
 00:03:08,794 --> 00:03:14,794
-Nie, no przecież to jest absurd! Pani Aldona nikogo nie traktuje źle!
+Nie, no przecież to jest absurd. Pani Aldona nikogo nie traktuje źle.
 
 45
 00:03:14,794 --> 00:03:17,794
-Pani Aldona wręcz przeciwnie! Wszystkich traktuje dobrze!
+Pani Aldona wręcz przeciwnie. Wszystkich traktuje dobrze.
 
 46
 00:03:17,794 --> 00:03:23,794
-Oni nawet nie wiedzą jak ważna jest dla zdrowia ich fermentacja!
+Oni nawet nie wiedzą jak ważna jest dla zdrowia ich fermentacja.
 
 47
 00:03:24,944 --> 00:03:31,444
@@ -364,316 +364,292 @@ Porozmawiał Pan z nimi?
 No, porozmawiałem.
 
 89
-00:07:06,368 --> 00:07:07,848
-O-o-o-o-o-o!
+00:07:06,368 --> 00:07:15,098
+O, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o,
+o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o,
+o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o,
+o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o, o,
+o, o, o, o
 
 90
-00:07:09,128 --> 00:07:10,388
-O-o-o-o-o-o!
-
-91
-00:07:11,308 --> 00:07:12,568
-O-o-o-o-o-o!
-
-92
 00:07:15,098 --> 00:07:17,098
 Cześć.
 
-93
+91
 00:07:17,098 --> 00:07:19,098
 Cześć. Cześć. Cześć. Cześć.
 
-94
+92
 00:07:19,098 --> 00:07:21,098
 Gdzie są te całe nabiały?
 
-95
+93
 00:07:21,098 --> 00:07:23,098
 Muszę z nimi pogadać.
 
-96
+94
 00:07:23,098 --> 00:07:25,098
 Nic z tego. One nie chcą
 
-97
+95
 00:07:25,098 --> 00:07:27,098
 z nikim rozmawiać.
 
-98
+96
 00:07:27,098 --> 00:07:29,098
 Jak to? Dlaczego?
 
-99
+97
 00:07:29,098 --> 00:07:31,098
 No nie chcą.
 
-100
+98
 00:07:31,098 --> 00:07:33,098
 Ja to się dziwię, że pani Aldona
 
-101
+99
 00:07:33,098 --> 00:07:35,098
 w ogóle się tym tak przejmuje.
 
-102
+100
 00:07:35,098 --> 00:07:37,098
 Skoro nabiały nie chcą być jedzone,
 
-103
+101
 00:07:37,098 --> 00:07:39,098
 to niech przerzuci się na owoce.
 
-104
+102
 00:07:39,098 --> 00:07:41,098
 Dokładnie.
 
-105
+103
 00:07:41,098 --> 00:07:43,098
 Z przyjemnością mogę być spożyty
 
-106
+104
 00:07:43,098 --> 00:07:45,098
 i to nawet w tej chwili.
 
-107
+105
 00:07:45,098 --> 00:07:47,098
 One mówią, że nie szanujecie
 
-108
+106
 00:07:47,098 --> 00:07:49,098
 ich dobrych właściwości.
 
-109
+107
 00:07:49,098 --> 00:07:51,098
 Niech one nie będą
 
-110
+108
 00:07:51,098 --> 00:07:53,098
 takie święte. Słyszałem,
 
-111
+109
 00:07:53,098 --> 00:07:55,098
 że jest wiele osób na nieuczulonych,
 
-112
+110
 00:07:55,098 --> 00:07:57,098
 szczególnie te, które nie
 
-113
+111
 00:07:57,098 --> 00:07:59,098
 tolerują laktozy.
 
-114
+112
 00:07:59,098 --> 00:08:01,098
 No tak, tak.
 
-115
+113
 00:08:01,098 --> 00:08:03,098
 60% ludzi
 
-116
+114
 00:08:03,098 --> 00:08:05,098
 nie może pić mleka.
 
-117
+115
 00:08:05,098 --> 00:08:07,098
 No to co robimy?
 
-118
+116
 00:08:11,450 --> 00:08:19,450
 Lodówko, no proszę Cię, otwórz. Naprawdę chciałbym z nimi pogadać.
 
-119
+117
 00:08:19,450 --> 00:08:24,450
 Halo, ej, na Biały jesteście tam?
 
-120
+118
 00:08:24,450 --> 00:08:27,450
 Jesteśmy, albo co?
 
-121
+119
 00:08:27,450 --> 00:08:33,450
 No posłuchajcie, Wy nie możecie się tak zachowywać. Pani Aldona przez Was
 płacze.
 
-122
+120
 00:08:33,450 --> 00:08:40,450
 Uważajmy, on chce nami manipulować. I co z tego, że jest smutna? My też
 jesteśmy, prawda?
 
-123
+121
 00:08:40,450 --> 00:08:43,450
 Prawda!
 
-124
+122
 00:08:43,450 --> 00:08:47,450
 Powiedzcie nam, co my możemy dla Was zrobić?
 
-125
+123
 00:08:47,450 --> 00:08:51,450
 Gadać mi tu zaraz, jakie są Wasze postulaty?
 
-126
+124
 00:08:51,450 --> 00:08:55,450
 A co to są te postulaty?
 
-127
+125
 00:08:55,450 --> 00:09:03,450
 Nie wiem, ale brzmi jak coś rozsądnego. Ej, Ty tam, jakie postulaty? To jakaś
 forma jedzenia?
 
-128
+126
 00:09:03,450 --> 00:09:11,450
 Ojej, otwórzcie to. Pogadamy jak produkt spożywczy z człowiekiem.
 
-129
+127
 00:09:11,450 --> 00:09:22,450
 O, no proszę. No chodź. Chodź i spokojnie powiesz nam teraz, o co Wam chodzi.
 
-130
+128
 00:09:22,450 --> 00:09:27,450
 Wygodnie? No, proszę mów.
 
-131
+129
 00:09:28,450 --> 00:09:33,450
 Domagamy się szacunku i chcemy być częściej spożywane.
 
-132
+130
 00:09:33,450 --> 00:09:36,450
 To nasze postulaty.
 
-133
+131
 00:09:36,450 --> 00:09:43,450
 I tyle? Naprawdę? Tylko tyle? Nie ma sprawy, to w porządku.
 
-134
+132
 00:09:43,450 --> 00:09:47,450
 Idę zawołać Panią Aldonę. Pani Aldono!
 
-135
+133
 00:09:47,450 --> 00:09:54,450
 Pani Aldono, proszę tu do nas. Proszę, zapraszamy. Niech Pani go posłucha.
 
-136
+134
 00:09:54,450 --> 00:09:58,450
 Posłucha? To naprawdę niewiele. Jogurcie, proszę mów.
 
-137
+135
 00:09:58,450 --> 00:10:04,450
 Chcemy, by nas Pani bardziej doceniała. To nasze postulaty.
 
-138
+136
 00:10:04,450 --> 00:10:12,450
 Ale przecież ja Was doceniam. No przecież wiem, jak ważne jesteście dla naszego
 organizmu.
 
-139
+137
 00:10:12,450 --> 00:10:22,450
 Przecież białko to jest jedna z najważniejszych podstawowych wartości
 odżywczych. Dzięki niemu jesteśmy zdrowi i odporni na te wszystkie infekcje i
 choroby.
 
-140
+138
 00:10:23,450 --> 00:10:26,450
 To miłe, co Pani mówi.
 
-141
+139
 00:10:26,450 --> 00:10:33,450
 Obiecuję, że się wami zajmę i będę częściej spożywać. Umowa stoi?
 
-142
+140
 00:10:33,450 --> 00:10:35,450
 Stoi!
 
-143
+141
 00:10:41,210 --> 00:10:42,710
 Ha ha
 
-144
+142
 00:10:42,736 --> 00:10:44,736
 I się pogodzili.
 
-145
+143
 00:10:46,736 --> 00:10:49,736
 Owoce dosiadły się do śniadania.
 
-146
+144
 00:10:49,736 --> 00:10:53,736
 Tak, elegancko zjedli sobie razem śniadanie, pogodzenie.
 
-147
+145
 00:10:53,736 --> 00:10:56,736
 Musi Pani wiedzieć, że sfermentowane napoje mleczne
 
-148
+146
 00:10:56,736 --> 00:10:59,736
 znakomicie smakują z owoca.
 
-149
+147
 00:10:59,736 --> 00:11:03,736
 Także wie Pani, no trochę się nauczyłem o tym na biale.
 
-150
+148
 00:11:05,736 --> 00:11:08,736
 I zażegnałem, no problem u Pani Aldony.
 
-151
+149
 00:11:08,736 --> 00:11:11,736
 Także to udało się, że tak powiem.
 
-152
+150
 00:11:12,736 --> 00:11:14,736
 Jest Pan moim...
 
-153
+151
 00:11:14,736 --> 00:11:16,736
 ...bohaterem.
 
-154
+152
 00:11:16,736 --> 00:11:18,736
 To dzieje...
 
-155
+153
 00:11:20,736 --> 00:11:21,736
 Jabłko.
 
-156
+154
 00:11:21,736 --> 00:11:22,736
 Chętnie.
 
+155
+00:11:26,182 --> 00:11:29,182
+Napisy stworzone przez społeczność Amara.org
+
+156
+00:11:56,182 --> 00:12:00,182
+www.astronarium.pl
+
 157
-00:11:26,182 --> 00:11:30,622
-Muzyka
+00:12:00,182 --> 00:12:04,182
+Produkcja Polskie Towarzystwo Astronomiczne Telewizja Polska
 
 158
-00:11:30,682 --> 00:11:32,582
-Muzyka
-
-159
-00:11:32,982 --> 00:11:35,142
-Muzyka
-
-160
-00:11:35,862 --> 00:11:41,822
-Muzyka
-
-161
-00:11:42,302 --> 00:11:45,982
-Muzyka
-
-162
-00:11:45,982 --> 00:11:51,982
-Muzyka
-
-163
-00:11:51,982 --> 00:11:56,982
-Muzyka
-
-164
-00:11:56,982 --> 00:12:01,982
-Muzyka
-
-165
-00:12:01,982 --> 00:12:02,982
-Muzyka
+00:12:04,182 --> 00:12:06,126
+Transkrypcja Magdalena Świerczek
 

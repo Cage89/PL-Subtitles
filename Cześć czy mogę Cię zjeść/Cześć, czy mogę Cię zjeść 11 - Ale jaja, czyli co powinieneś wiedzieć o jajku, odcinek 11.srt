@@ -1,529 +1,541 @@
 1
-00:00:00,000 --> 00:00:04,000
+00:00:00,000 --> 00:00:10,040
 Ej, witam! Z góry! Możesz się ucierzyć?
 
 2
-00:00:04,000 --> 00:00:09,000
-My chcemy spać! Przestań już tak! Tak, to nie jest grzeczne!
+00:00:10,040 --> 00:00:16,000
+My chcemy spać. Przestań już tak, tak, to nie jest grzeczne!
 
 3
-00:00:20,218 --> 00:00:23,718
-A właśnie, że będę.
+00:00:20,218 --> 00:00:21,338
+Aaaa
 
 4
-00:00:35,718 --> 00:00:37,718
-My jesteśmy owocami
+00:00:21,358 --> 00:00:24,658
+A właśnie że będę
 
 5
-00:00:37,718 --> 00:00:39,178
-Peślowi witaminami
+00:00:36,178 --> 00:00:37,698
+My jesteśmy owocami
 
 6
-00:00:39,198 --> 00:00:41,198
-Świętujemy Ci jedzenie
+00:00:37,698 --> 00:00:38,578
+Refle(?)
 
 7
-00:00:41,198 --> 00:00:42,878
-Zdrowe, wyślne przyjaciele
+00:00:38,878 --> 00:00:40,278
+Na nie świętujemy dziś jedzenie
 
 8
-00:00:42,878 --> 00:00:44,618
-Cześć!
+00:00:40,278 --> 00:00:40,778
+D Biraz barnijk
 
 9
-00:00:44,618 --> 00:00:47,138
-Możesz nas zjeść!
+00:00:40,778 --> 00:00:40,998
+Z uselesslich
 
 10
-00:00:48,576 --> 00:00:56,176
-My jesteśmy warzywami, leśnymi witaminami. Zrobisz zupę z nas uprzejdzie, tylko
-nigdzie nie znajdziecie.
+00:00:40,998 --> 00:00:41,578
+Friends
 
 11
-00:00:56,176 --> 00:01:00,176
-Cześć! Możesz nas zjeść!
+00:00:41,578 --> 00:00:42,318
+No
 
 12
-00:01:02,576 --> 00:01:09,576
-My jesteśmy fast foodami, niezdrowymi tłuszczochami. Mamy cukier i kalorie,
-zaraz się nie zbliści w spodnie.
+00:00:42,618 --> 00:00:43,778
+Cześć
 
 13
-00:01:09,576 --> 00:01:13,576
-Cześć! Możesz nas zjeść!
+00:00:45,478 --> 00:00:46,378
+Możesz Naz Swe�phere
 
 14
-00:01:15,076 --> 00:01:17,076
-Możesz nas zjeść!
+00:00:48,576 --> 00:00:56,076
+My Jesteśmy warzywami, leśnymi witaminami. Zrobisz zupę z nas uprzejdzie, tylko
+nigdzie nie znajdziecie.
 
 15
-00:01:18,576 --> 00:01:20,576
-Możesz nas zjeść!
+00:00:56,076 --> 00:01:00,076
+Cześć! Możesz nas zjeść!
 
 16
+00:01:02,576 --> 00:01:09,576
+My Jesteśmy fast foodami, niezdrowymi tłuszczochami. Mamy cukier i kalorie,
+zaraz się nie zbliści w spodnie.
+
+17
+00:01:09,576 --> 00:01:17,076
+Cześć! Możesz nas zjeść! Możesz nas zjeść!
+
+18
+00:01:18,576 --> 00:01:22,576
+Możesz nas zjeść!
+
+19
 00:01:22,618 --> 00:01:25,618
 Jaki piękny dzień.
 
-17
+20
 00:01:26,618 --> 00:01:29,618
 Uwielbiam robić zakupy w taką właśnie pogodę.
 
-18
+21
 00:01:30,618 --> 00:01:35,618
 Warzywa i owoce w świetle słońca wyglądają przepięknie i wręcz wołają do mnie
 
-19
+22
 00:01:35,618 --> 00:01:38,618
 weź mnie, weź mnie, nie, nie, ja, ja.
 
-20
+23
 00:01:38,618 --> 00:01:40,618
 O, zobaczcie co ja tutaj mam.
 
-21
+24
 00:01:40,618 --> 00:01:43,618
 Jabłka. Uwielbiam ich smak.
 
-22
+25
 00:01:49,344 --> 00:01:53,344
 Przepyszne i słodziutkie. Uwielbiam.
 
-23
+26
 00:01:53,344 --> 00:01:55,344
 Co my tu jeszcze mamy?
 
-24
+27
 00:01:55,344 --> 00:01:57,344
 O, coś bez czego nie ma dobrej zabawy.
 
-25
+28
 00:01:57,344 --> 00:02:01,344
 I w gotowaniu, i przy śniadaniu, i przy kolacji.
 
-26
+29
 00:02:01,344 --> 00:02:03,344
 Jajko!
 
-27
+30
 00:02:12,344 --> 00:02:15,344
 Nie no, ja już tego dłużej nie zniosę.
 
-28
+31
 00:02:15,344 --> 00:02:18,272
 Może sam zaraz zniesiesz jajko?
 
-29
+32
 00:02:18,272 --> 00:02:21,512
 Bardzo śmieszne. Trzeba temu jakoś zaradzić.
 
-30
+33
 00:02:21,512 --> 00:02:24,792
 Trzeba się spytać o co mu chodzi.
 
-31
+34
 00:02:24,792 --> 00:02:30,512
 Najlepiej tam trzeba wejść i zrobić z niego jajko sadzone.
 
-32
+35
 00:02:30,512 --> 00:02:31,512
 Pomidor?
 
-33
+36
 00:02:31,512 --> 00:02:35,072
 Nie martw się pomidorze, nikt nikogo nie stłuczy.
 
-34
+37
 00:02:35,072 --> 00:02:38,312
 Pan hamburger ostatnio coś nie ma za dobrego humoru.
 
-35
+38
 00:02:38,312 --> 00:02:46,672
 Trzeba zaprowadzić się przed oblicze naszej wszechmocnej, jedynej i
 najmądrzejszej.
 
-36
-00:02:46,672 --> 00:02:47,872
+39
+00:02:46,672 --> 00:02:47,632
 Tak.
 
-37
+40
 00:02:47,888 --> 00:02:49,688
 Tak trzeba będzie zrobić.
 
-38
+41
 00:02:54,618 --> 00:02:59,618
 O, proszę. Oto nasi bohaterowie. Jajka.
 
-39
+42
 00:02:59,618 --> 00:03:03,618
 Siedzą tutaj sobie wygodnie i czekają, aż sobie z nich coś zrobimy.
 
-40
+43
 00:03:03,618 --> 00:03:10,618
 Na przykład jakąś jajecznicę, albo omlet, albo ciasto, albo jajko sadzone.
 
-41
+44
 00:03:10,618 --> 00:03:13,618
 Tak, tak. My ludzie kochamy jeść jajka.
 
-42
+45
 00:03:13,618 --> 00:03:16,618
 Jajko to taka kapsuła witaminowa.
 
-43
+46
 00:03:16,618 --> 00:03:20,618
 Zawiera wszystkie składniki odżywcze oprócz witaminy C.
 
-44
+47
 00:03:20,618 --> 00:03:24,618
 Można więc powiedzieć, że jajka są najzdrowsze.
 
-45
+48
 00:03:24,618 --> 00:03:29,618
 Tak, dobrze słyszeliście. Jajka są najzdrowsze.
 
-46
+49
 00:03:29,618 --> 00:03:32,618
 Po prostu jajo jest wspaniałe.
 
-47
+50
 00:03:37,626 --> 00:03:40,826
 Jestem beznadziejny.
 
-48
+51
 00:03:42,826 --> 00:03:44,826
 Bardzo ciekawe.
 
-49
+52
 00:03:47,826 --> 00:03:49,826
 Jajo drogie.
 
-50
+53
 00:03:49,826 --> 00:03:53,826
 Dlaczego płaczesz?
 
-51
-00:03:55,360 --> 00:03:57,760
+54
+00:03:55,360 --> 00:03:57,800
 Bo jestem beznadziejny!
 
-52
-00:04:00,360 --> 00:04:03,960
-Jak to beznadziejne?
+55
+00:04:00,680 --> 00:04:03,720
+Jak to, beznadziejny?
 
-53
-00:04:03,960 --> 00:04:11,360
+56
+00:04:03,720 --> 00:04:11,500
 Na czyjej podstawie osądzasz się tak surowo?
 
-54
+57
 00:04:12,160 --> 00:04:19,160
 Na żadnej podstawie, przecież to oczywiste, że nikt mnie nie chce.
 
-55
+58
 00:04:20,160 --> 00:04:22,160
 No i tak cały czas.
 
-56
+59
 00:04:24,160 --> 00:04:29,160
 Dlaczego myślisz, że nikt cię nie chce?
 
-57
+60
 00:04:30,160 --> 00:04:32,160
 No bo jestem sam, sam jak palec.
 
-58
+61
 00:04:33,160 --> 00:04:35,160
 Przecież ty nie masz żadnych palców.
 
-59
+62
 00:04:35,160 --> 00:04:42,160
 No i tak się mówi, na początku to było nas tysiące, tysiące.
 
-60
+63
 00:04:43,160 --> 00:04:47,160
 Tysiące, to ciekawe.
 
-61
+64
 00:04:48,160 --> 00:04:52,160
 Tak, tam skąd pochodzę kury znoszą tysiące jajek.
 
-62
+65
 00:04:53,160 --> 00:04:58,160
 Ja zostałem wybrany i razem z braćmi trafiliśmy tutaj do waszej lutówki.
 
-63
+66
 00:04:59,160 --> 00:05:01,160
 No i z tego powodu płaczesz?
 
-64
+67
 00:05:01,160 --> 00:05:03,160
 No oczywiście, że nie.
 
-65
+68
 00:05:04,160 --> 00:05:11,160
 Ale miałem nadzieję, że trafię do jajecznicy albo do ciasta, ale tak się nie
 stało.
 
-66
+69
 00:05:12,160 --> 00:05:19,160
 Wszystkie jajka już zostały użyte, a tylko ja zostałem sam i nikt mnie nie lubi.
 
-67
+70
 00:05:20,160 --> 00:05:23,160
 Ja jestem nieprzydatny.
 
-68
+71
 00:05:23,160 --> 00:05:25,160
 Nieprzydatny.
 
-69
+72
 00:05:28,160 --> 00:05:32,160
 Jak mogłeś pomyśleć o sobie w taki sposób?
 
-70
+73
 00:05:33,160 --> 00:05:37,160
 Przecież jajka są bardzo lubiane przez ludzi.
 
-71
+74
 00:05:38,160 --> 00:05:44,160
 Jeden człowiek może nawet zjeść do dziesięciu jajek tygodniowo.
 
-72
+75
 00:05:45,160 --> 00:05:50,160
 Nie, nie, nie, nie. Tak tylko mówisz, żeby mnie pocieszyć.
 
-73
+76
 00:05:53,160 --> 00:05:53,840
 Nie, nie, nie.
 
-74
+77
 00:05:53,840 --> 00:05:59,840
 Jajko dzielimy na białko.
 
-75
+78
 00:06:08,840 --> 00:06:10,840
 I żółtko.
 
-76
+79
 00:06:13,338 --> 00:06:22,338
 Niektóre osoby lubią białko, chociaż tak naprawdę białko to jest przede
 wszystkim woda.
 
-77
+80
 00:06:22,338 --> 00:06:29,338
 Żółtko natomiast to tłuszcz i rozpuszczone w nim witaminy.
 
-78
+81
 00:06:29,338 --> 00:06:35,338
 Co ciekawe, żółtko jajka zawiera więcej białka niż białko jajka.
 
-79
+82
 00:06:35,338 --> 00:06:39,338
 No dobrze, wstawmy resztę jajek do lodówki.
 
-80
+83
 00:06:39,338 --> 00:06:42,338
 A pamiętajcie, to jest bardzo ważne.
 
-81
+84
 00:06:42,338 --> 00:06:49,338
 Jajka mogą przebywać w lodówce do trzech tygodni, ale nie martwcie się, do tego
 czasu na pewno je zjecie.
 
-82
+85
 00:06:49,338 --> 00:06:52,338
 Pani Aldono! Pani Aldono!
 
-83
+86
 00:06:52,338 --> 00:06:56,338
 Co tu się dzieje? Co tu się znowu dzieje?
 
-84
+87
 00:06:59,338 --> 00:07:04,338
 No tak się cieszę, że pani w końcu otworzyła lodówkę, pani Aldono!
 
-85
+88
 00:07:04,338 --> 00:07:05,338
 A co się stało?
 
-86
+89
 00:07:05,338 --> 00:07:08,338
 Oj, stało się, stało!
 
-87
+90
 00:07:08,338 --> 00:07:10,338
 A co pani tu trzyma?
 
-88
+91
 00:07:10,338 --> 00:07:16,338
 Byłam właśnie w sklepie, kupiłam kilka produktów, w tym 10 jajek.
 
-89
+92
 00:07:16,338 --> 00:07:22,338
 No w samą porę, bo już nie mogliśmy tu z takim jednym wytrzymać.
 
-90
+93
 00:07:22,338 --> 00:07:25,338
 No chodź, pokaż się pani Aldonie.
 
-91
+94
 00:07:27,184 --> 00:07:27,684
 O!
 
-92
+95
 00:07:30,352 --> 00:07:32,352
 Dzień dobry, przyjacielu!
 
-93
+96
 00:07:33,352 --> 00:07:34,352
 Jak się masz?
 
-94
+97
 00:07:35,352 --> 00:07:38,352
 To właśnie! Nie daj lepiej pani Aldono!
 
-95
+98
 00:07:39,352 --> 00:07:42,352
 On twierdzi, że jest beznadziejny.
 
-96
+99
 00:07:43,352 --> 00:07:44,352
 Jestem beznadziejny.
 
-97
+100
 00:07:45,352 --> 00:07:46,352
 Naprawdę?
 
-98
+101
 00:07:47,352 --> 00:07:48,352
 Jak to?
 
-99
+102
 00:07:49,352 --> 00:07:51,352
 To pani wina.
 
-100
+103
 00:07:52,352 --> 00:07:53,352
 Moja wina?
 
-101
+104
 00:07:54,352 --> 00:07:55,352
 Powiedz mi, co się stało?
 
-102
+105
 00:07:56,352 --> 00:07:57,352
 No bo ja byłem sam.
 
-103
+106
 00:07:57,352 --> 00:08:03,352
 Całkiem sam w tej pustej lodówce, gdzie wyraźnie są miejsca dla moich braci
 jajek.
 
-104
+107
 00:08:04,352 --> 00:08:14,352
 Ale ja właśnie byłam w sklepie i kupiłam, o proszę bardzo, 10 kolejnych jajek, a
 z ciebie chciałam zrobić omlet.
 
-105
+108
 00:08:16,096 --> 00:08:24,096
 Naprawdę? Naprawdę. Wielbiam jajka. My wszyscy je uwielbiamy.
 
-106
+109
 00:08:24,096 --> 00:08:28,096
 A dlaczego one mają takie cyferki na skorupkach?
 
-107
+110
 00:08:28,096 --> 00:08:36,096
 O, właśnie, właśnie cyferki. Wybierając jajka na sklepowych półkach,
 
-108
+111
 00:08:36,096 --> 00:08:44,096
 powinniśmy zwrócić uwagę na ich oznaczenia, czyli właśnie te cyferki.
 
-109
+112
 00:08:46,096 --> 00:08:54,096
 Te pochodzenia ekologiczne mają cyferkę 0. To jest wolnego wybiegu cyferkę 1.
 
-110
+113
 00:08:54,096 --> 00:09:00,096
 Ale to nie znaczy, że jajko sobie biega, tylko to oznacza, że kura, która je
 złożyła,
 
-111
+114
 00:09:00,096 --> 00:09:05,096
 żyła sobie swobodnie i szczęśliwie, a nie w klatce.
 
-112
+115
 00:09:05,096 --> 00:09:10,096
 I to właśnie takie jajka są najbardziej wartościowe i najsmaczniejsze.
 
-113
+116
 00:09:10,096 --> 00:09:15,096
 A, jest jeszcze cyferka 2. To są jajka z chowu ściółkowego.
 
-114
+117
 00:09:15,096 --> 00:09:19,096
 To znaczy, że kura mieszkała w takim małym kurniczku.
 
-115
+118
 00:09:19,096 --> 00:09:23,096
 Ha, czyli są różne grupy jajek?
 
-116
+119
 00:09:23,096 --> 00:09:28,096
 Oczywiście, że tak. Ja jestem oznaczeniem jako jajko 3.
 
-117
+120
 00:09:28,096 --> 00:09:34,096
 I powiem Panie Aldona, że było nas tam naprawdę, ale to bardzo dużo.
 
-118
+121
 00:09:34,096 --> 00:09:41,096
 No właśnie. Niestety w Polsce cały czas jeszcze najbardziej popularne są jajka z
 cyferką 3.
 
-119
+122
 00:09:41,504 --> 00:09:52,504
 A to oznacza, że kura, która je złożyła przez całe swoje życie, nie miała
 dostępu do natury, tylko siedziała ściśnięta w klatce.
 
-120
+123
 00:09:54,256 --> 00:10:04,256
 Dlatego myślałem, że mnie pani nie chce zjeść, że jestem sam i nie jestem nic
 wart.
 
-121
+124
 00:10:04,256 --> 00:10:11,256
 No nie, nieprawda. Ty też jesteś wartościowy i właśnie dlatego chciałam zrobić z
 ciebie omlet.
 
-122
+125
 00:10:11,256 --> 00:10:12,256
 Tak, tak.
 
-123
+126
 00:10:12,256 --> 00:10:18,256
 A ja mógłbym też uczestniczyć w tym kulinarnym dziele?
 
-124
+127
 00:10:18,256 --> 00:10:23,256
 Oczywiście. Mleko do omleta jak najbardziej mile widziane.
 
-125
+128
 00:10:23,256 --> 00:10:27,256
 Cudownie. No to hop.
 
-126
+129
 00:10:27,256 --> 00:10:29,256
 No to co?
 
-127
+130
 00:10:31,616 --> 00:10:34,616
 Napisy stworzone przez społeczność Amara.org
 
-128
+131
 00:10:39,098 --> 00:10:42,098
 Napisy stworzone przez społeczność Amara.org
 
-129
+132
 00:11:08,666 --> 00:11:13,045
 www.youtube.com
 

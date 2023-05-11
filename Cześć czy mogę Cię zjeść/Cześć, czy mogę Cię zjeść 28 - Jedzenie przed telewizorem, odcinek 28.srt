@@ -160,23 +160,23 @@ Genialne, co nie?
 Czy ja wiem? A co zrobi Pan z tym małym telewizorem?
 
 38
-00:03:27,640 --> 00:03:29,640
-Nie, nie, nie, nie.
-
-39
 00:03:29,776 --> 00:03:33,776
 A wie Pani, że jeszcze żeśmy o tym nie pomyśleli?
 
-40
-00:03:33,776 --> 00:03:35,776
+39
+00:03:33,776 --> 00:03:34,776
 A?
 
-41
-00:03:35,776 --> 00:03:40,776
+40
+00:03:35,776 --> 00:03:39,776
 Bardzo Pani dziękuję Pani Jadziu. Bardzo dziękuję. Do widzenia.
 
+41
+00:03:39,776 --> 00:03:40,776
+Ty też.
+
 42
-00:03:40,776 --> 00:03:45,776
+00:03:42,776 --> 00:03:44,776
 Dobrze, że ja nie mam takich pomysłów.
 
 43
@@ -404,47 +404,47 @@ Hej ho, hej ho, do pani Aldony by się szło.
 Zaraz, zaraz, zaraz, a co ty? A z czym ty przechodzisz? Co to w ogóle jest?
 
 96
-00:08:06,944 --> 00:08:12,544
-Telewizor, nie widać? No, widzę, widzę, ale po co tutaj ten
+00:08:06,944 --> 00:08:07,944
+Telewizor.
 
 97
-00:08:12,744 --> 00:08:17,544
-telewizor? Chcę go, podarować pani Aldonie, ja mam dwa, ona
+00:08:08,944 --> 00:08:12,944
+Nie widać? No, widzę, widzę, ale po co tutaj ten
 
 98
-00:08:17,744 --> 00:08:21,544
-nie ma ani jednego, a ja oglądam, tylko jeden, więc, chcę
+00:08:12,944 --> 00:08:17,944
+telewizor? Chcę go podarować pani Aldonie. Ja mam dwa, ona nie ma
 
 99
-00:08:21,744 --> 00:08:25,144
-ten drugi, podarować, a ten mój, to jest większy niż
+00:08:17,944 --> 00:08:22,944
+ani jednego, a ja oglądam tylko jeden, więc chcę ten drugi
 
 100
-00:08:25,344 --> 00:08:30,344
-wasz ogródek, słyszeliśmy już, od twojej pieczarki, że
+00:08:22,944 --> 00:08:25,944
+podarować, a ten mój to jest większy niż wasz ogródek.
 
 101
-00:08:30,544 --> 00:08:34,144
-całymi, dniami, tylko, oglądasz i, jesz, przed
+00:08:26,944 --> 00:08:31,944
+Słyszeliśmy już od twojej pieczarki, że całymi dniami
 
 102
-00:08:34,144 --> 00:08:39,944
-telewizorem, a co w tym złego, wszystko, jak to, jedzenie w
+00:08:31,944 --> 00:08:35,944
+tylko oglądasz i jesz przed telewizorem. No a co w tym
 
 103
-00:08:40,144 --> 00:08:42,344
-trakcie, oglądania, telewizji, szkodzi.
+00:08:35,944 --> 00:08:40,944
+roku wszystko? Jak to? Jedzenie w trakcie oglądania telewizji
 
 104
-00:08:42,576 --> 00:08:44,136
-Szkodzi!
+00:08:40,944 --> 00:08:41,944
+szkodzi.
 
 105
-00:08:44,136 --> 00:08:48,816
-Niech pan sam zobaczy, ile osób teraz je i ogląda telewizję.
+00:08:42,576 --> 00:08:48,656
+Szkodzi! Niech pan sam zobaczy, ile osób teraz je i ogląda telewizję.
 
 106
-00:08:48,816 --> 00:08:51,416
+00:08:49,216 --> 00:08:51,216
 No, proszę zerknąć.
 
 107
@@ -531,70 +531,10 @@ Z tego wszystkiego, zostawił telewizor.
 Ha ha ha ha!
 
 126
-00:10:59,078 --> 00:11:01,478
-Neeeso
+00:10:59,078 --> 00:11:08,878
+inability to
 
 127
-00:11:01,478 --> 00:11:03,598
-F lik
-
-128
-00:11:03,678 --> 00:11:04,078
-O
-
-129
-00:11:04,078 --> 00:11:04,278
-No
-
-130
-00:11:04,498 --> 00:11:04,918
-别
-
-131
-00:11:06,918 --> 00:11:07,598
-nie
-
-132
-00:11:07,978 --> 00:11:08,438
-co
-
-133
-00:11:08,438 --> 00:11:08,758
-co
-
-134
-00:11:10,998 --> 00:11:15,378
-n
-
-135
-00:11:19,378 --> 00:11:25,498
-wie
-
-136
-00:11:25,538 --> 00:11:29,038
-jeszcze
-
-137
-00:11:29,078 --> 00:11:31,078
-co
-
-138
-00:11:31,078 --> 00:11:33,078
-co
-
-139
-00:11:33,078 --> 00:11:35,078
-co
-
-140
-00:11:35,078 --> 00:11:37,078
-co
-
-141
-00:11:37,078 --> 00:11:39,078
-co
-
-142
-00:11:39,078 --> 00:11:39,847
-co
+00:11:29,078 --> 00:11:32,078
+Napisy stworzone przez społeczność Amara.org
 

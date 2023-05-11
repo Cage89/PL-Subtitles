@@ -302,92 +302,92 @@ Czekaj sekundę. Słyszałem coś. Zadzwonię za chwilę.
 Ktoś tu jest?
 
 74
-00:05:14,960 --> 00:05:17,960
+00:05:14,960 --> 00:05:18,320
 Nie, to twoja wyobraźnia!
 
 75
-00:05:17,960 --> 00:05:19,960
-Ehehehe.
+00:05:18,320 --> 00:05:23,640
+Ha ha ha!
 
 76
-00:05:19,960 --> 00:05:21,960
-Ehehehe.
+00:05:23,640 --> 00:05:26,300
+Romek podszedł do moich grządek z warzywami.
 
 77
-00:05:21,960 --> 00:05:23,960
-Ehehehe.
+00:05:26,300 --> 00:05:28,760
+Romek i Romek! A co ze mną?
 
 78
-00:05:23,960 --> 00:05:25,960
-Romek podszedł do moich grzątek z warzywami.
+00:05:28,760 --> 00:05:30,320
+Och, sałato, no...
 
 79
-00:05:25,960 --> 00:05:28,960
-Romek i Romek, a co ze mną?
-
-80
-00:05:28,960 --> 00:05:29,960
-Och, sałato, no.
-
-81
-00:05:29,960 --> 00:05:31,960
+00:05:30,320 --> 00:05:32,080
 Zawierasz żelazo, tak?
 
-82
-00:05:31,960 --> 00:05:35,960
-Ale nie ma się czego wstydzić, bo nie jesteś z żelaza, jesteś z sałatą.
+80
+00:05:32,080 --> 00:05:34,960
+Ale nie ma się czego wstydzić, bo nie jesteś z żelaza.
 
-83
-00:05:35,960 --> 00:05:37,960
+81
+00:05:34,960 --> 00:05:36,160
+Jesteś z sałatą.
+
+82
+00:05:36,160 --> 00:05:37,840
 Komidor!
 
-84
-00:05:37,960 --> 00:05:41,960
+83
+00:05:37,840 --> 00:05:41,640
 Żelazo jest jednym z ważniejszych składników mineralnych,
 
-85
-00:05:41,960 --> 00:05:43,960
+84
+00:05:41,640 --> 00:05:44,000
 jakich potrzebuje nasz organizm.
 
-86
-00:05:43,960 --> 00:05:47,960
+85
+00:05:44,000 --> 00:05:47,320
 Znajdziemy je przede wszystkim w tym mięsie.
 
-87
-00:05:47,960 --> 00:05:49,960
-Bardzo czerwone to mięso?
+86
+00:05:47,320 --> 00:05:50,040
+Ach, bardzo czerwone to mięso.
 
-88
-00:05:49,960 --> 00:05:50,960
+87
+00:05:50,040 --> 00:05:50,560
 Mhm.
 
-89
-00:05:50,960 --> 00:05:53,960
+88
+00:05:50,560 --> 00:05:53,520
 Im bardziej czerwone, tym więcej żelaza.
 
-90
-00:05:53,960 --> 00:05:57,960
+89
+00:05:53,520 --> 00:05:57,480
 Najwięcej ma go wołowina, potem wieprzowina.
 
-91
-00:05:57,960 --> 00:06:01,960
+90
+00:05:57,480 --> 00:06:01,440
 Ulubione przez dzieci kurczaki i indyki mają go niewiele.
 
-92
-00:06:01,960 --> 00:06:06,960
+91
+00:06:01,440 --> 00:06:06,840
 Dlatego ważne jest, aby czerwone mięso było regularnie w diecie dzieci.
 
-93
-00:06:06,960 --> 00:06:09,960
+92
+00:06:06,840 --> 00:06:09,560
 Tak, to prawda, lodówko.
 
+93
+00:06:09,560 --> 00:06:13,560
+Dlatego hamburger wołowy na dobrej wołowinie,
+
 94
-00:06:09,960 --> 00:06:15,960
-Dlatego hamburger wołowy na dobrej wołowinie, spaghetti bolognese czy pulpeciki
+00:06:13,600 --> 00:06:17,600
+spaghetti bolognese czy pulpeciki są nie tylko smaczne,
 
 95
-00:06:15,960 --> 00:06:19,960
-są nie tylko smaczne, ale i potrzebne w diecie dzieci.
+00:06:17,600 --> 00:06:19,600
+ale i potrzebne w diecie dzieci.
 
 96
 00:06:20,464 --> 00:06:22,464
@@ -612,14 +612,18 @@ A co to są te lajki?
 Pomidor!
 
 150
-00:09:16,198 --> 00:09:37,458
-N critique
+00:09:16,198 --> 00:09:18,198
+Część
 
 151
-00:09:37,458 --> 00:09:37,898
-👍
+00:09:21,938 --> 00:09:24,578
+lifts
 
 152
+00:09:46,198 --> 00:09:48,198
+Cześć!
+
+153
 00:09:52,090 --> 00:09:54,090
 www.multi-moto.eu
 

@@ -19,19 +19,19 @@ Wyśmienicie. No i z tobą cebulko.
 Pięknie pachnie. Sama mam na nią ochotę?
 
 6
-00:00:28,960 --> 00:00:31,760
+00:00:28,960 --> 00:00:31,560
 Pani Aldono, jest sprawa.
 
 7
-00:00:34,960 --> 00:00:36,760
+00:00:34,960 --> 00:00:36,960
 A co, Panie Ambroży?
 
 8
-00:00:36,760 --> 00:00:40,760
-A nic, nic, nic. A co to tak pięknie pachnie?
+00:00:36,960 --> 00:00:40,960
+Nic, nic, nic. A co to tak pięknie pachnie?
 
 9
-00:00:40,760 --> 00:00:46,960
+00:00:40,960 --> 00:00:46,960
 Jajeczniczka, szyneczka, cebulka.
 
 10
@@ -516,48 +516,48 @@ Może to być na przykład budyń, zupa mleczna, a nawet naleśniki z serem.
 Albo warzywa. Ale lepiej żeby to były warzywa gotowane albo duszone,
 
 127
-00:09:35,426 --> 00:09:38,426
+00:09:35,426 --> 00:09:39,426
 bo są bardziej lekkostrawne od tych surowych.
 
 128
-00:09:38,426 --> 00:09:40,426
+00:09:39,426 --> 00:09:41,426
 A co z porcjami?
 
 129
-00:09:40,426 --> 00:09:46,426
+00:09:41,426 --> 00:09:47,426
 Właśnie, porcja powinna być nie większa niż piłka tenisowa.
 
 130
-00:09:48,426 --> 00:09:49,426
+00:09:47,426 --> 00:09:50,426
 O, cześć, Rombu.
 
 131
-00:09:49,426 --> 00:09:51,426
+00:09:50,426 --> 00:09:52,426
 Czu, czu.
 
 132
-00:09:51,426 --> 00:09:52,426
+00:09:52,426 --> 00:09:53,426
 Tak.
 
 133
-00:09:52,426 --> 00:09:57,426
+00:09:53,426 --> 00:09:58,426
 Od dzisiaj, póki u ciebie mieszkam, chciałbym, żebyś mi przygotowywała
 śniadania.
 
 134
-00:09:57,426 --> 00:10:01,426
+00:09:58,426 --> 00:10:02,426
 Bo chcę je jeść tu, w domu.
 
 135
-00:10:01,426 --> 00:10:04,426
+00:10:02,426 --> 00:10:05,426
 Oczywiście. A co się stało?
 
 136
-00:10:04,426 --> 00:10:07,426
+00:10:05,426 --> 00:10:08,426
 Nic takiego. To moja tajemnica.
 
 137
-00:10:07,426 --> 00:10:12,426
+00:10:08,426 --> 00:10:12,426
 Takie tajemnice możesz mieć. A obiad? Masz ochotę na obiad?
 
 138
@@ -577,10 +577,74 @@ Dobrze.
 Co mu się stało? A wy wiecie?
 
 142
-00:10:55,734 --> 00:11:01,734
-Nie zapomnijcie zasubskrybować oraz zafollowować mnie na Facebooku!
+00:10:25,734 --> 00:10:27,734
+Co się stało?
 
 143
+00:10:27,734 --> 00:10:29,734
+Co się stało?
+
+144
+00:10:29,734 --> 00:10:31,734
+Co się stało?
+
+145
+00:10:31,734 --> 00:10:33,734
+Co się stało?
+
+146
+00:10:33,734 --> 00:10:35,734
+Co się stało?
+
+147
+00:10:35,734 --> 00:10:37,734
+Co się stało?
+
+148
+00:10:37,734 --> 00:10:39,734
+Co się stało?
+
+149
+00:10:39,734 --> 00:10:41,734
+Co się stało?
+
+150
+00:10:41,734 --> 00:10:43,734
+Co się stało?
+
+151
+00:10:45,734 --> 00:10:47,734
+Co się stało?
+
+152
+00:10:47,734 --> 00:10:49,734
+Co się stało?
+
+153
+00:10:49,734 --> 00:10:51,734
+Co się stało?
+
+154
+00:10:51,734 --> 00:10:53,734
+Co się stało?
+
+155
+00:10:53,734 --> 00:10:55,734
+Co się stało?
+
+156
+00:10:55,734 --> 00:10:57,734
+Co się stało?
+
+157
+00:10:57,734 --> 00:10:59,734
+Co się stało?
+
+158
+00:10:59,734 --> 00:11:01,734
+Co się stało?
+
+159
 00:11:01,754 --> 00:11:03,754
 www.youtube.com
 

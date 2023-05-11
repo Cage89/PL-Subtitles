@@ -1,712 +1,679 @@
 1
-00:00:00,346 --> 00:00:03,846
-Yo yo yo yo yo
+00:00:00,346 --> 00:00:06,266
+Yo, yo, yo, yo, yo, jestem jajkiem, co się zjawię
 
 2
-00:00:03,846 --> 00:00:06,346
-Jestem jajkiem, coś się zjawię
-
-3
-00:00:06,346 --> 00:00:08,846
+00:00:06,266 --> 00:00:08,826
 Dużo białka noszę w sobie
 
-4
-00:00:08,846 --> 00:00:11,346
+3
+00:00:08,826 --> 00:00:11,386
 Żółtko we mnie znajdziesz też
 
+4
+00:00:11,386 --> 00:00:14,106
+Hallo? Czy mnie dzisiaj zjedzysz?
+
 5
-00:00:11,346 --> 00:00:13,846
-Halo czy mnie dzisiaj zjesz?
+00:00:14,106 --> 00:00:16,586
+Jestem sobie różba finka
 
 6
-00:00:13,846 --> 00:00:16,646
-Jestem w sobie różba finka
+00:00:16,586 --> 00:00:19,226
+Słodka, ładna żura finka
 
 7
-00:00:16,646 --> 00:00:19,346
-Słodka, ładna, żuropinka
-
-8
-00:00:19,346 --> 00:00:21,646
+00:00:19,226 --> 00:00:21,786
 Jeśli czujesz jakąś chęć
 
+8
+00:00:21,786 --> 00:00:24,666
+Hey! Czy mnie możesz zjeść?
+
 9
-00:00:21,646 --> 00:00:24,346
-Ej! Czy mnie możesz zjeść?
+00:00:24,666 --> 00:00:27,306
+A ja jestem Krowim mlekiem
 
 10
-00:00:24,346 --> 00:00:27,346
-A ja jestem krowi mlekiem
+00:00:27,306 --> 00:00:29,786
+Wapno dla was jest mnemlekiem
 
 11
-00:00:27,346 --> 00:00:29,846
-Babno dla was jest me mlekiem
-
-12
-00:00:29,846 --> 00:00:32,346
+00:00:29,786 --> 00:00:32,506
 Gdy stragniony jesteś dzisiaj
 
-13
-00:00:32,346 --> 00:00:35,346
+12
+00:00:32,506 --> 00:00:35,506
 Wypij szklankę z mego pysia
 
-14
-00:00:35,346 --> 00:00:37,346
-Stop! Stop! Stop!
+13
+00:00:35,506 --> 00:00:37,506
+Stop, stop, stop!
 
-15
+14
 00:00:37,952 --> 00:00:41,552
 Jakiego pysia? Przecież ty masz dziubek!
 
-16
+15
 00:00:41,552 --> 00:00:49,152
 No dziubek, dziubek, no nie miałem rymu, a dziubek to jest taki, no taki
 pyszczek, czyli inaczej pysiacz i no, no taki mały, no...
 
-17
+16
 00:00:49,152 --> 00:01:00,752
-No nie! Jeśli chcemy wystąpić na ogólnowarzywniakowym konkursie dla raperów o
+No nie, jeśli chcemy wystąpić na ogólnowarzywniakowym konkursie dla raperów o
 pani Jadzi, to nie możemy się tak kompromitować.
 
+17
+00:01:00,752 --> 00:01:02,752
+No, tak, tak.
+
 18
-00:01:00,752 --> 00:01:01,752
-No.
+00:01:07,952 --> 00:01:09,952
+Dzień dobry!
 
 19
-00:01:01,752 --> 00:01:02,752
-Tak, tak.
-
-20
 00:01:10,426 --> 00:01:18,226
 My jesteśmy owocami, pysznymi witaminami. Świętujemy dziś jedzenie, zdrowe,
 pyszne przyjaciele.
 
-21
+20
 00:01:18,226 --> 00:01:22,426
 Cześć! Możesz nas zjeść!
 
-22
+21
 00:01:24,426 --> 00:01:31,426
 My jesteśmy warzywami, pysznymi witaminami. Zrobisz zupę z nas lub przejdziem,
 tego nigdzie nie znajdziecie.
 
-23
+22
 00:01:31,426 --> 00:01:35,426
 Cześć! Możesz nas zjeść!
 
-24
+23
 00:01:37,632 --> 00:01:45,132
 My jesteśmy fast foodami, niezdrowymi tłuszczochami, mamy cukier i kalorie,
 zaraz się nie zmieści w spodnie.
 
-25
+24
 00:01:45,132 --> 00:01:52,632
 Cześć! Możesz nas zjeść! Możesz nas zjeść!
 
-26
+25
 00:01:58,010 --> 00:02:00,010
 Pani Aldono!
 
-27
+26
 00:02:02,010 --> 00:02:03,010
 Pani Aldono!
 
-28
+27
 00:02:03,010 --> 00:02:05,010
 Dzień dobry, dzień dobry Panie Ambroży.
 
-29
+28
 00:02:05,010 --> 00:02:07,010
 Przesadziłem, przebiłem.
 
-30
+29
 00:02:07,010 --> 00:02:09,010
 Przesadziłem, przebiłem samego siebie.
 
-31
+30
 00:02:09,010 --> 00:02:13,010
 Panie Ambroży, trudno będzie przebić Pana tą karetkę
 
-32
+31
 00:02:13,010 --> 00:02:15,010
 i pobyt w szpitalu z przejedzenia,
 
-33
+32
 00:02:15,010 --> 00:02:17,010
 albo ten jogurt, który Pan zjadł,
 
-34
+33
 00:02:17,010 --> 00:02:19,010
 chociaż był Pan na niego uczulony.
 
-35
+34
 00:02:19,010 --> 00:02:22,010
 Pani Aldono, Pani cały czas o jedzeniu,
 
-36
+35
 00:02:22,010 --> 00:02:25,010
 a w życiu są jeszcze inne rzeczy niż jedzenie.
 
-37
+36
 00:02:25,010 --> 00:02:27,010
 Zabieniam się w słuch.
 
-38
+37
 00:02:28,016 --> 00:02:29,488
 No...
 
-39
+38
 00:02:29,488 --> 00:02:31,488
 Chodzi o prawo.
 
-40
+39
 00:02:31,488 --> 00:02:33,488
 Prawo?
 
-41
+40
 00:02:33,488 --> 00:02:35,488
 Tak, prawo.
 
-42
+41
 00:02:35,488 --> 00:02:37,488
 Jakie prawo?
 
-43
+42
 00:02:37,488 --> 00:02:39,488
 No, prawo jazdy. No tak, zdziwi się pani.
 
-44
+43
 00:02:39,488 --> 00:02:41,488
 Ale zapisałem się na kurs prawa jazdy.
 
-45
+44
 00:02:41,488 --> 00:02:43,488
 Wiem, wiem, wiem, wiem, co pani powie.
 
-46
+45
 00:02:43,488 --> 00:02:45,488
 Wiem, co pani powie.
 
-47
+46
 00:02:45,488 --> 00:02:47,488
 Powie pani, po co teraz komuś prawo jazdy, skoro są
 
-48
+47
 00:02:47,488 --> 00:02:49,488
 tramwaje, autobusy,
 
-49
+48
 00:02:49,488 --> 00:02:51,488
 pociągi,
 
-50
+49
 00:02:51,488 --> 00:02:53,488
 taksówki. Ale pani Aldo,
 
-51
+50
 00:02:53,488 --> 00:02:55,488
 tak sterować,
 
-52
+51
 00:02:55,488 --> 00:02:57,488
 to znaczy kierować
 
-53
+52
 00:02:57,488 --> 00:02:59,488
 samochodem, jechać sobie tak,
 
-54
+53
 00:02:59,488 --> 00:03:01,488
 gdzie się chce, kiedy się
 
-55
+54
 00:03:01,488 --> 00:03:03,488
 chce, zatrzymać się, gdzie
 
-56
+55
 00:03:03,488 --> 00:03:05,488
 się chce. To jest
 
-57
+56
 00:03:05,488 --> 00:03:07,488
 wspaniałe uczucie.
 
-58
+57
 00:03:07,488 --> 00:03:09,488
 Panie Ambroży, pan
 
-59
+58
 00:03:09,488 --> 00:03:11,488
 to zawsze tak nakręci wszystko dramatycznie,
 
-60
+59
 00:03:11,488 --> 00:03:13,488
 jakby to miała być jakaś katastrofa
 
-61
+60
 00:03:13,488 --> 00:03:15,488
 albo koniec świata.
 
-62
+61
 00:03:15,488 --> 00:03:17,488
 A pan po prostu zdaje na prawo jazdy.
 
-63
+62
 00:03:17,488 --> 00:03:19,488
 No to to jest świetna wiadomość.
 
-64
+63
 00:03:19,488 --> 00:03:21,488
 Nie o to się rozchodzi, pani Aldona.
 
-65
+64
 00:03:21,488 --> 00:03:23,488
 Chodzi o ten egzamin.
 
-66
+65
 00:03:23,488 --> 00:03:25,488
 No, z tym kierowaniem pojazdem
 
-67
+66
 00:03:25,488 --> 00:03:27,488
 to ja sobie poradzę.
 
-68
+67
 00:03:27,488 --> 00:03:29,488
 Chociaż przyznam, te manewry to nie jest wcale
 
-69
+68
 00:03:29,488 --> 00:03:31,488
 takie proste, ale ta teoria,
 
-70
+69
 00:03:31,488 --> 00:03:33,488
 te przepisy,
 
-71
+70
 00:03:33,488 --> 00:03:35,488
 gdzie się zatrzymać, te znaki
 
-72
+71
 00:03:35,488 --> 00:03:37,488
 zakazu, nakazu informacji,
 
-73
+72
 00:03:37,488 --> 00:03:39,488
 to jest niemożliwe. Mój mózg
 
-74
+73
 00:03:39,488 --> 00:03:41,488
 tego nie zapamięta.
 
-75
+74
 00:03:41,488 --> 00:03:43,488
 I tu pana zaskoczę,
 
-76
+75
 00:03:43,488 --> 00:03:45,488
 bo dobra
 
-77
+76
 00:03:45,488 --> 00:03:47,488
 dieta mogłaby w tym panu pomóc.
 
-78
+77
 00:03:49,488 --> 00:03:51,488
 Znowu jedzenie.
 
-79
+78
 00:03:51,488 --> 00:03:53,488
 Jedzenie, jedzenie, jedzenie, jedzenie.
 
-80
+79
 00:03:53,488 --> 00:03:55,488
 No co zrobić.
 
-81
+80
 00:04:01,648 --> 00:04:08,168
 Ej! Właśnie przysłuchuję się, jak pani Aldona mówi, że dobra dieta pomaga w
 koncentracji.
 
-82
+81
 00:04:08,168 --> 00:04:11,928
 Hmm, a czy to jest ta koncentracja? To jakaś konserwa?
 
-83
+82
 00:04:11,928 --> 00:04:17,768
 Nie! To taki kontrast kolorów, jak żółty z czerwonym!
 
-84
+83
 00:04:17,768 --> 00:04:25,688
 A-a ja myślę, że-że to yyy... już sama nie wiem co ja myślę.
 
-85
+84
 00:04:26,168 --> 00:04:33,928
 No właśnie, koncentracja pomaga nam w myśleniu, a robienie niektórych rzeczy
 wymaga koncentracji.
 
-86
+85
 00:04:33,928 --> 00:04:36,528
 A to ciekawe, powiem.
 
-87
+86
 00:04:36,528 --> 00:04:42,328
 Do prawidłowej pracy mózgu niezbędne są węglowodany złożone jak pieczywo.
 
-88
+87
 00:04:42,328 --> 00:04:49,048
 Kasze, makarony, które stopniowo trawione dostarczają energię do mózgu.
 
-89
+88
 00:04:49,048 --> 00:04:54,968
 Jedna trzecia codziennie spożytej energii wykorzystywana jest na procesy
 myślenia.
 
-90
+89
 00:04:55,728 --> 00:05:01,408
 No dobra, tylko czemu nam o tym mówisz, skoro my nie mamy mózgów?
 
-91
+90
 00:05:01,408 --> 00:05:09,728
 A, bo może te informacje pomogą wam, by się skupić przed konkursem dla raperów u
 pani Jadzi z warzywniaka.
 
-92
+91
 00:05:09,728 --> 00:05:13,448
 A, widzisz, o tym nie pomyślałem!
 
-93
+92
 00:05:13,448 --> 00:05:17,008
 A, bo nie możesz się skoncentrować.
 
-94
+93
 00:05:17,008 --> 00:05:19,728
 Musimy porozmawiać z panią Aldoną.
 
-95
+94
 00:05:19,728 --> 00:05:21,728
 Tak, koniecznie.
 
-96
+95
 00:05:25,264 --> 00:05:31,264
 Jedzenie, jedzenie, jedzenie, jedzenie. Pani Aldono, no są jeszcze w życiu inne
 rzeczy niż jedzenie.
 
-97
+96
 00:05:31,264 --> 00:05:36,264
 Ja Panią naprawdę bardzo szanuję. Ale najpierw mi Pani mówi, nie jedz po 18.
 
-98
+97
 00:05:36,264 --> 00:05:43,264
 Białka są takie, węglowo-dany są siakie, to jedz, tego nie jedz, tego nie
 mieszaj, no można zwaliować.
 
-99
+98
 00:05:43,264 --> 00:05:45,264
 Powinien Pan jeść białko.
 
-100
+99
 00:05:46,000 --> 00:05:52,800
 No tak, jeśli Pan lubi mięso i wędliny, to powinny one być wysokiej jakości.
 
-101
+100
 00:05:52,800 --> 00:05:58,900
 Białko to jest podstawa budowy każdej komórki nerwowej odpowiedzialnej za
 procesy myślenia.
 
-102
+101
 00:05:58,900 --> 00:06:02,700
 Więc będzie Pan i spokojniejszy, i mądrzejszy.
 
-103
+102
 00:06:02,700 --> 00:06:05,500
 Co to Zoya, to teraz nie jestem niby?
 
-104
+103
 00:06:05,500 --> 00:06:09,500
 Jest Pan, jest Pan, tylko ciągle Panu czegoś brakuje.
 
-105
+104
 00:06:09,500 --> 00:06:11,500
 Na przykład żelaza.
 
-106
+105
 00:06:11,500 --> 00:06:14,000
 Jakie żelazo? Przecież ja nie mam w sobie żadnego żelaza.
 
-107
+106
 00:06:14,000 --> 00:06:25,000
 No i właśnie to jest błąd, bo żelazo jest odpowiedzialne, by dostarczyć każdej
 naszej komórce tlen i składniki odżywcze.
 
-108
+107
 00:06:25,328 --> 00:06:34,328
 Żelazo, znajdziemy w mięsie, w jajkach, a weganie znajdą go w orzechach i
 zielonych warzywach.
 
-109
+108
 00:06:34,328 --> 00:06:46,328
 Jeśli mamy niedobór żelaza, to nasz mózg nie pracuje odpowiednio, bo nie jest
 dożywiony i nie może pracować na 100%.
 
-110
+109
 00:06:46,328 --> 00:07:01,328
 Zaraz, zaraz, zaraz, zaraz, zaraz. Pani Aldonu, to mówi Pani, że jak ja zjem
 czerwonego mięsa i tych orzechów, tych co wyglądają jak mózg, to nauczę się do
 tego egzaminu?
 
-111
+110
 00:07:01,328 --> 00:07:04,328
 No na pewno to Panu nie zaszkodzi.
 
-112
+111
 00:07:04,328 --> 00:07:17,328
 Zaraz, zaraz, jest jeszcze cynk, którego większej ilości wykrywa się w
 organizmach dzieci o wybitnej inteligencji. Jest on w ostrygach, owocach morza,
 ale również obficie występuje też w pestkach dyni.
 
-113
+112
 00:07:17,328 --> 00:07:20,328
 O, no proszę, nawet ja tego nie wiedziałam.
 
-114
+113
 00:07:20,328 --> 00:07:26,328
 No tak, magnes. Jest na przykład w czekoladzie, orzechach czy suszonych
 morelach.
 
-115
+114
 00:07:27,328 --> 00:07:37,328
 Wapń natomiast jest w mleku i produktach nabiałowych. Taki miks mleka z kakao
 dodatkowo chroni nasz mózg sprawiając, że lepiej i sprawniej pracuje.
 
-116
+115
 00:07:37,328 --> 00:07:40,328
 Dobra, dobra, już się tak nie wymączaj.
 
-117
+116
 00:07:40,328 --> 00:07:48,328
 Pani Aldonu, produkty z lodówki chciały Paniom i Pana Ambrożego zaprosić na
 konkurs rapowania u Pani Jadzi w warzywniaku.
 
-118
+117
 00:07:48,328 --> 00:07:53,328
 Co takiego rapują? Nic o tym nie wiedziałam.
 
-119
+118
 00:07:53,328 --> 00:07:57,328
 Tak, od paru dni, ale nie idzie im za bardzo.
 
+119
+00:07:59,376 --> 00:08:00,376
+a I.
+
 120
-00:07:59,376 --> 00:07:59,876
-No.
+00:08:03,376 --> 00:08:03,976
+Iskin i.
 
 121
-00:08:01,876 --> 00:08:03,876
-Moje artyści.
-
-122
-00:08:05,876 --> 00:08:08,376
+00:08:06,376 --> 00:08:08,476
 No jestem bardzo ciekawa.
 
+122
+00:08:20,376 --> 00:08:25,376
+Jak wam mogę pomóc kuchinie Boryturapunee nawet dobrze
+
 123
-00:08:10,876 --> 00:08:11,876
-Dziękuję, dziękuję.
+00:08:25,376 --> 00:08:27,776
+nam to wychodzi, tylko mamy dylemat.
 
 124
-00:08:20,376 --> 00:08:22,376
-Jak Wam mogę pomóc kuchani.
+00:08:29,376 --> 00:08:35,376
+proszę, teraz, produkty będą miały, dylematy, potrzebujemy
 
 125
-00:08:22,876 --> 00:08:23,876
-Bo my to rapujemy.
+00:08:35,376 --> 00:08:39,376
+dietę, na lepsze myślenie, wymyślić, najlepszy rapowy
 
 126
-00:08:25,376 --> 00:08:26,376
-Nawet dobrze nam to wychodzi.
+00:08:39,376 --> 00:08:44,376
+tekst, na konkurs, ale jest problem, bo my nie możemy
 
 127
-00:08:26,376 --> 00:08:27,876
-Tylko mamy dylemat.
+00:08:44,376 --> 00:08:50,376
+stosować, żadnej, diety, No, proszę, proszę, nie tylko ja
 
 128
-00:08:28,876 --> 00:08:29,876
-No proszę.
+00:08:50,376 --> 00:08:53,776
+mam problemy, oni też nie mogą stosować, diety,
 
 129
-00:08:30,876 --> 00:08:33,876
-Teraz produkty będą miały dylematy.
+00:08:55,376 --> 00:08:58,876
+Jeśli dużo się uczymy, potrzebujemy również dostarczać
 
 130
-00:08:33,876 --> 00:08:37,876
-My potrzebujemy dietę na lepsze myślenie, by wymyślić
+00:08:58,876 --> 00:09:02,876
+sobie witamin B, to one sprawiają, że lepiej przyswajamy
 
 131
-00:08:37,876 --> 00:08:40,876
-najlepszy rapowy tekst na konkurs.
+00:09:02,876 --> 00:09:06,876
+rozumiemy i zapamiętujemy wiedzę, dodatkowo witaminy te
 
 132
-00:08:41,876 --> 00:08:46,876
-Ale jest problem, bo my nie możemy stosować żadnej diety.
+00:09:06,876 --> 00:09:11,876
+uspokajają nasze nerwy, lepiej śpimy, a zdobyta wiedza,
 
 133
-00:08:47,876 --> 00:08:51,876
-No proszę, proszę, nie tylko ja mam problemy, oni też nie
+00:09:11,876 --> 00:09:16,876
+lepiej się utrwala, lodówko ja chyba wiem o co chodzi naszym
 
 134
-00:08:51,876 --> 00:08:53,876
-mogą stosować diety.
+00:09:16,876 --> 00:09:20,876
+artystom, wy nie możecie mieć diety, bo nie jesteście
 
 135
-00:08:54,876 --> 00:08:58,876
-Jeśli dużo się uczymy, potrzebujemy również dostarczać sobie
+00:09:20,876 --> 00:09:24,876
+ludźmi, a też chcielibyście być no nie tylko zdrowi ale i
 
 136
-00:08:58,876 --> 00:09:02,876
-witamin B, to one sprawiają, że lepiej przyswajamy, rozumiemy
+00:09:25,876 --> 00:09:31,876
+No normalnie z ust mi to pani wyjęła, przecież ty nie masz ust
 
 137
-00:09:02,876 --> 00:09:03,876
-i zapamiętujemy wiedzę.
+00:09:33,876 --> 00:09:38,876
+Jaja sobie robisz, oczywiście, że mam usta, to są moje dziurki
 
 138
-00:09:04,876 --> 00:09:08,876
-Dodatkowo witaminy te uspokajają nasze nerwy, lepiej
+00:09:38,876 --> 00:09:44,876
+w serze, a ty też jakoś mówisz, a nie masz ust, cicho, cicho
 
 139
-00:09:08,876 --> 00:09:12,876
-śpimy, a zdobyta wiedza lepiej się utrwala.
+00:09:44,876 --> 00:09:51,876
+chyba zrozumiałem, pani Aldona powiedziała, ojej, właśnie coś
 
 140
-00:09:12,876 --> 00:09:16,876
-Lodówko, ja chyba wiem o co chodzi naszym artystom.
+00:09:51,876 --> 00:09:56,876
+wymyśliłem, a co takiego wymyśliłeś, nie skoro nie możemy
 
 141
-00:09:16,876 --> 00:09:20,876
-Wy nie możecie mieć diety, bo nie jesteście ludźmi.
+00:09:56,876 --> 00:09:59,876
+jeść by być mądrzy to chociaż to o czym opowiedziała nam
 
 142
-00:09:20,876 --> 00:09:24,876
-A też chcielibyście być nie tylko zdrowi, ale i mądrzy.
+00:09:59,876 --> 00:10:03,876
+lodówka zainspiruje nas by o tym zarapować na konkursie
 
 143
-00:09:25,876 --> 00:09:28,876
-No normalnie z ust mi to pani wyjęła.
-
-144
-00:09:29,876 --> 00:09:31,876
-Przecież ty nie masz ust.
-
-145
-00:09:33,876 --> 00:09:34,876
-Jaja sobie robisz?
-
-146
-00:09:34,876 --> 00:09:36,876
-Oczywiście, że mam usta.
-
-147
-00:09:36,876 --> 00:09:42,876
-To są moje dziurki w serze, a ty też jakoś mówisz, a nie masz ust.
-
-148
-00:09:43,876 --> 00:09:46,876
-Cicho, cicho, chyba zrozumiałem.
-
-149
-00:09:46,876 --> 00:09:48,876
-Pani Aldona powiedziała.
-
-150
-00:09:49,876 --> 00:09:52,876
-Ojej, właśnie coś wymyśliłem.
-
-151
-00:09:52,876 --> 00:09:55,876
-A co takiego wymyśliłeś?
-
-152
-00:09:55,876 --> 00:10:00,876
-Nie skoro nie możemy jeść, by być mądrzy, to chociaż to o czym opowiedziała nam
-lodówka
-
-153
-00:10:00,876 --> 00:10:03,876
-zainspiruje nas, by o tym zarapować na konkursie.
-
-154
 00:10:07,482 --> 00:10:15,482
 A, ha ha, lepiej bym tego nie wymyślił, to czas zarapować u pani Jadzi z
 warzywniaka, tak?
 
+144
+00:10:25,488 --> 00:10:28,488
+Dziata na myślenie, jest zawsze w cenie.
+
+145
+00:10:28,488 --> 00:10:30,988
+Dziata na myślenie, jest zawsze w cenie.
+
+146
+00:10:30,988 --> 00:10:33,488
+Kiedy magnus rana zjesz, będziesz mądrą niczym jesz.
+
+147
+00:10:33,488 --> 00:10:36,488
+Albo go do mandarynki dotleniają mózg dziewczynki.
+
+148
+00:10:36,488 --> 00:10:39,488
+Tedy pamięć was zawodzi, ryba nigdy nie zaszkodzi go.
+
+149
+00:10:39,488 --> 00:10:44,488
+Dieta, dieta, di, dieta, dieta na myślenie, jest zawsze w cenie.
+
+150
+00:10:44,488 --> 00:10:47,488
+Dieta na myślenie, jest zawsze w cenie.
+
+151
+00:10:47,488 --> 00:10:50,488
+Dieta na myślenie, jest zawsze w cenie.
+
+152
+00:10:50,488 --> 00:10:53,488
+Dieta na myślenie, jest zawsze w cenie.
+
+153
+00:11:00,262 --> 00:11:00,602
+Cześć!
+
+154
+00:11:01,882 --> 00:11:02,802
+Cześć!
+
 155
-00:10:25,488 --> 00:10:27,488
-Dziata na myślenie jest zawsze w cenie!
+00:11:04,162 --> 00:11:05,862
+Nieравствuje sobie nic.
 
 156
-00:10:27,488 --> 00:10:29,488
-Dziata na myślenie jest zawsze w cenie!
+00:11:06,602 --> 00:11:12,062
+Aけてś że co słyszałeśjasd sada się boniigt received dinner.
 
 157
-00:10:29,488 --> 00:10:33,488
-Kiedy magnesranos jesz będziesz mądrym niczym jesz!
+00:11:12,682 --> 00:11:15,042
+Dibre fucking rad searching,
 
 158
-00:10:33,488 --> 00:10:35,488
-Albo go do mandarynki dotleniają mózg dziewczynki!
+00:11:15,562 --> 00:11:19,222
+you're stupid I don't fucking care about the foods.
 
 159
-00:10:35,488 --> 00:10:39,488
-Kiedy pamięć was zawodzi ryba nigdy nie zaszkodzi go!
+00:11:21,982 --> 00:11:26,722
+If it's cute, you'd better laugh.
 
 160
-00:10:39,488 --> 00:10:44,488
-Dieta, dieta, di-dieta, dieta na myślenie jest zawsze w cenie!
+00:11:27,902 --> 00:11:28,822
+Bitch!
 
 161
-00:10:44,488 --> 00:10:47,488
-Dieta na myślenie jest zawsze w cenie!
+00:11:28,822 --> 00:11:29,562
+Yeah.
 
 162
-00:10:47,488 --> 00:10:49,488
-Dieta na myślenie jest zawsze w cenie!
+00:11:29,562 --> 00:11:30,222
+Proposal.
 
 163
-00:10:49,488 --> 00:10:52,488
-Dieta na myślenie jest zawsze w cenie!
+00:11:30,262 --> 00:11:33,262
+Napisy stworzone przez społeczność Amara.org
 
 164
-00:10:52,488 --> 00:10:54,488
-WOOOOO!
-
-165
-00:10:54,576 --> 00:10:56,196
-WOOOOO!
-
-166
-00:10:56,336 --> 00:10:58,556
-hehehehehehe
-
-167
-00:11:00,262 --> 00:11:04,462
-O Palmini!
-
-168
-00:11:06,702 --> 00:11:11,402
-Oprzeczek daller these 스위치
-
-169
-00:11:11,402 --> 00:11:25,662
-Gwiazda
-
-170
-00:11:26,362 --> 00:11:31,162
-Oprzeczek daller
-
-171
-00:11:31,162 --> 00:11:36,502
-Gwiazda
-
-172
 00:11:36,538 --> 00:11:41,538
 www.youtube.com
 

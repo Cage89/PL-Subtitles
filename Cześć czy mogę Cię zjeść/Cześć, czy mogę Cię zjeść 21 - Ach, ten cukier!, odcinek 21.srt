@@ -501,19 +501,19 @@ Ale z każdym cukrem obchodźmy się ostrożnie. Trzeba znać umier.
 To macie ochotę na dziksa czy nie?
 
 122
-00:10:54,464 --> 00:10:56,264
-Zortowałem, ej, nie chciałem!
+00:10:54,464 --> 00:10:56,464
+Zortowałem! Ej, nie chciałem!
 
 123
-00:10:56,264 --> 00:10:58,264
+00:10:56,464 --> 00:10:58,464
 Ej, ej, ej, ej!
 
 124
-00:10:58,264 --> 00:11:00,264
+00:10:58,464 --> 00:11:00,464
 No...
 
 125
-00:11:00,264 --> 00:11:02,264
+00:11:00,464 --> 00:11:02,464
 Kolejny się dochrapał.
 
 126
