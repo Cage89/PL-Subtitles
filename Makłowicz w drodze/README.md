@@ -42,5 +42,5 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |5|38|transcribed, not checked|Whisper|
 |5|39|transcribed, not checked|Whisper|
 
-https://pl.wikipedia.org/wiki/Mak%C5%82owicz_w_podr%C3%B3%C5%BCy#Lista_odcink%C3%B3w_-_Mak%C5%82owicz_w_podr%C3%B3%C5%BCy
+https://pl.wikipedia.org/wiki/Mak%C5%82owicz_w_podr%C3%B3%C5%BCy#Lista_odcink%C3%B3w_-_Mak%C5%82owicz_w_podr%C3%B3%C5%BCy  
 some episodes are available for streaming on player.pl (https://player.pl/programy-online/maklowicz-w-drodze-odcinki,9719)
