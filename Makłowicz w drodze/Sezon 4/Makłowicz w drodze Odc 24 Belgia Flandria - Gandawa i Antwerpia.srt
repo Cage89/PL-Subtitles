@@ -1,999 +1,767 @@
 1
-00:00:00,000 --> 00:00:01,000
-Napisy stworzone przez społeczność Amara.org
+00:00:00,000 --> 00:00:06,200
+Cześć!
 
 2
-00:00:30,000 --> 00:00:30,304
+00:00:06,200 --> 00:00:09,200
 Napisy stworzone przez społeczność Amara.org
 
 3
-00:00:30,304 --> 00:00:33,304
+00:00:30,032 --> 00:00:33,032
 Napisy stworzone przez społeczność Amara.org
 
 4
-00:00:35,570 --> 00:00:38,570
+00:00:35,506 --> 00:00:38,506
 Nie konsultowawszy tego z osobistym trenerem pokonałem
 
 5
-00:00:38,570 --> 00:00:43,050
+00:00:38,506 --> 00:00:42,986
 kilkaset stopni i wspiąłem się na najwyższą wieżę zamku
 
 6
-00:00:43,290 --> 00:00:47,010
+00:00:43,186 --> 00:00:46,946
 Flandryjskich Chrabiów. Jestem drodzy państwo w Gandawie,
 
 7
-00:00:47,290 --> 00:00:52,210
+00:00:47,186 --> 00:00:52,106
 a jestem tutaj po to, by pokazać wam przepiękny kawałek
 
 8
-00:00:52,290 --> 00:00:56,530
+00:00:52,186 --> 00:00:56,426
 belgijskiej Flandrii. Miejsca, które w średniowieczu było jednym
 
 9
-00:00:56,530 --> 00:00:59,930
+00:00:56,426 --> 00:00:59,826
 z najbogatszych w całym świecie i dzisiaj jeśli chodzi o
 
 10
-00:00:59,930 --> 00:01:03,850
+00:00:59,826 --> 00:01:03,746
 zasobność tym ziemiom niczego nie brakuje, ale to właśnie
 
 11
-00:01:03,890 --> 00:01:08,210
+00:01:03,786 --> 00:01:08,146
 średniowiecze sprawiło, że powstały takie perły jak ta
 
 12
-00:01:08,690 --> 00:01:13,690
+00:01:08,586 --> 00:01:13,586
 Gandawa i takie, jakie jeszcze zobaczymy, a mianowicie Antwerpia.
 
 13
-00:01:13,730 --> 00:01:14,530
+00:01:13,626 --> 00:01:14,426
 Zatem do dzieła.
 
 14
-00:01:15,920 --> 00:01:30,620
+00:01:15,888 --> 00:01:30,588
 Architektoniczni puryści wyrywają sobie włosy z głowy, kiedy to mieszkańcy
 centralnej albo też północnej Polski po pobycie na Podhalu stawiają sobie u
 siebie, czyli w centralnej albo północnej Polsce góralskie chaty.
 
 15
-00:01:30,620 --> 00:01:33,880
+00:01:30,588 --> 00:01:33,828
 Jednak zjawisko to nie jest niczym nowym.
 
 16
-00:01:33,880 --> 00:01:37,460
+00:01:33,828 --> 00:01:37,428
 Tutaj mamy egzemplum z dwunastego wieku.
 
 17
-00:01:37,460 --> 00:01:53,960
+00:01:37,428 --> 00:01:54,048
 Otóż hrabia Filip Alzacki uczestniczył w drugiej wyprawie krzyżowej i naoglądał
 się tam mnóstwa fantastycznych fortec i zamków i postanowił u siebie wybudować
 coś, co wygląda zupełnie jak warownia z Ziemi Świętej.
 
 18
-00:01:53,960 --> 00:02:00,460
+00:01:54,048 --> 00:02:00,448
 Jednak mimo wszystko to coś tutaj wygląda znacznie lepiej niż góralska chata w
 łebie.
 
 19
-00:02:02,544 --> 00:02:06,264
-Skąd się wzięło to ówczesne niezwykłe bogactwo miast
+00:02:02,384 --> 00:02:06,184
+Skąd się wzięło to ówczesne, niezwykłe bogactwo miast
 
 20
-00:02:06,264 --> 00:02:09,904
-flandryjskich? Sukna drodzy Państwo, to było
+00:02:06,184 --> 00:02:10,784
+flandryjskich? Sukna drodzy Państwo. To było sukiennicze
 
 21
-00:02:09,904 --> 00:02:14,144
-sukiennicze zagłębie tamtejszego świata, ale żeby
+00:02:10,784 --> 00:02:15,284
+zagłębie tamtejszego świata, ale żeby mieć sukno trzeba
 
 22
-00:02:14,144 --> 00:02:18,784
-mieć sukno trzeba mieć owce i wełnę, a tego tutaj nie było
+00:02:15,284 --> 00:02:19,584
+mieć owce i wełnę, a tego tutaj nie było pod dostatkiem.
 
 23
-00:02:18,784 --> 00:02:24,224
-pod dostatkiem. Zatem importowano wełnę z Anglii oraz
+00:02:19,884 --> 00:02:25,484
+Zatem importowano wełnę z Anglii oraz z kraju Basków,
 
 24
-00:02:24,224 --> 00:02:29,624
-z kraju Basków, a potem gotowe sukno rozsyłano na cały
+00:02:25,684 --> 00:02:30,684
+a potem gotowe sukno rozsyłano na cały świat, ale żeby
 
 25
-00:02:29,624 --> 00:02:34,584
-świat, ale żeby coś importować i eksportować trzeba mieć
+00:02:30,684 --> 00:02:35,484
+coś importować i eksportować trzeba mieć do tego drogi.
 
 26
-00:02:34,584 --> 00:02:39,024
-do tego drogi. Jakie w średniowieczu były najpewniejsze?
+00:02:35,784 --> 00:02:39,984
+Jakie w średniowieczu były najpewniejsze? Wodne.
 
 27
-00:02:39,344 --> 00:02:44,144
-Wodne. Tutaj w pobliżu płynie rzeka Skalda nazywana przez
+00:02:40,384 --> 00:02:44,484
+Tutaj w pobliżu płynie rzeka Skalda nazywana przez Brela
 
 28
-00:02:44,144 --> 00:02:48,144
-Brela matką wszystkich belgijskich rzek. Do niej wpada
+00:02:44,584 --> 00:02:49,884
+matką wszystkich belgijskich rzek. Do niej wpada rzeka Leje,
 
 29
-00:02:48,744 --> 00:02:53,304
-rzeka Leje, ale jeszcze tego było mało. Wykopano mnóstwo
+00:02:50,084 --> 00:02:54,584
+ale jeszcze tego było mało. Wykopano mnóstwo kanałów i tym
 
 30
-00:02:53,304 --> 00:02:58,144
-kanałów i tym właśnie płynęło sukno, a z powrotem
+00:02:54,584 --> 00:02:59,684
+właśnie płynęło sukno, a z powrotem płynęły pieniądze.
 
 31
-00:02:58,304 --> 00:03:03,664
-płynęły pieniądze. Oto wspaniałe domy różnych cechów.
+00:03:00,284 --> 00:03:04,584
+Oto wspaniałe domy różnych cechów. Musicie Państwo
 
 32
-00:03:03,824 --> 00:03:08,864
-Musicie Państwo wiedzieć, że w czternastym wieku Dandawa
+00:03:04,584 --> 00:03:09,884
+wiedzieć, że w czternastym wieku Gandawa liczyła sobie
 
 33
-00:03:09,104 --> 00:03:13,064
-liczyła sobie sześćdziesiąt tysięcy ludności. To była
+00:03:09,884 --> 00:03:14,684
+sześćdziesiąt tysięcy ludności. To była prawdziwa metropolia.
 
 34
-00:03:13,264 --> 00:03:17,304
-prawdziwa metropolia. W tej części świata tylko Paryż był
+00:03:14,784 --> 00:03:18,784
+W tej części świata tylko Paryż był większy, ale jak
 
 35
-00:03:17,304 --> 00:03:22,144
-większy, ale jak wiemy i w Paryżu nie zrobią z owsa ryżu.
+00:03:18,784 --> 00:03:22,184
+wiemy i w Paryżu nie zrobią z owsa ryżu.
 
 36
-00:03:27,706 --> 00:03:37,706
+00:03:27,642 --> 00:03:29,056
+Dzień dobry!
+
+37
+00:03:29,056 --> 00:03:38,056
 Średniowieczna hala mięsna już od dawna nie pełni swoich funkcji, ale w dalszym
 ciągu jest swoistą oazą konsumpcji.
 
-37
-00:03:37,706 --> 00:03:50,706
+38
+00:03:38,056 --> 00:03:51,056
 W dodatku to egzemplum godne naśladowania u nas, bowiem zamieniono tę wspaniałą
 skądiną budowlę w centrum promocji miejscowych produktów spożywczych.
 
-38
-00:03:50,706 --> 00:03:58,706
-Miejscowych to nie znaczy ogólno belgijskich, chodzi tylko o ten region, chodzi
-o to mówiąc po naszemu województwo.
-
 39
-00:03:58,706 --> 00:04:03,706
-To wszystko można tu kupić na wynos albo też spróbować tego na miejscu.
+00:03:52,056 --> 00:03:59,056
+To nie znaczy ogólno belgijskich, chodzi tylko o ten region, chodzi o to mówiąc
+po naszemu województwo.
 
 40
-00:04:03,706 --> 00:04:16,706
+00:03:59,056 --> 00:04:04,056
+To wszystko można tu kupić na wynos albo też spróbować tego na miejscu.
+
+41
+00:04:04,056 --> 00:04:16,056
 Owe szynki wiszące u powały to nie są plastikowe atrapy, to nie są też szynki
 włoskie czy też hiszpańskie, wyłącznie lokalne szynki i dużo, dużo więcej.
 
-41
-00:04:16,706 --> 00:04:32,706
-No ale od nich zacznijmy. Ta dojrzewała przez 12 miesięcy, ta przez miesięcy 9.
-Jedna i druga jest niewędzona, tylko solona, żadnych innych przypraw.
-
 42
-00:04:32,706 --> 00:04:47,706
-Ta w środku różowa była najpierw gotowana, a potem pieczona. Tutaj mamy różne
-rodzaje serów, białe owcze z krowiego mleka dojrzewające, również takie
-aromatyzowane przyprawami.
+00:04:16,056 --> 00:04:26,056
+No ale od nich zacznijmy. Ta dojrzewała przez 12 miesięcy, ta przez miesięcy 9.
 
 43
-00:04:47,706 --> 00:05:01,706
-Mamy w końcu pikle, wielką tutejszą specjalność, no i musztardę, z której to
-miasto słynie. Mamy rzeczy do picia. To jest likier aromatyzowany czarnym bzem.
+00:04:26,056 --> 00:04:32,056
+Jedna i druga jest niewędzona, tylko solona, żadnych innych przypraw.
 
 44
-00:05:01,706 --> 00:05:10,706
-Zresztą tam w środku kwiaty czarnego bzu mam wrażenie widać. No mamy piwa z
-malutkich miejscowych browarów.
+00:04:32,056 --> 00:04:39,056
+Ta w środku różowa była najpierw gotowana, a potem pieczona.
 
 45
-00:05:11,706 --> 00:05:29,706
-Dla kontrastu ciemne oraz jasne. Mamy w końcu słodycze. To jest rodzaj tarty
-serowej. To jest piernik, a w piernikach tutaj są bardzo mocni. To jest rzecz
-niezwykła, mianowicie rodzaj flanu, ale o piernikowym smaku.
+00:04:39,056 --> 00:04:48,056
+Tutaj mamy różne rodzaje serów, białe owcze z krowiego mleka dojrzewające,
+również takie aromatyzowane przyprawami.
 
 46
-00:05:29,706 --> 00:05:39,706
-I drodzy Państwo, właśnie o to chodzi. W dodatku wiemy co kto zrobił. Wszyscy
-producenci oraz ich zdjęcia, produkty nie są anonimowe.
+00:04:48,056 --> 00:04:56,056
+Mamy w końcu pikle, wielką tutejszą specjalność, no i musztardę, z której to
+miasto słynie.
 
 47
-00:05:39,706 --> 00:05:49,706
-Możemy czegoś spróbować, a potem obejrzeć twarz Pana, czy też Pani, wytwórców i
-zobaczyć jak nam to się zgrywa razem.
+00:04:56,056 --> 00:05:02,056
+Mamy rzeczy do picia, to jest likier aromatyzowany czarnym bzem.
 
 48
-00:05:49,706 --> 00:06:07,706
-O to chodzi, by promować dobra, które w najbliższej okolicy powstały. Ponieważ
-musztarda miejscowa, jak słyszałem, służy również do jedzenia z serem, więc
-teraz biorę kawałek, jak mi się wydaje, najmniej dojrzałego.
+00:05:02,056 --> 00:05:07,056
+Zresztą tam w środku kwiaty czarnego bzu, mam wrażenie widać.
 
 49
-00:06:07,706 --> 00:06:27,706
-Maczam w musztardzie i już Państwu mówię. O Jezu, jaka ostra. Zupełnie jak
-angielska, a konsystencja wspaniałej musztardy z liżą. Ową musztardą będziemy
-musieli się jeszcze dzisiaj zająć.
+00:05:07,056 --> 00:05:11,056
+No mamy piwa z malutkich miejscowych browarów.
 
 50
-00:06:27,706 --> 00:06:35,706
-A szynka? O Jezu, jakie to wszystko dobre. Lokalność to jest najważniejszy
-spożywczy trop.
+00:05:11,056 --> 00:05:16,056
+Dla kontrastu ciemne oraz jasne. Mamy w końcu słodycze.
 
 51
-00:06:41,664 --> 00:06:51,664
-Mostów rzecz jasna jest tutaj bez liku, ale ze względu na widoki polecany jest
-szczególnie jeden. Ten właśnie, na którym teraz jesteśmy.
+00:05:16,056 --> 00:05:23,056
+To jest rodzaj tarty serowej, to jest piernik, a w piernikach tutaj są bardzo
+mocni.
 
 52
-00:06:51,664 --> 00:07:03,664
-Most noszący imię świętego Michała Archanioła. Widać z niego również
-najważniejszą świątynię w mieście. Katedrę pod wezwaniem świętego Bawona.
+00:05:23,056 --> 00:05:29,056
+To jest rzecz niezwykła, mianowicie rodzaj flanu, ale o piernikowym smaku.
 
 53
-00:07:03,664 --> 00:07:14,664
-Uf nieco zapomniany w Polsce święty, myślę, powinien być wzięty pod uwagę przez
-rodziców w Polsce, którzy nadają dzieciom różne egzotyczne imiona.
+00:05:29,056 --> 00:05:34,056
+I drodzy Państwo, właśnie o to chodzi. W dodatku wiemy co kto zrobił.
 
 54
-00:07:14,664 --> 00:07:26,664
-No bo skoro mamy Brajanka, to dlaczego nie można w piaskownicy wołać Bawonku? W
-dodatku Bawonek w przeciwieństwie do Brajanka ma swojego świętego protoplast.
+00:05:34,056 --> 00:05:40,056
+Wszyscy producenci oraz ich zdjęcia, produkty nie są anonimowe.
 
 55
-00:07:28,816 --> 00:07:33,656
-Nie tylko mostów, ale i strzelistych, gotyckich wież tutaj nie brakuje.
+00:05:40,056 --> 00:05:45,056
+Możemy czegoś spróbować, a potem obejrzeć twarz pana czy też pani,
 
 56
-00:07:33,936 --> 00:07:36,976
-Widziana z mostu katedra zamykała perspektywę.
+00:05:45,056 --> 00:05:50,056
+wytwórców i zobaczyć jak nam to się zgrywa razem.
 
 57
-00:07:37,296 --> 00:07:40,576
-Widziana stąd przytłacza swoim ogromem.
+00:05:50,056 --> 00:05:56,056
+O to chodzi, by promować dobra, które w najbliższej okolicy powstały.
 
 58
-00:07:40,816 --> 00:07:45,016
-W środku prawdziwa perła, rzecz jasna również gotyckiej sztuki.
+00:05:56,056 --> 00:06:02,056
+Ponieważ musztarda miejscowa, jak słyszałem, służy również do jedzenia z serem,
 
 59
-00:07:45,336 --> 00:07:49,176
-Ołtarz, poliptyk, autorstwa braci Van Ajcków.
+00:06:02,056 --> 00:06:08,056
+więc teraz biorę kawałek, jak mi się wydaje, najmniej dojrzałego.
 
 60
-00:07:49,376 --> 00:07:52,576
-To mianowicie adoracja mistycznego baranka.
+00:06:08,056 --> 00:06:15,056
+Maczam w musztardzie i już Państwu mówię. O Jezu, jaka ostra.
 
 61
-00:07:52,856 --> 00:07:55,736
-Rzecz na tyle cenna, że nie możemy jej sfilmować,
+00:06:17,056 --> 00:06:23,056
+Zupełnie jak angielska, a konsystencja wspaniałej musztardy z Dijon.
 
 62
-00:07:55,976 --> 00:07:59,216
-ale błagam jak tu będziecie, musicie to zobaczyć.
+00:06:24,056 --> 00:06:28,056
+Ową musztardą będziemy musieli się jeszcze dzisiaj zająć.
 
 63
-00:07:59,456 --> 00:08:00,816
-Zobaczcie to koniecznie.
+00:06:28,056 --> 00:06:31,056
+A szynka? No Jezu, jakie to wszystko dobre.
 
 64
-00:08:02,376 --> 00:08:08,016
-Rzadko kiedy nazwa miejsca jest tak adekwatna do tego co ono oferuje.
+00:06:31,056 --> 00:06:36,056
+Lokalność to jest najważniejszy spożywczy trop.
 
 65
-00:08:08,296 --> 00:08:12,936
-Ta nazwa to Dryplkot, czyli dom kielicha.
+00:06:41,488 --> 00:06:56,488
+Mostów rzecz jasna jest tutaj bez liku, ale ze względu na widoki polecany jest
+szczególnie jeden. Ten właśnie, na którym teraz jesteśmy. Most noszący imię
+świętego Michała Archanioła.
 
 66
-00:08:13,416 --> 00:08:16,776
-I jest to lokal, który nie zmienił się przez ostatnie
+00:06:56,488 --> 00:07:21,488
+Widać z niego również najważniejszą świątynię w mieście. Katedrę pod wezwaniem
+świętego Bawona. Uf nieco zapomniany w Polsce święty, myślę, powinien być wzięty
+pod uwagę przez rodziców w Polsce, którzy nadają dzieciom różne egzotyczne
+imiona. No bo skoro mamy Brajanka, to dlaczego nie można w piaskownicy wołać
+Bawonku?
 
 67
-00:08:16,776 --> 00:08:17,976
-kilkadziesiąt lat.
+00:07:21,488 --> 00:07:49,488
+W dodatku Bawonek w przeciwieństwie do Brajanka ma swojego świętego protoplast.
+Nie tylko mostów, ale i strzelistych gotyckich wież tutaj nie brakuje. Widziana
+z mostu katedra zamykała perspektywę. Widziana stąd przytłacza swoim ogromem. W
+środku prawdziwa perła rzecz jasna również gotyckiej sztuki. Ołtarz, poliptyk,
+autorstwa braci Vanajków.
 
 68
-00:08:18,376 --> 00:08:20,376
-Specjalność również ta sama.
+00:07:49,488 --> 00:08:00,488
+To mianowicie adoracja mistycznego Baranka. Rzeczna, tyle cenna, że nie możemy
+jej sfilmować, ale błagam jak tu będziecie, musicie to zobaczyć. Zobaczcie to
+koniecznie.
 
 69
-00:08:20,656 --> 00:08:24,736
-Mianowicie Geneva, Geneva czyli jałowcówka.
+00:08:00,488 --> 00:08:17,488
+Rzadko kiedy nazwa miejsca jest tak adekwatna do tego co ono oferuje. Ta nazwa
+to drippelkot, czyli dom kielicha i jest to lokal, który nie zmienił się przez
+ostatnie kilkadziesiąt lat.
 
 70
-00:08:25,296 --> 00:08:29,776
-Nam ten rodzaj alkoholu kojarzy się z Holandią, ale drodzy
+00:08:17,488 --> 00:08:34,488
+Specjalność również ta sama, mianowicie geneiver, czyli jałowcówka. Nam ten
+rodzaj alkoholu kojarzy się z Holandią, ale drodzy państwo to nie jest rzecz
+holenderska, lecz rzecz niderlandzka.
 
 71
-00:08:29,776 --> 00:08:33,736
-Państwo to nie jest rzecz holenderska, lecz rzecz
+00:08:34,488 --> 00:08:48,488
+A Niderlandy historyczne to dzisiejsza Holandia, to flamandzka Belgia oraz
+maleńki kawałeczek Francji. Mają tutaj w ofercie ponad sto rodzajów geneivra.
 
 72
-00:08:33,936 --> 00:08:38,376
-niderlandzka, a Niderlandy historyczne to dzisiejsza
-
-73
-00:08:38,376 --> 00:08:44,576
-Holandia, to flamanska Belgia oraz maleńki kawałeczek Francji.
-
-74
-00:08:44,616 --> 00:08:51,336
-Mają tutaj w ofercie ponad sto rodzajów Geneva, a to jest ten
-
-75
-00:08:51,336 --> 00:08:52,656
-stopierszy zdaje się.
-
-76
-00:08:54,456 --> 00:08:56,256
-Thank you, but this is pretty enough.
-
-77
-00:08:59,816 --> 00:09:01,296
-53 procent.
-
-78
-00:09:02,216 --> 00:09:06,136
-To na tym się na razie nie skupiajmy, bo tu mamy egzemplar
-
-79
-00:09:06,136 --> 00:09:06,936
-najwłaściwsze.
-
-80
-00:09:07,296 --> 00:09:09,176
-Otóż na czym polega ta jałowcówka?
-
-81
-00:09:09,176 --> 00:09:14,336
-Robi się alkohol zbożowy i albo pije go jako rzecz młodą albo
-
-82
-00:09:14,336 --> 00:09:15,776
+00:08:48,488 --> 00:09:15,488
+A to jest ten 101 zdaje się. Dzięki, ale to jest dosyć. 53%. To na tym się na
+razie nie skupiajmy, bo tu mamy egzempla najwłaściwsze. Otóż na czym polega ta
+jałowcówka? Robi się alkohol zbożowy i albo pije go jako rzecz młodą, albo
 trzyma w beczce.
 
-83
-00:09:15,936 --> 00:09:21,696
-Zatem właśnie tutaj sto rodzajów Geneva, najmłodszy do
+73
+00:09:15,488 --> 00:09:32,488
+Zatem właśnie tutaj sto rodzajów geneivra. Najmłodszy do najstarszego, a ta
+rzecz jedyna z Francji, a to 53% najdłużej, że trzymana w beczce.
 
-84
-00:09:21,856 --> 00:09:30,056
-najstarszego, a ta rzecz jedyna z Francji, a to 53 procent,
+74
+00:09:32,488 --> 00:09:52,488
+To jest drodzy państwo protoplasta geneów i trunek użyteczny również w kuchni,
+bo jak się robi dziczyznę, to dobrze ją podlać jałowcem. A czyż i my nie
+jesteśmy w pewnym sensie dziczyzną, więc i my zasłużyliśmy na podlanie jałowcę.
 
-85
-00:09:30,216 --> 00:09:32,536
-najdłużej, że trzymana w beczce.
+75
+00:09:53,488 --> 00:09:55,488
+Na zdrowie.
 
-86
-00:09:34,016 --> 00:09:38,816
-To jest drodzy Państwo protoplasta ginów i trunek
+76
+00:09:56,488 --> 00:10:08,488
+Miejscowy ratusz składa się z dwóch nijak do siebie stylem niepasujących części.
+Mamy fragment późno gotycki, a obok rzecz neorenesansową.
 
-87
-00:09:38,856 --> 00:09:42,896
-użyteczny również w kuchni, bo jak się robi dziczyznę to dobrze
+77
+00:10:08,488 --> 00:10:32,488
+Wiąże się z tym bardzo ciekawa historia i brzemienna w skutkach dla miasta. Otóż
+kiedy kończono wznosić część gotycką, władcą Flandrii był Karol Habsburg, cesarz
+austriacki król Hiszpanii znany w historii jako Karol V, władca połowy
+ówczesnego świata.
 
-88
-00:09:42,896 --> 00:09:48,096
-ją podlać jałowcem, a czyż i my nie jesteśmy w pewnym sensie
+78
+00:10:32,488 --> 00:10:46,488
+Tutejsi mieszczanie zbuntowali się przeciwko niemu i Karol straszliwie ich
+upokorzył. Kazał iść im w procesji z powrozami na szyi. Od tego momentu
+rozpoczął się upadek miasta.
 
-89
-00:09:48,096 --> 00:09:52,496
-dziczyzną, więc i my zasłużyliśmy na podlanie jałowcem.
+79
+00:10:47,488 --> 00:11:05,488
+Ratusza gotyckiego nie dokończono. Ten fragment wzniesiono znacznie później.
+Obok mamy coś wpisanego w pejzaż flandryjskich miast. Mianowicie Belfort, czyli
+dzwonnica, wieża obserwacyjna, niegdyś areszt oraz siedziba Sonto.
 
-90
-00:09:57,256 --> 00:10:00,856
-Miejscowy ratusz składa się z dwóch nijak do siebie stylem
+80
+00:11:06,488 --> 00:11:26,488
+Jeśli marzycie o słodyczach innych niż czekolada czy też gofry, mam dla was
+tutaj odpowiedź. Coubertin, galaretka formowana stożkowo, aromatyzowana sokiem
+owocowym. Mamy tutaj takie dwa stoiska i zobaczymy gdzie mają lepsze.
 
-91
-00:10:01,136 --> 00:10:02,496
-niepasujących części.
+81
+00:11:27,488 --> 00:11:50,488
+Kto ma najlepsze Coubertin w mieście? Ja i mam najwięcej kolorów. Tradycyjny
+truskawkowy, borówka z cytryną, lukrecja, pomarańcza i mam nawet jabłkowy. A to
+jest limonczeli. A sąsiad? On nie ma nici. To się okaże.
 
-92
-00:10:02,776 --> 00:10:06,936
-Mamy fragment późnogotycki, a obok rzecz
-
-93
-00:10:07,456 --> 00:10:09,096
-neo-renesansową.
-
-94
-00:10:09,376 --> 00:10:12,416
-Wiąże się z tym bardzo ciekawa historia.
-
-95
-00:10:12,456 --> 00:10:14,896
-I brzemienna w skutkach dla miasta.
-
-96
-00:10:15,376 --> 00:10:21,416
-Otóż kiedy kończono wznosić część gotycką, władcą Flandri
-
-97
-00:10:21,656 --> 00:10:27,696
-był Karol Habsburg, cesarz austriacki król Hiszpanii znany
-
-98
-00:10:27,696 --> 00:10:32,736
-w historii jako Karol V, władca połowy ówczesnego świata.
-
-99
-00:10:33,056 --> 00:10:37,056
-Tutejsi mieszczanie zbuntowali się przeciwko niemu i Karol
-
-100
-00:10:37,176 --> 00:10:38,976
-straszliwie ich upokorzył.
-
-101
-00:10:39,536 --> 00:10:43,376
-Kazał iść im w procesji z powrozami na szyi.
-
-102
-00:10:43,656 --> 00:10:47,176
-Od tego momentu rozpoczął się upadek miasta.
-
-103
-00:10:47,536 --> 00:10:50,016
-Ratusza gotyckiego nie dokończono.
-
-104
-00:10:50,336 --> 00:10:53,256
-Ten fragment wzniesiono znacznie później.
-
-105
-00:10:53,656 --> 00:10:58,216
-Obok mamy coś wpisanego w pejzaż flandryjskich miast.
-
-106
-00:10:58,416 --> 00:11:02,976
-Mianowicie Belfort, czyli dzwonnica, wieża obserwacyjna,
-
-107
-00:11:03,256 --> 00:11:06,296
-niegdyś areszt oraz siedziba sądu.
-
-108
-00:11:07,096 --> 00:11:10,896
-Jeśli marzycie o słodyczach innych niż czekolada czy też gofry,
-
-109
-00:11:11,256 --> 00:11:14,176
-mam dla was tutaj odpowiedź.
-
-110
-00:11:14,536 --> 00:11:20,256
-Coubertin, galaretka formowana stożkowo, aromatyzowana
-
-111
-00:11:20,256 --> 00:11:21,256
-sokiem owocowym.
-
-112
-00:11:21,736 --> 00:11:26,616
-Mamy tutaj takie dwa stoiska i zobaczymy gdzie mają lepsze.
-
-113
-00:11:27,976 --> 00:11:29,616
-Kto ma najlepsze coubertin w mieście?
-
-114
-00:11:30,376 --> 00:11:32,576
-Ja. I mam najwięcej kolorów.
-
-115
-00:11:34,296 --> 00:11:35,656
-Tradycyjny truskawkowy.
-
-116
-00:11:36,416 --> 00:11:42,336
-Borówka z cytryną, lukrecja, pomarańcza i mam nawet jabłkowy.
-
-117
-00:11:43,336 --> 00:11:44,256
-A to jest limoncello.
-
-118
-00:11:46,256 --> 00:11:48,216
-A sąsiad? On nie ma nici.
-
-119
-00:11:49,856 --> 00:11:50,616
-To się okaże.
-
-120
-00:11:51,656 --> 00:11:55,096
+82
+00:11:50,488 --> 00:11:54,488
 Podobno ten pan nie ma niczego, ale zaraz to sprawdzimy.
 
-121
-00:11:59,456 --> 00:12:01,256
-Kto ma najlepsze coubertin w mieście?
+83
+00:11:57,488 --> 00:12:16,488
+Kto ma najlepsze Coubertin w mieście? To poważna sprawa. Naszym zdaniem my
+jesteśmy najlepsi. Działamy najdłużej. Ale stoimy obok siebie. Każdy może mówić
+co chce. Moich możesz spróbować. Docenisz ten smak.
 
-122
-00:12:02,856 --> 00:12:03,776
-To poważna sprawa.
+84
+00:12:16,488 --> 00:12:45,488
+Tak to wygląda. W środku rzeczywiście galaretkowate. To ma smak porzeczkowy. Ja
+tego sporu nie rozstrzygnę, więc teraz proponuję zająć się po prostu czymś
+innym. Z goła innym. Musztardą mianowicie. Miejsce nazywa się Tirentein i
+wygląda zupełnie jak apteka. Nie ma w tym nic dziwnego, gdyż kiedyś musztardę
+traktowano jako środek niemal leczniczy.
 
-123
-00:12:04,776 --> 00:12:06,776
-Naszym zdaniem my jesteśmy najlepsi.
+85
+00:12:46,488 --> 00:13:11,488
+Tradycje miejscowej musztardy sięgają czasów wczesnego średniowiecza. Ta
+manufaktura działa od końca wieku osiemnastego i jeszcze nigdy nie widziałem
+musztardy w ten sposób sprzedawanej. Ona po prostu tutaj stoi w beczce i wprost
+z tej beczki jest nalewana do kamionkowych słoiczków różnej wielkości.
 
-124
-00:12:07,136 --> 00:12:10,936
-Działamy najdłużej, ale stoimy obok siebie.
+86
+00:13:11,488 --> 00:13:17,488
+Więc pamiętajcie drodzy państwo nie możecie stąd bez takowej musztardy wyjechać.
 
-125
-00:12:11,456 --> 00:12:12,816
-Każdy może mówić co chce.
+87
+00:13:17,488 --> 00:13:45,488
+To już Antferpia, czyli największe miasto Flandrii. Stare miasto po drugiej
+stronie rzeki. Ta najwyższa wieża to katedra. Ta rzeka to Skalda, która wpada do
+morza bardzo niedaleko stąd, ale to już jest Holandia. Holendrzy przez całe
+stulecia blokowali ujście Skaldy i to była jedna z przyczyn niegdyśiejszego
+regresu Antferpi.
 
-126
-00:12:14,056 --> 00:12:16,736
-Moich możesz spróbować, docenisz ten smak.
+88
+00:13:45,488 --> 00:14:04,488
+Wielki port, ale bez dostępu do morza w przypadku holenderskiej blokady. Przed
+sobą na stole mam drodzy państwo kilka naprawdę belgijskich namiętności. No po
+pierwsze pory, po drugie cykoria, po trzecie gałka muszkatołowa.
 
-127
-00:12:18,576 --> 00:12:19,096
-Thank you.
+89
+00:14:04,488 --> 00:14:33,488
+I z tego wszystkiego muszę zrobić coś eleganckiego, gdyż jestem na terenie
+królewskiego belgijskiego jacht klubu. Zasadniczą sprawą będą tutaj klopsiki.
+Nic niezwykłego. Mianowicie mielone mięso mieszane, to jest wieprzowina z
+cielęciną, bułka, białe pieczywo namoczone w mleku, a potem starannie
+odciśnięte, jajko, które jest już tutaj wbite, drobno posiekana cebula, sól oraz
+świeżo zmielony czarny wódek.
 
-128
-00:12:19,336 --> 00:12:20,176
-Tak to wygląda.
+90
+00:14:34,488 --> 00:15:04,488
+I pieprz. Zatem w Polsce byśmy już to zaczęli wyrabiać, ale tutaj w Belgii
+dodaje się do tego jeszcze jedną rzecz. Mianowicie gałkę muszkatołową, świeżo
+starcą. Gałka muszkatołowa to chyba najbardziej belgijska przyprawa. Jest niemal
+wszechobecna, nie tylko w słodyczach, ale również w daniach słonych. I proszę mi
+wierzyć, komponuje się tutaj fantastycznie. Zatem po dodaniu gałki wszystko
+wyrabiamy, formujemy
 
-129
-00:12:20,496 --> 00:12:22,896
-W środku rzeczywiście galaretkowate.
+91
+00:15:04,488 --> 00:15:08,008
+lopsiki, następnie panierujemy je w mące.
 
-130
-00:12:23,416 --> 00:12:24,976
-To ma smak porzeczkowy.
-
-131
-00:12:25,216 --> 00:12:30,256
-Ja tego sporu nie rozstrzygnę, więc teraz proponuję zając się
-
-132
-00:12:30,496 --> 00:12:31,616
-po prostu czymś innym.
-
-133
-00:12:31,976 --> 00:12:32,816
-Z goła innym.
-
-134
-00:12:32,856 --> 00:12:34,376
-Musztardą mianowicie.
-
-135
-00:12:34,976 --> 00:12:38,816
-Miejsce nazywa się Tirentein i wygląda zupełnie jak apteka.
-
-136
-00:12:38,816 --> 00:12:43,216
-Nie ma w tym nic dziwnego, gdyż kiedyś musztardę traktowano
-
-137
-00:12:43,536 --> 00:12:46,296
-jako środek niemal leczniczy.
-
-138
-00:12:46,696 --> 00:12:50,856
-Tradycje miejscowej musztardy sięgają czasów wczesnego
-
-139
-00:12:50,856 --> 00:12:51,696
-średniowiecza.
-
-140
-00:12:52,016 --> 00:12:57,016
-Ta manufaktura działa od końca wieku osiemnastego i jeszcze
-
-141
-00:12:57,016 --> 00:13:01,496
-nigdy nie widziałem musztardy w ten sposób sprzedawanej.
-
-142
-00:13:01,936 --> 00:13:06,936
-Ona po prostu tutaj stoi w beczce i wprost z tej beczki jest
-
-143
-00:13:07,216 --> 00:13:11,856
-nalewana do kamionkowych słoiczków różnej wielkości.
-
-144
-00:13:12,136 --> 00:13:16,056
-Więc pamiętajcie drodzy państwo nie możecie stąd bez
-
-145
-00:13:16,056 --> 00:13:17,816
-takowej musztardy wyjechać.
-
-146
-00:13:22,136 --> 00:13:25,336
-To już Antwerpia, czyli największe miasto Flandry.
-
-147
-00:13:25,576 --> 00:13:28,176
-Stare miasto po drugiej stronie rzeki.
-
-148
-00:13:28,576 --> 00:13:30,456
-Ta najwyższa wieża to katedra.
-
-149
-00:13:30,776 --> 00:13:35,296
-Ta rzeka to Skalda, która wpada do morza bardzo niedaleko stąd,
-
-150
-00:13:35,336 --> 00:13:36,616
-ale to już jest Holandia.
-
-151
-00:13:36,976 --> 00:13:42,016
-Holendrzy przez całe stulecia blokowali ujście Skaldy i to
-
-152
-00:13:42,016 --> 00:13:46,136
-była jedna z przyczyn niegdyśsiejszego regresu Antwerpi.
-
-153
-00:13:46,336 --> 00:13:51,576
-Wielki port, ale bez dostępu do morza w przypadku holenderskiej
-
-154
-00:13:51,576 --> 00:13:52,096
-blokady.
-
-155
-00:13:52,496 --> 00:13:57,856
-Przed sobą na stole mam drodzy państwo kilka naprawdę belgijskich
-
-156
-00:13:58,016 --> 00:13:58,976
-namiętności.
-
-157
-00:13:59,256 --> 00:14:04,576
-No po pierwsze pory, po drugie cykoria, po trzecie gałka
-
-158
-00:14:04,576 --> 00:14:08,736
-muszkatołowa i z tego wszystkiego muszę zrobić coś eleganckiego,
-
-159
-00:14:08,736 --> 00:14:13,256
-gdyż jestem na terenie królewskiego belgijskiego jacht klubu.
-
-160
-00:14:13,536 --> 00:14:15,896
-Zasadniczą sprawą będą tutaj klopsiki.
-
-161
-00:14:16,176 --> 00:14:20,136
-Nic niezwykłego mianowicie mielone mięso mieszane to jest
-
-162
-00:14:20,176 --> 00:14:24,896
-wieprzowina z cielęciną, bułka, białe pieczywo namoczone w mleku,
-
-163
-00:14:24,896 --> 00:14:29,336
-a potem starannie odciśnięte, jajko, które jest już tutaj wbite,
-
-164
-00:14:29,656 --> 00:14:34,936
-drobno posiekana cebula, sól oraz świeżo zmielony czarny pieprz.
-
-165
-00:14:35,176 --> 00:14:38,456
-Zatem w Polsce byśmy już to zaczęli wyrabiać, ale tutaj w
-
-166
-00:14:38,456 --> 00:14:41,696
-Belgii dodaje się do tego jeszcze jedną rzecz.
-
-167
-00:14:42,136 --> 00:14:45,216
-Mianowicie gałkę muszkatołową świeżo startą.
-
-168
-00:14:45,536 --> 00:14:50,576
-Gałka muszkatołowa to chyba najbardziej belgijska przyprawa.
-
-169
-00:14:50,816 --> 00:14:54,776
-Jest niemal wszechobecna, nie tylko w słodyczach, ale również
-
-170
-00:14:54,936 --> 00:14:59,056
-w daniach słonych i proszę mi wierzyć komponuje się tutaj
-
-171
-00:14:59,136 --> 00:15:00,136
-fantastycznie.
-
-172
-00:15:00,496 --> 00:15:05,016
-Zatem po dodaniu gałki wszystko wyrabiamy, formujemy klopsiki,
-
-173
-00:15:05,416 --> 00:15:08,016
-następnie panierujemy je w mące.
-
-174
-00:15:10,112 --> 00:15:20,112
-Klopsiki rzecz jasna formujemy mocząc dłonie w wodzie i jeśli mięso jest zbyt
+92
+00:15:10,144 --> 00:15:20,144
+Lopsiki rzecz jasna formujemy mocząc dłonie w wodzie i jeśli mięso jest zbyt
 rzadkie do środka można dodać trochę mąki.
 
-175
-00:15:20,112 --> 00:15:26,112
-To jest belgijska podpowiedź. Nieco mąki w środku, jeśli trzeba i koniecznie
-mąka na wierzchu.
+93
+00:15:20,144 --> 00:15:26,144
+To jest belgijska podpowiedź. Nieco mąki w środku jeśli trzeba i koniecznie mąka
+na wierzchu.
 
-176
-00:15:26,112 --> 00:15:32,112
+94
+00:15:26,144 --> 00:15:32,144
 I co teraz? I teraz w oleju smażymy to ze wszystkich stron na złoty kolor.
 
-177
-00:15:32,112 --> 00:15:42,112
-Inne naczynie, garnek, rondel, w nim rozgrzane masło. Teraz wrzucam tutaj pory.
+95
+00:15:37,296 --> 00:15:40,536
+Inne naczynie, garnek, rondel, w nim rozgrzane masło.
 
-178
-00:15:42,112 --> 00:15:52,112
-Chodzi o to, żeby odciąć od porów te najciemniejsze zielone części oraz
-oczywiście korzonek.
+96
+00:15:40,856 --> 00:15:43,056
+Teraz wrzucam tutaj pory.
 
-179
-00:15:52,112 --> 00:15:58,112
-Trzeba pora przeciąć wzdłuż, bardzo dokładnie umyć i pociąć w plasterki. To jest
-w środku.
+97
+00:15:44,376 --> 00:15:50,176
+Chodzi o to, żeby odciąć od porów te najciemniejsze zielone
 
-180
-00:15:58,112 --> 00:16:06,112
-I to jest w środku. I teraz cykoria, drodzy Państwo. Cykoria, która tutaj nazywa
-się endyvia.
+98
+00:15:50,176 --> 00:15:53,016
+części oraz oczywiście korzonek.
 
-181
-00:16:06,112 --> 00:16:12,112
-Belgium endive. U nas zwane jest to cykorią, więc pogodzę Państwa flamanską
-nazwą witlów.
+99
+00:15:53,216 --> 00:15:57,576
+Trzeba pora przeciąć wzdłuż, bardzo dokładnie umyć i pociąć
 
-182
-00:16:12,112 --> 00:16:20,112
-Trzeba przekroić wzdłuż, następnie w ten sposób i dodać do porów, a potem dusić
-do zeszklenia.
+100
+00:15:57,576 --> 00:15:58,136
+w plasterki.
 
-183
-00:16:20,112 --> 00:16:30,112
-Witlów w Elcykoria albo też endyvia to rzecz nieco gorzkawa. Zatem dodajemy
-tutaj trochę brązowego cukru.
+101
+00:15:58,176 --> 00:15:58,896
+To jest w środku.
 
-184
-00:16:30,112 --> 00:16:40,112
-On się zaraz rozpuści, skarmelizuje i rozpuści się niechybnie, ponieważ teraz
-płyny.
+102
+00:15:59,336 --> 00:16:01,256
+I teraz cykoria drodzy państwo.
 
-185
-00:16:40,112 --> 00:16:49,112
-Mianowicie font, czyli bardzo skoncentrowany bulion w tym wypadku drobiowy oraz
-piwo.
+103
+00:16:01,576 --> 00:16:05,616
+Cykoria, która tutaj nazywa się endyvia.
 
-186
-00:16:49,112 --> 00:16:59,112
-Chodzi o mocne piwo typu pilzneńskiego. I co teraz? Teraz już tylko klopsiki,
-które wyglądają jak pączuszki,
+104
+00:16:06,016 --> 00:16:07,176
+Belgium endive.
 
-187
-00:16:59,112 --> 00:17:07,112
-więc też jak pączuszki muszą wcześniej na papierze stłuszczu być odsączone i
-gotujemy wszystko około 40 minut
+105
+00:16:07,216 --> 00:16:11,416
+U nas zwane jest to cykorią, więc pogodzę państwa flamanską
 
-188
-00:17:07,112 --> 00:17:19,112
-doprawiałem solą, pieprzem i czym? Świeżo zmieloną gałką muszkatołową, a na
-końcu dodajemy tutaj trochę lekko ukwaszonej śmietany.
+106
+00:16:11,416 --> 00:16:11,936
+nazwą.
 
-189
-00:17:24,058 --> 00:17:30,058
-Zobaczcie Państwo jakie cudne maleństwa w dodatku arcybelgijskie.
+107
+00:16:12,096 --> 00:16:12,656
+Whitluf.
 
-190
-00:17:30,058 --> 00:17:33,058
+108
+00:16:12,856 --> 00:16:16,896
+Trzeba przekroić wzdłuż, następnie w ten sposób i dodać
+
+109
+00:16:16,896 --> 00:16:19,816
+do porów, a potem dusić do zeszklenia.
+
+110
+00:16:23,216 --> 00:16:27,736
+Whitluf, velcykoria albo też endyvia to rzecz nieco gorzkawa.
+
+111
+00:16:28,176 --> 00:16:30,776
+Zatem dodajemy tutaj trochę brązowego cukru.
+
+112
+00:16:31,336 --> 00:16:36,576
+On się zaraz rozpuści, skarmelizuje i rozpuści się
+
+113
+00:16:36,576 --> 00:16:39,856
+niechybnie, ponieważ teraz płyny.
+
+114
+00:16:40,576 --> 00:16:45,856
+Mianowicie font, czyli bardzo skoncentrowany bulion w tym
+
+115
+00:16:45,856 --> 00:16:49,216
+wypadku drobiowy oraz piwo.
+
+116
+00:16:49,496 --> 00:16:54,136
+Chodzi o mocne piwo typu pilzneńskiego i co teraz?
+
+117
+00:16:54,616 --> 00:16:58,856
+Teraz już tylko klopsiki, które wyglądają jak pączuszki,
+
+118
+00:16:59,176 --> 00:17:03,856
+więc też jak pączuszki muszą wcześniej na papierze stłuszczu
+
+119
+00:17:03,856 --> 00:17:07,896
+być odsączone i gotujemy wszystko około czterdziestu minut
+
+120
+00:17:07,896 --> 00:17:10,616
+doprawiając solą, pieprzem i czym?
+
+121
+00:17:10,936 --> 00:17:16,016
+Świeżo zmieloną gałką muszkatołową, a na końcu dodajemy
+
+122
+00:17:16,016 --> 00:17:19,056
+tutaj trochę lekko ukwaszonej śmietany.
+
+123
+00:17:25,178 --> 00:17:30,178
+Zobaczcie Państwo jakie cudne maleństwa w dodatku arcybelgińskie.
+
+124
+00:17:30,178 --> 00:17:33,178
 Cykoria, pory, gałka muszkatołowa.
 
-191
-00:17:33,058 --> 00:17:36,058
+125
+00:17:33,178 --> 00:17:37,178
 Pachnie aż tutaj po takich klopsikach.
 
-192
-00:17:36,058 --> 00:17:41,058
+126
+00:17:37,178 --> 00:17:41,178
 Nawet wpław przeprawiłbym się do starego miasta w Antwerpii.
 
-193
-00:17:49,434 --> 00:17:55,434
-Teraz coś, co dotychczas widzieliśmy jedynie z daleka, architektoniczny symbol
+127
+00:17:49,370 --> 00:17:55,370
+Teraz coś co dotychczas widzieliśmy jedynie z daleka, architektoniczny symbol
 miasta.
 
-194
-00:17:55,434 --> 00:17:59,434
+128
+00:17:55,370 --> 00:17:59,370
 Katedra pod wezwaniem Najświętszej Marii Panny.
 
-195
-00:17:59,434 --> 00:18:06,434
+129
+00:17:59,370 --> 00:18:06,370
 O genialności średniowiecznych budowniczych najlepiej świadczy fakt, że pierwszy
 antwerpski drapacz chmur,
 
-196
-00:18:06,434 --> 00:18:14,434
+130
+00:18:06,370 --> 00:18:14,370
 który postawiono w latach trzydziestych, a liczą 26 pięter, jest daleko niższy
 od katedralnej wieży.
 
-197
-00:18:16,128 --> 00:18:24,128
+131
+00:18:15,984 --> 00:18:23,984
 Podoba mi się niezwykle, że miejscowy rynek nie jest tylko traktowany jako
 zabytkowa architektoniczna bomboniera,
 
-198
-00:18:24,128 --> 00:18:29,128
+132
+00:18:23,984 --> 00:18:28,984
 lecz również miejsce, które nadal ma służyć ludziom, zwykłym ludziom.
 
-199
-00:18:29,128 --> 00:18:37,128
+133
+00:18:28,984 --> 00:18:36,984
 Zobaczcie Państwo, stoły i krzesła rozstawione, ale nie chodzi o to, że tutaj
 ucztował będzie burmistrz z komiltonami.
 
-200
-00:18:37,128 --> 00:18:42,128
+134
+00:18:36,984 --> 00:18:41,984
 To jest dla klientów food trucków, które właśnie się rozstawiają.
 
-201
-00:18:42,128 --> 00:18:46,128
+135
+00:18:41,984 --> 00:18:45,984
 Dzisiaj mamy w Antwerpie szczególny dzień. Dzień bez samochodu.
 
-202
-00:18:46,128 --> 00:18:56,128
+136
+00:18:45,984 --> 00:18:55,984
 Zatem food trucki tylko wegańskie, a klienci tych food trucków przyjeżdżają
 tutaj nie samochodami, a rowerami.
 
-203
-00:18:56,128 --> 00:19:02,128
+137
+00:18:55,984 --> 00:19:01,984
 Więc mamy wegańskie jedzenie, cyklistów, brak samochodów i spalin.
 
-204
-00:19:02,128 --> 00:19:07,128
-Wszystko układa się w jasną, logiczną całość. Przypadek nie sądzę.
+138
+00:19:01,984 --> 00:19:06,984
+Wszystko układa się w jasną, logiczną całość. Przypadek? Nie sądzę.
 
-205
-00:19:12,128 --> 00:19:17,128
-To nie jest drodzy Państwo królewska sala balowa, ani też pałac maharadży.
-
-206
-00:19:17,128 --> 00:19:24,128
-Zresztą jednostka, choćby nie wiem jak bogata, tylko dla siebie czegoś takiego
+139
+00:19:11,744 --> 00:19:23,744
+To nie jest drodzy państwo królewska sala Balowa, ani też pałac Macharadży,
+zresztą jednostka, choćby nie wiem jak bogata, tylko dla siebie czegoś takiego
 by nie wzniosła.
 
-207
-00:19:24,128 --> 00:19:29,128
-To ma służyć dobru wspólnemu. A co to jest? Miejscowy dworzec.
+140
+00:19:23,744 --> 00:19:35,744
+To ma służyć dobru wspólnemu, a co to jest? Miejscowy dworzec. Widziałem już w
+swoim życiu wiele dworców, ale czegoś takiego jak w Antwerpii jeszcze przeniknę.
 
-208
-00:19:29,128 --> 00:19:36,128
-Widziałem już w swoim życiu wiele dworców, ale czegoś takiego jak w Antwerpii
-jeszcze przeniknę.
-
-209
-00:19:41,498 --> 00:20:04,498
-Rzeczca ma w sobie godna odwiedziń ze wszechmiar, ale służy również jako bardzo
+141
+00:19:41,434 --> 00:20:04,434
+Rzeczsa ma w sobie godna odwiedziń ze wszechmiar, ale służy również jako bardzo
 ważny punkt informacyjny dla tych wszystkich, którzy lubią bogactwo i
 świecidełka, bowiem tuż obok Dworca zaczyna się bez wątpienia najsłynniejsza w
 świecie dzielnica diamentów.
 
-210
-00:20:05,498 --> 00:20:24,498
+142
+00:20:05,434 --> 00:20:26,434
 Po polsku diament to kamień wydobyty z kopalni, natomiast bryland to diament
 oszlifowany. Po angielsku jedno i drugie zwie się diamentem. Dlaczego akurat
 Antwerpia? Ponieważ tutaj pod koniec XV wieku wynaleziono urządzenie do
-szlifowania diamentów jednego z najtwardszych tworów natury.
+szlifowania diamentów jednego z najtwardszych tworów natury. Oto drodzy państwo
+pan Jozef Dachan.
 
-211
-00:20:24,498 --> 00:20:34,498
-Mamy jedno ważne pytanie. Jak odróżnić prawdziwy bryland od fałszywego?
+143
+00:20:27,434 --> 00:20:34,434
+Mam jedno ważne pytanie. Jak odróżnić prawdziwy bryland od fałszywego?
 
-212
-00:20:34,498 --> 00:20:52,498
+144
+00:20:35,434 --> 00:20:52,434
 Chce pan wiedzieć czym się różnią? Dobrze pan trafił. Pracuję w tej branży 22
 lata i jestem ekspertem. Ten się błyszczy? Ten też. Kładę go na niebieskiej
 linii i patrzę na wskroś.
 
-213
-00:20:52,498 --> 00:21:06,498
+145
+00:20:53,434 --> 00:21:06,434
 Widzę kreskę. Przez bryland jej pan nie zobaczy. Ten pierwszy to nie bryland. To
 szkiełko. Wszystko przez nie widać. Szklana cyrkonia.
 
-214
-00:21:07,498 --> 00:21:21,498
+146
+00:21:08,434 --> 00:21:20,434
 Przez prawdziwy kamień, przez diament nie widać linii. To najprostszy test. Jest
 też urządzenie do sprawdzania diamentów.
 
-215
-00:21:22,498 --> 00:21:38,498
+147
+00:21:22,434 --> 00:21:38,434
 Jeśli przyłożymy cyrkonię, nic nie wyświetla. Jeśli weźmiemy diament, mamy
 potwierdzenie. A papier ścierny? Weźmy to szkiełko. Trzemy je o papier.
 
-216
-00:21:41,104 --> 00:21:49,104
-I staje się matowy. Bo to szkło. Zgadza się.
+148
+00:21:40,634 --> 00:21:44,634
+I staje się matowy.
 
-217
-00:21:49,104 --> 00:21:54,104
+149
+00:21:44,634 --> 00:21:48,634
+Gotożkło. Zgadza się.
+
+150
+00:21:48,634 --> 00:21:54,634
 A jeśli weźmiemy prawdziwy brylant, nic mu się nie stanie.
 
-218
-00:21:54,104 --> 00:22:00,104
-Będzie nawet czystszy. Żadnych otarć, zadrapań.
+151
+00:21:54,634 --> 00:21:57,634
+Będzie nawet czystszy.
 
-219
-00:22:00,104 --> 00:22:03,104
+152
+00:21:57,634 --> 00:22:00,634
+Żadnych otarć, zadrapań.
+
+153
+00:22:00,634 --> 00:22:03,634
 Najtwardszy kamień na świecie.
 
-220
-00:22:03,104 --> 00:22:06,104
-Widzicie państwo? Nie macie zapewne takiej maszyny.
+154
+00:22:03,634 --> 00:22:06,634
+Widzicie państwo, nie macie zapewne takiej maszyny,
 
-221
-00:22:06,104 --> 00:22:10,104
-Więc albo niebieska kreska, albo chodźcie na zakupy
+155
+00:22:06,634 --> 00:22:10,634
+albo niebieska kreska, albo chodźcie na zakupy diamentowe
 
-222
-00:22:10,104 --> 00:22:13,104
-diamentowe z kawałkiem papieru ściernego.
+156
+00:22:10,634 --> 00:22:14,634
+z kawałkiem papieru ściernego, bądź też do zaufanego jubilera.
 
-223
-00:22:13,104 --> 00:22:15,104
-Bądź też do zaufanego jubilera.
-
-224
-00:22:18,104 --> 00:22:23,104
+157
+00:22:18,634 --> 00:22:22,634
 Przy placu odchodzącym od głównej handlowej ulicy o nazwie Mer
 
-225
-00:22:23,104 --> 00:22:26,104
+158
+00:22:22,634 --> 00:22:25,634
 mamy prawdziwą gratkę, mianowicie dom Rubensa.
 
-226
-00:22:26,104 --> 00:22:30,104
-Nie, Rubens tutaj się wcale nie urodził, ale jest jeszcze lepiej.
+159
+00:22:25,634 --> 00:22:28,634
+Nie, Rubens tutaj się wcale nie urodził,
 
-227
-00:22:30,104 --> 00:22:33,104
-Bowiem on tutaj żył i tworzył.
+160
+00:22:28,634 --> 00:22:32,634
+ale jest jeszcze lepiej, bowiem on tutaj żył i tworzył.
 
-228
-00:22:34,672 --> 00:22:46,672
+161
+00:22:34,688 --> 00:22:46,688
 Już z zewnątrz w apartamenci robi niezłe wrażenie, ale wewnątrz jeszcze większe.
 Tak, Rubens to był jeden z tych artystów, którzy sławę i bogactwo zdobyli za
 życia.
 
-229
-00:22:46,672 --> 00:22:54,672
+162
+00:22:46,688 --> 00:22:54,688
 Malarz królów i książąt, w dodatku zwolniony z podatków przez Antwerpię. Zdobył
 wielką fortunę.
 
-230
-00:22:54,672 --> 00:23:01,672
+163
+00:22:54,688 --> 00:23:01,688
 Ale trzeba sobie tutaj powiedzieć szczerze, że wybitnym artystom bogactwo się po
 prostu należy.
 
-231
+164
 00:23:03,344 --> 00:23:14,844
-Oto pracownia mistrza. Do języka potocznego, również polskiego, weszło na stałe
+Oto pracownia mistrza. Do języka potocznego, również polskiego weszło na stałe
 określenie rubensowskie kształty, oznaczające kobiety puszyste.
 
-232
+165
 00:23:14,844 --> 00:23:22,344
 W czasach Rubensa ludzie byli grubsi, bowiem chudość wtedy oznaczała niedostatek
 i chorobę.
 
-233
+166
 00:23:22,344 --> 00:23:37,344
 I gwarantuję Wam, niezależnie od tego jakiej płci jesteście, że jeśli bawiąc w
-Belgii, będziecie bez umiaru jedli frytki z majonezem i popijali je piwem, to
-bez trudu rubensowskie kształty osiągniecie.
+Belgii będziecie bez umiaru jedli frytki z majonezem i popijali je piwem, to bez
+trudu rubensowskie kształty osiągniecie.
 
