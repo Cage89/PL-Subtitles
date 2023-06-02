@@ -3,6 +3,7 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |Season|Episode|Status|Source|
 |---|---|---|---|
 |2020.04.20|Lekcja 1|checked|Whisper|
+|2020.04.20|Lekcja 2|checked|Whisper|
 |-|rest|transcribed, not checked|Whisper|
 
 
