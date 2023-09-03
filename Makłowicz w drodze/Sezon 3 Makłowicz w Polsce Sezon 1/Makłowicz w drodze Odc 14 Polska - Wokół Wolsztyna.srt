@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:29,800
+00:00:28,160 --> 00:00:29,800
 Niemal osiemnaście lat minęło
 
 2
@@ -8,7 +8,7 @@ Drodzy Państwo, odkąd to po raz ostatni robiłem programy
 
 3
 00:00:33,720 --> 00:00:37,240
-w Polsce, teraz w Szagrze postanowiłem powrócić do
+w Polsce, teraz wszakże postanowiłem powrócić do
 
 4
 00:00:37,480 --> 00:00:41,960
@@ -59,7 +59,7 @@ To serce dawnego Grodu, pałac i jego duchowe centrum, kaplica,
 oryginalne fragmenty murów, kamienie z czasów mieszka.
 
 16
-00:01:24,640 --> 00:01:27,800
+00:01:24,665 --> 00:01:27,825
 Nowa jest tylko wzmacniająca całość Zaprawa.
 
 17
