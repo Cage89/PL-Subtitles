@@ -673,7 +673,7 @@ A co, nie jest?
 
 167
 00:11:49,306 --> 00:11:52,306
-Na pastwiska pod Hołopolem przyleciał smok.
+A pastwiska pod hołopolem przyleciał smok.
 
 168
 00:11:52,306 --> 00:11:54,306
@@ -681,7 +681,7 @@ A nie był to zwyczajny oszlusk?
 
 169
 00:11:54,306 --> 00:11:56,306
-Smok lepiej pasuje ci do ballady.
+Smok lepiej pasuje Ci do ballady.
 
 170
 00:11:56,306 --> 00:11:58,306
@@ -692,8 +692,8 @@ Nie obrażaj mnie, widziałem na własne oczy.
 Na drugi dzień przyleciał znowu.
 
 172
-00:12:01,696 --> 00:12:06,696
-Zatoczył dwa koła nad grodem, pożarł z cztery owce na pastwisko i zniknął.
+00:12:03,696 --> 00:12:05,696
+pożarł z cztery owce na pastwisku
 
 173
 00:12:07,696 --> 00:12:13,696
@@ -1166,7 +1166,7 @@ Chcieliśmy złożyć uszanowanie.
 
 289
 00:20:13,018 --> 00:20:17,018
-Rozumiem, ale z Woli nie damiera. Ten rejon jest zamknięty.
+Rozumiem, ale z woli niedomiera ten rejon jest zamknięty.
 
 290
 00:20:17,018 --> 00:20:19,018
@@ -1178,7 +1178,7 @@ Idziemy z ważną misją, pani kanclerzu, i nie zawrócimy ta pewna.
 
 292
 00:20:23,018 --> 00:20:26,018
-Ale możemy was wyprzedzić.
+Ale... możemy was wyprzedzić.
 
 293
 00:20:26,018 --> 00:20:30,018
@@ -1311,7 +1311,7 @@ Jaskier?
 
 325
 00:22:38,288 --> 00:22:40,288
-Zapomnieliście o jej kuzynę na słem.
+Zapomnieliście o Ejku z Deneslem.
 
 326
 00:22:40,288 --> 00:22:42,288
@@ -1323,19 +1323,19 @@ Widziałem go.
 
 328
 00:22:44,288 --> 00:22:46,288
-Kręczał na kamieniach i patrzył w niebo.
+Klęczał na kamieniach i patrzył w niebo.
 
 329
 00:22:46,288 --> 00:22:48,288
-On tak zawsze mówią, że rozmawia z bogami.
+On tak zawsze, mówią, że rozmawia z bogami.
 
 330
 00:22:48,288 --> 00:22:50,288
-U nas w Krynfrid
+U nas w Krimfrit
 
 331
 00:22:50,288 --> 00:22:52,288
-trzyma się takich na wancuchu i daje kawałek węgla.
+trzyma się takich na łańcuchu i daje kawałek węgla.
 
 332
 00:22:52,288 --> 00:22:54,288
@@ -1347,7 +1347,7 @@ cudności malują.
 
 334
 00:22:56,288 --> 00:22:58,288
-Jenefer.
+Jennifer...
 
 335
 00:23:00,880 --> 00:23:04,880
@@ -2259,7 +2259,7 @@ Zbierz ludzi, wracamy do Caingorn.
 
 560
 00:40:22,986 --> 00:40:23,986
-Ależ pan jest...
+Pani słowa!
 
 561
 00:40:23,986 --> 00:40:24,986
