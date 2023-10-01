@@ -1,0 +1,251 @@
+1
+00:00:03,740 --> 00:00:07,828
+Na dobranoc, dobry wieczór,
+
+2
+00:00:07,852 --> 00:00:11,948
+miś pluszowy śpiewa wam,
+
+3
+00:00:11,972 --> 00:00:16,338
+mówią o mnie miś uszatek,
+
+4
+00:00:16,362 --> 00:00:20,289
+bo klapnięte uszko mam.
+
+5
+00:00:20,376 --> 00:00:24,188
+Jestem w sobie mały miś, gruby miś,
+
+6
+00:00:24,212 --> 00:00:34,000
+znam się z dziećmi nie od dziś, jestem w sobie
+mały miś, śmieszny miś, znam się z dziećmi.
+
+7
+00:00:34,224 --> 00:00:36,224
+Nie od dziś!
+
+8
+00:00:38,224 --> 00:00:41,724
+Ze wszystkich pór roku jesień jest chyba najpiękniejsza.
+
+9
+00:00:41,724 --> 00:00:46,224
+Trzeba jednak pamiętać, że za piękną jesienią stoi już w kolejce sroga zima,
+
+10
+00:00:46,224 --> 00:00:49,224
+a z zimą nie ma żartów.
+
+11
+00:01:00,690 --> 00:01:04,362
+Cześć, zajączku. Widzę, że idziesz zbierać grzyby.
+
+12
+00:01:04,362 --> 00:01:08,762
+"Nie zgadłeś," uśmiechnął się zajączek. "Idę zbierać kasztany."
+
+13
+00:01:08,762 --> 00:01:14,962
+"Kasztany? Jasne, z kasztanów i żołędzi można zrobić śliczne jesienne zabawki."
+
+14
+00:01:14,962 --> 00:01:16,962
+"Jeśli tak, to idę z tobą."
+
+15
+00:02:15,193 --> 00:02:19,894
+Widzę, że i ty, wiewiórko, zbierasz kasztany na jesienne zabawki.
+
+16
+00:02:21,394 --> 00:02:23,894
+Nie w głowie mi zabawki, uszatku.
+
+17
+00:02:23,894 --> 00:02:25,628
+Ja zbieram zapasy na zimę,
+
+18
+00:02:25,652 --> 00:02:28,394
+bo kiedy spadnie śnieg, nie
+znajdę nawet pół orzeszka.
+
+19
+00:02:28,394 --> 00:02:29,394
+Muszę się spieszyć.
+
+20
+00:02:45,122 --> 00:02:48,322
+Odlatują do ciepłych krajów. Zima idzie.
+
+21
+00:02:48,322 --> 00:02:53,522
+Co będą jadły tutaj, kiedy spadnie śnieg i przykryje wszystkie pola i lasy?
+
+22
+00:03:15,188 --> 00:03:16,988
+Dobrze, że Cię widzę, uszatku.
+
+23
+00:03:17,055 --> 00:03:20,369
+Czy Ty także wybierasz się na zimę do ciepłych krajów?
+
+24
+00:03:21,864 --> 00:03:23,148
+Nigdzie się nie wybieram.
+
+25
+00:03:23,172 --> 00:03:28,411
+Nie mam skrzydeł i zanim doszedłbym tam
+piechotą, na pewno zrobiłaby się już wiosna.
+
+26
+00:03:29,011 --> 00:03:33,195
+"A ty, zajączku", dowedywał się Szpak, "biegasz przecież jak wiatr."
+
+27
+00:03:33,438 --> 00:03:40,097
+"Pewnie, że biegam jak wiatr", pochwalił się Zajączek, "ale my z misiem mamy
+ciepłe futerka i bardzo lubimy śnieg i mróz."
+
+28
+00:03:40,424 --> 00:03:49,585
+"No tak", zafrasował się Szpak, "a ja mam zmartwienie. Jeszcze dziś odlatuję do
+ciepłych krajów, a nie mam komu zostawić swojego domku."
+
+29
+00:03:49,610 --> 00:03:54,915
+"Poszukamy", obiecał Zajączek, "może znajdzie się jakiś przyzwoity lokator."
+
+30
+00:04:10,134 --> 00:04:13,980
+"A może ty, myszko, zamieszkałabyś w domku szpaka?"
+
+31
+00:04:14,334 --> 00:04:17,014
+"Och nie, dziękuję, to przecież pierwsze piętro,
+
+32
+00:04:17,014 --> 00:04:19,774
+a ja mogę mieszkać tylko na parterze albo w piwnicy."
+
+33
+00:04:22,773 --> 00:04:27,810
+"Sroczko, Szpak wyjeżdża za granicę i może Ci odstąpić na zimę swój domek."
+
+34
+00:04:27,810 --> 00:04:34,310
+"Piii, też coś. Domek Szpaka? To nie dla mnie, trajkotała Sroczka. Jestem za
+duża, piii."
+
+35
+00:04:34,310 --> 00:04:36,931
+"Chyba, że zrobicie kapitalny remont, piii."
+
+36
+00:05:15,354 --> 00:05:19,554
+"Hej, wróble, kiedy odlatujecie do ciepłych krajów?"
+
+37
+00:05:19,554 --> 00:05:23,954
+"Może w przyszłym roku, w tym jakoś się nam nie składa."
+
+38
+00:05:23,954 --> 00:05:25,954
+"Wspaniale!"
+
+39
+00:05:26,760 --> 00:05:29,954
+"Nie widzę w tym nic wspaniałego", powiedział smutno tata wróbel.
+
+40
+00:05:29,954 --> 00:05:33,954
+"Wspaniale, bo mamy dla was luksusowy domek na zimę."
+
+41
+00:05:33,954 --> 00:05:38,954
+"Nie róbcie sobie żartów ze zmokniętych, wróbli", powiedziała mama wróbel.
+
+42
+00:05:38,954 --> 00:05:40,954
+"To wcale nie są żarty.
+
+43
+00:05:40,954 --> 00:05:43,454
+Szpak odlatuje na zimę do ciepłych krajów
+
+44
+00:05:43,454 --> 00:05:46,454
+i jego domek będzie na zimę pusty."
+
+45
+00:05:46,454 --> 00:05:50,454
+"Hurra!" zawołały chórem zmoknięte wróble.
+
+46
+00:06:05,931 --> 00:06:08,491
+Uf! Zdążyliśmy na czas!
+
+47
+00:06:13,587 --> 00:06:15,871
+Szpaku, oto twoi lokatorzy.
+
+48
+00:06:15,954 --> 00:06:17,954
+Zamieszkają u ciebie przez zimę.
+
+49
+00:06:17,954 --> 00:06:20,954
+Proszę, proszę, zobaczcie sobie cały domek.
+
+50
+00:06:20,954 --> 00:06:22,954
+Zaraz pokażę, gdzie jest kuchnia,
+
+51
+00:06:22,954 --> 00:06:25,515
+gdzie sypialnia i salonik.
+
+52
+00:06:29,515 --> 00:06:30,954
+Dziękujemy ci, uszatku.
+
+53
+00:06:30,954 --> 00:06:32,954
+Mieszkanie jest wspaniałe.
+
+54
+00:06:32,954 --> 00:06:34,954
+Dziękuję ci, uszatku.
+
+55
+00:06:34,954 --> 00:06:38,954
+Cieszę się, że ktoś się zaopiekuje moim domkiem przez zimę.
+
+56
+00:06:49,626 --> 00:07:00,175
+Zrobiło się straszne zamieszanie, jedni lecą do ciepłych krajów, inni znowu
+robią zapasy na zimę.
+
+57
+00:07:00,362 --> 00:07:04,626
+Jesienią każdy ma do załatwienia masę własnych spraw.
+
+58
+00:07:05,375 --> 00:07:08,626
+Ale nie zaszkodzi pamiętać o zmokniętych wróblach.
+
+59
+00:07:08,957 --> 00:07:10,626
+Dobranoc.
+
+60
+00:07:18,266 --> 00:07:26,181
+Pora na dobranoc, bo już księżyc świeci.
+
+61
+00:07:26,266 --> 00:07:34,635
+Dzieci lubią misie, misie lubią dzieci.
+
