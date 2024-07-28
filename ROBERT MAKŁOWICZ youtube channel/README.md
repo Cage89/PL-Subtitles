@@ -1,9 +1,9 @@
 Partially sourced from https://www.youtube.com/@Robert_Maklowicz  
-Partially generated using whisper.  
+Partially generated using whisper (before ep 32, which are missing official subs).  
 
 |Season|Episode|Status|Source|
 |---|---|---|---|
-|-|GOTUJE NA WIELKANOC część 1|uploaded|whisper|
+|-|GOTUJE NA WIELKANOC część 1|uploaded|checked|
 |-|GOTUJE NA WIELKANOC część 2|missing|-|
 |-|GOTUJE NA WIELKANOC. Krem z bobu|uploaded|whisper|
 |-|Pomyślności wszelakiej|uploaded|whisper|

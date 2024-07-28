@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:10,280
+00:00:05,460 --> 00:00:10,280
 Szanowni moi, choć święta wielkanocne w tym roku nie będą takie jak zawsze ze
 
 2
@@ -45,7 +45,7 @@ Ja pokażę wam pasztet błyskawiczny, w dodatku arcy dobry, swoją
 
 12
 00:00:58,080 --> 00:01:01,200
-strukturą przypominający nieco flagra.
+strukturą przypominający nieco foie gras.
 
 13
 00:01:01,720 --> 00:01:02,640
@@ -53,15 +53,15 @@ Co potrzebujemy?
 
 14
 00:01:03,040 --> 00:01:06,920
-No nie flagra, więc nie zbankrutujecie robiąc to.
+No nie foie gras, więc nie zbankrutujecie robiąc to.
 
 15
 00:01:06,960 --> 00:01:10,920
-Potrzebujemy zwykłą drobiową wątrupkę kupić.
+Potrzebujemy zwykłą drobiową wątrubkę kupić.
 
 16
 00:01:10,920 --> 00:01:15,120
-W tym wypadku jest to wątrupka z indyka, ale jak będzie z kurczaka, z gęsi,
+W tym wypadku jest to wątrubka z indyka, ale jak będzie z kurczaka, z gęsi,
 
 17
 00:01:15,120 --> 00:01:16,800
@@ -77,7 +77,7 @@ I to jest główny składnik.
 
 20
 00:01:20,960 --> 00:01:24,880
-Drugi, który przesądza konsystencji dania to masło.
+Drugi, który przesądza o konsystencji dania to masło.
 
 21
 00:01:25,160 --> 00:01:27,040
@@ -176,12 +176,12 @@ Ten aromat czosnkowy ma być gdzieś tam w siódmym tle.
 To nie ma być przez czosnek zdominowane, więc troszeczkę
 
 45
-00:02:35,520 --> 00:02:40,120
-czosnku i robimy na patelni miejsce, dlatego że teraz muszą
+00:02:35,520 --> 00:02:38,028
+czosnku i robimy na patelni miejsce,
 
 46
-00:02:40,160 --> 00:02:42,600
-się na niej pojawić z kolei wątróbki.
+00:02:38,052 --> 00:02:42,600
+dlatego że teraz muszą się na niej pojawić z kolei wątróbki.
 
 47
 00:02:42,640 --> 00:02:44,280
@@ -208,1814 +208,1868 @@ tej wątróbki jest tutaj za dużo.
 Partiami będziemy ją smażyć.
 
 53
-00:02:58,000 --> 00:03:02,920
-Normalnie ucina się z wątróbki takie końce, które mogą być
+00:02:58,000 --> 00:03:02,228
+Normalnie ucina się z wątróbki takie końce,
 
 54
-00:03:02,960 --> 00:03:06,520
-twarde, ale to będzie zmiksowane i jeszcze przetarte, więc nic
+00:03:02,252 --> 00:03:03,222
+które mogą być twarde
 
 55
-00:03:06,560 --> 00:03:07,200
-nie trzeba robić.
+00:03:03,247 --> 00:03:06,220
+ale to będzie zmiksowane i jeszcze przetarte,
 
 56
+00:03:06,244 --> 00:03:07,200
+więc nic nie trzeba robić.
+
+57
 00:03:07,240 --> 00:03:09,680
 Ważne żeby wątróbka była sucha.
 
-57
+58
 00:03:10,560 --> 00:03:13,680
 Miejsce na patelni i teraz można zwiększyć ogień.
 
-58
-00:03:14,960 --> 00:03:18,080
-Cak, cak albo cak, cak patel jak wolicie.
-
 59
+00:03:14,960 --> 00:03:18,080
+Cak, cak albo cak, cak pak jak wolicie.
+
+60
 00:03:32,360 --> 00:03:34,000
 Przekładamy na drugą stronę.
 
-60
-00:03:34,040 --> 00:03:39,560
-Wątróbka należy do tej materii, która przesmażona jest po prostu
-
 61
-00:03:39,600 --> 00:03:40,840
-niedobra, twarda.
+00:03:34,040 --> 00:03:36,468
+Wątróbka należy do tej materii,
 
 62
+00:03:36,492 --> 00:03:40,840
+która przesmażona jest po prostu niedobra, twarda.
+
+63
 00:03:41,400 --> 00:03:44,720
 To ma być lekko różowe w środku, aż bez krwi.
 
-63
-00:03:44,760 --> 00:03:47,640
-Ogień mocny po to żeby od razu złapało, po to żeby się
-
 64
-00:03:47,960 --> 00:03:50,360
-smażyło, a nie dusiło.
+00:03:44,760 --> 00:03:46,868
+Ogień mocny po to żeby od razu złapało,
 
 65
+00:03:46,892 --> 00:03:50,360
+po to żeby się smażyło, a nie dusiło.
+
+66
 00:03:50,400 --> 00:03:53,560
 Dlatego też wątróbki nie może być na raz za dużo.
 
-66
-00:03:53,600 --> 00:03:58,480
-Dobrze, kiedy całą przewrócę i kiedy ona zostanie już chwycona
-
 67
-00:03:59,440 --> 00:04:03,840
-przez temperaturę, a widzę, że cebula zaczyna się rumienić,
+00:03:53,600 --> 00:03:55,948
+Dobrze, kiedy całą przewrócę
 
 68
+00:03:55,972 --> 00:04:00,748
+i kiedy ona zostanie już
+chwycona przez temperaturę,
+
+69
+00:04:00,772 --> 00:04:03,840
+a widzę, że cebula zaczyna się rumienić,
+
+70
 00:04:04,960 --> 00:04:05,720
 mamy płyn.
 
-69
+71
 00:04:06,480 --> 00:04:07,680
 Jaki to ma być płyn?
 
-70
+72
 00:04:08,040 --> 00:04:11,280
 To może być brendy, to może być słodkie wino.
 
-71
+73
 00:04:11,320 --> 00:04:16,280
 Ja akurat znalazłem w swoich annałach nieco porto i teraz
 
-72
+74
 00:04:16,920 --> 00:04:21,440
 jak największy ogień i wlewamy tutaj porto.
 
-73
-00:04:21,840 --> 00:04:25,560
-Porto jest winem mocnym, alkoholizowanym, więc to się
-
-74
-00:04:25,600 --> 00:04:26,720
-może nawet zapalić.
-
 75
+00:04:21,840 --> 00:04:24,890
+Porto jest winem mocnym, alkoholizowanym,
+
+76
+00:04:24,914 --> 00:04:26,720
+więc to się może nawet zapalić.
+
+77
 00:04:27,040 --> 00:04:28,040
 Tak jest, zobacz.
 
-76
+78
 00:04:32,560 --> 00:04:34,600
 Bardzo dobrze, dostatecznie.
 
-77
-00:04:38,680 --> 00:04:42,520
+79
+00:04:39,187 --> 00:04:42,949
 Zgasło, wino wyparowuje, zostaje jego smak, tak ma być.
 
-78
-00:04:42,680 --> 00:04:43,760
+80
+00:04:43,164 --> 00:04:44,114
 Teraz przyprawy.
 
-79
-00:04:44,160 --> 00:04:47,320
-No więc nieco gałki muszkatołowej, rzecz jasna
-
-80
-00:04:47,360 --> 00:04:49,080
-świeżo startej, nieco.
-
 81
-00:04:49,920 --> 00:04:54,440
-Nie można tego przegałkowić, przemuszkatołowić, nie można
+00:04:44,637 --> 00:04:47,068
+No więc nieco gałki muszkatołowej,
 
 82
-00:04:54,480 --> 00:04:58,200
-też przesolić, przepieprzyć oraz przeangielskozielić.
+00:04:47,092 --> 00:04:49,691
+rzecz jasna świeżo startej, nieco.
 
 83
-00:04:58,960 --> 00:04:59,960
-Teraz sól.
+00:04:49,920 --> 00:04:52,988
+Nie można tego przegałkowić,
 
 84
-00:05:01,160 --> 00:05:03,880
-To jeszcze będzie można przyprawić na końcu, ale ta
+00:04:53,012 --> 00:04:54,508
+przemuszkatołowić,
 
 85
-00:05:03,920 --> 00:05:06,800
-przyprawa musi się znaleźć w środku właśnie teraz.
+00:04:54,532 --> 00:04:56,108
+nie można też przesolić,
 
 86
-00:05:07,640 --> 00:05:12,160
-Tymianek, więc odrywamy listki, zostawiamy twardą gałązkę
+00:04:56,132 --> 00:04:58,907
+przepieprzyć oraz przeangielskozielić.
 
 87
-00:05:12,200 --> 00:05:17,600
-w dłoni i to się jeszcze będzie dusić mniej więcej dwie minuty.
+00:04:59,506 --> 00:05:00,506
+Teraz sól.
 
 88
+00:05:01,614 --> 00:05:03,548
+To jeszcze będzie można
+przyprawić na końcu,
+
+89
+00:05:03,572 --> 00:05:07,520
+ale ta przyprawa musi się
+znaleźć w środku właśnie teraz.
+
+90
+00:05:07,640 --> 00:05:10,508
+Tymianek, więc odrywamy listki,
+
+91
+00:05:10,532 --> 00:05:12,908
+zostawiamy twardą gałązkę w dłoni
+
+92
+00:05:12,932 --> 00:05:17,600
+i to się jeszcze będzie dusić
+mniej więcej dwie minuty.
+
+93
 00:05:23,960 --> 00:05:28,400
 Pierwsza partia razem z cebulą usmażona i lekko podduszona.
 
-89
-00:05:28,880 --> 00:05:31,840
-Trzeba ją przełożyć do naczynia, w którym całość
+94
+00:05:28,880 --> 00:05:31,108
+Trzeba ją przełożyć do naczynia,
 
-90
-00:05:31,880 --> 00:05:35,600
-będzie miksowana, a na patelnię za chwilę dodam już
+95
+00:05:31,132 --> 00:05:32,948
+w którym całość będzie miksowana,
 
-91
-00:05:35,600 --> 00:05:40,440
-tylko masło i będę kolejną partię wątróbki już bez cebuli,
+96
+00:05:32,972 --> 00:05:34,906
+a na patelnię za chwilę dodam
 
-92
-00:05:40,480 --> 00:05:43,560
-bez czosnku, tylko soląc dusił.
+97
+00:05:35,144 --> 00:05:36,988
+już tylko masło
 
-93
+98
+00:05:37,012 --> 00:05:41,934
+i będę kolejną partię wątróbki już bez cebuli, bez czosnku,
+
+99
+00:05:41,958 --> 00:05:43,560
+tylko soląc dusił.
+
+100
 00:05:43,640 --> 00:05:48,000
 To wszystko znajduje się teraz w naczyniu do miksowania.
 
-94
+101
 00:05:52,000 --> 00:05:54,800
 Arcyprosty test wysmażenia wątróbki.
 
-95
+102
 00:05:55,360 --> 00:05:59,280
 Mamy taki oto ostry widelec kuchenny, naciskamy wątróbkę,
 
-96
-00:05:59,320 --> 00:06:04,160
-jest miękka, to znaczy, że nie jest przesmażona, a teraz
+103
+00:05:59,314 --> 00:06:03,388
+jest miękka, to znaczy,
+że nie jest przesmażona,
 
-97
-00:06:04,160 --> 00:06:08,600
-ją nakłuwamy, nie wycieka z niej krew, znaczy, że w środku
+104
+00:06:03,412 --> 00:06:05,308
+a teraz ją nakłuwamy,
 
-98
-00:06:08,640 --> 00:06:14,520
-jest różowa i idealna, więc druga porcja wędruje do naczynia
+105
+00:06:05,332 --> 00:06:07,468
+nie wycieka z niej krew,
 
-99
-00:06:14,560 --> 00:06:20,640
-do miksowania, ale to co jest na patelni jest również cenne.
+106
+00:06:07,492 --> 00:06:10,828
+znaczy, że w środku jest różowa i idealna,
 
-100
+107
+00:06:10,852 --> 00:06:13,707
+więc druga porcja wędruje
+
+108
+00:06:13,731 --> 00:06:16,148
+do naczynia do miksowania,
+
+109
+00:06:16,172 --> 00:06:20,640
+ale to co jest na patelni jest również cenne.
+
+110
 00:06:21,200 --> 00:06:24,800
 Wiedzą o tym Francuzi, więc zawsze robią coś co nazywają
 
-101
+111
 00:06:25,120 --> 00:06:26,960
 deglasé, deglasacją.
 
-102
+112
 00:06:27,280 --> 00:06:30,560
 To tutaj wygląda po brzegach trochę jak przypalone,
 
-103
+113
 00:06:30,600 --> 00:06:33,760
 ale nie jest przypalone, to ma pełno smaku, więc teraz
 
-104
+114
 00:06:33,800 --> 00:06:36,800
 znowu mocny ogień i znowu trochę wina.
 
-105
+115
 00:06:37,240 --> 00:06:38,600
 Te wszystkie dobre rzeczy
 
-106
+116
 00:06:41,680 --> 00:06:45,960
-w zinię się skupią, to przelejemy tutaj i będziemy mogli miksować.
+w winie się skupią, to przelejemy tutaj i będziemy mogli miksować.
 
-107
-00:06:45,960 --> 00:06:46,480
-Miksujemy.
-
-108
-00:07:03,480 --> 00:07:08,040
+117
+00:07:03,480 --> 00:07:07,847
 Wszakże nie będziemy tego miksować już bez żadnych dodatków.
 
-109
-00:07:08,280 --> 00:07:09,560
-Arcyważny dodatek.
+118
+00:07:07,946 --> 00:07:09,226
+No arcyważny dodatek.
 
-110
+119
 00:07:09,880 --> 00:07:10,840
 Reszta masła.
 
-111
+120
 00:07:11,600 --> 00:07:14,120
 No i teraz w zasadzie nie trzeba tego na patelni przyprawiać
 
-112
+121
 00:07:14,120 --> 00:07:16,880
 solą, pieprzem czy też gałką muszkatołową.
 
-113
+122
 00:07:16,920 --> 00:07:20,680
 Trzeba tylko dodać na patelnię tymianku, żeby te listki nieco
 
-114
+123
 00:07:20,720 --> 00:07:22,360
 zmiękły, żeby się poddusiły.
 
-115
+124
 00:07:22,560 --> 00:07:26,440
 Wszystko można spokojnie doprawić teraz, a ważne jest by to
 
-116
+125
 00:07:26,480 --> 00:07:31,280
 wsadzić do malaksera albo zwykłym domowym takim oto mikserem
 
-117
+126
 00:07:31,600 --> 00:07:34,680
 na jak najgładszą masę zmiksować.
 
-118
+127
 00:07:34,720 --> 00:07:39,280
 Zobaczcie tu są ślady dawnych walk kuchennych z żółkło,
 
-119
+128
 00:07:39,560 --> 00:07:41,800
 nie ze starości, z żółkło od kurkumy.
 
-120
+129
 00:07:42,080 --> 00:07:44,000
-Robię sobie w domu sam pastykary.
+Robię sobie w domu sam pasty kary.
 
-121
-00:07:44,320 --> 00:07:47,600
-I one mają kurkumę w sobie między innymi, dlatego całość
+130
+00:07:44,280 --> 00:07:46,468
+I one mają kurkumę w sobie między innymi,
 
-122
-00:07:47,640 --> 00:07:48,120
-żółknie.
+131
+00:07:46,492 --> 00:07:48,120
+dlatego całość żółknie.
 
-123
+132
 00:07:48,160 --> 00:07:49,960
 A my teraz zaczynamy hałasować.
 
-124
+133
 00:08:04,680 --> 00:08:08,200
 W zasadzie lepszy byłby do tego malakser, ale takowego nie posiadam.
 
-125
+134
 00:08:08,240 --> 00:08:12,480
 Chodzi o to, że im gładziej to teraz zmiksujemy tym mniej będziemy
 
-126
+135
 00:08:12,520 --> 00:08:14,040
 mieli roboty później.
 
-127
+136
 00:08:14,040 --> 00:08:16,480
 A to później nastąpi już teraz.
 
-128
+137
 00:08:16,680 --> 00:08:17,480
 Kochanie pomożesz?
 
-129
+138
 00:08:17,560 --> 00:08:18,080
 Dobra dawaj.
 
-130
-00:08:18,240 --> 00:08:22,280
-Drodzy Państwo, gdyż to teraz trzeba dokładnie przetrzeć przez
+139
+00:08:18,240 --> 00:08:21,828
+Drodzy Państwo, gdyż to
+teraz trzeba dokładnie przetrzeć
 
-131
-00:08:22,320 --> 00:08:27,120
-takie oto drobne sitko, żeby wszystko co nie jest idealnie
+140
+00:08:21,852 --> 00:08:24,388
+przez takie oto drobne sitko,
 
-132
-00:08:27,160 --> 00:08:30,360
-gładziutkie na tymże sitku zostało.
+141
+00:08:24,412 --> 00:08:27,908
+żeby wszystko co nie jest idealnie gładziutkie
 
-133
+142
+00:08:27,932 --> 00:08:30,360
+na tymże sitku zostało.
+
+143
 00:08:31,440 --> 00:08:34,560
 I potem zobaczycie co dalej, a ja się zajmę...
 
-134
+144
 00:08:35,000 --> 00:08:38,320
 Agusia przeciera, a ja się zajmę sosem.
 
-135
+145
 00:08:38,840 --> 00:08:42,160
 Sos o nazwie Cumberland, zwany w niektórych kręgach
 
-136
+146
 00:08:42,400 --> 00:08:43,520
 Cumberlandem.
 
-137
+147
 00:08:43,800 --> 00:08:48,200
 Wbrew angielskiej nazwie nie jest to sos z Wielkiej Brytanii.
 
-138
+148
 00:08:48,640 --> 00:08:56,280
 Otóż król Hanoveru, Jerzy V, abdykował w roku 1866 i
 
-139
+149
 00:08:56,320 --> 00:08:58,320
 osiadł na stałe w Wiedniu.
 
-140
+150
 00:08:58,360 --> 00:09:01,960
 I właśnie w Wiedniu podczas jednego sprzyjęć z jego udziałem
 
-141
+151
 00:09:02,000 --> 00:09:04,720
 podano po raz pierwszy tenże sos.
 
-142
+152
 00:09:04,960 --> 00:09:06,120
 Co jest jego istotą?
 
-143
+153
 00:09:06,200 --> 00:09:06,760
 Chrzan.
 
-144
+154
 00:09:07,560 --> 00:09:09,400
 Ale chrzan nie ze słoika.
 
-145
+155
 00:09:09,440 --> 00:09:11,200
 Chrzan świeżo starty.
 
-146
-00:09:11,560 --> 00:09:16,640
-Zawsze na Wielkanoc kupujemy na placu korzeń chrzanu i go
+156
+00:09:11,560 --> 00:09:14,588
+Zawsze na Wielkanoc kupujemy na placu
 
-147
-00:09:16,680 --> 00:09:17,320
-ścieramy.
+157
+00:09:14,612 --> 00:09:17,320
+korzeń chrzanu i go ścieramy.
 
-148
+158
 00:09:17,640 --> 00:09:22,400
 Taki świeżo starty, jeszcze niedoprawiony chrzan to
 
-149
+159
 00:09:22,560 --> 00:09:24,880
 podstawa tegoż sosu.
 
-150
+160
 00:09:25,480 --> 00:09:27,320
 Dobra, ale ma też inne składniki.
 
-151
+161
 00:09:27,560 --> 00:09:29,520
 Jedną z nich jest pomarańcza.
 
-152
+162
 00:09:29,840 --> 00:09:33,720
 Ona musi być albo sparzona wrzątkiem, by pozbyć się tego
 
-153
+163
 00:09:33,760 --> 00:09:38,000
-woschowania i tego czym ją spryskano, albo też bio.
+woskowania i tego czym ją spryskano, albo też bio.
 
-154
-00:09:38,040 --> 00:09:42,200
-Już bez problemu można kupić w naszych sklepach, nawet
+164
+00:09:38,040 --> 00:09:40,948
+Już bez problemu można
+kupić w naszych sklepach,
 
-155
-00:09:42,240 --> 00:09:45,360
-koniecznie delikatesowych, zwykłych pomarańcze bio.
+165
+00:09:40,972 --> 00:09:45,360
+nie nawet koniecznie delikatesowych,
+zwykłych pomarańcze bio.
 
-156
+166
 00:09:45,880 --> 00:09:47,400
 Więc kupujcie jakie chcecie.
 
-157
-00:09:47,440 --> 00:09:52,080
-Ważne byście teraz obrali tak tę skórkę, by ona nie miała
+167
+00:09:47,440 --> 00:09:50,628
+Ważne byście teraz obrali tak tę skórkę,
 
-158
-00:09:52,160 --> 00:09:53,200
-białych części.
+168
+00:09:50,652 --> 00:09:52,981
+by ona nie miała białych części.
 
-159
-00:09:53,240 --> 00:09:54,200
+169
+00:09:53,006 --> 00:09:53,966
 Jak najcieniej.
 
-160
+170
 00:09:55,400 --> 00:09:59,560
 Potrzebny jest ostry nóż i chodzi o to, by ta gorzkość,
 
-161
+171
 00:09:59,600 --> 00:10:03,400
 która jest w bieli do potrawy nie przeszła.
 
-162
+172
 00:10:03,960 --> 00:10:06,360
 Więc jak najcieńsze paseczki.
 
-163
+173
 00:10:06,600 --> 00:10:08,280
 Można też przyjąć inną technikę.
 
-164
+174
 00:10:08,320 --> 00:10:09,680
 Można to uciąć grubiej.
 
-165
+175
 00:10:09,800 --> 00:10:10,480
 O tak.
 
-166
+176
 00:10:11,000 --> 00:10:15,120
 I teraz tej bieli pozbyć się w ten sposób.
 
-167
+177
 00:10:17,920 --> 00:10:19,040
 No to jest przecieranie.
 
-168
+178
 00:10:19,600 --> 00:10:21,080
 To jest zajęcie dla siłaczki słuchaj.
 
-169
+179
 00:10:21,280 --> 00:10:22,760
 No ale ty jesteś siłaczką.
 
-170
+180
 00:10:23,800 --> 00:10:26,280
 To jest, ale to może być zajęcie dla niegrzecznych dzieci,
 
-171
+181
 00:10:26,320 --> 00:10:27,240
 tylko że już nie mamy.
 
-172
+182
 00:10:28,200 --> 00:10:28,800
 Stare dzieci.
 
-173
+183
 00:10:28,840 --> 00:10:29,280
 Dzieci.
 
-174
+184
 00:10:29,400 --> 00:10:31,240
 Nie mówię, że są grzeczne, ale są stare.
 
-175
+185
 00:10:31,920 --> 00:10:33,760
 No tak, to trzeba dokładnie przetrzeć.
 
-176
+186
 00:10:34,240 --> 00:10:35,760
 Tego już nie będzie się piekło.
 
-177
+187
 00:10:35,760 --> 00:10:38,000
 To musi zastygnąć, ale pokażemy to za chwilę.
 
-178
+188
 00:10:38,560 --> 00:10:40,920
 Ja pozbywam się ze skórki białych części.
 
-179
+189
 00:10:45,840 --> 00:10:46,800
 Bobek ja kończę.
 
-180
+190
 00:10:47,680 --> 00:10:48,200
 Dobra.
 
-181
+191
 00:10:48,440 --> 00:10:48,920
 I teraz co?
 
-182
+192
 00:10:48,960 --> 00:10:50,640
-Przykładać od razu do brtwanki?
+Przykładać od razu do brytwanki?
 
-183
+193
 00:10:50,680 --> 00:10:51,600
 Jakbyś była łaskawa.
 
-184
-00:10:51,680 --> 00:10:54,720
-Drodzy Państwo, ja tutaj jestem winien pewnego towarzyskiego
+194
+00:10:51,680 --> 00:10:53,428
+Drodzy Państwo, ja tutaj jestem winien
 
-185
-00:10:54,760 --> 00:10:55,440
-zaniedbania.
+195
+00:10:53,452 --> 00:10:55,440
+pewnego towarzyskiego zaniedbania.
 
-186
+196
 00:10:55,760 --> 00:10:56,600
 Nie przedstawiłem.
 
-187
+197
 00:10:56,880 --> 00:10:58,000
 A tu moja żona.
 
-188
+198
 00:10:58,360 --> 00:10:59,360
 Zufia.
 
-189
+199
 00:10:59,480 --> 00:11:00,840
 Zosiu, przyznaw się Państwu.
 
-190
+200
 00:11:00,880 --> 00:11:05,560
-Do brtwanki, którą trzeba wyłożyć folią spożywczą.
+Do brytwanki, którą trzeba wyłożyć folią spożywczą.
 
-191
+201
 00:11:05,560 --> 00:11:08,800
 Nie aluminiową, tylko taką przezroczystą i to będzie
 
-192
-00:11:08,840 --> 00:11:11,880
-zastygać w lodówce przez dobę, ale my już mamy
+202
+00:11:08,840 --> 00:11:10,908
+zastygać w lodówce przez dobę,
 
-193
-00:11:11,920 --> 00:11:12,640
-zastygnięte.
+203
+00:11:10,932 --> 00:11:12,567
+ale my już mamy zastygnięte.
 
-194
-00:11:12,680 --> 00:11:13,200
+204
+00:11:12,592 --> 00:11:13,112
 Dobra.
 
-195
+205
 00:11:13,400 --> 00:11:14,880
 Teraz sos.
 
-196
+206
 00:11:15,280 --> 00:11:16,160
 Rondelek.
 
-197
+207
 00:11:17,080 --> 00:11:17,880
 Rondelek.
 
-198
+208
 00:11:18,320 --> 00:11:19,360
-Wojizd Rondelek.
+Wo iz Rondelek.
 
-199
+209
 00:11:20,480 --> 00:11:21,240
 Jest rondelek.
 
-200
+210
 00:11:21,280 --> 00:11:22,200
 Mały rondelek.
 
-201
+211
 00:11:22,280 --> 00:11:26,720
 Do tego rondelka wędruje czerwone wino.
 
-202
+212
 00:11:27,720 --> 00:11:29,840
 Kobiety lubią takie malutkie garnuszki.
 
-203
+213
 00:11:29,880 --> 00:11:31,200
 Odczep się, to jest mój ukochany.
 
-204
+214
 00:11:31,240 --> 00:11:34,600
 To jest chyba dlatego, że kiedyś bawiły się lalka i miały
 
-205
+215
 00:11:34,600 --> 00:11:39,760
 kuchnię dla lalek, no ale to jest pierwszy raz kiedy używam tak
 
-206
+216
 00:11:40,040 --> 00:11:43,840
 karykaturalnie małego rondelka, ale on jest w tym wypadku
 
-207
+217
 00:11:44,360 --> 00:11:45,320
 rozmiarami ok.
 
-208
+218
 00:11:45,400 --> 00:11:46,800
 Czerwone wytrawne wino.
 
-209
+219
 00:11:47,800 --> 00:11:51,480
 Ono powinno w trzech czwartych wyparować i ta skórka.
 
-210
+220
 00:11:52,000 --> 00:11:53,920
 Skórka pokrojona w paseczki.
 
-211
+221
 00:11:54,520 --> 00:11:55,240
 Wiesz co, pomóż mi.
 
-212
+222
 00:11:55,640 --> 00:11:57,240
 Już idę, już idę, już idę.
 
-213
+223
 00:11:57,280 --> 00:11:58,720
 Przytrzymaj mi tą folię tutaj.
 
-214
+224
 00:11:58,800 --> 00:11:59,320
 Już idę.
 
-215
+225
 00:11:59,520 --> 00:12:01,760
 On się tutaj przygięła, a jak to już będzie, potem
 
-216
+226
 00:12:01,800 --> 00:12:02,520
 będzie paskudnie.
 
-217
+227
 00:12:03,000 --> 00:12:06,320
 Widzicie Państwo również w kuchni sprawdza się idealnie
 
-218
+228
 00:12:07,160 --> 00:12:09,760
 motto panowania cesarza Franciszka Józefa.
 
-219
+229
 00:12:09,880 --> 00:12:11,080
 Viribus unitis.
 
-220
+230
 00:12:11,440 --> 00:12:12,560
 Wspólnymi siłami.
 
-221
+231
 00:12:13,720 --> 00:12:15,160
 Pamiętaj żeby tym walić o blat.
 
-222
+232
 00:12:15,240 --> 00:12:17,840
 Nie wiem, to wiem, ale chodzi mi o to żeby...
 
-223
+233
 00:12:17,920 --> 00:12:20,800
 A to z kolei kobiet, to z kolei kobiet o oszczędności.
 
-224
+234
 00:12:20,840 --> 00:12:21,960
 Mniej folii tym lepiej.
 
-225
+235
 00:12:22,320 --> 00:12:24,200
 Ale jak miałam wyłożyć więcej tej folii?
 
-226
+236
 00:12:24,240 --> 00:12:24,760
 Dej spokój.
 
-227
+237
 00:12:24,840 --> 00:12:25,600
 No można było.
 
-228
+238
 00:12:26,200 --> 00:12:26,760
 Nie rób z cel.
 
-229
+239
 00:12:26,960 --> 00:12:28,120
 Dobra, Hans.
 
-230
+240
 00:12:29,040 --> 00:12:29,840
 Ja muszę kroić.
 
-231
+241
 00:12:33,160 --> 00:12:33,800
 Ok.
 
-232
+242
 00:12:41,000 --> 00:12:42,000
 Ale pachnie pięknie.
 
-233
+243
 00:12:43,240 --> 00:12:47,000
-Czerwone wino i pomarańczo, niemal jak sangria.
+Czerwone wino i pomarańcze, niemal jak sangria.
 
-234
+244
 00:12:47,960 --> 00:12:49,680
 Chyba na pewnych kręgach sangrium.
 
-235
+245
 00:12:54,400 --> 00:12:56,040
 No ok, finito.
 
-236
+246
 00:12:56,600 --> 00:12:57,040
 I co?
 
-237
+247
 00:12:57,440 --> 00:12:58,720
 Teraz zobaczcie Państwo.
 
-238
+248
 00:12:59,720 --> 00:13:02,360
 O zrobimy zamianę miejsc.
 
-239
+249
 00:13:03,480 --> 00:13:04,000
 Dobra.
 
-240
+250
 00:13:04,040 --> 00:13:04,720
 Daj słonkę.
 
-241
+251
 00:13:07,200 --> 00:13:07,920
 Czy to się nagrywa?
 
-242
+252
 00:13:10,440 --> 00:13:11,280
 Cały czas gramy.
 
-243
+253
 00:13:11,520 --> 00:13:12,200
 Mario.
 
-244
+254
 00:13:13,920 --> 00:13:14,600
 Jest dobrze?
 
-245
+255
 00:13:14,960 --> 00:13:15,880
 Proszę o pochwały.
 
-246
+256
 00:13:15,920 --> 00:13:17,320
 Jest przepięknie.
 
-247
+257
 00:13:17,520 --> 00:13:18,480
 Dawaj, dawaj, dawaj.
 
-248
+258
 00:13:19,760 --> 00:13:21,000
 I zobaczcie mamy.
 
-249
+259
 00:13:21,720 --> 00:13:26,920
 No to już można wsadzić do lodówki, gdyż nie jest gorące.
 
-250
+260
 00:13:27,880 --> 00:13:31,280
 A tu mamy identyko zrobione wczoraj.
 
-251
+261
 00:13:32,560 --> 00:13:38,360
 I teraz żeby to wyjąć, żeby to wyjąć, trzeba wsadzić to do
 
-252
+262
 00:13:38,400 --> 00:13:41,360
 wrzącej wody na chwilę albo do bardzo gorącej, żeby się
 
-253
+263
 00:13:41,400 --> 00:13:41,960
 odkleiło.
 
-254
+264
 00:13:42,240 --> 00:13:45,200
 Więc kotku zagotuj wodę z łaski swojej i mamy tutaj foremkę.
 
-255
+265
 00:13:45,720 --> 00:13:47,120
 Nalejemy dla chwilę.
 
-256
+266
 00:13:47,840 --> 00:13:50,960
 Ja kończę kumberlanda.
 
-257
+267
 00:13:51,000 --> 00:13:51,760
 Dobra, to się...
 
-258
+268
 00:13:51,800 --> 00:13:52,640
 Ja na sekundę idę.
 
-259
+269
 00:13:52,840 --> 00:13:54,680
 To się wygotowuje.
 
-260
+270
 00:13:54,840 --> 00:13:55,720
 Mamy miskę.
 
-261
+271
 00:13:56,480 --> 00:13:59,920
 Do tejże miski świeżo startych chrzan.
 
-262
+272
 00:14:04,440 --> 00:14:07,920
 To co bzyczy to woda, która się gotuje.
 
-263
+273
 00:14:10,320 --> 00:14:12,120
 I arcyważny składnik.
 
-264
+274
 00:14:12,560 --> 00:14:18,320
 Mianowicie galaretka porzeczkowa albo konfitura porzeczkowa.
 
-265
+275
 00:14:18,480 --> 00:14:23,080
 W oryginalnym przepisie jest to galaretka albo też konfitura
 
-266
+276
 00:14:23,400 --> 00:14:25,440
 z czerwonej porzeczki.
 
-267
+277
 00:14:25,760 --> 00:14:28,840
 Ale nie kupiłem takiej, bo jej po prostu nie było, więc robię
 
-268
+278
 00:14:28,880 --> 00:14:31,280
 to z konfitury z czarnych porzeczek.
 
-269
+279
 00:14:31,320 --> 00:14:35,240
 Jeśli chcecie być niezwykle ortodoksyjni, to możecie
 
-270
+280
 00:14:35,360 --> 00:14:38,320
 konfiturę, bo ona w przeciwieństwie do galaretki
 
-271
+281
 00:14:38,640 --> 00:14:41,280
 nie jest gładka, przetrzeć przez sito.
 
-272
+282
 00:14:41,640 --> 00:14:44,600
 Ale myślę, że jak będziemy mieli tutaj kawałki porzeczki to się
 
-273
+283
 00:14:44,640 --> 00:14:46,400
 nic nikomu nie stanie.
 
-274
+284
 00:14:46,560 --> 00:14:47,160
 Dobra.
 
-275
+285
 00:14:47,640 --> 00:14:54,800
 Teraz trochę soku z cytryny i sok z pomarańczy, która była
 
-276
+286
 00:14:54,800 --> 00:14:56,480
 częściowo pozbawiona z kurki.
 
-277
+287
 00:14:56,840 --> 00:14:58,480
 Sok z połowy cytryny wystarczy.
 
-278
+288
 00:15:04,720 --> 00:15:08,600
 Niemal cały płyn zniknął, ale aromat pomarańczy został.
 
-279
+289
 00:15:08,640 --> 00:15:09,960
 No i skórka zmiękła.
 
-280
+290
 00:15:10,360 --> 00:15:13,920
 To również o to chodzi, żeby ona nie sprawiała nam
 
-281
+291
 00:15:13,960 --> 00:15:16,400
 przykrości podczas konsumpcji.
 
-282
+292
 00:15:16,520 --> 00:15:17,080
 Dobra.
 
-283
+293
 00:15:18,200 --> 00:15:23,960
 No i wlewamy sok z pomarańczy bez flunkrów, bez fafoułów.
 
-284
+294
 00:15:25,160 --> 00:15:26,240
 Jeszcze jeden składnik.
 
-285
+295
 00:15:26,440 --> 00:15:29,360
 Nie jest on uwzględniony w każdym przepisie, ale moim
 
-286
+296
 00:15:29,400 --> 00:15:32,440
 zdaniem z tym składnikiem całość jest lepsza.
 
-287
+297
 00:15:32,520 --> 00:15:36,240
 Chodzi mianowicie o musztardę typu diżońskiego.
 
-288
+298
 00:15:36,320 --> 00:15:38,040
 Ostrą musztardę, niedużo.
 
-289
+299
 00:15:38,320 --> 00:15:39,680
 Niewięcej pół łyżeczki.
 
-290
+300
 00:15:41,920 --> 00:15:47,800
 I teraz sól do smaku i wszystko trzeba wymieszać,
 
-291
+301
 00:15:47,920 --> 00:15:49,360
 sprawdzić konsystencję.
 
-292
+302
 00:15:49,880 --> 00:15:53,440
 No bo być może, robiłem to na oko, jest tutaj za mało
 
-293
+303
 00:15:54,000 --> 00:15:59,880
-czarnej pożyczki, bo to musi utworzyć jednorodny sos.
+czarnej porzeczki, bo to musi utworzyć jednorodny sos.
 
-294
+304
 00:16:01,040 --> 00:16:01,600
 No jest.
 
-295
+305
 00:16:03,000 --> 00:16:03,600
 No jest.
 
-296
+306
 00:16:03,720 --> 00:16:05,840
 Niczego nie trzeba więcej dodawać.
 
-297
+307
 00:16:06,560 --> 00:16:07,360
 Sprawdzamy.
 
-298
+308
 00:16:07,920 --> 00:16:11,120
 Ostrożnie, bo chrzan jest świeżo mielony.
 
-299
+309
 00:16:11,160 --> 00:16:12,000
 Dobra biorę łyżeczkę.
 
-300
+310
 00:16:12,040 --> 00:16:13,320
 Jak tam sytuacja na froncie?
 
-301
+311
 00:16:13,520 --> 00:16:14,320
 Dobrze, cicho, cicho.
 
-302
+312
 00:16:14,400 --> 00:16:14,920
 Udało się.
 
-303
+313
 00:16:16,160 --> 00:16:17,920
 Wrzątek jest konieczny, żeby to zeszło.
 
-304
+314
 00:16:19,120 --> 00:16:21,400
 Ja bym teraz może w to popłukał od góry, co?
 
-305
+315
 00:16:21,600 --> 00:16:22,280
 Nie, już poszło.
 
-306
+316
 00:16:23,800 --> 00:16:26,000
 Po to jest to wyłożone folią, żeby nie przywarło.
 
-307
+317
 00:16:27,800 --> 00:16:28,360
 No i co?
 
-308
+318
 00:16:28,480 --> 00:16:29,160
 Ładne.
 
-309
+319
 00:16:29,680 --> 00:16:30,200
 Piękne.
 
-310
+320
 00:16:30,240 --> 00:16:31,440
 Kurczę, pewnie żałabne.
 
-311
+321
 00:16:33,880 --> 00:16:35,960
-Ja to może od razu na jakiś pół misek przełożyłabym.
+Ja to może od razu na jakiś półmisek przełożyłabym.
 
-312
+322
 00:16:36,000 --> 00:16:37,800
-No to przełóż na pół misek, bo ten mam za mały.
+No to przełóż na półmisek, bo ten mam za mały.
 
-313
+323
 00:16:37,840 --> 00:16:39,280
 To raczej jest miękny, czekaj, sprawdź.
 
-314
+324
 00:16:40,480 --> 00:16:41,520
 Czy nie trzeba więcej soli?
 
-315
+325
 00:16:45,960 --> 00:16:46,280
 Gid?
 
-316
+326
 00:16:46,680 --> 00:16:47,640
 Gid, nie, soli nie.
 
-317
+327
 00:16:48,000 --> 00:16:48,240
 Nie?
 
-318
+328
 00:16:48,280 --> 00:16:49,680
 Nie, nie, absolutnie nie.
 
-319
+329
 00:16:50,440 --> 00:16:51,440
 Ale ostre, takie dobre.
 
-320
+330
 00:16:51,760 --> 00:16:52,160
 Świeżo.
 
-321
+331
 00:16:53,440 --> 00:16:54,200
 To jest moja gałązka.
 
-322
+332
 00:16:54,320 --> 00:16:55,440
 Nie, no jaką gałązkę?
 
-323
+333
 00:16:55,480 --> 00:16:56,680
 To jest skórka, bo mam raczej żar.
 
-324
+334
 00:16:57,560 --> 00:16:58,600
 Udało jak gałązka.
 
-325
+335
 00:16:59,320 --> 00:17:02,880
 To jest drodzy Państwo staromodny, kapitalny sos,
 
-326
+336
 00:17:02,920 --> 00:17:06,600
 który nie wyjdzie wszakże z chrzanu ze słoika, bo on już
 
-327
+337
 00:17:06,640 --> 00:17:07,360
 jest doprawiany.
 
-328
+338
 00:17:07,400 --> 00:17:10,880
 Musimy mieć domowo starty chrzan.
 
-329
+339
 00:17:11,600 --> 00:17:14,720
 Jak już będziecie scierać chrzan, to zetrzyjcie go więcej,
 
-330
+340
 00:17:14,760 --> 00:17:18,040
 bo na bazie świeżo startego chrzanu, nie chrzanu ze
 
-331
+341
 00:17:18,080 --> 00:17:20,920
 słoika, można zrobić kilka kapitalnych sosów.
 
-332
+342
 00:17:21,120 --> 00:17:24,560
-Na przykład apfelkren, czyli twój ulubiony.
+Na przykład apfelkrem, czyli twój ulubiony.
 
-333
-00:17:24,880 --> 00:17:30,640
-Mianowicie świeżo starte chrzan, do tego świeżo starte
+343
+00:17:24,880 --> 00:17:31,217
+Mianowicie świeżo starte chrzan, do tego świeżo starte jabłko,
 
-334
-00:17:30,680 --> 00:17:32,480
-jabłko, sok z cytryny od razu.
+344
+00:17:31,242 --> 00:17:32,480
+sok z cytryny od razu.
 
-335
+345
 00:17:32,520 --> 00:17:34,480
 Jabłko wówczas nie zciemnieje.
 
-336
+346
 00:17:34,520 --> 00:17:38,800
 Trochę soli, trochę cukru pudru i bita śmietana.
 
-337
+347
 00:17:38,840 --> 00:17:43,160
-Słodka bita śmietana, apfelkren to się nazywa i jest kapitalne.
+Słodka bita śmietana, apfelkrem to się nazywa i jest kapitalne.
 
-338
-00:17:43,400 --> 00:17:44,520
+348
+00:17:43,388 --> 00:17:44,520
 Jest jeszcze chrzan.
 
-339
+349
 00:17:45,400 --> 00:17:45,800
-To szło?
+poszło?
 
-340
-00:17:45,840 --> 00:17:46,840
+350
+00:17:45,831 --> 00:17:46,831
 Nie, dobrze, dobrze, dobrze.
 
-341
+351
 00:17:46,880 --> 00:17:50,360
-Bo to jest z rodówki, więc stężało.
+Bo to jest z lodówki, więc stężało.
 
-342
+352
 00:17:50,760 --> 00:17:51,880
 Ale to się już nie rozpadnie.
 
-343
+353
 00:17:51,960 --> 00:17:52,320
 Nie, nie, nie.
 
-344
+354
 00:17:52,400 --> 00:17:53,600
 Zastygło i jest okej.
 
-345
+355
 00:17:55,880 --> 00:17:59,560
 Sprawę chrzanu jako jednego ze świątecznych symboli,
 
-346
+356
 00:17:59,600 --> 00:18:03,080
 jednego z symboli świątecznego stołu mamy załatwiono,
 
-347
+357
 00:18:03,400 --> 00:18:06,440
 sprzątamy i zajmiemy się drugim symbolem,
 
-348
+358
 00:18:06,720 --> 00:18:07,760
 mianowicie jajkami.
 
-349
+359
 00:18:08,560 --> 00:18:09,600
 A które jajka chcesz robić?
 
-350
+360
 00:18:11,160 --> 00:18:12,080
 Najpierw na twardo.
 
-351
+361
 00:18:15,000 --> 00:18:17,200
 Jajko drodzy państwo, symbol życia.
 
-352
+362
 00:18:17,320 --> 00:18:19,640
 Zawsze obecne na wielkanocnym stole.
 
-353
+363
 00:18:20,120 --> 00:18:25,800
 Na twardo, ale jajko na twardo bez niczego na wielkanocnym stole.
 
-354
+364
 00:18:25,840 --> 00:18:29,600
 Dobre jest tylko do podzielenia się kiedy jest święcone.
 
-355
+365
 00:18:29,640 --> 00:18:33,720
 Natomiast jedzenie jajek na twardo nieprzerobionych w ogóle
 
-356
+366
 00:18:34,280 --> 00:18:38,080
 to jest rzecz, którą zostawmy sobie na wycieczki, pikniki.
 
-357
+367
 00:18:38,120 --> 00:18:42,200
 W warunkach domowych również z jajek na twardo da się zrobić
 
-358
+368
 00:18:42,640 --> 00:18:46,440
-bardzo przyjemne potrafy i właśnie jedna z nich przed nami.
+bardzo przyjemne potrawy i właśnie jedna z nich przed nami.
 
-359
+369
 00:18:46,520 --> 00:18:52,600
 Zanim zaczniemy ją robić skupmy się na gotowaniu jajek na twardo.
 
-360
+370
 00:18:53,040 --> 00:18:56,080
 Co jest w jajkach na twardo beznadziejnego?
 
-361
+371
 00:18:56,120 --> 00:19:00,200
 Jakże często czarne obwódki wokół żółtka.
 
-362
-00:19:00,520 --> 00:19:05,400
-Świadczy to o przegotowaniu jaja, więc nie
+372
+00:19:00,520 --> 00:19:03,708
+Świadczy to o przegotowaniu jaja,
 
-363
-00:19:05,440 --> 00:19:06,560
-przegotowujmy jaj.
+373
+00:19:03,732 --> 00:19:06,560
+więc nie przegotowujmy jaj.
 
-364
-00:19:06,720 --> 00:19:12,040
-Wsadzam ich tutaj 10 do zimnej wody i będą się gotowały
+374
+00:19:06,720 --> 00:19:10,508
+Wsadzam ich tutaj 10 do zimnej wody
 
-365
-00:19:12,080 --> 00:19:13,520
-mniej więcej 5 minut.
+375
+00:19:10,532 --> 00:19:13,520
+i będą się gotowały mniej więcej 5 minut.
 
-366
-00:19:13,520 --> 00:19:17,440
-Potem całość odstawione dojdą i nie będą miały tej
+376
+00:19:13,520 --> 00:19:16,708
+Potem całość odstawione
+dojdą i nie będą miały
 
-367
-00:19:17,480 --> 00:19:22,480
-ochydnej obwódki, która jest równie brzydka jak czarna obwódka
+377
+00:19:16,732 --> 00:19:18,468
+tej ochydnej obwódki,
 
-368
+378
+00:19:18,492 --> 00:19:22,480
+która jest równie brzydka jak czarna obwódka
+
+379
 00:19:22,960 --> 00:19:25,400
 przy naszych paznokciach drodzy państwo.
 
-369
+380
 00:19:25,440 --> 00:19:29,080
 Dwa, cztery, sześć, siedem, więc jeszcze trzy.
 
-370
+381
 00:19:29,400 --> 00:19:30,080
 I teraz to.
 
-371
+382
 00:19:30,200 --> 00:19:30,700
 Dobra.
 
-372
+383
 00:19:31,280 --> 00:19:32,320
 To się gotuje.
 
-373
+384
 00:19:32,760 --> 00:19:34,560
 One będą finalnie zapiekane.
 
-374
+385
 00:19:34,600 --> 00:19:35,920
 Będą zapiekane w sosie.
 
-375
+386
 00:19:36,320 --> 00:19:38,920
-Ta potrawa nazywa się jajka po liońsku.
+Ta potrawa nazywa się jajka po lyońsku.
 
-376
+387
 00:19:39,360 --> 00:19:42,000
 Jest arcyprosta i bardzo dobra.
 
-377
+388
 00:19:42,240 --> 00:19:43,960
 Występująca w dwóch wersjach.
 
-378
+389
 00:19:44,000 --> 00:19:48,200
 Albo bechamel albo sos cebulowy na bazie wina.
 
-379
-00:19:48,560 --> 00:19:52,480
-Ja zrobię to bez bechamelu, dlatego że bechamel to dodatkowe
+390
+00:19:48,560 --> 00:19:51,468
+Ja zrobię to bez bechamelu,
+dlatego że bechamel
 
-380
-00:19:52,520 --> 00:19:54,320
-obciążenie kaloryczne.
+391
+00:19:51,492 --> 00:19:54,320
+to dodatkowe obciążenie kaloryczne.
 
-381
+392
 00:19:54,680 --> 00:19:57,320
 No bo mąka, mleko, bardzo dużo masła.
 
-382
+393
 00:19:57,360 --> 00:19:58,760
 Tutaj też jest trochę masła.
 
-383
+394
 00:19:59,000 --> 00:20:01,080
 Też są kalorie, ale w końcu to Wielkanoc.
 
-384
-00:20:01,360 --> 00:20:06,800
-Zatem masło się tutaj rozpuszcza, dodaje nieco oliwy po to by
+395
+00:20:01,360 --> 00:20:04,628
+Zatem masło się tutaj rozpuszcza,
 
-385
-00:20:06,840 --> 00:20:10,640
-zwiększyć możliwości tłuszczu, by to nie zaczęło dymić tak
+396
+00:20:04,652 --> 00:20:08,708
+dodaje nieco oliwy po to by zwiększyć możliwości tłuszczu,
 
-386
-00:20:10,680 --> 00:20:11,180
-szybko.
+397
+00:20:08,732 --> 00:20:11,180
+by to nie zaczęło dymić tak szybko.
 
-387
+398
 00:20:11,420 --> 00:20:12,140
 I cebula.
 
-388
+399
 00:20:12,220 --> 00:20:15,020
 Cebula jest tutaj arcyważna.
 
-389
+400
 00:20:15,420 --> 00:20:20,180
 Cebula pokrojona zawsze tak, czyli w tak zwane półplastereki.
 
-390
-00:20:21,380 --> 00:20:25,020
-Jak się rozgrzeje będę ją wrzucał i na niewielkim
+401
+00:20:21,380 --> 00:20:23,668
+Jak się rozgrzeje będę ją wrzucał
 
-391
-00:20:25,060 --> 00:20:26,500
-ogniu dusił.
+402
+00:20:23,692 --> 00:20:26,500
+i na niewielkim ogniu dusił.
 
-392
+403
 00:20:26,740 --> 00:20:28,060
 Nie smażył.
 
-393
+404
 00:20:29,100 --> 00:20:32,940
 To są mniej więcej trzy dość spore cebule, więc tego tłuszczu
 
-394
+405
 00:20:33,420 --> 00:20:35,540
 też musi być całkiem sporo.
 
-395
+406
 00:20:35,580 --> 00:20:38,620
 I teraz chodzi o to, by to nie było arcy rozgrzane.
 
-396
+407
 00:20:39,100 --> 00:20:41,220
 Ona nie może się przypalić od razu.
 
-397
+408
 00:20:41,260 --> 00:20:43,460
 Ona nie może złapać koloru nagle.
 
-398
+409
 00:20:43,740 --> 00:20:46,620
 Ona musi stopniowo tego koloru nabierać.
 
-399
+410
 00:20:46,860 --> 00:20:49,580
 Trzeba ją tak dusić jak do zupy cebulowej.
 
-400
+411
 00:20:49,620 --> 00:20:52,260
 Zresztą ten przepis jest również francuski.
 
-401
+412
 00:20:52,300 --> 00:20:53,500
 Technika taka sama.
 
-402
+413
 00:20:53,900 --> 00:20:58,140
 Niewielki ogień, mieszamy co jakiś czas i czekamy aż ona
 
-403
+414
 00:20:58,340 --> 00:21:00,940
 zwiotczeje, aż ściemnieje.
 
-404
+415
 00:21:03,300 --> 00:21:06,580
 W międzyczasie wyłączyłem gaz pod garnkiem z jajkami.
 
-405
+416
 00:21:06,620 --> 00:21:07,660
 Kochanie pomożesz mi?
 
-406
+417
 00:21:09,620 --> 00:21:13,300
 Teraz trzeba je przestudzić, obrać i pokroić w plasterki.
 
-407
-00:21:14,020 --> 00:21:17,980
+418
+00:21:14,186 --> 00:21:18,256
 A tutaj cebula wygląda tak jak wyglądać powinna.
 
-408
-00:21:18,020 --> 00:21:18,940
+419
+00:21:18,281 --> 00:21:19,201
 Nabiera koloru.
 
-409
+420
 00:21:19,300 --> 00:21:23,860
 Zobaczcie całkowicie zwiotczała, ale nie jest zrumieniona.
 
-410
+421
 00:21:24,300 --> 00:21:26,020
 Więc teraz trzeba ją przyprawić.
 
-411
-00:21:26,740 --> 00:21:28,220
+422
+00:21:26,970 --> 00:21:28,450
 Gałka muszkatołowa.
 
-412
-00:21:28,980 --> 00:21:30,820
+423
+00:21:29,233 --> 00:21:31,073
 Pieprz oraz sól.
 
-413
-00:21:31,140 --> 00:21:36,100
-Przepis na jajka po liońsku to jeden z ulubionych
+424
+00:21:31,108 --> 00:21:34,828
+Przepis na jajka po lyońsku
 
-414
-00:21:36,100 --> 00:21:38,380
-przepisów Paula Bocchisa.
+425
+00:21:34,852 --> 00:21:38,743
+to jeden z ulubionych przepisów Paula Bocusa.
 
-415
-00:21:39,220 --> 00:21:43,660
+426
+00:21:39,220 --> 00:21:43,960
 Ojca nowoczesnej francuskiej restauracyjnej kuchni.
 
-416
-00:21:44,100 --> 00:21:48,900
-Paul Bocchis jako ambasador francuskiego jedzenia
+427
+00:21:44,100 --> 00:21:49,205
+Paul Bocuse jako ambasador francuskiego jedzenia
 
-417
-00:21:48,940 --> 00:21:52,660
-bardzo często jeździł po świecie i nie było go w jego
+428
+00:21:49,230 --> 00:21:51,388
+bardzo często jeździł po świecie
 
-418
-00:21:53,300 --> 00:21:56,020
-restauracji w Leonie i na pytania dziennikarzy
+429
+00:21:51,412 --> 00:21:56,223
+i nie było go w jego restauracji w
+Lyonie i na pytania dziennikarzy
 
-419
-00:21:56,660 --> 00:22:01,860
-Panie Bocchisa, a ktoż to gotuje kiedy pan z Leonu wyjeżdża?
+430
+00:21:56,295 --> 00:22:02,056
+"Panie Bocusa, a ktoż to gotuje kiedy pan z Lyonu wyjeżdża?
 
-420
-00:22:02,420 --> 00:22:04,220
-Któż to gotuje w pańskiej restauracji?
+431
+00:22:02,420 --> 00:22:04,348
+Któż to gotuje w pańskiej restauracji?"
 
-421
-00:22:04,220 --> 00:22:08,900
-W poracji odpowiadał ci sami, którzy gotują kiedy jestem.
+432
+00:22:04,373 --> 00:22:08,900
+odpowiadał "ci sami, którzy gotują kiedy jestem."
 
-422
-00:22:09,500 --> 00:22:12,700
-Jak już się osiągnie pewien poziom to nie trzeba różnych
+433
+00:22:09,500 --> 00:22:11,634
+Jak już się osiągnie pewien poziom
 
-423
-00:22:12,740 --> 00:22:14,780
-rzeczy robić samemu.
+434
+00:22:11,658 --> 00:22:14,780
+to nie trzeba różnych rzeczy robić samemu.
 
-424
+435
 00:22:15,140 --> 00:22:18,260
 My jesteśmy na poziomie początkowym jeśli chodzi o
 
-425
+436
 00:22:18,300 --> 00:22:21,380
-YouTube, a więc wszystko robimy własnoręcznie.
+YouTube'a, a więc wszystko robimy własnoręcznie.
 
-426
+437
 00:22:22,540 --> 00:22:24,020
 Mieszamy i co teraz?
 
-427
+438
 00:22:24,140 --> 00:22:25,780
 Teraz mianowicie mąka.
 
-428
+439
 00:22:27,020 --> 00:22:32,580
 I z tą mąką powinna się tutaj sytuacja zrobić ciemniejsza.
 
-429
+440
 00:22:33,060 --> 00:22:36,380
 To znaczy to wszystko musi nabrać rumianych barw.
 
-430
+441
 00:22:36,660 --> 00:22:38,860
 Tej mąki mniej więcej łyżeczka.
 
-431
+442
 00:22:39,220 --> 00:22:40,020
 Niewięcej.
 
-432
+443
 00:22:43,260 --> 00:22:44,260
 Teraz białe wino.
 
-433
-00:22:44,940 --> 00:22:49,620
-To akurat mam zawsze pod ręką Greener Weltliner z Dolnej
+444
+00:22:44,940 --> 00:22:48,748
+To akurat mam zawsze
+pod ręką Grüner Veltliner
 
-434
-00:22:49,660 --> 00:22:52,380
-Austrii w litrowych buteleczkach.
+445
+00:22:48,772 --> 00:22:52,380
+z Dolnej Austrii w litrowych buteleczkach.
 
-435
+446
 00:22:52,420 --> 00:22:54,340
 Najwierniejszy przyjaciel człowieka.
 
-436
+447
 00:22:54,660 --> 00:22:55,780
 Zdejmujemy to z ognu.
 
-437
+448
 00:22:57,300 --> 00:22:59,060
 Wlewamy wino stopniowo.
 
-438
+449
 00:22:59,100 --> 00:22:59,700
 Mieszamy.
 
-439
+450
 00:22:59,740 --> 00:23:01,300
 Pamiętajcie, że tu jest mąka.
 
-440
+451
 00:23:01,780 --> 00:23:05,700
 Czyli robi się coś w rodzaju zasmażanego sosu.
 
-441
+452
 00:23:05,740 --> 00:23:09,900
 Chodzi o to by w tym rozpuścić mąkę, by nie było grudek.
 
-442
+453
 00:23:10,500 --> 00:23:13,180
 I teraz z powrotem postawimy to na ogniu.
 
-443
+454
 00:23:13,220 --> 00:23:16,660
 To wszystko co do dna patelni przywarło teraz od
 
-444
+455
 00:23:16,700 --> 00:23:18,340
 tej patelni się uwolni.
 
-445
+456
 00:23:19,100 --> 00:23:20,700
 Wina może być nawet za dużo.
 
-446
+457
 00:23:21,100 --> 00:23:23,220
 Najwyżej się je dłużej odparuje.
 
-447
+458
 00:23:23,620 --> 00:23:30,740
 I teraz to ostatecznie kończymy na tym etapie gotowania.
 
-448
+459
 00:23:30,820 --> 00:23:31,540
 A jak jaja?
 
-449
+460
 00:23:31,780 --> 00:23:32,780
 Ugotowane w porządku?
 
-450
+461
 00:23:32,820 --> 00:23:33,340
 Jeszcze nie wiem.
 
-451
+462
 00:23:33,380 --> 00:23:34,300
 Nie ten ale...
 
-452
+463
 00:23:34,460 --> 00:23:34,980
 Pokażmy.
 
-453
+464
 00:23:35,820 --> 00:23:38,380
 Przerwijmy tę bolesną niepewność.
 
-454
+465
 00:23:38,500 --> 00:23:39,380
 Biorę jajko.
 
-455
+466
 00:23:41,180 --> 00:23:42,740
 Pamiętaj, że jajkami zajmowałeś się ty.
 
-456
+467
 00:23:43,140 --> 00:23:46,100
 No wiem, więc jak będzie źle to będzie na mnie tylko.
 
-457
+468
 00:23:50,940 --> 00:23:53,460
 I nie ma tej ochydy tutaj wokół.
 
-458
+469
 00:23:53,540 --> 00:23:55,260
 Po co to robić skoro to brzegnie?
 
-459
+470
 00:23:55,300 --> 00:23:56,580
 Z tymi plaznopciami to przesadziłeś trochę.
 
-460
+471
 00:23:56,740 --> 00:23:59,900
 No nie, ale to widać czasami na zbliżeniach.
 
-461
+472
 00:24:00,660 --> 00:24:02,540
 Zgęstniało, nie ma grudek.
 
-462
+473
 00:24:02,820 --> 00:24:03,540
 Zobacz jakie ładne.
 
-463
+474
 00:24:04,220 --> 00:24:04,740
 Ładne.
 
-464
+475
 00:24:05,340 --> 00:24:10,420
 Teraz kroimy jajka w plasterki i układamy je w naczyniu do
 
-465
+476
 00:24:10,460 --> 00:24:15,020
-zapiekania, które wcześniej trzeba wysmarować lekkomasłem.
+zapiekania, które wcześniej trzeba wysmarować lekko masłem.
 
-466
+477
 00:24:15,060 --> 00:24:16,660
-Błagam Cię, zgasi pod sosem.
+Błagam Cię, zgas pod sosem.
 
-467
+478
 00:24:16,700 --> 00:24:17,380
 On już jest ok.
 
-468
+479
 00:24:19,580 --> 00:24:21,340
 Masło, plasterki.
 
-469
+480
 00:24:23,940 --> 00:24:25,700
 Jaja tak jak tak rozpocząłeś?
 
-470
+481
 00:24:25,740 --> 00:24:26,860
 Nie no normalne plasterki.
 
-471
+482
 00:24:26,900 --> 00:24:27,660
 Ja źle rozpocząłem.
 
-472
+483
 00:24:28,620 --> 00:24:31,980
 A jak już macie dłonie w maśle to możecie sobie obejrzeć
 
-473
+484
 00:24:32,500 --> 00:24:33,780
 ostatnie tango w Paryżu.
 
-474
+485
 00:24:34,580 --> 00:24:35,340
 Bardzo na temat.
 
-475
+486
 00:24:39,140 --> 00:24:39,860
 Pojechałeś.
 
-476
+487
 00:24:42,420 --> 00:24:43,380
 Dobra, tu jest finito.
 
-477
+488
 00:24:43,500 --> 00:24:44,380
 Ale pięknie.
 
-478
+489
 00:24:44,500 --> 00:24:44,900
 Co teraz?
 
-479
+490
 00:24:44,980 --> 00:24:49,580
 Teraz trzeba to obłożyć sosem, następnie posypać cienką
 
-480
+491
 00:24:49,620 --> 00:24:54,500
 warstwą bułki tartej i posypać startym żółtym serem.
 
-481
+492
 00:24:54,980 --> 00:24:55,820
 Jaki to ser?
 
-482
+493
 00:24:56,620 --> 00:24:57,980
 Nie możecie na to nie wpaść.
 
-483
+494
 00:24:58,020 --> 00:25:01,940
 Dziury pokazują dobitnie, że jest to Emmentaler.
 
-484
+495
 00:25:01,980 --> 00:25:04,180
 Może być Gruyere, może być Comté.
 
-485
+496
 00:25:04,420 --> 00:25:06,940
 Jakiś charakterny żółty ser.
 
-486
+497
 00:25:07,460 --> 00:25:08,220
 Sos gęsty.
 
-487
+498
 00:25:08,260 --> 00:25:09,740
 Dobra, tym nie będę obkładał.
 
-488
+499
 00:25:09,780 --> 00:25:12,220
 Będę obkładał czymś lepszym.
 
-489
+500
 00:25:12,260 --> 00:25:13,140
 Mianowicie tym.
 
-490
-00:25:13,500 --> 00:25:18,940
-I po zrobieniu tego wszystkiego naczynie wędruje do pieca na
-
-491
-00:25:18,980 --> 00:25:20,260
-mniej więcej pół godziny.
-
-492
-00:25:25,820 --> 00:25:27,620
-Zapiekanka jeszcze skwierczy.
-
-493
-00:25:27,660 --> 00:25:29,060
-Przed chwilą wyjęta z pieca.
-
-494
-00:25:29,260 --> 00:25:30,780
-Zatem jajka na twardo.
-
-495
-00:25:30,980 --> 00:25:31,980
-Tutaj pasztet.
-
-496
-00:25:32,180 --> 00:25:34,980
-Tutaj sos Camberlain, czyli chrzan.
-
-497
-00:25:35,140 --> 00:25:38,500
-Więc mamy kilka symboli Wielkiej Nocy.
-
-498
-00:25:38,660 --> 00:25:39,660
-Ale to nie wszystko.
-
-499
-00:25:39,780 --> 00:25:41,500
-Agnieszka się w tej chwili krząta.
-
-500
-00:25:41,660 --> 00:25:43,860
-Przygotowujemy się do jutrzejszego gotowania.
-
 501
-00:25:44,020 --> 00:25:45,700
-Zatem oglądajcie nas jutro.
+00:25:13,492 --> 00:25:18,580
+I po zrobieniu tego wszystkiego naczynie
+wędruje do pieca
 
 502
-00:25:45,780 --> 00:25:47,860
-Oglądajcie, subskrybujcie.
+00:25:18,612 --> 00:25:20,260
+na mniej więcej pół godziny.
 
 503
-00:25:48,020 --> 00:25:51,340
-Będzie więcej przepisów wielkanocnych, a potem różne
+00:25:29,667 --> 00:25:31,467
+Zapiekanka jeszcze skwierczy.
 
 504
-00:25:51,420 --> 00:25:51,940
-inne.
+00:25:31,492 --> 00:25:32,892
+Przed chwilą wyjęta z pieca.
 
 505
-00:25:51,940 --> 00:25:52,500
+00:25:33,053 --> 00:25:34,573
+Zatem jajka na twardo.
+
+506
+00:25:34,734 --> 00:25:35,734
+Tutaj pasztet.
+
+507
+00:25:35,941 --> 00:25:38,741
+Tutaj sos Camberlain, czyli chrzan.
+
+508
+00:25:38,846 --> 00:25:42,206
+Więc mamy kilka symboli Wielkiej Nocy.
+
+509
+00:25:42,437 --> 00:25:43,437
+Ale to nie wszystko.
+
+510
+00:25:43,573 --> 00:25:45,293
+Agnieszka się w tej chwili krząta.
+
+511
+00:25:45,588 --> 00:25:47,788
+Przygotowujemy się do jutrzejszego gotowania.
+
+512
+00:25:47,860 --> 00:25:49,540
+Zatem oglądajcie nas jutro.
+
+513
+00:25:49,565 --> 00:25:51,645
+Oglądajcie, subskrybujcie.
+
+514
+00:25:51,868 --> 00:25:55,733
+Będzie więcej przepisów
+wielkanocnych, a potem różne inne.
+
+515
+00:25:55,971 --> 00:25:56,531
 Cio cio na razie.
 
