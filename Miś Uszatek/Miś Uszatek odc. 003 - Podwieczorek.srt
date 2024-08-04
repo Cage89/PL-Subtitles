@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:03,993 --> 00:00:12,000
 Na dobranoc, dobry wieczór. Miś pluszowy śpiewa wam.
 
@@ -76,7 +76,7 @@ Bo ja jestem kruczek.
 
 20
 00:01:59,904 --> 00:02:03,404
-Ja, ja jestem taki plusiowy.
+Ja, ja jestem taki pluszowy.
 
 21
 00:02:04,904 --> 00:02:06,404
@@ -99,11 +99,11 @@ Różnie się nazywają.
 Szaraczek, skikajek, kicuś, bojek.
 
 26
-00:02:15,404 --> 00:02:16,904
+00:02:15,404 --> 00:02:17,128
 A ja nazywam się po prostu Zajączek.
 
 27
-00:02:16,904 --> 00:02:18,404
+00:02:17,153 --> 00:02:18,653
 Śmieszne, co?
 
 28

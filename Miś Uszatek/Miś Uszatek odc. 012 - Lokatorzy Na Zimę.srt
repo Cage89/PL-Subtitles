@@ -45,15 +45,15 @@ Cześć, zajączku. Widzę, że idziesz zbierać grzyby.
 
 12
 00:01:04,362 --> 00:01:08,762
-"Nie zgadłeś," uśmiechnął się zajączek. "Idę zbierać kasztany."
+Nie zgadłeś - uśmiechnął się zajączek. Idę zbierać kasztany.
 
 13
 00:01:08,762 --> 00:01:14,962
-"Kasztany? Jasne, z kasztanów i żołędzi można zrobić śliczne jesienne zabawki."
+"Kasztany? Jasne, z kasztanów i żołędzi można zrobić śliczne jesienne zabawki.
 
 14
 00:01:14,962 --> 00:01:16,962
-"Jeśli tak, to idę z tobą."
+Jeśli tak, to idę z tobą.-
 
 15
 00:02:15,193 --> 00:02:19,894
@@ -103,74 +103,74 @@ piechotą, na pewno zrobiłaby się już wiosna.
 
 26
 00:03:29,011 --> 00:03:33,195
-"A ty, zajączku", dowedywał się Szpak, "biegasz przecież jak wiatr."
+A ty, zajączku - dowedywał się Szpak, biegasz przecież jak wiatr.
 
 27
 00:03:33,438 --> 00:03:40,097
-"Pewnie, że biegam jak wiatr", pochwalił się Zajączek, "ale my z misiem mamy
-ciepłe futerka i bardzo lubimy śnieg i mróz."
+Pewnie, że biegam jak wiatr - pochwalił się Zajączek - ale my z misiem mamy
+ciepłe futerka i bardzo lubimy śnieg i mróz.
 
 28
 00:03:40,424 --> 00:03:49,585
-"No tak", zafrasował się Szpak, "a ja mam zmartwienie. Jeszcze dziś odlatuję do
-ciepłych krajów, a nie mam komu zostawić swojego domku."
+No tak, zafrasował się Szpak, a ja mam zmartwienie. Jeszcze dziś odlatuję do
+ciepłych krajów, a nie mam komu zostawić swojego domku.
 
 29
 00:03:49,610 --> 00:03:54,915
-"Poszukamy", obiecał Zajączek, "może znajdzie się jakiś przyzwoity lokator."
+Poszukamy - obiecał Zajączek, może znajdzie się jakiś przyzwoity lokator.
 
 30
 00:04:10,134 --> 00:04:13,980
-"A może ty, myszko, zamieszkałabyś w domku szpaka?"
+A może ty, myszko, zamieszkałabyś w domku szpaka?
 
 31
 00:04:14,334 --> 00:04:17,014
-"Och nie, dziękuję, to przecież pierwsze piętro,
+Och nie, dziękuję, to przecież pierwsze piętro,
 
 32
 00:04:17,014 --> 00:04:19,774
-a ja mogę mieszkać tylko na parterze albo w piwnicy."
+a ja mogę mieszkać tylko na parterze albo w piwnicy.
 
 33
 00:04:22,773 --> 00:04:27,810
-"Sroczko, Szpak wyjeżdża za granicę i może Ci odstąpić na zimę swój domek."
+Sroczko, Szpak wyjeżdża za granicę i może Ci odstąpić na zimę swój domek.
 
 34
 00:04:27,810 --> 00:04:34,310
-"Piii, też coś. Domek Szpaka? To nie dla mnie, trajkotała Sroczka. Jestem za
-duża, piii."
+Piii, też coś. Domek Szpaka? To nie dla mnie, trajkotała Sroczka. Jestem za
+duża, piii.
 
 35
 00:04:34,310 --> 00:04:36,931
-"Chyba, że zrobicie kapitalny remont, piii."
+Chyba, że zrobicie kapitalny remont, piii.
 
 36
 00:05:15,354 --> 00:05:19,554
-"Hej, wróble, kiedy odlatujecie do ciepłych krajów?"
+Hej, wróble, kiedy odlatujecie do ciepłych krajów?
 
 37
 00:05:19,554 --> 00:05:23,954
-"Może w przyszłym roku, w tym jakoś się nam nie składa."
+Może w przyszłym roku, w tym jakoś się nam nie składa.
 
 38
 00:05:23,954 --> 00:05:25,954
-"Wspaniale!"
+Wspaniale!
 
 39
 00:05:26,760 --> 00:05:29,954
-"Nie widzę w tym nic wspaniałego", powiedział smutno tata wróbel.
+Nie widzę w tym nic wspaniałego - powiedział smutno tata wróbel
 
 40
 00:05:29,954 --> 00:05:33,954
-"Wspaniale, bo mamy dla was luksusowy domek na zimę."
+Wspaniale, bo mamy dla was luksusowy domek na zimę.
 
 41
 00:05:33,954 --> 00:05:38,954
-"Nie róbcie sobie żartów ze zmokniętych, wróbli", powiedziała mama wróbel.
+Nie róbcie sobie żartów ze zmokniętych wróbli - powiedziała mama wróbel.
 
 42
 00:05:38,954 --> 00:05:40,954
-"To wcale nie są żarty.
+To wcale nie są żarty.
 
 43
 00:05:40,954 --> 00:05:43,454
@@ -178,11 +178,11 @@ Szpak odlatuje na zimę do ciepłych krajów
 
 44
 00:05:43,454 --> 00:05:46,454
-i jego domek będzie na zimę pusty."
+i jego domek będzie na zimę pusty.
 
 45
 00:05:46,454 --> 00:05:50,454
-"Hurra!" zawołały chórem zmoknięte wróble.
+Hurra! - zawołały chórem zmoknięte wróble.
 
 46
 00:06:05,931 --> 00:06:08,491
@@ -225,27 +225,34 @@ Dziękuję ci, uszatku.
 Cieszę się, że ktoś się zaopiekuje moim domkiem przez zimę.
 
 56
-00:06:49,626 --> 00:07:00,175
-Zrobiło się straszne zamieszanie, jedni lecą do ciepłych krajów, inni znowu
-robią zapasy na zimę.
+00:06:52,732 --> 00:06:55,100
+Zrobiło się straszne zamieszanie,
 
 57
+00:06:55,132 --> 00:06:57,316
+jedni lecą do ciepłych krajów,
+
+58
+00:06:57,340 --> 00:07:00,175
+inni znowu robią zapasy na zimę.
+
+59
 00:07:00,362 --> 00:07:04,626
 Jesienią każdy ma do załatwienia masę własnych spraw.
 
-58
+60
 00:07:05,375 --> 00:07:08,626
 Ale nie zaszkodzi pamiętać o zmokniętych wróblach.
 
-59
+61
 00:07:08,957 --> 00:07:10,626
 Dobranoc.
 
-60
+62
 00:07:18,266 --> 00:07:26,181
 Pora na dobranoc, bo już księżyc świeci.
 
-61
+63
 00:07:26,266 --> 00:07:34,635
 Dzieci lubią misie, misie lubią dzieci.
 

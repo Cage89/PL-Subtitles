@@ -53,7 +53,7 @@ Mógłbyś patrzeć trochę pod nogi, kolego?
 
 14
 00:01:49,666 --> 00:01:52,166
-Powiedział jesz, głosem ostrym jak szpilka.
+Powiedział jeż, głosem ostrym jak szpilka.
 
 15
 00:01:54,785 --> 00:01:56,785
@@ -129,7 +129,7 @@ Och, och, purhawka!
 
 33
 00:02:48,482 --> 00:02:49,476
-Psik!
+A psik!
 
 34
 00:02:50,723 --> 00:02:52,723
@@ -149,11 +149,11 @@ a bardzo się spieszę.
 
 38
 00:03:04,209 --> 00:03:05,732
-Psik!
+A psik!
 
 39
 00:03:06,042 --> 00:03:07,568
-Psik!
+A psik!
 
 40
 00:03:18,722 --> 00:03:22,324
@@ -224,91 +224,95 @@ Jeśli pozwolisz, odprowadzę Ci kawałek.
 Jak to dokąd? Do domu.
 
 57
-00:05:37,343 --> 00:05:41,994
-Przecież masz swój domek ze sobą, ale to jest letni domek.
+00:05:37,343 --> 00:05:39,708
+Przecież masz swój domek ze sobą.
 
 58
+00:05:39,732 --> 00:05:41,994
+Ale to jest letni domek.
+
+59
 00:05:41,994 --> 00:05:45,994
 Zbliża się zima i do widzenia.
 
-59
+60
 00:05:47,822 --> 00:05:52,216
 No właśnie, ja muszę przyspieszyć kroku. Zima nie będzie czekać.
 
-60
+61
 00:05:52,216 --> 00:05:58,216
 Ależ świerszczyku, nie musisz się nigdzie spieszyć. Zamieszkaj u mnie, to
 całkiem niedaleko.
 
-61
+62
 00:06:06,216 --> 00:06:11,216
 Zgoda. Będę ci za to grywał, co tylko zechcesz.
 
-62
+63
 00:06:18,595 --> 00:06:22,600
 Tylko gdzie ja cię umieszczę?
 
-63
+64
 00:06:23,600 --> 00:06:25,600
 Może w zegarze?
 
-64
+65
 00:06:25,600 --> 00:06:28,600
 Kukulko, czy jest tam jeszcze trochę miejsca?
 
-65
+66
 00:06:31,281 --> 00:06:34,194
 Eee, nigdy się z nią nie można dogadać.
 
-66
+67
 00:06:34,394 --> 00:06:37,194
 Co byś nie powiedział, ona swoje.
 
-67
+68
 00:06:37,394 --> 00:06:41,194
 Wiesz co, uszatku, boję się, że w tym zegarze
 
-68
+69
 00:06:41,219 --> 00:06:44,194
 sam zacznę po pewnym czasie kukać albo cykać.
 
-69
+70
 00:06:47,616 --> 00:06:50,616
 Najlepiej będzie mi za piecem. Ciepło, spokojnie.
 
-70
+71
 00:06:51,616 --> 00:06:54,616
 Nie powiem. Zima też ma swoje uroki.
 
-71
+72
 00:06:54,616 --> 00:06:59,151
 Ale tak już jest, że zimą tęskni się do lata,
 
-72
+73
 00:06:59,176 --> 00:07:02,616
 a latem, liżąc lody, marzy się o sankach.
 
-73
+74
 00:07:02,616 --> 00:07:06,080
 Dlatego dobrze jest mieć świerszcza za piecem.
 
-74
+75
 00:07:06,105 --> 00:07:10,046
 Za oknem deszcz, zawierucha, a ty zamykasz oczy
 
-75
+76
 00:07:10,071 --> 00:07:12,616
 i masz lato na zawołanie.
 
-76
+77
 00:07:12,977 --> 00:07:14,616
 Dobranoc.
 
-77
+78
 00:07:22,669 --> 00:07:30,238
 Pora na dobranoc, bo już księżyc świeci.
 
-78
+79
 00:07:30,263 --> 00:07:37,818
 Dzieci lubią misie, misie lubią dzieci.
 

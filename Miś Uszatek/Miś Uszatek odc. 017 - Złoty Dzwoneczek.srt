@@ -109,7 +109,7 @@ Jaki chleb? To wcale do chleba niepodobna.
 
 28
 00:02:45,772 --> 00:02:49,490
-"Na razie niepodobne" - powiedział
+Na razie niepodobne - powiedział
 tajemniczo osiołek.
 
 29
@@ -118,20 +118,20 @@ Spójrz, jaka piękna łąka!
 
 30
 00:03:01,047 --> 00:03:06,490
-"Dziękujemy, wysiadamy" - wykrzyknął nagle zajączek i już był na drodze.
+Dziękujemy, wysiadamy - wykrzyknął nagle zajączek i już był na drodze.
 
 31
 00:03:08,034 --> 00:03:11,228
-"Nie marudź uszatku, popatrz jak zielono,
+Nie marudź uszatku, popatrz jak zielono,
 
 32
 00:03:11,252 --> 00:03:16,440
-trawa w sam raz do wiosennych wyścigów"
+trawa w sam raz do wiosennych wyścigów
 - gorączkował się zajączek.
 
 33
 00:03:16,888 --> 00:03:21,358
-"Poczekajcie, no nie tak szybko, muszę przecież zejść"
+Poczekajcie, no nie tak szybko, muszę przecież zejść
 
 34
 00:03:25,392 --> 00:03:29,114
@@ -215,19 +215,19 @@ Ratunku!
 
 54
 00:04:39,336 --> 00:04:42,034
-"Pali się czy co?"
+Pali się czy co?
 
 55
 00:04:42,128 --> 00:04:43,336
-"Nic nie widać."
+Nic nie widać.
 
 56
 00:04:44,173 --> 00:04:46,336
-"Nic nie widać."
+Nic nie widać.
 
 57
 00:04:46,336 --> 00:04:48,336
-"Nie pali się, tylko dzwoni.
+Nie pali się, tylko dzwoni.
 
 58
 00:04:48,336 --> 00:04:50,682
@@ -235,11 +235,11 @@ Zaglądałem pod drzewko, zaglądałem pod krzaczek,
 
 59
 00:04:50,707 --> 00:04:52,336
-a to dzwoni pod chmurką."
+a to dzwoni pod chmurką.
 
 60
 00:04:53,336 --> 00:04:54,821
-"Co dzwoni?"
+Co dzwoni?
 
 61
 00:04:54,846 --> 00:04:56,336
@@ -247,101 +247,101 @@ Zainteresował się kruczek.
 
 62
 00:04:56,336 --> 00:04:59,336
-"Dzwoni, leci, zaraz spadnie i się rozbije.
+Dzwoni, leci, zaraz spadnie i się rozbije.
 
 63
 00:04:59,336 --> 00:05:02,336
-"Co leci, co się rozbije?"
+Co leci, co się rozbije?
 zapytał zdziwiony zajączek.
 
 64
 00:05:02,336 --> 00:05:04,042
-"Złoty dzwoneczek!
+Złoty dzwoneczek!
 
 65
 00:05:04,067 --> 00:05:06,835
-Na pewno spadł już. Chodźcie!"
+Na pewno spadł już. Chodźcie!
 
 66
 00:05:08,974 --> 00:05:10,974
-"Gdzie jest dzwoneczek?"
+Gdzie jest dzwoneczek?
 
 67
 00:05:11,254 --> 00:05:14,254
-"Nie ma żadnego dzwoneczka, jestem tylko ja",
+Nie ma żadnego dzwoneczka, jestem tylko ja
 
 68
 00:05:14,608 --> 00:05:16,608
-powiedział skromnie Skowronek.
+- powiedział skromnie Skowronek.
 
 69
 00:05:16,608 --> 00:05:19,136
-"Był dzwoneczek, sam słyszałem.
+Był dzwoneczek, sam słyszałem.
 
 70
 00:05:19,161 --> 00:05:21,430
-Dzwonił tam, w górze."
+Dzwonił tam, w górze.
 
 71
 00:05:21,722 --> 00:05:25,007
-"W górze to byłem ja", upierał się Skowronek.
+W górze to byłem ja - upierał się Skowronek.
 
 72
 00:05:25,032 --> 00:05:28,032
-"I nie dzwoniłem, tylko śpiewałem sobie."
+I nie dzwoniłem, tylko śpiewałem sobie.
 
 73
 00:05:28,441 --> 00:05:30,890
-"Słyszałem dzwoneczek i już.
+Słyszałem dzwoneczek i już.
 
 74
 00:05:30,915 --> 00:05:34,767
-A ty jesteś podobny do wróbla, a nie do złotego dzwoneczka."
+A ty jesteś podobny do wróbla, a nie do złotego dzwoneczka.
 
 75
 00:05:36,064 --> 00:05:41,664
-"Nie masz racji, uszatku, to właśnie on, Skowronek, dzwonił jak złoty
-dzwoneczek."
+Nie masz racji, uszatku, to właśnie on, Skowronek, dzwonił jak złoty
+dzwoneczek.
 
 76
 00:05:42,664 --> 00:05:44,477
-"Każdej wiosny tak dzwoni."
+Każdej wiosny tak dzwoni.
 
 77
 00:05:45,264 --> 00:05:48,064
-"No to przepraszam, Skowroneczku."
+No to przepraszam, Skowroneczku.
 
 78
 00:05:49,064 --> 00:05:50,864
-"Widzisz? Widzisz?"
+Widzisz? Widzisz?
 
 79
 00:05:52,264 --> 00:05:57,064
-"Nie szkodzi," odpowiedział Skowronek pogodnie i znów pofrunął podzwonić.
+Nie szkodzi - odpowiedział Skowronek pogodnie i znów pofrunął podzwonić.
 
 80
 00:06:00,364 --> 00:06:02,764
-"Jak pięknie śpiewa."
+Jak pięknie śpiewa.
 
 81
 00:06:03,984 --> 00:06:07,144
-"Już jestem z powrotem." - parsknął osiołek.
+Już jestem z powrotem. - parsknął osiołek.
 
 82
 00:06:07,144 --> 00:06:09,385
-"Zobaczcie, co mam w workach."
+Zobaczcie, co mam w workach.
 
 83
 00:06:14,821 --> 00:06:19,269
-"To też chleb, tylko jeszcze nie upieczony."
+To też chleb, tylko jeszcze nie upieczony.
 
 84
 00:06:20,106 --> 00:06:24,106
-"Przecież to mąka, a od mąki do chleba tylko jeden krok."
+Przecież to mąka, a od mąki do chleba tylko jeden krok.
 
 85
 00:06:25,106 --> 00:06:29,106
-"A ja i tak kapustę wolę," powiedział Zajączek.
+A ja i tak kapustę wolę - powiedział Zajączek.
 
 86
 00:06:34,180 --> 00:06:36,466

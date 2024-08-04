@@ -81,7 +81,7 @@ Co masz? Ha, ha, ha, ha.
 
 21
 00:02:32,768 --> 00:02:38,848
-Uszy zawiązane na supelek, żebyś czasem nie zapomniał o uszatku. Ha, ha, ha, ha.
+Uszy zawiązane na supełek, żebyś czasem nie zapomniał o uszatku. Ha, ha, ha, ha.
 
 22
 00:02:38,848 --> 00:02:40,848
@@ -113,7 +113,7 @@ Piii! Uszatek wstał dziś z łóżka lewą nogą? Piii!
 
 29
 00:03:58,544 --> 00:04:01,544
-powyściła sroczka na cały las.
+powyścieła sroczka na cały las.
 
 30
 00:04:01,569 --> 00:04:05,569
@@ -216,71 +216,78 @@ Przecież się znalazłeś.
 No pewnie, że się znalazłem.
 
 55
-00:06:05,990 --> 00:06:13,340
-Ale teraz płaczę dlatego, że byłem dla was taki niegrzeczny, a wy troszczycie
-się o mnie.
+00:06:05,990 --> 00:06:08,548
+Ale teraz płaczę dlatego,
 
 56
+00:06:08,592 --> 00:06:10,868
+że byłem dla was taki niegrzeczny,
+
+57
+00:06:10,892 --> 00:06:13,340
+a wy troszczycie się o mnie.
+
+58
 00:06:13,384 --> 00:06:17,058
 Nie ma o czym mówić, uszatku, powiedziało jeż trochę milszym panem.
 
-57
+59
 00:06:17,083 --> 00:06:19,384
 Chodź, pokażemy ci drogę.
 
-58
+60
 00:06:32,789 --> 00:06:36,309
 Dziękuję wam i przepraszam, bardzo przepraszam.
 
-59
+61
 00:06:37,562 --> 00:06:41,842
 Przepraszam to piękne słowo, które załatwia wiele trudnych spraw.
 
-60
+62
 00:06:42,391 --> 00:06:43,730
 Szepnęła sarenka.
 
-61
+63
 00:06:44,570 --> 00:06:45,370
 Dziękuję.
 
-62
+64
 00:06:54,210 --> 00:06:57,210
 Jeśli zdarzy wam się wstać któregoś ranka lewą nogą
 
-63
+65
 00:06:57,210 --> 00:07:00,210
 i jeśli będziecie miały humor tak kwaśny jak
 
-64
+66
 00:07:00,210 --> 00:07:02,210
 zsiadłe mleko i kiszona kapusta
 
-65
+67
 00:07:02,210 --> 00:07:05,210
 to jeszcze nie powód, żeby nie wychylać głowy z domu
 
-66
+68
 00:07:05,210 --> 00:07:06,210
 Przeciwnie!
 
-67
+69
 00:07:06,210 --> 00:07:08,210
 Wyjdźcie z domu jak najszybciej
 
-68
+70
 00:07:08,210 --> 00:07:12,210
 tylko nie zapomnijcie zamknąć złego humoru na klucz!
 
-69
+71
 00:07:15,210 --> 00:07:16,210
 Dobranoc!
 
-70
+72
 00:07:21,564 --> 00:07:29,080
 Pora na dobranoc, bo już księżyc świeci.
 
-71
+73
 00:07:29,160 --> 00:07:37,160
 ♪ Dzieci lubią misie, misie lubią dzieci.
 

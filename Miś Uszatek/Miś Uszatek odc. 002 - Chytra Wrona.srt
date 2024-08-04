@@ -23,13 +23,13 @@ znam się z dziećmi nie od dziś,
 jestem w sobie mały miś, śmieszny miś, znam się z dziećmi.
 
 7
-00:00:38,796 --> 00:00:45,560
-Kiedy patrzę na puszyste zaspy śniegu, przypomina mi się zawsze bardzo śmieszna
-przygoda z wroną.
+00:00:38,796 --> 00:00:41,668
+Kiedy patrzę na puszyste zaspy śniegu,
 
 8
-00:00:53,264 --> 00:01:22,724
-🎵
+00:00:41,692 --> 00:00:45,560
+przypomina mi się zawsze bardzo śmieszna
+przygoda z wroną.
 
 9
 00:01:30,839 --> 00:01:33,234
@@ -40,241 +40,256 @@ Dlaczego płaczesz, zajączku?
 Pewno zmarzły Ci lapki.
 
 11
-00:01:37,696 --> 00:01:49,696
-Łapki też mi zmarzły, ale płaczą dlatego, że mój braciszek, szaraczek, wyszedł
-rano z domu i jeszcze nie wrócił.
+00:01:37,696 --> 00:01:40,468
+Łapki też mi zmarzły,
 
 12
+00:01:40,492 --> 00:01:44,812
+ale płaczą dlatego, że
+mój braciszek, szaraczek,
+
+13
+00:01:44,937 --> 00:01:49,696
+wyszedł rano z domu i jeszcze nie wrócił.
+
+14
 00:01:49,696 --> 00:01:51,696
 Chlipał zajączek.
 
-13
+15
 00:01:51,696 --> 00:01:54,910
 Wiesz ty co, zajączku, coś mi się zdaje,
 
-14
+16
 00:01:55,000 --> 00:01:58,340
 że lepiej zrobisz, jeśli przestaniesz płakać
 
-15
+17
 00:01:58,480 --> 00:02:01,566
 i pójdziesz ze mną szukać swojego braciszka.
 
-16
+18
 00:02:07,440 --> 00:02:12,440
 Misiu, czy słyszysz, jak mi kiszki marsza grają?
 
-17
+19
 00:02:14,440 --> 00:02:19,440
 Kiedy przestałem płakać, przypomniało mi się, że nie jadłem śniadania.
 
-18
+20
 00:02:20,440 --> 00:02:26,440
 Ech, zajączku, sałaty ci nie obiecuję, ale na pewno coś tam pod śniegiem
 znajdziemy.
 
-19
+21
 00:02:35,746 --> 00:02:38,026
 Hyhyhyhyhyhyhy...
 
-20
+22
 00:02:47,946 --> 00:02:49,546
 Hej, zajączku.
 
-21
+23
 00:02:49,746 --> 00:02:52,626
 Zdaje się, że znalazłem zimową kapustę.
 
-22
+24
 00:02:53,066 --> 00:02:54,986
 Ojej, nie tak mocno.
 
-23
+25
 00:02:55,146 --> 00:02:56,946
 Zawołała niespodziewanie kapusta.
 
-24
+26
 00:02:57,066 --> 00:02:59,066
 Brrrrrrrrrrrrrrr...
 
-25
+27
 00:02:59,920 --> 00:03:03,720
-Usiadku, usiadku, to coś znacznie lepszego od kapusty.
+Usiatku, usiatku, to coś znacznie lepszego od kapusty.
 
-26
+28
 00:03:03,720 --> 00:03:06,220
 To mój braciszek, znalazłeś Szaraczka.
 
-27
+29
 00:03:06,220 --> 00:03:12,920
 Tra la la, tra la la, tra la la, tra la la, tra la la, tra la la, tra la la...
 
-28
+30
 00:03:12,920 --> 00:03:16,920
 Powiedz Szaraczku, dlaczego siedziałesz po uszy w śniegu?
 
-29
+31
 00:03:18,471 --> 00:03:20,992
 Biegałem, raniutko, skakałem, bielutko,
 
-30
+32
 00:03:21,017 --> 00:03:23,179
 a tu nagle, raniutko, nie wiem jak,
 
-31
+33
 00:03:23,234 --> 00:03:24,745
 nie wiem gdzie, nie wiem kiedy,
 
-32
+34
 00:03:24,847 --> 00:03:27,761
  śnieg po uszy, bielutko, piszczałem, płakałem.
 
-33
+35
 00:03:30,080 --> 00:03:33,880
 Rozumiem, rozumiem, Szaraczku, rozumiem.
 
-34
+36
 00:03:34,380 --> 00:03:35,680
 Siedziałem, bielutko,
 
-35
+37
 00:03:35,722 --> 00:03:38,000
 piszczałem, płakałem, aż tu nagle,
 
-36
-00:03:38,315 --> 00:03:44,377
-och już, ojej, no to co
-ja Ci będę opowiadał? Dziękuję uszatku, dziękuję.
+38
+00:03:38,315 --> 00:03:40,668
+och już, ojej,
 
-37
+39
+00:03:40,692 --> 00:03:42,178
+no to co ja Ci będę opowiadał?
+
+40
+00:03:42,202 --> 00:03:44,377
+Dziękuję uszatku, dziękuję.
+
+41
 00:03:45,180 --> 00:03:50,180
 Jeśli chcesz, powozimy Cię w nagrodę na saneczkach.
 
-38
+42
 00:03:50,657 --> 00:03:52,657
 Pewnie, że chcę.
 
-39
+43
 00:03:57,666 --> 00:04:00,791
 Szybciej! Szybciej!
 
-40
+44
 00:04:00,994 --> 00:04:02,994
-Na psu!
+Naprzód!
 
-41
+45
 00:04:25,626 --> 00:04:29,126
 A kto to taki, czy jemu nie zimno?
 
-42
+46
 00:04:29,626 --> 00:04:32,626
 Psst, to przecież sam mróz.
 
-43
+47
 00:04:33,626 --> 00:04:36,126
 Jemu tam nigdy nie zimno.
 
-44
+48
 00:04:42,126 --> 00:04:45,126
 Ukłońmy się ładnie na wszelki wypadek.
 
-45
+49
 00:05:07,158 --> 00:05:13,160
 Jestem strasznie sprytna, więc zarobię parę groszy bez trudu,
 
-46
+50
 00:05:13,358 --> 00:05:17,053
 powiedziała wrona do siebie.
 
-47
+51
 00:05:22,864 --> 00:05:28,424
 Kto chce przejechać, niech płaci cztery grosze, trudna rada.
 
-48
+52
 00:05:28,991 --> 00:05:30,579
 Cztery grosze?
 
-49
+53
 00:05:31,544 --> 00:05:33,224
 Nie mamy nawet jednego.
 
-50
+54
 00:05:34,224 --> 00:05:35,944
 Musimy już wracać do domu.
 
-51
+55
 00:05:36,544 --> 00:05:37,784
 Tak, tak, do domu.
 
-52
+56
 00:05:38,184 --> 00:05:42,224
 Już dość, bo ja siedziałem w tym śniegu po uszy, proszę pani.
 
-53
+57
 00:05:43,304 --> 00:05:47,664
 Bardzo mi przykro, ale nie puszczę, muszę zarobić bez trudu.
 
-54
+58
 00:05:47,664 --> 00:05:52,744
 Bardzo mi przykro, ale nie puszczę, muszę zarobić bez trudu parę groszy.
 
-55
+59
 00:05:53,784 --> 00:05:55,984
 Raz kozie śmierć, skaczemy.
 
-56
+60
 00:05:56,664 --> 00:05:59,024
 No dobrze, dobrze, my przeskoczymy.
 
-57
+61
 00:05:59,024 --> 00:06:01,304
 A uszatek? A saneczki?
 
-58
+62
 00:06:01,304 --> 00:06:06,464
 Racja, nie opuszczę uszatka, choćbym miał znowu siedzieć w zaspie po uszy.
 
-59
+63
 00:06:24,352 --> 00:06:28,970
 Hurra! Hurra! Hurra!
 
-60
+64
 00:06:29,810 --> 00:06:31,610
 Kra trudna rada!
 
-61
+65
 00:06:36,010 --> 00:06:39,610
-Kratrudna rada! Trudna rada! Mróz!
+Kra trudna rada! Trudna rada! Mróz!
 
-62
+66
 00:06:40,110 --> 00:06:43,243
 Zakrakała wrona z bardzo głupiony.
 
-63
+67
 00:06:47,258 --> 00:06:52,426
 Bardzo lubię zimę i śnieg i mróz, nawet wrony na śniegu.
 
-64
+68
 00:06:52,426 --> 00:06:58,043
 Inne ptaki odleciały do ciepłych krajów, a wrona... wronie smutno.
 
-65
+69
 00:06:58,068 --> 00:07:02,149
 Nic dziwnego, że przychodzą jej do głowy niemądre pomysły.
 
-66
+70
 00:07:03,426 --> 00:07:08,285
 Nie żałujcie wronie okruszków, w końcu jej się też coś należy.
 
-67
+71
 00:07:08,426 --> 00:07:09,426
 Dobranoc.
 
-68
+72
 00:07:18,818 --> 00:07:25,818
 Pora na dobranoc, bo już księżyc świeci.
 
-69
+73
 00:07:25,818 --> 00:07:33,818
 Dzieci lubią misie, misie lubią dzieci.
 

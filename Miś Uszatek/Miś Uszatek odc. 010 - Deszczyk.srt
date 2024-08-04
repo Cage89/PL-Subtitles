@@ -32,7 +32,7 @@ Nie od dziś!
 
 9
 00:00:38,112 --> 00:00:39,112
-Apsik!
+A psik!
 
 10
 00:00:39,112 --> 00:00:40,112
@@ -48,7 +48,7 @@ a pod oknem spacerowały kaczki.
 
 13
 00:00:47,112 --> 00:00:49,112
-Apsik!
+A psik!
 
 14
 00:00:52,112 --> 00:00:54,112
@@ -64,7 +64,7 @@ od razu zaczyna mnie kręcić w nosie.
 
 17
 00:00:58,892 --> 00:01:00,892
-Apsik!
+A psik!
 
 18
 00:01:12,930 --> 00:01:13,930
@@ -180,7 +180,7 @@ Dzień dobry, uszatku, co ty tu robisz?
 
 46
 00:05:21,235 --> 00:05:23,235
-A, a, apsik!
+A, a, a psik!
 
 47
 00:05:30,210 --> 00:05:31,210
@@ -220,61 +220,57 @@ Hoop!
 
 56
 00:06:03,130 --> 00:06:05,130
-Ruszatku, lepiej nie wska...
+Uszatku, lepiej nie wskać...
 
 57
 00:06:05,130 --> 00:06:06,130
-Ojj!
+Ojej!
 
 58
-00:06:06,130 --> 00:06:07,130
-Ojj!
-
-59
-00:06:07,130 --> 00:06:09,130
+00:06:06,809 --> 00:06:08,809
 Ooo jej...
 
-60
+59
 00:06:16,730 --> 00:06:20,330
 Hee hee hee hee hee...
 
-61
+60
 00:06:25,146 --> 00:06:32,146
 Idź zaraz do domu, umyj się i zmień koszulkę, bo dostaniesz wiosennego kataru.
 
-62
+61
 00:06:39,997 --> 00:06:44,705
 Ech, uszatku, uszatku, nie mów hop, póki nie przeskoczysz.
 
-63
+62
 00:06:54,098 --> 00:06:56,098
-Apsik!
+A psik!
 
-64
+63
 00:06:56,256 --> 00:06:59,656
 I dostałem wtedy tego wiosennego kataru.
 
-65
+64
 00:06:59,656 --> 00:07:03,256
 Od tej pory nie zazdroszczę ani kaczkom, ani żabom.
 
-66
-00:07:04,856 --> 00:07:07,656
+65
+00:07:04,827 --> 00:07:07,656
 I wiem, że jeśli ktoś chce urosnąć,
 
-67
+66
 00:07:07,656 --> 00:07:10,056
 to musi codziennie pić mleko.
 
-68
+67
 00:07:11,656 --> 00:07:12,656
 Dobranoc.
 
-69
+68
 00:07:22,190 --> 00:07:29,306
 Pora na dobranoc, bo już księżyc świeci.
 
-70
+69
 00:07:29,306 --> 00:07:37,306
 Dzieci lubią misie, misie lubią dzieci.
 
