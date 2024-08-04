@@ -1,5 +1,5 @@
 1
-00:00:28,160 --> 00:00:30,695
+00:00:28,173 --> 00:00:30,695
 Niemal osiemnaście lat minęło Drodzy Państwo
 
 2
@@ -7,16 +7,16 @@ Niemal osiemnaście lat minęło Drodzy Państwo
 odkąd to po raz ostatni robiłem programy w Polsce
 
 3
-00:00:34,200 --> 00:00:37,371
-teraz wszakże postanowiłem powrócić do
+00:00:34,200 --> 00:00:38,671
+teraz wszakże postanowiłem powrócić do kulinarnego gniazda
 
 4
-00:00:37,480 --> 00:00:41,960
-kulinarnego gniazda, ale ten powrót wypada rozpocząć w miejscu
+00:00:38,696 --> 00:00:42,988
+ale ten powrót wypada rozpocząć w miejscu symbolicznym
 
 5
-00:00:42,040 --> 00:00:44,960
-symbolicznym i to jest takim miejscem.
+00:00:43,012 --> 00:00:44,960
+i to jest takim miejscem.
 
 6
 00:00:45,200 --> 00:00:46,120
@@ -60,15 +60,15 @@ oryginalne fragmenty murów, kamienie z czasów Mieszka.
 
 16
 00:01:24,665 --> 00:01:27,825
-Nowa jest tylko wzmacniająca całość Zaprawa.
+Nowa jest tylko wzmacniająca całość zaprawa.
 
 17
-00:01:28,160 --> 00:01:32,920
-Stąpamy po deskach, gdybyśmy je podnieśli, co by nasze oczy
+00:01:28,160 --> 00:01:31,268
+Stąpamy po deskach, gdybyśmy je podnieśli,
 
 18
-00:01:33,080 --> 00:01:33,640
-ujrzały?
+00:01:31,292 --> 00:01:33,640
+co by nasze oczy ujrzały?
 
 19
 00:01:33,920 --> 00:01:35,800
@@ -76,7 +76,7 @@ Wielkie misy chrzcielne.
 
 20
 00:01:36,080 --> 00:01:40,118
-Tak jest, coś co w pewnym uproszczeniu nazywamy chrztem Polski
+ Tak jest, coś co w pewnym uproszczeniu nazywamy chrztem Polski
 
 21
 00:01:40,425 --> 00:01:43,480
@@ -147,7 +147,7 @@ ale to przecież wielkopolskie oczywistości,
 36
 00:02:52,092 --> 00:03:00,895
 a ja na sam początek chciałem Państwu pokazać ten region od
-strony być może mniej oczywistej, ale jakże fascynującej.
+strony, być może mniej oczywistej, ale jakże fascynującej.
 
 37
 00:03:00,920 --> 00:03:03,828
@@ -156,7 +156,7 @@ Jedno z moich ulubionych miast tutaj,
 38
 00:03:03,852 --> 00:03:07,548
 a być może i w ogóle w Polsce
-całej, mianowicie w Olsztyn.
+całej, mianowicie w Wolsztyn.
 
 39
 00:03:07,572 --> 00:03:09,388
@@ -387,7 +387,7 @@ No bez sosu to również nie pójdzie.
 93
 00:06:30,972 --> 00:06:37,602
 Trzeba to zwilżyć i jak najładniej
-wprowadzić do paczczy.
+wprowadzić do paszczy.
 
 94
 00:06:42,405 --> 00:06:43,868
@@ -463,1025 +463,1207 @@ OL4959.
 O, literka O oznacza, że jest ona
 
 112
-00:08:05,464 --> 00:08:08,464
-przeznaczona do ciągnięcia składu
+00:08:05,464 --> 00:08:10,228
+przeznaczona do
+ciągnięcia składu osobowego.
 
 113
-00:08:08,464 --> 00:08:11,464
-osobowego. L to bardzo
+00:08:10,252 --> 00:08:12,548
+L to bardzo skomplikowane.
 
 114
-00:08:11,464 --> 00:08:14,464
-skomplikowane. Chodzi o ilość osi.
+00:08:12,572 --> 00:08:14,464
+Chodzi o ilość osi.
 
 115
-00:08:14,464 --> 00:08:17,464
-49. Znaczy, że
+00:08:14,464 --> 00:08:21,865
+49. Znaczy, że konstrukcja z roku 1949,
 
 116
-00:08:17,464 --> 00:08:20,464
-konstrukcja z roku 1949,
-
-117
-00:08:20,464 --> 00:08:23,464
+00:08:21,967 --> 00:08:23,464
 a 59,
 
+117
+00:08:23,464 --> 00:08:28,464
+że to 59 sztuka serii.
+
 118
-00:08:23,464 --> 00:08:26,464
-że to 59 sztuka
-
-119
-00:08:26,464 --> 00:08:28,464
-serii.
-
-120
 00:08:28,736 --> 00:08:31,136
 Pod parą zaraz pojedzie.
 
+119
+00:08:34,624 --> 00:08:38,348
+Wspaniałe zbiory posiada również
+skansen kolejowy w Habówce,
+
+120
+00:08:38,372 --> 00:08:41,292
+ale różnica między tymi dwiema instytucjami
+
 121
-00:08:34,624 --> 00:08:44,624
-Wspaniałe zbiory posiada również skansen kolejowy w Habówce, ale różnica między
-tymi dwiema instytucjami zawarta jest już w samych ich nazwach.
+00:08:41,316 --> 00:08:44,624
+zawarta jest już w samych ich nazwach.
 
 122
-00:08:44,624 --> 00:08:54,624
-Tu mianowicie parowozownia, a tam skansen. Skansen, czyli rzecz martwa. Z
-lokomotywami jest tak samo jak z samochodami.
+00:08:44,624 --> 00:08:47,068
+Tu mianowicie parowozownia,
 
 123
-00:08:54,624 --> 00:08:59,624
-Gdy stoją, to niszczeją. Ich przeznaczeniem jest ruch.
+00:08:47,092 --> 00:08:48,567
+a tam skansen.
 
 124
-00:09:04,624 --> 00:09:21,624
-Nie zapomnijcie zasubskrybować oraz zafollowować mnie na Facebooku!
+00:08:48,591 --> 00:08:51,108
+Skansen, czyli rzecz martwa.
 
 125
-00:09:21,786 --> 00:09:25,786
-Miejscowe składy kursują codziennie przez cały rok.
+00:08:51,132 --> 00:08:54,624
+Z lokomotywami jest tak samo jak z samochodami.
 
 126
-00:09:25,786 --> 00:09:29,786
-W dni powszednie z Wolsztyna do Leszna i z powrotem,
+00:08:54,624 --> 00:08:57,228
+Gdy stoją, to niszczeją.
 
 127
-00:09:29,786 --> 00:09:31,786
-a w weekendy do Poznania.
+00:08:57,252 --> 00:08:59,624
+Ich przeznaczeniem jest ruch.
 
 128
-00:09:31,786 --> 00:09:34,786
-Wnętrze tego wagonu jest raczej współczesne.
+00:09:22,752 --> 00:09:26,728
+Miejscowe składy kursują codziennie przez cały rok.
 
 129
-00:09:36,304 --> 00:09:47,784
-Boazeria. Czasy PRL-u. Ale jest to skład stary. Dwa pierwsze wagony, tak zwane
-boczniaki. Nie chodzi o to, że służą do przewozu grzybów.
+00:09:26,800 --> 00:09:30,976
+W dni powszednie z Wolsztyna do Leszna i z powrotem,
 
 130
-00:09:47,784 --> 00:09:58,824
-Chodzi o to, że nie ma pomiędzy nimi komunikacji. Wchodzi się z boku. To
-najstarsze niemieckie wagony. Te również niemieckie, późniejsze, tak zwane
-pomostowe.
+00:09:31,001 --> 00:09:33,235
+a w weekendy do Poznania.
 
 131
-00:09:58,824 --> 00:10:17,904
-Pomiędzy wagonami mamy łączniki pod postacią pomostów właśnie. Cztery klasy one
-miały. Tylko klasa pierwsza i druga zabudowany pomost, ale ja jako człowiek
-oszczędny i skromny, jak widzicie, podróżuję klasą czwartą.
+00:09:33,280 --> 00:09:36,280
+Wnętrze tego wagonu jest raczej współczesne.
 
 132
-00:10:22,394 --> 00:10:25,394
-Napisy stworzone przez społeczność Amara.org
+00:09:36,304 --> 00:09:38,948
+Boazeria. Czasy PRL-u.
 
 133
-00:10:27,194 --> 00:10:44,194
-Wszyscy antyszczepionkowcy oraz ci, którzy uważają, że remedium na większość
-chorób stanowią skarpety nasączane odstęp, mogą teraz na chwilę odejść od
-telewizorów, gdyż będzie mowa o nauce w służbie medycyny.
+00:09:38,972 --> 00:09:41,348
+Ale jest to skład stary.
 
 134
-00:10:44,194 --> 00:10:58,194
-Otóż w tym właśnie domu w latach 1872-1880 mieszkał doktor Robert Koch,
-człowiek, który odmienił życie niemal całej ludzkości.
+00:09:41,372 --> 00:09:44,428
+Dwa pierwsze wagony, tak zwane boczniaki.
 
 135
-00:11:02,522 --> 00:11:08,522
-Koch i Ludwig Pasteur to ojcowie gałęzi nauki zwanej mikrobiologią.
+00:09:44,452 --> 00:09:47,868
+Nie chodzi o to, że służą do przewozu grzybów.
 
 136
-00:11:08,522 --> 00:11:15,522
-Tutaj w Olsztynie Koch pracował jako lekarz powiatowy i zmagał się z tajemniczą
-zarazą bydła.
+00:09:47,893 --> 00:09:50,668
+Chodzi o to, że nie ma pomiędzy nimi komunikacji.
 
 137
-00:11:15,522 --> 00:11:23,522
-Odkrył, że za pomór krów odpowiedzialna jest ta właśnie bakteria, mianowicie
-wąglik.
+00:09:50,692 --> 00:09:52,268
+Wchodzi się z boku.
 
 138
-00:11:23,522 --> 00:11:29,522
-Badania nad wąglikiem doprowadziły go do dwóch kolejnych jakże przełomowych
-odkryć.
+00:09:52,292 --> 00:09:54,188
+To najstarsze niemieckie wagony.
 
 139
-00:11:29,522 --> 00:11:37,522
-Oczywiście wyodrębnił bakterie cholery oraz te, które powodują, że ludzie
-zapadali na gruźlicę.
+00:09:54,212 --> 00:09:58,824
+Te również niemieckie, późniejsze, tak zwane pomostowe.
 
 140
-00:11:37,522 --> 00:11:40,522
-Zwane od tego czasu prądkami kocha.
+00:09:58,824 --> 00:10:04,668
+Pomiędzy wagonami mamy łączniki
+pod postacią pomostów właśnie.
 
 141
-00:11:40,522 --> 00:11:45,522
-Na podstawie jego badań opracowano szczepionki przeciwko gruźlicy.
+00:10:04,692 --> 00:10:06,868
+Cztery klasy one miały.
 
 142
-00:11:45,522 --> 00:11:50,522
-Szczepionki, które uratowały miliony ludzkich istnień.
+00:10:06,892 --> 00:10:11,708
+Tylko klasa pierwsza i druga zabudowany pomost,
 
 143
-00:11:51,888 --> 00:11:53,280
-Cześć!
+00:10:11,732 --> 00:10:15,068
+ale ja jako człowiek oszczędny i skromny,
 
 144
-00:11:54,280 --> 00:11:57,280
-To już trzecie jezioro dzisiaj, no przecież mieliśmy na początku
+00:10:15,092 --> 00:10:18,380
+jak widzicie, podróżuję klasą czwartą.
 
 145
-00:11:57,280 --> 00:12:02,280
-Lednicę, potem jezioro niemal w samym centrum Wolsztyna,
+00:10:28,200 --> 00:10:30,308
+Wszyscy antyszczepionkowcy oraz ci,
 
 146
+00:10:30,332 --> 00:10:33,868
+którzy uważają, że remedium na większość chorób
+
+147
+00:10:33,892 --> 00:10:36,828
+stanowią skarpety nasączane odstęp,
+
+148
+00:10:36,852 --> 00:10:40,308
+mogą teraz na chwilę odejść od telewizorów,
+
+149
+00:10:40,332 --> 00:10:44,850
+gdyż będzie mowa o nauce w służbie medycyny.
+
+150
+00:10:44,921 --> 00:10:46,988
+Otóż w tym właśnie domu
+
+151
+00:10:47,012 --> 00:10:54,108
+w latach 1872-1880
+mieszkał doktor Robert Koch,
+
+152
+00:10:54,132 --> 00:10:58,880
+człowiek, który odmienił życie niemal całej ludzkości.
+
+153
+00:11:03,397 --> 00:11:08,522
+Koch i Ludwig Pasteur to ojcowie gałęzi nauki zwanej mikrobiologią.
+
+154
+00:11:08,522 --> 00:11:12,148
+Tutaj w Wolsztynie Koch
+pracował jako lekarz powiatowy
+
+155
+00:11:12,172 --> 00:11:15,522
+i zmagał się z tajemniczą zarazą bydła.
+
+156
+00:11:15,522 --> 00:11:21,748
+Odkrył, że za pomór krów odpowiedzialna jest ta właśnie bakteria,
+
+157
+00:11:21,772 --> 00:11:23,522
+mianowicie wąglik.
+
+158
+00:11:23,522 --> 00:11:25,108
+Badania nad wąglikiem
+
+159
+00:11:25,132 --> 00:11:29,522
+doprowadziły go do dwóch
+kolejnych jakże przełomowych odkryć.
+
+160
+00:11:29,522 --> 00:11:32,548
+mianowicie wyodrębnił bakterie cholery
+
+161
+00:11:32,572 --> 00:11:34,988
+oraz te, które powodują,
+
+162
+00:11:35,012 --> 00:11:37,522
+że ludzie zapadali na gruźlicę.
+
+163
+00:11:37,522 --> 00:11:40,522
+Zwane od tego czasu prątkami kocha.
+
+164
+00:11:40,522 --> 00:11:42,700
+Na podstawie jego badań
+
+165
+00:11:42,724 --> 00:11:45,895
+opracowano szczepionki przeciwko gruźlicy.
+
+166
+00:11:45,920 --> 00:11:51,260
+Szczepionki, które uratowały miliony ludzkich istnień.
+
+167
+00:11:54,280 --> 00:11:55,988
+To już trzecie jezioro dzisiaj,
+
+168
+00:11:56,012 --> 00:11:58,108
+no przecież mieliśmy na początku Lednicę,
+
+169
+00:11:58,132 --> 00:12:02,280
+potem jezioro niemal w
+samym centrum Wolsztyna,
+
+170
 00:12:02,280 --> 00:12:05,280
 a to akurat nazywa się Wojnowskie.
 
-147
-00:12:05,280 --> 00:12:09,280
+171
+00:12:05,280 --> 00:12:09,719
 U nas nie zawsze granice administracyjne pokrywają się
 
-148
-00:12:09,280 --> 00:12:13,280
-z granicami krajów historycznych, zatem administracyjnie
+172
+00:12:09,744 --> 00:12:11,868
+z granicami krain historycznych,
 
-149
-00:12:13,280 --> 00:12:17,280
-jesteśmy już w Lubuskim, jakieś 30 km od Wolsztyna,
+173
+00:12:11,892 --> 00:12:15,108
+zatem administracyjnie jesteśmy już w Lubuskim,
 
-150
-00:12:17,280 --> 00:12:20,280
+174
+00:12:15,132 --> 00:12:17,280
+jakieś 30 km od Wolsztyna,
+
+175
+00:12:17,280 --> 00:12:20,827
 ale historycznie to księstwo poznańskie.
 
-151
-00:12:20,280 --> 00:12:23,280
+176
+00:12:20,905 --> 00:12:24,241
 Tym razem nie jesteśmy dlatego co wokół jeziora,
 
-152
-00:12:23,280 --> 00:12:26,280
+177
+00:12:24,373 --> 00:12:27,373
 a dlatego co w nim.
 
-153
-00:12:27,840 --> 00:12:34,720
-Gniła Obra, czyli rzeczka wypływająca z jeziora, ale to ten sam akwen i właściwy
-cel naszej
+178
+00:12:27,840 --> 00:12:30,948
+Gniła Obra, czyli rzeczka wypływająca z jeziora,
 
-154
-00:12:34,720 --> 00:12:39,920
-podróży w tym miejscu. Mianowicie gospodarstwo rybackie, rybacka chata.
+179
+00:12:30,972 --> 00:12:33,028
+ale to ten sam akwen
 
-155
+180
+00:12:33,052 --> 00:12:36,228
+i właściwy cel naszej
+podróży w tym miejscu.
+
+181
+00:12:36,252 --> 00:12:39,920
+Mianowicie gospodarstwo rybackie, rybacka chata.
+
+182
 00:12:39,920 --> 00:12:42,960
 A oto i gospodarz tam na łódce, pan Grzegorz Koza.
 
-156
-00:12:42,960 --> 00:12:44,960
+183
+00:12:42,960 --> 00:12:45,086
 Panie Grzegorzu, na co się pan zasadza?
 
-157
-00:12:44,960 --> 00:12:48,960
-No na Węgorza burza była dzisiaj w nocy, więc jest szansa, że coś złapiemy.
+184
+00:12:45,111 --> 00:12:47,078
+No na Węgorza burza była dzisiaj w nocy,
 
-158
-00:12:48,960 --> 00:12:50,960
+185
+00:12:47,103 --> 00:12:49,056
+więc jest szansa, że coś złapiemy.
+
+186
+00:12:49,400 --> 00:12:51,415
 A one są łowione na sieci?
 
-159
-00:12:50,960 --> 00:12:52,960
+187
+00:12:51,440 --> 00:12:53,555
 Tak, tak, tak. Na przestawę węgorzową.
 
-160
-00:12:52,960 --> 00:12:56,960
-No dobra, to ja już nie gadam głośno, bo się mogą spłoszyć, czy nie?
+188
+00:12:53,680 --> 00:12:55,028
+No dobra, to ja już nie gadam głośno,
 
-161
-00:12:57,080 --> 00:12:59,080
+189
+00:12:55,052 --> 00:12:56,688
+bo się mogą spłoszyć, czy nie?
+
+190
+00:12:56,836 --> 00:12:58,540
 To już sieci, to już są.
 
-162
-00:12:59,080 --> 00:13:01,080
+191
+00:12:58,578 --> 00:12:59,680
 Już są prawie że nasze.
 
-163
-00:13:01,080 --> 00:13:05,080
-Dobra, to zobaczymy. Trzymam pana za Węgorza w takim razie.
+192
+00:12:59,705 --> 00:13:02,388
+Dobra, to zobaczymy.
 
-164
-00:13:06,384 --> 00:13:10,384
-No jest kilka sztuk, akwen nie wydaje się wielki, ale zdaje się jest rybny.
+193
+00:13:02,412 --> 00:13:04,579
+Trzymam pana za Węgorza w takim razie.
 
-165
+194
+00:13:06,384 --> 00:13:07,731
+No jest kilka sztuk,
+
+195
+00:13:07,755 --> 00:13:09,114
+akwen nie wydaje się wielki,
+
+196
+00:13:09,138 --> 00:13:10,384
+ale zdaje się jest rybny.
+
+197
 00:13:10,384 --> 00:13:12,384
 No zarobiamy co roku.
 
-166
-00:13:12,384 --> 00:13:15,384
+198
+00:13:12,384 --> 00:13:15,934
 A ile pan wyławia rocznie w Węgorzy?
 
-167
-00:13:15,384 --> 00:13:18,384
+199
+00:13:15,973 --> 00:13:18,965
 To zależy od sezonu, od pogody, od opadu w deszczu.
 
-168
-00:13:18,384 --> 00:13:21,384
+200
+00:13:19,012 --> 00:13:21,384
 150-200 kg rocznie.
 
-169
-00:13:21,384 --> 00:13:23,384
-No to czas już jest.
+201
+00:13:21,720 --> 00:13:23,262
+No to coś już jest.
 
-170
+202
 00:13:23,384 --> 00:13:26,384
 No czasami jest taki rok, że tylko 20-30 kg, nie?
 
-171
-00:13:26,384 --> 00:13:28,384
+203
+00:13:26,384 --> 00:13:28,581
 A jaki jest rok najlepszy na Węgorze?
 
-172
-00:13:28,384 --> 00:13:32,384
-Musi być dużo wody. Mokry, dobra zima, takich których już nie ma.
-
-173
-00:13:32,384 --> 00:13:36,384
-Wszystko przytrzymane, podpiętrzone i wtedy ta woda schodzi wiosną.
-
-174
-00:13:36,384 --> 00:13:38,384
-Jest taki strzał.
-
-175
-00:13:38,384 --> 00:13:40,384
-Czy one już były w Morzu Sargasowym?
-
-176
-00:13:40,384 --> 00:13:42,384
-Nie, one właśnie chciały iść.
-
-177
-00:13:42,384 --> 00:13:44,384
-Czyli biedaczki nie zaznają Morza Sargasowego.
-
-178
-00:13:44,384 --> 00:13:46,384
-No i to chłopcy są.
-
-179
-00:13:46,384 --> 00:13:48,384
-Trafią do garnka. Po czym pan poznaje, że to są chłopcy?
-
-180
-00:13:48,384 --> 00:13:50,384
-Wielkość.
-
-181
-00:13:50,384 --> 00:13:52,384
-A mężczyźni są wielkie?
-
-182
-00:13:52,384 --> 00:13:54,384
-Właśnie, że nie.
-
-183
-00:13:54,384 --> 00:13:56,384
-To zupełnie tak jak w moim związku.
-
-184
-00:13:56,384 --> 00:13:59,384
-Węgorz po rybacku, czyli rzecz, którą za chwilę ugotujemy,
-
-185
-00:14:00,384 --> 00:14:02,384
-to nie jest danie, które sam pan wymyślił.
-
-186
-00:14:02,384 --> 00:14:06,384
-To jest rzeczywiście tradycyjna potrawa śródlądowych rybaków.
-
-187
-00:14:06,384 --> 00:14:08,384
-Absolutnie tak jest, jak pan mówi, panie Robercie.
-
-188
-00:14:08,384 --> 00:14:12,384
-Generalnie trudno nam się odnieść do tego, jak stare jest to danie.
-
-189
-00:14:12,384 --> 00:14:15,384
-Natomiast my, będąc tu w Wojnowie od 25 lat,
-
-190
-00:14:15,384 --> 00:14:20,384
-od zawsze pamiętamy to jako właśnie tradycyjne danie rybaków.
-
-191
-00:14:20,384 --> 00:14:25,384
-I to było takie wyjątkowe danie w tygodniu, w okresie odłowów jesiennych.
-
-192
-00:14:25,384 --> 00:14:28,384
-Było to jakby w prezencie za ciężką pracę.
-
-193
-00:14:28,384 --> 00:14:31,384
-To jest bardzo śmieszne, ale jakże charakterystyczne.
-
-194
-00:14:31,384 --> 00:14:36,384
-Mianowicie niezwykle podobną potrawę widziałem w kraju Basków.
-
-195
-00:14:36,384 --> 00:14:37,384
-No bo jakie tu są składniki?
-
-196
-00:14:37,384 --> 00:14:41,384
-Mianowicie cebula, węgorz, ocet, woda, sól i pieprz.
-
-197
-00:14:41,384 --> 00:14:42,384
-Nic więcej.
-
-198
-00:14:42,384 --> 00:14:45,384
-W kraju Basków coś bardzo podobnego robiono.
-
-199
-00:14:45,384 --> 00:14:48,384
-Tylko robiono to mianowicie z Tuńczyka.
-
-200
-00:14:48,384 --> 00:14:50,384
-Zatem dolewano oliwy.
-
-201
-00:14:50,384 --> 00:14:53,384
-Tutaj nie potrzeba, bo węgorz jest bardzo tłustą rybą.
-
-202
-00:14:53,384 --> 00:14:55,384
-Zatem proszę teraz sprawdzać, czy a wszystko dobrze robię.
-
-203
-00:14:56,384 --> 00:14:59,384
-Najpierw trzeba nalać tutaj mniej więcej centymetr wody.
-
 204
-00:14:59,384 --> 00:15:01,384
-Dokładnie tak, żeby dno było przykryte.
+00:13:28,606 --> 00:13:29,708
+Musi być dużo wody.
 
 205
-00:15:01,384 --> 00:15:05,384
-Woda, cebula, ryba, sól, pieprz?
+00:13:29,732 --> 00:13:32,384
+Mokry, dobra zima, takich których już nie ma.
 
 206
-00:15:05,384 --> 00:15:08,384
-Woda, ryba, cebula, sól, pieprz.
+00:13:33,106 --> 00:13:37,318
+Wszystko przytrzymane, podpiętrzone i wtedy ta woda schodzi wiosną.
 
 207
-00:15:08,384 --> 00:15:12,384
-Co trzeba zrobić z węgorzem przed wrzuceniem do garnka?
+00:13:37,480 --> 00:13:38,599
+Jest taki strzał.
 
 208
-00:15:12,384 --> 00:15:13,384
-Oskurować?
+00:13:38,646 --> 00:13:40,216
+Czy one już były w Morzu Sargasowym?
 
 209
-00:15:13,384 --> 00:15:15,384
-No uśmiercić, oskurować go.
+00:13:40,241 --> 00:13:42,384
+Nie, one właśnie chciały iść.
 
 210
-00:15:15,384 --> 00:15:19,384
-I dobrze jest, jak jest troszkę schłodzony, jakby go tak zciąć,
+00:13:42,384 --> 00:13:44,857
+Czyli biedaczki nie zaznają Morza Sargasowego.
 
 211
+00:13:44,895 --> 00:13:46,084
+No i to chłopcy są.
+
+212
+00:13:46,109 --> 00:13:47,662
+Trafią do garnka.
+
+213
+00:13:47,688 --> 00:13:49,020
+Po czym pan poznaje, że to są chłopcy?
+
+214
+00:13:49,045 --> 00:13:49,802
+Wielkość.
+
+215
+00:13:50,298 --> 00:13:51,912
+A mężczyźni są wielkie?
+
+216
+00:13:51,937 --> 00:13:52,700
+Właśnie, że nie.
+
+217
+00:13:53,524 --> 00:13:55,524
+To zupełnie tak jak w moim związku.
+
+218
+00:13:56,758 --> 00:14:00,311
+Węgorz po rybacku, czyli rzecz, którą za chwilę ugotujemy,
+
+219
+00:14:00,384 --> 00:14:02,880
+to nie jest danie, które sam pan wymyślił.
+
+220
+00:14:02,905 --> 00:14:07,006
+To jest rzeczywiście tradycyjna potrawa śródlądowych rybaków.
+
+221
+00:14:07,100 --> 00:14:08,944
+Absolutnie tak jest, jak pan mówi, panie Robercie.
+
+222
+00:14:09,053 --> 00:14:12,717
+Generalnie trudno nam się odnieść do tego, jak stare jest to danie.
+
+223
+00:14:12,866 --> 00:14:15,850
+Natomiast my, będąc tu w Wojnowie od 25 lat,
+
+224
+00:14:15,920 --> 00:14:18,729
+od zawsze pamiętamy to jako
+
+225
+00:14:18,753 --> 00:14:21,255
+właśnie tradycyjne danie rybaków.
+
+226
+00:14:21,280 --> 00:14:24,268
+I to było takie wyjątkowe danie w tygodniu,
+
+227
+00:14:24,292 --> 00:14:26,179
+w okresie odłowów jesiennych.
+
+228
+00:14:26,226 --> 00:14:29,256
+Było to jakby w prezencie za ciężką pracę.
+
+229
+00:14:29,311 --> 00:14:32,303
+To jest bardzo śmieszne, ale jakże charakterystyczne.
+
+230
+00:14:32,328 --> 00:14:35,188
+Mianowicie niezwykle podobną potrawę
+
+231
+00:14:35,212 --> 00:14:36,881
+widziałem w kraju Basków.
+
+232
+00:14:36,929 --> 00:14:38,360
+No bo jakie tu są składniki?
+
+233
+00:14:38,406 --> 00:14:42,312
+Mianowicie cebula, węgorz, ocet, woda, sól i pieprz.
+
+234
+00:14:42,337 --> 00:14:43,220
+Nic więcej.
+
+235
+00:14:43,245 --> 00:14:45,728
+W kraju Basków coś bardzo podobnego robiono.
+
+236
+00:14:45,840 --> 00:14:49,360
+Tylko robiono to mianowicie z Tuńczyka.
+
+237
+00:14:49,556 --> 00:14:50,821
+Zatem dolewano oliwy.
+
+238
+00:14:50,846 --> 00:14:53,642
+Tutaj nie potrzeba, bo węgorz jest bardzo tłustą rybą.
+
+239
+00:14:53,667 --> 00:14:56,181
+Zatem proszę teraz sprawdzać, czy a wszystko dobrze robię.
+
+240
+00:14:56,384 --> 00:14:59,671
+Najpierw trzeba nalać tutaj mniej więcej centymetr wody.
+
+241
+00:14:59,696 --> 00:15:01,384
+Dokładnie tak, żeby dno było przykryte.
+
+242
+00:15:01,920 --> 00:15:05,384
+Woda, cebula, ryba, sól, pieprz?
+
+243
+00:15:05,409 --> 00:15:06,746
+czy woda, ryba, cebula...
+
+244
+00:15:06,791 --> 00:15:08,338
+woda, ryba, cebula, sól, pieprz
+
+245
+00:15:08,393 --> 00:15:09,190
+dokładnie tak
+
+246
+00:15:09,223 --> 00:15:12,842
+Co trzeba zrobić z węgorzem przed wrzuceniem do garnka?
+
+247
+00:15:12,867 --> 00:15:13,867
+Oskurować?
+
+248
+00:15:13,900 --> 00:15:15,875
+No uśmiercić, oskurować go.
+
+249
+00:15:15,900 --> 00:15:19,384
+I dobrze jest, jak jest troszkę schłodzony, jakby go tak zciąć,
+
+250
 00:15:19,384 --> 00:15:23,384
 żeby ta temperatura mięsa była równa temperaturze wody.
 
-212
+251
 00:15:23,384 --> 00:15:27,384
 Woda, ryba, cebula pokrojona w ten sposób.
 
-213
+252
 00:15:27,384 --> 00:15:32,384
-Tak i jeszcze ją tak rozdrobnić, żeby ryba była przykryta.
+Tak i jeszcze ją tak rozdrobnić, żeby przykryć, żeby ryba była przykryta.
 
-214
+253
 00:15:32,384 --> 00:15:34,384
 I dokładnie tak jak teraz.
 
-215
-00:15:34,384 --> 00:15:35,384
+254
+00:15:34,384 --> 00:15:35,761
 I teraz już sól i pieprz?
 
-216
-00:15:35,384 --> 00:15:38,384
+255
+00:15:35,786 --> 00:15:38,786
 Tak, do smaku obowiązkowo.
 
-217
-00:15:40,384 --> 00:15:44,384
+256
+00:15:40,384 --> 00:15:44,939
 I w sumie jeśli chodzi o sól, to wydaje się, że jest za dużo.
 
-218
-00:15:44,384 --> 00:15:47,384
+257
+00:15:44,964 --> 00:15:47,384
 Nigdy raczej nie jest za dużo.
 
-219
-00:15:47,384 --> 00:15:52,384
+258
+00:15:47,384 --> 00:15:53,010
 Zasłone frytki to ochyda, ale niesłona ryba to również ochyda.
 
-220
-00:15:52,384 --> 00:15:56,384
+259
+00:15:53,035 --> 00:15:56,720
 To nie jest ryba z morza, więc ona nie ma w sobie naturalnej,
 
-221
-00:15:56,384 --> 00:15:57,384
+260
+00:15:56,745 --> 00:15:58,338
 przyrodzonej słoności.
 
-222
-00:15:57,384 --> 00:16:01,384
+261
+00:15:58,363 --> 00:16:01,527
 Dobra, woda, ryba, cebula, sól, pieprz i kolejna warstwa.
 
-223
-00:16:01,384 --> 00:16:02,384
+262
+00:16:01,552 --> 00:16:02,816
 I kolejna warstwa ryby.
 
-224
-00:16:02,384 --> 00:16:06,384
+263
+00:16:02,841 --> 00:16:07,247
 Proszę z łaski swojej powiedzieć mi, nam się wydaje, że mamy mnóstwo węgorzy,
 
-225
-00:16:06,384 --> 00:16:11,384
+264
+00:16:07,272 --> 00:16:11,660
 bo wszędzie niemal można je gdzieś spotkać w postaci wędzonej,
 
-226
-00:16:11,384 --> 00:16:15,384
+265
+00:16:11,777 --> 00:16:15,863
 w postaci mrożonej, w postaci wakium w sklepach,
 
-227
-00:16:15,384 --> 00:16:19,384
-ale to nie są dzikie węgorze, to nie są węgorze odławiane przez Was.
-
-228
-00:16:19,384 --> 00:16:24,384
-No tak, jest tej ryby coraz mniej raz, że jako osobniczo,
-
-229
-00:16:24,384 --> 00:16:27,384
-mniej występuje naturalnie w wodach naszych otwartych.
-
-230
-00:16:27,384 --> 00:16:31,384
-Cena węgorza z rybiniowego jest buforowa niejednokrotnie.
-
-231
-00:16:31,384 --> 00:16:35,384
-Rybacy by chcieli, żeby tej ryby można było więcej kupić,
-
-232
-00:16:35,384 --> 00:16:37,384
-ale tu buforem właśnie jest cena.
-
-233
-00:16:37,384 --> 00:16:41,384
-1000 euro kosztuje kilogram monti, czyli na rybku szlistego węgorza,
-
-234
-00:16:41,384 --> 00:16:46,384
-którego Francuzi, Hiszpanie łowią przy brzegach Europy i sprzedają.
-
-235
-00:16:46,384 --> 00:16:49,384
-A jeszcze chyba węgorze z Chin czy z Wietnamu się z nami spowiedzą.
-
-236
-00:16:49,384 --> 00:16:51,384
-Ale cały wisk polega, tak, dokładnie powinniście powiedzieć,
-
-237
-00:16:51,384 --> 00:16:55,384
-cały wisk polega na tym, że węgorz, który jest łowiony
-
-238
-00:16:55,384 --> 00:16:59,384
-u brzegów Europy jest sprzedawany częstokroć nie do dalszego Podchowu,
-
-239
-00:16:59,384 --> 00:17:02,384
-tylko do restauracji na Dalekim Wschodzie, Hong Kong,
-
-240
-00:17:02,384 --> 00:17:06,384
-Shanghai, Singapur i tam się po prostu to je jako sushi.
-
-241
-00:17:06,384 --> 00:17:09,384
-I dlatego ta cena jest tak mocno podniesiona.
-
-242
-00:17:09,384 --> 00:17:12,384
-Więc widzicie Państwo, jak chcecie spróbować węgorza
-
-243
-00:17:12,384 --> 00:17:16,384
-bezpośrednio z miejsca, koło którego jesteście wyłowionego,
-
-244
-00:17:16,384 --> 00:17:20,384
-to właśnie takich miejsc jak Rybacka, Hata, Szukajcie.
-
-245
-00:17:20,384 --> 00:17:23,384
-Jeszcze jedna warstwa, przykrywamy i gotujemy.
-
-246
-00:17:23,384 --> 00:17:27,384
-I na górę maksymalna ilość cebuli.
-
-247
-00:17:27,384 --> 00:17:32,384
-Rybacy u nas mówili, że król Stasiu miał swoje obiady czwartkowe.
-
-248
-00:17:32,384 --> 00:17:36,384
-Po odłowach jesiennych niewodem, kiedy łowiło się nocami
-
-249
-00:17:36,384 --> 00:17:39,384
-i łowiło się węgorze, rybacy nasi twierdzili,
-
-250
-00:17:39,384 --> 00:17:42,384
-że mają kolacje czwartkowe.
-
-251
-00:17:42,384 --> 00:17:45,384
-No uczestniczyć w takiej kolacji to byłoby coś,
-
-252
-00:17:45,384 --> 00:17:49,384
-zwłaszcza, że jak powiedzieliśmy węgorz to tłusta ryba,
-
-253
-00:17:49,384 --> 00:17:51,384
-więc ona szczególnie lubi pływać.
-
-254
-00:17:51,384 --> 00:17:54,384
-Lubi pływać i za życia, i później też.
-
-255
-00:17:54,384 --> 00:17:56,384
-Przykrywamy, gotujemy.
-
-256
-00:17:56,384 --> 00:17:57,384
-40 minut maksimum.
-
-257
-00:17:57,384 --> 00:17:58,384
-Tak, maksymalnie.
-
-258
-00:17:58,384 --> 00:18:01,384
-Teraz po prostu na małym ogniu, żeby zaczęła się woda
-
-259
-00:18:01,384 --> 00:18:05,384
-nam delikatnie drulić i sok węgorz zaczyna puszczać.
-
-260
-00:18:05,384 --> 00:18:08,384
-To być może najważniejszy fragment gospodarstwa sklepik,
-
-261
-00:18:08,384 --> 00:18:11,384
-bowiem tutaj nie tylko łowi się ryby i je sprzedaje,
-
-262
-00:18:11,384 --> 00:18:13,384
-tutaj się również je przetwarza.
-
-263
-00:18:13,384 --> 00:18:16,384
-Wojnowska ryba na kwaśno w octowej zalewie.
-
-264
-00:18:16,384 --> 00:18:19,384
-Produkt tradycyjny, regionalny.
-
-265
-00:18:19,384 --> 00:18:20,384
-Pod różnymi postaciami.
-
 266
-00:18:20,384 --> 00:18:22,384
-Jaś, sandacz, amur, karaś,
+00:16:15,888 --> 00:16:17,348
+ale to nie są dzikie węgorze,
 
 267
-00:18:22,384 --> 00:18:25,384
-szczupak, leszcz, pstrąg, sieja,
+00:16:17,372 --> 00:16:19,810
+to nie są węgorze odławiane przez Was.
 
 268
-00:18:25,384 --> 00:18:28,384
-sielawa, tołpyga, lin.
+00:16:19,926 --> 00:16:23,231
+No tak, jest tej ryby coraz mniej raz że
 
 269
-00:18:28,384 --> 00:18:30,384
-Obok ryby wędzone.
+00:16:23,352 --> 00:16:27,310
+jako osobniczo, mniej występuje naturalnie w wodach naszych otwartych.
 
 270
-00:18:30,384 --> 00:18:32,384
-Ryby z dzisiejszego wędzenia.
+00:16:27,864 --> 00:16:32,240
+Cena węgorza z rybiniowego jest buforowa niejednokrotnie.
 
 271
-00:18:32,384 --> 00:18:34,384
-Oczywiście lokalne.
+00:16:32,265 --> 00:16:35,460
+Rybacy by chcieli, żeby tej ryby można było więcej kupić,
 
 272
-00:18:34,384 --> 00:18:37,384
-Druga połowa pana Grzegorza, pani Małgosia.
+00:16:35,557 --> 00:16:37,384
+ale tu buforem właśnie jest cena.
 
 273
-00:18:37,384 --> 00:18:39,384
-Pani Małgosiu, to jest zdaje się pani Duma.
+00:16:37,384 --> 00:16:41,698
+1000 euro kosztuje kilogram monti, czyli na rybku szlistego węgorza,
 
 274
-00:18:39,384 --> 00:18:42,384
-Proszę wyjaśnić, co to jest, bo tak naprawdę nikt nie będzie
+00:16:41,768 --> 00:16:46,971
+którego Francuzi, Hiszpanie łowią przy brzegach Europy i sprzedają.
 
 275
-00:18:42,384 --> 00:18:45,384
-w Polsce wiedział o co chodzi, bo to rzecz niezwykle rzadka.
+00:16:47,089 --> 00:16:50,009
+A jeszcze chyba węgorze z Chin czy z Wietnamu się z nami spowiedzą.
 
 276
-00:18:45,384 --> 00:18:47,384
-No jest to niezwykle rzadka rzecz, ale też i prosta.
+00:16:50,042 --> 00:16:51,659
+Ale cały wic polega, tak, dokładnie powinniście powiedzieć,
 
 277
-00:18:47,384 --> 00:18:50,384
-Jest to połączenie sera po prostu z rybą wędzoną.
+00:16:51,684 --> 00:16:55,565
+cały wic polega na tym, że węgorz, który jest łowiony
 
 278
-00:18:50,384 --> 00:18:53,384
-No i podane jest to gzik rybacki.
+00:16:55,590 --> 00:16:59,855
+u brzegów Europy jest sprzedawany częstokroć nie do dalszego Podchowu,
 
 279
-00:18:53,384 --> 00:18:58,384
-U nas tak zwany rybacki gzik, który jest podawany w formie
+00:17:00,043 --> 00:17:02,384
+tylko do restauracji na Dalekim Wschodzie,
 
 280
-00:18:58,384 --> 00:19:01,384
-też albo pasty na chleb lub też fantastycznych pierogów.
+00:17:02,384 --> 00:17:04,468
+Hong Kong, Shanghai, Singapur
 
 281
-00:19:01,384 --> 00:19:02,384
-Mogę spróbować?
+00:17:04,492 --> 00:17:06,744
+i tam się po prostu to je jako sushi.
 
 282
-00:19:02,384 --> 00:19:03,384
-Radziłabym spróbować.
+00:17:06,769 --> 00:17:09,910
+I dlatego ta cena jest tak mocno podniesiona.
 
 283
-00:19:03,384 --> 00:19:04,384
-Ja tak myślę.
+00:17:10,000 --> 00:17:13,104
+Więc widzicie Państwo, jak chcecie spróbować węgorza
 
 284
-00:19:07,384 --> 00:19:07,488
-Dzień dobry.
+00:17:13,129 --> 00:17:16,990
+bezpośrednio z miejsca, koło którego jesteście wyłowionego,
 
 285
-00:19:07,488 --> 00:19:14,488
-Mój Boże, kapitalne i w dodatku do zjedzenia tylko w tym maleńkim
+00:17:17,160 --> 00:17:20,560
+to właśnie takich miejsc jak Rybacka Chata, Szukajcie.
 
 286
-00:19:14,488 --> 00:19:21,488
-fragmenciku kraju naszego. Rybacki gdzik. Rarytaśka.
+00:17:20,669 --> 00:17:24,011
+Jeszcze jedna warstwa, przykrywamy i gotujemy.
 
 287
-00:19:25,690 --> 00:19:29,690
-Ważna uwaga, na samym końcu trzeba całość zaprawić octem.
+00:17:24,036 --> 00:17:27,384
+I na górę maksymalna ilość cebuli.
 
 288
-00:19:29,690 --> 00:19:32,690
-W tym wypadku octem nie byle jakim, tutaj miejscowym, lokalnym,
+00:17:27,896 --> 00:17:33,436
+Rybacy u nas mówili, że król Stasiu miał swoje obiady czwartkowe.
 
 289
-00:19:32,690 --> 00:19:35,690
-niefiltrowanym wygląda.
+00:17:33,592 --> 00:17:37,170
+Po odłowach jesiennych niewodem, kiedy łowiło się nocami
 
 290
-00:19:37,984 --> 00:19:39,984
-Ale i smakuje. Jezu, jak smakuje.
+00:17:37,490 --> 00:17:38,788
+i łowiło się węgorze,
 
 291
-00:19:39,984 --> 00:19:40,984
-Smakuje, prawda?
+00:17:38,842 --> 00:17:42,849
+rybacy nasi twierdzili, że mają kolacje czwartkowe.
 
 292
-00:19:40,984 --> 00:19:41,984
-Genialne, genialne.
+00:17:43,412 --> 00:17:46,106
+No uczestniczyć w takiej kolacji to byłoby coś,
 
 293
-00:19:41,984 --> 00:19:44,984
-Ocet jabłkowy dopełnia jakby szczęście.
+00:17:46,131 --> 00:17:49,701
+zwłaszcza, że jak powiedzieliśmy węgorz to tłusta ryba,
 
 294
-00:19:44,984 --> 00:19:47,984
-Ale Państwo się tego nauczyli tutaj od miejscowych rybaków.
+00:17:49,733 --> 00:17:51,584
+więc ona szczególnie lubi pływać.
 
 295
+00:17:51,631 --> 00:17:54,617
+Lubi pływać i za życia, i później też.
+
+296
+00:17:55,078 --> 00:17:56,813
+Przykrywamy, gotujemy.
+
+297
+00:17:56,844 --> 00:17:57,750
+40 minut maksimum.
+
+298
+00:17:57,828 --> 00:17:58,688
+Tak, maksymalnie.
+
+299
+00:17:58,727 --> 00:18:00,148
+Teraz po prostu na małym ogniu,
+
+300
+00:18:00,172 --> 00:18:02,348
+żeby zaczęła się woda nam delikatnie
+drulić
+
+301
+00:18:02,372 --> 00:18:05,384
+i sok węgorz zaczyna puszczać.
+
+302
+00:18:05,384 --> 00:18:08,710
+To być może najważniejszy fragment gospodarstwa sklepik,
+
+303
+00:18:08,735 --> 00:18:11,827
+bowiem tutaj nie tylko łowi się ryby i je sprzedaje,
+
+304
+00:18:11,852 --> 00:18:14,281
+tutaj się również je przetwarza.
+
+305
+00:18:14,313 --> 00:18:17,187
+Wojnowska ryba na kwaśno w octowej zalewie.
+
+306
+00:18:17,212 --> 00:18:19,485
+Produkt tradycyjny, regionalny.
+
+307
+00:18:19,689 --> 00:18:20,718
+Pod różnymi postaciami.
+
+308
+00:18:20,743 --> 00:18:22,851
+Jaż, sandacz, amur, karaś,
+
+309
+00:18:22,876 --> 00:18:25,993
+szczupak, leszcz, pstrąg, sieja,
+
+310
+00:18:26,040 --> 00:18:28,954
+sielawa, tołpyga, lin.
+
+311
+00:18:29,056 --> 00:18:31,015
+Obok ryby wędzone.
+
+312
+00:18:31,040 --> 00:18:32,975
+Ryby z dzisiejszego wędzenia.
+
+313
+00:18:33,000 --> 00:18:34,384
+Oczywiście lokalne.
+
+314
+00:18:34,384 --> 00:18:37,775
+Druga połowa pana Grzegorza, pani Małgosia.
+
+315
+00:18:37,800 --> 00:18:39,932
+Pani Małgosiu, to jest zdaje się pani Duma.
+
+316
+00:18:39,957 --> 00:18:42,542
+Proszę wyjaśnić, co to jest, bo tak naprawdę
+
+317
+00:18:42,567 --> 00:18:44,727
+nikt nie będzie w Polsce wiedział o co chodzi,
+
+318
+00:18:44,751 --> 00:18:46,231
+bo to rzecz niezwykle rzadka.
+
+319
+00:18:46,309 --> 00:18:48,386
+No jest to niezwykle rzadka rzecz, ale też i prosta.
+
+320
+00:18:48,411 --> 00:18:51,410
+Jest to połączenie sera po prostu z rybą wędzoną.
+
+321
+00:18:51,457 --> 00:18:52,067
+No i podane...
+
+322
+00:18:52,092 --> 00:18:53,309
+czyli gzik po wielkopolsku
+
+323
+00:18:53,334 --> 00:18:54,240
+gzik rybacki
+
+324
+00:18:54,300 --> 00:18:58,895
+U nas tak zwany rybacki gzik, który jest podawany w formie
+
+325
+00:18:58,959 --> 00:19:01,671
+też albo pasty na chleb lub też fantastycznych pierogów.
+
+326
+00:19:01,696 --> 00:19:02,507
+Mogę spróbować?
+
+327
+00:19:02,532 --> 00:19:03,960
+Radziłabym spróbować.
+
+328
+00:19:03,985 --> 00:19:04,985
+Ja tak myślę.
+
+329
+00:19:09,398 --> 00:19:11,548
+Mój Boże, kapitalne
+
+330
+00:19:11,572 --> 00:19:14,108
+i w dodatku do zjedzenia
+
+331
+00:19:14,132 --> 00:19:17,748
+tylko w tym maleńkim
+fragmenciku kraju naszego.
+
+332
+00:19:18,507 --> 00:19:22,060
+Rybacki gdzik. Rarytaśka.
+
+333
+00:19:26,580 --> 00:19:30,359
+Ważna uwaga, na samym końcu trzeba całość zaprawić octem.
+
+334
+00:19:30,539 --> 00:19:32,223
+W tym wypadku octem nie byle jakim,
+
+335
+00:19:32,247 --> 00:19:36,687
+tutaj miejscowym, lokalnym, niefiltrowanym wygląda.
+
+336
+00:19:37,984 --> 00:19:40,342
+Ale i smakuje. Jezu, jak smakuje.
+
+337
+00:19:40,367 --> 00:19:41,092
+Smakuje, prawda?
+
+338
+00:19:41,117 --> 00:19:41,984
+Genialne, genialne.
+
+339
+00:19:41,984 --> 00:19:44,836
+Ocet jabłkowy dopełnia jakby szczęście.
+
+340
+00:19:44,861 --> 00:19:47,861
+Ale Państwo się tego nauczyli tutaj od miejscowych rybaków.
+
+341
 00:19:47,984 --> 00:19:49,984
 Dania pełnego, tak.
 
-296
-00:19:49,984 --> 00:19:54,984
-Drodzy Państwo, bujabez w marsyli, a tutaj rzecz wcale nie gorsza.
+342
+00:19:49,984 --> 00:19:55,563
+Drodzy Państwo, bouillabaisse w marseille, a tutaj rzecz wcale nie gorsza.
 
-297
-00:19:54,984 --> 00:19:58,984
+343
+00:19:55,640 --> 00:19:59,266
 To jest obłędne, proste i fenomenalne.
 
-298
-00:19:58,984 --> 00:20:01,984
+344
+00:19:59,345 --> 00:20:01,984
 Uczyniliście mnie człowiekiem szczęśliwym.
 
-299
-00:20:01,984 --> 00:20:02,984
+345
+00:20:01,984 --> 00:20:03,298
 Jezu, jakie to jest ekstraktywne.
 
-300
-00:20:02,984 --> 00:20:03,984
+346
+00:20:03,384 --> 00:20:04,709
 Dziękujemy.
 
-301
-00:20:03,984 --> 00:20:05,984
+347
+00:20:04,734 --> 00:20:06,734
 Szczęście na talerzu.
 
-302
-00:20:07,984 --> 00:20:08,912
-Dziękujemy.
+348
+00:20:10,304 --> 00:20:12,857
+W miejscowości Chobienice, koło Wolsztyna,
 
-303
-00:20:08,912 --> 00:20:10,304
-Cześć!
+349
+00:20:12,881 --> 00:20:15,068
+swoją siedzibę mieli Mielżyńscy,
 
-304
-00:20:10,304 --> 00:20:13,704
-W miejscowości Chobienice, koło Wolsztyna, swoją siedzibę
+350
+00:20:15,092 --> 00:20:19,804
+jeden z najbardziej zasłużonych arystokratycznych wielkopolskich lodów.
 
-305
-00:20:13,704 --> 00:20:17,204
-mieli Mielrzyńscy, jeden z najbardziej zasłużonych
+351
+00:20:19,804 --> 00:20:22,588
+W części Folwarch tej dawnego majątku
 
-306
-00:20:17,204 --> 00:20:19,804
-arystokratycznych wielkopolskich lodów.
+352
+00:20:22,612 --> 00:20:25,388
+urządzono kompleks hotelowo-wypoczynkowy,
 
-307
-00:20:19,804 --> 00:20:23,904
-W części Folwarch tej dawnego majątku urządzono kompleks
+353
+00:20:25,412 --> 00:20:28,804
+ale co najważniejsze również restauracyjny.
 
-308
-00:20:23,904 --> 00:20:27,604
-hotelowo-wypoczynkowy, ale co najważniejsze również
-
-309
-00:20:27,604 --> 00:20:28,804
-restauracyjny.
-
-310
+354
 00:20:28,804 --> 00:20:32,304
 Restauracja mieści się w rządcówce, czyli w budynku,
 
-311
-00:20:32,304 --> 00:20:36,604
-w którym kiedyś mieszkał zarządca całych dóbr, a gotuje
+355
+00:20:32,304 --> 00:20:35,468
+w którym kiedyś mieszkał
+zarządca całych dóbr,
 
-312
-00:20:36,604 --> 00:20:38,604
-w niej pan Maciej Barton.
+356
+00:20:35,492 --> 00:20:38,604
+a gotuje w niej pan Maciej Barton.
 
-313
+357
 00:20:38,604 --> 00:20:42,904
 Człowiek, który robi doktorat z kuchni wielkopolskiej.
 
-314
-00:20:44,304 --> 00:20:47,404
-Anturaż arystokratyczny, ale widzę, że i dania godne
+358
+00:20:44,315 --> 00:20:45,708
+Anturaż arystokratyczny,
 
-315
-00:20:47,404 --> 00:20:49,004
-najlepszych stołów.
+359
+00:20:45,732 --> 00:20:49,004
+ale widzę, że i dania godne najlepszych stołów.
 
-316
+360
 00:20:49,004 --> 00:20:52,704
 To jak się domyślam, jest absolutna wielkopolska klasyka.
 
-317
+361
 00:20:52,704 --> 00:20:54,904
 Mianowicie zupa rakowa.
 
-318
+362
 00:20:54,904 --> 00:20:55,404
 Zgadza się?
 
-319
+363
 00:20:55,404 --> 00:20:56,104
 Tak jest, tak jest.
 
-320
+364
 00:20:56,104 --> 00:20:57,004
 A skąd raki?
 
-321
+365
 00:20:57,004 --> 00:20:58,904
-Z nasła rakowego.
+Z masła rakowego.
 
-322
-00:20:58,904 --> 00:21:01,904
-Posiłkujemy się po trochę jeszcze amerykańskim, ale już
+366
+00:20:58,904 --> 00:21:01,468
+Posiłkujemy się po trochę jeszcze amerykańskim,
 
-323
-00:21:01,904 --> 00:21:05,404
-w Polsce odnawia się hodowla raka błotnego i szlachetnego.
+367
+00:21:01,492 --> 00:21:02,828
+ale już w Polsce odnawia się
 
-324
+368
+00:21:02,852 --> 00:21:05,404
+hodowla raka błotnego i szlachetnego.
+
+369
 00:21:05,404 --> 00:21:05,904
 Naprawdę?
 
-325
+370
 00:21:05,904 --> 00:21:09,204
 Tak, już stawy są hodowlane w niedalekiej okolicy, skąd
 
-326
+371
 00:21:09,204 --> 00:21:13,304
 będziemy brali i jest to rarytas.
 
-327
-00:21:13,304 --> 00:21:15,504
-Bardzo żmudny w produkcji, bo jednak zrobienie masła
+372
+00:21:13,304 --> 00:21:14,668
+Bardzo żmudny w produkcji,
 
-328
-00:21:15,504 --> 00:21:16,304
-rakowego trzeszczy w noga.
+373
+00:21:14,692 --> 00:21:16,454
+bo jednak zrobienie masła rakowego trzeszczy w noga.
 
-329
-00:21:16,304 --> 00:21:19,104
-Trzeba prażyć na maśle skorupki, chytynki z raków.
+374
+00:21:16,479 --> 00:21:19,104
+Trzeba prażyć na maśle skorupki chitynki z raków.
 
-330
+375
 00:21:19,104 --> 00:21:22,804
 Tak jest, utłuczone drobno, ale warte jest z tego zachodu.
 
-331
+376
 00:21:22,804 --> 00:21:24,804
 Cudowne i to nie jest krem z dyni.
 
-332
+377
 00:21:24,804 --> 00:21:27,204
 Tak, tak, może tak się sugerować, ale nie.
 
-333
+378
 00:21:27,204 --> 00:21:30,204
 Kolor jest właśnie od chytynek rakowych.
 
-334
+379
 00:21:30,204 --> 00:21:31,104
 Tak jest.
 
-335
+380
 00:21:31,104 --> 00:21:35,504
 No to jest naprawdę dla wielbicieli wieprzowiny
 
-336
+381
 00:21:35,504 --> 00:21:39,904
 rarytas najwyższej rangi, no powiedzmy.
 
-337
+382
 00:21:39,904 --> 00:21:43,404
 Świna złotnicka, schab tej świnii złotnickiej,
 
-338
+383
 00:21:43,404 --> 00:21:48,004
 odbudowanej rasy wielkopolskiej, świnii hodowanej
 
-339
+384
 00:21:48,004 --> 00:21:50,004
 faktycznie na wybiegu wolnym.
 
-340
+385
 00:21:50,004 --> 00:21:53,304
 Tutaj troszeczkę zmodyfikowana w stylu gotowania,
 
-341
+386
 00:21:53,304 --> 00:21:54,104
 bo w sous vide.
 
-342
+387
 00:21:54,104 --> 00:21:55,704
 A potem na ruście?
 
-343
-00:21:55,704 --> 00:22:00,704
-A potem na ruście, podsmażana do tego bardzo ciemny sos,
+388
+00:21:55,704 --> 00:21:56,748
+A potem na ruście,
 
-344
-00:22:00,704 --> 00:22:03,704
+389
+00:21:56,772 --> 00:22:00,588
+podsmażana do tego bardzo ciemny sos,
+
+390
+00:22:00,612 --> 00:22:03,704
 redukcja z kości, więc.
 
-345
+391
 00:22:03,904 --> 00:22:06,904
 Czy źródłem tych dwóch przepisów jest ta właśnie książka?
 
-346
+392
 00:22:06,904 --> 00:22:09,904
 Tak, staramy się opierać na starych recepturach.
 
-347
-00:22:09,904 --> 00:22:12,904
+393
+00:22:09,904 --> 00:22:12,345
 To jest najstarsza książka kucharska wielkopolski
 
-348
-00:22:12,904 --> 00:22:17,904
-Marii Ślieżyńskiej, niżej jeszcze starsza, inspirujemy się.
+394
+00:22:12,486 --> 00:22:17,904
+Maryan Ślężyńskiej, niżej jeszcze starsza, inspirujemy się.
 
-349
+395
 00:22:17,904 --> 00:22:20,404
 Ale ta jeszcze starsza, czyli compendium ferculorum,
 
-350
+396
 00:22:20,404 --> 00:22:23,404
-najstarsza zachowana książka kucharska,
+najstarsza zachowana polska książka kucharska,
 
-351
+397
 00:22:23,404 --> 00:22:25,404
 jest inspiracją do kolejnego dania.
 
-352
+398
 00:22:25,404 --> 00:22:26,404
 Do deseru, tak.
 
-353
+399
 00:22:26,404 --> 00:22:27,904
 No to opowiedzmy tym deserem.
 
-354
-00:22:27,904 --> 00:22:30,404
-Deser to ulibki, czyli dziś nazwalibyśmy to rurki
+400
+00:22:27,904 --> 00:22:30,788
+Deser to ulibki, czyli dziś
+nazwalibyśmy to rurki z kremem
 
-355
-00:22:31,104 --> 00:22:36,104
-z kremem ulibki, kruche ciasto z kremem z pieczonych jabłek.
+401
+00:22:30,812 --> 00:22:34,960
+ulibki, kruche ciasto z
+kremem z pieczonych jabłek.
 
-356
+402
 00:22:36,104 --> 00:22:39,104
 W książce dokładnie w tej recepturze tak to było ujęte.
 
-357
+403
 00:22:39,104 --> 00:22:42,104
 Spróbowaliśmy to odtworzyć z sukcesem, myślę,
 
-358
+404
 00:22:42,104 --> 00:22:47,104
 bo smakuje tutaj w naszej karcie, jest deserem rozchwytywanym.
 
-359
+405
 00:22:47,104 --> 00:22:51,104
-Ale ja myślę, jak przełknę troszeczkę ziemniaczaną,
+Ale ja myślę, jak przełknę kluseczkę ziemniaczaną,
 
-360
+406
 00:22:51,104 --> 00:22:55,104
 to muszę najważniejszą uwagę tutaj zgłosić.
 
-361
+407
 00:22:55,104 --> 00:22:58,104
 To nie jest zrobione specjalnie na pokaz.
 
-362
-00:22:58,804 --> 00:23:02,804
-Wszystko można tutaj drodzy Państwo zjeść, więc
+408
+00:22:58,129 --> 00:23:02,129
+To wszystko można tutaj drodzy Państwo zjeść, więc
 
-363
-00:23:02,804 --> 00:23:04,804
-Wy możecie, jedzmy, bo nam wystygnie.
+409
+00:23:02,452 --> 00:23:04,760
+i Wy możecie, jedzmy, bo nam wystygnie.
 
