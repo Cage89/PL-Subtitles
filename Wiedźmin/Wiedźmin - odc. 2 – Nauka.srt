@@ -1370,31 +1370,35 @@ Od tej chwili jesteście wiedźminami.
 Niech mądrość, siła i duch walki nie opuszczą was nigdy.
 
 338
+00:42:14,766 --> 00:42:17,101
+Vica Viti!
+
+339
 00:42:17,259 --> 00:42:22,830
 Był niegdyś obyczaj, by w wypadkach szczególnych przeprowadzić ostateczną próbę
 miecza.
 
-339
+340
 00:42:23,636 --> 00:42:25,236
 Przywołujemy ten obyczaj.
 
-340
+341
 00:42:26,536 --> 00:42:31,536
 Wiedźmin Geralt zaprzeczył Kanonowi naszej walki.
 
-341
+342
 00:42:32,189 --> 00:42:35,783
 Uznał go za zły i nieskuteczny. Niech to udowodni.
 
-342
+343
 00:42:37,049 --> 00:42:41,303
 I zmierzy się z niezwyciężonym Tornwaldem.
 
-343
+344
 00:42:41,763 --> 00:42:43,149
 Oto on!
 
-344
+345
 00:44:24,049 --> 00:44:26,476
 Pamiętaj po sile w oczach.
 
