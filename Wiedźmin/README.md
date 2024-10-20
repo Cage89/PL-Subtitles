@@ -8,7 +8,7 @@ Status of episodes, checked means that a human has checked the subtitles for acc
 |1|4|checked|Whisper|
 |1|5|checked|Whisper|
 |1|6|checked|Whisper|
-|1|7|uploaded, not checked|Whisper|
+|1|7|checked|Whisper|
 |1|8|uploaded, not checked|Whisper|
 |1|9|uploaded, not checked|Whisper|
 |1|10|uploaded, not checked|Whisper|
