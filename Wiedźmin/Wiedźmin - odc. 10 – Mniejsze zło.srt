@@ -1,2415 +1,2347 @@
 1
-00:00:01,914 --> 00:00:04,774
-Dzięki za oglądanie!
-
-2
-00:00:14,842 --> 00:00:31,522
+00:00:26,757 --> 00:00:31,522
 Wybacz Pani! Wykonuję rozkazy księcia Herewarda.
 
-3
-00:00:36,730 --> 00:00:39,730
+2
+00:00:37,650 --> 00:00:39,330
 Nic złego się nie stanie.
 
-4
-00:00:44,474 --> 00:00:46,918
-Dzięki za oglądanie!
-
-5
-00:00:57,274 --> 00:01:07,174
+3
+00:00:58,180 --> 00:01:08,080
 Z poufnych informacji książę dowiedział się, że w Melitele ukrywa się
 księżniczka Cirilla z Cintry.
 
-6
+4
 00:01:08,794 --> 00:01:12,854
 Rozumiesz, pani, że w sytuacji, którą mamy, książę chciałby ją wziąć pod swoją
 opiekę.
 
-7
+5
 00:01:14,314 --> 00:01:18,254
 Nie wolno dalej dopuszczać do rozlewu krwi i buntu nieludzi.
 
-8
-00:01:19,174 --> 00:01:20,794
+6
+00:01:19,174 --> 00:01:21,097
 Masz hrabio list od księcia.
 
-9
-00:01:23,674 --> 00:01:26,054
+7
+00:01:24,401 --> 00:01:26,781
 Ona tu jest, prawda?
 
-10
+8
 00:01:27,054 --> 00:01:28,854
 Nie, panie hrabio, tu jej nie ma.
 
-11
+9
 00:01:30,074 --> 00:01:33,154
-Wnuczka Kalanty zginęła w oblężeniu. Wszyscy to wiedzą.
+Wnuczka Calanthe zginęła w oblężeniu. Wszyscy to wiedzą.
 
-12
-00:01:34,114 --> 00:01:38,514
+10
+00:01:34,114 --> 00:01:38,681
 To nieprawda. Ona żyje. Książę ma na to dowody.
 
-13
-00:01:38,954 --> 00:01:39,334
+11
+00:01:38,954 --> 00:01:39,561
 Jakie?
 
-14
+12
 00:01:39,934 --> 00:01:44,814
-Dosyć tego gadania. Gdzie jest Cyrimów? To rozkaz księcia.
+Dosyć tego gadania. Gdzie jest Ciri, mów! To rozkaz księcia.
 
-15
-00:01:44,814 --> 00:01:50,814
+13
+00:01:44,814 --> 00:01:51,343
 Na terenie tej świątyni rozkazy wydaję ja. I nie są one sprzeczne z polityką
 Herewarda.
 
-16
-00:01:53,504 --> 00:01:56,064
+14
+00:01:53,923 --> 00:01:56,483
 Dlatego nie wierzę w waszą misję.
 
-17
+15
 00:01:56,964 --> 00:01:58,224
 Kłamiesz, panie hrabio.
 
-18
-00:02:04,538 --> 00:02:13,538
+16
+00:02:05,433 --> 00:02:13,513
 Książę liczy na twoją pomoc, więc uważaj, co mówisz, kapłanko.
 
-19
-00:02:13,538 --> 00:02:16,538
+17
+00:02:14,124 --> 00:02:16,538
 Śmiesz twierdzić, że masz takie rozkazy.
 
-20
-00:02:16,538 --> 00:02:23,538
-Pchańbisz miejsce świętego kultu, a potem mówisz, że książę prosi mnie o
+18
+00:02:16,834 --> 00:02:23,538
+Hańbisz miejsce świętego kultu, a potem mówisz, że książę prosi mnie o
 przysługę.
 
-21
+19
 00:02:23,538 --> 00:02:26,538
 Jesteś tak podły, czy tylko głupi.
 
-22
-00:02:31,098 --> 00:02:33,478
+20
+00:02:31,978 --> 00:02:33,223
 Skończyłam rozmowę.
 
-23
-00:02:40,410 --> 00:02:45,410
-Znasz Ultima Tumstridam?
+21
+00:02:43,503 --> 00:02:45,410
+Znasz ultimatum z Tridam?
 
-24
+22
 00:02:45,410 --> 00:02:49,410
 Tamtejszy baron uwięził kilku z kompanii angreńskiej.
 
-25
-00:02:49,410 --> 00:02:52,410
+23
+00:02:50,016 --> 00:02:54,937
 Kiedy przybyła kompania, nie chciał ich wypuścić,
-
-26
-00:02:52,410 --> 00:02:55,410
 więc na jego oczach zaczęli topić pielgrzymów.
 
-27
-00:02:55,410 --> 00:03:00,410
+24
+00:02:55,103 --> 00:02:59,536
 Jednego, drugiego, trzeciego.
 
-28
+25
 00:03:00,410 --> 00:03:05,410
 Już przy dziesiątym baron zmiękł i wypuścił więźniów.
 
-29
-00:03:12,954 --> 00:03:18,274
+26
+00:03:13,987 --> 00:03:18,812
 Nie pozostawiasz mi wyboru, kapłanko.
 
-30
-00:03:25,274 --> 00:03:28,274
+27
+00:03:26,073 --> 00:03:29,073
 Melitele odebrała waszej pani rozum.
 
-31
-00:03:29,274 --> 00:03:32,274
+28
+00:03:30,040 --> 00:03:33,040
 Wy, kapłanki, nie możecie zajmować się polityką
 
-32
-00:03:33,274 --> 00:03:36,274
+29
+00:03:33,720 --> 00:03:36,720
 i narażać to święte miejsce.
 
-33
-00:03:38,274 --> 00:03:43,274
+30
+00:03:38,660 --> 00:03:43,660
 Pytam was, czy jest tutaj księżniczka Cirilla z Cintry?
 
-34
-00:03:44,274 --> 00:03:48,274
+31
+00:03:44,707 --> 00:03:48,707
 Jeżeli tak, muszę ją stąd zabrać.
 
-35
-00:03:56,122 --> 00:04:00,422
+32
+00:03:57,042 --> 00:04:01,342
 Nie cofnę się przed niczym.
 
-36
-00:04:02,602 --> 00:04:03,962
+33
+00:04:02,602 --> 00:04:04,451
 Oni wszyscy zginą.
 
-37
-00:04:05,862 --> 00:04:09,662
+34
+00:04:05,862 --> 00:04:10,038
 Każdego z nich będę zabijał po kolei, a wy będziecie na to patrzeć.
 
-38
-00:04:16,282 --> 00:04:18,842
+35
+00:04:17,295 --> 00:04:19,855
 Weźmiecie to na swoje sumienie!
 
-39
-00:04:28,634 --> 00:04:33,634
-No to co? Poznamy, ile jest warte kapłanek miłosierdzia?
+36
+00:04:29,514 --> 00:04:34,514
+No to co? Poznamy, ile jest warte miłosierdzie kapłanek miłosierdzia?
 
-40
-00:04:38,634 --> 00:04:39,634
+37
+00:04:38,967 --> 00:04:39,967
 Kim jesteś?
 
-41
-00:04:40,634 --> 00:04:42,634
+38
+00:04:41,240 --> 00:04:43,240
 To nasza wieszczka.
 
+39
+00:04:49,470 --> 00:04:52,506
+Wieszczka... Ty znasz prawdę.
+
+40
+00:04:52,506 --> 00:04:55,926
+Znam. Widzę ją.
+
+41
+00:04:55,972 --> 00:04:59,622
+Widzę twoją przyszłość i przyszłość Renfri
+
 42
-00:04:48,506 --> 00:04:50,506
-wieszczka?
+00:05:00,278 --> 00:05:02,422
+Nim minie miesiąc zginiecie wszyscy.
 
 43
-00:04:50,506 --> 00:04:52,506
-ty znasz prawdę
+00:05:02,984 --> 00:05:06,506
+Zaniechaj nas, jeszcze czas...
 
 44
-00:04:52,506 --> 00:04:54,506
-znam
+00:05:06,506 --> 00:05:08,506
+możesz zmienić przeznaczenie.
 
 45
-00:04:54,506 --> 00:04:56,506
-widzę ją
+00:05:09,292 --> 00:05:11,292
+A znasz swoje przeznaczenie?
 
 46
-00:04:56,506 --> 00:04:58,506
-widzę twoją przyszłość
+00:05:12,506 --> 00:05:16,506
+Ja umrę dzisiaj, ty niedługo po mnie
 
 47
-00:04:58,506 --> 00:05:00,506
-i przyszłość Renfri
-
-48
-00:05:00,506 --> 00:05:02,506
-nim minie miesiąc zginiecie wszyscy
-
-49
-00:05:02,506 --> 00:05:04,506
-zaniechaj nas
-
-50
-00:05:04,506 --> 00:05:06,506
-jeszcze czas
-
-51
-00:05:06,506 --> 00:05:08,506
-możesz zmienić przeznaczenie
-
-52
-00:05:08,506 --> 00:05:10,506
-a znasz swoje przeznaczenie?
-
-53
-00:05:12,506 --> 00:05:14,506
-ja umrę dzisiaj
-
-54
-00:05:14,506 --> 00:05:16,506
-ty niedługo po mnie
-
-55
-00:05:17,440 --> 00:05:19,440
+00:05:17,739 --> 00:05:19,739
 Masz rację
 
-56
-00:05:21,440 --> 00:05:23,440
-Umrzesz dzisiaj
+48
+00:05:21,440 --> 00:05:25,440
+Umrzesz dzisiaj. Więc mów
 
-57
-00:05:23,440 --> 00:05:25,440
-Więc mów
-
-58
+49
 00:05:25,440 --> 00:05:27,440
-Zostaw ją
+Zostaw ją.
 
-59
-00:05:30,440 --> 00:05:32,440
-Zostaw ją, powiedziałam
+50
+00:05:30,584 --> 00:05:32,262
+Zostaw ją, powiedziałam.
 
-60
-00:05:32,440 --> 00:05:34,440
-Zwałaj swoich i jedźmy
+51
+00:05:32,322 --> 00:05:34,440
+Zwołaj swoich i jedźmy.
 
-61
-00:05:39,440 --> 00:05:41,440
+52
+00:05:39,440 --> 00:05:41,024
 Co robisz dziecko?
 
-62
-00:05:41,440 --> 00:05:43,440
-Wiem co robię, nie mam wyboru
+53
+00:05:41,049 --> 00:05:43,049
+Wiem co robię, nie mam wyboru.
 
-63
-00:05:43,440 --> 00:05:45,440
-Nie mogłabym tak żyć
+54
+00:05:43,440 --> 00:05:45,103
+Nie mogłabym tak żyć.
 
-64
-00:05:45,440 --> 00:05:47,440
-Mylcie się za mnie
+55
+00:05:45,128 --> 00:05:47,128
+Módlcie się za mnie.
 
-65
-00:06:03,962 --> 00:06:26,562
-Nie rozumiem. Jutro dowiedzą się wszyscy. Królowie, książęta, baronowie Cintry,
-ludzie starszej krwi, co się stało. Dowiedzą się, że ją porwaliście. Chwycą za
-broń. Wszyscy zwrócą się przeciwko wam.
+56
+00:06:04,849 --> 00:06:10,548
+Nie rozumiem. Jutro dowiedzą się wszyscy.
 
-66
+57
+00:06:10,572 --> 00:06:17,628
+Królowie, książęta, baronowie
+Cintry, ludzie starszej krwi, co się stało.
+
+58
+00:06:17,652 --> 00:06:21,388
+Dowiedzą się, że ją porwaliście.
+
+59
+00:06:21,412 --> 00:06:27,052
+Chwycą za broń. Wszyscy zwrócą się przeciwko wam.
+
+60
 00:06:28,062 --> 00:06:29,082
 Nigdy się nie dowie.
 
-67
-00:06:41,946 --> 00:06:43,866
+61
+00:06:42,566 --> 00:06:44,486
 Co ja zrobiłam?
 
-68
-00:06:47,306 --> 00:06:49,326
+62
+00:06:48,139 --> 00:06:50,159
 Co ja zrobiłam?
 
-69
-00:06:50,624 --> 00:06:54,004
+63
+00:06:51,296 --> 00:06:54,676
 Uciekajcie! Uciekajcie!
 
-70
-00:07:23,258 --> 00:07:25,258
-Wyjechał.
+64
+00:07:24,225 --> 00:07:26,225
+Wyjechali.
 
-71
-00:07:27,258 --> 00:07:29,258
+65
+00:07:28,071 --> 00:07:30,071
 Wrócą.
 
-72
-00:08:06,330 --> 00:08:07,590
+66
+00:08:07,110 --> 00:08:08,370
 Nikt.
 
-73
-00:08:08,710 --> 00:08:09,510
+67
+00:08:08,943 --> 00:08:09,743
 Rozumiesz?
 
-74
-00:08:11,770 --> 00:08:12,370
+68
+00:08:11,983 --> 00:08:12,583
 Nikt.
 
-75
-00:08:37,722 --> 00:08:40,962
-Dzięki za oglądanie!
+69
+00:09:17,171 --> 00:09:24,962
+Kiedy przybyliśmy do Ellander, świątynia Melitele stała już w płomieniach.
 
-76
-00:09:06,266 --> 00:09:08,566
-Dzień dobry.
-
-77
-00:09:16,378 --> 00:09:24,418
-Kiedy przybyliśmy do Elander, świątynia Melitele stała już w płomieniach.
-
-78
-00:09:26,878 --> 00:09:33,338
+70
+00:09:27,478 --> 00:09:33,542
 Żadna z kapłanek nie ocalała z napaści i pożogi.
 
-79
-00:09:34,738 --> 00:09:40,018
+71
+00:09:34,738 --> 00:09:40,461
 Podobnie zresztą jak nikt, kto był obecny w świątyni.
 
-80
-00:09:44,346 --> 00:09:56,266
-Nie wiadomo jeszcze, kto był sprawcą tej zbrodni, ale w przededniu napadu
-widziano oddział zbrojnych ludzi mieszanej krwi.
+72
+00:09:45,299 --> 00:09:50,948
+Nie wiadomo jeszcze,
+kto był sprawcą tej zbrodni.
 
-81
+73
+00:09:50,972 --> 00:09:57,219
+Ale w przededniu napadu widziano oddział zbrojnych ludzi mieszanej krwi.
+
+74
 00:09:58,206 --> 00:10:00,606
 Było w nim sporo elfów.
 
-82
+75
 00:10:02,466 --> 00:10:09,046
-W pobliżu świątyni kręcił się też niejaki Geralt z Rivi, wiedźmin.
+W pobliżu świątyni kręcił się też niejaki Geralt z Rivii, wiedźmin.
 
-83
-00:10:11,046 --> 00:10:12,346
+76
+00:10:10,626 --> 00:10:11,926
 Prawdopodobnie...
 
-84
+77
 00:10:12,992 --> 00:10:14,992
 ...renegat.
 
-85
-00:10:17,492 --> 00:10:20,992
+78
+00:10:17,467 --> 00:10:20,967
 Mam nadzieję pomścić tę ohydną zbrodnię
 
-86
+79
 00:10:20,992 --> 00:10:23,992
 i odzyskać to, co, jak myślę,
 
-87
+80
 00:10:23,992 --> 00:10:25,992
 stało się łupem najeźdźców.
 
-88
+81
 00:10:25,992 --> 00:10:27,992
 Polecam się łaskawej pamięci
 
-89
-00:10:27,992 --> 00:10:30,992
+82
+00:10:28,427 --> 00:10:30,630
 i łaskawości naszego suwerena,
 
-90
-00:10:30,992 --> 00:10:32,992
+83
+00:10:30,670 --> 00:10:32,992
 wielce miłościwego księcia Herewarda,
 
-91
+84
 00:10:32,992 --> 00:10:35,992
-pana Elander i tak dalej, i tak dalej, i tak dalej.
+pana Ellander i tak dalej, i tak dalej, i tak dalej.
 
-92
+85
 00:10:35,992 --> 00:10:37,992
 Geralt może być jednak niebezpieczny.
 
-93
-00:10:37,992 --> 00:10:39,992
+86
+00:10:38,511 --> 00:10:40,511
 Jakim sposobem?
 
-94
+87
 00:10:41,168 --> 00:10:47,168
 Jego świadectwo będzie bez znaczenia, jeżeli cesarz z naszych rąk dostanie Ciri.
 
-95
-00:10:47,168 --> 00:10:51,168
+88
+00:10:47,168 --> 00:10:50,763
 Rozumiesz? Taki prezent od zakonu.
 
-96
+89
 00:10:54,168 --> 00:10:59,168
 Naszkicuj teraz w tym samym tonie list do cesarza.
 
-97
+90
 00:10:59,168 --> 00:11:04,168
 Dodaj tylko... Zapisz...
 
-98
-00:11:04,176 --> 00:11:12,496
-Niezwłocznie dostarczę waszej cesarskiej światłości to, co odzyskałem na prośbę
-księcia Herewarda.
+91
+00:11:04,176 --> 00:11:08,606
+Niezwłocznie dostarczę waszej cesarskiej światłości to...
 
-99
-00:11:12,496 --> 00:11:25,936
-Wywnioskowałem z rozmowy z nim, że przesyłka, gdybym przekazał ją księciu, nie
-dotarłaby tak szybko do Nilfgaardu.
+92
+00:11:08,630 --> 00:11:12,496
+...co odzyskałem na prośbę księcia Herewarda.
 
-100
-00:11:28,384 --> 00:11:35,824
+93
+00:11:13,490 --> 00:11:20,153
+Wywnioskowałem z rozmowy z nim, że przesyłka...
+
+94
+00:11:20,177 --> 00:11:22,868
+...gdybym przekazał ją księciu...
+
+95
+00:11:22,892 --> 00:11:25,936
+...nie dotarłaby tak szybko do Nilfgaardu.
+
+96
+00:11:28,605 --> 00:11:36,144
 A jak myślę, dopiero po dodatkowych ustaleniach, których natury nie śmiem
 dociekać.
 
-101
-00:11:44,584 --> 00:11:46,024
+97
+00:11:45,299 --> 00:11:46,739
 Co się stało?
 
-102
-00:11:46,764 --> 00:11:55,204
-Panie, ugryzła mnie. Chcieliśmy wziąć miarę z jej twarzy na maskę. Uderzyłem ją.
+98
+00:11:46,764 --> 00:11:49,028
+Panie, ugryzła mnie.
+
+99
+00:11:49,052 --> 00:11:52,668
+Chcieliśmy wziąć miarę
+z jej twarzy na maskę.
+
+100
+00:11:52,692 --> 00:11:54,148
+Uderzyłem ją.
+
+101
+00:11:54,172 --> 00:11:55,895
 Dopraszam się wybaczenia.
 
-103
-00:11:58,424 --> 00:11:59,424
+102
+00:11:58,257 --> 00:11:59,257
 Straż!
 
-104
-00:12:04,424 --> 00:12:07,424
+103
+00:12:04,155 --> 00:12:07,700
 Temu odrąbiecie rękę,
 
-105
-00:12:09,424 --> 00:12:11,424
+104
+00:12:09,111 --> 00:12:11,111
 a temu drugiemu trzydzieści batów.
 
-106
-00:12:12,424 --> 00:12:13,424
+105
+00:12:12,057 --> 00:12:13,057
 Brać ich.
 
-107
-00:12:14,424 --> 00:12:17,424
+106
+00:12:13,890 --> 00:12:17,364
 Darujcie im, proszę. Nic mi złego nie zrobili.
 
-108
-00:12:22,424 --> 00:12:23,424
+107
+00:12:22,510 --> 00:12:23,510
 Dobrze, pani.
 
-109
-00:12:24,432 --> 00:12:26,432
+108
+00:12:24,812 --> 00:12:26,812
 Tylko dla was to uczynię.
 
-110
-00:12:32,432 --> 00:12:35,432
+109
+00:12:32,942 --> 00:12:35,407
 Hrabio, uwolnij mnie.
 
-111
-00:12:35,432 --> 00:12:38,432
+110
+00:12:35,869 --> 00:12:38,432
 Nie będę nigdy królową Cintry.
 
-112
+111
 00:12:38,432 --> 00:12:39,432
 Nie chcę.
 
-113
-00:12:39,432 --> 00:12:42,432
+112
+00:12:40,039 --> 00:12:42,432
 Jestem dzieckiem przeznaczenia.
 
-114
-00:12:42,432 --> 00:12:44,432
+113
+00:12:42,645 --> 00:12:44,432
 Mój los jest niezmienny.
 
-115
-00:12:44,432 --> 00:12:46,432
+114
+00:12:44,717 --> 00:12:46,432
 Ty też go nie zmienisz.
 
-116
-00:12:46,432 --> 00:12:48,432
+115
+00:12:47,244 --> 00:12:48,949
 Chcę wrócić do świątyni.
 
-117
-00:12:48,432 --> 00:12:50,432
+116
+00:12:49,343 --> 00:12:50,432
 Do Geralta.
 
-118
-00:12:50,432 --> 00:12:52,432
+117
+00:12:50,845 --> 00:12:52,845
 Proszę.
 
-119
-00:12:53,664 --> 00:13:05,444
+118
+00:12:58,774 --> 00:13:05,723
 Pani, przykro mi o tym mówić, ale Geralt zbiegł.
 
-120
-00:13:09,724 --> 00:13:14,944
-Podobno jak wrócił do Elander, wdał się w konflikt z grupą elfów.
+119
+00:13:10,330 --> 00:13:15,550
+Podobno jak wrócił do Ellander, wdał się w konflikt z grupą elfów.
 
-121
-00:13:17,124 --> 00:13:20,224
+120
+00:13:17,203 --> 00:13:20,303
 Świątynia jest spalona.
 
-122
+121
 00:13:23,266 --> 00:13:25,266
 Nie wiadomo, co się stało.
 
-123
+122
 00:13:28,266 --> 00:13:30,266
 Nie masz dokąd wracać.
 
-124
-00:13:31,266 --> 00:13:32,266
+123
+00:13:31,146 --> 00:13:32,146
 Nie wierzę.
 
-125
-00:13:33,266 --> 00:13:34,266
+124
+00:13:32,985 --> 00:13:33,985
 Nie.
 
-126
-00:13:40,058 --> 00:13:47,398
+125
+00:13:40,804 --> 00:13:47,519
 Chcę, żebyś mi ufała i wierzyła, że chcę tylko twojego dobra.
 
-127
-00:13:49,498 --> 00:13:51,958
+126
+00:13:49,498 --> 00:13:52,387
 Zostaw mnie. Wyjdź.
 
-128
-00:14:06,490 --> 00:14:08,490
-Dzień dobry.
-
-129
-00:14:14,778 --> 00:14:17,126
-Dzięki za oglądanie!
-
-130
-00:14:26,010 --> 00:14:32,010
+127
+00:14:26,943 --> 00:14:32,010
 Geralt, Geralt, przyjdź. Ja czekam na ciebie.
 
-131
-00:14:33,010 --> 00:14:39,010
-Ostatni list do KR Morhen. Ty go podpiszesz w imieniu kapituły.
+128
+00:14:33,250 --> 00:14:39,250
+Ostatni list do Kaer Morhen. Ty go podpiszesz w imieniu kapituły.
 
-132
+129
 00:14:41,010 --> 00:14:50,010
 Napiszesz w nim, że Geralt napadł na świątynię, że jest płatnym mordercą i
 zabija ludzi.
 
-133
+130
 00:14:52,010 --> 00:14:55,010
 W ten sposób problem sam się rozwiąże.
 
-134
-00:14:55,376 --> 00:14:57,376
+131
+00:14:55,555 --> 00:14:57,376
 Wiedźmini sami go wykończą.
 
-135
+132
 00:14:57,376 --> 00:14:59,376
 Przyjdź potem do mnie i...
 
-136
-00:14:59,376 --> 00:15:01,376
-przynieś mi tę listę.
+133
+00:14:59,596 --> 00:15:01,422
+...przynieś mi tę listę.
 
-137
-00:15:18,042 --> 00:15:20,042
+134
+00:15:18,781 --> 00:15:20,781
 - Dokąd to? - Do wójta.
 
-138
-00:15:21,042 --> 00:15:23,042
+135
+00:15:21,728 --> 00:15:23,728
 Zabiłem blisko grodu.
 
-139
-00:15:24,042 --> 00:15:26,042
+136
+00:15:24,262 --> 00:15:26,262
 Zostawcie to ścierwo.
 
-140
-00:15:34,586 --> 00:15:45,706
+137
+00:15:39,697 --> 00:15:40,885
+O co poszło?
+
+138
+00:15:40,910 --> 00:15:45,706
 Czekam na wójta, a mówię temu chamowi, że wójt go nie przyjmie, jak nie da
 jakiego podarku, nie?
 
-141
+139
 00:15:45,706 --> 00:15:49,706
 To on mi mówi, że jak ma rację, to nie trzeba. No to on głupi!
 
-142
-00:15:50,006 --> 00:15:50,766
+140
+00:15:50,006 --> 00:15:50,923
 Wójta nie ma w domu?
 
-143
-00:15:51,106 --> 00:15:51,726
+141
+00:15:51,106 --> 00:15:52,076
 Nie ma, nie ma.
 
-144
-00:15:52,786 --> 00:15:55,546
-Powiedzcie mu, że czekam w karczmie, w Wiedźmin-Geralt.
+142
+00:15:52,786 --> 00:15:55,943
+Powiedzcie mu, że czekam w karczmie, w wiedźmin Geralt.
 
-145
-00:15:57,086 --> 00:15:59,246
+143
+00:15:57,086 --> 00:15:59,883
 Został go. On ma rację.
 
+144
+00:16:16,166 --> 00:16:18,692
+Jest pyszny interes do zrobienia.
+
+145
+00:16:18,773 --> 00:16:20,593
+Aha, rozumiem.
+
 146
-00:16:03,776 --> 00:16:05,776
-Wielkie dzięki i do zobaczenia w kolejnych odcinkach!
+00:16:23,952 --> 00:16:25,545
+A kogo mam zabić
 
 147
-00:16:33,946 --> 00:16:35,946
-*śmiech*
-
-148
-00:16:35,946 --> 00:16:37,946
-*śmiech*
-
-149
-00:16:37,946 --> 00:16:39,946
-*śmiech*
-
-150
-00:16:39,946 --> 00:16:41,946
+00:16:40,692 --> 00:16:41,946
 Geralt?
 
-151
-00:16:41,946 --> 00:16:43,946
-*śmiech*
-
-152
-00:16:43,946 --> 00:16:45,946
-*śmiech*
-
-153
-00:16:45,946 --> 00:16:47,946
-*śmiech*
-
-154
-00:16:47,946 --> 00:16:49,946
-*śmiech*
-
-155
-00:16:49,946 --> 00:16:51,946
-*śmiech*
-
-156
-00:16:51,946 --> 00:16:53,946
-*śmiech*
-
-157
-00:16:53,946 --> 00:16:55,946
+148
+00:16:54,518 --> 00:16:55,946
 Tyle lat...
 
-158
-00:16:55,946 --> 00:16:57,946
-*śmiech*
-
-159
-00:16:57,946 --> 00:16:59,946
+149
+00:16:57,946 --> 00:16:59,167
 Myślałem, że już po tobie.
 
-160
-00:16:59,946 --> 00:17:01,946
+150
+00:16:59,192 --> 00:17:01,192
 Nie, nie tak łatwo.
 
+151
+00:17:01,638 --> 00:17:02,205
+Jasne.
+
+152
+00:17:04,881 --> 00:17:07,299
+Zobacz na co mi przyszło.
+
+153
+00:17:07,323 --> 00:17:11,428
+Patrz gdzie ja jestem. Uważasz? Ja.
+
+154
+00:17:11,452 --> 00:17:16,065
+Największy bard tych ziem śpiewam w Blaviken.
+
+155
+00:17:18,026 --> 00:17:23,628
+Nikt tu nie rozumie poezji. Oni
+myślą o kapuście i świńskim łbie.
+
+156
+00:17:23,652 --> 00:17:28,090
+Kiedy śpiewam o pierdzeniu wszyscy się cieszą i są hojni. Koniec świata.
+
+157
+00:17:28,090 --> 00:17:29,597
+Jedź gdzie indziej.
+
+158
+00:17:29,629 --> 00:17:35,090
+Dalej jest śnieg. Podobno przełęcze
+zawalone. A ja muszę na południe do Yspaden.
+
+159
+00:17:47,003 --> 00:17:52,628
+"Zapachniało powiewem jesieni.
+
+160
+00:17:52,652 --> 00:17:57,828
+Z wiatrem zimnym uleciał słów sens."
+
 161
-00:17:01,946 --> 00:17:03,910
-*śmiech*
+00:17:57,852 --> 00:18:07,898
+- "Tak byś musiał, niczego nie mogą już zmienić brylanty na końcach twych brzęk."
+- Handlarze... Już!
 
 162
-00:17:04,090 --> 00:17:16,090
-Zobacz na co mi przyszło. Patrz gdzie ja jestem. Uważasz? Ja. Największy bard
-tych ziem śpiewam wblawikiem.
+00:18:17,594 --> 00:18:24,308
+Widzisz, jakie zamieszanie?
+Jutro jarmark. Skąd przybywasz?
 
 163
-00:17:16,090 --> 00:17:28,090
-Nikt tu nie rozumie poezji. Oni myślą o kapuście i świńskim łubie. Kiedy śpiewam
-o pierdzeniu wszyscy się cieszą i są hojni. Koniec świata.
+00:18:24,332 --> 00:18:27,336
+A zresztą, kurza w dupa, co to za różnica skąd?
 
 164
-00:17:28,090 --> 00:17:35,090
-Jedź gdzie indziej. Dalej jest śnieg. Podobno przełęcze zawalone. A ja muszę na
-południe do Ispaden.
-
-165
-00:17:46,042 --> 00:18:07,522
-Zapachniało powiewem jesieni, z wiatrem zimnym uleciał słów sens, tak byś
-musiał, niczego nie mogą już zmienić brylanty na końcach twych brzęk.
-
-166
-00:18:17,594 --> 00:18:27,154
-Widzisz, jakie zamieszanie? Jutro jarmark. Skąd przybywasz? A zresztą, kurza w
-dupa, co to za różnica skąd?
-
-167
-00:18:27,954 --> 00:18:33,534
+00:18:27,954 --> 00:18:33,783
 Ale za kikimorę ci nie zapłacę. Nie mam już żadnych funduszy, skończyło się.
 
-168
-00:18:33,894 --> 00:18:34,954
+165
+00:18:33,894 --> 00:18:35,383
 Tam musieli ginąć ludzie.
 
+166
+00:18:35,474 --> 00:18:38,705
+No fakt, że ginęli, no to
+co? No wszędzie giną.
+
+167
+00:18:38,729 --> 00:18:41,565
+Ale po coś ty jechał przez słony las?
+
+168
+00:18:41,590 --> 00:18:45,725
+Aż nie chce mi się wierzyć, że ją katrupiłeś.
+
 169
-00:18:35,474 --> 00:18:40,994
-No fakt, że ginęli, no to co? No wszędzie giną. Ale po coś ty jechał przez słony
-las?
+00:18:45,749 --> 00:18:49,914
+Ej, Geralt, nie ma już takich jak ty.
 
 170
-00:18:40,994 --> 00:18:49,914
-Aż nie chce mi się wierzyć, że ją katrupiłeś. Ej, Geralt, nie ma już takich jak
-ty.
-
-171
-00:18:51,728 --> 00:18:54,008
+00:18:51,774 --> 00:18:54,054
 Jak to było?
 
-172
+171
 00:18:54,908 --> 00:18:57,228
 Łatwo poszło. Nażarta była i nieruchawa.
 
-173
-00:18:57,468 --> 00:19:01,208
-Łopi chodzili dwa razy z widłami i z oszczepami, ale nie dali rady.
+172
+00:18:57,473 --> 00:19:01,423
+Chłopi chodzili dwa razy z widłami i z oszczepami, ale nie dali rady.
 
-174
-00:19:01,908 --> 00:19:05,368
+173
+00:19:01,628 --> 00:19:05,530
 Uszarpała ich. Nawet dwóch zbrojnych też mi zabiła.
 
-175
-00:19:05,868 --> 00:19:09,368
+174
+00:19:05,868 --> 00:19:09,551
 Ciekawie to u was. Dawno czegoś takiego nie widziałem.
 
-176
-00:19:09,648 --> 00:19:14,308
+175
+00:19:09,648 --> 00:19:14,434
 To zbieranina, to kupcy, handlarze, a właściwie to wszystko przemytnicy.
 
-177
-00:19:14,828 --> 00:19:18,948
+176
+00:19:14,828 --> 00:19:19,347
 No ale co tu dużo gadać? Miasto żyje właściwie dzięki nim.
 
-178
-00:19:18,948 --> 00:19:22,628
+177
+00:19:19,381 --> 00:19:22,628
 Teraz nikt tutaj ani nie przyjedzie, ani stąd nie wyjedzie.
 
-179
-00:19:23,028 --> 00:19:26,688
+178
+00:19:22,847 --> 00:19:26,881
 Na szlakach zbójcy, chamstwo pola nie uprawia,
 
-180
-00:19:26,968 --> 00:19:30,748
+179
+00:19:26,938 --> 00:19:30,748
 książę elfów ruguje z ziemi, to zaczęli się bronić.
 
-181
-00:19:31,248 --> 00:19:31,728
+180
+00:19:31,248 --> 00:19:31,960
 Bronią się?
 
-182
-00:19:32,128 --> 00:19:33,828
+181
+00:19:32,321 --> 00:19:34,021
 Muszą, a co mają robić?
 
-183
-00:19:35,148 --> 00:19:39,728
+182
+00:19:35,148 --> 00:19:39,628
 Mieli zawsze najgorsze ziemie, ale co z nich tam za rolnicy?
 
-184
-00:19:39,808 --> 00:19:42,428
+183
+00:19:39,653 --> 00:19:42,676
 Oni się trudnili pasterstwem i polowaniem,
 
-185
-00:19:42,788 --> 00:19:47,088
+184
+00:19:42,788 --> 00:19:47,336
 a teraz łąki im zabrali, a w lasach strażnicy.
 
-186
-00:19:47,088 --> 00:19:49,648
+185
+00:19:47,361 --> 00:19:49,921
 No, ale mogą robić co innego.
 
+186
+00:19:50,254 --> 00:19:52,525
+Nie mogą. Są za dumni.
+
 187
-00:19:50,268 --> 00:19:52,288
-Nie mogą. Są zadumni.
+00:19:52,768 --> 00:19:57,448
+Czy ty widziałeś kiedy elfa szewca, albo rymarza, albo bednarza.
 
 188
-00:19:52,768 --> 00:19:57,448
-Czy ty widziałeś kiedy elfa szewca, albo rymarza, albo bednarza
+00:19:57,647 --> 00:20:00,427
+W wojsku służyć nie chcą, tak jak krasnoludy?
 
 189
-00:19:57,448 --> 00:20:00,228
-w wojsku służyć nie chcą, tak jak krasnoludy?
-
-190
-00:20:00,468 --> 00:20:02,588
+00:20:00,468 --> 00:20:02,735
 No bo nie chcą pomagać ludziom.
 
-191
-00:20:03,068 --> 00:20:07,088
+190
+00:20:03,261 --> 00:20:07,281
 Ale też krzywda im się dzieje, bo niech tylko coś złego się stanie,
 
-192
+191
 00:20:07,428 --> 00:20:08,908
 to zaraz wiesza się elfa.
 
-193
+192
 00:20:09,508 --> 00:20:10,688
 Obrzydło mi to już.
 
-194
-00:20:13,744 --> 00:20:17,764
-Za mocna ta smoca gorzałka, co?
+193
+00:20:15,695 --> 00:20:19,710
+Za mocna ta smocza gorzałka, co?
 
-195
-00:20:21,684 --> 00:20:23,124
+194
+00:20:21,951 --> 00:20:23,391
 Dobry sobie człowiek, wujcie.
 
-196
-00:20:23,984 --> 00:20:25,944
+195
+00:20:24,210 --> 00:20:26,473
 Ja tu jestem na służbie.
 
-197
-00:20:26,744 --> 00:20:27,704
+196
+00:20:26,744 --> 00:20:28,073
 To co mam robić?
 
-198
-00:20:28,504 --> 00:20:29,664
+197
+00:20:28,277 --> 00:20:29,732
 Rozkazy i rozkazy.
 
-199
+198
 00:20:29,764 --> 00:20:33,684
-A przecież elfie i krwi to każdy z nas trochę w sobie ma.
+A przecież elfiej krwi to każdy z nas trochę w sobie ma.
 
-200
-00:20:33,944 --> 00:20:35,824
+199
+00:20:33,944 --> 00:20:36,599
 Mnie czas w drogę. Dzięki za posiłek.
 
-201
-00:20:40,666 --> 00:20:44,666
+200
+00:20:41,314 --> 00:20:45,355
 No to na mnie chyba też czas.
 
-202
-00:20:44,666 --> 00:20:48,666
+201
+00:20:45,801 --> 00:20:48,889
 No chyba wszystkim rozum odebrało.
 
-203
-00:20:48,666 --> 00:20:52,666
-Palą nawet hramy i świątynie.
+202
+00:20:49,935 --> 00:20:52,666
+Palą nawet chramy i świątynie.
 
-204
+203
 00:20:52,666 --> 00:20:54,666
 Zbrojna kupa idzie ku nam.
 
-205
-00:20:54,666 --> 00:20:56,666
+204
+00:20:55,116 --> 00:20:56,666
 Które świątynie?
 
-206
+205
 00:20:56,666 --> 00:20:58,666
 Te, skąd przyjechałeś.
 
-207
-00:20:58,666 --> 00:21:03,666
+206
+00:21:00,235 --> 00:21:03,666
 Które świątynie? Powiedz. Proszę.
 
-208
-00:21:03,666 --> 00:21:08,666
+207
+00:21:04,127 --> 00:21:08,666
 Idź do naszego maga Iriona.
 
-209
+208
 00:21:08,928 --> 00:21:11,088
 To od niego wyszła ta wieść.
 
-210
+209
 00:21:12,228 --> 00:21:13,468
 Tylko nie mów mu nic o mnie.
 
-211
+210
 00:21:36,258 --> 00:21:40,258
-Mistrz Illion mnie przyjmuje. Podejdźcie dobrym człowieku.
+Mistrz Irion mnie przyjmuje. Podejdźcie dobrym człowieku.
 
-212
-00:21:41,258 --> 00:21:45,258
+211
+00:21:41,824 --> 00:21:45,824
 Nie jestem dobrym człowiekiem. Jestem Wiedźminem z ważną sprawą.
 
-213
-00:21:46,258 --> 00:21:47,258
+212
+00:21:47,000 --> 00:21:47,991
 Ktoś ty.
 
+213
+00:21:50,711 --> 00:21:53,711
+Geralt z Rivii, z cechu wilków. Mówią też o mnie "Biały Wilk".
+
 214
-00:21:50,258 --> 00:21:53,258
-Geralt z Rivi, z cechu wilków. Mówią też o mnie Biały Wilk.
+00:22:03,807 --> 00:22:07,176
+Znam Geralta. Nie wiem,
+czy nim jesteś.
 
 215
-00:22:04,474 --> 00:22:07,474
-Ale nie wiem, czy ty nim jesteś.
+00:22:07,320 --> 00:22:11,320
+Podaj mi trzy runy na skalę Kaer Morhen.
 
 216
-00:22:07,474 --> 00:22:11,474
-Podaj mi trzy runy na skalę KMO.
-
-217
 00:22:11,474 --> 00:22:13,474
 Tego nie mogę powiedzieć nigdy i nikomu.
 
-218
-00:22:13,474 --> 00:22:16,474
+217
+00:22:14,020 --> 00:22:16,474
 Ale wszystkie kończą się tak samo.
 
-219
+218
 00:22:16,474 --> 00:22:19,474
 Ja też już wiem, kim jesteś. Poznałem twój głos.
 
-220
-00:22:20,474 --> 00:22:22,474
+219
+00:22:21,014 --> 00:22:23,014
 Chodź.
 
-221
-00:22:35,610 --> 00:22:41,550
-Hej Strogobor, gdzie jesteś?
+220
+00:22:36,456 --> 00:22:42,396
+Hej Stregobor, gdzie jesteś?
 
-222
-00:22:42,950 --> 00:22:45,610
+221
+00:22:42,970 --> 00:22:46,290
 No chodź tutaj, jestem przed domem.
 
-223
-00:22:50,410 --> 00:22:53,610
-Witaj Wiedźminie, siadaj.
+222
+00:22:51,276 --> 00:22:54,476
+ Witaj Wiedźminie, siadaj.
 
-224
-00:22:55,834 --> 00:22:58,234
+223
+00:22:56,569 --> 00:22:58,969
 Tak myślałem, Stregobor.
 
-225
-00:22:58,994 --> 00:23:00,134
+224
+00:22:58,994 --> 00:23:00,697
 Odpręż się.
 
-226
+225
 00:23:01,594 --> 00:23:03,134
 Zapomnij o złym świecie.
 
-227
-00:23:03,354 --> 00:23:04,154
+226
+00:23:03,354 --> 00:23:04,672
 To wszystko iluzja?
 
-228
-00:23:05,034 --> 00:23:05,834
+227
+00:23:05,374 --> 00:23:06,174
 Tak.
 
-229
+228
 00:23:06,914 --> 00:23:08,894
 Ale kwiaty pachną.
 
-230
-00:23:10,174 --> 00:23:11,694
+229
+00:23:10,174 --> 00:23:11,981
 Jabłko możesz zjeść.
 
+230
+00:23:12,194 --> 00:23:13,302
+A pszczoła...
+
 231
-00:23:12,194 --> 00:23:12,874
-A pszczoła?
+00:23:13,774 --> 00:23:15,162
+...może cię użądlić.
 
 232
-00:23:13,774 --> 00:23:14,914
-Może cię urządzić.
-
-233
-00:23:17,154 --> 00:23:18,754
+00:23:17,914 --> 00:23:19,514
 Ale jest zimno.
 
-234
-00:23:19,974 --> 00:23:20,974
+233
+00:23:19,974 --> 00:23:21,500
 Pszczoły siedzą w ulu.
 
+234
+00:23:21,994 --> 00:23:23,162
+Coś ci nie wyszło.
+
 235
-00:23:21,994 --> 00:23:22,694
-Coś ci nie wyszło.
-
-236
-00:23:25,834 --> 00:23:26,414
-Coś ci nie wyszło.
-
-237
-00:23:29,018 --> 00:23:30,738
+00:23:29,942 --> 00:23:30,953
 To też iluzja?
 
-238
-00:23:30,978 --> 00:23:33,018
+236
+00:23:30,978 --> 00:23:33,587
 Jak wszystko tutaj...
 
-239
-00:23:33,978 --> 00:23:38,838
-Ale jeśli zechcesz, możesz to panią poprosić, no?
+237
+00:23:33,978 --> 00:23:39,113
+Ale jeśli zechcesz, możesz tę panią poprosić, no?
 
-240
-00:23:39,138 --> 00:23:42,178
+238
+00:23:39,138 --> 00:23:42,480
 Stregobor, ona drży, ogrzy ją.
 
-241
-00:23:43,178 --> 00:23:43,938
+239
+00:23:43,178 --> 00:23:44,493
 Wyczaruj słońce.
 
-242
-00:23:45,858 --> 00:23:47,338
+240
+00:23:46,631 --> 00:23:48,111
 Co tu robisz?
 
-243
-00:23:49,058 --> 00:23:52,038
+241
+00:23:49,058 --> 00:23:52,753
 Czy nadal trudnisz się zabijaniem ginących gatunków?
 
-244
-00:23:53,418 --> 00:23:54,238
+242
+00:23:53,604 --> 00:23:54,424
 Wiem już.
 
-245
-00:23:55,318 --> 00:23:57,098
+243
+00:23:55,318 --> 00:23:57,412
 Zabiłeś Kikimorę.
 
-246
-00:23:58,448 --> 00:23:59,328
+244
+00:23:58,794 --> 00:23:59,862
 Dlaczego?
 
-247
-00:24:00,908 --> 00:24:03,748
+245
+00:24:00,908 --> 00:24:04,199
 Czyż te potwory nie są lepsze od ludzi,
 
-248
-00:24:05,008 --> 00:24:09,448
+246
+00:24:05,047 --> 00:24:09,585
 którzy wyciągają swe krwałe szpony po nas?
 
-249
-00:24:10,488 --> 00:24:12,208
+247
+00:24:11,107 --> 00:24:12,827
 Nic się nie zmieniłeś.
 
-250
-00:24:13,468 --> 00:24:14,268
+248
+00:24:13,468 --> 00:24:14,623
 Mów normalnie.
 
-251
-00:24:14,708 --> 00:24:15,388
+249
+00:24:14,703 --> 00:24:16,063
 Przecież mówię!
 
-252
-00:24:19,308 --> 00:24:20,348
+250
+00:24:19,754 --> 00:24:20,794
 Dobrze.
 
-253
-00:24:23,970 --> 00:24:25,530
+251
+00:24:24,403 --> 00:24:25,963
 Co cię sprowadza?
 
-254
-00:24:26,450 --> 00:24:27,490
+252
+00:24:26,510 --> 00:24:28,023
 Masz prośbę do mnie?
 
-255
-00:24:28,410 --> 00:24:29,810
+253
+00:24:28,410 --> 00:24:30,170
 Czy wpadłeś przejazdem?
 
-256
-00:24:31,110 --> 00:24:32,630
+254
+00:24:31,110 --> 00:24:32,957
 Przyjechałem ze świątyni Melitele.
 
-257
-00:24:33,430 --> 00:24:34,950
-W oku zaczęło dziać się coś złego.
-
-258
-00:24:35,230 --> 00:24:35,990
+255
+00:24:33,405 --> 00:24:36,345
+Wokół zaczęło dziać się coś złego.
 Zamieszki, napady.
 
-259
+256
 00:24:36,770 --> 00:24:38,070
 Nawet rzezie elfów i innych.
 
-260
-00:24:39,350 --> 00:24:40,870
+257
+00:24:39,350 --> 00:24:42,090
 Świątyni zagrażało niebezpieczeństwo,
-
-261
-00:24:40,950 --> 00:24:41,790
 ale nie wyczuwałem tego.
 
-262
-00:24:42,610 --> 00:24:44,050
+258
+00:24:42,610 --> 00:24:44,277
 Nie wiem, co się stało po moim wyjeździe.
 
-263
-00:24:44,830 --> 00:24:46,710
+259
+00:24:44,830 --> 00:24:47,179
 Masz dawną moc przywracania obrazów?
 
-264
-00:24:47,550 --> 00:24:48,710
+260
+00:24:47,550 --> 00:24:49,279
 Może mam.
 
-265
-00:24:49,830 --> 00:24:50,630
+261
+00:24:50,156 --> 00:24:50,956
 A może nie.
 
-266
-00:24:51,890 --> 00:24:53,430
+262
+00:24:51,890 --> 00:24:54,130
 To zależy od ciebie.
 
-267
-00:24:53,430 --> 00:24:55,310
+263
+00:24:54,497 --> 00:24:56,057
 Dlaczego ode mnie?
 
-268
-00:24:56,250 --> 00:24:57,430
+264
+00:24:56,403 --> 00:24:58,018
 Nie bądź dzieckiem.
 
-269
-00:24:59,072 --> 00:25:03,452
+265
+00:24:59,072 --> 00:25:04,158
 Dlaczego interesują Cię losy ludzi lub elfów?
 
-270
-00:25:05,032 --> 00:25:11,172
+266
+00:25:05,032 --> 00:25:11,578
 Stworzono Cię do walki z potworami, w obronie istot myślących.
 
-271
-00:25:12,692 --> 00:25:16,992
+267
+00:25:12,692 --> 00:25:17,238
 Jesteś maszyną do zabijania. Czy nie mam racji?
 
-272
-00:25:17,452 --> 00:25:20,332
+268
+00:25:17,452 --> 00:25:20,898
 Nie dręcz mnie. Mam swoje powody.
 
-273
-00:25:22,212 --> 00:25:27,772
+269
+00:25:22,212 --> 00:25:28,327
 Dobrze, więc los kilku osób nie jest mi obojętny.
 
-274
-00:25:29,072 --> 00:25:29,120
-KONIEC
-
-275
-00:25:29,120 --> 00:25:32,340
+270
+00:25:29,293 --> 00:25:32,722
 Choć jak wiesz, życie ludzi, ich sprawy, ich konflikty nie interesują mnie.
 
-276
-00:25:33,180 --> 00:25:35,020
+271
+00:25:33,180 --> 00:25:35,489
 Cieszy mnie to nad wyraz.
 
-277
-00:25:36,200 --> 00:25:36,900
+272
+00:25:36,200 --> 00:25:37,157
 Cieszy mnie to.
 
-278
-00:25:37,520 --> 00:25:38,460
+273
+00:25:37,520 --> 00:25:38,897
 Czysta sprzeczność.
 
-279
-00:25:39,520 --> 00:25:41,740
+274
+00:25:39,520 --> 00:25:42,599
 Jeśli nie jesteś obojętny wobec ludzi,
 
-280
+275
 00:25:42,960 --> 00:25:45,280
 to będziesz musiał walczyć.
 
-281
-00:25:46,400 --> 00:25:47,720
+276
+00:25:46,400 --> 00:25:48,212
 Choćby w ich obronie.
 
-282
-00:25:49,140 --> 00:25:49,960
+277
+00:25:49,140 --> 00:25:50,490
 No i zabijać.
 
-283
-00:25:49,960 --> 00:25:53,960
+278
+00:25:50,973 --> 00:25:54,973
 Nie ma jednostronnych emocji, Geralcie.
 
-284
-00:25:58,394 --> 00:26:02,394
+279
+00:25:59,316 --> 00:26:02,394
 A może jesteś fałszywym wilkiem?
 
-285
+280
 00:26:02,394 --> 00:26:04,394
 Nie dręcz mnie.
 
-286
-00:26:04,394 --> 00:26:07,394
+281
+00:26:05,280 --> 00:26:07,879
 I nie kuś mnie w ten sposób, to jest żałosne.
 
-287
-00:26:07,394 --> 00:26:10,394
+282
+00:26:08,235 --> 00:26:10,369
 Nie wyszła ci cała ta iluzja.
 
-288
-00:26:10,394 --> 00:26:12,394
+283
+00:26:11,100 --> 00:26:12,394
 A wiesz dlaczego?
 
-289
-00:26:12,394 --> 00:26:16,394
+284
+00:26:14,213 --> 00:26:16,394
 Bo zbliża się czarne słońce.
 
-290
-00:26:16,394 --> 00:26:19,394
+285
+00:26:17,209 --> 00:26:19,394
 Sam widzisz jego cień.
 
-291
+286
 00:26:19,394 --> 00:26:21,394
 Więc rozmawiajmy normalnie.
 
-292
-00:26:21,394 --> 00:26:23,394
+287
+00:26:21,900 --> 00:26:23,676
 Dobrze.
 
-293
-00:26:30,950 --> 00:26:33,330
+288
+00:26:31,705 --> 00:26:34,085
 Już dwa lata siedzę w tej wieży.
 
-294
+289
 00:26:34,110 --> 00:26:35,010
 Nigdy nie wychodzę.
 
-295
+290
 00:26:35,810 --> 00:26:37,370
 Tak, zgadłeś.
 
-296
-00:26:37,830 --> 00:26:38,650
+291
+00:26:37,830 --> 00:26:39,341
 Ukrywam się.
 
-297
-00:26:42,350 --> 00:26:43,270
+292
+00:26:42,856 --> 00:26:43,776
 Jak to?
 
-298
-00:26:44,624 --> 00:26:46,684
+293
+00:26:44,939 --> 00:26:46,999
 A twoje magiczne zdolności, czary?
 
-299
-00:26:47,024 --> 00:26:50,464
+294
+00:26:47,024 --> 00:26:50,663
 Nie działają. Jest na nie uodporniona.
 
-300
-00:26:50,824 --> 00:26:51,304
+295
+00:26:50,824 --> 00:26:51,855
 Kto taki?
 
-301
+296
 00:26:52,804 --> 00:26:54,304
-Renfri Skraden.
+Renfri z Creyden.
 
-302
+297
 00:26:55,284 --> 00:27:00,164
 Mówią też o niej dzierzba, bo nabija ludzi na kołki, aby wydłużyć ich mękę.
 
-303
-00:27:02,324 --> 00:27:02,928
+298
+00:27:01,490 --> 00:27:02,094
 Ona...
 
-304
-00:27:02,928 --> 00:27:04,968
+299
+00:27:03,214 --> 00:27:05,254
 Odnalazła mnie tutaj.
 
-305
-00:27:06,148 --> 00:27:10,708
+300
+00:27:06,148 --> 00:27:11,068
 Jutro, lub najdalej pojutrze, spróbuje mnie zabić.
 
-306
-00:27:11,688 --> 00:27:14,288
+301
+00:27:11,688 --> 00:27:14,637
 Widziałem w kryształowej kuli czarne słońce.
 
-307
-00:27:15,368 --> 00:27:16,108
+302
+00:27:15,368 --> 00:27:16,588
 Zbliża się.
 
-308
-00:27:20,748 --> 00:27:22,488
+303
+00:27:21,501 --> 00:27:23,241
 Jest w mieście.
 
-309
-00:27:28,314 --> 00:27:30,314
-Renfri...
+304
+00:27:27,397 --> 00:27:30,314
+To ona... Renfri...
 
-310
-00:27:30,314 --> 00:27:32,314
+305
+00:27:30,660 --> 00:27:32,660
 Słyszałem o tej historii.
 
-311
-00:27:34,314 --> 00:27:39,314
+306
+00:27:34,961 --> 00:27:39,961
 Ty nazywasz to przekleństwem czarnego słońca, a ja mówię o manii obłąkanego
-Eltybalda.
+Eltibalda.
 
-312
+307
 00:27:40,314 --> 00:27:43,314
 W imię jego szalonej idei mordowaliście niewinne dziewczęta.
 
-313
+308
 00:27:45,314 --> 00:27:46,314
 Renfri...
 
-314
-00:27:47,152 --> 00:27:50,872
-Jeżeli to ona, to zaistę ma prawo się mścić.
+309
+00:27:47,152 --> 00:27:51,356
+Jeżeli to ona, to zaiste ma prawo się mścić.
 
-315
-00:27:51,772 --> 00:27:52,532
+310
+00:27:52,025 --> 00:27:53,014
 Nieprawda.
 
-316
+311
 00:27:53,532 --> 00:27:55,792
 Wszystkie te dziewczyny urodzone po zaćmieniu
 
-317
-00:27:55,792 --> 00:27:59,812
+312
+00:27:56,152 --> 00:28:00,172
 przejawiały skłonność do okrucieństwa i agresji.
 
-318
-00:28:00,852 --> 00:28:06,392
+313
+00:28:00,731 --> 00:28:07,205
 Zwiastowały powrót Lilit i zagładę rasy ludzkiej.
 
-319
-00:28:07,632 --> 00:28:13,292
-Według napisów na menhirach dałków i płytach nagrobnych woszgorów
+314
+00:28:07,632 --> 00:28:13,600
+Według napisów na menhirach Dauków i płytach nagrobnych Wożgorów...
 
-320
-00:28:13,292 --> 00:28:20,232
-drogę dla Lilit miały utorować przeklęte dziewczyny z rodów panujących,
+315
+00:28:14,441 --> 00:28:20,362
+...drogę dla Lilit miały utorować przeklęte dziewczyny z rodów panujących,
 
-321
-00:28:20,852 --> 00:28:23,732
+316
+00:28:20,911 --> 00:28:24,035
 które sprawią, że rzeki spłyną krwią.
 
-322
-00:28:24,412 --> 00:28:24,932
-Brednia.
+317
+00:28:24,412 --> 00:28:25,288
+Brednie.
 
-323
-00:28:25,692 --> 00:28:26,572
+318
+00:28:25,692 --> 00:28:26,882
 To nie brednie.
 
-324
-00:28:27,432 --> 00:28:29,512
-Byłem wtedy nadwornym magiem w Crejden.
+319
+00:28:27,432 --> 00:28:29,810
+Byłem wtedy nadwornym magiem w Creyden.
 
-325
-00:28:30,252 --> 00:28:33,172
+320
+00:28:30,252 --> 00:28:33,485
 Księżna Aridea przejęła potężny artefakt.
 
-326
-00:28:33,752 --> 00:28:35,212
+321
+00:28:33,632 --> 00:28:35,495
 Zwierciadło Nehaleni.
 
-327
-00:28:36,092 --> 00:28:41,452
+322
+00:28:36,672 --> 00:28:42,032
 Dowiedziała się, że z rąk dziecka z pierwszego małżeństwa Fredefalka,
 
-328
-00:28:42,112 --> 00:28:42,752
-Renfri,
+323
+00:28:42,112 --> 00:28:44,723
+Renfri, grozi zagłada.
 
-329
-00:28:42,752 --> 00:28:44,252
-grozi zagłada.
-
-330
-00:28:44,972 --> 00:28:50,552
+324
+00:28:44,972 --> 00:28:50,786
 Okazało się, że to dziecko było napełnione okrucieństwem od urodzenia.
 
-331
-00:28:51,132 --> 00:28:52,912
+325
+00:28:51,132 --> 00:28:53,385
 Więc doradziłeś, aby pozbyć się Renfri.
 
-332
-00:28:53,812 --> 00:28:54,632
+326
+00:28:54,058 --> 00:28:54,878
 Znam tę historię.
 
-333
-00:28:55,812 --> 00:28:57,172
+327
+00:28:55,812 --> 00:28:57,571
 Miał ją zabić łowczy Aridei.
 
-334
-00:28:58,012 --> 00:28:58,972
+328
+00:28:58,012 --> 00:28:59,107
 Tylko, że ona przeżyła.
 
-335
-00:28:59,132 --> 00:29:00,712
+329
+00:28:59,132 --> 00:29:00,945
 Teraz podąża za to, byłaby się mścić.
 
-336
-00:29:02,064 --> 00:29:03,024
+330
+00:29:02,064 --> 00:29:03,546
 Normalna historia.
 
-337
+331
 00:29:03,684 --> 00:29:04,464
 Skąd wiesz?
 
-338
-00:29:04,884 --> 00:29:07,124
+332
+00:29:04,884 --> 00:29:07,401
 Bo to ona zabiła łowczego, a ja pozostałych oprawców.
 
-339
-00:29:07,684 --> 00:29:08,464
+333
+00:29:07,684 --> 00:29:09,134
 Nie widziałeś tego w kuli?
 
-340
-00:29:11,584 --> 00:29:13,444
-Potem odwiozłem ją do Mahakamu.
+334
+00:29:11,937 --> 00:29:13,797
+Potem odwiozłem ją do Mahakanu.
 
-341
-00:29:14,244 --> 00:29:16,344
+335
+00:29:14,244 --> 00:29:16,698
 Była paskudną dziewuchą, to prawda, ale takich jest wiele.
 
-342
+336
 00:29:17,704 --> 00:29:18,624
 Nie wiedziałem.
 
-343
-00:29:20,884 --> 00:29:21,444
+337
+00:29:20,884 --> 00:29:21,732
 Dobrze.
 
-344
-00:29:23,444 --> 00:29:27,284
+338
+00:29:23,677 --> 00:29:27,517
 Pytałeś, czy mam dar odtwarzania obrazów.
 
-345
-00:29:28,640 --> 00:29:33,640
+339
+00:29:29,100 --> 00:29:33,667
 Pamiętaj, te obrazy są gdzieś w tobie.
 
-346
-00:29:35,640 --> 00:29:36,640
+340
+00:29:35,499 --> 00:29:36,959
 Skup się.
 
-347
-00:29:42,640 --> 00:29:45,640
-Arydea cię wysłała, chcesz mnie zabić!
+341
+00:29:43,001 --> 00:29:45,640
+Aridea cię wysłała, chcesz mnie zabić!
 
-348
+342
 00:29:45,640 --> 00:29:49,640
 Jestem księżniczką Renfri, a ty zdrajcą, który zabił ludzi.
 
-349
-00:29:56,474 --> 00:29:57,834
+343
+00:29:57,009 --> 00:29:58,369
 Co tam się stało?
 
-350
-00:29:58,394 --> 00:29:58,714
+344
+00:29:58,394 --> 00:29:59,128
 Nie wiem.
 
-351
-00:30:00,534 --> 00:30:01,534
+345
+00:30:00,534 --> 00:30:01,867
 Coś się dzieje.
 
-352
-00:30:02,314 --> 00:30:04,334
+346
+00:30:02,593 --> 00:30:04,613
 Nic nie mogę zobaczyć.
 
-353
+347
 00:30:08,334 --> 00:30:09,094
-Gieraż.
+Geralt.
 
-354
-00:30:09,774 --> 00:30:11,294
+348
+00:30:10,173 --> 00:30:11,693
 Ona tu jest.
 
-355
+349
 00:30:13,134 --> 00:30:15,474
 Ma silny artefakt albo...
 
-356
-00:30:15,474 --> 00:30:16,014
-aurę.
+350
+00:30:15,474 --> 00:30:16,441
+...aurę.
 
-357
-00:30:18,774 --> 00:30:19,574
+351
+00:30:17,687 --> 00:30:18,487
 Albo...
 
-358
-00:30:19,574 --> 00:30:20,534
+352
+00:30:19,880 --> 00:30:20,948
 Pomóż mi.
 
-359
-00:30:21,776 --> 00:30:23,416
+353
+00:30:22,322 --> 00:30:23,962
 Nic nie widzę.
 
-360
-00:30:24,176 --> 00:30:26,176
+354
+00:30:24,153 --> 00:30:26,451
 Chcesz mnie pooszczuć, mącisz.
 
-361
+355
 00:30:26,476 --> 00:30:27,576
 Głupsze, powiedz wprost!
 
-362
-00:30:27,696 --> 00:30:28,356
+356
+00:30:27,696 --> 00:30:29,033
 Tu chodzi o życie!
 
-363
-00:30:29,176 --> 00:30:30,556
+357
+00:30:29,349 --> 00:30:30,729
 Ale o moje życie też!
 
-364
-00:30:31,676 --> 00:30:33,656
+358
+00:30:31,676 --> 00:30:33,823
 Błagam cię, pomóż mi.
 
-365
-00:30:34,496 --> 00:30:35,836
+359
+00:30:34,522 --> 00:30:36,096
 Zrobię co tylko zechcesz.
 
-366
-00:30:37,556 --> 00:30:39,236
+360
+00:30:37,556 --> 00:30:39,684
 Moje myśli są zmącone.
 
-367
+361
 00:30:41,216 --> 00:30:41,816
 Czekaj.
 
-368
-00:30:42,956 --> 00:30:45,076
+362
+00:30:43,015 --> 00:30:45,580
 Czy ktoś z tej sprawy coś łączy?
 
-369
-00:30:46,736 --> 00:30:48,336
+363
+00:30:46,736 --> 00:30:48,683
 Renfri i Ciri.
 
-370
-00:30:50,336 --> 00:30:50,776
+364
+00:30:49,749 --> 00:30:50,350
 Ale...
 
-371
-00:30:50,784 --> 00:30:52,904
+365
+00:30:50,977 --> 00:30:53,411
 Co? Nie wiem.
 
-372
-00:30:54,964 --> 00:30:56,324
+366
+00:30:54,964 --> 00:30:56,778
 Renfri jest w mieście.
 
-373
-00:30:58,204 --> 00:31:02,344
+367
+00:30:58,204 --> 00:31:02,539
 Może myliłem się co do innych, ale ona jest potworem. Zabij ją!
 
-374
-00:31:02,564 --> 00:31:03,964
+368
+00:31:02,570 --> 00:31:04,381
 Powiedz coś więcej. Co je łączy?
 
-375
-00:31:07,964 --> 00:31:11,504
-Przyjdź, Lutrora, no. Będę wiedzieć coś więcej.
+369
+00:31:07,964 --> 00:31:11,952
+Przyjdź jutro rano. Będę wiedzieć coś więcej.
 
-376
-00:31:12,424 --> 00:31:14,604
-Rozumiem. To jest twoja cena. Chcesz dobić Targo.
+370
+00:31:12,424 --> 00:31:14,987
+Rozumiem. To jest twoja cena. Chcesz dobić targu.
 
-377
-00:31:15,184 --> 00:31:17,804
+371
+00:31:15,184 --> 00:31:17,959
 Ja nie jestem płatnym mordercą. Ja nie zabijam ludzi. Ja ich bronię.
 
-378
-00:31:17,984 --> 00:31:18,704
+372
+00:31:17,984 --> 00:31:19,431
 To mnie broń!
 
-379
-00:31:20,400 --> 00:31:27,400
+373
+00:31:20,820 --> 00:31:27,820
 Dobrze. Jeżeli Renfri cię zaatakuje, stanę w twojej obronie, ale tylko wtedy.
 Powiesz mi teraz.
 
-380
-00:31:30,400 --> 00:31:32,400
+374
+00:31:30,552 --> 00:31:32,817
 Przyjdź o świt.
 
-381
-00:31:37,400 --> 00:31:39,400
-Zampol, gdzie idziesz?
+375
+00:31:37,760 --> 00:31:39,760
+Rzępol gdzie indziej!
 
-382
-00:31:47,354 --> 00:31:49,354
-Jażem pole!
+376
+00:31:48,241 --> 00:31:50,241
+Ja rzępolę?!
 
-383
-00:31:54,010 --> 00:31:56,010
-Ja żyję w pole.
+377
+00:31:54,816 --> 00:31:56,816
+Ja rzępolę.
 
-384
-00:32:01,082 --> 00:32:05,082
+378
+00:32:01,907 --> 00:32:05,082
 A, to ty! Mój najlepszy druh!
 
-385
-00:32:05,082 --> 00:32:08,082
-Gdzie byłeś, kiedy schańbiono poety?
+379
+00:32:06,011 --> 00:32:08,776
+Gdzie byłeś, kiedy zhańbiono poetę?
 
-386
-00:32:08,082 --> 00:32:10,082
+380
+00:32:08,801 --> 00:32:10,082
 Wiesz, co to znaczy?
 
-387
-00:32:10,082 --> 00:32:12,082
-Schańbiono poezji.
+381
+00:32:10,862 --> 00:32:12,752
+Zhańbiono poezję.
 
-388
-00:32:12,082 --> 00:32:14,082
+382
+00:32:13,086 --> 00:32:14,767
 Wiem, idziesz na kwaterę, za dużo wypiłeś.
 
-389
-00:32:14,082 --> 00:32:18,082
+383
+00:32:14,792 --> 00:32:18,638
 Geralt, poczekaj! Nie chodź tam, to pewna śmierć.
 
-390
-00:32:18,082 --> 00:32:20,082
+384
+00:32:18,845 --> 00:32:20,643
 Oni mogą zabić każdego, bez powodu.
 
-391
-00:32:20,082 --> 00:32:23,082
-Jaskier, ja tam muszę wejść i to bez ciebie nie przeszkadza nic.
+385
+00:32:20,668 --> 00:32:23,082
+Jaskier, ja tam muszę wejść i to bez ciebie nie przeszkadzaj mnie.
 
-392
-00:32:23,082 --> 00:32:24,082
+386
+00:32:23,529 --> 00:32:24,529
 Idę z tobą.
 
-393
-00:32:24,082 --> 00:32:25,082
+387
+00:32:24,554 --> 00:32:25,057
 Jaskier.
 
-394
-00:32:25,082 --> 00:32:26,082
+388
+00:32:25,607 --> 00:32:25,973
 Jaskier!
 
-395
-00:32:26,082 --> 00:32:27,082
+389
+00:32:25,998 --> 00:32:26,666
+- Jaskier!
+- Idę.
+
+390
+00:32:26,691 --> 00:32:27,691
 Jaskier!
 
-396
-00:32:27,082 --> 00:32:28,082
-Jaskier!
+391
+00:32:48,023 --> 00:32:50,023
+Śpij poeto.
 
-397
-00:32:47,290 --> 00:32:49,290
-Śpij pojadę.
-
-398
-00:33:03,418 --> 00:33:04,818
+392
+00:33:04,087 --> 00:33:04,993
 Co to za ludzie?
 
-399
-00:33:05,018 --> 00:33:07,158
-Sześciu zbrojnych na służbie wzięcia. Pozwólcie.
+393
+00:33:05,018 --> 00:33:07,627
+Sześciu zbrojnych na służbie księcia. Pozwólcie.
 
-400
-00:33:20,026 --> 00:33:23,026
-Gorzawa się skończyła, śmierdziele!
+394
+00:33:20,839 --> 00:33:23,839
+Gorzała się skończyła, śmierdziele!
 
-401
-00:33:27,026 --> 00:33:30,026
+395
+00:33:27,512 --> 00:33:30,512
 Panie, zostawcie ją! Przecież macie wino!
 
-402
-00:33:38,146 --> 00:33:39,146
+396
+00:33:38,326 --> 00:33:39,326
 Zabawmy się.
 
-403
-00:33:40,146 --> 00:33:41,146
+397
+00:33:40,779 --> 00:33:41,779
 Mało jednej.
 
-404
-00:33:42,146 --> 00:33:43,146
+398
+00:33:42,372 --> 00:33:43,372
 Starczy.
 
-405
-00:33:43,146 --> 00:33:44,146
+399
+00:33:43,397 --> 00:33:44,146
 Spokój.
 
-406
-00:33:44,146 --> 00:33:45,146
-Zaraz wróci Renkli.
+400
+00:33:44,539 --> 00:33:45,539
+Zaraz wróci Renfri.
 
-407
-00:33:45,146 --> 00:33:47,146
+401
+00:33:45,899 --> 00:33:47,899
 Dążymy.
 
-408
-00:34:01,146 --> 00:34:03,146
+402
+00:34:01,432 --> 00:34:03,432
 Pani, ratuj.
 
-409
-00:34:06,960 --> 00:34:10,040
+403
+00:34:08,875 --> 00:34:11,269
 Co to za odmieniec?
 
-410
-00:34:11,980 --> 00:34:13,240
-Biał ma polu!
+404
+00:34:12,054 --> 00:34:13,480
+Biały małpolud!
 
-411
-00:34:14,220 --> 00:34:15,580
-Wpuszczaj ją i wynocha!
+405
+00:34:14,220 --> 00:34:16,272
+Puszczaj ją i wynocha!
 
-412
-00:34:19,340 --> 00:34:20,840
+406
+00:34:19,932 --> 00:34:21,432
 Czekam na Renfri.
 
-413
-00:34:22,440 --> 00:34:24,720
+407
+00:34:22,993 --> 00:34:25,273
 Mówiłam, żeby z nim nie próbować.
 
-414
-00:34:25,760 --> 00:34:26,740
+408
+00:34:25,760 --> 00:34:27,086
 Nawet nie zaczęliśmy.
 
-415
-00:34:32,946 --> 00:34:35,066
+409
+00:34:33,226 --> 00:34:35,346
 Dlatego to wasz szczęśliwy dzień.
 
-416
-00:34:36,566 --> 00:34:37,666
+410
+00:34:36,566 --> 00:34:38,399
 Chcę tu zostać sama.
 
-417
-00:34:50,786 --> 00:34:52,406
+411
+00:34:51,198 --> 00:34:52,818
 Skąd wiedziałeś, że tu jestem?
 
-418
-00:34:52,946 --> 00:34:53,786
+412
+00:34:52,946 --> 00:34:54,098
 Śmieszne pytanie.
 
-419
-00:34:55,946 --> 00:34:59,246
+413
+00:34:55,946 --> 00:34:59,345
 Natomiast poważne pytanie to skąd ty wiedziałeś, że ja tu jestem?
 
-420
-00:35:01,926 --> 00:35:02,766
+414
+00:35:02,252 --> 00:35:03,092
 Od nich.
 
-421
-00:35:03,806 --> 00:35:04,746
+415
+00:35:03,806 --> 00:35:05,125
 Tyle lat upłynęło.
 
-422
-00:35:06,166 --> 00:35:09,006
+416
+00:35:06,178 --> 00:35:09,364
 Poznałam cię od razu. Jesteś wprawdzie starszy i zmęczony.
 
-423
-00:35:09,706 --> 00:35:10,466
+417
+00:35:09,706 --> 00:35:11,017
 Trochę blizn.
 
-424
-00:35:11,786 --> 00:35:14,506
+418
+00:35:12,172 --> 00:35:14,892
 A ty? Poznałeś mnie?
 
-425
-00:35:15,246 --> 00:35:16,806
+419
+00:35:15,246 --> 00:35:17,213
 Nie. Nie poznałbym cię.
 
-426
-00:35:18,112 --> 00:35:19,512
+420
+00:35:18,345 --> 00:35:19,745
 Byłaś kiedyś taka mała.
 
-427
-00:35:21,332 --> 00:35:22,532
+421
+00:35:21,332 --> 00:35:22,894
 Teraz mówią o tobie dzierżba.
 
-428
-00:35:25,972 --> 00:35:27,332
+422
+00:35:26,318 --> 00:35:27,678
 Nigdy tak nie mów.
 
-429
-00:35:28,972 --> 00:35:30,092
+423
+00:35:29,332 --> 00:35:30,452
 Ale do rzeczy.
 
-430
-00:35:31,432 --> 00:35:32,192
-Byłeś umaga.
+424
+00:35:31,432 --> 00:35:32,711
+Byłeś u maga.
 
-431
-00:35:33,852 --> 00:35:34,992
+425
+00:35:34,051 --> 00:35:35,191
 Nie mieszaj się w to.
 
-432
-00:35:36,480 --> 00:35:41,480
-Przyjechałam Bostrego Bora z rozkazu księcia i wezmę go żywego lub martwego.
+426
+00:35:36,838 --> 00:35:41,805
+Przyjechałam po Stregobora z rozkazu księcia i wezmę go żywego lub martwego.
 
-433
-00:35:41,480 --> 00:35:45,480
-Ejsze. Na pewno z rozkazu księcia?
+427
+00:35:41,992 --> 00:35:45,480
+Ejże. Na pewno z rozkazu księcia?
 
-434
+428
 00:35:45,480 --> 00:35:49,480
 Słyszałem o waszych prywatnych porachunkach, ale to nie jest moja sprawa.
 
-435
-00:35:49,480 --> 00:35:54,480
+429
+00:35:50,219 --> 00:35:54,764
 Zostaw go w spokoju. Jest mi potrzebny i temu miastu też.
 
-436
-00:35:58,480 --> 00:36:00,480
+430
+00:35:58,720 --> 00:36:00,720
 Nie ma już prywatnych spraw.
 
-437
-00:36:01,756 --> 00:36:02,756
+431
+00:36:01,756 --> 00:36:03,228
 Szczególnie teraz.
 
-438
-00:36:03,576 --> 00:36:05,576
+432
+00:36:03,576 --> 00:36:05,912
 Trzymaj się z dala od nas i od tego, co robimy.
 
-439
-00:36:06,516 --> 00:36:07,876
+433
+00:36:06,516 --> 00:36:10,006
 Jesteśmy specjalnym oddziałem
-
-440
-00:36:07,876 --> 00:36:09,736
 i reprezentujemy sprawy tego księstwa.
 
-441
-00:36:10,736 --> 00:36:11,596
+434
+00:36:10,736 --> 00:36:12,483
 Nie chcę się spierać.
-
-442
-00:36:11,636 --> 00:36:12,156
 Zaniechaj go.
 
-443
+435
 00:36:13,076 --> 00:36:13,836
 On się zmienił.
 
-444
+436
 00:36:14,536 --> 00:36:15,856
 To stary, przerażony człowiek.
 
-445
-00:36:15,996 --> 00:36:17,016
+437
+00:36:15,996 --> 00:36:17,127
 Nie nasycisz swojej zemsty.
 
-446
-00:36:17,276 --> 00:36:18,756
+438
+00:36:17,276 --> 00:36:18,840
 Czy ty wiesz, co on mi zrobił?
 
-447
-00:36:19,576 --> 00:36:20,896
+439
+00:36:19,576 --> 00:36:21,352
 Mnie, królewskiej córce.
 
-448
-00:36:21,896 --> 00:36:23,396
+440
+00:36:21,896 --> 00:36:24,547
 Z jego jednej głupiej przepowiedni
-
-449
-00:36:23,396 --> 00:36:24,516
 rozlało się morze krwi.
 
-450
+441
 00:36:25,036 --> 00:36:27,096
 Zamiast mnie zabić, nazwano bękartem.
 
-451
-00:36:27,596 --> 00:36:29,716
+442
+00:36:27,596 --> 00:36:29,966
 Sprzedawano, gwałcono, bito, więziono.
 
-452
-00:36:29,716 --> 00:36:31,636
+443
+00:36:30,449 --> 00:36:31,911
 Czy mogę o tym zapomnieć?
 
-453
-00:36:31,936 --> 00:36:32,976
+444
+00:36:31,936 --> 00:36:33,726
 I o tym, kim teraz jestem?
 
-454
-00:36:33,956 --> 00:36:35,576
+445
+00:36:33,956 --> 00:36:35,916
 No, odpowiedz mi.
 
-455
-00:36:40,194 --> 00:36:41,754
+446
+00:36:40,194 --> 00:36:42,132
 Został go w spokoju, proszę cię.
 
-456
-00:36:42,414 --> 00:36:44,014
+447
+00:36:42,157 --> 00:36:44,256
 Uratowałeś mi życie, ja to pamiętam.
 
-457
-00:36:44,854 --> 00:36:48,154
+448
+00:36:45,140 --> 00:36:48,440
 Ale życie nic nie jest warte, więc nie mam wdzięczności.
 
-458
-00:36:48,734 --> 00:36:50,634
-Nie zagieraj sprawę, mówię ostatni raz!
+449
+00:36:48,681 --> 00:36:51,021
+Nie zadzieraj sprawę, mówię ostatni raz!
 
-459
-00:36:51,154 --> 00:36:52,234
+450
+00:36:51,154 --> 00:36:52,389
 Widziałem twoje prawo.
 
-460
-00:36:52,794 --> 00:36:54,334
+451
+00:36:52,786 --> 00:36:54,571
 Tylko ty tak umiesz wbijać ludzi na kołki.
 
-461
-00:36:54,914 --> 00:36:55,794
+452
+00:36:54,914 --> 00:36:56,519
 A co cię to obchodzi?
 
-462
-00:36:57,494 --> 00:36:58,434
+453
+00:36:57,494 --> 00:36:58,890
 Elfy nie są ludźmi.
 
-463
-00:36:59,434 --> 00:37:01,654
+454
+00:36:59,434 --> 00:37:02,022
 Geralt, ty się nie mieszaj do spraw, których nie rozumiesz.
 
-464
-00:37:02,314 --> 00:37:05,994
+455
+00:37:02,314 --> 00:37:06,420
 Tu chodzi o czystość krwi i rasy, o nowy ład i porządek.
 
-465
-00:37:05,994 --> 00:37:09,634
-Nie ludzie są chwastami, a chwasty trzeba plenić.
+456
+00:37:06,447 --> 00:37:10,087
+Nieludzie są chwastami, a chwasty trzeba plenić.
 
-466
-00:37:10,874 --> 00:37:13,494
+457
+00:37:11,166 --> 00:37:13,786
 Lepiej wracaj do swoich potworów, tam jest twoje miejsce.
 
-467
-00:37:14,074 --> 00:37:16,234
+458
+00:37:14,074 --> 00:37:16,620
 Kiedy patrzę na ciebie, wydaje mi się, że są różne potwory.
 
-468
-00:37:17,534 --> 00:37:20,734
+459
+00:37:17,874 --> 00:37:21,074
 Ja nie jestem potworem, a ty nie jesteś człowiekiem.
 
-469
-00:37:21,534 --> 00:37:22,254
+460
+00:37:21,534 --> 00:37:22,351
 Uważaj więc.
 
-470
+461
 00:37:22,634 --> 00:37:24,034
 Teraz ja ciebie ostrzegam.
 
-471
-00:37:25,114 --> 00:37:27,154
+462
+00:37:25,114 --> 00:37:27,610
 Nie będę patrzył spokojnie na twoje nikczemności.
 
-472
-00:37:43,322 --> 00:37:46,022
+463
+00:37:44,137 --> 00:37:46,837
 Ja też Cię nie lubię. Żartowałem tylko.
 
-473
-00:37:46,862 --> 00:37:47,982
+464
+00:37:46,862 --> 00:37:48,600
 Ale ja nie żartuję.
 
-474
-00:37:49,182 --> 00:37:50,502
+465
+00:37:49,182 --> 00:37:51,266
 Wyciągaj żelazo z jaszczura.
 
-475
-00:37:51,742 --> 00:37:52,642
+466
+00:37:51,742 --> 00:37:52,868
 Może słyszałeś o mnie.
 
-476
-00:37:53,482 --> 00:37:55,882
-Jestem Iwomirce, mistrz miecza.
+467
+00:37:53,482 --> 00:37:56,414
+Jestem Ivomirce, mistrz miecza.
 
-477
-00:37:56,762 --> 00:37:58,622
-Złomię też cykadą.
+468
+00:37:56,762 --> 00:37:58,922
+Złomię też "Cykadą".
 
-478
-00:37:59,822 --> 00:38:02,362
+469
+00:37:59,822 --> 00:38:02,624
 Zawsze Cię chciałem sprawdzić, Wiedźminie.
 
-479
-00:38:03,482 --> 00:38:05,802
+470
+00:38:03,482 --> 00:38:06,208
 Ile jest prawdy w tych bajkach o Tobie.
 
-480
-00:38:06,822 --> 00:38:07,042
+471
+00:38:06,822 --> 00:38:07,445
 No!
 
-481
-00:38:07,942 --> 00:38:08,422
+472
+00:38:07,942 --> 00:38:08,525
 Stawaj.
 
-482
-00:38:09,742 --> 00:38:10,222
+473
+00:38:09,742 --> 00:38:10,451
 Zjeżdżaj.
 
-483
-00:38:10,222 --> 00:38:12,622
+474
+00:38:11,171 --> 00:38:13,297
 Nie biję się z byle szmaciarzem.
 
-484
-00:38:13,322 --> 00:38:14,462
+475
+00:38:13,322 --> 00:38:14,785
 Tak myślałem, tchórzu.
 
-485
+476
 00:38:15,392 --> 00:38:17,392
 Mam ci napluć w gębę.
 
-486
-00:38:18,392 --> 00:38:19,392
+477
+00:38:18,245 --> 00:38:19,097
 Pluj.
 
-487
-00:38:30,392 --> 00:38:32,392
-Dziś z śmieca!
+478
+00:38:30,665 --> 00:38:32,665
+Mistrz miecza!
 
-488
-00:38:38,778 --> 00:38:40,778
-Nie jest już wieczorem.
+479
+00:38:39,577 --> 00:38:41,577
+Mistrz miecza...
 
-489
-00:39:22,010 --> 00:39:24,010
+480
+00:39:22,796 --> 00:39:24,430
 Początek całkiem niezły.
 
-490
-00:39:24,010 --> 00:39:26,010
+481
+00:39:24,623 --> 00:39:26,779
 Zawsze tak zdobywasz kobiety?
 
-491
-00:39:26,010 --> 00:39:28,010
+482
+00:39:26,804 --> 00:39:27,985
 To ty.
 
-492
-00:39:28,010 --> 00:39:30,010
+483
+00:39:28,545 --> 00:39:29,852
 To ja.
 
-493
-00:39:30,010 --> 00:39:32,010
+484
+00:39:29,877 --> 00:39:32,838
 Jeśli nie chcesz wykorzystać tej sytuacji, to zejdź ze mnie.
 
-494
-00:39:34,010 --> 00:39:36,010
+485
+00:39:33,763 --> 00:39:35,763
 Poczekaj chwilkę, kotku.
 
-495
-00:39:36,010 --> 00:39:38,010
+486
+00:39:36,010 --> 00:39:38,931
 Najpierw sprawdzę, z czym przyszłaś.
 
-496
-00:39:44,010 --> 00:39:46,010
+487
+00:39:44,643 --> 00:39:47,227
 Bardzo dokładnie jesteście wy wiedźmini.
 
-497
-00:39:48,010 --> 00:39:50,010
+488
+00:39:49,076 --> 00:39:51,076
 Łaskoczesz mnie.
 
-498
-00:39:52,010 --> 00:39:52,358
-Poczekaj.
-
-499
-00:39:53,018 --> 00:39:57,018
+489
+00:39:54,397 --> 00:39:57,751
 Twoi ludzie dzisiaj chcieli mnie zabić, muszę być dokładny.
 
-500
-00:39:58,018 --> 00:40:02,018
+490
+00:39:58,138 --> 00:40:02,138
 Zapal kaganek. Nie widzę jak ty w nocy.
 
-501
-00:40:03,018 --> 00:40:08,018
+491
+00:40:03,404 --> 00:40:08,404
 Nic nie wiedziałam o planach Cykady, ale przepraszam za niego.
 
-502
-00:40:13,018 --> 00:40:16,018
+492
+00:40:13,478 --> 00:40:16,478
 Teraz też nie mam złych zamiarów.
 
-503
-00:40:17,018 --> 00:40:19,018
+493
+00:40:17,327 --> 00:40:18,993
 Po co przyszłaś?
 
-504
-00:40:19,018 --> 00:40:20,800
+494
+00:40:19,300 --> 00:40:20,800
 Nie wiem.
 
-505
-00:40:20,800 --> 00:40:21,800
-Chyba
+495
+00:40:21,066 --> 00:40:25,379
+Chyba zabolało, że nazwałeś mnie potworem.
 
-506
-00:40:22,120 --> 00:40:25,320
-zabolało, że nazwałeś mnie potworem.
+496
+00:40:26,859 --> 00:40:30,468
+A może chciałam ci udowodnić...
 
-507
-00:40:26,640 --> 00:40:27,640
-A może
+497
+00:40:30,492 --> 00:40:33,800
+...że jestem normalną kobietą?
 
-508
-00:40:28,240 --> 00:40:31,560
-chciałam ci udowodnić, że jestem
-
-509
-00:40:32,320 --> 00:40:33,800
-normalną kobietą?
-
-510
-00:40:34,880 --> 00:40:35,880
+498
+00:40:34,940 --> 00:40:35,940
 Nie wiem.
 
-511
-00:40:39,530 --> 00:40:41,070
+499
+00:40:39,530 --> 00:40:41,417
 Jesteśmy tak do siebie podobni.
 
-512
-00:40:41,610 --> 00:40:42,130
+500
+00:40:41,610 --> 00:40:42,397
 Jak to?
 
-513
-00:40:42,850 --> 00:40:44,690
+501
+00:40:42,850 --> 00:40:45,037
 Bo życie zepchnęło nas na margines.
 
-514
-00:40:45,270 --> 00:40:46,350
+502
+00:40:45,270 --> 00:40:46,711
 Nie dano nam szans.
 
-515
-00:40:46,890 --> 00:40:48,010
+503
+00:40:46,890 --> 00:40:48,257
 Zabijamy z konieczności.
 
-516
-00:40:48,970 --> 00:40:51,050
+504
+00:40:48,970 --> 00:40:51,643
 Ja bym musiałam jakoś przeżyć, a ty, bo tak ci kazano.
 
-517
-00:40:51,950 --> 00:40:54,130
+505
+00:40:51,950 --> 00:40:54,527
 Ja zabijam, żeby uniknąć cierpienia i krzywdy.
 
-518
-00:40:55,170 --> 00:40:56,890
+506
+00:40:55,170 --> 00:40:57,504
 A ty się pławisz w okrucieństwie.
 
-519
-00:40:57,870 --> 00:40:59,070
+507
+00:40:57,870 --> 00:40:59,649
 Nie jesteśmy do siebie podobni.
 
-520
-00:41:00,050 --> 00:41:00,770
+508
+00:41:00,050 --> 00:41:01,482
 Po co przyszłaś?
 
-521
-00:41:02,050 --> 00:41:03,890
+509
+00:41:02,229 --> 00:41:04,312
 Jakiś ty niedomyślny wiedźminie.
 
-522
-00:41:07,290 --> 00:41:10,290
+510
+00:41:08,234 --> 00:41:10,290
 Chcę uniknąć walki między nami.
 
-523
-00:41:10,290 --> 00:41:12,290
+511
+00:41:11,023 --> 00:41:12,290
 To po co nam ta rozmowa?
 
-524
-00:41:12,290 --> 00:41:14,290
+512
+00:41:12,536 --> 00:41:14,290
 Zaniechaj Stregobora.
 
-525
+513
 00:41:14,290 --> 00:41:17,290
 Wyrzeknij się zemsty, wtedy mnie przekonasz.
 
-526
-00:41:17,290 --> 00:41:20,290
+514
+00:41:17,623 --> 00:41:19,960
 Poza tym, cały Blaviken będzie przeciwko tobie.
 
-527
-00:41:20,290 --> 00:41:22,290
+515
+00:41:19,985 --> 00:41:21,985
 Żartujesz, Geralt?
 
-528
-00:41:22,290 --> 00:41:24,290
+516
+00:41:22,767 --> 00:41:24,290
 Widziałeś moich ludzi?
 
-529
-00:41:24,290 --> 00:41:28,290
+517
+00:41:24,808 --> 00:41:28,265
 A czy ty wyobrażasz sobie Renfri, że ja będę stał i patrzył spokojnie?
 
-530
-00:41:28,290 --> 00:41:30,290
+518
+00:41:28,859 --> 00:41:30,290
 Racja.
 
-531
-00:41:30,290 --> 00:41:32,290
+519
+00:41:30,569 --> 00:41:32,569
 Nie będziesz.
 
-532
-00:41:33,290 --> 00:41:36,290
+520
+00:41:33,603 --> 00:41:35,357
 Więc zabij czarodzieja.
 
-533
-00:41:36,320 --> 00:41:38,740
+521
+00:41:36,799 --> 00:41:39,219
 Stregobor to maniak i okrutnik.
 
-534
-00:41:39,780 --> 00:41:41,540
+522
+00:41:39,752 --> 00:41:41,824
 Zamęczył na śmierć wiele dziewcząt.
 
-535
-00:41:43,560 --> 00:41:45,700
+523
+00:41:44,273 --> 00:41:48,820
 Wtedy, kiedy uratowałeś mnie,
-
-536
-00:41:46,720 --> 00:41:48,820
 łowczy wykonywał rozkaz mojej macochy.
 
-537
-00:41:50,080 --> 00:41:51,640
+524
+00:41:50,080 --> 00:41:51,937
 Ale doradził jej Stregobor.
 
-538
-00:41:53,960 --> 00:41:54,680
+525
+00:41:53,960 --> 00:41:55,355
 Wiedziałeś o tym?
 
-539
-00:41:56,576 --> 00:42:00,656
+526
+00:41:57,343 --> 00:42:01,423
 A potem szczuli mnie jak dzikie zwierzę.
 
-540
-00:42:01,656 --> 00:42:03,836
+527
+00:42:01,656 --> 00:42:04,211
 Siedziałam w lochach śmierdzących uryną.
 
-541
-00:42:04,236 --> 00:42:06,376
+528
+00:42:04,236 --> 00:42:06,831
 Oddawałam się za miskę grochu, żeby przeżyć.
 
-542
-00:42:06,856 --> 00:42:07,616
+529
+00:42:06,856 --> 00:42:08,062
 I uciekałam.
 
-543
-00:42:09,256 --> 00:42:10,496
+530
+00:42:09,436 --> 00:42:10,676
 Jak mogę zapomnieć?
 
-544
-00:42:12,136 --> 00:42:13,276
+531
+00:42:12,136 --> 00:42:13,701
 Przecież zabijasz potwory.
 
-545
-00:42:14,336 --> 00:42:16,056
-Czystrego bur nie jest potworem.
+532
+00:42:14,336 --> 00:42:16,450
+Czy Stregobor nie jest potworem.
 
-546
-00:42:18,362 --> 00:42:23,362
+533
+00:42:19,232 --> 00:42:23,362
 Zrozum, nie jestem najemnym zbirem.
 
-547
-00:42:23,362 --> 00:42:27,362
+534
+00:42:23,782 --> 00:42:27,362
 Czy nie wydaje ci się, że proponuję mniejsze zło?
 
-548
-00:42:27,362 --> 00:42:29,362
+535
+00:42:27,649 --> 00:42:29,362
 Najlepsze rozwiązanie.
 
-549
-00:42:29,362 --> 00:42:33,362
-Mieszkańcom nic się nie stanie, Astryk Obor.
+536
+00:42:30,406 --> 00:42:33,362
+Mieszkańcom nic się nie stanie, a Stregobor.
 
-550
-00:42:33,362 --> 00:42:36,362
+537
+00:42:34,292 --> 00:42:36,362
 Możesz go zabić miłosiernie.
 
-551
-00:42:36,362 --> 00:42:39,362
+538
+00:42:36,927 --> 00:42:39,362
 Jednym pchnięciem, z nienacka.
 
-552
-00:42:39,362 --> 00:42:42,362
+539
+00:42:40,115 --> 00:42:42,362
 Umrze, nie wiedząc, że umiera.
 
-553
-00:42:42,362 --> 00:42:45,362
+540
+00:42:42,517 --> 00:42:45,362
 A ja mu tego nie gwarantuję.
 
-554
-00:42:45,362 --> 00:42:47,362
+541
+00:42:46,074 --> 00:42:48,074
 Wręcz przeciwnie.
 
-555
-00:42:48,362 --> 00:42:48,806
-Dzięki.
-
-556
-00:42:49,690 --> 00:42:54,010
+542
+00:42:50,668 --> 00:42:54,393
 Nie ma mniejszego zła, Renfri. Zło jest złem i takie zostanie.
 
-557
-00:42:55,410 --> 00:42:56,970
+543
+00:42:55,410 --> 00:42:57,202
 Nie zabiję Stregobora i ty też nie.
 
-558
-00:42:58,010 --> 00:42:58,990
+544
+00:42:58,010 --> 00:42:59,465
 Nie dopuszczę do rzezi.
 
-559
-00:43:00,370 --> 00:43:01,090
+545
+00:43:00,283 --> 00:43:01,679
 Zaniechaj go.
 
-560
-00:43:02,290 --> 00:43:05,590
+546
+00:43:02,290 --> 00:43:06,161
 Wtedy udowodnisz sobie samej, że potrafisz przerwać to pasmo losu.
 
-561
-00:43:06,450 --> 00:43:07,450
+547
+00:43:06,450 --> 00:43:08,255
 Że stać ci na wybaczenie.
 
-562
-00:43:08,890 --> 00:43:09,910
+548
+00:43:08,890 --> 00:43:11,031
 Będziesz kimś innym.
 
-563
-00:43:14,910 --> 00:43:16,670
+549
+00:43:15,363 --> 00:43:17,123
 A jeśli nawet tak zrobię?
 
-564
-00:43:18,112 --> 00:43:20,112
+550
+00:43:18,432 --> 00:43:20,432
 To co wtedy?
 
-565
-00:43:21,112 --> 00:43:23,112
+551
+00:43:21,364 --> 00:43:23,364
 Wiesz co się stanie?
 
-566
-00:43:24,112 --> 00:43:26,112
+552
+00:43:24,591 --> 00:43:26,591
 Dopadną mnie wrogowie
 
-567
-00:43:27,112 --> 00:43:29,112
+553
+00:43:27,459 --> 00:43:29,459
 i przyjaciele.
 
-568
-00:43:30,112 --> 00:43:32,112
+554
+00:43:30,231 --> 00:43:32,231
 Prawo Wilczego Stada.
 
-569
-00:43:33,112 --> 00:43:35,112
+555
+00:43:33,605 --> 00:43:35,605
 Ochronisz mnie wtedy?
 
-570
-00:43:41,890 --> 00:43:42,890
+556
+00:43:41,890 --> 00:43:43,403
 Masz tu coś do picia?
 
-571
-00:43:45,890 --> 00:43:46,890
+557
+00:43:46,010 --> 00:43:47,010
 Nie.
 
-572
-00:43:47,890 --> 00:43:48,890
+558
+00:43:47,890 --> 00:43:49,216
 Ale ja mam.
 
-573
+559
 00:43:56,610 --> 00:43:57,610
 Napij się ze mną.
 
-574
-00:44:02,610 --> 00:44:04,610
+560
+00:44:03,163 --> 00:44:05,163
 Twoje zdrowie, Geralt.
 
-575
-00:44:16,730 --> 00:44:18,650
+561
+00:44:17,651 --> 00:44:19,571
 Pomyślałam, że cię namówię.
 
-576
-00:44:19,750 --> 00:44:20,810
+562
+00:44:19,750 --> 00:44:21,576
 Tak byłoby sprawiedliwie.
 
-577
-00:44:22,390 --> 00:44:22,950
+563
+00:44:22,390 --> 00:44:23,690
 Ale jeszcze.
 
-578
-00:44:36,186 --> 00:44:38,186
+564
+00:44:36,936 --> 00:44:38,600
 Co ty robisz?
 
-579
-00:44:38,186 --> 00:44:40,186
+565
+00:44:38,625 --> 00:44:40,625
 Zostaję u ciebie.
 
-580
-00:44:41,186 --> 00:44:45,186
+566
+00:44:41,672 --> 00:44:45,672
 Abyś miał dowód i gwarancję, że wyrzekłam się zemsty.
 
-581
-00:44:46,186 --> 00:44:49,186
+567
+00:44:46,705 --> 00:44:49,705
 Bo będziemy razem, aż jutro wyjadę z miasta.
 
-582
-00:44:51,186 --> 00:44:53,186
+568
+00:44:51,539 --> 00:44:53,539
 Ale teraz nie możesz mnie odrzucić.
 
-583
-00:44:54,186 --> 00:44:56,186
+569
+00:44:54,586 --> 00:44:56,586
 Zamknij oczy.
 
-584
-00:45:24,218 --> 00:45:26,318
+570
+00:45:25,145 --> 00:45:27,245
 A teraz popatrz Geraldzie.
 
-585
-00:45:30,618 --> 00:45:32,418
+571
+00:45:31,191 --> 00:45:32,991
 Czy tak wygląda zło?
 
-586
-00:46:04,282 --> 00:46:06,942
-uf
-
-587
-00:46:17,242 --> 00:46:23,402
-Napisy/ WYTFURNIA.PL
-
-588
-00:46:30,490 --> 00:46:40,490
+572
+00:46:31,396 --> 00:46:42,756
 Nie przeszkodzisz mi białowłosy, biedny naiwny wiedźmin, ale będziesz żył, dług
 spłacony.
 
-589
-00:47:02,778 --> 00:47:09,558
+573
+00:47:03,703 --> 00:47:10,196
 Nie każdy złotem złota blask, a uległość jest zgodą
 
-590
-00:47:09,558 --> 00:47:16,918
-Trujące kwiaty wabią nas z gówną swoją urodą
+574
+00:47:11,169 --> 00:47:18,715
+Trujące kwiaty wabią nas zgubną swoją urodą
 
-591
-00:47:16,918 --> 00:47:24,378
+575
+00:47:18,935 --> 00:47:26,500
 Choć dało się się oszukać znów, to nie wszystko stracone
 
-592
-00:47:24,378 --> 00:47:31,778
+576
+00:47:26,553 --> 00:47:32,496
 Choć czarna mara złego snu tuli cię w swych ramionach
 
-593
-00:47:32,778 --> 00:47:33,318
-Dziękuje za oglądanie!
-
-594
-00:47:56,282 --> 00:47:59,102
-Dzięki za oglądanie!
-
-595
-00:48:13,306 --> 00:48:20,046
+577
+00:48:14,226 --> 00:48:21,686
 Nie każdy złotem złota blask, a uległość jest zgodą.
 
-596
-00:48:21,026 --> 00:48:27,026
-Trujące kwiaty bawią nas z gówną swoją urodą.
+578
+00:48:21,826 --> 00:48:28,276
+Trujące kwiaty wabią nas zgubną swoją urodą.
 
-597
-00:48:27,906 --> 00:48:30,766
-Z gówną swoją urodą.
+579
+00:48:28,376 --> 00:48:32,141
+Zgubną swoją urodą.
 
-598
-00:48:32,166 --> 00:48:34,626
-Z gówną swoją urodą.
+580
+00:48:32,166 --> 00:48:35,801
+Zgubną swoją urodą.
 
