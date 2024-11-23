@@ -1,0 +1,1044 @@
+1
+00:00:00,000 --> 00:00:04,800
+Od kompletnego zmasakrowania pierwszych zwiastunów przez wiernych fanów serii,
+
+2
+00:00:04,920 --> 00:00:07,960
+poprzez bardzo ograniczone materiały z samej gry,
+
+3
+00:00:08,160 --> 00:00:13,820
+aż do wycieków prezentujących przeładowanie tytułu postępowym przekazem
+
+4
+00:00:13,820 --> 00:00:19,320
+i w końcu aż do smrodu przy recenzjach branżowych dziennikarzy,
+
+5
+00:00:19,440 --> 00:00:22,200
+którzy aż rozpływają się nad tytułem.
+
+6
+00:00:22,440 --> 00:00:26,880
+Bo ci co nie chcieli się rozpływać, w ogóle nie dostali gry do recenzji.
+
+7
+00:00:26,880 --> 00:00:34,460
+Szanowni Państwo, w dzisiejszym materiale wszystko co musicie wiedzieć o aferze
+wokół Dragon Age Veilguard.
+
+8
+00:00:34,660 --> 00:00:42,480
+Aferze, którą mogę porównać w sumie do czegoś na wzór wylewki gnojówki gdzieś
+tam na polach poza miastem.
+
+9
+00:00:42,480 --> 00:00:49,220
+Niby nie widać, niby to gdzieś tam daleko, ale jednak wali na całą okolicę.
+
+10
+00:00:49,340 --> 00:00:54,860
+Tak czy inaczej, dzień dobry, dzień dobry, z tej strony Drwal i zapraszam do
+dzisiejszego materiału.
+
+11
+00:00:59,530 --> 00:01:12,610
+Szanowni Państwo, jak widać po długiej przerwie stary wraca z mlekiem i jako, że
+zaraz się rozkręcimy, to pozwólcie już na dzień dobry, zanim zapomnę tradycyjnie
+podziękować Wam za obecność i za wsparcie kanału.
+
+12
+00:01:12,610 --> 00:01:23,610
+Moi drodzy, nie chcę nic mówić, ale przebiliśmy już definitywnie 201 tysięcy
+subskrypcji. No kurka wodna, tego pociągu się już nie zatrzyma.
+
+13
+00:01:23,610 --> 00:01:30,750
+Moi drodzy, pięknie Wam dziękuję po raz enty i będę to robić pewnie jeszcze
+wiele razy, ale hej, gdyby nie Wy, to tego kanału by nie było.
+
+14
+00:01:31,050 --> 00:01:40,390
+I oczywiście każdego huncwota, kto jeszcze się nie zdecydował, zachęcam do
+zostawienia subskrypcji dzwoneczkiem, dołączcie do naszej zdroworozsądkowej
+gromady.
+
+15
+00:01:40,770 --> 00:01:47,650
+No ale do brzegu, moi drodzy, Dragon Age Veilguard to jest temat, który już
+dawno chciałem wziąć na warsztat.
+
+16
+00:01:47,650 --> 00:01:52,090
+W dzisiejszym materiale będę więc Waszym przewodnikiem po tej sprawie.
+
+17
+00:01:52,090 --> 00:02:08,640
+Zadbałem o to, żeby z dzisiejszego materiału wiele wyciągnęli zarówno ci, którzy
+coś tam, coś tam słyszeli, ale nie do końca wiedzieli o co chodzi, jak i ci,
+którzy w temacie już siedzą i chcieliby się dowiedzieć kilku pikantnych
+szczegółów, bo uwierzcie mi, kopałem dosyć głęboko.
+
+18
+00:02:08,640 --> 00:02:23,980
+Tak czy inaczej, szanowni państwo, przed nami długi weekend, idealny czas, żeby
+nieco odsapnąć, ewentualnie wyruszyć do podzielonego odwiecznym konfliktem
+świata, w którym dwie frakcje toczą między sobą walkę o dominację.
+
+19
+00:02:24,300 --> 00:02:26,400
+I nie, nie mówię o naszej polityce.
+
+20
+00:02:26,704 --> 00:02:30,884
+Mówię o Ion Classic, który jest sponsorem tego odcinka.
+
+21
+00:02:31,324 --> 00:02:37,884
+Ion Classic to, jak sama nazwa wskazuje, klasyczne podejście do tego, co
+najlepsze w gatunku MMORPG.
+
+22
+00:02:38,144 --> 00:02:41,404
+Brakuje ci dawnego klimatu? Brakuje ci hardkorowych wyzwań?
+
+23
+00:02:41,544 --> 00:02:48,884
+Brakuje ci tych mroźnych wieczorów pod ciepłym kocykiem, z gorącym kakao w ręku,
+które sobie sączyłeś?
+
+24
+00:02:49,044 --> 00:02:52,644
+Lejąc bossów na rajdzie lub polując na nubków w PvP?
+
+25
+00:02:52,644 --> 00:03:00,664
+Ion Classic to nie tylko odświeżona wersja klasycznego MMORPG-a, to jej
+zremasterowana i regularnie rozwijana odsłona,
+
+26
+00:03:00,844 --> 00:03:07,524
+pozwalająca ponownie poczuć dawną magię, a zarazem cieszyć się nowoczesnymi
+rozwiązaniami w gameplayu.
+
+27
+00:03:07,744 --> 00:03:17,064
+Stań po jednej z dwóch wielkich stron konfliktu w świecie Atrei, a następnie
+wybierz jedną z aż dziewięciu klas postaci, z których każda wymaga innego stylu
+gry.
+
+28
+00:03:17,064 --> 00:03:22,624
+Stwórz własnego awatara dzięki ogromnym możliwościom kastomizacji i ruszaj na
+szlak.
+
+29
+00:03:22,864 --> 00:03:31,064
+Tytuł oferuje masę zabawy, zaś regularne aktualizacje dostarczają stałą
+mieszankę znanych i lubianych wyzwań z całkowicie nową zawartością.
+
+30
+00:03:31,924 --> 00:03:38,824
+No i oczywiście dzięki aktywnemu community, w tym także polskiemu, jeszcze
+łatwiej zanurzysz się w wyjątkowy, nostalgiczny świat gry.
+
+31
+00:03:39,104 --> 00:03:41,784
+Co więcej, Ion Classic jest za darmo.
+
+32
+00:03:41,784 --> 00:03:46,704
+To uczciwa cena, także nie pozostaje nic innego jak brać i grać.
+
+33
+00:03:47,124 --> 00:03:52,624
+Link do rejestracji do gry znajdziecie w opisie tego materiału i kto wie, jak
+zbierze się nas trochę.
+
+34
+00:03:52,744 --> 00:03:55,424
+To może i założymy jakąś drwalową gimnię, ha?
+
+35
+00:03:55,544 --> 00:03:57,024
+Do zobaczenia w Ion Classic!
+
+36
+00:03:57,616 --> 00:04:04,076
+Zacznijmy więc od początku. Na początku wbrew pozorom nie był chaos, tylko były
+pierwsze zapowiedzi gry
+
+37
+00:04:04,076 --> 00:04:06,676
+I tutaj uuuuaaaaaahhhhhh
+
+38
+00:04:06,676 --> 00:04:13,936
+Zwiastuny zostały po prostu zmasakrowane, jeżeli chodzi o reakcje oraz
+komentarze ze strony graczy
+
+39
+00:04:13,936 --> 00:04:19,636
+Powód tego stanu rzeczy z pewnością nie jest żadną niespodzianką dla wszystkich,
+którzy byli fanami poprzednich części
+
+40
+00:04:19,636 --> 00:04:23,648
+Jednakże dla tych co nie wiedzą, widzicie Dragon Age to zawsze była taka dosyć
+
+41
+00:04:23,648 --> 00:04:41,628
+poważna gra, no ale poważne motywy, takie mroczne fantasy, nic więc dziwnego, że
+widząc nową część tej serii, gracze liczyli na coś co będzie klimatem
+przypominać to co już znają i lubią, tymczasem już pierwsze zwiastuny nowej
+części pokazywały, że to nie do końca takie będzie.
+
+42
+00:04:41,628 --> 00:05:02,968
+Zamiast mrocznego i poważnego klimatu serii Dragon Age, zwiastun nowej części
+wyglądał bardziej jak jakaś kolejna produkcja Disneya, jak jakiś kolejny dodatek
+do Fortnite'a, w który będą zagrywać się młodociane latorośle po sprawdzianie z
+przyry, krótko mówiąc wyglądało to źle, a dla fanów serii bardzo źle.
+
+43
+00:05:02,968 --> 00:05:09,808
+No ale ponoć nie powinno się oceniać książki po okładce, prawda? Więc fani
+cierpliwie wyczekiwali pierwszych gameplayów.
+
+44
+00:05:09,808 --> 00:05:18,528
+No i tu niestety fanów także czekał zawód, ponieważ gra na gameplayach najzwykle
+w świecie nie pokazywała się jakoś specjalnie ciekawie.
+
+45
+00:05:18,748 --> 00:05:26,788
+Ba, przy tytułach takich jak choćby Baldur's Gate 3 można powiedzieć, że to co
+pokazywała nowa gra od Bioware wypadało wręcz blado.
+
+46
+00:05:26,788 --> 00:05:30,388
+Nie ma się więc co dziwić, że nie uspokoiło to obaw fanów.
+
+47
+00:05:30,548 --> 00:05:39,788
+I tutaj co ciekawe, w trakcie tych pierwszych gameplayów, jakie się pokazały,
+dużo więcej uwagi i czasu niż w samej rozgrywce poświęcało się kreatorowi.
+
+48
+00:05:40,008 --> 00:05:45,608
+Który to może i owszem jest rozbudowany, jednakże to na co zwrócono uwagę to
+były zgoła inne rzeczy.
+
+49
+00:05:45,888 --> 00:05:47,888
+He him, she her.
+
+50
+00:05:47,888 --> 00:05:53,608
+And they them, and then your gender is man, woman, non-binary. Love that. Love
+the inclusivity.
+
+51
+00:05:53,616 --> 00:06:11,856
+Tak, i znowu to gadanie o tym, że musimy czuć się reprezentowani w tej grze.
+
+52
+00:06:11,856 --> 00:06:17,056
+Słuchajcie, ja nigdy nie zrozumiem, co tacy ludzie mają, że oni muszą czuć się
+reprezentowani?
+
+53
+00:06:17,556 --> 00:06:22,856
+Czy to grają w grę, czy to oglądają film, czy serial, gdziekolwiek muszą czuć
+się reprezentowani.
+
+54
+00:06:23,616 --> 00:06:34,476
+Ja nie po to gram w grę, w której są smoki, czary, elfy, orki, krasnale i inne
+niestworzone rzeczy, żeby czuć się tam reprezentowany.
+
+55
+00:06:34,480 --> 00:06:47,600
+Ale moi drodzy, jak widać, no na dzień dobry już w grze postanowiono upchać te
+jakże niezbędne dla dzisiejszego odbiorcy, dla modern audience i dla
+dzisiejszego świata elementy, tak?
+
+56
+00:06:47,760 --> 00:06:53,800
+Zaimki, to żeby przypadkiem ktoś w grze nie pomylił twojej płci, nie? Bo to
+będzie obraza majestatu.
+
+57
+00:06:53,800 --> 00:07:09,880
+A mnie jako fana fantasy od dekad, jako dziennikarza i to jeszcze w
+specjalizacji kreatywnego pisania, mnie jakże śmieszą, a zarazem przyprawiają o
+zażenowanie takie właśnie rzeczy jak te blizny, tak? Po operacji.
+
+58
+00:07:09,880 --> 00:07:23,780
+Bo słuchajcie, mamy fantastyczny świat, gdzie macie do wyboru czary, alchemię,
+jakieś transmutacje, boską interwencję i jeżeli w takim świecie twórcy gry
+wymyślili sobie, że no, to skoro już postaci mają tam możliwość zmiany,
+
+59
+00:07:23,780 --> 00:07:34,700
+to z pewnością sięgną po skalpel, to znaczy, że albo twórcy tej gry nie mieli
+kompletnie wyobraźni, albo celowo to zrobili, żeby właśnie jak najlepiej oddać
+to, co jest za oknem, tak?
+
+60
+00:07:34,840 --> 00:07:44,740
+Żebyśmy przypadkiem w tej grze fantasy, ze smokami, czarami, krasnalami i tak
+dalej, nie mieli tego eskapizmu, tej ucieczki od tego, co jest na zewnątrz,
+tylko żebyśmy mieli dokładną kalkę.
+
+61
+00:07:44,928 --> 00:07:49,968
+Tego wszystkiego, bo inaczej jakże ktoś mógłby czuć się reprezentowany? Bez
+skalpela się nie obejdzie.
+
+62
+00:07:49,968 --> 00:07:56,868
+Swoją drogą, to jest dosyć kuriozalne, że wiecie, te wszystkie elementy tam
+dodają, żeby każdy czuł się reprezentowany, tak?
+
+63
+00:07:57,028 --> 00:08:01,908
+Ja takie zadam pytanie, co mają powiedzieć kobitki o bardzo wydatnych
+kształtach?
+
+64
+00:08:02,080 --> 00:08:15,120
+No przecież nie wiem, czy wiedzieliście, ale w tej grze, jeżeli chcecie zrobić
+kobitkę, to maksimum waszych możliwości, jakie daje wam gra, to stworzenie od
+takiego physis na miarę niepozornego, dosyć kwadratowego klocka.
+
+65
+00:08:15,320 --> 00:08:23,180
+Także przepraszam bardzo wszystkie panie, które chodzicie na siłownię, które
+uprawiacie sport, albo po prostu zostałyście obdarzone przez naturę, no sorry.
+
+66
+00:08:23,360 --> 00:08:26,620
+Najwyraźniej twórcy nie chcą, żebyście poczuły się reprezentowane w tej grze.
+
+67
+00:08:26,864 --> 00:08:33,284
+Moi drodzy, nie zaskoczę was, jeżeli powiem, że już właśnie te pierwsze nowinki
+wywołały całkiem sporą burzę w internetach,
+
+68
+00:08:33,284 --> 00:08:39,204
+nie bez powodu zresztą, bo doskonale widać z jakich powodów tego typu elementy
+zostały wprowadzone w grze.
+
+69
+00:08:39,384 --> 00:08:44,320
+Ciekawe jest jednak to, że przyczyn takich, a nie innych elementów, takich, a
+nie innych elementów,
+
+70
+00:08:44,320 --> 00:08:52,240
+punktów nacisku, jakie zobaczyliśmy już w pierwszych gameplayach z gry, przyczyn
+tego nie trzeba było daleko szukać,
+
+71
+00:08:52,240 --> 00:08:58,280
+bo wystarczyło właśnie zerknąć na to, kto jest game directorem nowego Dragon
+Age'a.
+
+72
+00:08:58,280 --> 00:09:04,480
+Tę rolę pełni Corinne Boucher, queeroseksualny gendermencer.
+
+73
+00:09:04,480 --> 00:09:07,080
+Cóż za znamienny opis.
+
+74
+00:09:07,088 --> 00:09:13,588
+Game Director of Dragon Age: The Vanguard, Bioware, Trans Rights, Black Lives
+Matter.
+
+75
+00:09:13,588 --> 00:09:27,988
+Na x postów nie znajdziemy, bo są chronione, ale nawet na LinkedInie jak patrzę,
+moi drodzy, wchodzimy sobie w profil, no to widzimy na dzień dobry już
+"Transwoman and Game Design Director of Dragon Age".
+
+76
+00:09:27,988 --> 00:09:36,788
+Powiem wam tak, moi drodzy, jeżeli ktoś już nawet na stronie czysto biznesowej,
+tak, no bo LinkedIn to jest jednak portal biznesowy,
+
+77
+00:09:36,788 --> 00:09:43,288
+to ktoś zamiast opisywać na dzień dobry swoje doświadczenie, to najpierw na
+dzień dobry wyjeżdża z tym, że jest transwomen,
+
+78
+00:09:43,288 --> 00:09:48,560
+to mnie to dosyć dużo mówi o takiej osobie, o tym, czym taka osoba się kieruje w
+życiu.
+
+79
+00:09:48,560 --> 00:09:51,920
+No i wszystko to nas prowadzi do dnia dzisiejszego, szanowni państwo.
+
+80
+00:09:52,200 --> 00:09:54,500
+Wszystko to nas prowadzi, moi drodzy, do tego tygodnia.
+
+81
+00:09:54,780 --> 00:10:02,000
+Mianowicie w tym tygodniu nie tylko odbywa się premiera gry, ale kilka dni temu
+miały miejsce...
+
+82
+00:10:02,000 --> 00:10:15,280
+publikacje pierwszych recenzji. Recenzji, które to, jak łatwo zauważyć, jeżeli
+chodzi o oceny ze strony największych zagramanicznych portali, są przytłaczająco
+pozytywne, tak?
+
+83
+00:10:15,280 --> 00:10:27,340
+Tylko, że moi drodzy, tutaj, że tak powiem, dosyć szybko wyszło wśród bozwora.
+Jak się bowiem okazuje, klucze do recenzji na Dzień Dobry, takiej, wiecie,
+przedpremierowej, która jest najczęściej klikana, te klucze dostawali wybrańcy.
+
+84
+00:10:27,344 --> 00:10:33,712
+Wybrańcy, którzy najwyraźniej wcześniej nie powiedzieli ani złego słowa na temat
+nowego Dragon Age'a.
+
+85
+00:10:33,712 --> 00:10:39,412
+Szanowni Państwo, szerokim echem odbył się w internecie materiał z kanału
+F-Extra Life.
+
+86
+00:10:39,552 --> 00:10:44,172
+Materiał ten jest o tyle ciekawy, że twórca, czy tam twórcy tego kanału F-Extra
+Life,
+
+87
+00:10:44,292 --> 00:10:46,352
+oni tematyką Dragon Age'a zajmują się od dawna.
+
+88
+00:10:46,532 --> 00:10:50,632
+Tam tworzą nawet wiki poświęconą Dragon Age'owi, nadzorują forum.
+
+89
+00:10:50,912 --> 00:10:57,132
+Twórca tego kanału był nawet na pierwszym pokazie gry, kiedy to pojawiły się
+pierwsze tam gameplaye.
+
+90
+00:10:57,352 --> 00:11:02,712
+Był zaproszony właśnie wtedy na pokaz, no nie ma się co dziwić, skoro tyle robi
+filmów właśnie w tym temacie.
+
+91
+00:11:02,712 --> 00:11:07,952
+I moi drodzy, w tych pierwszych wrażeniach z gry, on wypobadał się w głównej
+mierze pozytywnie.
+
+92
+00:11:08,072 --> 00:11:13,752
+Niektórzy wręcz twierdzą, że zbyt pozytywnie, ale mimo wszystko w kilku
+miejscach był on dosyć krytyczny.
+
+93
+00:11:13,872 --> 00:11:20,352
+No i co się okazuje, no najwyraźniej krytycznym być nie powinien, ponieważ
+klucza do gry nie dostał.
+
+94
+00:11:20,464 --> 00:11:24,524
+Zresztą pozwólcie, że puszczę wam teraz parę fragmentów tego materiału.
+
+95
+00:11:24,528 --> 00:11:40,088
+Które sobie z kolei zaczerwnąłem z materiału w tym temacie od Arkadikusa, no z
+racji, że Arkadikus również świetnie wytłumaczył kwestie tych recenzentów oraz
+przy okazji jest profesjonalnym lektorem, więc na pewno czytane przez niego
+będzie brzmieć lepiej niż przeze mnie, także proszę bardzo.
+
+96
+00:11:40,168 --> 00:11:47,388
+Więc po opublikowaniu naszego wideo niemal natychmiast nasz kontakt z EA i
+Bioware zniknął, a komunikacja spadła do zera.
+
+97
+00:11:47,608 --> 00:11:54,428
+Zaczęliśmy więc pytać co się dzieje i docierać do innych kontaktów w branży w
+nieco szerszym kręgu, aby spróbować dowiedzieć się co się dzieje.
+
+98
+00:11:54,528 --> 00:12:01,908
+Odkryliśmy, że otrzymywaliśmy fałszywe zapewnienia, że otrzymamy kod, który ma
+nas uszczęśliwić jednocześnie odmawiając nam dostępu do Veilguard.
+
+99
+00:12:01,908 --> 00:12:06,388
+Tak czy inaczej, moi drodzy, szybko okazało się, że to nie był jednostkowy
+przypadek.
+
+100
+00:12:06,608 --> 00:12:20,588
+Wielu więcej dużych recenzentów, dużych twórców, dużych redakcji, którzy coś tam
+jakoś po drodze powiedzieli nieprzychylnie odnośnie gry, ci ludzie te redakcje,
+te magazyny po prostu przedpremierowego klucza do gry nie otrzymali.
+
+101
+00:12:20,788 --> 00:12:24,508
+No bo w końcu jeżeli ktoś raz nas krytykował, to jak duża szansa, że zrobi to?
+
+102
+00:12:24,528 --> 00:12:29,708
+To ponownie, jeżeli dajemy wam klucz, to ocena naszej gry powinna być albo
+bardzo wysoka.
+
+103
+00:12:30,016 --> 00:12:32,016
+Albo nie powinno być jej wcale.
+
+104
+00:12:32,016 --> 00:12:38,016
+Zespół marketingowy EA prawdopodobnie to zauważył i zdecydował, że muszą
+sprawić, by recenzje były jak najbardziej pozytywne,
+
+105
+00:12:38,016 --> 00:12:47,736
+próbując wykluczyć tych, którzy mogliby dać grze 7 lub 8, jednocześnie
+docierając do prasy i twórców treści, którzy mogliby dać grze 9 lub więcej.
+
+106
+00:12:47,744 --> 00:12:56,464
+Pomyśl o tym przez chwilę. Jeśli jesteś po stronie EA i próbujesz manipulować
+wynikami recenzji, ponieważ chcesz uzyskać wysokie wyniki recenzji, co
+zamierzasz zrobić?
+
+107
+00:12:56,704 --> 00:13:03,504
+Sprawdzasz prasę i twórców oraz to, jakie oceny wystawiają grom, by mieć ogólne
+wyobrażenie o tym, jak będą recenzować Twoją grę.
+
+108
+00:13:03,504 --> 00:13:11,504
+I pamiętajcie, że te słowa idą od hura optymistycznego, wcześniej mocno
+simpującego dla EA i Velgarda twórcy.
+
+109
+00:13:11,504 --> 00:13:16,504
+Tu oczywiście serdecznie zachęcam do subskrypcji u Arkadikusa, polecam, świetny
+kanał.
+
+110
+00:13:16,504 --> 00:13:20,704
+Zostawcie suba, zostawcie komentarz z pozdrowieniami od Drala pod jego
+najnowszym filmem.
+
+111
+00:13:20,704 --> 00:13:22,704
+Także mamy takiego Dragon Age'a.
+
+112
+00:13:22,704 --> 00:13:47,344
+Ocenę 84/100, większość oczywiście stówy, stówy, stówy, 90, super wysokie noty,
+ale jeżeli sobie spojrzycie na, bo ja wiem, Starfielda, grę, która no,
+arcydziełem raczej nie jest, też macie bardzo podobnie, 83, stówa, stówa, stówa,
+stówa, IGN, stówa z Hiszpanii, proszę bardzo, 99, 98, mega wysokie noty.
+
+113
+00:13:47,344 --> 00:13:56,224
+Spójrzcie sobie na Diablo 4, gra, która również no, może i była niezła, ale to
+nie znaczy, że pozbawiona wad, stówa, stówa, stówa, stówa, stówa, stówa, no tego
+jest pełno, nie?
+
+114
+00:13:56,224 --> 00:14:01,936
+Proszę bardzo, Star Wars Outlaws, o tym było głośno ostatnio, również tutaj
+nieco niższa średnia, ale patrzcie.
+
+115
+00:14:01,936 --> 00:14:06,176
+100, 95, 90, 90, 90, 90, no moi drodzy, arcydzieło.
+
+116
+00:14:06,276 --> 00:14:09,716
+Jak coś dostaje ocenę 9 albo 10, no to to jest arcydzieło.
+
+117
+00:14:09,916 --> 00:14:12,016
+I moi drodzy, ja już kiedyś o tym H mówiłem.
+
+118
+00:14:12,016 --> 00:14:16,336
+Albo przynajmniej napominałem, ale to jest temat dosyć głośny, częsty i gęsty.
+
+119
+00:14:16,436 --> 00:14:22,156
+Mianowicie, jak sądzicie, czemu ci branżowi właśnie dziennikarze wystawiają
+takie, a nie inne noty?
+
+120
+00:14:22,356 --> 00:14:27,156
+Zawsze, gdy widzicie ocenę gier dużych, ej, ej, ej, od dużych wydawców,
+
+121
+00:14:27,616 --> 00:14:32,976
+no to zwykle, nawet jeżeli gra jest bardzo, bardzo słaba, no to ta ocena nie
+zejdzie poniżej siódemki.
+
+122
+00:14:32,976 --> 00:14:37,076
+Moi drodzy, powód tego jest prosty, mianowicie wielkie portale, wielkie
+magazyny,
+
+123
+00:14:37,136 --> 00:14:39,816
+oni chcą być grzecznymi chłopcami, grzecznymi dziewczynkami,
+
+124
+00:14:39,816 --> 00:14:43,816
+ponieważ jeżeli nie będą grzeczni, to może się zdarzyć, że, no właśnie,
+
+125
+00:14:44,116 --> 00:14:48,416
+nie dostaną kolejnej gry do recenzji przedpremierową, nie dostaną paczki na
+święta,
+
+126
+00:14:48,636 --> 00:14:51,176
+nie dostaną smyczki od wydawcy.
+
+127
+00:14:51,424 --> 00:14:52,704
+Albo koszulki.
+
+128
+00:14:53,184 --> 00:14:55,824
+Albo nie dostaną biletu do Disneylandu.
+
+129
+00:14:55,964 --> 00:14:58,464
+No i stąd właśnie się bierze taka wątpliwa kwestia.
+
+130
+00:14:58,464 --> 00:15:03,544
+Jakość i wiarygodność wielkich, branżowych dziennikarzy i ich recenzji.
+
+131
+00:15:03,784 --> 00:15:07,944
+Zresztą nie bez powodu podobnie to się dzieje, jeżeli chodzi o krytykę filmów,
+tak?
+
+132
+00:15:07,984 --> 00:15:09,884
+Krytykę filmową. Bardzo podobny schemat.
+
+133
+00:15:10,264 --> 00:15:16,084
+Ale co ciekawe, moi drodzy, nawet w takim układzie czasem zdarzą się jednak
+recenzje,
+
+134
+00:15:16,224 --> 00:15:20,124
+które no niekoniecznie są po głównej linii przekazu.
+
+135
+00:15:20,244 --> 00:15:25,224
+I co ciekawe, w przypadku Dragon Age'a, tego nowego, takie recenzje wyszły z
+naszego rodzimego grajdołka.
+
+136
+00:15:25,224 --> 00:15:29,384
+Szanowni Państwo, proszę bardzo, 6 na 10! Zaledwie!
+
+137
+00:15:29,544 --> 00:15:34,844
+Taką ocenę dostała gra ze strony recenzenta z CD Action.
+
+138
+00:15:35,044 --> 00:15:37,984
+Miał być grą roku, a tu nie ma nawet pełnoprawnego RPG.
+
+139
+00:15:38,624 --> 00:15:41,044
+Napisał autor recenzji, pan Krzysztof.
+
+140
+00:15:41,224 --> 00:15:45,304
+Plusy. Całkiem przyjemna mechanika walki, parę godzin fajnie można się przy tym
+odmóżdżyć.
+
+141
+00:15:45,504 --> 00:15:49,944
+No, moi drodzy, jeżeli odmóżdzać się przy RPG-u, no to raczej nie jest zbyt
+dobry RPG.
+
+142
+00:15:50,352 --> 00:15:53,652
+A dalej, niezłe questy towarzyszy, jeżeli do nich dotrwacie.
+
+143
+00:15:53,652 --> 00:15:59,112
+Minusy. Nieciekawa konstrukcja świata, brak spójności w scenariuszu i na mapach,
+mocno spłycone elementy RPG,
+
+144
+00:15:59,112 --> 00:16:04,192
+nieco skopane zdolności obszarowe, pretekstowy rozwój kompanów, ma to niewiele
+wspólnego z serią Dragon Age.
+
+145
+00:16:04,192 --> 00:16:10,632
+Czyli wygląda na to, że ocenianie książki po okładce w tym wypadku było jak
+najbardziej trafne,
+
+146
+00:16:10,632 --> 00:16:15,672
+ponieważ to, co widać było na pierwszych zwiastunach, sprawdziło się koniec
+końców w grze.
+
+147
+00:16:15,672 --> 00:16:17,452
+Fani serii Dragon Age
+
+148
+00:16:17,456 --> 00:16:18,856
+To nie jest gra dla was.
+
+149
+00:16:18,856 --> 00:16:23,556
+Ciekawe też tutaj rzeczy znalazłem w recenzji na portalu GryOnline.
+
+150
+00:16:23,556 --> 00:16:29,056
+Tutaj już gra dostała 7/10, także no już mieścimy się w tej bezpiecznej skali,
+tak?
+
+151
+00:16:29,056 --> 00:16:30,856
+Będzie paczka na święta od Bioware'u.
+
+152
+00:16:30,856 --> 00:16:34,156
+Ale jeżeli chodzi o plusy i minusy, tutaj znalazłem ciekawe rzeczy, mianowicie
+uwaga:
+
+153
+00:16:34,156 --> 00:16:42,208
+plusy pitu pitu pitu, a w minusach momentami popadający w tani dydaktyzm
+scenariusz.
+
+154
+00:16:42,208 --> 00:16:45,648
+Szanowni Państwo, jeżeli branżowi dziennikarze, którzy są zwykle grzeczni,
+
+155
+00:16:45,648 --> 00:16:49,388
+mówią o tanim dydaktyzmie w scenariuszu, czyli wiecie,
+
+156
+00:16:49,388 --> 00:16:51,628
+momentach, gdy gra próbuje nas pouczać,
+
+157
+00:16:51,632 --> 00:16:58,032
+jak żyć, jak patrzeć na świat, jeżeli takie rzeczy są już punktowane, no to jak
+sądzicie, co takiego w tej grze znajdziemy?
+
+158
+00:16:58,032 --> 00:17:03,472
+Mianowicie, moi drodzy, czy to zamierzone, czy nie, ale pojawiło się kilka
+gameplayów takich najnowszych,
+
+159
+00:17:03,472 --> 00:17:11,032
+gdzie, no właśnie, widać było, jak ta gra wygląda per se, no i tam właśnie
+pojawiło się kilka ciekawych rzeczy,
+
+160
+00:17:11,032 --> 00:17:19,432
+jeżeli chodzi o fabułę i o opcje dialogowe i o to, jak ta gra nas właśnie
+próbuje pouczać odnośnie tego i owego, tak?
+
+161
+00:17:19,432 --> 00:17:27,632
+No i widzimy, jak tam ta postać właśnie niebinarna mówi, że jestem niebinarna,
+właśnie powiedziałam ja, postać,
+
+162
+00:17:27,632 --> 00:17:37,032
+i zamierzam używać od teraz zaimków they, oni, zamiast she. Od teraz zamierzam
+tego używać, bo taki właśnie mam teraz pomysł.
+
+163
+00:17:37,032 --> 00:17:44,032
+Jak widzimy, nawet w dialogach pojawiają się ciekawe opcje, można w dialogu
+odnieść się albo do swoich blizn, do tatuaży,
+
+164
+00:17:44,032 --> 00:17:48,032
+ale także do swojej identyfikacji płciowej.
+
+165
+00:17:48,032 --> 00:17:49,232
+No, moi drodzy, po raz kolejny,
+
+166
+00:17:49,232 --> 00:17:55,432
+wracamy do tego, mamy świat fantazy, gdzie możemy być, kurczę, magiem,
+łotrzykiem, łowcą smoków,
+
+167
+00:17:55,432 --> 00:18:03,232
+jakiś różnych wymyślnych gatunków także, raz, ale to, na czym opieramy nasze
+dialogi, to będzie nasza identyfikacja płciowa.
+
+168
+00:18:03,232 --> 00:18:11,432
+No i oczywiście takich rzeczy pojawia się więcej, tak? Niektórzy moi przyjaciele
+mówią o tym, jak czują się niekomfortowo we własnej skórze,
+
+169
+00:18:11,432 --> 00:18:16,064
+jako mężczyzna albo jako kobieta. I, moi drodzy, patrząc na
+
+170
+00:18:16,064 --> 00:18:37,456
+tego typu elementy gry integralne, jakże istotne, a na to, jakie są poglądy,
+postawa osoby sprawującej rolę game directora, o której już wspominaliśmy, no,
+chyba nie macie najmniejszych wątpliwości, dlaczego akurat takie elementy
+zostały podkreślone świecącym niemalże pisakiem, jeżeli chodzi o
+
+171
+00:18:37,456 --> 00:19:00,496
+to, jak ta gra wygląda. I moi drodzy, ja teraz bardzo proszę moich widzów,
+którzy przeszli tranzycję, bo wiem, że tacy są, dostaję od was wiadomości, maile
+bardzo miłe, dziękuję pięknie, ja bardzo właśnie teraz zależy mi na tym, żeby
+poznać wasz punkt widzenia, co wy sądzicie o takich zagraniach. Jak na to
+patrzycie? Jak to postrzegać? Moim skromnym zdaniem
+
+172
+00:19:00,496 --> 00:19:09,896
+to jest kolejny raz to, co w sumie widzimy przez cały czas w dzisiejszym
+przemyśle rozgrywkowym, czy to w filmach, czy to w grach, czy to w serialach,
+czy to wszędzie, czyli po prostu taki czysty tokenizm, tak?
+
+173
+00:19:10,256 --> 00:19:19,416
+Próba zagrania jakąś mniejszością i to niezależnie od tego, czy to mniejszością
+rasową, czy to mniejszością seksualną, czy jakoś tam identyfikacyjną,
+
+174
+00:19:19,416 --> 00:19:30,096
+próba zagrania tym, żeby albo spróbować na tym sprzedać nasz produkt, albo żeby
+po prostu zadowolić jakieś tam wewnątrz firmowe, światopoglądowe potrzeby.
+
+175
+00:19:30,304 --> 00:19:34,444
+Tylko, że cały problem w tym, że to nie powinien być priorytet, moi drodzy.
+
+176
+00:19:34,444 --> 00:19:39,644
+Ja zawsze powtarzam, że przez usilne ładowanie tej postępowości,
+
+177
+00:19:39,644 --> 00:19:41,604
+diversity, inclusivity, stricte,
+
+178
+00:19:41,604 --> 00:19:45,244
+niestety bardzo często gubi się priorytety,
+
+179
+00:19:45,244 --> 00:19:51,364
+jakie powinny być przy tworzeniu gry, przy tworzeniu serialu, filmu,
+czegokolwiek w sumie, tak?
+
+180
+00:19:51,364 --> 00:19:56,364
+Tutaj, patrząc po reakcjach fanów oraz także po tych krytyczniejszych
+recenzjach,
+
+181
+00:19:56,364 --> 00:19:59,704
+widzę, że zgubiono podstawowy priorytet,
+
+182
+00:19:59,712 --> 00:20:02,532
+przy robieniu czegoś wewnątrz jakiejś dużej znanej marki.
+
+183
+00:20:02,552 --> 00:20:06,352
+Priorytet, którym powinno być dotarcie i zadowolenie fanów tejże.
+
+184
+00:20:06,372 --> 00:20:09,832
+To jest, moi drodzy, podstawa robienia czegokolwiek wewnątrz jakiejkolwiek
+marki.
+
+185
+00:20:09,852 --> 00:20:13,732
+Jeżeli nie zadowolisz fanów, jeżeli nie trafisz w ich gusta,
+
+186
+00:20:13,752 --> 00:20:15,832
+no to przepraszam bardzo, do kogo wtedy masz trafić?
+
+187
+00:20:15,852 --> 00:20:18,212
+Kto ma ponieść twoją grę dalej na ustach, że tak powiem?
+
+188
+00:20:18,232 --> 00:20:21,272
+No nikt. A jeżeli trafisz, no to wtedy możesz liczyć na to,
+
+189
+00:20:21,292 --> 00:20:24,272
+że pocztą pantoflową się rozniesie to wszystko dalej.
+
+190
+00:20:24,292 --> 00:20:26,652
+A, moi drodzy, to jest wszystko proste jak budowa cepa.
+
+191
+00:20:26,672 --> 00:20:28,704
+A tutaj niestety widzę, że te priorytety były
+
+192
+00:20:28,704 --> 00:20:35,204
+w zgłanianym miejscu. Ja to tak postrzegam, moi drodzy, ale proszę każdego z
+was, żebyście napisali komentarz, co wy o tym sądzicie.
+
+193
+00:20:35,204 --> 00:20:40,404
+I moi drodzy, widziałem gdzieś jeszcze jakiś tam artykuł i nie zdziwię się,
+jeżeli będzie on powielany następnie gdzieś tam,
+
+194
+00:20:40,404 --> 00:20:45,404
+bądź ta informacja będzie powielana, że "O, Dragon Age jest w top 3 sprzedaży na
+Steamie!"
+
+195
+00:20:45,404 --> 00:20:54,464
+I rzeczywiście, to jak sobie wejdziemy, proszę bardzo, bestsellery, Dragon Age,
+straż zasłony, trzecie miejsce, nad nim jest tylko Red Dead Redemption,
+
+196
+00:20:54,464 --> 00:21:21,484
+jedynka, remake, port na peceta i Counter Strike darmowy, tak, więc można by
+pomyśleć, o kurcze, no to rzeczywiście nieźle, tylko że widzicie, strona
+bestsellerów ma to do siebie, że ona jest tworzona na bazie, z tego co kojarzę,
+12 bądź 24 godzin, to wiele wyjaśnia takie, a nie inne miejsce tej gry na tej
+liście, starczy powiedzieć, że choćby tylko, tylko nieco dalej jest Cyberpunk
+277, a to dlatego, że akurat jest promocja,
+
+197
+00:21:21,488 --> 00:21:28,588
+i też jest nagle w bestsellerach, tak, mimo już kilku lat od premiery, warto
+sobie zobaczyć bestsellery w tym tygodniu,
+
+198
+00:21:28,588 --> 00:21:38,328
+i tutaj już widzimy nieco inne rzeczy, tak, zobaczmy sobie, gdzie ten Dragon Age
+jest, co tam mamy, Counter Strike, Call of Duty, Age of History, Throne and
+Liberty,
+
+199
+00:21:38,328 --> 00:21:49,584
+Factorio, o kurcze, Red Dead Redemption 2, o, cały czas, a po nam sprzedaży
+jest, to bestseller, Eudotrack, o, cud, udało się, w pierwszej dwudziestce
+znalazł się,
+
+200
+00:21:49,584 --> 00:22:04,284
+Dragon Age The Veilguard, w przeddzień swojej premiery, moi drodzy, także
+pytanie, czy to wysoki wynik, czy to mały wynik, trudno powiedzieć, bo na razie
+nie znamy jeszcze skali, wszystko wyjdzie z wora, gdy już pokażą nam
+jakiekolwiek liczby, ale na koniec, moi drodzy,
+
+201
+00:22:04,288 --> 00:22:30,368
+dam wam teraz taką prognozę na przyszłe dni bądź tygodnie, okej? Szanowni
+Państwo, zaraz będzie premiera, zaraz gracze się do tego dobiorą, zaczną ogrywać
+to, streamerzy, youtuberzy, oceniać również, gracze zaczną i patrząc po tych
+ocenach, moi drodzy, jakie na razie się pojawiły, to ja dużo bardziej jestem w
+stanie zawierzyć tym mniej entuzjastycznym, czyli nie tym, które twierdzą, że to
+jest arcydzieło 10 na 10, tylko właśnie tym, które twierdzą, że no, eee, wyszedł
+średniak, bo na to wygląda, że wyszedł średniak.
+
+202
+00:22:30,368 --> 00:22:44,288
+Co nie zmienia faktu, że zaraz wszyscy krytycy tej gry będą określani jakże
+ciekawymi epitetami, tak? Zaraz posypią się równi ziści, siści, niści, foby,
+hejterzy, grifterzy.
+
+203
+00:22:44,576 --> 00:22:49,676
+Popularne ostatnio słówko, które sobie zaskarbiła dzisiejsza nowomowa postępowa.
+
+204
+00:22:49,676 --> 00:22:59,436
+A koniec końców, gdy okaże się, że sprzedaż gry nie jest taka, jakiej by
+oczekiwano, że odbiór nie jest taki, jakiej by oczekiwano, to rzecz jasna winę
+za to będą ponosić gracze.
+
+205
+00:22:59,636 --> 00:23:07,296
+No bo przecież wiadomo, że to jest wina graczy, że im się gra nie podoba, nie? A
+nie ludzi, którzy tę grę tworzyli i którzy postanowili postawić priorytety w
+takim, a nie innym miejscu.
+
+206
+00:23:07,680 --> 00:23:14,000
+Standardowo. Także na koniec jeszcze cytując Arkadikusa z jednego z jego
+materiałów ostatnich.
+
+207
+00:23:14,140 --> 00:23:18,320
+Jeżeli tak to ma wyglądać, to ja wolę być grifterem niż frajerem.
+
+208
+00:23:18,320 --> 00:23:20,320
+Szanowni Państwo...
+
+209
+00:23:20,320 --> 00:23:30,400
+Piwcze w komentarzach, co wy sądzicie o tej grzeb. Jak dla mnie nie wygląda, to
+to zbyt dobrze i szczerze mówiąc nie, nie mam ani ochoty, ani ciśnienia, żeby to
+ograć.
+
+210
+00:23:30,400 --> 00:23:38,680
+Pooglądam może kolegów z naszego towarzystwa ludologicznego, co tam o tym sądzą.
+Ja wolę poświęcić swój czas na coś bardziej produktywnego.
+
+211
+00:23:38,680 --> 00:23:43,760
+Nie wiem, na przykład może w końcu się wyśpię. Tak czy inaczej komentarze należą
+do was, dziękuję pięknie za uwagę.
+
+212
+00:23:43,760 --> 00:23:54,960
+Przypominam o zaproszeniu do gry Ion Classic. Jeżeli chcecie naprawdę pograć w
+coś fajnego, gdzie się wkręcicie i gdzie nikt was nie będzie głaskać po główce,
+
+213
+00:23:54,960 --> 00:24:01,760
+no to zapraszam do tego, by zaczerpnąć nieco klasyki w odświeżonym wydaniu. Link
+oczywiście macie poniżej.
+
+214
+00:24:01,760 --> 00:24:05,040
+Tak czy inaczej ode mnie to wszystko. Z brodatym pozdrowieniem.
+
+215
+00:24:05,040 --> 00:24:06,180
+Rewalderen bajowa.
+
