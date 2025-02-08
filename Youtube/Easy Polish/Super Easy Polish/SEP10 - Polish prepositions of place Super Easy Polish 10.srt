@@ -1,0 +1,327 @@
+﻿1
+00:00:00,075 --> 00:00:03,567
+Cześć, dzisiaj mamy dla was specjalny
+odcinek przygotowany
+
+2
+00:00:03,591 --> 00:00:05,708
+we współpracy z Easy German.
+
+3
+00:00:05,732 --> 00:00:09,219
+Kilka lat temu zrobiliśmy filmik z Justyną
+
+4
+00:00:09,243 --> 00:00:11,640
+pod tytułem ''Gdzie jest Justyna?''
+
+5
+00:00:11,654 --> 00:00:15,828
+i ten filmik stał się strasznie popularny na YouTubie
+
+6
+00:00:15,852 --> 00:00:19,388
+i dzisiaj postanowiliśmy zrobić taki remake,
+
+7
+00:00:19,412 --> 00:00:21,480
+powtórzenie tego filmiku.
+
+8
+00:00:21,551 --> 00:00:25,080
+Dlatego dzisiaj będzie o
+przyimkach w języku polskim.
+
+9
+00:00:25,120 --> 00:00:28,708
+W tym filmie pokażemy wam przede wszystkim przykłady ich użycia
+
+10
+00:00:28,732 --> 00:00:32,948
+i skupimy się na tych, które opisują położenie rzeczy względem siebie,
+
+11
+00:00:32,972 --> 00:00:35,206
+ale jeżeli jesteście zainteresowani gramatyką,
+
+12
+00:00:35,230 --> 00:00:36,708
+związaną z tym zagadnieniem,
+
+13
+00:00:36,732 --> 00:00:39,388
+to serdecznie zapraszamy was na naszego Patreona.
+
+14
+00:00:39,412 --> 00:00:42,188
+Tam Agnieszka, nasza lektorka języka polskiego,
+
+15
+00:00:42,212 --> 00:00:43,708
+przygotowała dla was tabelkę,
+
+16
+00:00:43,732 --> 00:00:47,520
+która pozwoli wam lepiej zrozumieć gramatykę związaną z przyimkami.
+
+17
+00:00:47,545 --> 00:00:50,640
+Zapraszamy. - Zapraszamy.
+
+18
+00:00:50,987 --> 00:00:53,620
+Gdzie jest Justyna?
+
+19
+00:00:54,360 --> 00:00:57,140
+Justyna jest w sklepie.
+
+20
+00:00:57,360 --> 00:00:59,780
+Gdzie jest Justyna?
+
+21
+00:01:00,040 --> 00:01:03,300
+Justyna jest w piekarni.
+
+22
+00:01:04,480 --> 00:01:07,100
+Gdzie jest Justyna?
+
+23
+00:01:07,320 --> 00:01:10,320
+Justyna jest w kawiarni.
+
+24
+00:01:10,780 --> 00:01:13,020
+Gdzie czeka Janusz?
+
+25
+00:01:13,088 --> 00:01:17,260
+Janusz czeka przed przejściem dla pieszych.
+
+26
+00:01:19,439 --> 00:01:21,860
+Gdzie siedzi Justyna?
+
+27
+00:01:22,329 --> 00:01:25,800
+Justyna siedzi przed sklepem.
+
+28
+00:01:26,120 --> 00:01:29,293
+Gdzie czeka Janusz?
+
+29
+00:01:29,294 --> 00:01:32,540
+Janusz czeka przed windą.
+
+30
+00:01:32,880 --> 00:01:35,242
+Gdzie stoi Justyna?
+
+31
+00:01:35,407 --> 00:01:38,740
+Justyna stoi za drzewem.
+
+32
+00:01:39,440 --> 00:01:41,720
+Gdzie stoi Janusz?
+
+33
+00:01:41,840 --> 00:01:46,660
+Janusz stoi za automatem ze słodyczami.
+
+34
+00:01:47,200 --> 00:01:49,520
+Gdzie jest Justyna?
+
+35
+00:01:49,634 --> 00:01:52,460
+Justyna jest za Januszem.
+
+36
+00:01:52,720 --> 00:01:54,820
+Gdzie stoi Janusz?
+
+37
+00:01:55,000 --> 00:01:58,160
+Janusz stoi przy piwach.
+
+38
+00:01:58,501 --> 00:02:00,860
+Gdzie stoi Justyna?
+
+39
+00:02:01,240 --> 00:02:04,500
+Justyna stoi przy słodyczach.
+
+40
+00:02:04,680 --> 00:02:06,620
+Gdzie stoi Janusz?
+
+41
+00:02:07,000 --> 00:02:09,860
+Janusz stoi przy jabłkach.
+
+42
+00:02:10,120 --> 00:02:12,940
+Gdzie stoi Justyna?
+
+43
+00:02:13,058 --> 00:02:16,900
+Justyna stoi nad ziemią.
+
+44
+00:02:17,080 --> 00:02:19,180
+Gdzie stoi Janusz?
+
+45
+00:02:19,400 --> 00:02:23,060
+Janusz stoi nad Justyną.
+
+46
+00:02:23,320 --> 00:02:25,500
+Gdzie stoi Justyna?
+
+47
+00:02:25,864 --> 00:02:28,980
+Justyna stoi nad Januszem.
+
+48
+00:02:29,200 --> 00:02:31,280
+Gdzie stoi Janusz?
+
+49
+00:02:31,440 --> 00:02:34,860
+Janusz stoi na ulicy.
+
+50
+00:02:35,120 --> 00:02:38,281
+Gdzie siedzi Justyna?
+
+51
+00:02:38,281 --> 00:02:41,540
+Justyna siedzi na barierce.
+
+52
+00:02:42,356 --> 00:02:44,801
+Gdzie tańczy Janusz?
+
+53
+00:02:44,920 --> 00:02:48,500
+Janusz tańczy na chodniku.
+
+54
+00:02:48,800 --> 00:02:51,340
+Gdzie stoi Justyna?
+
+55
+00:02:51,576 --> 00:02:55,620
+Justyna stoi pod szyldem.
+
+56
+00:02:56,200 --> 00:02:58,660
+Gdzie jest Janusz?
+
+57
+00:02:58,880 --> 00:03:03,160
+Janusz jest pod wiaduktem.
+
+58
+00:03:03,693 --> 00:03:05,900
+Gdzie stoi Justyna?
+
+59
+00:03:06,160 --> 00:03:11,640
+Justyna stoi pod rusztowaniem.
+
+60
+00:03:11,888 --> 00:03:14,160
+Gdzie siedzi Janusz?
+
+61
+00:03:14,280 --> 00:03:17,620
+Janusz siedzi obok mnie.
+
+62
+00:03:17,885 --> 00:03:20,460
+Gdzie stoi Justyna?
+
+63
+00:03:20,604 --> 00:03:25,620
+Justyna stoi obok automatu z biletami.
+
+64
+00:03:26,000 --> 00:03:28,200
+Gdzie stoi Janusz?
+
+65
+00:03:28,320 --> 00:03:32,260
+Janusz stoi obok kosza na śmieci.
+
+66
+00:03:32,400 --> 00:03:35,560
+Gdzie stoi Justyna?
+
+67
+00:03:35,613 --> 00:03:39,140
+Justyna stoi między rowerami.
+
+68
+00:03:39,320 --> 00:03:41,100
+Gdzie stoi Janusz?
+
+69
+00:03:41,280 --> 00:03:45,940
+Janusz stoi między lodówkami a regałem.
+
+70
+00:03:46,120 --> 00:03:48,669
+Gdzie stoi Justyna?
+
+71
+00:03:48,694 --> 00:03:52,540
+Justyna stoi między skuterami.
+
+72
+00:03:52,735 --> 00:03:54,840
+Gdzie stoi Janusz?
+
+73
+00:03:54,859 --> 00:04:00,840
+Janusz stoi między autami.
+
+74
+00:04:00,960 --> 00:04:02,760
+To już wszystko na dzisiaj.
+
+75
+00:04:02,790 --> 00:04:04,333
+Jeżeli podobał wam się ten film
+
+76
+00:04:04,358 --> 00:04:05,828
+i chcielibyście takich więcej,
+
+77
+00:04:05,852 --> 00:04:08,280
+to koniecznie napiszcie nam w komentarzach.
+
+78
+00:04:08,298 --> 00:04:11,348
+A jeżeli chcielibyście zobaczyć ten
+niemiecki oryginał,
+
+79
+00:04:11,372 --> 00:04:13,633
+to kliknijcie tutaj.
+
+80
+00:04:13,665 --> 00:04:15,305
+Dziękujemy wam bardzo za uwagę.
+
+81
+00:04:15,330 --> 00:04:17,440
+Na razie! - Trzymajcie się!
+
