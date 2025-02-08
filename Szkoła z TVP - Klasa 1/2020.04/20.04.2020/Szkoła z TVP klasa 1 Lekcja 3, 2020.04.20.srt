@@ -1,0 +1,883 @@
+1
+00:00:07,733 --> 00:00:08,778
+Witajcie po przerwie.
+
+2
+00:00:08,778 --> 00:00:11,778
+Przed nami jeszcze kilka wyzwań matematycznych.
+
+3
+00:00:12,733 --> 00:00:17,137
+A na początek krótkie przypomnienie od naszych międzygwiezdnych podróżników
+
+4
+00:00:17,177 --> 00:00:19,243
+o tym, czym są zbiory.
+
+5
+00:00:19,817 --> 00:00:24,583
+Przedmioty możemy grupować według cech, które je łączą.
+
+6
+00:00:24,817 --> 00:00:30,508
+Taką grupę przedmiotów o podobnych cechach nazywamy właśnie zbiorem.
+
+7
+00:00:30,575 --> 00:00:36,336
+Możecie to zobaczyć na ilustracji, gdzie czerwoną pętlą zaznaczone są owoce,
+
+8
+00:00:36,336 --> 00:00:40,946
+niebieską pętlą warzywa, a zieloną pętlą zioła.
+
+9
+00:00:41,196 --> 00:00:43,298
+My dzisiaj zrobimy podobnie.
+
+10
+00:00:43,336 --> 00:00:48,781
+Pogrupujemy sobie nasze skarby, które mam tutaj w tym dużym koszu, na trzy
+kategorie.
+
+11
+00:00:48,806 --> 00:00:53,213
+Na nabiał, na warzywa oraz na produkty zbożowe.
+
+12
+00:00:54,076 --> 00:00:58,337
+Mam tutaj na przykład pomidora, do której grupy go przyporządkuję.
+
+13
+00:00:58,436 --> 00:01:00,236
+Oczywiście będzie to warzywo.
+
+14
+00:01:00,276 --> 00:01:02,236
+Mam tutaj na przykład ser żółty.
+
+15
+00:01:02,636 --> 00:01:05,530
+Włożymy go do kosza podpisanego nabiał.
+
+16
+00:01:07,356 --> 00:01:14,506
+Mam tu również pieczywo. Włożę je do kosza z produktami zbożowymi.
+
+17
+00:01:16,132 --> 00:01:20,423
+Mam tu jeszcze jeden rodzaj sera. Włożymy go do nabiału.
+
+18
+00:01:21,606 --> 00:01:27,515
+Mam jeszcze kilka warzyw. Dołożymy tutaj jeszcze ziemniaki.
+
+19
+00:01:28,039 --> 00:01:33,784
+Mamy też marchewki i ogórka.
+
+20
+00:01:35,218 --> 00:01:40,720
+Spróbujmy teraz przeliczyć, ile mamy elementów w każdym naszym zbiorze.
+
+21
+00:01:41,506 --> 00:01:45,288
+W zbiorze nabiału mamy dwa elementy.
+
+22
+00:01:45,288 --> 00:01:47,288
+Policzymy teraz, ile mamy warzyw.
+
+23
+00:01:47,632 --> 00:01:53,288
+Jeden, dwa, trzy, cztery, pięć, sześć, siedem.
+
+24
+00:01:54,039 --> 00:02:00,288
+Mamy też zbiór z produktami spożowymi i mamy tutaj trzy bułki, czyli trzy
+elementy.
+
+25
+00:02:00,288 --> 00:02:04,288
+Podpiszę teraz każdy z koszyków tak, żebyście wiedzieli,
+
+26
+00:02:04,288 --> 00:02:07,608
+ile w każdym zbiorze znajduje się elementów.
+
+27
+00:02:07,608 --> 00:02:11,608
+Tu mówiliśmy, że mamy trzy, warzyw naliczyliśmy siedem,
+
+28
+00:02:13,070 --> 00:02:16,143
+a produktów z kategorii nabiał mamy dwa.
+
+29
+00:02:17,926 --> 00:02:20,372
+To teraz kolejne przypomnienie.
+
+30
+00:02:20,878 --> 00:02:24,168
+W matematyce mamy również symbole,
+
+31
+00:02:24,168 --> 00:02:29,168
+których używamy do tego, żeby na przykład porównywać liczby.
+
+32
+00:02:29,168 --> 00:02:31,888
+Ja mam tutaj takie dwa symbole.
+
+33
+00:02:32,215 --> 00:02:34,788
+To są znaki mniejszości i większości.
+
+34
+00:02:34,812 --> 00:02:41,328
+One zawsze przypominają mi paszczę krokodyla,
+która otwiera się w kierunku większego kąska.
+
+35
+00:02:41,328 --> 00:02:48,108
+Spróbujmy porównać sobie teraz zbiór
+produktów zbożowych oraz z warzyw.
+
+36
+00:02:48,132 --> 00:02:54,000
+W którym koszu jest więcej elementów?
+Co jest większe? Siedem czy trzy?
+
+37
+00:02:54,582 --> 00:02:57,668
+Nasz znak postawimy w tę stronę,
+
+38
+00:02:57,692 --> 00:03:01,148
+tak żeby ta otwarta paszcza
+krokodyla, jak ja to nazywam,
+
+39
+00:03:01,172 --> 00:03:06,272
+była skierowana w kierunku tej większej liczby, czyli siódemki.
+
+40
+00:03:06,720 --> 00:03:12,448
+Możemy porównać też nasz kosz z nabiałem do kosza z warzywami.
+
+41
+00:03:13,120 --> 00:03:21,130
+Tym razem ustawimy nasz znak w tym kierunku, pokazując, że siedem jest większe
+od dwóch.
+
+42
+00:03:22,975 --> 00:03:27,842
+A teraz przenieśmy się myślami na targ, gdzie za chwilkę zrobimy wirtualne zakupy.
+
+43
+00:03:27,842 --> 00:03:33,442
+Oprócz naszych skarbów wsi przydadzą nam się również pieniądze oraz waga.
+
+44
+00:03:33,775 --> 00:03:39,362
+A jeśli chodzi o wagi, to możecie zobaczyć, że dawniej wyglądały one różnie.
+
+45
+00:03:39,695 --> 00:03:46,688
+Była waga szalkowa, do której trzeba było dokładać odważniki, tak żeby lewa
+strona równała się prawej.
+
+46
+00:03:46,713 --> 00:03:52,068
+Z czasem powstały wagi cyfrowe, takie jak
+już dzisiaj obecnie stosowane są w sklepach,
+
+47
+00:03:52,092 --> 00:03:54,740
+które nawet pokazują od razu cenę produktów.
+
+48
+00:03:55,501 --> 00:04:00,881
+Ja dzisiaj zważę pomidory. Zobaczymy ile ich tutaj mamy.
+
+49
+00:04:04,208 --> 00:04:10,588
+Nasza waga wskazuje 2 kg, ale zobaczcie, mamy tutaj podaną cenę za 1 kg.
+
+50
+00:04:10,828 --> 00:04:15,388
+Kilogram pomidorów kosztuje 6 zł, a więc ile zapłacę za 2 kg?
+
+51
+00:04:15,412 --> 00:04:16,788
+Napiszmy to sobie na tablicy.
+
+52
+00:04:20,586 --> 00:04:28,606
+6 zł za jeden kilogram, a ja mam tych kilogramów dwa, a więc dodam do sześciu
+jeszcze jedno 6 zł.
+
+53
+00:04:29,706 --> 00:04:30,986
+Ile wyjdzie razem?
+
+54
+00:04:32,139 --> 00:04:34,179
+To oczywiście 12 zł.
+
+55
+00:04:35,679 --> 00:04:37,519
+Ale to nie koniec zakupów.
+
+56
+00:04:38,946 --> 00:04:41,692
+Chciałabym jeszcze dokupić do tego trochę marchewki.
+
+57
+00:04:43,446 --> 00:04:46,459
+Zważymy ją teraz, zobaczymy ile jej tutaj mamy.
+
+58
+00:04:50,813 --> 00:04:53,433
+Kilogram marchewki kosztuje 3 złote.
+
+59
+00:04:55,987 --> 00:05:05,627
+Dodamy sobie więc teraz do 12 złotych za pomidory 3 kolejne złote za marchewki.
+
+60
+00:05:08,454 --> 00:05:09,708
+Ile wyjdzie razem?
+
+61
+00:05:10,434 --> 00:05:16,063
+12 złotych dodać 3 złote to 15 złotych.
+
+62
+00:05:18,743 --> 00:05:20,583
+Przyszła pora na płacenie.
+
+63
+00:05:22,542 --> 00:05:30,842
+Możemy użyć banknotu dziesięciozłotowego oraz monety pięciozłotowej.
+
+64
+00:05:31,250 --> 00:05:32,470
+Mamy piętnaście złotych.
+
+65
+00:05:32,830 --> 00:05:34,470
+Można zapłacić też w inny sposób.
+
+66
+00:05:35,090 --> 00:05:38,390
+Możemy użyć trzech monet o wartości pięciu złotych.
+
+67
+00:05:38,736 --> 00:05:42,005
+Razem będzie piętnaście, bo mamy pięć.
+
+68
+00:05:42,030 --> 00:05:43,970
+Dodać kolejne pięć to już jest dziesięć.
+
+69
+00:05:44,382 --> 00:05:46,062
+I jeszcze trzecia piątka.
+
+70
+00:05:46,087 --> 00:05:47,467
+Mamy piętnaście złotych.
+
+71
+00:05:48,539 --> 00:05:54,139
+A na jakie jeszcze inne sposoby możemy zapłacić? Jakich innych monet używając?
+
+72
+00:05:54,284 --> 00:05:59,100
+Na pewno tych kombinacji jest sporo. Spróbujcie się nad tym sami zastanowić.
+
+73
+00:06:00,224 --> 00:06:05,815
+A teraz zapraszam Was jeszcze na ostatnie wyzwanie na dzisiaj. Wyzwanie
+matematyczne.
+
+74
+00:06:06,104 --> 00:06:11,460
+Ruszymy za chwilę swoimi głowami. Zapraszam Was do quizu, jak pomyślę to
+obliczę.
+
+75
+00:06:12,521 --> 00:06:17,088
+Przyda Wam się teraz kartka w kratkę i ołówek, żeby zapisywać swoje obliczenia.
+
+76
+00:06:17,121 --> 00:06:22,338
+Ja swoje obliczenia będę zapisywać na tablicy, więc będziecie mogli sprawdzić je
+razem ze mną.
+
+77
+00:06:22,363 --> 00:06:24,468
+Przed nami pierwsze zadanie.
+
+78
+00:06:24,492 --> 00:06:27,940
+Przeczytamy sobie uważnie, jakie będzie nasze pytanie.
+
+79
+00:06:28,107 --> 00:06:32,660
+Po podwórku chodziły trzy kaczki, cztery kury i duży indyk.
+
+80
+00:06:32,685 --> 00:06:35,673
+Pytanie brzmi: 
+"Ile zwierząt było na podwórku?"
+
+81
+00:06:35,697 --> 00:06:38,057
+Zastanówmy się przez chwilę.
+
+82
+00:06:38,364 --> 00:06:41,200
+Czy będzie to odpowiedź A. 10?
+
+83
+00:06:41,200 --> 00:06:43,200
+Odpowiedź B. 8?
+
+84
+00:06:43,200 --> 00:06:45,704
+A może C. 7?
+
+85
+00:06:46,670 --> 00:06:51,322
+3 kaczki i 4 kury,
+
+86
+00:06:54,055 --> 00:06:55,531
+a do tego jeszcze duży indyk.
+
+87
+00:06:55,556 --> 00:06:57,696
+Musimy więc dodać jeszcze jeden.
+
+88
+00:06:59,822 --> 00:07:01,427
+Która to będzie odpowiedź?
+
+89
+00:07:03,494 --> 00:07:05,200
+3 dodać 4 to 7.
+
+90
+00:07:05,200 --> 00:07:07,200
+Dodać jeszcze jeden.
+
+91
+00:07:07,200 --> 00:07:09,200
+To razem 8.
+
+92
+00:07:09,200 --> 00:07:10,460
+Poprawna odpowiedź.
+
+93
+00:07:10,464 --> 00:07:13,704
+To odpowiedź B.
+
+94
+00:07:13,704 --> 00:07:17,460
+Przechodzimy teraz do następnego pytania.
+
+95
+00:07:18,784 --> 00:07:23,584
+Tym razem po naszym podwórku chodzą trzy gęsi i jeden królik.
+
+96
+00:07:23,584 --> 00:07:30,224
+Pytanie brzmi: Ile nóg mają razem te zwierzęta?
+
+97
+00:07:30,224 --> 00:07:32,704
+Znowu mamy trzy podpowiedzi.
+
+98
+00:07:32,704 --> 00:07:38,224
+Cztery, osiem czy może dziesięć?
+
+99
+00:07:39,087 --> 00:07:44,602
+Nasze zwierzęta narysuję symbolicznie za pomocą takiego kółka.
+
+100
+00:07:44,994 --> 00:07:49,632
+Mamy trzy gęsi i jednego królika.
+
+101
+00:07:50,495 --> 00:07:52,102
+Interesują nas ich nogi.
+
+102
+00:07:52,874 --> 00:07:57,854
+Gęsi mają po dwie nogi, natomiast królik ma tych nóg cztery.
+
+103
+00:07:57,994 --> 00:07:59,209
+Policzmy więc razem.
+
+104
+00:07:59,614 --> 00:08:05,382
+Dwa, dodać dwa, dodać dwa, dodać jeszcze cztery.
+
+105
+00:08:06,154 --> 00:08:07,631
+Ile to będzie razem?
+
+106
+00:08:10,607 --> 00:08:16,225
+Dziesięć. Prawidłowa odpowiedź na to pytanie to dziesięć, czyli odpowiedź C.
+
+107
+00:08:16,682 --> 00:08:18,682
+Przejdźmy do kolejnego.
+
+108
+00:08:21,352 --> 00:08:24,507
+We wsi Hodyszewo mieszka dziadek Agnieszki,
+
+109
+00:08:24,532 --> 00:08:27,450
+który hoduje 8 kur i 3 koguty.
+
+110
+00:08:27,698 --> 00:08:30,650
+Każda kura znosi dziennie 1 jajko.
+
+111
+00:08:30,916 --> 00:08:36,116
+Nasze pytanie brzmi: "Ile jajek uzbiera dziadek w ciągu dwóch dni?"
+
+112
+00:08:37,850 --> 00:08:39,070
+Przyjrzyjmy się.
+
+113
+00:08:39,072 --> 00:08:44,192
+Mamy odpowiedź: osiem, czternaście, albo szesnaście.
+
+114
+00:08:46,192 --> 00:08:48,592
+Dziadek Agnieszki hoduje osiem kur.
+
+115
+00:08:49,192 --> 00:08:51,472
+Każda kura znosi dziennie jedno jajko.
+
+116
+00:08:53,832 --> 00:08:58,312
+A więc osiem kur jednego dnia zniesie nam osiem jajek.
+
+117
+00:08:58,992 --> 00:09:03,656
+W ciągu dwóch dni musimy więc dodać jeszcze jedno osiem.
+
+118
+00:09:04,672 --> 00:09:10,592
+Bo w ciągu dwóch dni tych jajek będzie już szesnaście.
+
+119
+00:09:11,567 --> 00:09:15,592
+Prawidłowa odpowiedź zatem to
+odpowiedź C.
+
+120
+00:09:16,038 --> 00:09:18,038
+Jeszcze jedno pytanie przed Wami.
+
+121
+00:09:21,592 --> 00:09:25,592
+Skrzynka z warzywami waży dwanaście kilogramów.
+
+122
+00:09:25,592 --> 00:09:28,592
+Pusta skrzynka waży dwa kilogramy.
+
+123
+00:09:28,922 --> 00:09:32,174
+Pytanie brzmi: Ile ważą same warzywa?
+
+124
+00:09:32,400 --> 00:09:35,592
+Odpowiedź A:
+Dziesięć kilogramów.
+
+125
+00:09:35,592 --> 00:09:38,577
+Odpowiedź B: 
+Czternaście kilogramów.
+
+126
+00:09:38,614 --> 00:09:40,014
+I C: 
+Osiem.
+
+127
+00:09:42,014 --> 00:09:45,694
+Jeśli skrzynka wraz z warzywami waży dwanaście kilogramów,
+
+128
+00:09:45,823 --> 00:09:49,303
+a wiemy, że sama skrzynka waży tylko dwa kilogramy,
+
+129
+00:09:49,574 --> 00:09:51,454
+wystarczy odjąć
+
+130
+00:09:51,788 --> 00:09:52,788
+dwa
+
+131
+00:09:53,543 --> 00:09:56,523
+i dostaniemy odpowiedź, ile ważą same warzywa.
+
+132
+00:09:56,548 --> 00:09:57,915
+Odpowiedź to
+
+133
+00:09:59,448 --> 00:10:00,448
+dziesięć.
+
+134
+00:10:00,861 --> 00:10:02,661
+Czyli odpowiedź A:
+
+135
+00:10:02,948 --> 00:10:04,348
+Dziesięć kilogramów.
+
+136
+00:10:04,352 --> 00:10:08,432
+Mam nadzieję, że udało wam się samodzielnie odpowiedzieć na większość z tych
+pytań.
+
+137
+00:10:08,432 --> 00:10:11,032
+Bardzo wam gratuluję, że podjęliście się tego.
+
+138
+00:10:11,032 --> 00:10:15,672
+A tymczasem, jak już ruszyliście swoimi głowami, zapraszam do pana Grzegorza
+Żółki.
+
+139
+00:10:18,352 --> 00:10:21,408
+Witam was, kochane dzieciaki.
+
+140
+00:10:21,435 --> 00:10:24,872
+O, i jak tam? Brzusie pełne?
+
+141
+00:10:24,931 --> 00:10:28,568
+Energia kipi? Jest moc? No to zaczynamy!
+
+142
+00:10:28,622 --> 00:10:31,152
+Prrr, chwila, chwila, zaraz, zaraz.
+
+143
+00:10:31,152 --> 00:10:34,192
+Najpierw powinienem się wam przedstawić.
+
+144
+00:10:34,238 --> 00:10:45,440
+Tak? Nazywam się Gżegżółka i jestem panem od spraw trudnych, lecz nie nudnych.
+
+145
+00:10:45,553 --> 00:10:58,156
+Ortografia się wam trafia! Głoska, litery, sylaby, zdania, słowa, piękne słowa,
+cudna mowa.
+
+146
+00:10:59,083 --> 00:11:02,732
+Kochani, ale zanim zaczniemy działania,
+
+147
+00:11:02,736 --> 00:11:05,036
+trzeba się troszkę rozgrzać.
+
+148
+00:11:05,036 --> 00:11:08,396
+No to zaczynamy od gimnastyki.
+
+149
+00:11:08,396 --> 00:11:12,171
+Gimnastyka buzi i języka.
+
+150
+00:11:12,505 --> 00:11:15,656
+Proponuję, żebyśmy zaczęli od tego,
+
+151
+00:11:15,656 --> 00:11:17,036
+że weźmiemy sobie lusterko.
+
+152
+00:11:17,036 --> 00:11:19,536
+Ja mam tutaj takie upożyczone.
+
+153
+00:11:19,536 --> 00:11:20,829
+Mhm.
+
+154
+00:11:20,854 --> 00:11:23,536
+Lustereczko pomoże nam kontrolować to,
+
+155
+00:11:23,536 --> 00:11:25,236
+co się dzieje z naszą buzią.
+
+156
+00:11:25,236 --> 00:11:27,036
+Pierwsze ćwiczenie jest bardzo przyjemne,
+
+157
+00:11:27,036 --> 00:11:28,236
+jest bardzo proste.
+
+158
+00:11:28,236 --> 00:11:30,236
+Zamykamy usta.
+
+159
+00:11:30,236 --> 00:11:32,236
+Nasze wargi są ze sobą.
+
+160
+00:11:32,240 --> 00:11:38,400
+I zaczynamy wydmuchiwać powietrze, czyli parskamy, jak koniki.
+
+161
+00:11:43,200 --> 00:11:48,400
+Super! To ćwiczenie jest o tyle ważne, że nasze spięte buźki często trzeba
+rozluźniać
+
+162
+00:11:48,400 --> 00:11:52,512
+i wtedy po każdym zadaniu możecie wykonywać to ćwiczenie.
+
+163
+00:11:52,812 --> 00:12:01,760
+Drugie ćwiczenie. Uśmiechamy się, szeroko usta rozciągamy.
+
+164
+00:12:01,760 --> 00:12:09,760
+Bardzo jak takie żaby, a potem robimy dzióbek, wąziutki dzióbek.
+
+165
+00:12:09,760 --> 00:12:17,195
+Zgadza się. Szeroko, wązko, szeroko, wązko, a potem co trzeba zrobić?
+
+166
+00:12:17,395 --> 00:12:28,412
+Rozluźniamy, czyli parskamy, jak koniki.
+
+167
+00:12:28,892 --> 00:12:31,186
+Dużo się już nauczyliście dzisiaj.
+
+168
+00:12:31,186 --> 00:12:34,186
+Wiecie, jak zapisuje się
+
+169
+00:12:34,186 --> 00:12:37,186
+spółgłoski miękkie
+
+170
+00:12:37,186 --> 00:12:40,186
+albo poprzez znak, kreseczkę
+
+171
+00:12:40,186 --> 00:12:43,186
+nad spółgłoską, albo
+
+172
+00:12:43,186 --> 00:12:46,186
+poprzez "i", które dodajemy.
+
+173
+00:12:46,186 --> 00:12:48,774
+Teraz chciałbym zobaczyć, jak to spraktykujemy
+
+174
+00:12:48,799 --> 00:12:52,134
+w bardzo trudnych ćwiczeniach artykulacyjnych.
+
+175
+00:12:52,186 --> 00:12:55,186
+Takie łamisłówka przed nami.
+
+176
+00:12:55,635 --> 00:12:57,536
+Pierwszy: "ćma",
+
+177
+00:12:57,536 --> 00:13:02,536
+"ćmę", "ćmi", "ćma", "ćmę", "ćmi", "ćma", "ćmę", "ćmi".
+
+178
+00:13:02,536 --> 00:13:09,080
+No i wreszcie takie moje ulubione, kryminalny wątek:
+
+179
+00:13:09,167 --> 00:13:16,150
+śledzi, śledzia, śledź, śledzi, śledzia, śledź, śledzi, śledzia, śledź.
+
+180
+00:13:16,175 --> 00:13:20,759
+A ponieważ nasz odcinek jest rozgrywany na wiosce,
+
+181
+00:13:20,832 --> 00:13:23,990
+mamy lekcję, która jest poświęcona temu tematowi,
+
+182
+00:13:24,015 --> 00:13:28,015
+to ułożyłem taką krótką bardzo grę artykulacyjną.
+
+183
+00:13:29,099 --> 00:13:38,048
+"Sierpem ścina Jaś, kosą kosi Staś"
+
+184
+00:13:38,048 --> 00:13:41,508
+Specjalnie dla was
+przygotowałem taki wierszyk,
+
+185
+00:13:41,532 --> 00:13:46,268
+który miesza te dwie formy,
+
+186
+00:13:46,292 --> 00:13:50,468
+w jakich zapisujemy współgłoski miękkie,
+
+187
+00:13:50,492 --> 00:13:54,048
+albo przez kreskę, albo przez dodaną literkę "i".
+
+188
+00:13:54,870 --> 00:13:57,920
+Zaraz wam go powiem, postaram się oczywiście.
+
+189
+00:13:58,385 --> 00:14:06,552
+Pamiętajcie, przypomnijcie sobie, kiedy wymawiamy coś krócej, a kiedy dłużej.
+
+190
+00:14:06,726 --> 00:14:11,400
+Zosia z Zośką się spotkały i się z misia Krzysia śmiały.
+
+191
+00:14:11,400 --> 00:14:15,828
+Hmm, uszy ma jak śledzie miś.
+
+192
+00:14:15,852 --> 00:14:19,508
+Jak na imię dał mu Krzyś? Ciapek.
+
+193
+00:14:19,532 --> 00:14:22,400
+To od brudnych łapek.
+
+194
+00:14:22,400 --> 00:14:29,080
+Czyści się pazurki misiu. Nie dbasz o pluszaka Krzysiu.
+
+195
+00:14:29,080 --> 00:14:33,560
+Miś pocieszał Krzysia grą w kosi łapci.
+
+196
+00:14:33,560 --> 00:14:40,240
+Niechaj drwią my do babci pojedziemy, z śliwek ciasto upieczemy
+
+197
+00:14:40,240 --> 00:14:47,680
+i będziemy ze śmietanką jeść naleśniki z pianką.
+
+198
+00:14:47,680 --> 00:14:50,135
+Gdy to Zośki usłyszały,
+
+199
+00:14:50,375 --> 00:14:54,227
+z razu na wieś jechać chciały.
+
+200
+00:14:55,950 --> 00:15:00,308
+Rączki sobie pobrudzicie,
+gdy się owoców chwycicie.
+
+201
+00:15:00,332 --> 00:15:06,228
+Przepraszamy i od dzisiaj
+nie będziemy śmiać się z misia.
+
+202
+00:15:06,252 --> 00:15:10,148
+Obiecały i się szybko spakowały.
+
+203
+00:15:10,172 --> 00:15:13,308
+A czy... na wieś dojechały?
+
+204
+00:15:13,332 --> 00:15:20,281
+Nie wiem, może kiedyś spotkacie
+Zośki, a może misia i Krzysia,
+
+205
+00:15:20,305 --> 00:15:25,504
+gdzieś w jakimś sierpniowym
+sadzie, jak zbierają owoce.
+
+206
+00:15:25,504 --> 00:15:27,788
+Tymczasem ja żegnam się z wami.
+
+207
+00:15:27,812 --> 00:15:33,588
+Dziękuję za obecność, bo pora na mały posiłek.
+
+208
+00:15:33,612 --> 00:15:39,884
+Oj, smacznego. Śliwka robaczywka.
+
+209
+00:15:39,888 --> 00:15:45,188
+Maleńki ślimaczek
+wyrzeźbił w niej szlaczek.
+
+210
+00:15:45,212 --> 00:15:50,318
+Do zobaczenia. Dzięki za uwagę i do
+następnego.
+
+211
+00:15:50,408 --> 00:15:53,828
+Dziękuję wam za czas
+spędzony dzisiaj w naszej szkole
+
+212
+00:15:53,852 --> 00:15:58,195
+i zapraszam was na jutro,
+bo czeka nas lot w kosmos.
+
+213
+00:15:58,219 --> 00:15:59,906
+Do zobaczenia.
+
