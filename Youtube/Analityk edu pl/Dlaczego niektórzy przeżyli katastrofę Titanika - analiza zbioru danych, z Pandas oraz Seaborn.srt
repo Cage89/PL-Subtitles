@@ -1,0 +1,506 @@
+1
+00:00:00,000 --> 00:00:02,548
+Panie i Panowie, witam ponownie.
+
+2
+00:00:02,573 --> 00:00:06,401
+Dzisiaj porozmawiamy o jednym z najpopularniejszych zbiorów danych,
+
+3
+00:00:06,426 --> 00:00:09,000
+który jest wykorzystywany na etapie nauki analizy danych,
+
+4
+00:00:09,000 --> 00:00:13,176
+data mining, machine learningu, BI czy jakkolwiek tego nie nazwiemy.
+
+5
+00:00:13,216 --> 00:00:18,000
+Mianowicie o zbiorze danych zawierającym informacje na temat pasażerów statku
+Titanic.
+
+6
+00:00:18,000 --> 00:00:23,000
+Kto przeżył, zginął, wiek, klasa biletu i kilka innych ciekawych informacji.
+
+7
+00:00:23,000 --> 00:00:28,592
+Cała zabawa polega na przeprowadzeniu analizy w celu odpowiedziania sobie na
+pytanie:
+
+8
+00:00:28,592 --> 00:00:34,832
+Czy fakt, że dana osoba przeżyła jest przypadkiem, czy też wynikało to z
+konkretnych rzeczy?
+
+9
+00:00:34,832 --> 00:00:37,632
+Można taką analizę przeprowadzić na wiele sposobów.
+
+10
+00:00:37,632 --> 00:00:41,352
+W ostatnich odcinkach pokazywaliśmy biblioteki Pandas oraz Seaboard.
+
+11
+00:00:41,352 --> 00:00:47,112
+Tak więc dzisiaj spróbujemy dokonać szybkiej, szybkiej analizy za pomocą
+dokładnie tych bibliotek.
+
+12
+00:00:47,112 --> 00:00:48,512
+Zaczynajmy!
+
+13
+00:00:49,319 --> 00:00:50,952
+Ja już się trochę przygotowałem.
+
+14
+00:00:50,952 --> 00:00:55,273
+Mamy tutaj m.in. kody importujące nasze biblioteki
+
+15
+00:00:55,298 --> 00:00:56,448
+pandas as pd
+
+16
+00:00:56,473 --> 00:00:59,035
+seaborn do wykresów as sns
+
+17
+00:00:59,059 --> 00:01:01,480
+matplotlib, gdyż jest on potrzebny do seaborn
+
+18
+00:01:01,480 --> 00:01:03,480
+czy numPy, bo jest potrzebny do pandas.
+
+19
+00:01:03,480 --> 00:01:06,480
+Ctrl+Enter i nasze biblioteki będą zaimportowane.
+
+20
+00:01:06,480 --> 00:01:11,480
+Pod tym linkiem możemy znaleźć sam zbiór danych Titanic.
+
+21
+00:01:11,480 --> 00:01:15,480
+Zaczytamy go do naszego DataFrame z pomocą funkcji read_csv
+
+22
+00:01:15,480 --> 00:01:17,843
+no i wyświetlimy 5 pierwszych wierszy.
+
+23
+00:01:17,943 --> 00:01:21,299
+No i mamy tutaj wszystkie dane, o których rozmawialiśmy.
+
+24
+00:01:21,324 --> 00:01:24,496
+Najważniejsze jest, czy dany pasażer przeżył, czy nie.
+
+25
+00:01:24,496 --> 00:01:29,136
+Jest również klasa biletu, imię, płeć, wiek i kilka innych danych.
+
+26
+00:01:29,136 --> 00:01:31,436
+My ich wszystkich nie będziemy dzisiaj analizować.
+
+27
+00:01:31,436 --> 00:01:36,976
+Okroimy nasz zbiór tylko do: "Survived", "Klasa", "Płeć" oraz "Wiek".
+
+28
+00:01:36,976 --> 00:01:41,336
+"Ctrl+Enter", no i mamy całkiem zgrabnie wyglądający zbiór.
+
+29
+00:01:41,336 --> 00:01:47,336
+Zobaczymy jeszcze, jak wyglądają braki w naszych danych. Sum.
+
+30
+00:01:47,344 --> 00:01:54,744
+No i tutaj widzimy, że zbiór jest niezły, oprócz tego, że jest 263 wierszy, w
+których brakuje wieku.
+
+31
+00:01:54,744 --> 00:02:00,824
+Z tego co kojarzę, zbiór zawiera tylko i wyłącznie pasażerów statku Titanic, nie
+zawiera jego obsługi.
+
+32
+00:02:00,824 --> 00:02:03,304
+Dlaczego brakujące dane mają znaczenie?
+
+33
+00:02:03,304 --> 00:02:08,724
+Niektóre wykresy seaborn nie poradzą się z brakującymi danymi, więc będziemy
+musieli mieć to na uwadze.
+
+34
+00:02:08,724 --> 00:02:11,136
+Plan gry jest następujący:
+
+35
+00:02:11,136 --> 00:02:14,308
+W pierwszej kolejności
+zamienimy zmienną "survived",
+
+36
+00:02:14,332 --> 00:02:19,336
+gdzie jest jedynka jako "przeżył", a zero jako "nie przeżył" na "yes" oraz "no".
+
+37
+00:02:19,336 --> 00:02:29,976
+W ten sposób zbiór będzie bardziej czytelny oraz przećwiczymy dość często
+wykonywaną w pandas operację, jaką jest zamiana wartości w danych komórkach.
+
+38
+00:02:29,976 --> 00:02:36,796
+Następnie zobaczymy dystrybucję klasy biletu, wieku pasażera oraz jego płci.
+
+39
+00:02:36,796 --> 00:02:37,872
+Dobra.
+
+40
+00:02:37,872 --> 00:02:41,748
+To na początku zamienimy zera na "no", a jedynki na "yes",
+
+41
+00:02:41,772 --> 00:02:44,668
+w tym celu wykorzystamy funkcję loc,
+
+42
+00:02:44,692 --> 00:02:46,228
+która jest dość zgrabna
+
+43
+00:02:46,252 --> 00:02:51,228
+i pozwoli nam dla wszystkich wierszy zamienić kolumnę "Survived"
+
+44
+00:02:51,252 --> 00:03:00,503
+tam gdzie i tutaj podamy warunek df Survived Survived 0,
+
+45
+00:03:00,528 --> 00:03:07,272
+no to wstawimy "no", czyli nie przeżył, a wszędzie tam kopiujemy
+
+46
+00:03:07,280 --> 00:03:11,428
+gdzie była jedynka, wstawimy "yes",
+
+47
+00:03:11,452 --> 00:03:13,280
+no i jeszcze wyświetlimy nasz zbiór danych
+
+48
+00:03:13,280 --> 00:03:16,280
+żeby zobaczyć czy go nie zepsuliśmy, CTRL+ENTER
+
+49
+00:03:16,280 --> 00:03:19,280
+wygląda już lepiej, natomiast sama ta operacja
+
+50
+00:03:19,280 --> 00:03:22,280
+jest dość częsta w przypadku pandas
+
+51
+00:03:22,280 --> 00:03:25,280
+dobrze, spójrzmy na klasę biletu
+
+52
+00:03:25,280 --> 00:03:28,280
+możemy to zrobić wykorzystując
+
+53
+00:03:28,280 --> 00:03:30,788
+catplot, category plot,
+
+54
+00:03:30,812 --> 00:03:33,734
+gdzie data to będzie nasz data frame,
+
+55
+00:03:33,772 --> 00:03:36,138
+na x umieścimy informację
+
+56
+00:03:36,162 --> 00:03:39,508
+czy "survived" czy też "nie"
+
+57
+00:03:39,532 --> 00:03:43,308
+oraz typ wykresu "kind" równa się "count"
+
+58
+00:03:43,332 --> 00:03:44,592
+CTRL+ENTER,
+
+59
+00:03:44,616 --> 00:03:45,988
+no i tak to wygląda,
+
+60
+00:03:46,012 --> 00:03:50,828
+500 pasażerów przeżyło i około 800 nie przeżyło,
+
+61
+00:03:50,852 --> 00:03:54,020
+jeżeli chcemy spojrzeć na klasę biletu
+
+62
+00:03:54,044 --> 00:03:58,508
+i jak miała to wpływ na to czy przeżył czy nie przeżył,
+
+63
+00:03:58,532 --> 00:04:01,228
+możemy skorzystać dokładnie z tego samego wykresu,
+
+64
+00:04:01,252 --> 00:04:06,616
+tak więc kopiujemy nasze kody, kopiujemy CTRL+C
+
+65
+00:04:06,624 --> 00:04:08,788
+CTRL+V
+
+66
+00:04:08,812 --> 00:04:15,507
+i dodamy jeszcze "hue" równa się "pclass"
+
+67
+00:04:15,580 --> 00:04:16,908
+CTRL+ENTER,
+
+68
+00:04:16,932 --> 00:04:21,348
+no i widzimy dokładnie tą samą informację, tyle że rozbitą na klasę biletu,
+
+69
+00:04:21,372 --> 00:04:24,748
+jedynka to jest najwyższa klasa biletu, czyli te najdroższe,
+
+70
+00:04:24,772 --> 00:04:28,018
+a trójka to pewnie jakaś klasa ekonomiczna, najtańsza,
+
+71
+00:04:28,042 --> 00:04:31,268
+no i widzimy, że rażąca ilość pasażerów,
+
+72
+00:04:31,292 --> 00:04:35,228
+większość pasażerów która miała klasę ekonomiczną,
+
+73
+00:04:35,252 --> 00:04:39,068
+przynajmniej tą najtańszą,
+nie przeżyła katastrofy,
+
+74
+00:04:39,092 --> 00:04:42,388
+natomiast jeżeli spojrzymy na pasażerów, którzy przeżyli,
+
+75
+00:04:42,412 --> 00:04:45,645
+to większość z nich miała klasę pierwszą,
+
+76
+00:04:45,804 --> 00:04:48,428
+czyli no skąd może to wynikać,
+
+77
+00:04:48,452 --> 00:04:51,788
+może ich kajuty były zlokalizowane bliżej łodzi ratunkowych,
+
+78
+00:04:51,812 --> 00:04:54,268
+może mieli pierwszeństwo przy ewakuacji,
+
+79
+00:04:54,292 --> 00:04:56,908
+no trzeba by to przeanalizować głębiej.
+
+80
+00:04:56,932 --> 00:04:59,431
+Dobra, teraz spójrzmy na wiek,
+
+81
+00:04:59,456 --> 00:05:02,108
+do tego wykorzystamy również seaborna,
+
+82
+00:05:02,132 --> 00:05:04,548
+ale funkcję distributionplot, distplot,
+
+83
+00:05:04,572 --> 00:05:10,068
+sns.distplot, no i teraz tak,
+
+84
+00:05:10,092 --> 00:05:14,480
+podamy nasz dataframe oraz age, jako zmienną, którą chcemy analizować,
+
+85
+00:05:14,504 --> 00:05:17,585
+oraz ilość przydziałów, więc równa się 20.
+
+86
+00:05:17,676 --> 00:05:21,068
+Jeżeli ruchymy naszą funkcję, no to otrzymamy dystrybucję,
+
+87
+00:05:21,092 --> 00:05:27,772
+aczkolwiek nie będzie ona odróżniać, nie będziemy mieli żadnego
+rozróżnienia pomiędzy pasażerami, którzy przeżyli, a którzy nie przeżyli.
+
+88
+00:05:28,179 --> 00:05:30,508
+W tym celu, aby to uzyskać,
+
+89
+00:05:30,532 --> 00:05:33,908
+na początku zrobimy dystrybucję pasażerów, którzy nie przeżyli
+
+90
+00:05:33,932 --> 00:05:42,028
+i tutaj umieścimy warunek df, Survived i tutaj zrobimy 0,
+
+91
+00:05:42,052 --> 00:05:47,908
+CTRL+ENTER, nie 0
+tylko "no", bo zamieniliśmy,
+
+92
+00:05:47,932 --> 00:05:49,188
+CTRL+ENTER,
+
+93
+00:05:49,212 --> 00:05:52,588
+no i mamy dystrybucję pasażerów, którzy nie przeżyli,
+
+94
+00:05:52,612 --> 00:05:56,448
+żeby mieć takie same kolory zmienimy to na pasażerów, którzy przeżyli.
+
+95
+00:05:56,448 --> 00:06:01,997
+Dobra i analogicznie zrobimy dystrybucję pasażerów, którzy nie przeżyli,
+
+96
+00:06:02,022 --> 00:06:05,668
+zamieniamy "yes" na "no"
+
+97
+00:06:05,692 --> 00:06:09,868
+i jeszcze wyświetlimy to
+na tym samym wykresie,
+
+98
+00:06:09,892 --> 00:06:13,948
+no i tak, widzimy, że dystrybucje są bardzo podobne,
+
+99
+00:06:13,972 --> 00:06:18,097
+z jednym wyjątkiem, w przypadku
+pasażerów o młodym wieku,
+
+100
+00:06:18,121 --> 00:06:21,576
+pewnie chodzi o dzieci
+z wieku poniżej 10 lat,
+
+101
+00:06:21,691 --> 00:06:25,536
+widzimy tutaj peak w ilości tych, które przeżyły.
+
+102
+00:06:25,942 --> 00:06:28,828
+Czyli prawdopodobnie takie dzieci,
+
+103
+00:06:28,852 --> 00:06:31,428
+albo w wyniku tego, że były pod opieką rodziców,
+
+104
+00:06:31,453 --> 00:06:34,028
+były gdzieś wpychane na siłę do łodzi ratunkowych,
+
+105
+00:06:34,052 --> 00:06:37,628
+albo miały również, podobnie
+jak pasażerowie klasy pierwszej,
+
+106
+00:06:37,652 --> 00:06:40,028
+pierwszeństwo do wejścia na tę łodzie,
+
+107
+00:06:40,052 --> 00:06:42,748
+no znowu trzeba by, i można by pewnie wyczytać,
+
+108
+00:06:42,772 --> 00:06:44,748
+jeszcze na koniec spojrzymy,
+
+109
+00:06:44,772 --> 00:06:48,228
+czy płeć miała wpływ na to, czy pasażer przeżył, czy nie,
+
+110
+00:06:48,252 --> 00:06:55,434
+znowu catplot, kopujemy, wklejamy,
+zamieniamy pclass na sex, CTRL-ENTER,
+
+111
+00:06:55,744 --> 00:06:58,217
+Survived, "no", i widzimy,
+
+112
+00:06:58,241 --> 00:07:02,184
+że większość pasażerów, która nie przeżyła, to byli mężczyźni,
+
+113
+00:07:02,208 --> 00:07:06,264
+natomiast większość pasażerów, która przeżyła, to były kobiety.
+
+114
+00:07:06,844 --> 00:07:11,108
+Takie są bardzo zgrubne i szybkie, być może powierzchowne wnioski,
+
+115
+00:07:11,132 --> 00:07:14,184
+w wyniku krótkiej analizy z pomocą pandas oraz seaborna,
+
+116
+00:07:14,344 --> 00:07:17,974
+gdzie spojrzeliśmy na to, ilu pasażerów przeżyło, zginęło,
+
+117
+00:07:17,998 --> 00:07:22,164
+jak to zależało od klasy biletu, wieku oraz płci.
+
+118
+00:07:22,736 --> 00:07:26,268
+W kolejnym odcinku spojrzymy na dokładnie ten sam zbiór danych,
+
+119
+00:07:26,292 --> 00:07:32,243
+ale za pomocą innego narzędzia, jakim jest
+Orange, darmowe narzędzie do data minningu.
+
+120
+00:07:32,396 --> 00:07:34,515
+Tak naprawdę jest to biblioteka oparta na pandas,
+
+121
+00:07:34,539 --> 00:07:36,516
+ale bardzo ciekawa i bardzo fajna.
+
+122
+00:07:36,516 --> 00:07:40,816
+W tym odcinku to wszystko. Bardzo dziękuję za uwagę i do usłyszenia już wkrótce.
+
