@@ -1,1162 +1,1796 @@
 1
-00:00:00,000 --> 00:00:03,000
-Napisy stworzone przez społeczność Amara.org
+00:00:00,000 --> 00:00:00,380
+...
 
 2
-00:00:23,312 --> 00:00:28,312
-Województwo Lubuskie drodzy Państwo i symboliczny dla tego
+00:00:00,380 --> 00:00:31,550
+Województwo lubuskie, drodzy Państwo, i symboliczny dla tego miejsca pejzaż,
 
 3
-00:00:28,312 --> 00:00:32,312
-miejsca pejzaż, o którym zresztą będzie jeszcze dzisiaj mowa.
+00:00:31,870 --> 00:00:34,329
+o którym zresztą będzie jeszcze dzisiaj mowa.
 
 4
-00:00:32,312 --> 00:00:37,312
-Zanim jednak zaczniemy rozbierać tę ziemię na kawałki przyjrzyjmy
+00:00:34,329 --> 00:00:42,170
+Zanim jednak zaczniemy rozbierać tę ziemię na kawałki, przyjrzyjmy się etymologii jej nazwy.
 
 5
-00:00:37,312 --> 00:00:42,312
-się etymologii jej nazwy. Tak jest historyczna kraina,
+00:00:42,490 --> 00:00:48,350
+Tak jest, historyczna kraina, ziemia lubuska, która należała kiedyś do państwa Mieszka I.
 
 6
-00:00:42,312 --> 00:00:46,312
-ziemia lubuska, która należała kiedyś do państwa Mieszka I.
+00:00:48,969 --> 00:00:53,250
+Jednak w XIII wieku przeszła we władanie Brandenburczyków.
 
 7
-00:00:46,312 --> 00:00:51,312
-Jednak w XIII wieku przeszła we władanie Brandę Burczyków.
+00:00:53,390 --> 00:01:01,590
+Pokojowo chodziło o zastaw pożyczki, którą wziął książe śląski Bolesław Rogatka, Piast zresztą.
 
 8
-00:00:51,312 --> 00:00:56,312
-Władanie Brandę Burczyków pokojowo chodziło o zastaw pożyczki,
+00:01:01,590 --> 00:01:04,170
+Potem była tutaj korona świętego Wacława.
 
 9
-00:00:56,312 --> 00:01:01,312
-którą wziął książę Śląski, Bolesław Rogatka, Piast zresztą.
+00:01:04,650 --> 00:01:11,930
+Austria, Prusy, Cesarstwo Niemiec i od 1945 roku Polska.
 
 10
-00:01:01,312 --> 00:01:06,312
-Potem była tutaj korona świętego Wacława, Austria, Prusy,
+00:01:12,310 --> 00:01:21,590
+Ziemia lubuska od miasta Lubusz, które wszakże od 1945 roku było w NRD, dzisiaj w Zjednoczonych Niemczech.
 
 11
-00:01:06,312 --> 00:01:12,312
-cesarstwo Niemiec i od 1945 roku Polska.
+00:01:22,890 --> 00:01:30,510
+Stolicą województwa lubuskiego jest rzecz jasna Zielona Góra, która wszakże nigdy nic wspólnego z ziemią lubuską nie miała.
 
 12
-00:01:12,312 --> 00:01:18,312
-Ziemia lubuska od miasta Lubusz, które wszakże od 45 roku
+00:01:30,510 --> 00:01:33,469
+To historyczny fragment Dolnego Śląska.
 
 13
-00:01:18,312 --> 00:01:23,312
-było w NRD, dzisiaj w Zjednoczonych Niemczech. Stolicą
+00:01:33,469 --> 00:01:40,349
+Zresztą świadczy o tym najlepiej niemiecka nazwa miasta, mianowicie Grinberg in Schlesien.
 
 14
-00:01:23,312 --> 00:01:26,312
-województwa lubuskiego jest rzecz jasna Zielona Góra, która
+00:01:40,730 --> 00:01:47,250
+W czasach PRL-u miasto chwaliło się swoją winiarską przeszłością i winiarską teraźniejszością.
 
 15
-00:01:26,312 --> 00:01:30,312
-wszakże nigdy nic wspólnego z ziemią lubuską nie miała.
+00:01:47,629 --> 00:01:55,629
+Ale trzeba przyznać, że to właśnie Polska Rzeczpospolita Ludowa ostatecznie ową winiarskość Zielonej Góry zamordowała.
 
 16
-00:01:30,312 --> 00:01:34,312
-To historyczny fragment Dolnego Śląska. Zresztą świadczy
-
-17
-00:01:34,312 --> 00:01:38,312
-o tym najlepiej niemiecka nazwa miasta, mianowicie
-
-18
-00:01:38,312 --> 00:01:42,312
-Grinberg in Schlesien. W czasach PRL-u miasto chwaliło się
-
-19
-00:01:42,312 --> 00:01:47,312
-swoją winiarską przeszłością i winiarską teraźniejszością,
-
-20
-00:01:47,312 --> 00:01:51,312
-ale trzeba przyznać, że to właśnie Polska Rzeczpospolita Ludowa
-
-21
-00:01:51,312 --> 00:01:55,312
-ostatecznie ową winiarskość Zielonej Góry zamordowała.
-
-22
-00:01:55,312 --> 00:02:01,312
+00:01:55,629 --> 00:02:01,069
 A jak jest dzisiaj? Będziemy krążyć wokół winnych tematów właśnie.
 
+17
+00:02:03,980 --> 00:02:05,480
+Osiedle willowe z lat 70.
+
+18
+00:02:05,519 --> 00:02:13,520
+Gdybyśmy jednak przenieśli się w czasie, na przykład do międzywojnia, bylibyśmy w samym środku ogromnej winnicy.
+
+19
+00:02:13,520 --> 00:02:22,520
+Akurat w tym miejscu jedyną pamiątką po przeszłości jest ten budynek, kapliczka, ale niegdyś kapliczka winiarska.
+
+20
+00:02:22,520 --> 00:02:24,520
+Tych pamiątek jest tutaj więcej.
+
+21
+00:02:24,520 --> 00:02:32,520
+Najlepiej opowie nam o nich wielki znawca przeszłości zielonogórskiej, który nieco niżej już na nas czeka.
+
+22
+00:02:32,520 --> 00:02:36,210
+Szanowni Państwo.
+
 23
-00:02:03,424 --> 00:02:14,424
-Osiedle willowe z lat siedemdziesiątych. Gdybyśmy jednak przenieśli się w
-czasie, na przykład do międzywojnia, bylibyśmy w samym środku ogromnej winnicy.
+00:02:36,210 --> 00:02:38,210
+Krzysztof Fedorowicz we własnej osobie.
 
 24
-00:02:14,424 --> 00:02:23,424
-Akurat w tym miejscu jedyną pamiątką po przeszłości jest ten budnek. Kapliczka,
-ale niegdyś kapliczka winiarska.
+00:02:38,210 --> 00:02:43,210
+Krzysiu, po czym poznać niegdysiejszą przeszłość winiarską tego miejsca?
 
 25
-00:02:23,424 --> 00:02:32,424
-Tych pamiątek jest tutaj więcej. Najlepiej opowie nam o nich wielki znawca
-przeszłości zielonogórskiej, który nieco niżej już na nas czeka.
+00:02:43,210 --> 00:02:48,210
+No nie po asfalcie oczywiście, ale mamy stok nachylony w kierunku południowym.
 
 26
-00:02:35,264 --> 00:02:38,264
-Szanowni Państwo, Krzysztof Fedorowicz we własnej osobie.
+00:02:48,210 --> 00:02:50,210
+Liczy jakiś kilometr długości.
 
 27
-00:02:38,264 --> 00:02:43,264
-Krzysiu, po czym poznać niegdyśniejszą przeszłość winiarską tego miejsca?
+00:02:50,210 --> 00:02:52,210
+I to wszystko było porośnięte winnicami.
 
 28
-00:02:43,264 --> 00:02:47,264
-No nie po asfalcie oczywiście, ale mamy stok nachylony w kierunku południowym,
-
-29
-00:02:47,264 --> 00:02:52,264
-liczy jakiś kilometr długości i to wszystko było porośnięte winnicami.
-
-30
-00:02:52,264 --> 00:02:54,264
+00:02:52,210 --> 00:02:54,210
 Do kiedy te winnice tu rosły?
 
-31
-00:02:54,264 --> 00:02:56,264
+29
+00:02:54,210 --> 00:02:56,210
 No do końca II wojny światowej.
 
-32
-00:02:56,264 --> 00:02:58,264
+30
+00:02:56,210 --> 00:02:58,210
 A potem co? Wykarczowano wszystko?
 
-33
-00:02:58,264 --> 00:03:01,264
+31
+00:02:58,210 --> 00:03:01,210
 Potem wykarczowano i widzimy jaki jest krajobraz, troszkę taki...
 
-34
-00:03:01,264 --> 00:03:02,264
+32
+00:03:01,210 --> 00:03:02,210
 Jak się ta winnica nazywała?
 
-35
-00:03:03,264 --> 00:03:07,264
+33
+00:03:02,210 --> 00:03:03,210
+...perelowski.
+
+34
+00:03:03,210 --> 00:03:07,210
 To był Rodeland, rewir winiarski, południowy rewir winiarski w Greenbergu.
 
-36
-00:03:07,264 --> 00:03:10,264
-Bardzo ważny piwnica...
+35
+00:03:07,210 --> 00:03:09,210
+Bardzo ważny. Piwnica...
 
-37
-00:03:10,264 --> 00:03:11,264
+36
+00:03:11,210 --> 00:03:12,210
 To jest piwnica.
 
-38
-00:03:11,264 --> 00:03:13,264
-To jest piwnica, tego jeszcze nie wiem.
+37
+00:03:12,210 --> 00:03:14,210
+To jest piwnica. No tego jeszcze nie wiem.
 
-39
-00:03:13,264 --> 00:03:14,264
+38
+00:03:14,210 --> 00:03:15,210
 Mimokraty.
 
-40
-00:03:14,264 --> 00:03:16,264
-Czyli kto ma wejść pierwszy?
+39
+00:03:15,210 --> 00:03:16,210
+Kto ma wejść pierwszy?
 
-41
-00:03:16,264 --> 00:03:18,264
+40
+00:03:16,210 --> 00:03:17,210
 No gość.
 
+41
+00:03:17,210 --> 00:03:18,210
+Gość.
+
 42
-00:03:18,264 --> 00:03:22,264
+00:03:18,210 --> 00:03:21,210
 Ale chodź blisko za mną, bo ja nie mam latarni.
 
 43
-00:03:22,264 --> 00:03:24,264
-Uuu! Rzeczywiście!
+00:03:23,210 --> 00:03:24,210
+Rzeczywiście.
 
 44
-00:03:27,264 --> 00:03:31,264
-Słowo piwnica może kojarzyć się z klitką na kisioną ogórki,
+00:03:27,210 --> 00:03:31,210
+Słowo piwnica może kojarzyć się z klitką na kisioną górki.
 
 45
-00:03:31,264 --> 00:03:33,264
-a to jest po prostu ogrom.
+00:03:31,210 --> 00:03:33,210
+A to jest po prostu ogrom.
 
 46
-00:03:33,264 --> 00:03:34,264
+00:03:33,210 --> 00:03:34,210
 Ile to ma lat?
 
 47
-00:03:34,264 --> 00:03:40,264
-1791 rok, kiedy to zostało wzniesione przez Jeremiasza Zajdla,
+00:03:34,210 --> 00:03:36,210
+1791 rok.
 
 48
-00:03:40,264 --> 00:03:42,264
-właściciela całego wzgórza.
+00:03:36,210 --> 00:03:37,210
+Kiedy to było?
 
 49
-00:03:42,264 --> 00:03:44,264
-Miał dużą winnicę, potrzebował dużej piwnicy.
+00:03:37,210 --> 00:03:42,210
+To zostało wzniesione przez Jeremiasza Zajdla, właściciela całego wzgórza.
 
 50
-00:03:44,264 --> 00:03:50,264
-To jest wkopane w skarpę jakby, więc temperatura cały czas ta sama przez cały
-rok.
+00:03:42,210 --> 00:03:44,210
+Miał dużą winnicę, potrzebował dużej piwnicy.
 
 51
-00:03:50,264 --> 00:03:54,264
-W końcowej części piwnicy mamy 8 metrów ziemi nad.
+00:03:44,210 --> 00:03:50,210
+To jest wkopane w skarpę jakby, więc temperatura cały czas ta sama przez cały rok.
 
 52
-00:03:54,264 --> 00:03:59,264
-A tutaj miejsce, którym transportowano beczki, prawda?
+00:03:50,210 --> 00:03:54,210
+W końcowej części piwnicy mamy 8 metrów ziemi nad.
 
 53
-00:03:59,264 --> 00:04:01,264
-No kiedy te beczki tutaj stały?
+00:03:54,210 --> 00:03:59,210
+A tutaj miejsce, którym transportowano beczki, prawda?
 
 54
-00:04:01,264 --> 00:04:06,264
-No jeszcze w latach 70-tych stały. Był tu oddział żółwuski wytwórni win i to
-wino było.
+00:03:59,210 --> 00:04:01,210
+Do kiedy te beczki tutaj stały?
 
 55
-00:04:06,264 --> 00:04:08,264
-I robili wina gronowe?
+00:04:01,210 --> 00:04:06,210
+No jeszcze w latach 70-tych stały. Był tu oddział łódzkiej wytwórni win i to wino było.
 
 56
-00:04:08,264 --> 00:04:11,264
-Jeszcze w latach 70-tych robili. Niewielkiej ilości.
+00:04:06,210 --> 00:04:08,210
+I robili wina bramowe?
 
 57
-00:04:11,264 --> 00:04:15,264
-Było 50 hektarów ostatnia winnica w mieście, a kiedyś w mieście było 750
-hektarów.
+00:04:08,210 --> 00:04:10,210
+Jeszcze w latach 70-tych robili.
 
 58
-00:04:15,264 --> 00:04:23,264
-Powiedzmy 100 lat temu, na początku XX wieku, mieliśmy 750 hektarów w małym
-mieście powiatowym, 20-tysięcznym.
+00:04:10,210 --> 00:04:15,210
+Niewielkiej ilości było 50 hektarów ostatnia winnica w mieście, a kiedyś w mieście było 750 hektarów.
 
 59
-00:04:23,264 --> 00:04:30,264
-Drodzy Państwo, to historia, ale mamy też winiarską teraźniejszość szczęśliwie.
+00:04:15,210 --> 00:04:23,209
+Powiedzmy 100 lat temu, na początku XX wieku mieliśmy 750 hektarów w małym mieście powiatowym, dwudziestotysięcznym.
 
 60
-00:04:30,264 --> 00:04:35,264
-Piwnic pustych, martwych, niemych świadków historii w mieście nie brakuje.
+00:04:23,209 --> 00:04:30,209
+Drodzy Państwo, to historia, ale mamy też winiarską teraźniejszość szczęśliwie.
 
 61
-00:04:35,264 --> 00:04:39,264
-Jest ich kilkaset, ale na szczęście są i żywe.
+00:04:30,209 --> 00:04:35,209
+Piwnic pustych, martwych, niemych świadków historii w mieście nie brakuje.
 
 62
-00:04:39,264 --> 00:04:45,264
-I to właśnie one piszą miejscową winiarską historię na nowo.
+00:04:35,209 --> 00:04:39,209
+Jest ich kilkaset, ale na szczęście są i żywe.
 
 63
-00:04:45,264 --> 00:04:47,264
-Jesteśmy dokładnie pod ratuszem.
+00:04:39,209 --> 00:04:43,209
+I to właśnie one piszą miejscową winiarską historię na nowo.
 
 64
-00:04:47,264 --> 00:04:52,264
-W XVII wieku działała tutaj winiarnia o nazwie Bachus.
+00:04:45,209 --> 00:04:47,209
+Jesteśmy dokładnie pod ratuszem.
 
 65
-00:04:52,264 --> 00:04:55,264
-No i znowu działa, w dodatku tak samo się nazywa.
+00:04:47,209 --> 00:04:52,209
+W XVII wieku działała tutaj winiarnia o nazwie Bachus.
 
 66
-00:04:55,264 --> 00:05:00,264
-Jednak kiedyś pewnie wyłącznie stukano się tutaj kielichami.
+00:04:52,209 --> 00:04:55,209
+No i znowu działa, w dodatku tak samo się nazywa.
 
 67
-00:05:00,264 --> 00:05:02,264
-Kielichami najpewniej takimi.
+00:04:55,209 --> 00:05:00,209
+Jednak kiedyś pewnie wyłącznie stukano się tutaj kielichami.
 
 68
-00:05:02,264 --> 00:05:05,264
-To jest archaiczny kieliszek w niemieckim stylu.
+00:05:00,209 --> 00:05:02,209
+Kielichami najpewniej takimi.
 
 69
-00:05:05,264 --> 00:05:11,264
-Dzisiaj mamy kieliszki moderne, no i jedzenie, więc najpierw nim się zajmijmy,
+00:05:02,209 --> 00:05:05,209
+To jest archaiczny kieliszek w niemieckim stylu.
 
 70
-00:05:11,264 --> 00:05:17,264
-bo ono jeśli nie jest chłodnikiem stygnie, a to przecież na chłodnik nie
-wygląda.
+00:05:05,209 --> 00:05:09,209
+Dzisiaj mamy kieliszki moderne, no i jedzenie.
 
 71
-00:05:17,264 --> 00:05:21,264
-Mamy tu zatem policzki wołowe duszone w czerwonym winie.
+00:05:09,209 --> 00:05:14,209
+Więc najpierw nim się zajmijmy, bo ono jeśli nie jest chłodnikiem stygnie.
 
 72
-00:05:21,264 --> 00:05:24,264
-One leżą na pietruszkowym pire.
+00:05:14,209 --> 00:05:17,209
+A to przecież na chłodnik nie wygląda.
 
 73
-00:05:24,264 --> 00:05:32,264
-Tutaj pire z pieczonego czosnku, piklowane buraczki oraz puder z pokrzyw.
+00:05:17,209 --> 00:05:21,209
+Mamy tu zatem policzki wołowe duszone w czerwonym winie.
 
 74
-00:05:32,264 --> 00:05:35,264
-A do tego wino lubuskie.
+00:05:21,209 --> 00:05:24,209
+One leżą na pietruszkowym puree.
 
 75
-00:05:35,264 --> 00:05:41,264
-To jest kuparz dwóch szczepów, niegdyś bardzo dla okolic charakterystycznych.
+00:05:24,209 --> 00:05:27,209
+Tutaj puree z pieczonego czosnku.
 
 76
-00:05:41,264 --> 00:05:44,264
-Mianowicie Zweigeld i Dornfelder.
+00:05:27,209 --> 00:05:32,209
+Piklowane buraczki oraz puder z pokrzyw.
 
 77
-00:05:44,264 --> 00:05:49,264
-Drodzy Państwo, to w zasadzie już na pierwszy rzut oka widać,
+00:05:32,209 --> 00:05:35,209
+A do tego wino luźne.
 
 78
-00:05:49,264 --> 00:05:55,264
-że mamy do czynienia z pasjonatami, a o odradzanie się tradycji,
+00:05:35,209 --> 00:05:36,209
+Lubuskie.
 
 79
-00:05:55,264 --> 00:06:01,264
-jeśli zajmują się tymże odradzaniem pasjonaci, raczej można być spokojnym.
+00:05:36,209 --> 00:05:38,209
+To jest kuparz dwóch szczepów.
 
 80
-00:06:01,264 --> 00:06:09,264
-Ocieplanie się klimatu to jedna sprawa, a właściwe i twórcze podchodzenie do
-przeszłości
+00:05:38,209 --> 00:05:41,209
+Niegdyś bardzo dla okolic charakterystycznych.
 
 81
-00:06:09,264 --> 00:06:15,264
-i czerpanie z tej przeszłości wszystkiego co najlepsze, by myśleć o przyszłości.
+00:05:41,209 --> 00:05:44,209
+Mianowicie Zweigelt i Dornfelder.
 
 82
-00:06:15,264 --> 00:06:19,264
-Oto jest zadanie pasjonatów. To jest zadanie nasze.
+00:05:44,209 --> 00:05:49,209
+Drodzy Państwo, to w zasadzie już na pierwszy rzut oka widać,
 
 83
-00:06:19,264 --> 00:06:20,264
-Policzki.
+00:05:49,209 --> 00:05:53,209
+że mamy do czynienia z pasjonatami.
 
 84
-00:06:22,816 --> 00:06:29,816
-Miękkie, niczym stal włoskich pancernych samochodów, a wino?
+00:05:53,209 --> 00:05:59,209
+A o odradzanie się tradycji, jeśli zajmują się tymże odradzaniem pasjonaci,
 
 85
-00:06:32,672 --> 00:06:34,472
-Aksamitne jak Belkanto.
+00:05:59,209 --> 00:06:02,209
+raczej można być spokojnym.
 
 86
-00:06:37,592 --> 00:06:41,072
-Miejscowość Łas, po niemiecku Los i włości Krzysztofa
+00:06:02,209 --> 00:06:04,209
+Ocieplanie się klimatu to jedna sprawa.
 
 87
-00:06:41,072 --> 00:06:44,672
-Federowicza. Choć jeszcze o tym nie wspominałem, łatwo
+00:06:04,209 --> 00:06:09,209
+A właściwe i twórcze podchodzenie do przeszłości
 
 88
-00:06:44,672 --> 00:06:49,192
-domyślić się, że Krzysztof jest jednym z miejscowych winiarzy.
+00:06:09,209 --> 00:06:15,209
+i czerpanie z tej przeszłości wszystkiego co najlepsze, by myśleć o przyszłości.
 
 89
-00:06:52,192 --> 00:06:54,672
-Ilu was jest, was, czyli lubuskich winiarzy?
+00:06:15,209 --> 00:06:17,209
+Oto jest zadanie pasjonatów.
 
 90
-00:06:55,152 --> 00:06:59,432
-Zarejestrowanych winnic tutaj jest 30, czyli coraz więcej, no 10
+00:06:17,209 --> 00:06:19,209
+To jest zadanie nasze.
 
 91
-00:06:59,432 --> 00:07:02,432
-lat temu to były dwie winnice. A areal upraw?
+00:06:19,209 --> 00:06:27,829
+Policzki miękkie niczym stal włoskich pancernych samochodów.
 
 92
-00:07:02,432 --> 00:07:06,032
-Około 200 hektarów, tak według moich. I cały czas rośnie?
+00:06:27,829 --> 00:06:37,370
+A wino aksamitne jak belcanto.
 
 93
-00:07:06,032 --> 00:07:11,352
-Oczywiście, z roku na rok rośnie liczba winnic i rośnie areal.
+00:06:37,370 --> 00:06:41,370
+Miejscowość Łaz, po niemiecku Los i włości Krzysztofa Fedorowicza.
 
 94
-00:07:11,352 --> 00:07:14,632
-Także tutaj obok, w Mijsku, facet nasadza 10 hektarów.
+00:06:41,370 --> 00:06:45,370
+Choć jeszcze o tym nie wspominałem, łatwo domyślić się,
 
 95
-00:07:14,632 --> 00:07:19,432
-Kaberneta. No właśnie, jakie szczepy, jakie to jest terroir?
+00:06:45,370 --> 00:06:49,370
+że Krzysztof jest jednym z miejscowych winiarzy.
 
 96
-00:07:19,432 --> 00:07:23,152
-Jak byś je scharakteryzował i uważasz, że co tu się
+00:06:49,370 --> 00:06:54,740
+Ilu was jest? Was, czyli lubuskich winiarzy?
 
 97
-00:07:23,152 --> 00:07:26,232
-najlepiej przyjmuje? Trzeba wracać do historii i sadzić to samo,
+00:06:54,740 --> 00:06:58,740
+Zarejestrowanych winnic tutaj jest 30, czyli coraz więcej.
 
 98
-00:07:26,232 --> 00:07:29,152
-co kiedyś Niemcy? To znaczy ja tu przy domu, bo mam
+00:06:58,740 --> 00:07:00,740
+No 10 lat temu to były dwie winnice.
 
 99
-00:07:29,152 --> 00:07:33,752
-cztery parcele, sposadziłem 15 różnych szczepów i okazało się,
+00:07:00,740 --> 00:07:02,740
+A areał upraw hektarnych?
 
 100
-00:07:33,752 --> 00:07:36,752
-że te, które kiedyś się najlepiej sprawdzały, tak samo
+00:07:02,740 --> 00:07:04,740
+Około 200 hektarów, tak według moich.
 
 101
-00:07:36,752 --> 00:07:40,152
-dzisiaj, czyli pinoty, pinot blanc, pinot noir, silvanner,
+00:07:04,740 --> 00:07:06,740
+I cały czas rośnie?
 
 102
-00:07:40,152 --> 00:07:44,952
-traminer, rysling, to są te szczepy tego regionu, podobnie jak
+00:07:06,740 --> 00:07:10,740
+Oczywiście, z roku na rok rośnie liczba winnic i rośnie areał.
 
 103
-00:07:44,952 --> 00:07:47,352
-szampanijalizacji czy burgundii, czyli północ. Czyli wyłącznie
+00:07:10,740 --> 00:07:12,740
+Także tutaj obok w Mińsku facet nasadza winnicę.
 
 104
-00:07:47,352 --> 00:07:53,552
-witnic winifera, szlachetna winoroź z hybrydami, nie eksperymentujecie
+00:07:13,740 --> 00:07:15,740
+Ile to jest za 10 hektarów?
 
 105
-00:07:53,552 --> 00:07:57,352
-za bardzo. No ale po co? No i o to chodzi. Co ma w kieliszku?
+00:07:15,740 --> 00:07:16,740
+Kaberneta.
 
 106
-00:07:57,352 --> 00:08:03,352
-Pinot blanc. Weissburgunder, no styryjsko to jeszcze nie pachnie,
+00:07:16,740 --> 00:07:19,740
+No właśnie, jakie szczepy? Jakie to jest terroir?
 
 107
-00:08:03,352 --> 00:08:07,552
-no bo Styria i Weissburgunder to najlepiej dobrana para, ale nos jest
+00:07:19,740 --> 00:07:24,740
+Jak byś je scharakteryzował i uważasz, że co tu się najlepiej przyjmuje?
 
 108
-00:08:07,552 --> 00:08:13,552
-potężny. No jest i cytrusowe, i żałaso, jest takie wino.
+00:07:24,740 --> 00:07:27,740
+Trzeba wracać do historii i sadzić to samo, co kiedyś Niemcy?
 
 109
-00:08:13,552 --> 00:08:18,152
-Jest grejfrutowe, jest cytrusowe, jest ziołowe, jest bardzo solidna
+00:07:27,740 --> 00:07:32,740
+Znaczy ja tu przy domu, bo mam 4 parcele, posadziłem 15 różnych szczepów.
 
 110
-00:08:18,152 --> 00:08:21,952
-kwasowość, porządna rzecz generalnie, a pinota czerwonego
+00:07:32,740 --> 00:07:37,740
+I okazało się, że te, które kiedyś się najlepiej sprawdzały, tak samo dzisiaj.
 
 111
-00:08:21,952 --> 00:08:25,952
-też spróbujemy, to dla duchów. Pinot noir, drodzy państwo,
+00:07:37,740 --> 00:07:41,740
+Czyli Pinoty, Pinot Blanc, Pinot Noir, Silvaner, Traminer, Riesling.
 
 112
-00:08:25,952 --> 00:08:30,752
-czyli coś z czego słynie burgundia, również z powodzeniem
+00:07:41,740 --> 00:07:42,740
+To są te szczepy.
 
 113
-00:08:31,152 --> 00:08:35,352
-uprawiane jest tutaj. No to proszę. Powinien być delikatny,
+00:07:42,740 --> 00:07:46,740
+To są te szczepy tego regionu. Podobnie jak Szampanię, Alzacji czy Burgundy.
 
 114
-00:08:35,352 --> 00:08:39,752
-lekki, przejrzysty kolor, taki jest. Powinna być w nosie
+00:07:46,740 --> 00:07:51,740
+Czyli wyłącznie Vitis vinifera, szlachetna winorość z hybrydami.
 
 115
-00:08:40,152 --> 00:08:43,952
-truskawka. No i jest nawet kompotowa truskawka powiedziałbym.
+00:07:51,740 --> 00:07:53,740
+Nie eksperymentujecie za bardzo.
 
 116
-00:08:44,352 --> 00:08:47,352
-Konfiturka. Konfiturka truskawkowa. Taka długo smażona.
+00:07:53,740 --> 00:07:55,740
+No ale po co?
 
 117
-00:08:50,288 --> 00:08:58,288
-Szanowni Państwo, polskie winiarstwo, jak to widać najlepiej w lubusku, to już
-nie jest żart. Kapitalne wino.
+00:07:55,740 --> 00:07:57,740
+No i o to chodzi. Co ma być w kieliszku?
 
 118
-00:08:58,288 --> 00:09:00,288
-Dzięki.
+00:07:57,740 --> 00:07:58,740
+Pinot Blanc.
 
 119
-00:09:01,178 --> 00:09:07,578
-Stosunkowo niewielkie zaludnienie i mnóstwo ziemi to są atuty
+00:07:58,740 --> 00:08:03,740
+Weissburgunder. No styryjsko to jeszcze nie pachnie.
 
 120
-00:09:07,578 --> 00:09:12,278
-lubuskiego. Atuty dla ludzi z wizją, dla ludzi z wyobraźnią,
+00:08:03,740 --> 00:08:08,740
+No bo Styria i Weissburgunder to najlepiej dobrana para, ale nos jest potężny.
 
 121
-00:09:12,278 --> 00:09:16,078
-dla ludzi przedsiębiorczych. Spójrzcie na to co dookoła.
+00:08:08,740 --> 00:08:10,740
+No jest i cytrusowe i ziołasowe.
 
 122
-00:09:16,378 --> 00:09:21,578
-To wygląda niemal jak Andaluzja albo Argentyjska czy też
+00:08:10,740 --> 00:08:11,740
+No jest.
 
 123
-00:09:21,778 --> 00:09:28,078
-Urugwajska Pampa. Zatem mamy idealne pastwiska, a skoro pastwiska
+00:08:11,740 --> 00:08:13,740
+I ziołaso jest takie wino?
 
 124
-00:09:28,378 --> 00:09:33,078
-to i krowy. Niby nic nadzwyczajnego w krów hodowli, ale w tym
+00:08:13,740 --> 00:08:17,740
+Jest grejpfrutowe, jest cytrusowe, jest ziołowe.
 
 125
-00:09:33,078 --> 00:09:35,778
-wypadku jest się czemu bliżej przyjrzeć.
+00:08:17,740 --> 00:08:20,740
+Bardzo solidna kwasowość. Porządna rzecz generalnie.
 
 126
-00:09:37,578 --> 00:09:41,278
-Miejscowość Storzne. Co ciekawe jesteśmy administracyjnie
+00:08:20,740 --> 00:08:24,740
+A Pinota Czerwonego też spróbujemy. To dla duchów.
 
 127
-00:09:41,278 --> 00:09:45,078
-w granicach Zielonej Góry, zatem można powiedzieć, że to są
+00:08:24,740 --> 00:08:32,740
+Pinot Noir, drodzy Państwo, czyli coś, z czego słynie Burgundia, również z powodzeniem uprawiane jest tutaj.
 
 128
-00:09:45,178 --> 00:09:49,978
-pastwiska miejskie. Właśnie tutaj na dwustu hektarach
+00:08:32,740 --> 00:08:33,740
+No to proszę.
 
 129
-00:09:49,978 --> 00:09:55,278
-ziemi państwo suchodolscy wypasają krowy angielskiej rasy
+00:08:33,740 --> 00:08:38,740
+Powinien być delikatny, lekki, przejrzysty kolor. Taki jest.
 
 130
-00:09:55,278 --> 00:10:00,678
-Hellford. Rasa to całkowicie w Polsce niedoceniana, fenomenalna
+00:08:38,740 --> 00:08:40,740
+Powinna być w nosie truskawka.
 
 131
-00:10:00,978 --> 00:10:06,278
-rasa mięsna. Krowy żyją w stanie półdzikim. Dopóty dopóki
+00:08:40,740 --> 00:08:44,740
+Truskawka, no jest. Nawet kompotowa truskawka, powiedziałbym.
 
 132
-00:10:06,278 --> 00:10:10,978
-jest trawa są na pastwisku. Zimą są dokarmiane, mają oborę,
+00:08:44,740 --> 00:08:45,740
+Konfiturka.
 
 133
-00:10:11,278 --> 00:10:16,378
-ale i przy niej 10 hektarów wybiegu. Nawet cielą się bez
+00:08:45,740 --> 00:08:46,740
+Konfiturka truskawkowa.
 
 134
-00:10:16,378 --> 00:10:20,378
-pomocy weterynarza. Szczęśliwe dzikie krowy.
+00:08:46,740 --> 00:08:47,740
+Taka długo smażona.
 
 135
-00:10:21,478 --> 00:10:25,178
-Kolejny atut lubuskiego. Mnóstwo wspaniałej poniemieckiej
+00:08:47,740 --> 00:08:58,740
+Szanowni Państwo, polskie winiarstwo, jak to widać najlepiej w lubuskim, to już nie jest żart. Kapitalny win.
 
 136
-00:10:25,178 --> 00:10:28,778
-architektury. Niestety często opuszczonej, zrujnowanej.
+00:08:58,740 --> 00:09:01,980
+Dzięki.
 
 137
-00:10:29,078 --> 00:10:34,178
-Ona aż krzyczy weźcie mnie, odnówcie, udostępnijcie i to
+00:09:01,980 --> 00:09:13,980
+Stosunkowo niewielkie zaludnienie i mnóstwo ziemi. To są atuty lubuskiego. Atuty dla ludzi z wizją, dla ludzi z wyobraźnią, dla ludzi przedsiębiorczych.
 
 138
-00:10:34,178 --> 00:10:38,278
-się często dzieje. Za rok, dwa kompletnie nie poznacie tego
+00:09:13,980 --> 00:09:22,980
+Spójrzcie na to, co dookoła. To wygląda niemal jak Andaluzja, albo argentyńska, czy też urugwajska pampa.
 
 139
-00:10:38,278 --> 00:10:42,378
-miejsca. Nie poznacie też własnego bewsztyka jeśli będziecie
+00:09:22,980 --> 00:09:35,980
+Zatem mamy idealne pastwiska. A skoro pastwiska, to i krowy. Niby nic nadzwyczajnego w krów hodowli, ale w tym wypadku jest się czemu bliżej przyjrzeć.
 
 140
-00:10:42,378 --> 00:10:47,178
-podążać za moimi wskazówkami. U nas niezwykłym kultem otacza
+00:09:37,980 --> 00:09:42,980
+Miejscowość Stożne. Co ciekawe, jesteśmy administracyjnie w granicach Zielonej Góry.
 
 141
-00:10:47,178 --> 00:10:50,978
-się wołowinę argentyńską. Tymczasem Argentyna jest przecież
+00:09:42,980 --> 00:09:46,980
+Zatem można powiedzieć, że to są pastwiska miejskie.
 
 142
-00:10:50,978 --> 00:10:54,678
-największym na świecie producentem mięsa wołowego.
+00:09:46,980 --> 00:09:55,980
+Właśnie tutaj, na 200 hektarach ziemi, państwo suchodolscy wypasają krowy angielskiej rasy Hereford.
 
 143
-00:10:55,078 --> 00:10:59,178
-Zatem produkcja niemal przemysłowa, więc po co sięgać po
+00:09:55,980 --> 00:10:01,980
+Rasa to całkowicie w Polsce niedoceniana, fenomenalna rasa mięsna.
 
 144
-00:10:59,178 --> 00:11:03,778
-argentyńskie steki skoro tu na miejscu mamy na przykład
+00:10:01,980 --> 00:10:07,980
+Krowy żyją w stanie półdzikim, dopóty, dopóki jest trawa, są na pastwisku.
 
 145
-00:11:03,978 --> 00:11:09,078
-taki antykot od Herforda. U nas przyjęło się uważać,
+00:10:07,980 --> 00:10:11,980
+Zimą są dokarmiane, mają oborę, ale i przy niej dziesięć lat.
 
 146
-00:11:09,078 --> 00:11:13,778
-że dobre jest mięso chude. To nieprawda. Ta marmurkowość
+00:10:12,980 --> 00:10:15,980
+Miejsca mają około 5 hektarów wybiegu.
 
 147
-00:11:13,978 --> 00:11:18,178
-daje smak. To tłuszcz jest nośnikiem smaku, zatem mięso
+00:10:15,980 --> 00:10:18,980
+Nawet cielą się bez pomocy weterynarza.
 
 148
-00:11:18,178 --> 00:11:22,978
-powinno być lekko przerośnięte. Taki antykot to marzenie
+00:10:18,980 --> 00:10:21,980
+Szczęśliwe, dzikie krowy.
 
 149
-00:11:23,178 --> 00:11:28,178
-każdego wołowinożercy. Rzecz będzie szybka i dość prosta,
+00:10:21,980 --> 00:10:26,980
+Kolejny atut lubuskiego. Mnóstwo wspaniałej, poniemieckiej architektury.
 
 150
-00:11:28,178 --> 00:11:32,678
-więc trzeba pokrótce opisać najważniejsze składniki.
+00:10:26,980 --> 00:10:29,980
+Niestety często opuszczonej, zrujnowanej.
 
 151
-00:11:33,078 --> 00:11:37,978
-To coś wymaga wstępnego przygotowania. Demiglas albo
+00:10:29,980 --> 00:10:33,980
+Ona aż krzyczy, weźcie mnie, odnówcie, udostępnijcie.
 
 152
-00:11:37,978 --> 00:11:42,078
-inaczej sos hiszpański, kości wołowe albo też cielence
+00:10:33,980 --> 00:10:36,980
+I to się często dzieje.
 
 153
-00:11:42,478 --> 00:11:47,478
-razem z jarzynami korzeniowymi trzeba wsadzić do piekarnika
+00:10:36,980 --> 00:10:39,980
+Za rok, dwa kompletnie nie poznacie tego miejsca.
 
 154
-00:11:47,778 --> 00:11:51,578
-i piec mniej więcej przez półtorej godziny w temperaturze
+00:10:39,980 --> 00:10:41,980
+Nie poznacie też własnego bewsztyka.
 
 155
-00:11:51,578 --> 00:11:57,478
-180 stopni. Potem zalać wodą i gotować bardzo długo.
+00:10:41,980 --> 00:10:44,980
+Będziecie podążać za moimi wskazówkami.
 
 156
-00:11:57,478 --> 00:12:01,678
-Gotować tak długo, by całość się zredukowała i nabrała
+00:10:44,980 --> 00:10:48,980
+U nas niezwykłym kultem otacza się wołowina argentyńską.
 
 157
-00:12:01,978 --> 00:12:05,978
-takiej oto konsystencji. Rzecz jasna, wszystko się
+00:10:48,980 --> 00:10:54,980
+Tymczasem Argentyna jest przecież największym na świecie producentem mięsa wołowego.
 
 158
-00:12:05,978 --> 00:12:11,778
-przecedza i doprawia do smaku. Demiglas będzie tutaj istotą
+00:10:54,980 --> 00:10:57,980
+Zatem produkcja niemal przemysłowa.
 
 159
-00:12:11,778 --> 00:12:16,878
-sosu, ale nie jedynym jego składnikiem, bowiem mam na
+00:10:57,980 --> 00:11:06,980
+Więc po co sięgać po argentyńskie steki, skoro tu, na miejscu, mamy na przykład taki antrykot od Hereforda.
 
 160
-00:12:16,878 --> 00:12:21,778
-stole jeszcze jeden miejscowy produkt, czerwone wino i teraz
+00:11:06,980 --> 00:11:10,980
+U nas przyjęło się uważać, że dobre jest mięso chude.
 
 161
-00:12:21,778 --> 00:12:26,378
-będę z tego czerwonego wina robił redukcję. Zatem wino
+00:11:10,980 --> 00:11:11,980
+To nieprawda.
 
 162
-00:12:26,378 --> 00:12:31,378
-do rondelka, muszę tutaj dodać trochę rozmarynu oraz
+00:11:11,980 --> 00:11:14,980
+Ta marmurkowość daje smak.
 
 163
-00:12:31,378 --> 00:12:35,678
-czosnek. Cały czosnek w ząbkach, tylko te ząbki lekko
+00:11:14,980 --> 00:11:16,980
+To tłuszcz jest nośnikiem smaku.
 
 164
-00:12:35,678 --> 00:12:40,278
-nagniotę i to powinno się gotować tak, by mniej więcej
+00:11:16,980 --> 00:11:19,980
+Zatem mięso powinno być lekko przerośnięte.
 
 165
-00:12:40,278 --> 00:12:42,278
-dwie trzecie odparowały.
+00:11:19,980 --> 00:11:24,980
+Taki antrykot to marzenie każdego wołowinożercy.
 
 166
-00:12:51,194 --> 00:13:02,594
-Arcyważna zasada. Nie można smażyć wołowiny wyjętej wprost z lodówki. Ona
-minimum dwie godziny musi odpoczywać w temperaturze pokojowej.
+00:11:24,980 --> 00:11:32,980
+Rzecz będzie szybka i dość prosta, więc trzeba pokrótce opisać najważniejsze składniki.
 
 167
-00:13:02,594 --> 00:13:12,594
-Jeśli przecież to jest tej grubości, to mięso w trakcie kładzenia na patelnię
-będzie miało inną temperaturę w środku, a inną na wierzchu.
+00:11:32,980 --> 00:11:35,980
+To coś wymaga wstępnego przygotowania.
 
 168
-00:13:12,594 --> 00:13:17,594
-To jest niedopuszczalne. Nie wolno też na patelnię wlewać hektolitrów oleju.
+00:11:35,980 --> 00:11:38,980
+Demiglas, albo inaczej sos hiszpański.
 
 169
-00:13:17,994 --> 00:13:26,994
-Co wystarczy zrobić? Wystarczy po prostu przed smażeniem mięsą natrzeć olejem,
-zwykłym roślinnym olejem z dwóch stron.
+00:11:38,980 --> 00:11:39,980
+Kości wołowe.
 
 170
-00:13:26,994 --> 00:13:33,994
-Patelnia jak najgrubsza, jak najcięższa, w tym wypadku grillowa, ale taka być
-nie musi.
+00:11:39,980 --> 00:11:41,980
+Albo też cielence.
 
 171
-00:13:33,994 --> 00:13:42,994
-I nie solimy na razie, nie pieprzymy, nic z tym nie robimy, tylko kładziemy to
-na patelnię idealnie rozgrzaną.
+00:11:41,980 --> 00:11:44,980
+Razem z jarzynami korzeniowymi.
 
 172
-00:13:42,994 --> 00:13:46,994
-Mam nadzieję, że owa właśnie taką jest.
+00:11:44,980 --> 00:11:53,980
+Trzeba wsadzić do piekarnika i piec mniej więcej przez półtorej godziny w temperaturze 180 stopni.
 
 173
-00:13:47,994 --> 00:13:52,994
-A dźwięk mówi nam najlepiej tak.
+00:11:53,980 --> 00:11:56,980
+Potem zalać wodą i gotować bardzo długo.
 
 174
-00:13:52,994 --> 00:14:01,994
-Oczywiście stopień wysmażenia mięsa zależy od waszego uznania, ale nie
-zdobędziecie uznania niczyjego, a już zwłaszcza tych,
+00:11:56,980 --> 00:12:03,980
+Gotować tak długo, by całość się zredukowała i nabrała takiej oto konsystencji.
 
 175
-00:14:01,994 --> 00:14:09,994
-którzy na bewsztykach się znają, jeśli będziecie żądać mięsa wysmażonego well
-done, czyli absolutnie.
+00:12:03,980 --> 00:12:08,980
+Rzecz jasna, wszystko się przecedza i doprawia do smaku.
 
 176
-00:14:09,994 --> 00:14:13,994
-To mięso powinno być różowe w środku i dopiero teraz sól.
+00:12:08,980 --> 00:12:11,980
+Demiglas będzie tutaj istotą sosu.
 
 177
-00:14:13,994 --> 00:14:16,394
-Na razie tylko z jednej strony.
+00:12:11,980 --> 00:12:14,980
+Ale nie jedynym jego składnikiem.
 
 178
-00:14:16,416 --> 00:14:18,416
-Ta druga będzie dosalana na końcu.
+00:12:14,980 --> 00:12:18,980
+Bowiem mam na stole jeszcze jeden miejscowy produkt.
 
 179
-00:14:19,016 --> 00:14:21,096
-Teraz sos.
+00:12:18,980 --> 00:12:20,980
+Czerwone wino.
 
 180
-00:14:21,536 --> 00:14:23,856
-Wino prawie całkowicie zniknęło.
+00:12:20,980 --> 00:12:24,980
+I teraz będę z tego czerwonego wina robił redukcję.
 
 181
-00:14:24,096 --> 00:14:25,576
-Ono jest skoncentrowane.
+00:12:24,980 --> 00:12:26,980
+Zatem wino do rondelka.
 
 182
-00:14:25,616 --> 00:14:26,336
-Jakie to wino?
+00:12:26,980 --> 00:12:29,980
+Muszę tutaj dodać trochę rozmarynu.
 
 183
-00:14:26,616 --> 00:14:30,216
-No oczywiście miejscowe, lubuskie, odmiana Pinot Noir.
+00:12:29,980 --> 00:12:31,980
+Oraz czosnek.
 
 184
-00:14:30,576 --> 00:14:34,936
-Zatem wyjmujemy to wszystko co było w środku, a więc rozmaryn i
+00:12:31,980 --> 00:12:33,980
+Cały czosnek w ząbkach.
 
 185
-00:14:34,976 --> 00:14:35,496
-czosnek.
+00:12:33,980 --> 00:12:35,980
+Tylko te ząbki lekko nagniotę.
 
 186
-00:14:35,536 --> 00:14:43,856
-Mamy tutaj niezwykły smakowy koncentrat i teraz do tego dolewamy
+00:12:35,980 --> 00:12:37,980
+I to powinno się gotować.
 
 187
-00:14:44,016 --> 00:14:45,016
-demi glace.
+00:12:37,980 --> 00:12:41,980
+Tak, by mniej więcej 2 trzecie odparowały.
 
 188
-00:14:46,240 --> 00:14:51,540
-I to się musi gotować, tylko zagotować, a mięso dochodzi.
+00:12:41,980 --> 00:12:52,980
+Arcyważna zasada.
 
 189
-00:14:51,540 --> 00:14:56,540
-Co jeszcze? Jeszcze coś bez czego Francuzi niemal żadnego sosu
+00:12:52,980 --> 00:12:56,980
+Nie można smażyć wołowiny wyjętej wprost z lodówki.
 
 190
-00:14:56,540 --> 00:14:58,240
-sobie nie wyobrażają.
+00:12:56,980 --> 00:13:01,980
+Ona minimum 2 godziny musi odpoczywać w temperaturze pokojowej.
 
 191
-00:14:58,240 --> 00:15:00,540
-Mianowicie odrobina masła.
+00:13:01,980 --> 00:13:04,980
+Jeśli przecież to jest tej grubości.
 
 192
-00:15:00,540 --> 00:15:05,540
-To sprawi, że sos będzie emulsyjny. Odrobina, choć tu rozmarynie.
+00:13:04,980 --> 00:13:09,980
+To mięso w trakcie kładzenia na patelnię będzie miało inną temperaturę w środku.
 
 193
-00:15:05,540 --> 00:15:08,540
-Odrobina, no to oczywiście eufenizm.
+00:13:09,980 --> 00:13:11,980
+A inną na wierzchu.
 
 194
-00:15:08,944 --> 00:15:16,244
-Jak sprawdzić stopień wysmażenia mięsa? No oczywiście nie wolno goćgać, bo wtedy
-wypłynie sok, a sok jest cenny.
+00:13:11,980 --> 00:13:13,980
+To jest niedopuszczalne.
 
 195
-00:15:16,244 --> 00:15:23,444
-Trzeba mięso nacisnąć. Jeśli stawia ono opór absolutny, znaczy, że jest
-przesmażone.
+00:13:13,980 --> 00:13:17,980
+Nie wolno też na patelnię wlewać hektolitrów oleju.
 
 196
-00:15:23,444 --> 00:15:31,444
-Jeśli opór delikatny, to znaczy, że jest różowe w środku, a jeśli jest
-całkowicie mięciutkie, to znaczy, że w środku jest surowe.
+00:13:17,980 --> 00:13:19,980
+Co wystarczy zrobić?
 
 197
-00:15:31,444 --> 00:15:37,944
-To stawia opór delikatny, więc należy je zdjąć z patelni.
+00:13:19,980 --> 00:13:23,980
+Wystarczy po prostu przed smażeniem mięso natrzeć olejem.
 
 198
-00:15:38,000 --> 00:15:40,880
-I niech chwilę odpocznie, ale oczywiście nie powinno
+00:13:23,980 --> 00:13:25,980
+Zwykłym roślinnym olejem.
 
 199
-00:15:40,960 --> 00:15:49,080
-wystygnąć, więc teraz przykrywam je metalową folią i czekam aż sos się dogotuje.
+00:13:25,980 --> 00:13:27,980
+Z dwóch stron.
 
 200
-00:15:50,656 --> 00:15:54,656
-Sos jest gotowy, jednorodny i gęsty, bez żadnej zasmaszki.
+00:13:27,980 --> 00:13:29,980
+Patelnia jak najgrubsza, jak najcięższa.
 
 201
-00:15:54,656 --> 00:16:03,656
-Zatem zgodnie z tym jak się dzisiaj podaje jedzenie, mięso powinno leżeć na
-sosie i nie wolno go w tym sosie topić.
+00:13:29,980 --> 00:13:31,980
+W tym wypadku grillowa.
 
 202
-00:16:03,656 --> 00:16:08,656
-Mięso, ale też jarzyny. Sos zawsze na dno talerza.
+00:13:31,980 --> 00:13:33,980
+Ale taka być nie musi.
 
 203
-00:16:08,656 --> 00:16:15,656
-Gdybym go pogotował jeszcze kilka minut miałby konsystencję gęstszą, ale taki
-wystarczy.
+00:13:33,980 --> 00:13:35,980
+I nie solimy na razie, nie pieprzymy.
 
 204
-00:16:16,656 --> 00:16:26,656
-I rzecz ostatnia, a mianowicie trzeba teraz mięso położyć na wierzchu stroną
-nieposoloną.
+00:13:35,980 --> 00:13:37,980
+Nic z tym nie robimy.
 
 205
-00:16:26,656 --> 00:16:36,656
-Dlaczego? Dlatego, że mamy jeszcze jeden smakowy akcencik, a mianowicie sól.
+00:13:37,980 --> 00:13:42,980
+Tylko kładziemy to na patelnię idealnie rozgrzaną.
 
 206
-00:16:36,656 --> 00:16:49,656
-Sól pod wędzaną. Mięso jest gorące, sól odda smak. Drodzy Państwo, rzecz
-najprostsza, a zarazem dla wielu najwspanialsza.
+00:13:42,980 --> 00:13:46,980
+Mam nadzieję, że owa właśnie taką jest.
 
 207
-00:16:49,656 --> 00:16:58,656
-Stek, prawdziwy stek z antykotu. Herford z lubuskiego i kieliszek lubuskiego
-pinot noir.
+00:13:46,980 --> 00:13:51,980
+A dźwięk mówi nam najlepiej, że tak.
 
 208
-00:16:58,656 --> 00:17:03,656
-Wszystko w lubuskim anturażu. Tak to właśnie wygląda.
+00:13:51,980 --> 00:13:55,980
+Oczywiście stopień wysmażenia mięsa zależy od waszego uznania.
 
 209
-00:17:07,040 --> 00:17:10,040
-Miejscowe wino pasuje świetnie nie tylko do miejscowej
+00:13:55,980 --> 00:13:59,980
+Ale nie zdobędziecie uznania niczyjego.
 
 210
-00:17:10,040 --> 00:17:13,200
-wołowiny i to jest rzecz jasna doskonała informacja dla
+00:13:59,980 --> 00:14:02,980
+A już zwłaszcza tych, którzy na bepsztykach się znają.
 
 211
-00:17:13,200 --> 00:17:15,640
-tych wszystkich, którzy mięsa nie jedzą.
+00:14:02,980 --> 00:14:07,980
+Jeśli będziecie żądać mięsa wysmażonego well done.
 
 212
-00:17:15,680 --> 00:17:18,480
-Jestem w miejscowości Milsko i od razu wyjaśniam.
+00:14:07,980 --> 00:14:09,980
+Czyli absolutnie.
 
 213
-00:17:18,680 --> 00:17:21,200
-Nie chodzi mi tutaj o łączność pomiędzy winem,
+00:14:09,980 --> 00:14:11,980
+To mięso powinno być różowe w środku.
 
 214
-00:17:21,560 --> 00:17:23,640
-a pieczenią z koźlęcia.
+00:14:11,980 --> 00:14:13,980
+I dopiero teraz sól.
 
 215
-00:17:23,920 --> 00:17:28,920
-Chodzi o to co można zrobić z mleka, które te urocze kozy dają.
+00:14:13,980 --> 00:14:15,980
+Na razie tylko z jednej strony.
 
 216
-00:17:30,760 --> 00:17:34,600
-Państwa Anita Kotłowska i Bogdan Grajewski niecałe dwa lata temu
+00:14:15,980 --> 00:14:18,980
+Ta druga będzie dosalana na końcu.
 
 217
-00:17:34,600 --> 00:17:36,200
-zaczęli robić kozie sery.
+00:14:18,980 --> 00:14:20,980
+Teraz sos.
 
 218
-00:17:36,480 --> 00:17:38,480
-Na początku wyłącznie dla siebie.
+00:14:20,980 --> 00:14:23,980
+Wino prawie całkowicie zniknęło.
 
 219
-00:17:39,040 --> 00:17:42,520
-Szybko się jednak okazało, że doskonale pasują one do
+00:14:23,980 --> 00:14:25,980
+Ono jest skoncentrowane.
 
 220
-00:17:42,520 --> 00:17:46,800
-miejscowych win, więc jeli się ich domagać lokalni winiarze.
+00:14:25,980 --> 00:14:26,980
+Jakie to wino?
 
 221
-00:17:47,000 --> 00:17:51,560
-Sery są tylko z mleka niepasteryzowanego, albo w postaci
+00:14:26,980 --> 00:14:28,980
+No oczywiście miejscowe lubuskie.
 
 222
-00:17:51,560 --> 00:17:56,240
-świeżej, nie solonej, albo też solone, również dojrzewające
+00:14:28,980 --> 00:14:30,980
+Odmiana Pinot Noir.
 
 223
-00:17:56,520 --> 00:17:57,840
-i w końcu wędzone.
+00:14:30,980 --> 00:14:32,980
+Zatem wyjmujemy to wszystko co było w środku.
 
 224
-00:17:58,080 --> 00:18:02,960
-Wędzone drewnem śliwkowym i tak niecałe dwa lata temu
+00:14:32,980 --> 00:14:34,980
+A więc rozmaryn i czosnek.
 
 225
-00:18:02,960 --> 00:18:07,400
-powstał nowy produkt regionalny sery milskie.
+00:14:34,980 --> 00:14:39,980
+Mamy tutaj niezwykły smakowy koncentrat.
 
 226
-00:18:10,576 --> 00:18:16,576
-Miejscowość Radwanów i doskonały przykład tego, o czym podczas gotowania
-wspominałem.
+00:14:39,980 --> 00:14:41,980
+I teraz do tego.
 
 227
-00:18:16,576 --> 00:18:19,576
-To był kiedyś niemiecki folwark.
+00:14:41,980 --> 00:14:44,980
+Dolewamy demi glace.
 
 228
-00:18:19,576 --> 00:18:25,576
-Jeszcze kilka lat temu kompletna ruina, ale niekiedy tylko na bazie fundamentów
+00:14:44,980 --> 00:14:47,980
+I to się musi gotować.
 
 229
-00:18:25,576 --> 00:18:30,576
-wzniesiono to i przywrócono temu stan wizualnie pierwotny,
+00:14:47,980 --> 00:14:49,980
+Tylko zagotować.
 
 230
-00:18:30,576 --> 00:18:33,576
-choć już tych samych funkcji nie pełni.
+00:14:49,980 --> 00:14:51,980
+A mięso dochodzi.
 
 231
-00:18:33,576 --> 00:18:36,576
-To nazywa się żabidwór. Można tutaj spać,
+00:14:51,980 --> 00:14:52,980
+Co jeszcze?
 
 232
-00:18:36,576 --> 00:18:41,576
-spać, ale przede wszystkim można tu, a nawet trzeba coś zjeść.
+00:14:52,980 --> 00:14:57,980
+Jeszcze coś bez czego Francuzi niemal żadnego sosu sobie nie wyobrażają.
 
 233
-00:18:44,698 --> 00:18:55,698
-Przedsięwzięcie jest można by rzec ultrarodzinne, gdyż należy do państwa
-woźniakowskich, a za kuchnię odpowiada pan Marek Woźniakowski junior.
+00:14:57,980 --> 00:15:00,980
+Mianowicie odrobina masła.
 
 234
-00:18:55,698 --> 00:19:02,698
-Kłaniam się nisko. Witam, dzień dobry. Panie Marku, no to słów kilka o tym co
-Pan nam tutaj przygotował.
+00:15:00,980 --> 00:15:02,980
+To sprawi, że sos będzie emulsyjny.
 
 235
-00:19:02,698 --> 00:19:09,698
-Otóż na przestaweczkę mamy salsesą regionalny od naszego regionalnego producenta
-z Sulechowa.
+00:15:02,980 --> 00:15:03,980
+Odrobina.
 
 236
-00:19:09,698 --> 00:19:17,698
-Salsesny jest wybitny. Do tego jest również naturalny, prawdziwy miód akacjowy,
-który bardzo fajnie daje słody salsonowi.
+00:15:03,980 --> 00:15:05,980
+Chodź tu rozmarynię.
 
 237
-00:19:17,698 --> 00:19:21,698
-Ale rozumiem, że nie z Hiszpanii, tylko stąd. Stąd, tutaj również, również z
-Lubuskiego.
+00:15:05,980 --> 00:15:06,980
+Odrobina.
 
 238
-00:19:21,698 --> 00:19:28,698
-A ta marcheweczka? Marcheweczka jest kiszona przeze mnie i również z naszych
-upraw tutaj, więc sama natura.
+00:15:06,980 --> 00:15:08,980
+No to oczywiście eufemizm.
 
 239
-00:19:28,698 --> 00:19:32,698
-No, a drugie danie? Moment, moment, moment.
+00:15:08,980 --> 00:15:10,980
+Jak sprawdzić stopień wysmażenia mięsa?
 
 240
-00:19:32,698 --> 00:19:42,698
-Jakość kiszonki to zawsze jest w pewnym sensie jakość szefa. Kiszonki są
-ostatnio coraz popularniejsze, ale to chrupiące, jędrne i doskonałe.
+00:15:10,980 --> 00:15:12,980
+No oczywiście nie wolno go dźgać.
 
 241
-00:19:42,698 --> 00:19:49,698
-Jeszcze moment, jeszcze moment zanim przejdziemy do drugiego dania. Ja tutaj
-muszę dać świadectwo prawdzie.
+00:15:12,980 --> 00:15:14,980
+Bo wtedy wypłynie sok.
 
 242
-00:19:49,698 --> 00:19:54,698
-Bo powiem Państwu, ja już tu byłem, ale nie jadłem nigdy tego salsesonu, więc
-salseson...
+00:15:14,980 --> 00:15:15,980
+A sok jest cenny.
 
 243
-00:19:56,752 --> 00:20:07,752
-Jezu gdzie jest ten człowiek? Na wakacjach teraz. Czyli chwilowo nie robi
-salcesa. Obłędny. Obłędny salceso. Dobra, danie drugie.
+00:15:15,980 --> 00:15:17,980
+Trzeba mięso nacisnąć.
 
 244
-00:20:07,752 --> 00:20:17,752
-Danie drugie. Nam tutaj klasykę, czyli z raz w ołowy, w środku z wędzonym
-boczkiem, kiszoną kapustą przez nas również i również kiszonym ogórkiem.
+00:15:17,980 --> 00:15:20,980
+Jeśli stawia ono opór absolutny.
 
 245
-00:20:17,752 --> 00:20:30,752
-Jest on podany na kaszy jęczmiennej i cóż, i do tego jest salsa z kiszonek
-również naszej produkcji, która świetnie przełamuje tutaj coś w trawny, słodki
-smak z raza.
+00:15:20,980 --> 00:15:22,980
+Znaczy, że jest przesmażone.
 
 246
-00:20:30,752 --> 00:20:38,752
-Czyli jaka jest Pańska filozofia w dwóch słowach gotowania? Bo Pan jest
-samoukiem z tego co wiem. Tak, tak, tak. Samoukiem, 7 lat w kuchni.
+00:15:22,980 --> 00:15:24,980
+Jeśli opór delikatny.
 
 247
-00:20:38,752 --> 00:20:51,752
-Filosofia jest moja taka, że jakie miejsce takie dania, prawda? Jeżeli mamy
-tutaj, jesteśmy, otaczamy się zabytkową cegłą, ciężkim klimatem dworku, to też
-dania na tele,
+00:15:24,980 --> 00:15:26,980
+To znaczy, że jest różowe w środku.
 
 248
-00:20:51,752 --> 00:21:04,752
-że muszą być takie prawdziwe, również ciężkie, nawiązującego do też naszej
-narodowości i do Polskości. I one są Panie Marku prawdziwe. Drodzy Państwo, to
-jest autorska kuchnia w doskonałym wydaniu.
+00:15:26,980 --> 00:15:28,980
+A jeśli jest całkowicie mięciutkie.
 
 249
-00:21:04,752 --> 00:21:14,752
-Jest mi trochę niezręcznie, że ja jem, a Pan nie. Ja już zjadłem, ale zaraz będę
-robił. No niech Pan przynajmniej przez chwilę mi podtowarzyszy, bo tak jeść samą
-to bardzo niezręcznie.
+00:15:28,980 --> 00:15:30,980
+To znaczy, że w środku jest surowe.
 
 250
-00:21:14,752 --> 00:21:19,752
-Jeszcze raz to powtórzę. To jest naprawdę bombowy adres.
+00:15:30,980 --> 00:15:34,980
+To stawia opór delikatny.
 
 251
-00:21:22,944 --> 00:21:24,944
-Grudniki zas.
+00:15:34,980 --> 00:15:36,980
+Więc należy je zdjąć z patelni.
 
 252
-00:21:24,944 --> 00:21:26,944
-A księżonki?
+00:15:36,980 --> 00:15:38,980
+I niech chwilę odpocznie.
 
 253
-00:21:26,944 --> 00:21:28,944
-Hip-top.
+00:15:38,980 --> 00:15:39,980
+Ale oczywiście.
 
 254
-00:21:30,042 --> 00:21:32,482
-Wioska Zabór mieści nie tylko Pałac
+00:15:39,980 --> 00:15:41,980
+Nie powinno wystygnąć.
 
 255
-00:21:32,562 --> 00:21:36,522
-Hohenzollernów, a wcześniej Chrabiny Kozel, słynnej
+00:15:41,980 --> 00:15:45,980
+Więc teraz przykrywam je metalową folią.
 
 256
-00:21:36,602 --> 00:21:41,242
-kochanki króla Augusta II Mocnego, lecz również, a może
+00:15:45,980 --> 00:15:48,980
+I czekam aż sos się dogotuje.
 
 257
-00:21:41,322 --> 00:21:44,882
-przede wszystkim Lubuskie Centrum Winiarstwa.
+00:15:48,980 --> 00:15:53,580
+Sos jest gotowy, jednorodny i gęsty.
 
 258
-00:21:45,162 --> 00:21:48,882
-To jedyna w skali kraju tego typu inicjatywa.
+00:15:53,580 --> 00:15:55,580
+Bez żadnej zasmaczki.
 
 259
-00:21:49,282 --> 00:21:52,882
-Budynek postawiony za pieniądze w większości unijne z
+00:15:55,580 --> 00:15:58,580
+Zatem zgodnie z tym jak się dzisiaj podaje jedzenie.
 
 260
-00:21:52,962 --> 00:21:57,282
-inicjatywy samorządu, ale jego gospodarzem są poniekąd
+00:15:58,580 --> 00:16:01,580
+Mięso powinno leżeć na sosie.
 
 261
-00:21:57,482 --> 00:21:59,602
-wszyscy lubuscy winiarze.
+00:16:01,580 --> 00:16:04,580
+I nie wolno go w tym sosie topić.
 
 262
-00:22:00,922 --> 00:22:04,122
-Centrum wyposażone jest w tłocznię, z której mogą korzystać
+00:16:04,580 --> 00:16:06,580
+Mięso, ale też jarzyny.
 
 263
-00:22:04,202 --> 00:22:07,322
-ci winiarze, którzy nie dorobili się jeszcze stosownych
+00:16:06,580 --> 00:16:08,580
+Sos zawsze na dno talerza.
 
 264
-00:22:07,402 --> 00:22:08,802
-urządzeń temu służących.
+00:16:08,580 --> 00:16:10,580
+No gdybym go pogotował jeszcze kilka minut.
 
 265
-00:22:09,162 --> 00:22:12,722
-Można tutaj zapraszać swoich gości, przeprowadzać degustacje.
+00:16:11,580 --> 00:16:14,580
+Miałby konsystencję gęstszą.
 
 266
-00:22:13,242 --> 00:22:15,882
-Miejsce otwarte jest dla wszystkich zwiedzających.
+00:16:14,580 --> 00:16:16,580
+Ale taki wystarczy.
 
 267
-00:22:16,282 --> 00:22:20,682
-Zbiera również pamiątki po dawnym miejscowym winiarstwie.
+00:16:16,580 --> 00:16:18,580
+I rzecz ostatnia.
 
 268
-00:22:20,842 --> 00:22:24,522
-Oprócz tego, że zbiera wszystkie miejscowe trunki od
+00:16:18,580 --> 00:16:20,580
+A mianowicie.
 
 269
-00:22:24,602 --> 00:22:26,322
-każdego z tutejszych producentów.
+00:16:20,580 --> 00:16:24,580
+Trzeba teraz mięso położyć na wierzchu.
 
 270
-00:22:26,562 --> 00:22:27,722
-Wróćmy do pamiątek.
+00:16:24,580 --> 00:16:26,580
+Stroną nieposoloną.
 
 271
-00:22:28,002 --> 00:22:28,962
-Spójrzcie Państwo.
+00:16:26,580 --> 00:16:28,580
+Dlaczego?
 
 272
-00:22:29,242 --> 00:22:34,162
-Der Grempler Zekt, alte ste deutsche Zekt, czyli Grempler
+00:16:28,580 --> 00:16:33,580
+Dlatego, że mamy jeszcze jeden smakowy akcencik.
 
 273
-00:22:34,242 --> 00:22:39,642
-Zekt, najstarsze niemieckie wino robione metodą szampańską.
+00:16:33,580 --> 00:16:35,580
+A mianowicie.
 
 274
-00:22:39,842 --> 00:22:40,442
-Skąd?
+00:16:35,580 --> 00:16:36,580
+Sól.
 
 275
-00:22:40,682 --> 00:22:42,522
-Grimberg in Schlesien.
+00:16:36,580 --> 00:16:38,580
+Sól podwędzaną.
 
 276
-00:22:42,962 --> 00:22:48,362
-Mam nadzieję, że za 100 czy też 150 lat nasi następcy odnajdą
+00:16:38,580 --> 00:16:40,580
+Mięso jest gorące.
 
 277
-00:22:48,442 --> 00:22:53,762
-podobne reklamy pisane po polsku o polskim winie z Zielonej Góry
+00:16:41,580 --> 00:16:43,580
+Sól odda smak.
 
 278
-00:22:53,842 --> 00:22:54,642
-i okolic.
+00:16:43,580 --> 00:16:45,580
+Drodzy Państwo.
 
 279
-00:22:55,792 --> 00:22:58,792
-Napisy stworzone przez społeczność Amara.org
+00:16:45,580 --> 00:16:47,580
+Rzecz najprostsza.
+
+280
+00:16:47,580 --> 00:16:49,580
+A zarazem dla wielu najwspanialsza.
+
+281
+00:16:49,580 --> 00:16:51,580
+Stek.
+
+282
+00:16:51,580 --> 00:16:53,580
+Prawdziwy stek z antrykotu.
+
+283
+00:16:53,580 --> 00:16:55,580
+Hereford z lubuskiego.
+
+284
+00:16:55,580 --> 00:16:58,580
+I kieliszek lubuskiego Pinot Noira.
+
+285
+00:16:58,580 --> 00:17:01,580
+Wszystko w lubuskim anturażu.
+
+286
+00:17:01,580 --> 00:17:03,580
+Tak to właśnie wygląda.
+
+287
+00:17:03,580 --> 00:17:10,500
+Miejscowe wino pasuje świetnie nie tylko do miejscowej wołowiny.
+
+288
+00:17:10,500 --> 00:17:13,500
+I to jest rzecz jasna doskonała informacja dla tych wszystkich.
+
+289
+00:17:13,500 --> 00:17:15,500
+Którzy mięsa nie jedzą.
+
+290
+00:17:15,500 --> 00:17:17,500
+Jestem w miejscowości Milsko.
+
+291
+00:17:17,500 --> 00:17:19,500
+I od razu wyjaśniam.
+
+292
+00:17:19,500 --> 00:17:21,500
+Nie chodzi mi tutaj o łączność pomiędzy winem.
+
+293
+00:17:21,500 --> 00:17:23,500
+A pieczenią z koźlencia.
+
+294
+00:17:23,500 --> 00:17:26,500
+Chodzi o to co można zrobić z mleka.
+
+295
+00:17:26,500 --> 00:17:29,500
+Które te urocze kozy dają.
+
+296
+00:17:29,500 --> 00:17:32,500
+Państwo Anita Kotłowska i Bogdan Grajewski.
+
+297
+00:17:32,500 --> 00:17:36,500
+Niecałe dwa lata temu zaczęli robić kozie sery.
+
+298
+00:17:36,500 --> 00:17:38,500
+Na początku wyłącznie dla siebie.
+
+299
+00:17:38,500 --> 00:17:40,500
+Szybko się jednak okazało.
+
+300
+00:17:40,500 --> 00:17:43,500
+Że doskonale pasują one do miejscowych win.
+
+301
+00:17:43,500 --> 00:17:45,500
+Więc jeli się ich domagać.
+
+302
+00:17:45,500 --> 00:17:47,500
+Lokalni winiarze.
+
+303
+00:17:47,500 --> 00:17:50,500
+Sery są tylko z mleka niepasteryzowanego.
+
+304
+00:17:50,500 --> 00:17:52,500
+Albo w postaci świeżej.
+
+305
+00:17:52,500 --> 00:17:53,500
+Nie solonej.
+
+306
+00:17:53,500 --> 00:17:54,500
+Albo też solone.
+
+307
+00:17:54,500 --> 00:17:56,500
+Również dojrzewające.
+
+308
+00:17:56,500 --> 00:17:58,500
+I w końcu wędzone.
+
+309
+00:17:58,500 --> 00:18:00,500
+Wędzone drewnem śliwkowym.
+
+310
+00:18:00,500 --> 00:18:01,500
+I tak.
+
+311
+00:18:01,500 --> 00:18:03,500
+Niecałe dwa lata temu.
+
+312
+00:18:03,500 --> 00:18:05,500
+Powstał nowy produkt regionalny.
+
+313
+00:18:05,500 --> 00:18:07,500
+Sery milskie.
+
+314
+00:18:07,500 --> 00:18:12,470
+Miejscowość Radwanów.
+
+315
+00:18:12,470 --> 00:18:14,470
+I doskonały przykład tego.
+
+316
+00:18:14,470 --> 00:18:16,470
+Podczas gotowania wspominałem.
+
+317
+00:18:16,470 --> 00:18:19,470
+To był kiedyś niemiecki folwark.
+
+318
+00:18:19,470 --> 00:18:22,470
+Jeszcze kilka lat temu kompletna ruina.
+
+319
+00:18:22,470 --> 00:18:25,470
+Ale niekiedy tylko na bazie fundamentów.
+
+320
+00:18:25,470 --> 00:18:27,470
+Wzniesiono to.
+
+321
+00:18:27,470 --> 00:18:31,470
+I przywrócono temu stan wizualnie pierwotny.
+
+322
+00:18:31,470 --> 00:18:33,470
+Choć już tych samych funkcji nie pełni.
+
+323
+00:18:33,470 --> 00:18:35,470
+To nazywa się żabidwór.
+
+324
+00:18:35,470 --> 00:18:37,470
+Można tutaj spać.
+
+325
+00:18:37,470 --> 00:18:39,470
+Ale przede wszystkim można tu.
+
+326
+00:18:39,470 --> 00:18:41,470
+A nawet trzeba coś zjeść.
+
+327
+00:18:41,470 --> 00:18:46,829
+Przedsięwzięcie jest można by rzec.
+
+328
+00:18:46,829 --> 00:18:48,829
+Ultra rodzinne.
+
+329
+00:18:48,829 --> 00:18:50,829
+Gdyż należy do państwa woźniakowskich.
+
+330
+00:18:50,829 --> 00:18:52,829
+A za kuchnię odpowiada.
+
+331
+00:18:52,829 --> 00:18:54,829
+Pan Marek Woźniakowski Junior.
+
+332
+00:18:54,829 --> 00:18:56,829
+Kłaniam się nisko.
+
+333
+00:18:56,829 --> 00:18:58,829
+Witam. Dzień dobry.
+
+334
+00:18:58,829 --> 00:18:59,829
+Panie Marku.
+
+335
+00:18:59,829 --> 00:19:00,829
+No to słów kilka.
+
+336
+00:19:00,829 --> 00:19:02,829
+O tym co pan nam tutaj przygotował.
+
+337
+00:19:02,829 --> 00:19:04,829
+Otóż na przestaweczkę.
+
+338
+00:19:04,829 --> 00:19:06,829
+Mamy salseson regionalny.
+
+339
+00:19:06,829 --> 00:19:08,829
+Od naszego regionalnego producenta.
+
+340
+00:19:08,829 --> 00:19:10,829
+Z Sulechowa.
+
+341
+00:19:10,829 --> 00:19:12,829
+Salseson jest wybitny.
+
+342
+00:19:12,829 --> 00:19:14,829
+Do tego jest również naturalny prawdziwy miód akacjowy.
+
+343
+00:19:14,829 --> 00:19:16,829
+Który bardzo fajnie daje słodkość.
+
+344
+00:19:16,829 --> 00:19:18,829
+Ale rozumiem, że nie z Hiszpanii tylko stąd.
+
+345
+00:19:18,829 --> 00:19:20,829
+Stąd.
+
+346
+00:19:20,829 --> 00:19:22,829
+Tutaj również z Lubuskiego.
+
+347
+00:19:22,829 --> 00:19:24,829
+A ta marcheweczka?
+
+348
+00:19:24,829 --> 00:19:26,829
+Marcheweczka jest kiszona przeze mnie.
+
+349
+00:19:26,829 --> 00:19:28,829
+I również naszych upraw tutaj.
+
+350
+00:19:28,829 --> 00:19:30,829
+Więc sama natura.
+
+351
+00:19:30,829 --> 00:19:32,829
+No a drugie danie?
+
+352
+00:19:32,829 --> 00:19:34,829
+Jakość kiszonki.
+
+353
+00:19:34,829 --> 00:19:36,829
+To zawsze jest w pewnym sensie jakość szefa.
+
+354
+00:19:36,829 --> 00:19:38,829
+Kiszonki są ostatnio coraz popularniejsze.
+
+355
+00:19:38,829 --> 00:19:40,829
+Ale to chrupiące.
+
+356
+00:19:40,829 --> 00:19:42,829
+Jędrne i doskonałe.
+
+357
+00:19:42,829 --> 00:19:44,829
+Jeszcze moment.
+
+358
+00:19:44,829 --> 00:19:46,829
+Przechodzimy do drugiego dania.
+
+359
+00:19:46,829 --> 00:19:48,829
+Ja tutaj muszę dać świadectwo prawdzie.
+
+360
+00:19:48,829 --> 00:19:50,829
+Bo powiem Państwu.
+
+361
+00:19:50,829 --> 00:19:52,829
+Ja już tu byłem.
+
+362
+00:19:52,829 --> 00:19:54,829
+Ale nie jadłem nigdy tego salsesonu.
+
+363
+00:19:54,829 --> 00:19:58,269
+Więc salseson.
+
+364
+00:19:58,269 --> 00:20:00,269
+Jezu gdzie jest ten człowiek?
+
+365
+00:20:00,269 --> 00:20:02,269
+Na wakacje teraz.
+
+366
+00:20:02,269 --> 00:20:04,269
+Czyli chwilowo nie robi salsesonu.
+
+367
+00:20:04,269 --> 00:20:06,269
+Obłędny.
+
+368
+00:20:06,269 --> 00:20:08,269
+Obłędny salseson.
+
+369
+00:20:08,269 --> 00:20:10,269
+Danie drugie.
+
+370
+00:20:10,269 --> 00:20:12,269
+Dajmy tutaj klasykę.
+
+371
+00:20:12,269 --> 00:20:14,269
+Czyli zraz wołowy w środku z wędzonym boczkiem.
+
+372
+00:20:14,269 --> 00:20:16,269
+Kiszoną kapustą.
+
+373
+00:20:16,269 --> 00:20:18,269
+Z kiszonym ogórkiem.
+
+374
+00:20:18,269 --> 00:20:20,269
+Jest on podany na kaszy jęczmiennej.
+
+375
+00:20:20,269 --> 00:20:22,269
+I cóż.
+
+376
+00:20:22,269 --> 00:20:24,269
+I do tego jest salsa z kiszonek.
+
+377
+00:20:24,269 --> 00:20:26,269
+Również z naszej produkcji.
+
+378
+00:20:26,269 --> 00:20:28,269
+Która świetnie przełamuje tutaj.
+
+379
+00:20:28,269 --> 00:20:30,269
+Coś wytrawny, słodki.
+
+380
+00:20:30,269 --> 00:20:32,269
+Smak zraza.
+
+381
+00:20:32,269 --> 00:20:34,269
+Czyli jaka jest Pańska filozofia w dwóch słowach gotowania?
+
+382
+00:20:34,269 --> 00:20:36,269
+Bo Pan jest samoukiem z tego co wie.
+
+383
+00:20:36,269 --> 00:20:38,269
+Tak, tak. Samoukiem.
+
+384
+00:20:38,269 --> 00:20:40,269
+Siedem lat w kuchni.
+
+385
+00:20:40,269 --> 00:20:42,269
+Filozofia jest moja taka, że.
+
+386
+00:20:42,269 --> 00:20:44,269
+Jakie miejsce takie dania.
+
+387
+00:20:44,269 --> 00:20:46,269
+Jeżeli mamy tutaj.
+
+388
+00:20:46,269 --> 00:20:48,269
+Ciężką cegłą.
+
+389
+00:20:48,269 --> 00:20:50,269
+Ciężkim klimatem dworku.
+
+390
+00:20:50,269 --> 00:20:52,269
+To też dania na talerzu.
+
+391
+00:20:52,269 --> 00:20:54,269
+Muszą być takie prawdziwe.
+
+392
+00:20:54,269 --> 00:20:56,269
+Również ciężkie.
+
+393
+00:20:56,269 --> 00:20:58,269
+Nawiązujące do naszej narodowości.
+
+394
+00:20:58,269 --> 00:21:00,269
+I do polskości.
+
+395
+00:21:00,269 --> 00:21:02,269
+I one są Panie Marku prawdziwe.
+
+396
+00:21:02,269 --> 00:21:04,269
+Drodzy Państwo.
+
+397
+00:21:04,269 --> 00:21:06,269
+To jest autorska kuchnia.
+
+398
+00:21:06,269 --> 00:21:08,269
+W doskonałym wydaniu.
+
+399
+00:21:08,269 --> 00:21:10,269
+Jest mi trochę niezręcznie, że ja jem.
+
+400
+00:21:10,269 --> 00:21:12,269
+A Pan nie.
+
+401
+00:21:12,269 --> 00:21:14,269
+Ja już zjadłem, ale zaraz będę robił.
+
+402
+00:21:14,269 --> 00:21:16,269
+Niezręcznie.
+
+403
+00:21:16,269 --> 00:21:18,269
+Jeszcze raz to powtórzę.
+
+404
+00:21:18,269 --> 00:21:20,269
+To jest naprawdę bombowy adres.
+
+405
+00:21:20,269 --> 00:21:25,019
+Kruchuteńki zaraz.
+
+406
+00:21:25,019 --> 00:21:27,019
+A kiszonki.
+
+407
+00:21:27,019 --> 00:21:29,019
+I top.
+
+408
+00:21:29,019 --> 00:21:31,019
+Wioska Zabór.
+
+409
+00:21:31,019 --> 00:21:33,019
+Mieści nie tylko pałac Hohenzollernów.
+
+410
+00:21:33,019 --> 00:21:35,019
+A wcześniej hrabiny Kozel.
+
+411
+00:21:35,019 --> 00:21:37,019
+Słynnej kochanki.
+
+412
+00:21:37,019 --> 00:21:39,019
+Króla Augusta II Mocnego.
+
+413
+00:21:39,019 --> 00:21:41,019
+Lecz również.
+
+414
+00:21:41,019 --> 00:21:43,019
+A może przede wszystkim.
+
+415
+00:21:43,019 --> 00:21:45,019
+Lubuskie centrum winiarstwa.
+
+416
+00:21:45,019 --> 00:21:47,019
+To jedyna w skali kraju.
+
+417
+00:21:47,019 --> 00:21:49,019
+Tego typu inicjatywa.
+
+418
+00:21:49,019 --> 00:21:51,019
+Budynek postawiony.
+
+419
+00:21:51,019 --> 00:21:53,019
+Za pieniądze w większości unijne.
+
+420
+00:21:53,019 --> 00:21:55,019
+Z inicjatywy samorządu.
+
+421
+00:21:55,019 --> 00:21:57,019
+Ale jego gospodarzem są poniekąd.
+
+422
+00:21:57,019 --> 00:21:59,019
+Wszyscy lubuscy winiarze.
+
+423
+00:22:01,019 --> 00:22:03,019
+Centrum wyposażone jest w tłocznię.
+
+424
+00:22:03,019 --> 00:22:05,019
+Z której mogą korzystać ci winiarze.
+
+425
+00:22:05,019 --> 00:22:07,019
+Którzy nie dorobili się jeszcze.
+
+426
+00:22:07,019 --> 00:22:09,019
+Stosownych urządzeń temu służących.
+
+427
+00:22:09,019 --> 00:22:11,019
+Można tutaj zapraszać swoich gości.
+
+428
+00:22:11,019 --> 00:22:13,019
+Przeprowadzać degustacje.
+
+429
+00:22:13,019 --> 00:22:15,019
+Miejsce otwarte jest dla wszystkich.
+
+430
+00:22:15,019 --> 00:22:17,019
+Zwiedzających.
+
+431
+00:22:17,019 --> 00:22:19,019
+Zbiera również pamiątki.
+
+432
+00:22:19,019 --> 00:22:21,019
+Po dawnym miejscowym winiarstwie.
+
+433
+00:22:21,019 --> 00:22:23,019
+Oprócz tego.
+
+434
+00:22:23,019 --> 00:22:25,019
+Że zbiera wszystkie miejscowe trunki.
+
+435
+00:22:25,019 --> 00:22:27,019
+Od każdego z tutejszych producentów.
+
+436
+00:22:27,019 --> 00:22:29,019
+Wróćmy do pamiątek.
+
+437
+00:22:29,019 --> 00:22:31,019
+Spójrzcie Państwo.
+
+438
+00:22:31,019 --> 00:22:33,019
+Der Grempeler Zekt.
+
+439
+00:22:33,019 --> 00:22:35,019
+Altesste Deutsche Zekt.
+
+440
+00:22:35,019 --> 00:22:37,019
+Czyli Grempeler Zekt.
+
+441
+00:22:37,019 --> 00:22:39,019
+Najstarsze niemieckie wino.
+
+442
+00:22:39,019 --> 00:22:41,019
+Robione metodą szampańską.
+
+443
+00:22:41,019 --> 00:22:43,019
+Skąd?
+
+444
+00:22:43,019 --> 00:22:45,019
+Grimberg in Schlesien.
+
+445
+00:22:45,019 --> 00:22:47,019
+150 lat.
+
+446
+00:22:47,019 --> 00:22:49,019
+Nasi następcy odnajdą podobne reklamy.
+
+447
+00:22:49,019 --> 00:22:51,019
+Pisane po polsku.
+
+448
+00:22:51,019 --> 00:22:53,019
+O polskim winie.
+
+449
+00:22:53,019 --> 00:22:55,019
+Z Zielonej Góry i okolic.
 

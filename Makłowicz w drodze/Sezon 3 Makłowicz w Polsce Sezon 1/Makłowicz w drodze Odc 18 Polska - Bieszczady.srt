@@ -1,993 +1,1612 @@
 1
-00:00:00,000 --> 00:00:03,000
-Napisy stworzone przez społeczność Amara.org
+00:00:02,609 --> 00:00:34,909
+Jedna rzecz, drodzy Państwo, jest w tym momencie absolutnie pewna.
 
 2
-00:00:30,000 --> 00:00:30,170
-ty
+00:00:35,030 --> 00:00:37,750
+Otóż jestem w górach. Ale jakie to góry?
 
 3
-00:00:30,170 --> 00:00:34,970
-Jedna rzecz drodzy państwo jest w tym momencie absolutnie pewna.
+00:00:37,890 --> 00:00:44,990
+Polska, mimo że jest krajem w większości równinnym i w górskiej materii, daje spore spektrum możliwości.
 
 4
-00:00:34,970 --> 00:00:37,770
-Otóż jestem w górach, ale jakie to góry?
+00:00:44,990 --> 00:00:51,689
+Zatem przybliżmy rzeczy kolej. Mniej więcej 5 kilometrów stąd jest granica ze Słowacją.
 
 5
-00:00:37,770 --> 00:00:42,770
-Polska, mimo że jest krajem w większości równinnym i w górskiej materii
+00:00:51,689 --> 00:00:57,570
+Kilometrów 20 granica z Ukrainą. Jestem w środku Parku Narodowego.
 
 6
-00:00:42,770 --> 00:00:45,170
-daje spore spektrum możliwości.
+00:00:58,009 --> 00:01:02,310
+A ta góra, łysa na szczycie, to Połonina Caryńska.
 
 7
-00:00:45,170 --> 00:00:47,570
-Zatem przybliżmy rzeczy kolei.
+00:01:02,710 --> 00:01:06,730
+Zatem gdzie jestem? Tak, właśnie. W Bieszczadach moimi.
 
 8
-00:00:47,570 --> 00:00:51,770
-Mniej więcej 5 kilometrów stąd jest granica ze Słowacją.
+00:01:07,049 --> 00:01:14,569
+Te niewysokie przecież, ale kiedyś trudno dostępne góry już w latach 50. XX wieku
 
 9
-00:00:51,770 --> 00:00:55,670
-Kilometrów 20 granica z Ukrainą.
-
-10
-00:00:55,670 --> 00:00:58,770
-Jestem w środku Parku Narodowego, a ta góra,
-
-11
-00:00:58,770 --> 00:01:02,570
-łysa na szczycie to Połonina Caryńska.
-
-12
-00:01:02,570 --> 00:01:03,870
-Zatem gdzie jestem?
-
-13
-00:01:03,870 --> 00:01:07,770
-Tak właśnie w Bieszczatach Wojniki.
-
-14
-00:01:07,770 --> 00:01:11,770
-Te niewysokie przecież, ale kiedyś trudno dostępne góry
-
-15
-00:01:11,770 --> 00:01:14,770
-już w latach 50. XX wieku
-
-16
-00:01:14,770 --> 00:01:18,870
+00:01:14,569 --> 00:01:18,750
 poczęły w naszym kraju cieszyć się niezwykłą sławą.
 
-17
-00:01:18,870 --> 00:01:21,470
+10
+00:01:19,069 --> 00:01:21,310
 Otaczał je nimb romantyzmu.
 
+11
+00:01:21,310 --> 00:01:28,969
+Gdy ktoś chciał uciec, gdy ktoś chciał się zgubić, gdy ktoś chciał zerwać z dawnym życiem, jechał w Bieszczady.
+
+12
+00:01:29,329 --> 00:01:35,689
+Musimy wszakże pamiętać, że za tą legendą stoi wcześniejsza ludzka tragedia.
+
+13
+00:01:38,409 --> 00:01:44,650
+Ten fragment Rzeczypospolitej od stuleci zamieszkiwały rusińskie plemiona Bojków i Łemków.
+
+14
+00:01:45,109 --> 00:01:51,609
+Idąc ze wschodu na zachód, mamy najpierw Hucułów, Karpaty Wschodnie, potem Bojków i Łemków.
+
+15
+00:01:51,609 --> 00:01:54,930
+Ale przyszedł rok 1947.
+
+16
+00:01:55,629 --> 00:02:02,769
+Komunistyczne władze walcząc z partyzantką UPA postanowiły zastosować odpowiedzialność zbiorową.
+
+17
+00:02:03,069 --> 00:02:09,389
+I w ramach akcji Wisła wszystkich Bojków i Łemków, niemal wszystkich, stąd wysiedlono.
+
 18
-00:01:21,470 --> 00:01:25,270
-Gdy ktoś chciał uciec, gdy ktoś chciał się zgubić,
-
-19
-00:01:25,370 --> 00:01:29,270
-gdy ktoś chciał zerwać z dawnym życiem, jechał w Bieszczady.
-
-20
-00:01:29,270 --> 00:01:33,670
-Musimy wszakże pamiętać, że za tą legendą stoi
-
-21
-00:01:33,670 --> 00:01:35,770
-wcześniejsza ludzka tragedia.
-
-22
-00:01:37,504 --> 00:01:44,504
-Ten fragment Rzeczypospolitej od stuleci zamieszkiwały rusińskie plemiona Bojków
-i Łemków.
-
-23
-00:01:44,504 --> 00:01:51,504
-Idąc ze wschodu na zachód, mamy najpierw Hucułów, Karpaty Wschodnie, potem
-Bojków i Łemków.
-
-24
-00:01:51,504 --> 00:02:02,504
-Ale przyszedł rok 1947. Komunistyczne władze walcząc z partyzantką UPA
-postanowiły zastosować odpowiedzialność zbiorową.
-
-25
-00:02:02,504 --> 00:02:09,504
-I w ramach akcji Wisła wszystkich Bojków i Łemków, niemal wszystkich stąd
-wysiedlono.
-
-26
-00:02:09,504 --> 00:02:16,504
+00:02:09,729 --> 00:02:15,849
 Mimo, że wielu z nich nie poczuwało się do łączności z etnosem ukraińskim.
 
+19
+00:02:16,650 --> 00:02:18,569
+Bieszczady opustoszały.
+
+20
+00:02:18,569 --> 00:02:20,509
+To ruiny cerkwi.
+
+21
+00:02:20,509 --> 00:02:24,590
+Cerkiew kamienna, wyjątek, więc coś jeszcze zostało.
+
+22
+00:02:24,969 --> 00:02:27,509
+Kiedyś to było centrum wioski.
+
+23
+00:02:28,050 --> 00:02:29,710
+Dziś dookoła pustać.
+
+24
+00:02:30,050 --> 00:02:31,949
+O niektórych wioskach nic nie wiemy.
+
+25
+00:02:32,430 --> 00:02:35,650
+Historia innych jest dość dobrze udokumentowana.
+
+26
+00:02:35,789 --> 00:02:38,469
+Na przykład wioska Krywe nad Sanem.
+
 27
-00:02:16,504 --> 00:02:24,504
-Bieszczady opustoszały. To ruiny cerkwi, cerkiew kamienna, wyjątek, więc coś
-jeszcze zostało.
+00:02:38,949 --> 00:02:41,889
+Przed wojną mieszkało w niej 500 osób.
 
 28
-00:02:24,504 --> 00:02:29,504
-Kiedyś to było centrum wioski. Dziś dookoła pustać.
+00:02:42,409 --> 00:02:49,509
+6 było wyznania rzymskokatolickiego, 20 mojżeszowego, reszta to grekokatolika.
 
 29
-00:02:29,504 --> 00:02:35,504
-O niektórych wioskach nic nie wiemy. Historia innych jest dość dobrze
-udokumentowana.
-
-30
-00:02:35,504 --> 00:02:41,504
-Na przykład wioska Krywe nad Sanem. Przed wojną mieszkało w niej 500 osób.
-
-31
-00:02:41,504 --> 00:02:50,504
-Sześć było wyznania rzymskokatolickiego, dwadzieścia mojżeszowego, reszta to
-grekokatolicy.
-
-32
-00:02:50,504 --> 00:02:56,504
+00:02:49,509 --> 00:02:56,069
 I cóż, Bieszczady musiały być zasiedlone na nowo.
 
-33
-00:02:56,504 --> 00:03:00,504
+30
+00:02:56,069 --> 00:03:00,870
 O przeszłości mówią tylko takie ruiny.
 
+31
+00:03:00,870 --> 00:03:05,340
+Ta wioska też kiedyś nazywała się Krywe.
+
+32
+00:03:05,340 --> 00:03:07,340
+Mieszkali w niej Bojkowie.
+
+33
+00:03:07,340 --> 00:03:09,340
+Po nich nie ma śladu.
+
 34
-00:03:02,464 --> 00:03:15,464
-Ta wioska też kiedyś nazywała się Krywę, mieszkali w niej Bojkowie, po nich nie
-ma śladu, dawną bojkowską nazwę spolszczono. Dzisiaj to Krzywe, a precyzyjniej
-rzecz biorąc Krzywe Koło Cisnej.
+00:03:09,340 --> 00:03:11,340
+Dawną bojkowską nazwę spolszczono.
 
 35
-00:03:15,464 --> 00:03:25,464
-Bieszczadzkie doliny już od dawna nie są puste. Przyjechali tutaj nowi ludzie,
-którzy z tą ziemią się zrośli. No i co ci ludzie tutaj mogą robić?
+00:03:11,340 --> 00:03:13,340
+Dzisiaj to Krzywe.
 
 36
-00:03:25,464 --> 00:03:31,464
-Ano przyjmować turystów. To jest drodzy Państwo gospodarstwo agroturystyczne.
+00:03:13,340 --> 00:03:15,340
+A precyzyjniej rzecz biorąc, Krzywe koło Cisnej.
 
 37
-00:03:34,464 --> 00:03:44,464
-Gospodynią Sosnowego Dworu, bo tak się to miejsce nazywa, jest Iza Tuniewicz. To
-jest miejscowe, rutynowe, standardowe śniadanko, czyż nie tak?
+00:03:15,340 --> 00:03:17,340
+Bieszczadzkie doliny już od dawna nie są puste.
 
 38
-00:03:44,464 --> 00:03:52,464
-Tak, to jest śniadanie serwowane gościem Sosnowego Dworu. I celebracja właśnie
-tego pierwszego posiłku jest dla mnie bardzo ważna.
+00:03:17,340 --> 00:03:19,340
+Przyjechali tutaj nowi ludzie, którzy byli w Bieszczadzie.
 
 39
-00:03:52,464 --> 00:03:58,464
-No ja jem mało na śniadanie, ale tutaj nie będę mógł się opanować. No powiedzmy
-parę słów o tych różnych rzeczach. Co to jest?
+00:03:19,340 --> 00:03:20,340
+Przyjechali tutaj nowi ludzie, którzy byli w Bieszczadzie.
 
 40
-00:03:58,464 --> 00:04:08,464
-To są ryzyki. Złoto, bieszczadów. Nie można ich nie wykorzystać w kuchni. Nie są
-przeocztowane i to jest bardzo ważne.
+00:03:20,340 --> 00:03:21,340
+Przyjechali ludzie, którzy byli w Bieszczadzie.
 
 41
-00:04:08,464 --> 00:04:15,464
-To jest pesto z niedźwiedziego czosnku. Sama zbierasz niedźwiedziczosnek, ale na
-polanie, bo w lesie zdaje się go nie wolno zbierać, bo jest pod ochroną.
+00:03:21,340 --> 00:03:23,340
+Ludzie, którzy z tą ziemią się zrośli.
 
 42
-00:04:15,464 --> 00:04:26,464
-Ja mam małą plantację niedźwiedziego czosnku u siebie w ogródku. Wykorzystuję
-też niedźwiedziczosnek. Na przykład tu jest pasta z oliwek z niedźwiedzim
-czosnkiem.
+00:03:23,340 --> 00:03:25,340
+No i co ci ludzie tutaj mogą robić?
 
 43
-00:04:26,464 --> 00:04:35,464
-To? Tak. A co to jest to? Bo to jest niezwykły delikatest. To są rydze przecież.
-To są rydze, to jest masło rydzowe.
+00:03:25,340 --> 00:03:27,340
+No i co ci ludzie tutaj mogą robić?
 
 44
-00:04:35,464 --> 00:04:54,464
-Czyli co dusisz rydzę na maśle krótko i potem to jest smarowidło? Najpierw duszę
-je, tak żeby do masła przeszedł aromat rydzów, natomiast później je troszkę
-mocniej wysmażam, żeby one były takiej konsystencji bardziej stałej i dopełniam
-masełkiem.
+00:03:27,340 --> 00:03:29,340
+Ano przyjmować turystów.
 
 45
-00:04:54,464 --> 00:05:03,464
-Paromenalne. Sery miejscowe, wędliny miejscowe, chleb miejscowy. Ten chleb jest
-bardzo dobry muszę powiedzieć. Chleb z piekarni małej, piekarni lokalnej z
-Baligrodu.
+00:03:29,340 --> 00:03:32,340
+To jest, drodzy państwo, gospodarstwo agroturystyczne.
 
 46
-00:05:03,464 --> 00:05:13,464
-No dobra, chwała Bogu. Baligród, już przestali mi się kojarzyć z zamachem na
-generała Waltera, tylko z dobrym chlebem. Co was przygnało w Bieszczady? Skąd
-jesteście? Bo przecież nie stąd.
+00:03:32,340 --> 00:03:35,069
+To jest, drodzy państwo, gospodarstwo agroturystyczne.
 
 47
-00:05:13,464 --> 00:05:23,464
-Jesteśmy z północy Polski, z Elbląga i z Olsztyna. Przez jakiś czas
-pracowaliśmy, przez dłuższy czas naszego życia pracowaliśmy w korporacjach.
+00:03:35,069 --> 00:03:37,069
+Gospodynią Sosnowego Dworu, bo tak się to miejsce nazywa,
 
 48
-00:05:23,464 --> 00:05:32,464
-Życie nas rzuciło najpierw do Lublina, potem męża do Krakowa. Doszliśmy do
-wniosku, że czas na zmianę i w taki sposób znaleźliśmy się w Bieszczady.
+00:03:37,069 --> 00:03:39,069
+Gospodynią Sosnowego Dworu, bo tak się to miejsce nazywa,
 
 49
-00:05:32,464 --> 00:05:47,464
-I macie gości przez cały rok? Mamy przez większość roku. Późną jesienią i
-wczesną wiosną robimy sobie chwila odpoczynku, tak żeby móc od połowy kwietnia
-radośnie witać gości, a nie na nich warczyć.
+00:03:39,069 --> 00:03:41,069
+jest Iza Tuniewicz.
 
 50
-00:05:47,464 --> 00:05:52,464
-Jezu jakie dobre. Smacznego, na zdrowie. Masło rydzowe na śniadanie. Kompletne
-wariactwo.
+00:03:41,069 --> 00:03:43,069
+To jest miejscowe, rutynowe, standardowe śniadanko.
 
 51
-00:05:57,970 --> 00:06:02,250
-Specjalnością Sosnowego Dworu jest turystyka konna, gdyż mąż
+00:03:43,069 --> 00:03:45,069
+To jest miejscowe, rutynowe, standardowe śniadanko.
 
 52
-00:06:02,250 --> 00:06:06,050
-pani Izy, pan Piotr jest zawołanym koniarzem i organizuje po
+00:03:45,069 --> 00:03:47,069
+Czyż nie?
 
 53
-00:06:06,050 --> 00:06:10,410
-bieszczadach konne rajdy jednodniowe albo i tygodniowe wedle
+00:03:47,069 --> 00:03:53,069
+I celebracja właśnie tego pierwszego posiłku jest dla mnie bardzo ważna.
 
 54
-00:06:10,410 --> 00:06:15,810
-życzenia, a musicie wiedzieć, że koń dotrze tam, gdzie żaden
+00:03:53,069 --> 00:03:56,069
+No ja jem mało na śniadanie, ale tutaj nie będę mógł się opanować.
 
 55
-00:06:15,810 --> 00:06:17,810
-kład ani rower nie sięgnie.
+00:03:56,069 --> 00:03:59,069
+No powiedzmy parę słów o tych różnych rzeczach. Co to jest?
 
 56
-00:06:19,570 --> 00:06:22,650
-Takie miejsce wymaga dania dopasowanego nie tylko do
+00:03:59,069 --> 00:04:06,069
+To są rydzyki złoto-bieszczadów. Nie można ich nie wykorzystać w kuchni.
 
 57
-00:06:22,650 --> 00:06:26,290
-krajobrazu, ale również, a może przede wszystkim do
+00:04:06,069 --> 00:04:09,069
+Nie są przeocztowane i to jest bardzo ważne.
 
 58
-00:06:26,290 --> 00:06:29,570
-niegdysiejszej, pasterskiej historii tych ziem.
+00:04:09,069 --> 00:04:11,069
+To jest pesto z niedźwiedziego czosnku.
 
 59
-00:06:29,730 --> 00:06:30,650
-No i mam takie danie.
+00:04:11,069 --> 00:04:12,069
+Sama zbierasz niedźwiedzi czosnek?
 
 60
-00:06:30,850 --> 00:06:34,330
-To co prawda jeszcze danie nie jest, ale za dwie godziny będzie.
+00:04:12,069 --> 00:04:13,069
+Sama zbieram.
 
 61
-00:06:34,610 --> 00:06:37,410
-Również pasterski sposób przygotowania.
+00:04:13,069 --> 00:04:16,069
+Ale na polanie, bo w lesie zdaje się go nie wolno zbierać, bo jest pod ochroną.
 
 62
-00:06:37,650 --> 00:06:39,250
-Będzie to bowiem robione w kociołku.
+00:04:16,069 --> 00:04:20,069
+Ja mam małą plantację niedźwiedziego czosnku u siebie w ogródku.
 
 63
-00:06:39,490 --> 00:06:44,170
-Nie takim maziarskim, zawieszonym nad ogniem, lecz w kociołku,
+00:04:20,069 --> 00:04:27,069
+Wykorzystuję też niedźwiedzi czosnek, na przykład tu jest pasta z oliwek z niedźwiedzim czosnkiem.
 
 64
-00:06:44,170 --> 00:06:49,490
-który na wysokich nogach stoi nad żarem i się nagrzewa.
+00:04:27,069 --> 00:04:28,069
+To?
 
 65
-00:06:49,810 --> 00:06:53,890
-Więc umieśćmy tutaj zgrabnię kociołek, wytrzepmy resztę
+00:04:28,069 --> 00:04:29,069
+Tak.
 
 66
-00:06:53,930 --> 00:06:57,450
-popiołu, który się tutaj dostał wcześniej, gdyż to już
+00:04:29,069 --> 00:04:30,069
+A co to jest to?
 
 67
-00:06:57,450 --> 00:07:01,330
-nagrzewałem nieco i wrzućmy tam pierwszy składnik.
+00:04:30,069 --> 00:04:34,069
+Bo to jest niezwykły delikatest. To są rydze przecież.
 
 68
-00:07:01,370 --> 00:07:04,610
-W zasadzie wlejmy, gdyż on jest w tej chwili płynny.
+00:04:34,069 --> 00:04:36,069
+To są rydze, to jest masło rydzowe.
 
 69
-00:07:04,650 --> 00:07:08,570
-To jest drodzy Państwo smalec, ale niezwykły smalec ze
+00:04:36,069 --> 00:04:40,069
+Czyli co, dusisz rydze na maśle krótko i potem to jest smarowidło?
 
 70
-00:07:08,570 --> 00:07:11,650
-sklepu, lecz smalec z mangalicy.
+00:04:40,069 --> 00:04:45,069
+Najpierw duszę je, tak żeby do masła przeszedł aromat rydzów.
 
 71
-00:07:12,090 --> 00:07:14,970
-Mangalica to nie jest odmiana sklepu, lecz odmiana świń.
+00:04:45,069 --> 00:04:46,069
+Mhm.
 
 72
-00:07:15,130 --> 00:07:17,290
-Węgierski smalec można w Polsce kupić.
+00:04:46,069 --> 00:04:52,069
+Natomiast później je troszkę mocniej wysmażam, żeby one były takiej konsystencji bardziej stałej.
 
 73
-00:07:17,530 --> 00:07:19,850
-Fenomenalny, smakuje doskonale.
+00:04:52,069 --> 00:04:54,069
+I dopełniam masełkiem.
 
 74
-00:07:19,890 --> 00:07:23,610
-Jak już coś musimy robić na smalcu, to róbmy to właśnie
+00:04:54,069 --> 00:04:58,069
+Fenomenalne. Sery miejscowe, wędliny miejscowe, chleb miejscowy.
 
 75
-00:07:23,610 --> 00:07:24,450
-na mangalicy.
+00:04:58,069 --> 00:05:00,069
+Ten chleb jest bardzo dobry, muszę powiedzieć.
 
 76
-00:07:27,264 --> 00:07:33,024
-O, widać wyraźnie jak łapię temperaturę i teraz cebula.
+00:05:00,069 --> 00:05:03,069
+Chleb z piekarni małej, piekarni lokalnej z Baligrodu.
 
 77
-00:07:33,104 --> 00:07:36,104
-Cebula, która się powinna tutaj zeszklić.
+00:05:03,069 --> 00:05:10,069
+No dobra, chwała Bogu. Baligród już przestali mi się kojarzyć z zamachem na generała Waltera, tylko z dobrym chlebem.
 
 78
-00:07:41,722 --> 00:07:57,722
-Do zeszklonej, skwierczącej, ale broń Boże, nieprzyrumienionej cebuli wrzucamy
-teraz słodką paprykę w proszku i zaraz musi się tutaj znaleźć trochę wody, po to
-by papryka się nie skarmelizowała, nie przypaliła.
+00:05:10,069 --> 00:05:13,069
+Co was przygnało w Bieszczady? Skąd jesteście? Bo przecież nie stąd.
 
 79
-00:07:57,722 --> 00:08:08,722
-Nieco wody. Kiedy woda się zacznie gotować, a stanie się to niebawem, będę
-dodawał mięso, ale wcześniej mogę jeszcze dodać czosnek.
+00:05:13,069 --> 00:05:15,069
+Jesteśmy z północy Polski.
 
 80
-00:08:08,722 --> 00:08:10,722
-Mamy w środku wodę, więc to się nie przypali.
+00:05:15,069 --> 00:05:17,069
+Z Elbląga i z Olsztyna.
 
 81
-00:08:13,808 --> 00:08:42,808
-Oto podstawowy produkt Dania. W dodatku produkt lokalny. Młoda baranina. Tak
-jest. Bieszczady są dzisiaj obok Podhala największym producentem tego
-szlachetnego mięsa. My w Polsce dość często brzydzimy się, zwłaszcza baraniny,
-ale to dlatego, że kojarzy nam się z zamierzchłymi czasami. Z czasami kiedy
-mięso było na kartki, a poza kartkowym systemem można było kupić starą ochydną
-śmierdzącą.
+00:05:17,069 --> 00:05:23,069
+Przez jakiś czas pracowaliśmy, przez dłuższy czas naszego życia pracowaliśmy w korporacjach.
 
 82
-00:08:43,808 --> 00:09:00,808
-Baranina dobra to jedno z najlepszych mięs i tutaj o tym doskonale wiedzą.
-Zobaczcie Państwo. Gotuje się jak jasny gwint, więc teraz mamy gwarancję, że to
-mięso od razu złapie temperaturę, że zetnie się białko i mięso pozostanie
-soczyste.
+00:05:23,069 --> 00:05:27,069
+Życie nas rzuciło najpierw do Lublina, potem męża do Krakowa.
 
 83
-00:09:00,808 --> 00:09:29,808
-Kolejne składniki. Jarzyny korzeniowe. Seler, marchewka, pietruszka pokrojone w
-kostkę. Fasola. Jeszcze nie teraz. Fasola bardzo ważna, wcześniej namoczona.
-Fasola, gdy uzupełnimy tam stan płynów. Pozostałe przyprawy. Mianowicie
-majeranek, liście laurowe, ziele angielskie, trochę ostrej papryki. No i kminek.
-Kminek bardzo ważny. Jeden liść wyfrunął.
+00:05:27,069 --> 00:05:32,069
+Doszliśmy do wniosku, że czas na zmianę i w taki sposób znaleźliśmy się w Bieszczadach.
 
 84
-00:09:30,808 --> 00:09:51,808
-Ale tutaj zostały jeszcze dwa. Kminek. Specjalnie dla tych, którzy kminku nie
-lubią, kminek mielony. Moim skromnym zdaniem niechęć do kminku nie wierzy się z
-jego smaku, lecz z faktu, że całe ziarenka kminku niektórym latają po buzi i
-tego właśnie nie lubią. W przypadku kminku mielonego tego problemu nie ma.
+00:05:32,069 --> 00:05:34,069
+I macie gości przez cały rok?
 
 85
-00:09:52,624 --> 00:10:09,624
-I teraz, kiedy mięso już złapało temperaturę, już się zamknęło, można tutaj wlać
-więcej wody, tak by to miało konsystencję gęstego gulaszu, można tutaj dołożyć
-fasolę i czekamy.
+00:05:34,069 --> 00:05:40,069
+Mamy przez większość roku. Późną jesienią i wczesną wiosną robimy sobie chwilę odpoczynku.
 
 86
-00:10:09,808 --> 00:10:22,808
-Aż to wszystko będzie miękkie, na razie nie solimy, kiedy się posoli fasolę na
-początku, jej skórka się marszczy i fasola jest brzydka, a przecież lepiej, żeby
-fasola była ładna, nie brzydka.
+00:05:40,069 --> 00:05:44,069
+Tak, żeby móc od połowy kwietnia radośnie powijać.
 
 87
-00:10:22,808 --> 00:10:33,808
-Tak rzecz wygląda po dwóch godzinach. Ominął Państwa tylko proces solenia, no
-ale nie jest to proces na tyle interesujący i pasjonujący, byśmy musieli to
-pokazywać.
+00:05:44,069 --> 00:05:48,069
+Radośnie witać gości, a nie na nich warczeć.
 
 88
-00:10:33,808 --> 00:10:35,808
-Rzecz dosolona pod sam koniec.
+00:05:48,069 --> 00:05:49,069
+Jezu, jakie dobre.
 
 89
-00:10:36,400 --> 00:11:04,670
-Ma to postać bardzo gęstego gulaszu. To nawet już nie jest zupa gulaszowa, a
-gulasz w rzeczy samej i człowiekiem, który spróbuje tego jako pierwszy jest
-ktoś, kto przemknął tylko na koniu przez chwilę Piotr Tuniewicz, gospodarz tego
-miejsca. Ja sobie, przepraszam, tutaj trochę się... Ale to pokażemy, że ty masz
-piękny kolor. Piękny kolor, tak. Powiedz mi czy wy gotujecie w plenerach
+00:05:49,069 --> 00:05:50,069
+Smacznego, na zdrowie.
 
 90
-00:11:04,672 --> 00:11:30,952
-na rajdach konnych też? Takie rzeczy? Oczywiście, przy dłuższych rajdach każdy z
-nas bierze jeden dzień pod swoją opiekę i ktoś musi tam jakąś potrawę wymyśloną
-przez siebie ugotować, bo w przyszłym roku mamy taki rajd siedmiodniowy i ja mam
-jeden dzień. Co będziesz gotował? No to... No to co? I to będzie Ala Makłowiczo.
-No bardzo się cieszę, to jest co prawda przepis
+00:05:50,069 --> 00:05:53,069
+Masło rydzowe na śniadanie. Kompletne wariastwo.
 
 91
-00:11:30,960 --> 00:11:58,540
-tak naprawdę pochodzący z Węgier, ale to był rzut Berekta. Kiedyś przecież tu
-była granica polsko-węgierska i oni też bogracze robią. Na Zakarpaciu ukraińskim
-bojkowie i łemkowie, a i huculi namiętnie gotują bogracze, więc to jest rodzaj
-bograczu, babguliarz doskonały. Ja nie nadaję się na rajdy konne, gdyż mam
-bardzo wrażliwą pupę.
+00:05:57,980 --> 00:06:07,980
+Specjalnością Sosnowego Dworu jest turystyka konna, gdyż mąż pani Izy, pan Piotr, jest zawołanym koniarzem i organizuje po Bieszczadach konne rajdy.
 
 92
-00:11:58,544 --> 00:12:06,224
-I ociera mnie siodło. Ale mamy siodło westernowe. One są bardzo delikatne. Nawet
-kremu nie trzeba używać.
+00:06:07,980 --> 00:06:10,980
+Jednodniowe albo i tygodniowe, wedle życzenia.
 
 93
-00:12:06,224 --> 00:12:16,824
-No to drodzy Państwo, w takim razie jak zobaczycie, że ktoś bardzo szybko mknie
-komno przez tutejsze wzburza, to będę ja. Ale na czele Piotr.
+00:06:10,980 --> 00:06:15,980
+A musicie wiedzieć, że koń dotrze tam, gdzie żaden kład ani ruch nie ma.
 
 94
-00:12:16,824 --> 00:12:18,824
-Dobra.
+00:06:16,980 --> 00:06:18,980
+I rower nie sięgnie.
 
 95
-00:12:18,824 --> 00:12:23,648
-Doskonale znany, leciutko, dancingowo-tandetny utwór.
+00:06:19,980 --> 00:06:29,980
+Takie miejsce wymaga dania dopasowanego nie tylko do krajobrazu, ale również, a może przede wszystkim, do niegdysiejszej pasterskiej historii tych ziem.
 
 96
-00:12:23,648 --> 00:12:27,768
-Opiewa zielone wzgórza nad Soliną, więc dla tych wszystkich,
+00:06:29,980 --> 00:06:30,980
+No i mam takie danie.
 
 97
-00:12:27,848 --> 00:12:32,888
-którzy słyszeli, a nie widzieli, bardzo proszę, zielone wzgórza
+00:06:30,980 --> 00:06:34,980
+To, co prawda jeszcze danie nie jest, ale za dwie godziny będzie.
 
 98
-00:12:32,888 --> 00:12:36,728
-nad Soliną, a przede wszystkim widok na największe w Polsce
+00:06:34,980 --> 00:06:37,980
+Również pasterski sposób przygotowania.
 
 99
-00:12:36,888 --> 00:12:37,888
-sztuczne jezioro.
+00:06:37,980 --> 00:06:39,980
+Będzie to bowiem robione w kociołku.
 
 100
-00:12:39,088 --> 00:12:42,768
-Tam w dole mamy San, czyli niespecjalnie wielką górską rzekę.
+00:06:39,980 --> 00:06:42,980
+Nie takim madziarskim, zawieszonym nad ogniem.
 
 101
-00:12:43,104 --> 00:12:48,724
-Ale że jesteśmy na koronie zapory, więc wystarczy przejść dosłownie kilka
-metrów,
+00:06:42,980 --> 00:06:45,980
+Lecz w kociołku, który na wysokich nogach stoi.
 
 102
-00:12:48,984 --> 00:12:54,984
-by naszym oczom ukazało się niemal morze. Wspaniale spiętrzone i mam
+00:06:45,980 --> 00:06:48,980
+Nad żarem i się nagrzewa.
 
 103
-00:12:54,984 --> 00:12:59,444
-nadzieję, że Wasz apetyt też się zaczyna spiętrzać, gdyż mam wrażenie,
+00:06:48,980 --> 00:06:51,980
+Więc umieśćmy tutaj zgrabnie kociołek.
 
 104
-00:12:59,444 --> 00:13:01,724
-że za chwilę będziemy go potrzebować.
+00:06:51,980 --> 00:06:58,980
+Wytrzepmy resztę popiołu, który się tutaj dostał wcześniej, gdyż to już nagrzewałem nieco.
 
 105
-00:13:06,064 --> 00:13:10,324
-Dotarłem do wioski o nazwie Orelec położonej koło nieco większej wioski
+00:06:58,980 --> 00:07:00,980
+I wrzućmy tam pierwszy składnik.
 
 106
-00:13:10,324 --> 00:13:12,864
-nazywającej się uherce mineralne.
+00:07:00,980 --> 00:07:03,980
+W zasadzie wlejmy, gdyż on jest w tej chwili płynny.
 
 107
-00:13:13,152 --> 00:13:22,672
-To wszystko to zagroda magia, gospodarstwo agroturystyczne, autentyczne stare
-drewniane domy pochodzące z okolicy tutaj przeniesione.
+00:07:03,980 --> 00:07:05,980
+To jest drodzy Państwo smalec.
 
 108
-00:13:22,672 --> 00:13:27,792
-No ale przecież najważniejsze jak zawsze w tym programie jest to co na stole.
+00:07:05,980 --> 00:07:10,980
+Ale nie zwykły smalec ze sklepu, lecz smalec z Mangalicy.
 
 109
-00:13:27,792 --> 00:13:32,712
-Mam arcylokalne rzeczy. To są pierogi o nazwie knysze.
+00:07:10,980 --> 00:07:13,980
+Mangalica to nie jest odmiana sklepu, lecz odmiana świn.
 
 110
-00:13:32,712 --> 00:13:40,392
-Ciasto z mąki, z sody, z maślanki albo kwaśnej śmietany, a w środku farsz.
+00:07:13,980 --> 00:07:14,980
+Węgierski smalec.
 
 111
-00:13:40,544 --> 00:13:44,384
-Z kapusty, kapusty świeżej oraz grzybów.
+00:07:14,980 --> 00:07:16,980
+Węgierski smalec można w Polsce kupić.
 
 112
-00:13:44,464 --> 00:13:48,864
-Do tego fantastyczny sos śmietanowy podprawiony
+00:07:16,980 --> 00:07:17,980
+Fenomenalny.
 
 113
-00:13:49,144 --> 00:13:50,824
-niedźwiedzim czosnkiem.
+00:07:17,980 --> 00:07:19,980
+Smakuje doskonale.
 
 114
-00:13:51,424 --> 00:13:53,184
-To jest rzecz pierwsza.
+00:07:19,980 --> 00:07:27,509
+Jak już coś musimy robić na smalcu, to róbmy to właśnie na Mangalicy.
 
 115
-00:13:53,464 --> 00:13:58,904
-Chryczanyki wyglądające zupełnie jak kotlety mielone, ale nimi nie są.
+00:07:27,509 --> 00:07:28,509
+O!
 
 116
-00:13:59,384 --> 00:14:01,864
-Bazą kasza chryczana.
+00:07:28,509 --> 00:07:30,509
+Widać wyraźnie jak łapie temperaturę.
 
 117
-00:14:02,184 --> 00:14:04,464
-Może tam być mięso, może go nie być.
+00:07:30,509 --> 00:07:32,509
+I teraz cebula.
 
 118
-00:14:04,624 --> 00:14:06,264
-Do tego sos również.
+00:07:32,509 --> 00:07:36,509
+Cebula, która się powinna tutaj zeszklić.
 
 119
-00:14:06,784 --> 00:14:09,344
-Co jest sosu podstawą śmietana?
+00:07:36,509 --> 00:07:50,269
+Do zeszklonej, skwierczącej, ale broń Boże nie przyrumiejonej cebuli wrzucamy teraz słodką paprykę w proszku.
 
 120
-00:14:09,600 --> 00:14:13,100
-Ale w tej śmietanie mamy mnóstwo grzybów.
+00:07:50,269 --> 00:07:51,269
+I zaraz.
 
 121
-00:14:13,100 --> 00:14:15,600
-No i w końcu trzecia rzecz, fuczki.
+00:07:51,269 --> 00:07:58,269
+Zaraz, musicie tutaj znaleźć trochę wody, po to by papryka się nie skarmelizowała, nie przypaliła.
 
 122
-00:14:15,600 --> 00:14:17,600
-To wygląda jak placki ziemniaczane,
+00:07:58,269 --> 00:07:59,269
+Nieco wody.
 
 123
-00:14:17,600 --> 00:14:19,600
-ale ciasto jest naleśnikowe,
+00:07:59,269 --> 00:08:06,269
+Kiedy woda się zacznie gotować, a stanie się to niebawem, będę dodawał mięso.
 
 124
-00:14:19,600 --> 00:14:22,600
-a w środku mamy kiszoną kapustę.
+00:08:06,269 --> 00:08:09,269
+Ale wcześniej mogę jeszcze dodać czosnek.
 
 125
-00:14:22,600 --> 00:14:24,600
-Nigdzie indziej wreszcie Polski
+00:08:09,269 --> 00:08:11,269
+Mamy w środku wodę, więc to się nie przypali.
 
 126
-00:14:24,600 --> 00:14:26,600
-takich cudów drodzy Państwo nie podają.
+00:08:17,410 --> 00:08:19,410
+Oto podstawowy produkt dania.
 
 127
-00:14:26,600 --> 00:14:28,600
-Co się do tego daje?
+00:08:19,410 --> 00:08:21,410
+W dodatku produkt lokalny.
 
 128
-00:14:28,600 --> 00:14:30,600
-No do tego się daje po prostu
+00:08:21,410 --> 00:08:22,410
+Młoda baranina.
 
 129
-00:14:30,600 --> 00:14:33,600
-kleks ze zwykłej kwaśnej,
+00:08:22,410 --> 00:08:23,410
+Tak jest.
 
 130
-00:14:33,600 --> 00:14:35,600
-domowej wiejskiej śmietany.
+00:08:23,410 --> 00:08:29,410
+Bieszczady są dzisiaj obok Podhala największym producentem tego szlachetnego mięsa.
 
 131
-00:14:36,176 --> 00:14:48,176
-A kto odpowiada za te cuda? Kto tym wszystkim zawiaduje? Powiedziano mi, że
-gospodarzy najłatniej spotkać na stacji kolejowej w Uhercach Mineralnych.
+00:08:29,410 --> 00:08:32,409
+My w Polsce dość często brzydzimy się, zwłaszcza baraniny.
 
 132
-00:14:49,176 --> 00:14:50,176
-Fuczki.
+00:08:32,409 --> 00:08:36,409
+Ale to dlatego, że kojarzy nam się z zamierzchłymi czasami.
 
 133
-00:14:54,176 --> 00:14:56,176
-Przysięgam, nigdy wcześniej tego nie jadłem.
+00:08:36,409 --> 00:08:44,409
+Z czasami, kiedy mięso było na kartki, a poza kartkowym systemem można było kupić starą, ochydną, śmierdzącą baraninę.
 
 134
-00:15:03,418 --> 00:15:07,418
-Dzień dobry, poproszę jeden bilet do Jankowiec, bardzo poproszę.
+00:08:44,409 --> 00:08:48,409
+Tymczasem baranina dobra to jedno z najlepszych mięs.
 
 135
-00:15:07,418 --> 00:15:09,418
-Ile to kilometrów daleko?
+00:08:48,409 --> 00:08:50,409
+I tutaj o tym doskonale wiedzą.
 
 136
-00:15:09,418 --> 00:15:11,418
-Będzie 12 km z powrotem.
+00:08:50,409 --> 00:08:52,409
+Gotuje się jak jasny gwint.
 
 137
-00:15:11,418 --> 00:15:14,418
-Będzie 6 km w jedną stronę, 6 km z powrotem.
+00:08:52,409 --> 00:08:57,409
+Więc teraz mamy gwarancję, że to mięso od razu złapie temperaturę.
 
 138
-00:15:21,658 --> 00:15:33,658
-Państwo, Magda i Janusz Demkowiczowie, czyli ludzie, dla których mało było
-przyjmowania gości i karmienia ich, wymyślili również między innymi takie cudo.
+00:08:57,409 --> 00:09:01,409
+Że zetnie się białko i mięso pozostanie soczyste.
 
 139
-00:15:33,658 --> 00:15:41,658
-Podróż dreżynami, dawną koleją austro-węgierską. Mam nadzieję, że tutaj ekspres
-nie przyjedzie, to jest nieczynne.
+00:09:01,409 --> 00:09:03,409
+Kolejne składniki.
 
 140
-00:15:41,658 --> 00:15:50,658
-Tak, linia jest nieczynna i postanowiliśmy wykorzystać nieczynną już od lat
-historyczną linię kolejową. Przypomnę, pochodzi z 1872 roku.
+00:09:03,409 --> 00:09:05,409
+Jarzyny korzeniowe.
 
 141
-00:15:50,658 --> 00:15:54,658
-I wdrożyć na niej nowy projekt, wieszczadzkie drezyny rowerowe.
+00:09:05,409 --> 00:09:07,409
+Seler, marchewka, pietruszka.
 
 142
-00:15:54,658 --> 00:15:58,658
-Ilu macie turystów na tych drezynach i ile tych drezyn?
+00:09:07,409 --> 00:09:09,409
+Pokrojone w kostkę.
 
 143
-00:15:58,658 --> 00:16:02,658
-Jesteśmy w tym momencie największą wypożyczanią drezyn rowerowych w całej
-Europie.
+00:09:09,409 --> 00:09:11,950
+Fasola.
 
 144
-00:16:02,658 --> 00:16:10,658
-I rzeczywiście temat drezyn rowerowych w Niemczech, we Francji jest bardzo
-popularny, tam jest ponad 1300 kilometrów takich szlaków.
+00:09:11,950 --> 00:09:12,950
+Jeszcze nie teraz.
 
 145
-00:16:10,658 --> 00:16:17,658
-My jesteśmy w tym momencie, mamy 47 kilometrów trasy oraz 50 wózków.
+00:09:12,950 --> 00:09:14,950
+Fasola bardzo ważna.
 
 146
-00:16:17,658 --> 00:16:22,658
-A, czyli chcieliście być pierwsi w Polsce i od razu najlepsi w całej Europie.
+00:09:14,950 --> 00:09:15,950
+Wcześniej namoczona.
 
 147
-00:16:22,658 --> 00:16:23,658
-Tak się udało.
+00:09:15,950 --> 00:09:18,950
+Fasola, gdy uzupełnimy tam stan płynów.
 
 148
-00:16:23,658 --> 00:16:32,658
-A teraz malutki eksperymencik, sprawdzimy czy siła nóg jednego osobnika uciągnie
-drezynę, uciąga, czyli to wcale nie jest wielka męka.
+00:09:18,950 --> 00:09:19,950
+Pozostałe przyprawy.
 
 149
-00:16:32,658 --> 00:16:36,658
-Pani Magda macie też szkołę rzemiosłów.
+00:09:19,950 --> 00:09:20,950
+Mianowicie.
 
 150
-00:16:36,658 --> 00:16:42,658
-Tak, wieszczadzka szkoła rzemiosłów o kuchercach mineralnych to miejsce, które
-działa od czerwca.
+00:09:20,950 --> 00:09:21,950
+Majeranek.
 
 151
-00:16:42,658 --> 00:16:53,658
-I co tam jest? Kaligrafia, garnysarstwo, lekcje gotowania, wszystkie te rzeczy,
-które już niemal giną, ale być może dzięki tej szkole dłużej się utrzymają.
+00:09:21,950 --> 00:09:22,950
+Liście laurowe.
 
 152
-00:16:53,658 --> 00:17:01,658
-Tak, chcieliśmy żeby to był powrót do tych ginących zawodów i doświadczenie na
-nowo tego co było kiedyś na naszym terenie.
+00:09:22,950 --> 00:09:23,950
+Ziele angielskie.
 
 153
-00:17:01,658 --> 00:17:08,658
-Proszę Państwa i tak właśnie powinna wyglądać turystyka kwalifikowana. Genialny
-pomysł zupełnie.
+00:09:23,950 --> 00:09:25,950
+Trochę ostrej papryki.
 
 154
-00:17:11,312 --> 00:17:12,480
-Napisy stworzone przez społeczność Amara.org
+00:09:25,950 --> 00:09:26,950
+No i kminek.
 
 155
-00:17:12,480 --> 00:17:18,680
-Pozostaje w uhercach mineralnych i w dalszym ciągu głoszę dobrą nowinę. Otóż
-ożywczy
+00:09:26,950 --> 00:09:28,950
+Kminek bardzo ważny.
 
 156
-00:17:18,680 --> 00:17:24,600
-ruch browarów rzemieślniczych z Anglosaska zwanych kraftowymi dotarł i tutaj.
+00:09:28,950 --> 00:09:30,950
+Jeden liść wyfrunął.
 
 157
-00:17:24,600 --> 00:17:30,880
-W dodatku tym browarem, jako jedynym browarem w Polsce zawiaduje kobieta,
+00:09:30,950 --> 00:09:32,950
+Ale tutaj zostały jeszcze dwa.
 
 158
-00:17:30,880 --> 00:17:35,960
-pani Agnieszka Łopata. Podobnych miejsc na zachodzie Europy widziałem już kilka,
+00:09:32,950 --> 00:09:33,950
+Kminek.
 
 159
-00:17:35,960 --> 00:17:40,400
-ale w Polsce niekoniecznie, bowiem nie jest to tylko browar. Jest to koncept.
+00:09:33,950 --> 00:09:35,950
+Specjalnie dla tych, którzy kminku nie lubią.
 
 160
-00:17:41,040 --> 00:17:45,800
-Mamy galerię sztuki. Mamy sklep, w którym sprzedaje się nie tylko piwo, ale
-również
+00:09:35,950 --> 00:09:37,950
+Kminek mielony.
 
 161
-00:17:45,800 --> 00:17:52,640
-produkty piwo pochodne. Między innymi ocet piwny. Jedyny w Polsce, u nas tego
-się
+00:09:37,950 --> 00:09:41,950
+Moim skromnym zdaniem niechęć do kminku nie bierze się z jego smaku.
 
 162
-00:17:52,640 --> 00:17:58,240
-niemal nie spotyka. To znaczy spotyka się jak przyjedziecie do uherzec. Oprócz
-tego
+00:09:41,950 --> 00:09:46,950
+Lecz z faktu, że całe ziarenka kminku niektórym latają po buzi.
 
 163
-00:17:58,560 --> 00:18:05,280
-krówki. Również piwne w składzie żadnych olejów kokosowych. Masło, mleko, cukier
-i piwo.
+00:09:46,950 --> 00:09:48,950
+I tego właśnie nie lubią.
 
 164
-00:18:05,600 --> 00:18:06,680
-A jakie są te krówki?
+00:09:48,950 --> 00:09:49,950
+W przypadku kminku mielonego.
 
 165
-00:18:07,720 --> 00:18:08,560
-Sami zobaczcie.
+00:09:49,950 --> 00:09:51,950
+Tego problemu nie ma.
 
 166
-00:18:10,400 --> 00:18:11,320
-Czełnoki.
+00:09:51,950 --> 00:09:53,950
+I teraz.
 
 167
-00:18:16,368 --> 00:18:19,368
-Napisy stworzone przez społeczność Amara.org
+00:09:53,950 --> 00:09:56,950
+Kiedy mięso już złapało temperaturę.
 
 168
-00:18:21,178 --> 00:18:25,178
-Co jest najważniejszym wizualnym symbolem Bieszczadów?
+00:09:56,950 --> 00:09:57,950
+Już się zamknęło.
 
 169
-00:18:25,178 --> 00:18:29,178
-Według mnie to nie są szlaki turystyczne wiodące na połoniny,
+00:09:57,950 --> 00:10:00,950
+Można tutaj wlać więcej wody.
 
 170
-00:18:29,178 --> 00:18:33,178
-to nie są też restauracje, choć i one są niezwykle ważne.
+00:10:00,950 --> 00:10:04,950
+Tak by to miało konsystencję gęstego gulaszu.
 
 171
-00:18:33,178 --> 00:18:39,178
-Mym skromnym zdaniem esencja bieszczadzkości to jest właśnie coś takiego.
+00:10:04,950 --> 00:10:07,950
+Można tutaj dołożyć fasolę.
 
 172
-00:18:39,178 --> 00:18:46,178
-A co to jest? No wszyscy wy, którzy grillujecie, czyli pieczecie różne rzeczy
+00:10:07,950 --> 00:10:10,950
+I czekamy aż to wszystko będzie miękkie.
 
 173
-00:18:46,178 --> 00:18:52,178
-nad rozżarzonym węglem drzewnym, powinniście wiedzieć jak takowy węgiel
+00:10:10,950 --> 00:10:12,950
+Na razie nie solimy.
 
 174
-00:18:52,178 --> 00:18:58,178
-powstaje. Tutaj królują węglarze, tutaj rzeczony węgiel się wytwarza.
+00:10:12,950 --> 00:10:14,950
+Kiedy się posoli fasolę na początku.
 
 175
-00:18:58,178 --> 00:19:05,178
-Drewno liściaste, najlepiej bukowe, układa się bardzo szczelnie w takich piecach
+00:10:14,950 --> 00:10:16,950
+Jej skórka się marszczy.
 
 176
-00:19:05,178 --> 00:19:12,178
-zwanych retortami. Następnie podpala, drzwi zamyka, a retorty uszczelnia.
+00:10:16,950 --> 00:10:17,950
+I fasola jest brzydka.
 
 177
-00:19:12,178 --> 00:19:18,178
-Chodzi o to, by był tutaj jak najmniejszy dostęp powietrza, stąd ta ziemia
+00:10:17,950 --> 00:10:18,950
+A przecież lepiej.
 
 178
-00:19:18,178 --> 00:19:22,178
-albo też piasek, ponieważ to drewno nie ma się spalić na popiół.
+00:10:18,950 --> 00:10:20,950
+Żeby fasola była ładna.
 
 179
-00:19:22,178 --> 00:19:27,178
-Ono się ma zamienić w węgiel drzewny, więc powietrza jak najmniej dym
+00:10:20,950 --> 00:10:21,950
+Nie brzydka.
 
 180
-00:19:27,178 --> 00:19:32,178
-wydostaje się na zewnątrz, a tym wszystkim opiekuje się niezwykle
+00:10:21,950 --> 00:10:24,950
+Tak rzecz wygląda po dwóch godzinach.
 
 181
-00:19:32,178 --> 00:19:37,178
-zwinny pan Zbyszek. Proszę, tu ma pan bukowy węgiel i widać takie
+00:10:24,950 --> 00:10:27,950
+Ominął Państwa tylko proces solenia.
 
 182
-00:19:37,178 --> 00:19:42,178
-lusterka na tym węglu, pan sobie widzi. Kiedykolwiek pan będzie kupował,
+00:10:27,950 --> 00:10:29,950
+Ale nie jest to proces na tyle interesujący.
 
 183
-00:19:42,178 --> 00:19:47,178
-proszę rozerwieć worek. Jeżeli będą takie lusterka, to znaczy, że to jest
-bukowy,
+00:10:29,950 --> 00:10:30,950
+I pasjonujący.
 
 184
-00:19:47,178 --> 00:19:52,178
-bo tam tylko nieraz pisze, że bukowy. A często oszukują. Tak, cukier jest
-cukrem,
+00:10:30,950 --> 00:10:32,950
+Byśmy musieli to pokazywać.
 
 185
-00:19:52,178 --> 00:19:56,178
-a się kurzy z niego coś białego, a nie wiem co to jest. Bukowy jest najlepszy?
+00:10:32,950 --> 00:10:35,950
+Rzecz dosolona pod sam koniec.
 
 186
-00:19:56,178 --> 00:20:01,178
-Podobno, podobno jest najlepszy. I to się pali 30 godzin, a 48 stygnie?
+00:10:35,950 --> 00:10:38,950
+Ma to postać bardzo gęstego gulaszu.
 
 187
-00:20:01,178 --> 00:20:06,178
-36, tak. 36. Kiedyś się zalewało wodą, bo tam była dopuszczalna
+00:10:38,950 --> 00:10:40,950
+To nawet już nie jest zupa gulaszowa.
 
 188
-00:20:06,178 --> 00:20:10,178
-wilgotność, obecnie tego nie stosujemy. Pamiętajcie zatem, że węgiel
+00:10:40,950 --> 00:10:42,950
+A gulasz w rzeczy samej.
 
 189
-00:20:10,178 --> 00:20:16,178
-drzewny, a węgiel drzewny to nie jest to samo i żądajcie w najlepszych
+00:10:42,950 --> 00:10:46,950
+I człowiekiem, który spróbuje tego jako pierwszy.
 
 190
-00:20:16,178 --> 00:20:22,178
-sklepach najlepszego bieszczackiego węgla drzewnego, najlepiej bukowego.
+00:10:46,950 --> 00:10:47,950
+I jest.
 
 191
-00:20:22,178 --> 00:20:27,178
-I miejcie szacunek dla węglarzy. Węglarzy, czyli karbonariuszy.
+00:10:47,950 --> 00:10:51,950
+Ktoś, kto przemknął tylko na koniu przez chwilę.
 
 192
-00:20:31,322 --> 00:20:34,202
-Jak widzę coś ładnego przy drodze, to się z reguły zatrzymuję.
+00:10:51,950 --> 00:10:53,950
+Piotr Tuniewicz.
 
 193
-00:20:34,282 --> 00:20:37,922
-Rzecz jasna chodzi mi tutaj o restaurację i muszę powiedzieć,
+00:10:53,950 --> 00:10:55,950
+Gospodarz tego miejsca.
 
 194
-00:20:38,002 --> 00:20:40,722
-że z reguły instynkt mnie nie zawodzi.
+00:10:55,950 --> 00:10:56,950
+Ja sobie...
 
 195
-00:20:40,802 --> 00:20:43,802
-Tak jest i w tym wypadku zobaczyłem ładną rzecz.
+00:10:56,950 --> 00:10:58,950
+Przepraszam, bo tutaj trochę się...
 
 196
-00:20:43,882 --> 00:20:45,602
-Gościniec w Starym Siole.
+00:10:58,950 --> 00:11:00,950
+Ale to pokażemy, że ma piękny kolor.
 
 197
-00:20:45,842 --> 00:20:46,562
-No i jestem.
+00:11:00,950 --> 00:11:01,950
+Piękny kolor, tak.
 
 198
-00:20:46,762 --> 00:20:49,962
-Rzeczywiście Stare Sioło, bo to dawne wiejskie chałupy
+00:11:01,950 --> 00:11:06,950
+Powiedz mi, czy Wy gotujecie w plenerach na rajdach konnych też?
 
 199
-00:20:50,162 --> 00:20:52,362
-zadaptowane na restaurację.
+00:11:06,950 --> 00:11:07,950
+Takie rzeczy?
 
 200
-00:20:52,442 --> 00:20:56,922
-Tutaj działający dawny wiejski piec, a co na nim?
+00:11:07,950 --> 00:11:08,950
+Oczywiście.
 
 201
-00:20:57,242 --> 00:20:58,202
-Miejscowe cuda.
+00:11:08,950 --> 00:11:12,950
+Przy dłuższych rajdach każdy z nas bierze jeden dzień pod swoją opiekę.
 
 202
-00:20:58,482 --> 00:21:02,642
-Tutaj suszą się grzyby, a tutaj piecze się jagnięcina.
+00:11:12,950 --> 00:11:16,950
+I ktoś musi tam jakąś potrawę wymyśloną przez siebie ugotować.
 
 203
-00:21:02,882 --> 00:21:06,482
-Już tylko te dwie rzeczy to wystarczający powód, by
+00:11:16,950 --> 00:11:19,950
+Właśnie w przyszłym roku mamy taki rajd siedmiodniowy.
 
 204
-00:21:06,562 --> 00:21:07,322
-tutaj wstąpić.
+00:11:19,950 --> 00:11:21,950
+I ja mam jeden dzień.
 
 205
-00:21:07,402 --> 00:21:07,962
-Czy dobre?
+00:11:21,950 --> 00:11:22,950
+Co będzie ugotował?
 
 206
-00:21:08,442 --> 00:21:09,202
-Zaraz się okaże.
+00:11:22,950 --> 00:11:24,950
+No to co?
 
 207
-00:21:12,250 --> 00:21:17,250
-Mięsożercy, a ci z reguły jagnięciny kochają, byliby w niebowzięci.
+00:11:24,950 --> 00:11:26,950
+I to będzie a la Makłowicz.
 
 208
-00:21:17,250 --> 00:21:22,250
-No bo co tu mam? To są jagnięce rzeberka. Obok jagnięce
+00:11:26,950 --> 00:11:27,950
+No bardzo się cieszę.
 
 209
-00:21:22,250 --> 00:21:26,250
-klopsiki, zwane kefte, nie tylko w krajach arabsko czy też
+00:11:27,950 --> 00:11:28,950
+Jeżeli pozwolisz.
 
 210
-00:21:26,250 --> 00:21:30,250
-tureckojęzycznych. Takie same robią i w Armenii. Tutaj jagnięce
+00:11:28,950 --> 00:11:34,950
+To jest co prawda przepis tak naprawdę pochodzący z Węgier.
 
 211
-00:21:30,250 --> 00:21:37,250
-szaszłyki, a to jagnięca kiełbaska. Do tego placek zwany proziakiem.
+00:11:34,950 --> 00:11:36,950
+No ale to był rzut berektem.
 
 212
-00:21:37,250 --> 00:21:41,250
-O zasięgu szerszym niż tylko Bieszczady, ale nieogólnopolskim.
+00:11:36,950 --> 00:11:40,950
+Kiedyś przecież tu była granica polsko-węgierska.
 
 213
-00:21:41,250 --> 00:21:46,250
-Moim zdaniem na Podkarpaciu takie placki się jedynie w Polsce robi.
+00:11:40,950 --> 00:11:45,950
+I oni też bogracze robią na Zakarpaciu Ukraińskim.
 
 214
-00:21:46,250 --> 00:21:52,250
-Jeśli ktoś nie chce mięsa, zróż tu ma mięso duszone.
+00:11:45,950 --> 00:11:49,950
+Bojkowie i Łemkowie, a i Huculi namiętnie gotują bogracze.
 
 215
-00:21:52,250 --> 00:21:56,250
-Ha, jakie? Oczywiście. Jagnięca giczka. Zobaczcie Państwo.
+00:11:49,950 --> 00:11:51,950
+Więc to jest rodzaj bograczu, bab guliaż.
 
 216
-00:21:56,250 --> 00:22:00,250
-Delikatnie tylko dotykam tego widelcem i to się rozpada.
+00:11:51,950 --> 00:11:53,950
+Doskonały.
 
 217
-00:22:00,250 --> 00:22:05,250
-Jest marcepanowe, mięciutkie, kluseczki urocze, cudowne,
+00:11:53,950 --> 00:11:57,950
+Ja nie nadaję się na rajdy konne, gdyż mam bardzo wrażliwą pupę.
 
 218
-00:22:05,250 --> 00:22:10,250
-kokietują nas nie tylko sobą, ale również tymi skwarkami.
+00:11:57,950 --> 00:11:58,950
+Aha.
 
 219
-00:22:10,250 --> 00:22:14,250
-Do tego buraki. Buraki marynowane. Tutaj ajwar, czyli pasta
+00:11:58,950 --> 00:11:59,950
+I ociera mnie siodło.
 
 220
-00:22:14,250 --> 00:22:19,250
-z pieczonych papryk i bakłażanów. No ale najważniejsza jest nie
+00:11:59,950 --> 00:12:01,950
+Ale mamy siodła westernowe.
 
 221
-00:22:19,250 --> 00:22:26,250
-teoria, a praktyka. Więc spójrzcie. Tak to się rozbiera dłoni,
+00:12:01,950 --> 00:12:03,950
+One są bardzo delikatne.
 
 222
-00:22:26,250 --> 00:22:31,250
-gdyż się w dłoniach rozpada. Nawet niemowlę by sobie z tym poradziło.
+00:12:03,950 --> 00:12:05,950
+Nawet kremu nie trzeba używać.
 
 223
-00:22:34,864 --> 00:22:43,864
-To jest absolutnie fantastyczna jagnięcina.
+00:12:05,950 --> 00:12:14,950
+No to drodzy Państwo w takim razie jak zobaczycie, że ktoś bardzo szybko mknie konno przez tutejsze wzburza to będę ja.
 
 224
-00:22:43,864 --> 00:22:48,864
-Głynarski śpiewał, by wszystko rzucić i pojechać w Bieszczady.
+00:12:14,950 --> 00:12:16,950
+Ale na czele Piotr.
 
 225
-00:22:48,864 --> 00:22:55,864
-Trzeba by do tego dopisać nową zwrotkę, by pojechać w Bieszczady na miejscową
-jagnięcinę.
+00:12:16,950 --> 00:12:18,950
+Dobra, bardzo.
 
 226
-00:23:04,864 --> 00:23:10,864
-Głynarski śpiewał.
+00:12:18,950 --> 00:12:25,950
+Doskonale znany, leciutko dancingowo-tandetny utwór opiewa zielone wzgórza nad Soliną.
+
+227
+00:12:25,950 --> 00:12:31,950
+Więc dla tych wszystkich, którzy słyszeli, a nie widzieli, bardzo proszę.
+
+228
+00:12:31,950 --> 00:12:38,950
+Zielone wzgórza nad Soliną, a przede wszystkim widok na największe w Polsce sztuczne jezioro.
+
+229
+00:12:38,950 --> 00:12:42,950
+Tam w dole mamy San, czyli niespecjalnie wielką górską rzekę.
+
+230
+00:12:42,950 --> 00:12:52,950
+Ale że jesteśmy na koronie zapory, więc wystarczy przejść dosłownie kilka metrów, by naszym oczom ukazało się niemal morze.
+
+231
+00:12:52,950 --> 00:13:01,950
+Wspaniale spiętrzone i mam nadzieję, że wasz apetyt też się zaczyna spiętrzać, gdyż mam wrażenie, że za chwilę będziemy go potrzebować.
+
+232
+00:13:01,950 --> 00:13:12,559
+Dotarłem do wioski o nazwie Orelec położonej koło nieco większej wioski nazywającej się Ucherce Mineralne.
+
+233
+00:13:12,559 --> 00:13:14,559
+To wszystko to zagroda magia.
+
+234
+00:13:14,559 --> 00:13:15,559
+Gospodarstwo agroturistyczne.
+
+235
+00:13:15,559 --> 00:13:22,559
+Autentyczne, stare, drewniane domy pochodzące z okolicy, tutaj przeniesione.
+
+236
+00:13:22,559 --> 00:13:27,559
+No ale przecież najważniejsze, jak zawsze w tym programie jest to, co na stole.
+
+237
+00:13:27,559 --> 00:13:29,559
+Mam arcylokalne rzeczy.
+
+238
+00:13:29,559 --> 00:13:32,559
+To są pierogi o nazwie Knysze.
+
+239
+00:13:32,559 --> 00:13:43,559
+Ciasto z mąki, z sody, z maślanki albo kwaśnej śmietany, a w środku farsz z kapusty, kapusty świeżej oraz grzybów.
+
+240
+00:13:43,559 --> 00:13:44,559
+Do tego farsz.
+
+241
+00:13:45,559 --> 00:13:51,559
+Fantastyczny sos śmietanowy, podprawiony niedźwiedzim czosnkiem.
+
+242
+00:13:51,559 --> 00:13:53,559
+To jest rzecz pierwsza.
+
+243
+00:13:53,559 --> 00:13:59,559
+Hryczanyki, wyglądające zupełnie jak kotlety mielone, ale nimi nie są.
+
+244
+00:13:59,559 --> 00:14:02,559
+Bazą kasza gryczana.
+
+245
+00:14:02,559 --> 00:14:04,559
+Może tam być mięso, może go nie być.
+
+246
+00:14:04,559 --> 00:14:06,559
+Do tego sos również.
+
+247
+00:14:06,559 --> 00:14:08,559
+Co jest sosu podstawą?
+
+248
+00:14:08,559 --> 00:14:09,559
+Śmietana.
+
+249
+00:14:09,559 --> 00:14:12,559
+Ale w tej śmietanie mamy mnóstwo grzybów.
+
+250
+00:14:12,559 --> 00:14:14,559
+No i w końcu trzecia rzecz.
+
+251
+00:14:14,559 --> 00:14:15,559
+Fuczki.
+
+252
+00:14:15,559 --> 00:14:17,559
+To wygląda jak placki ziemniaczane.
+
+253
+00:14:17,559 --> 00:14:22,559
+Ale ciasto jest naleśnikowe, a w środku mamy kiszoną kapustę.
+
+254
+00:14:22,559 --> 00:14:26,559
+Nigdzie indziej w reszcie Polski takich cudów, drodzy Państwo, nie podają.
+
+255
+00:14:26,559 --> 00:14:28,559
+Co się do tego daje?
+
+256
+00:14:28,559 --> 00:14:35,559
+No do tego się daje po prostu kleks ze zwykłej, kwaśnej, domowej, wiejskiej śmietany.
+
+257
+00:14:35,559 --> 00:14:38,559
+A kto odpowiada za te cuda?
+
+258
+00:14:38,559 --> 00:14:40,559
+Kto tym wszystkim zawiaduje?
+
+259
+00:14:40,559 --> 00:14:42,559
+Powiedziano mi, że gospodarzy.
+
+260
+00:14:42,559 --> 00:14:47,559
+Najłatwiej spotkać na stacji kolejowej w Uhercach Mineralnych.
+
+261
+00:14:47,559 --> 00:14:53,409
+Fuczki?
+
+262
+00:14:53,409 --> 00:14:56,409
+Przysięgam, nigdy wcześniej tego nie jadłem.
+
+263
+00:14:56,409 --> 00:15:04,710
+Dzień dobry.
+
+264
+00:15:04,710 --> 00:15:05,710
+Poproszę jeden bilet do Jankowiec.
+
+265
+00:15:05,710 --> 00:15:06,710
+Bardzo proszę.
+
+266
+00:15:06,710 --> 00:15:07,710
+Bardzo proszę.
+
+267
+00:15:07,710 --> 00:15:08,710
+Ile to kilometrów daleko?
+
+268
+00:15:08,710 --> 00:15:10,710
+Będzie 12 km z powrotem.
+
+269
+00:15:10,710 --> 00:15:11,710
+Dociągnę?
+
+270
+00:15:11,710 --> 00:15:14,710
+Będzie 6 km w jedną stronę, 6 km z powrotem.
+
+271
+00:15:14,710 --> 00:15:29,129
+Państwo Magda i Janusz Demkowiczowie, czyli ludzie, dla których mało było przyjmowania gości i karmienia.
+
+272
+00:15:29,129 --> 00:15:33,129
+Wymyślili również między innymi takie cudo.
+
+273
+00:15:33,129 --> 00:15:38,129
+Podróż dreżynami dawną koleją austro-węgierską.
+
+274
+00:15:38,129 --> 00:15:41,129
+Mam nadzieję, że tutaj ekspres nie przyjedzie. To jest nieczynne.
+
+275
+00:15:41,129 --> 00:15:43,129
+Tak, linia jest nieczynna.
+
+276
+00:15:43,129 --> 00:15:48,129
+I postanowiliśmy wykorzystać nieczynną już od lat historyczną linię kolejową.
+
+277
+00:15:48,129 --> 00:15:51,129
+Przypomnę, pochodzi z 1872 roku.
+
+278
+00:15:51,129 --> 00:15:53,129
+I wdrożyć na niej nowy projekt.
+
+279
+00:15:53,129 --> 00:15:54,129
+Wieszczadzkie drezyny rowerowe.
+
+280
+00:15:54,129 --> 00:15:58,129
+Ilu macie turystów na tych drezynach i ile tych drezyn?
+
+281
+00:15:58,129 --> 00:16:02,129
+Jesteśmy w tym momencie największą wypożyczalnią drezyn rowerowych w całej Europie.
+
+282
+00:16:02,129 --> 00:16:08,129
+I rzeczywiście temat drezyn rowerowych w Niemczech, we Francji jest bardzo popularny.
+
+283
+00:16:08,129 --> 00:16:11,129
+Tam jest ponad 1300 km takich szlaków.
+
+284
+00:16:11,129 --> 00:16:17,129
+My jesteśmy w tym momencie, mamy 47 km trasy oraz 50 wózków.
+
+285
+00:16:17,129 --> 00:16:22,129
+A, czyli chcieliście być pierwsi w Polsce i od razu najlepsi w całej Europie.
+
+286
+00:16:22,129 --> 00:16:23,129
+Tak się udało.
+
+287
+00:16:23,129 --> 00:16:25,129
+A teraz malutki eksperymencik.
+
+288
+00:16:25,129 --> 00:16:27,129
+Sprawdzimy, czy siła nóg jednego osobisty,
+
+289
+00:16:27,129 --> 00:16:30,129
+czy siła nóg jednego osobnika uciągnie drezynę.
+
+290
+00:16:30,129 --> 00:16:31,129
+Uciąga.
+
+291
+00:16:31,129 --> 00:16:33,129
+Czyli to wcale nie jest wielka męka.
+
+292
+00:16:33,129 --> 00:16:37,129
+Pani Magdo, macie też szkołę rzemiosł.
+
+293
+00:16:37,129 --> 00:16:40,129
+Tak. Wieszczadzka Szkoła Rzemiosła w Buchercach Generalnych.
+
+294
+00:16:40,129 --> 00:16:43,129
+To miejsce, które działa od czerwca.
+
+295
+00:16:43,129 --> 00:16:47,129
+I co tam jest? Kaligrafia, garnizarstwo, lekcje gotowania.
+
+296
+00:16:47,129 --> 00:16:50,129
+Wszystkie te rzeczy, które już niemal giną.
+
+297
+00:16:50,129 --> 00:16:54,129
+Ale być może dzięki tej szkole dłużej się utrzymają.
+
+298
+00:16:54,129 --> 00:16:56,129
+Tak. Chcieliśmy, żeby to był powrót do tych ginących zawodów.
+
+299
+00:16:57,129 --> 00:17:01,129
+Doświadczenie na nowo tego, co było kiedyś na naszym terenie.
+
+300
+00:17:01,129 --> 00:17:07,130
+Proszę Państwa, i tak właśnie powinna wyglądać turystyka kwalifikowana.
+
+301
+00:17:07,130 --> 00:17:12,940
+Genialny pomysł zupełnie.
+
+302
+00:17:12,940 --> 00:17:16,940
+Pozostaję w Buchercach Generalnych i w dalszym ciągu głoszę dobrą nowinę.
+
+303
+00:17:16,940 --> 00:17:24,940
+Otóż ożywczy ruch browarów rzemieślniczych z Anglosaska, zwanych kraftowymi, dotarł i tutaj.
+
+304
+00:17:24,940 --> 00:17:30,940
+W dodatku tym browarem, jako jedynym browarem w Polsce, zawiaduje kobieta.
+
+305
+00:17:30,940 --> 00:17:32,940
+Pani Agnieszka Łopata.
+
+306
+00:17:32,940 --> 00:17:36,940
+Podobnych miejsc na zachodzie Europy widziałem już kilka, ale w Polsce niekoniecznie.
+
+307
+00:17:36,940 --> 00:17:38,940
+Bowiem nie jest to tylko browar.
+
+308
+00:17:38,940 --> 00:17:40,940
+Jest to koncept.
+
+309
+00:17:40,940 --> 00:17:47,940
+Mamy galerie sztuki, mamy sklep, w którym sprzedaje się nie tylko piwo, ale również produkty piwopochodne.
+
+310
+00:17:47,940 --> 00:17:49,940
+Między innymi ocet piwny.
+
+311
+00:17:49,940 --> 00:17:51,940
+Jedyny w Polsce.
+
+312
+00:17:51,940 --> 00:17:53,940
+U nas tego się niemal nie spotyka.
+
+313
+00:17:53,940 --> 00:17:56,940
+To znaczy spotyka się, jak przyjedziecie do Ucherzec.
+
+314
+00:17:56,940 --> 00:17:58,940
+Oprócz tego krówki.
+
+315
+00:17:58,940 --> 00:17:59,940
+Również piwne.
+
+316
+00:17:59,940 --> 00:18:02,940
+W składzie żadnych olejów kokosowych.
+
+317
+00:18:02,940 --> 00:18:04,940
+Masło, mleko, cukier i piwo.
+
+318
+00:18:04,940 --> 00:18:06,940
+A jakie są te krówki?
+
+319
+00:18:06,940 --> 00:18:08,940
+Sami zobaczcie.
+
+320
+00:18:08,940 --> 00:18:25,059
+Co jest najważniejszym wizualnym symbolem Bieszczadów?
+
+321
+00:18:25,059 --> 00:18:30,059
+Według mnie to nie są szlaki turystyczne, wiodące na połoniny.
+
+322
+00:18:30,059 --> 00:18:32,059
+To nie są też restauracje.
+
+323
+00:18:32,059 --> 00:18:34,059
+Choć i one są niezwykle ważne.
+
+324
+00:18:34,059 --> 00:18:40,059
+Mym skromnym zdaniem, esencja bieszczadzkości to jest właśnie coś takiego.
+
+325
+00:18:40,059 --> 00:18:41,059
+A co to jest?
+
+326
+00:18:41,059 --> 00:18:50,059
+No wszyscy wy, którzy grillujecie, czyli pieczecie różne rzeczy nad rozżarzonym węglem drzewnym.
+
+327
+00:18:50,059 --> 00:18:54,059
+Powinniście wiedzieć, jak takowy węgiel powstaje.
+
+328
+00:18:54,059 --> 00:18:56,059
+Tutaj królują węglarze.
+
+329
+00:18:56,059 --> 00:18:59,059
+Tutaj rzeczony węgiel się wytwarza.
+
+330
+00:18:59,059 --> 00:19:07,059
+Drewno liściaste, najlepiej bukowe, układa się bardzo szczelnie w takich piecach, zwanych retortami.
+
+331
+00:19:07,059 --> 00:19:09,059
+Następnie podpala.
+
+332
+00:19:09,059 --> 00:19:10,059
+Drzwi zamyka.
+
+333
+00:19:10,059 --> 00:19:13,059
+A retorty uszczelnia.
+
+334
+00:19:13,059 --> 00:19:17,059
+Chodzi o to, by był tutaj jak najmniejszy dostęp powietrza.
+
+335
+00:19:17,059 --> 00:19:19,059
+Stąd ta ziemia albo też piasek.
+
+336
+00:19:19,059 --> 00:19:22,059
+Ponieważ to drewno nie ma się spalić na popiół.
+
+337
+00:19:22,059 --> 00:19:25,059
+Ono się ma zamienić w węgiel drzewny.
+
+338
+00:19:25,059 --> 00:19:27,059
+Więc powietrza jak najmniej.
+
+339
+00:19:27,059 --> 00:19:29,059
+Dym wydostaje się na zewnątrz.
+
+340
+00:19:29,059 --> 00:19:34,059
+A tym wszystkim opiekuje się niezwykle zwinny pan Zbyszek.
+
+341
+00:19:34,059 --> 00:19:36,059
+Proszę, tu ma pan bukowy węgiel.
+
+342
+00:19:36,059 --> 00:19:38,059
+I widać takie lusterka na tym węglu.
+
+343
+00:19:38,059 --> 00:19:39,059
+Pan sobie widzi.
+
+344
+00:19:39,059 --> 00:19:41,059
+No najszlachetniejszy bukowy.
+
+345
+00:19:41,059 --> 00:19:44,059
+Jeżeli kiedykolwiek pan będzie kupował, proszę rozedrzeć worek.
+
+346
+00:19:44,059 --> 00:19:48,059
+Jeżeli będą takie lusterka, to znaczy, że to jest bukowy.
+
+347
+00:19:48,059 --> 00:19:50,059
+Bo tam tylko nieraz pisze, że bukowy.
+
+348
+00:19:50,059 --> 00:19:51,059
+A często oszupują.
+
+349
+00:19:51,059 --> 00:19:54,059
+Tak, cukier jest cukrem, a się kurzy z niego coś białego.
+
+350
+00:19:54,059 --> 00:19:55,059
+A nie wiem, co to jest.
+
+351
+00:19:55,059 --> 00:19:56,059
+Bukowy jest najlepszy.
+
+352
+00:19:56,059 --> 00:19:57,059
+No podobno.
+
+353
+00:19:57,059 --> 00:19:58,059
+Podobno jest najlepszy.
+
+354
+00:19:58,059 --> 00:20:02,059
+I to się pali 30 godzin, a 48 stygnie.
+
+355
+00:20:02,059 --> 00:20:03,059
+36, tak.
+
+356
+00:20:03,059 --> 00:20:04,059
+36.
+
+357
+00:20:04,059 --> 00:20:07,059
+Kiedyś się zalewało wodą, bo tam była dopuszczalna wilgotność.
+
+358
+00:20:07,059 --> 00:20:08,059
+Obecnie tego nie stosujemy.
+
+359
+00:20:08,059 --> 00:20:14,059
+Pamiętajcie zatem, że węgiel drzewny, a węgiel drzewny, to nie jest to samo.
+
+360
+00:20:14,059 --> 00:20:20,059
+I żądajcie w najlepszych sklepach najlepszego bieszczadzkiego węgla drzewnego.
+
+361
+00:20:20,059 --> 00:20:22,059
+Najlepiej bukowego.
+
+362
+00:20:22,059 --> 00:20:24,059
+I miejcie szacunek dla węglarzy.
+
+363
+00:20:24,059 --> 00:20:27,059
+Węglarzy, czyli karbonariuszy.
+
+364
+00:20:27,059 --> 00:20:33,480
+Jak widzę coś ładnego przy drodze, to się z reguły zatrzymuję.
+
+365
+00:20:33,480 --> 00:20:36,480
+Rzecz jasna, chodzi mi tutaj o restaurację.
+
+366
+00:20:36,480 --> 00:20:40,480
+I muszę powiedzieć, że z reguły instynkt mnie nie zawodzi.
+
+367
+00:20:40,480 --> 00:20:41,480
+Tak jest.
+
+368
+00:20:41,480 --> 00:20:43,480
+W tym wypadku zobaczyłem ładną rzecz.
+
+369
+00:20:43,480 --> 00:20:45,480
+Gościniec w starym siole.
+
+370
+00:20:45,480 --> 00:20:46,480
+No i jestem.
+
+371
+00:20:46,480 --> 00:20:52,480
+Rzeczywiście stare sioło, bo to dawne wiejskie chałupy zaadaptowane na restaurację.
+
+372
+00:20:52,480 --> 00:20:55,480
+Tutaj działający dawny wiejski piec.
+
+373
+00:20:55,480 --> 00:20:56,480
+A co na nim?
+
+374
+00:20:56,480 --> 00:20:58,480
+Miejscowe cuda.
+
+375
+00:20:58,480 --> 00:21:02,480
+Tutaj suszą się grzyby, a tutaj piecze się jagnięcina.
+
+376
+00:21:02,480 --> 00:21:07,480
+Już tylko te dwie rzeczy to wystarczający powód, by tutaj wstąpić.
+
+377
+00:21:07,480 --> 00:21:08,480
+Czy dobre?
+
+378
+00:21:08,480 --> 00:21:09,480
+Zaraz się okaże.
+
+379
+00:21:09,480 --> 00:21:13,750
+Mięsożercy.
+
+380
+00:21:13,750 --> 00:21:17,750
+A ci z reguły jagnięcinę kochają, byliby wniebowzięci.
+
+381
+00:21:17,750 --> 00:21:18,750
+No bo co tu mam?
+
+382
+00:21:18,750 --> 00:21:21,750
+To są jagnięce żeberka.
+
+383
+00:21:21,750 --> 00:21:24,750
+Obok jagnięce klopsiki, zwane kefte.
+
+384
+00:21:24,750 --> 00:21:27,750
+Nie tylko w krajach arabsko, czy też tureckojęzycznych.
+
+385
+00:21:27,750 --> 00:21:29,750
+Takie same robią i w Armenii.
+
+386
+00:21:29,750 --> 00:21:34,750
+Tutaj jagnięce szaszłyki, a to jagnięca kiełbaska.
+
+387
+00:21:34,750 --> 00:21:37,750
+Do tego placek, zwany proziakiem.
+
+388
+00:21:37,750 --> 00:21:41,750
+O zasięgu szerszym niż tylko Bieszczady, ale nie ogólnopolskim.
+
+389
+00:21:41,750 --> 00:21:46,750
+Moim zdaniem na Podkarpaciu takie placki się jedynie w Polsce robi.
+
+390
+00:21:46,750 --> 00:21:52,750
+Jeśli ktoś nie chce mięsa z rusztu, ma mięso duszone.
+
+391
+00:21:52,750 --> 00:21:53,750
+Jakie?
+
+392
+00:21:53,750 --> 00:21:55,750
+Oczywiście jagnięca giczka.
+
+393
+00:21:55,750 --> 00:22:00,750
+Zobaczcie Państwo, delikatnie tylko dotykam tego widelcem i to się rozpada.
+
+394
+00:22:00,750 --> 00:22:03,750
+Jest marcepanowe, mięciutkie.
+
+395
+00:22:03,750 --> 00:22:10,750
+Kluseczki urocze, cudowne, kokietują nas nie tylko sobą, ale również tymi skwarkami.
+
+396
+00:22:10,750 --> 00:22:13,750
+Do tego buraki, buraki marynowane.
+
+397
+00:22:13,750 --> 00:22:17,750
+Tutaj ajwar, czyli pasta z pieczonych papryk i bakłażanów.
+
+398
+00:22:17,750 --> 00:22:22,750
+No ale najważniejsza jest nie teoria, a praktyka.
+
+399
+00:22:22,750 --> 00:22:30,750
+Więc spójrzcie, tak to się rozbiera dłoni, gdyż się w dłoniach rozpada.
+
+400
+00:22:30,750 --> 00:22:32,750
+Nawet niemowlę by sobie z tym poradziło.
+
+401
+00:22:32,750 --> 00:22:44,390
+To jest absolutnie fantastyczna jagnięcina.
+
+402
+00:22:45,390 --> 00:22:50,390
+Młynarski śpiewał, by wszystko rzucić i pojechać w Bieszczady.
+
+403
+00:22:50,390 --> 00:22:57,390
+Trzeba by do tego dopisać nową zwrotkę, by pojechać w Bieszczady na miejscową jagnięcinę.
 
