@@ -26,6 +26,7 @@ Generated using whisper.
 |-|22|uploaded|checked|
 |-|23|uploaded|checked|
 |-|24|uploaded|checked|
-|-|25 and above|uploaded|whisper|
+|-|25|uploaded|checked|
+|-|26 and above|uploaded|whisper|
 
 
